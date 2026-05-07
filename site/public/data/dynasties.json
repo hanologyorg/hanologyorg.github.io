@@ -1,0 +1,137 @@
+{
+  "秦末": {
+    "@id": "dynasty:%E7%A7%A6%E6%9C%AB",
+    "@type": "HistoricalPeriod",
+    "name": "秦末",
+    "authors": [
+      "項羽"
+    ],
+    "poemCount": 1
+  },
+  "漢": {
+    "@id": "dynasty:%E6%BC%A2",
+    "@type": "HistoricalPeriod",
+    "name": "漢",
+    "authors": [
+      "漢樂府",
+      "《古詩十九首》"
+    ],
+    "poemCount": 4
+  },
+  "漢末": {
+    "@id": "dynasty:%E6%BC%A2%E6%9C%AB",
+    "@type": "HistoricalPeriod",
+    "name": "漢末",
+    "authors": [
+      "曹操",
+      "曹植"
+    ],
+    "poemCount": 2
+  },
+  "東晉": {
+    "@id": "dynasty:%E6%9D%B1%E6%99%89",
+    "@type": "HistoricalPeriod",
+    "name": "東晉",
+    "authors": [
+      "陶淵明"
+    ],
+    "poemCount": 2
+  },
+  "南北朝": {
+    "@id": "dynasty:%E5%8D%97%E5%8C%97%E6%9C%9D",
+    "@type": "HistoricalPeriod",
+    "name": "南北朝",
+    "authors": [
+      "北朝民歌"
+    ],
+    "poemCount": 2
+  },
+  "唐": {
+    "@id": "dynasty:%E5%94%90",
+    "@type": "HistoricalPeriod",
+    "name": "唐",
+    "authors": [
+      "虞世南",
+      "駱賓王",
+      "王勃",
+      "賀知章",
+      "張若虛",
+      "王翰",
+      "王之渙",
+      "孟浩然",
+      "王維",
+      "王昌齡",
+      "李白",
+      "崔顥",
+      "杜甫",
+      "張繼",
+      "司空曙",
+      "韋應物",
+      "孟郊",
+      "杜荀鶴",
+      "韓愈",
+      "劉禹錫",
+      "白居易",
+      "李紳",
+      "柳宗元",
+      "賈島",
+      "朱慶餘",
+      "杜秋娘",
+      "杜牧",
+      "李商隱",
+      "曹鄴"
+    ],
+    "poemCount": 58
+  },
+  "宋": {
+    "@id": "dynasty:%E5%AE%8B",
+    "@type": "HistoricalPeriod",
+    "name": "宋",
+    "authors": [
+      "寇準",
+      "歐陽修",
+      "蘇舜欽",
+      "王安石",
+      "蘇軾",
+      "李綱",
+      "楊萬里",
+      "朱熹",
+      "南宋民歌",
+      "林升",
+      "趙師秀",
+      "葉紹翁",
+      "文天祥"
+    ],
+    "poemCount": 24
+  },
+  "元": {
+    "@id": "dynasty:%E5%85%83",
+    "@type": "HistoricalPeriod",
+    "name": "元",
+    "authors": [
+      "王冕"
+    ],
+    "poemCount": 2
+  },
+  "明": {
+    "@id": "dynasty:%E6%98%8E",
+    "@type": "HistoricalPeriod",
+    "name": "明",
+    "authors": [
+      "于謙",
+      "唐寅",
+      "徐渭"
+    ],
+    "poemCount": 3
+  },
+  "清": {
+    "@id": "dynasty:%E6%B8%85",
+    "@type": "HistoricalPeriod",
+    "name": "清",
+    "authors": [
+      "鄭燮",
+      "高鼎"
+    ],
+    "poemCount": 2
+  }
+}
