@@ -186,7 +186,25 @@ Rules:
 - `lang:yue` for Cantonese, `lang:cmn` for Mandarin.
 - The pronunciation values go inside `[]`. Use `；` (full-width semicolon) to separate the homophone from Jyutping.
 
-### 5.4 Bracket Rules
+### 5.4 Pronunciation Normalization
+
+- **Pinyin values must use standard Latin characters.** Replace IPA characters with their ASCII equivalents:
+  - `ɑ` (U+0251) → `a` (U+0061)
+  - `ɡ` (U+0261) → `g` (U+0067)
+  - Bad: `[chɑ́nɡ]` — Good: `[cháng]`
+  - Bad: `[ɡuɑ̀n]` — Good: `[guàn]`
+- **Tone marks use combining diacritics** on standard vowels: `ā á ǎ à`, `ē é ě è`, `ī í ǐ ì`, `ō ó ǒ ò`, `ū ú ǔ ù`, `ǖ ǘ ǚ ǜ`.
+- **Every `pron type:hom` should be paired with `pron type:pinyin`** (and vice versa) when the source provides both Cantonese and Mandarin readings. If only one is available, include only that one.
+- **Every marker with `pron` entries should also have a `meaning` entry.** A pronunciation-only marker leaves the reader without a definition.
+
+### 5.5 Empty Definitions
+
+- **Do not leave empty definitions.** The pattern `字：。` (character followed by colon and period with no explanation) is incomplete. If the source provides a character heading but no definition, either:
+  - Find the definition from context and fill it in, or
+  - Remove the annotation marker from the body text entirely.
+- If a marker genuinely needs no definition (e.g., a pure pronunciation note), include a brief meaning like `{N} meaning [同音字標注。]`.
+
+### 5.6 Bracket Rules
 
 1. **Every `[` must have a matching `]`.** Unbalanced brackets cause the parser to enter multi-line mode or fail.
 2. **No nested `[]` inside annotation values.** If the definition text contains brackets, use full-width `（ ）` instead. Example:
@@ -206,7 +224,7 @@ Rules:
    {2} meaning [得到。]
    ```
 
-### 5.5 Entry Spacing
+### 5.7 Entry Spacing
 
 - Place a blank line between annotation entries for readability.
 - Do not place blank lines between `pron` and `meaning` entries for the same marker — keep them grouped:
@@ -219,7 +237,7 @@ Rules:
 {7} meaning [快要下山的太陽。]
 ```
 
-### 5.6 Empty Annotations
+### 5.8 Empty Annotations
 
 If a piece has no annotations (e.g., modern prose like 背影), include an empty annotation section:
 
@@ -267,6 +285,46 @@ When extracting from PDF source material:
 | `background.md` | no | yes | yes |
 | `analysis.md` | yes (簡析) | yes (賞析重點) | yes |
 
+### 7.3 Paragraph Formatting
+
+**Strict rule: do not alter text content — only fix formatting.**
+
+- Each paragraph must be a single line of text. Remove hard line breaks (join continuation lines within the same paragraph).
+- Separate paragraphs with exactly one blank line.
+- Do not add, remove, or modify any characters, punctuation, or wording.
+
+Example — before cleanup (hard-wrapped from PDF extraction):
+```
+這是一曲末路英雄的悲歌。項羽在八年的領兵生涯中，所向披靡，身經大小
+七十餘戰，未嘗敗北，尤其是與劉邦的爭霸天下，劉邦每戰皆敗，自己卻屢戰屢
+勝，但如今被圍在垓下，耳聞四面楚歌，面臨一敗塗地的局面，就連愛妾虞姬亦
+且不保，憤慨之情難以抑制，深深覺得命運弄人。
+「力拔山兮氣蓋世」，項羽不僅自誇力氣大，足可以拔山，也自負有叱吒風雲，
+逐鹿中原的蓋世才幹，但這一切都已成為過去。
+```
+
+After cleanup:
+```
+這是一曲末路英雄的悲歌。項羽在八年的領兵生涯中，所向披靡，身經大小七十餘戰，未嘗敗北，尤其是與劉邦的爭霸天下，劉邦每戰皆敗，自己卻屢戰屢勝，但如今被圍在垓下，耳聞四面楚歌，面臨一敗塗地的局面，就連愛妾虞姬亦且不保，憤慨之情難以抑制，深深覺得命運弄人。
+
+「力拔山兮氣蓋世」，項羽不僅自誇力氣大，足可以拔山，也自負有叱吒風雲，逐鹿中原的蓋世才幹，但這一切都已成為過去。
+```
+
+### 7.4 Footnote Number Removal
+
+Remove stray footnote numbers that appear after punctuation:
+
+- Remove: `。1` → `。`, `？2` → `？`, `﹖3` → `﹖` (isolated Arabic digits after sentence-ending punctuation)
+- Remove: digits at the end of text that are clearly footnote references, not content
+
+**Keep** the following:
+- Years: `(1278)`, `公元前 770 年`
+- Quantities: `三章`, `八個`, `四首`
+- Section references: `第三章第二節`
+- Any semantically meaningful number
+
+Pattern: only remove isolated Arabic digits immediately following sentence-ending punctuation (`。！？﹖；`).
+
 ---
 
 ## 8. Validation Checklist
@@ -282,15 +340,25 @@ Before submitting a CHAM folder, verify:
 - [ ] Every `{N}` in the body has a matching `{/N}`
 - [ ] Every marker ID in the body has at least one annotation entry
 - [ ] Every annotation entry targeting `{N}` references a marker that exists in the body
+- [ ] Marker numbering is sequential (no gaps without justification)
 
 ### Bracket Balance
 - [ ] Every `[` in the annotations section has a matching `]`
 - [ ] No nested `[]` in annotation values (use `（ ）` instead)
+- [ ] No raw pronunciation notation inside `meaning` values (`○粵[...]`)
+
+### Pronunciation
+- [ ] Pinyin values use standard Latin characters (no IPA `ɑ`, `ɡ`)
+- [ ] `pron type:hom` entries are paired with `pron type:pinyin` where source provides both
+- [ ] Markers with `pron` also have `meaning` entries
 
 ### Content Integrity
 - [ ] Body text matches the source exactly (no character changes)
 - [ ] No page artifacts remain (headers, page numbers, PAGE BREAK markers)
+- [ ] No stray footnote digits after punctuation (`。1`, `？2`)
 - [ ] No editorial sections in the body (想一想, 活動)
+- [ ] No empty definitions (`字：。`)
+- [ ] No dual annotation systems (old-style + CHAM coexisting)
 
 ### Formatting
 - [ ] Prose: no hard line breaks within paragraphs
@@ -298,10 +366,22 @@ Before submitting a CHAM folder, verify:
 - [ ] Annotation entries separated by blank lines
 - [ ] `pron` entries grouped with their `meaning` entry
 
+### Frontmatter
+- [ ] YAML frontmatter is complete (id, title, contributors, date, genre)
+- [ ] `date.dynasty` is present and correct (not empty)
+- [ ] `genre` field is present (or inherited from `book.yaml`)
+- [ ] All `ref` values in `contributors` exist in `data/authors.yaml`
+
 ### File Structure
 - [ ] `text.cham.md` exists
-- [ ] YAML frontmatter is complete (id, title, contributors, date, genre)
+- [ ] `book.yaml` exists at collection root
 - [ ] Directory name uses full-width `（ ）` for parentheses
+- [ ] Prose files have proper paragraph separation (no single-line dumps)
+
+### Cross-Reference
+- [ ] Author refs (A-IDs) have entries in `authors.yaml`
+- [ ] Author names are correct (not sentence fragments)
+- [ ] Dynasty values in authors are historically accurate
 
 ---
 
@@ -366,7 +446,69 @@ title: 背影
 ## 注釋
 ```
 
-### 9.5 Inconsistent Marker Phrasing
+### 9.5 IPA Characters in Pinyin
+
+Bad:
+```
+{19} pron type:pinyin lang:cmn [chɑ́nɡ]
+{39} pron type:pinyin lang:cmn [ɡuɑ̀n]
+```
+
+Good:
+```
+{19} pron type:pinyin lang:cmn [cháng]
+{39} pron type:pinyin lang:cmn [guàn]
+```
+
+### 9.6 Empty Definitions
+
+Bad:
+```
+{5} meaning [甸：。古時稱郊外的地方。]
+```
+
+The `甸：。` is an empty character heading. Either provide the definition or remove the marker.
+
+Good:
+```
+{5} meaning [甸：郊外。古時稱郊外的地方。]
+```
+
+### 9.7 Stray Footnote Digits
+
+Bad:
+```
+辨我是雄雌﹖1
+```
+
+Good:
+```
+辨我是雄雌﹖
+```
+
+### 9.8 Dual Annotation Systems
+
+Bad — file contains both old-style numbered list AND CHAM `## 注釋`:
+```
+一、注釋
+1. 騅：項羽的馬名。
+2. 奈何：怎麼辦。
+
+## 注釋
+
+{1} meaning [項羽的馬名。]
+{2} meaning [怎麼辦。]
+```
+
+Good — only CHAM annotations:
+```
+## 注釋
+
+{1} meaning [騅：項羽的馬名。]
+{2} meaning [奈何：怎麼辦。]
+```
+
+### 9.9 Inconsistent Marker Phrasing
 
 When the source has annotation number 6 next to "羸病", make sure the marker wraps the correct text. Don't guess — cross-reference the annotation definition with the body text.
 
@@ -462,3 +604,90 @@ genre: prose
 
 ## 注釋
 ```
+
+---
+
+## 12. Author Reference Integrity
+
+### 12.1 Reference Validation
+
+- Every `ref` value in `contributors` (e.g., `A189`) must have a corresponding entry in `data/authors.yaml`.
+- Every author entry in `authors.yaml` must have `name` (Chinese) and `dynasty` fields.
+- The `name` field must be a proper author name, not a sentence fragment (e.g., not `本文節錄自劉義慶`).
+
+### 12.2 ID Allocation
+
+- Author IDs (`A001`–`A999`, `C001`–`C999`) are sequential and permanent. Once assigned, never reuse or change.
+- When adding new collections, check the highest existing ID before allocating new ones.
+- Avoid creating duplicate entries: before adding a new author, check if that person already exists under a different ID.
+
+### 12.3 Dynasty Accuracy
+
+- The `dynasty` field in author entries must be historically correct. Common errors:
+  - Confucius → 周 (not 唐)
+  - Guan Hanqing → 元 (not 宋)
+  - Zhu Yizun → 清 (not 宋)
+  - Book of Changes → 周 (not 宋)
+
+---
+
+## 13. Subordinate File Consistency
+
+### 13.1 Required Fields
+
+Every subordinate `.cham.md` file (files with a `base` field) must include:
+
+| Field | Required | Example |
+|-------|----------|---------|
+| `base` | yes | `text.cham.md` |
+| `contributor` | yes | `A010` or `C001` |
+| `role` | yes | `annotator`, `commentator`, `translator` |
+| `nature` | yes | `commentary`, `translation`, `annotation`, `exegesis`, `notes` |
+
+### 13.2 Marker Coverage
+
+- Subordinate files reference the same marker table as the main file.
+- Every `{N}` in a subordinate file's annotations must exist in the main file's body.
+- It is acceptable for a subordinate file to annotate only a subset of the main file's markers.
+
+---
+
+## 14. Collection-Level Consistency
+
+### 14.1 book.yaml Requirements
+
+- Every collection directory must contain a `book.yaml` with at minimum: `id`, `title`, `genre`.
+- The `id` must be unique across all collections.
+- `contributors`, `date`, and `genre` in `book.yaml` are inherited by pieces that omit them.
+
+### 14.2 Cross-Collection Standards
+
+- All collections within the same library should use consistent frontmatter field names and structures.
+- Subordinate files should use the same `type: secondary` convention (or omit it consistently).
+- `date` and `source` fields, if used in one collection, should be used in all collections of similar type.
+
+---
+
+## 15. Common Audit Findings
+
+The following issues have been found across the library and should be checked during quality review:
+
+### 15.1 Stray Footnote Digits in Body Text
+
+Footnote reference numbers from PDF extraction sometimes remain in the body text or annotation values. Check for isolated digits after punctuation: `。1`, `？2`, `，3`.
+
+### 15.2 Dual Annotation Systems
+
+Some files retain both old-style numbered annotations (e.g., `一、注釋` with numbered list) and CHAM `## 注釋`. The old-style annotations must be removed entirely — they should not coexist with CHAM annotations.
+
+### 15.3 Missing `genre` Field
+
+Every `text.cham.md` must have a `genre` field (either in its own frontmatter or inherited from `book.yaml`). Common omission: poetry files in collections where only prose files have explicit `genre`.
+
+### 15.4 Empty `dynasty` Field
+
+The `date.dynasty` field must have a value. An empty `dynasty:` is incomplete — research the correct dynasty for the author.
+
+### 15.5 Non-Sequential Marker Numbering
+
+While not a correctness error, gaps in marker numbering (e.g., using {1}, {3} without {2}) usually indicate a mistake during conversion. Verify that gaps are intentional.

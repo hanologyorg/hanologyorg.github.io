@@ -3,7 +3,6 @@
     "id": "skqs-difan",
     "title": "帝範",
     "subtitle": "四庫全書本",
-    "titleEn": "The Imperial Model (Siku Quanshu Edition)",
     "genre": "prose",
     "count": 14
   },
@@ -14,7 +13,7 @@
       "title": "提要",
       "author": "唐太宗",
       "authorId": "唐太宗",
-      "dynasty": "",
+      "dynasty": "唐",
       "genre": "prose",
       "verses": [
         {
@@ -134,7 +133,7 @@
       "title": "帝範序",
       "author": "唐太宗",
       "authorId": "唐太宗",
-      "dynasty": "",
+      "dynasty": "唐",
       "genre": "prose",
       "verses": [
         {
@@ -794,7 +793,7 @@
       "title": "君體第一",
       "author": "唐太宗",
       "authorId": "唐太宗",
-      "dynasty": "",
+      "dynasty": "唐",
       "genre": "prose",
       "verses": [
         {
@@ -1077,7 +1076,7 @@
       "title": "建親第二",
       "author": "唐太宗",
       "authorId": "唐太宗",
-      "dynasty": "",
+      "dynasty": "唐",
       "genre": "prose",
       "verses": [
         {
@@ -1828,7 +1827,7 @@
       "title": "求賢第三",
       "author": "唐太宗",
       "authorId": "唐太宗",
-      "dynasty": "",
+      "dynasty": "唐",
       "genre": "prose",
       "verses": [
         {
@@ -2267,7 +2266,7 @@
       "title": "審官第四",
       "author": "唐太宗",
       "authorId": "唐太宗",
-      "dynasty": "",
+      "dynasty": "唐",
       "genre": "prose",
       "verses": [
         {
@@ -2810,7 +2809,7 @@
       "title": "納諫第五",
       "author": "唐太宗",
       "authorId": "唐太宗",
-      "dynasty": "",
+      "dynasty": "唐",
       "genre": "prose",
       "verses": [
         {
@@ -3132,7 +3131,7 @@
       "title": "去䜛第六",
       "author": "唐太宗",
       "authorId": "唐太宗",
-      "dynasty": "",
+      "dynasty": "唐",
       "genre": "prose",
       "verses": [
         {
@@ -3587,7 +3586,7 @@
       "title": "誡盈第七",
       "author": "唐太宗",
       "authorId": "唐太宗",
-      "dynasty": "",
+      "dynasty": "唐",
       "genre": "prose",
       "verses": [
         {
@@ -3935,7 +3934,7 @@
       "title": "崇儉第八",
       "author": "唐太宗",
       "authorId": "唐太宗",
-      "dynasty": "",
+      "dynasty": "唐",
       "genre": "prose",
       "verses": [
         {
@@ -4335,7 +4334,7 @@
       "title": "賞罰第九",
       "author": "唐太宗",
       "authorId": "唐太宗",
-      "dynasty": "",
+      "dynasty": "唐",
       "genre": "prose",
       "verses": [
         {
@@ -4579,7 +4578,7 @@
       "title": "務農第十",
       "author": "唐太宗",
       "authorId": "唐太宗",
-      "dynasty": "",
+      "dynasty": "唐",
       "genre": "prose",
       "verses": [
         {
@@ -5096,7 +5095,7 @@
       "title": "閱武第十一",
       "author": "唐太宗",
       "authorId": "唐太宗",
-      "dynasty": "",
+      "dynasty": "唐",
       "genre": "prose",
       "verses": [
         {
@@ -5301,7 +5300,7 @@
       "title": "崇文第十二",
       "author": "唐太宗",
       "authorId": "唐太宗",
-      "dynasty": "",
+      "dynasty": "唐",
       "genre": "prose",
       "verses": [
         {

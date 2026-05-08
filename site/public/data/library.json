@@ -114,9 +114,50 @@
       "id": "skqs-difan",
       "title": "帝範",
       "subtitle": "四庫全書本",
-      "titleEn": "The Imperial Model (Siku Quanshu Edition)",
       "genre": "prose",
       "count": 14
+    },
+    {
+      "id": "skqs-dixue",
+      "title": "帝學",
+      "subtitle": "四庫全書本",
+      "genre": "prose",
+      "count": 21
+    },
+    {
+      "id": "skqs-guiguzi",
+      "title": "鬼谷子",
+      "subtitle": "四庫全書本",
+      "genre": "prose",
+      "count": 1
+    },
+    {
+      "id": "skqs-mengzi-zhushu",
+      "title": "孟子注疏",
+      "subtitle": "四庫全書本",
+      "genre": "prose",
+      "count": 76
+    },
+    {
+      "id": "skqs-wenzi",
+      "title": "文子",
+      "subtitle": "四庫全書本",
+      "genre": "prose",
+      "count": 23
+    },
+    {
+      "id": "skqs-yantielun",
+      "title": "鹽鐵論",
+      "subtitle": "四庫全書本",
+      "genre": "prose",
+      "count": 63
+    },
+    {
+      "id": "skqs-yinwenzi",
+      "title": "尹文子",
+      "subtitle": "四庫全書本",
+      "genre": "prose",
+      "count": 2
     }
   ],
   "crossRefs": [
