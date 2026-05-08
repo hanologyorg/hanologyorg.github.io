@@ -1,0 +1,1 @@
+/Users/mulgogi/src/chinese/primary/resources/culture/20-習慣說/text.md

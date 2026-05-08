@@ -1,0 +1,1 @@
+/Users/mulgogi/src/chinese/primary/resources/secondary/127-滕王閣序/text.md

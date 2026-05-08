@@ -1,0 +1,4529 @@
+[
+  {
+    "id": "primary-001-垓下歌",
+    "title": "垓下歌",
+    "category": "primary",
+    "series": "積累與感興",
+    "source": "resources/primary/001-垓下歌",
+    "files": [
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "primary-002-江南",
+    "title": "江南",
+    "category": "primary",
+    "series": "積累與感興",
+    "source": "resources/primary/002-江南",
+    "files": [
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "primary-003-長歌行",
+    "title": "長歌行",
+    "category": "primary",
+    "series": "積累與感興",
+    "source": "resources/primary/003-長歌行",
+    "files": [
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "primary-004-十五從軍征",
+    "title": "十五從軍征",
+    "category": "primary",
+    "series": "積累與感興",
+    "source": "resources/primary/004-十五從軍征",
+    "files": [
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "primary-005-庭中有奇樹",
+    "title": "庭中有奇樹",
+    "category": "primary",
+    "series": "積累與感興",
+    "source": "resources/primary/005-庭中有奇樹",
+    "files": [
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "primary-006-短歌行",
+    "title": "短歌行",
+    "category": "primary",
+    "series": "積累與感興",
+    "source": "resources/primary/006-短歌行",
+    "files": [
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "primary-007-七步詩",
+    "title": "七步詩",
+    "category": "primary",
+    "series": "積累與感興",
+    "source": "resources/primary/007-七步詩",
+    "files": [
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "primary-008-歸園田居_其三",
+    "title": "歸園田居（其三）",
+    "category": "primary",
+    "series": "積累與感興",
+    "source": "resources/primary/008-歸園田居_其三",
+    "files": [
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "primary-009-雜詩_其一",
+    "title": "雜詩（其一）",
+    "category": "primary",
+    "series": "積累與感興",
+    "source": "resources/primary/009-雜詩_其一",
+    "files": [
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "primary-010-敕勒歌",
+    "title": "敕勒歌",
+    "category": "primary",
+    "series": "積累與感興",
+    "source": "resources/primary/010-敕勒歌",
+    "files": [
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "primary-011-木蘭詩",
+    "title": "木蘭詩",
+    "category": "primary",
+    "series": "積累與感興",
+    "source": "resources/primary/011-木蘭詩",
+    "files": [
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "primary-012-詠螢",
+    "title": "詠螢",
+    "category": "primary",
+    "series": "積累與感興",
+    "source": "resources/primary/012-詠螢",
+    "files": [
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "primary-013-詠鵝",
+    "title": "詠鵝",
+    "category": "primary",
+    "series": "積累與感興",
+    "source": "resources/primary/013-詠鵝",
+    "files": [
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "primary-014-送杜少府之任蜀州",
+    "title": "送杜少府之任蜀州",
+    "category": "primary",
+    "series": "積累與感興",
+    "source": "resources/primary/014-送杜少府之任蜀州",
+    "files": [
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "primary-015-詠柳",
+    "title": "詠柳",
+    "category": "primary",
+    "series": "積累與感興",
+    "source": "resources/primary/015-詠柳",
+    "files": [
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "primary-016-回鄉偶書",
+    "title": "回鄉偶書",
+    "category": "primary",
+    "series": "積累與感興",
+    "source": "resources/primary/016-回鄉偶書",
+    "files": [
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "primary-017-春江花月夜",
+    "title": "春江花月夜",
+    "category": "primary",
+    "series": "積累與感興",
+    "source": "resources/primary/017-春江花月夜",
+    "files": [
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "primary-018-涼州詞",
+    "title": "涼州詞",
+    "category": "primary",
+    "series": "積累與感興",
+    "source": "resources/primary/018-涼州詞",
+    "files": [
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "primary-019-涼州詞",
+    "title": "涼州詞",
+    "category": "primary",
+    "series": "積累與感興",
+    "source": "resources/primary/019-涼州詞",
+    "files": [
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "primary-020-登鸛鵲樓",
+    "title": "登鸛鵲樓",
+    "category": "primary",
+    "series": "積累與感興",
+    "source": "resources/primary/020-登鸛鵲樓",
+    "files": [
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "primary-021-春曉",
+    "title": "春曉",
+    "category": "primary",
+    "series": "積累與感興",
+    "source": "resources/primary/021-春曉",
+    "files": [
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "primary-022-九月九日憶山東兄弟",
+    "title": "九月九日憶山東兄弟",
+    "category": "primary",
+    "series": "積累與感興",
+    "source": "resources/primary/022-九月九日憶山東兄弟",
+    "files": [
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "primary-023-相思",
+    "title": "相思",
+    "category": "primary",
+    "series": "積累與感興",
+    "source": "resources/primary/023-相思",
+    "files": [
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "primary-024-送元二使安西",
+    "title": "送元二使安西",
+    "category": "primary",
+    "series": "積累與感興",
+    "source": "resources/primary/024-送元二使安西",
+    "files": [
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "primary-025-送別",
+    "title": "送別",
+    "category": "primary",
+    "series": "積累與感興",
+    "source": "resources/primary/025-送別",
+    "files": [
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "primary-026-山中送別",
+    "title": "山中送別",
+    "category": "primary",
+    "series": "積累與感興",
+    "source": "resources/primary/026-山中送別",
+    "files": [
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "primary-027-鹿柴",
+    "title": "鹿柴",
+    "category": "primary",
+    "series": "積累與感興",
+    "source": "resources/primary/027-鹿柴",
+    "files": [
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "primary-028-竹里館",
+    "title": "竹里館",
+    "category": "primary",
+    "series": "積累與感興",
+    "source": "resources/primary/028-竹里館",
+    "files": [
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "primary-029-閨怨",
+    "title": "閨怨",
+    "category": "primary",
+    "series": "積累與感興",
+    "source": "resources/primary/029-閨怨",
+    "files": [
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "primary-030-出塞",
+    "title": "出塞",
+    "category": "primary",
+    "series": "積累與感興",
+    "source": "resources/primary/030-出塞",
+    "files": [
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "primary-031-靜夜思",
+    "title": "靜夜思",
+    "category": "primary",
+    "series": "積累與感興",
+    "source": "resources/primary/031-靜夜思",
+    "files": [
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "primary-032-送友人",
+    "title": "送友人",
+    "category": "primary",
+    "series": "積累與感興",
+    "source": "resources/primary/032-送友人",
+    "files": [
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "primary-033-黃鶴樓送孟浩然之廣陵",
+    "title": "黃鶴樓送孟浩然之廣陵",
+    "category": "primary",
+    "series": "積累與感興",
+    "source": "resources/primary/033-黃鶴樓送孟浩然之廣陵",
+    "files": [
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "primary-034-望廬山瀑布",
+    "title": "望廬山瀑布",
+    "category": "primary",
+    "series": "積累與感興",
+    "source": "resources/primary/034-望廬山瀑布",
+    "files": [
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "primary-035-秋浦歌",
+    "title": "秋浦歌",
+    "category": "primary",
+    "series": "積累與感興",
+    "source": "resources/primary/035-秋浦歌",
+    "files": [
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "primary-036-獨坐敬亭山",
+    "title": "獨坐敬亭山",
+    "category": "primary",
+    "series": "積累與感興",
+    "source": "resources/primary/036-獨坐敬亭山",
+    "files": [
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "primary-037-贈汪倫",
+    "title": "贈汪倫",
+    "category": "primary",
+    "series": "積累與感興",
+    "source": "resources/primary/037-贈汪倫",
+    "files": [
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "primary-038-早發白帝城",
+    "title": "早發白帝城",
+    "category": "primary",
+    "series": "積累與感興",
+    "source": "resources/primary/038-早發白帝城",
+    "files": [
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "primary-039-黃鶴樓",
+    "title": "黃鶴樓",
+    "category": "primary",
+    "series": "積累與感興",
+    "source": "resources/primary/039-黃鶴樓",
+    "files": [
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "primary-040-兵車行",
+    "title": "兵車行",
+    "category": "primary",
+    "series": "積累與感興",
+    "source": "resources/primary/040-兵車行",
+    "files": [
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "primary-041-春望",
+    "title": "春望",
+    "category": "primary",
+    "series": "積累與感興",
+    "source": "resources/primary/041-春望",
+    "files": [
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "primary-042-客至",
+    "title": "客至",
+    "category": "primary",
+    "series": "積累與感興",
+    "source": "resources/primary/042-客至",
+    "files": [
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "primary-043-絕句",
+    "title": "絕句",
+    "category": "primary",
+    "series": "積累與感興",
+    "source": "resources/primary/043-絕句",
+    "files": [
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "primary-044-月夜",
+    "title": "月夜",
+    "category": "primary",
+    "series": "積累與感興",
+    "source": "resources/primary/044-月夜",
+    "files": [
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "primary-045-楓橋夜泊",
+    "title": "楓橋夜泊",
+    "category": "primary",
+    "series": "積累與感興",
+    "source": "resources/primary/045-楓橋夜泊",
+    "files": [
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "primary-046-江村即事",
+    "title": "江村即事",
+    "category": "primary",
+    "series": "積累與感興",
+    "source": "resources/primary/046-江村即事",
+    "files": [
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "primary-047-滁州西澗",
+    "title": "滁州西澗",
+    "category": "primary",
+    "series": "積累與感興",
+    "source": "resources/primary/047-滁州西澗",
+    "files": [
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "primary-048-遊子吟",
+    "title": "遊子吟",
+    "category": "primary",
+    "series": "積累與感興",
+    "source": "resources/primary/048-遊子吟",
+    "files": [
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "primary-049-小松",
+    "title": "小松",
+    "category": "primary",
+    "series": "積累與感興",
+    "source": "resources/primary/049-小松",
+    "files": [
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "primary-050-初春小雨",
+    "title": "初春小雨",
+    "category": "primary",
+    "series": "積累與感興",
+    "source": "resources/primary/050-初春小雨",
+    "files": [
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "primary-051-竹枝詞_其一",
+    "title": "竹枝詞（其一）",
+    "category": "primary",
+    "series": "積累與感興",
+    "source": "resources/primary/051-竹枝詞_其一",
+    "files": [
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "primary-052-烏衣巷",
+    "title": "烏衣巷",
+    "category": "primary",
+    "series": "積累與感興",
+    "source": "resources/primary/052-烏衣巷",
+    "files": [
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "primary-053-賦得古原草送別",
+    "title": "賦得古原草送別",
+    "category": "primary",
+    "series": "積累與感興",
+    "source": "resources/primary/053-賦得古原草送別",
+    "files": [
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "primary-054-暮江吟",
+    "title": "暮江吟",
+    "category": "primary",
+    "series": "積累與感興",
+    "source": "resources/primary/054-暮江吟",
+    "files": [
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "primary-055-問劉十九",
+    "title": "問劉十九",
+    "category": "primary",
+    "series": "積累與感興",
+    "source": "resources/primary/055-問劉十九",
+    "files": [
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "primary-056-憫農_其二",
+    "title": "憫農（其二）",
+    "category": "primary",
+    "series": "積累與感興",
+    "source": "resources/primary/056-憫農_其二",
+    "files": [
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "primary-057-江雪",
+    "title": "江雪",
+    "category": "primary",
+    "series": "積累與感興",
+    "source": "resources/primary/057-江雪",
+    "files": [
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "primary-058-尋隱者不遇",
+    "title": "尋隱者不遇",
+    "category": "primary",
+    "series": "積累與感興",
+    "source": "resources/primary/058-尋隱者不遇",
+    "files": [
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "primary-059-近試上張籍水部",
+    "title": "近試上張籍水部",
+    "category": "primary",
+    "series": "積累與感興",
+    "source": "resources/primary/059-近試上張籍水部",
+    "files": [
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "primary-060-金縷衣",
+    "title": "金縷衣",
+    "category": "primary",
+    "series": "積累與感興",
+    "source": "resources/primary/060-金縷衣",
+    "files": [
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "primary-061-贈別",
+    "title": "贈別",
+    "category": "primary",
+    "series": "積累與感興",
+    "source": "resources/primary/061-贈別",
+    "files": [
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "primary-062-泊秦淮",
+    "title": "泊秦淮",
+    "category": "primary",
+    "series": "積累與感興",
+    "source": "resources/primary/062-泊秦淮",
+    "files": [
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "primary-063-山行",
+    "title": "山行",
+    "category": "primary",
+    "series": "積累與感興",
+    "source": "resources/primary/063-山行",
+    "files": [
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "primary-064-清明",
+    "title": "清明",
+    "category": "primary",
+    "series": "積累與感興",
+    "source": "resources/primary/064-清明",
+    "files": [
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "primary-065-江南春",
+    "title": "江南春",
+    "category": "primary",
+    "series": "積累與感興",
+    "source": "resources/primary/065-江南春",
+    "files": [
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "primary-066-秋夕",
+    "title": "秋夕",
+    "category": "primary",
+    "series": "積累與感興",
+    "source": "resources/primary/066-秋夕",
+    "files": [
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "primary-067-登樂遊原",
+    "title": "登樂遊原",
+    "category": "primary",
+    "series": "積累與感興",
+    "source": "resources/primary/067-登樂遊原",
+    "files": [
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "primary-068-夜雨寄北",
+    "title": "夜雨寄北",
+    "category": "primary",
+    "series": "積累與感興",
+    "source": "resources/primary/068-夜雨寄北",
+    "files": [
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "primary-069-官倉鼠",
+    "title": "官倉鼠",
+    "category": "primary",
+    "series": "積累與感興",
+    "source": "resources/primary/069-官倉鼠",
+    "files": [
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "primary-070-華山",
+    "title": "華山",
+    "category": "primary",
+    "series": "積累與感興",
+    "source": "resources/primary/070-華山",
+    "files": [
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "primary-071-畫眉鳥",
+    "title": "畫眉鳥",
+    "category": "primary",
+    "series": "積累與感興",
+    "source": "resources/primary/071-畫眉鳥",
+    "files": [
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "primary-072-淮中晚泊犢頭",
+    "title": "淮中晚泊犢頭",
+    "category": "primary",
+    "series": "積累與感興",
+    "source": "resources/primary/072-淮中晚泊犢頭",
+    "files": [
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "primary-073-梅花",
+    "title": "梅花",
+    "category": "primary",
+    "series": "積累與感興",
+    "source": "resources/primary/073-梅花",
+    "files": [
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "primary-074-元日",
+    "title": "元日",
+    "category": "primary",
+    "series": "積累與感興",
+    "source": "resources/primary/074-元日",
+    "files": [
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "primary-075-登飛來峰",
+    "title": "登飛來峰",
+    "category": "primary",
+    "series": "積累與感興",
+    "source": "resources/primary/075-登飛來峰",
+    "files": [
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "primary-076-泊船瓜洲",
+    "title": "泊船瓜洲",
+    "category": "primary",
+    "series": "積累與感興",
+    "source": "resources/primary/076-泊船瓜洲",
+    "files": [
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "primary-077-書湖陰先生壁",
+    "title": "書湖陰先生壁",
+    "category": "primary",
+    "series": "積累與感興",
+    "source": "resources/primary/077-書湖陰先生壁",
+    "files": [
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "primary-078-飲湖上初晴後雨",
+    "title": "飲湖上初晴後雨",
+    "category": "primary",
+    "series": "積累與感興",
+    "source": "resources/primary/078-飲湖上初晴後雨",
+    "files": [
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "primary-079-題西林壁",
+    "title": "題西林壁",
+    "category": "primary",
+    "series": "積累與感興",
+    "source": "resources/primary/079-題西林壁",
+    "files": [
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "primary-080-惠崇春江晚景",
+    "title": "惠崇春江晚景",
+    "category": "primary",
+    "series": "積累與感興",
+    "source": "resources/primary/080-惠崇春江晚景",
+    "files": [
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "primary-081-花影",
+    "title": "花影",
+    "category": "primary",
+    "series": "積累與感興",
+    "source": "resources/primary/081-花影",
+    "files": [
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "primary-082-贈劉景文",
+    "title": "贈劉景文",
+    "category": "primary",
+    "series": "積累與感興",
+    "source": "resources/primary/082-贈劉景文",
+    "files": [
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "primary-083-病牛",
+    "title": "病牛",
+    "category": "primary",
+    "series": "積累與感興",
+    "source": "resources/primary/083-病牛",
+    "files": [
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "primary-084-曉出淨慈寺送林子方",
+    "title": "曉出淨慈寺送林子方",
+    "category": "primary",
+    "series": "積累與感興",
+    "source": "resources/primary/084-曉出淨慈寺送林子方",
+    "files": [
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "primary-085-小池",
+    "title": "小池",
+    "category": "primary",
+    "series": "積累與感興",
+    "source": "resources/primary/085-小池",
+    "files": [
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "primary-086-宿新市徐公店",
+    "title": "宿新市徐公店",
+    "category": "primary",
+    "series": "積累與感興",
+    "source": "resources/primary/086-宿新市徐公店",
+    "files": [
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "primary-087-觀書有感",
+    "title": "觀書有感",
+    "category": "primary",
+    "series": "積累與感興",
+    "source": "resources/primary/087-觀書有感",
+    "files": [
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "primary-088-春日",
+    "title": "春日",
+    "category": "primary",
+    "series": "積累與感興",
+    "source": "resources/primary/088-春日",
+    "files": [
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "primary-089-月兒彎彎照九州",
+    "title": "月兒彎彎照九州",
+    "category": "primary",
+    "series": "積累與感興",
+    "source": "resources/primary/089-月兒彎彎照九州",
+    "files": [
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "primary-090-題臨安邸",
+    "title": "題臨安邸",
+    "category": "primary",
+    "series": "積累與感興",
+    "source": "resources/primary/090-題臨安邸",
+    "files": [
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "primary-091-約客",
+    "title": "約客",
+    "category": "primary",
+    "series": "積累與感興",
+    "source": "resources/primary/091-約客",
+    "files": [
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "primary-092-遊園不值",
+    "title": "遊園不值",
+    "category": "primary",
+    "series": "積累與感興",
+    "source": "resources/primary/092-遊園不值",
+    "files": [
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "primary-093-過零丁洋",
+    "title": "過零丁洋",
+    "category": "primary",
+    "series": "積累與感興",
+    "source": "resources/primary/093-過零丁洋",
+    "files": [
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "primary-094-墨梅_其三",
+    "title": "墨梅（其三）",
+    "category": "primary",
+    "series": "積累與感興",
+    "source": "resources/primary/094-墨梅_其三",
+    "files": [
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "primary-095-素梅_其五十六",
+    "title": "素梅（其五十六）",
+    "category": "primary",
+    "series": "積累與感興",
+    "source": "resources/primary/095-素梅_其五十六",
+    "files": [
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "primary-096-石灰吟",
+    "title": "石灰吟",
+    "category": "primary",
+    "series": "積累與感興",
+    "source": "resources/primary/096-石灰吟",
+    "files": [
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "primary-097-畫雞",
+    "title": "畫雞",
+    "category": "primary",
+    "series": "積累與感興",
+    "source": "resources/primary/097-畫雞",
+    "files": [
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "primary-098-風鳶圖詩_其一",
+    "title": "風鳶圖詩（其一）",
+    "category": "primary",
+    "series": "積累與感興",
+    "source": "resources/primary/098-風鳶圖詩_其一",
+    "files": [
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "primary-099-竹石",
+    "title": "竹石",
+    "category": "primary",
+    "series": "積累與感興",
+    "source": "resources/primary/099-竹石",
+    "files": [
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "primary-100-村居",
+    "title": "村居",
+    "category": "primary",
+    "series": "積累與感興",
+    "source": "resources/primary/100-村居",
+    "files": [
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "secondary-002-小雅_蓼莪",
+    "title": "小雅‧蓼莪",
+    "category": "secondary",
+    "series": "積學與涵泳",
+    "source": "resources/secondary/002-小雅_蓼莪",
+    "files": [
+      "audio_mandarin.mp3",
+      "audio_taici.mp3",
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "secondary-003-九歌_山鬼",
+    "title": "九歌‧山鬼",
+    "category": "secondary",
+    "series": "積學與涵泳",
+    "source": "resources/secondary/003-九歌_山鬼",
+    "files": [
+      "audio_mandarin.mp3",
+      "audio_taici.mp3",
+      "audio_yinsong.mp3",
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "secondary-005-陌上桑",
+    "title": "陌上桑",
+    "category": "secondary",
+    "series": "積學與涵泳",
+    "source": "resources/secondary/005-陌上桑",
+    "files": [
+      "audio_mandarin.mp3",
+      "audio_taici.mp3",
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "secondary-006-怨歌行",
+    "title": "怨歌行",
+    "category": "secondary",
+    "series": "積學與涵泳",
+    "source": "resources/secondary/006-怨歌行",
+    "files": [
+      "audio_mandarin.mp3",
+      "audio_taici.mp3",
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "secondary-007-飲馬長城窟行",
+    "title": "飲馬長城窟行",
+    "category": "secondary",
+    "series": "積學與涵泳",
+    "source": "resources/secondary/007-飲馬長城窟行",
+    "files": [
+      "audio_mandarin.mp3",
+      "audio_taici.mp3",
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "secondary-008-短歌行",
+    "title": "短歌行",
+    "category": "secondary",
+    "series": "積學與涵泳",
+    "source": "resources/secondary/008-短歌行",
+    "files": [
+      "audio_mandarin.mp3",
+      "audio_taici.mp3",
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "secondary-009-贈白馬王彪_並序",
+    "title": "贈白馬王彪 並序",
+    "category": "secondary",
+    "series": "積學與涵泳",
+    "source": "resources/secondary/009-贈白馬王彪_並序",
+    "files": [
+      "audio_mandarin.mp3",
+      "audio_taici.mp3",
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "secondary-011-詠荊軻",
+    "title": "詠荊軻",
+    "category": "secondary",
+    "series": "積學與涵泳",
+    "source": "resources/secondary/011-詠荊軻",
+    "files": [
+      "audio_mandarin.mp3",
+      "audio_taici.mp3",
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "secondary-014-春江花月夜",
+    "title": "春江花月夜",
+    "category": "secondary",
+    "series": "積學與涵泳",
+    "source": "resources/secondary/014-春江花月夜",
+    "files": [
+      "audio_mandarin.mp3",
+      "audio_taici.mp3",
+      "audio_yinsong.mp3",
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "secondary-015-登幽州臺歌",
+    "title": "登幽州臺歌",
+    "category": "secondary",
+    "series": "積學與涵泳",
+    "source": "resources/secondary/015-登幽州臺歌",
+    "files": [
+      "audio_mandarin.mp3",
+      "audio_taici.mp3",
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "secondary-016-望月懷遠",
+    "title": "望月懷遠",
+    "category": "secondary",
+    "series": "積學與涵泳",
+    "source": "resources/secondary/016-望月懷遠",
+    "files": [
+      "audio_mandarin.mp3",
+      "audio_taici.mp3",
+      "audio_yinsong.mp3",
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "secondary-017-過故人莊",
+    "title": "過故人莊",
+    "category": "secondary",
+    "series": "積學與涵泳",
+    "source": "resources/secondary/017-過故人莊",
+    "files": [
+      "audio_mandarin.mp3",
+      "audio_taici.mp3",
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "secondary-018-臨洞庭",
+    "title": "臨洞庭",
+    "category": "secondary",
+    "series": "積學與涵泳",
+    "source": "resources/secondary/018-臨洞庭",
+    "files": [
+      "audio_mandarin.mp3",
+      "audio_taici.mp3",
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "secondary-019-古從軍行",
+    "title": "古從軍行",
+    "category": "secondary",
+    "series": "積學與涵泳",
+    "source": "resources/secondary/019-古從軍行",
+    "files": [
+      "audio_mandarin.mp3",
+      "audio_taici.mp3",
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "secondary-020-芙蓉樓送辛漸",
+    "title": "芙蓉樓送辛漸",
+    "category": "secondary",
+    "series": "積學與涵泳",
+    "source": "resources/secondary/020-芙蓉樓送辛漸",
+    "files": [
+      "audio_mandarin.mp3",
+      "audio_taici.mp3",
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "secondary-022-輞川閒居贈裴秀才廸",
+    "title": "輞川閒居贈裴秀才廸",
+    "category": "secondary",
+    "series": "積學與涵泳",
+    "source": "resources/secondary/022-輞川閒居贈裴秀才廸",
+    "files": [
+      "audio_mandarin.mp3",
+      "audio_taici.mp3",
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "secondary-023-宣州謝朓樓餞別校書叔雲",
+    "title": "宣州謝朓樓餞別校書叔雲",
+    "category": "secondary",
+    "series": "積學與涵泳",
+    "source": "resources/secondary/023-宣州謝朓樓餞別校書叔雲",
+    "files": [
+      "audio_mandarin.mp3",
+      "audio_taici.mp3",
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "secondary-024-將進酒",
+    "title": "將進酒",
+    "category": "secondary",
+    "series": "積學與涵泳",
+    "source": "resources/secondary/024-將進酒",
+    "files": [
+      "audio_mandarin.mp3",
+      "audio_taici.mp3",
+      "audio_yinsong.mp3",
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "secondary-025-黃鶴樓",
+    "title": "黃鶴樓",
+    "category": "secondary",
+    "series": "積學與涵泳",
+    "source": "resources/secondary/025-黃鶴樓",
+    "files": [
+      "audio_mandarin.mp3",
+      "audio_taici.mp3",
+      "audio_yinsong.mp3",
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "secondary-027-茅屋為秋風所破歌",
+    "title": "茅屋為秋風所破歌",
+    "category": "secondary",
+    "series": "積學與涵泳",
+    "source": "resources/secondary/027-茅屋為秋風所破歌",
+    "files": [
+      "audio_mandarin.mp3",
+      "audio_taici.mp3",
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "secondary-029-登高",
+    "title": "登高",
+    "category": "secondary",
+    "series": "積學與涵泳",
+    "source": "resources/secondary/029-登高",
+    "files": [
+      "audio_mandarin.mp3",
+      "audio_taici.mp3",
+      "audio_yinsong.mp3",
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "secondary-030-白雪歌送武判官歸京",
+    "title": "白雪歌送武判官歸京",
+    "category": "secondary",
+    "series": "積學與涵泳",
+    "source": "resources/secondary/030-白雪歌送武判官歸京",
+    "files": [
+      "audio_mandarin.mp3",
+      "audio_taici.mp3",
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "secondary-031-夜上受降城聞笛",
+    "title": "夜上受降城聞笛",
+    "category": "secondary",
+    "series": "積學與涵泳",
+    "source": "resources/secondary/031-夜上受降城聞笛",
+    "files": [
+      "audio_mandarin.mp3",
+      "audio_taici.mp3",
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "secondary-032-節婦吟",
+    "title": "節婦吟",
+    "category": "secondary",
+    "series": "積學與涵泳",
+    "source": "resources/secondary/032-節婦吟",
+    "files": [
+      "audio_mandarin.mp3",
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "secondary-034-長恨歌",
+    "title": "長恨歌",
+    "category": "secondary",
+    "series": "積學與涵泳",
+    "source": "resources/secondary/034-長恨歌",
+    "files": [
+      "audio_mandarin.mp3",
+      "audio_taici.mp3",
+      "audio_yinsong.mp3",
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "secondary-035-賣炭翁",
+    "title": "賣炭翁",
+    "category": "secondary",
+    "series": "積學與涵泳",
+    "source": "resources/secondary/035-賣炭翁",
+    "files": [
+      "audio_mandarin.mp3",
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "secondary-036-遣悲懷_其二_其三",
+    "title": "遣悲懷（其二、其三）",
+    "category": "secondary",
+    "series": "積學與涵泳",
+    "source": "resources/secondary/036-遣悲懷_其二_其三",
+    "files": [
+      "audio_mandarin.mp3",
+      "audio_taici.mp3",
+      "audio_yinsong.mp3",
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "secondary-037-泊秦淮",
+    "title": "泊秦淮",
+    "category": "secondary",
+    "series": "積學與涵泳",
+    "source": "resources/secondary/037-泊秦淮",
+    "files": [
+      "audio_mandarin.mp3",
+      "audio_taici.mp3",
+      "audio_yinsong.mp3",
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "secondary-038-夜雨寄北",
+    "title": "夜雨寄北",
+    "category": "secondary",
+    "series": "積學與涵泳",
+    "source": "resources/secondary/038-夜雨寄北",
+    "files": [
+      "audio_mandarin.mp3",
+      "audio_taici.mp3",
+      "audio_yinsong.mp3",
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "secondary-039-無題_相見時難別亦難",
+    "title": "無題（相見時難別亦難）",
+    "category": "secondary",
+    "series": "積學與涵泳",
+    "source": "resources/secondary/039-無題_相見時難別亦難",
+    "files": [
+      "audio_mandarin.mp3",
+      "audio_taici.mp3",
+      "audio_yinsong.mp3",
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "secondary-040-更漏子_玉爐香",
+    "title": "更漏子（玉爐香）",
+    "category": "secondary",
+    "series": "積學與涵泳",
+    "source": "resources/secondary/040-更漏子_玉爐香",
+    "files": [
+      "audio_mandarin.mp3",
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "secondary-041-謁金門_風乍起",
+    "title": "謁金門（風乍起）",
+    "category": "secondary",
+    "series": "積學與涵泳",
+    "source": "resources/secondary/041-謁金門_風乍起",
+    "files": [
+      "audio_mandarin.mp3",
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "secondary-042-相見歡_無言獨上西樓",
+    "title": "相見歡（無言獨上西樓）",
+    "category": "secondary",
+    "series": "積學與涵泳",
+    "source": "resources/secondary/042-相見歡_無言獨上西樓",
+    "files": [
+      "audio_mandarin.mp3",
+      "audio_taici.mp3",
+      "audio_yinsong.mp3",
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "secondary-043-破陣子_四十年來家國",
+    "title": "破陣子（四十年來家國）",
+    "category": "secondary",
+    "series": "積學與涵泳",
+    "source": "resources/secondary/043-破陣子_四十年來家國",
+    "files": [
+      "audio_mandarin.mp3",
+      "audio_taici.mp3",
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "secondary-044-虞美人_春花秋月何時了",
+    "title": "虞美人（春花秋月何時了）",
+    "category": "secondary",
+    "series": "積學與涵泳",
+    "source": "resources/secondary/044-虞美人_春花秋月何時了",
+    "files": [
+      "audio_mandarin.mp3",
+      "audio_taici.mp3",
+      "audio_yinsong.mp3",
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "secondary-045-明妃曲_兩首",
+    "title": "明妃曲（兩首）",
+    "category": "secondary",
+    "series": "積學與涵泳",
+    "source": "resources/secondary/045-明妃曲_兩首",
+    "files": [
+      "audio_mandarin.mp3",
+      "audio_taici.mp3",
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "secondary-046-和子由澠池懷舊",
+    "title": "和子由澠池懷舊",
+    "category": "secondary",
+    "series": "積學與涵泳",
+    "source": "resources/secondary/046-和子由澠池懷舊",
+    "files": [
+      "audio_mandarin.mp3",
+      "audio_taici.mp3",
+      "audio_yinsong.mp3",
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "secondary-047-登快閣",
+    "title": "登快閣",
+    "category": "secondary",
+    "series": "積學與涵泳",
+    "source": "resources/secondary/047-登快閣",
+    "files": [
+      "audio_mandarin.mp3",
+      "audio_taici.mp3",
+      "audio_yinsong.mp3",
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "secondary-048-寄黃幾復",
+    "title": "寄黃幾復",
+    "category": "secondary",
+    "series": "積學與涵泳",
+    "source": "resources/secondary/048-寄黃幾復",
+    "files": [
+      "audio_mandarin.mp3",
+      "audio_taici.mp3",
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "secondary-049-書憤",
+    "title": "書憤",
+    "category": "secondary",
+    "series": "積學與涵泳",
+    "source": "resources/secondary/049-書憤",
+    "files": [
+      "audio_mandarin.mp3",
+      "audio_taici.mp3",
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "secondary-050-正氣歌_並序",
+    "title": "正氣歌 並序",
+    "category": "secondary",
+    "series": "積學與涵泳",
+    "source": "resources/secondary/050-正氣歌_並序",
+    "files": [
+      "audio_mandarin.mp3",
+      "audio_taici.mp3",
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "secondary-051-雨霖鈴_寒蟬淒切",
+    "title": "雨霖鈴（寒蟬淒切）",
+    "category": "secondary",
+    "series": "積學與涵泳",
+    "source": "resources/secondary/051-雨霖鈴_寒蟬淒切",
+    "files": [
+      "audio_mandarin.mp3",
+      "audio_taici.mp3",
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "secondary-052-漁家傲_塞下秋來風景異",
+    "title": "漁家傲（塞下秋來風景異）",
+    "category": "secondary",
+    "series": "積學與涵泳",
+    "source": "resources/secondary/052-漁家傲_塞下秋來風景異",
+    "files": [
+      "audio_mandarin.mp3",
+      "audio_taici.mp3",
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "secondary-053-蘇幕遮_碧雲天",
+    "title": "蘇幕遮（碧雲天）",
+    "category": "secondary",
+    "series": "積學與涵泳",
+    "source": "resources/secondary/053-蘇幕遮_碧雲天",
+    "files": [
+      "audio_mandarin.mp3",
+      "audio_taici.mp3",
+      "audio_yinsong.mp3",
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "secondary-054-浣溪沙_一曲新詞酒一杯",
+    "title": "浣溪沙（一曲新詞酒一杯）",
+    "category": "secondary",
+    "series": "積學與涵泳",
+    "source": "resources/secondary/054-浣溪沙_一曲新詞酒一杯",
+    "files": [
+      "audio_mandarin.mp3",
+      "audio_taici.mp3",
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "secondary-055-蝶戀花_庭院深深深幾許",
+    "title": "蝶戀花（庭院深深深幾許）",
+    "category": "secondary",
+    "series": "積學與涵泳",
+    "source": "resources/secondary/055-蝶戀花_庭院深深深幾許",
+    "files": [
+      "audio_mandarin.mp3",
+      "audio_taici.mp3",
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "secondary-056-生查子_去年元夜時",
+    "title": "生查子（去年元夜時）",
+    "category": "secondary",
+    "series": "積學與涵泳",
+    "source": "resources/secondary/056-生查子_去年元夜時",
+    "files": [
+      "audio_mandarin.mp3",
+      "audio_taici.mp3",
+      "audio_yinsong.mp3",
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "secondary-057-鷓鴣天_彩袖慇勤捧玉鐘",
+    "title": "鷓鴣天（彩袖慇勤捧玉鐘）",
+    "category": "secondary",
+    "series": "積學與涵泳",
+    "source": "resources/secondary/057-鷓鴣天_彩袖慇勤捧玉鐘",
+    "files": [
+      "audio_mandarin.mp3",
+      "audio_taici.mp3",
+      "audio_yinsong.mp3",
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "secondary-060-江城子_十年生死兩茫茫",
+    "title": "江城子（十年生死兩茫茫）",
+    "category": "secondary",
+    "series": "積學與涵泳",
+    "source": "resources/secondary/060-江城子_十年生死兩茫茫",
+    "files": [
+      "audio_mandarin.mp3",
+      "audio_taici.mp3",
+      "audio_yinsong.mp3",
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "secondary-061-鵲橋仙_纖雲弄巧",
+    "title": "鵲橋仙（纖雲弄巧）",
+    "category": "secondary",
+    "series": "積學與涵泳",
+    "source": "resources/secondary/061-鵲橋仙_纖雲弄巧",
+    "files": [
+      "audio_mandarin.mp3",
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "secondary-062-青玉案_凌波不過橫塘路",
+    "title": "青玉案（凌波不過橫塘路）",
+    "category": "secondary",
+    "series": "積學與涵泳",
+    "source": "resources/secondary/062-青玉案_凌波不過橫塘路",
+    "files": [
+      "audio_mandarin.mp3",
+      "audio_taici.mp3",
+      "audio_yinsong.mp3",
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "secondary-063-蘇幕遮_燎沉香",
+    "title": "蘇幕遮（燎沉香）",
+    "category": "secondary",
+    "series": "積學與涵泳",
+    "source": "resources/secondary/063-蘇幕遮_燎沉香",
+    "files": [
+      "audio_mandarin.mp3",
+      "audio_taici.mp3",
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "secondary-064-西河_金陵懷古",
+    "title": "西河 金陵懷古",
+    "category": "secondary",
+    "series": "積學與涵泳",
+    "source": "resources/secondary/064-西河_金陵懷古",
+    "files": [
+      "audio_mandarin.mp3",
+      "audio_taici.mp3",
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "secondary-065-漁家傲_天接雲濤連曉霧",
+    "title": "漁家傲（天接雲濤連曉霧）",
+    "category": "secondary",
+    "series": "積學與涵泳",
+    "source": "resources/secondary/065-漁家傲_天接雲濤連曉霧",
+    "files": [
+      "audio_mandarin.mp3",
+      "audio_taici.mp3",
+      "audio_yinsong.mp3",
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "secondary-067-一剪梅_紅藕香殘玉簟秋",
+    "title": "一剪梅（紅藕香殘玉簟秋）",
+    "category": "secondary",
+    "series": "積學與涵泳",
+    "source": "resources/secondary/067-一剪梅_紅藕香殘玉簟秋",
+    "files": [
+      "audio_mandarin.mp3",
+      "audio_taici.mp3",
+      "audio_yinsong.mp3",
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "secondary-068-醉花陰_薄霧濃雲愁永晝",
+    "title": "醉花陰（薄霧濃雲愁永晝）",
+    "category": "secondary",
+    "series": "積學與涵泳",
+    "source": "resources/secondary/068-醉花陰_薄霧濃雲愁永晝",
+    "files": [
+      "audio_mandarin.mp3",
+      "audio_taici.mp3",
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "secondary-070-釵頭鳳_紅酥手",
+    "title": "釵頭鳳（紅酥手）",
+    "category": "secondary",
+    "series": "積學與涵泳",
+    "source": "resources/secondary/070-釵頭鳳_紅酥手",
+    "files": [
+      "audio_mandarin.mp3",
+      "audio_taici.mp3",
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "secondary-071-卜算子_詠梅",
+    "title": "卜算子 詠梅",
+    "category": "secondary",
+    "series": "積學與涵泳",
+    "source": "resources/secondary/071-卜算子_詠梅",
+    "files": [
+      "audio_mandarin.mp3",
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "secondary-072-破陣子_醉裏挑燈看劍",
+    "title": "破陣子（醉裏挑燈看劍）",
+    "category": "secondary",
+    "series": "積學與涵泳",
+    "source": "resources/secondary/072-破陣子_醉裏挑燈看劍",
+    "files": [
+      "audio_mandarin.mp3",
+      "audio_taici.mp3",
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "secondary-073-水龍吟_登建康賞心亭",
+    "title": "水龍吟 登建康賞心亭",
+    "category": "secondary",
+    "series": "積學與涵泳",
+    "source": "resources/secondary/073-水龍吟_登建康賞心亭",
+    "files": [
+      "audio_mandarin.mp3",
+      "audio_taici.mp3",
+      "audio_yinsong.mp3",
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "secondary-074-摸魚兒_更能消幾番風雨",
+    "title": "摸魚兒（更能消幾番風雨）",
+    "category": "secondary",
+    "series": "積學與涵泳",
+    "source": "resources/secondary/074-摸魚兒_更能消幾番風雨",
+    "files": [
+      "audio_mandarin.mp3",
+      "audio_taici.mp3",
+      "audio_yinsong.mp3",
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "secondary-075-醜奴兒_書博山道中壁",
+    "title": "醜奴兒 書博山道中壁",
+    "category": "secondary",
+    "series": "積學與涵泳",
+    "source": "resources/secondary/075-醜奴兒_書博山道中壁",
+    "files": [
+      "audio_mandarin.mp3",
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "secondary-076-揚州慢_淮左名都",
+    "title": "揚州慢（淮左名都）",
+    "category": "secondary",
+    "series": "積學與涵泳",
+    "source": "resources/secondary/076-揚州慢_淮左名都",
+    "files": [
+      "audio_mandarin.mp3",
+      "audio_taici.mp3",
+      "audio_yinsong.mp3",
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "secondary-077-虞美人_聽雨",
+    "title": "虞美人 聽雨",
+    "category": "secondary",
+    "series": "積學與涵泳",
+    "source": "resources/secondary/077-虞美人_聽雨",
+    "files": [
+      "audio_mandarin.mp3",
+      "audio_taici.mp3",
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "secondary-078-高陽臺_西湖春感",
+    "title": "高陽臺 西湖春感",
+    "category": "secondary",
+    "series": "積學與涵泳",
+    "source": "resources/secondary/078-高陽臺_西湖春感",
+    "files": [
+      "audio_mandarin.mp3",
+      "audio_taici.mp3",
+      "audio_yinsong.mp3",
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "secondary-079-邁陂塘_問世間",
+    "title": "邁陂塘（問世間）",
+    "category": "secondary",
+    "series": "積學與涵泳",
+    "source": "resources/secondary/079-邁陂塘_問世間",
+    "files": [
+      "audio_mandarin.mp3",
+      "audio_taici.mp3",
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "secondary-081-一半兒_題情",
+    "title": "一半兒 題情",
+    "category": "secondary",
+    "series": "積學與涵泳",
+    "source": "resources/secondary/081-一半兒_題情",
+    "files": [
+      "audio_mandarin.mp3",
+      "audio_taici.mp3",
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "secondary-083-撥不斷_布衣中",
+    "title": "撥不斷（布衣中）",
+    "category": "secondary",
+    "series": "積學與涵泳",
+    "source": "resources/secondary/083-撥不斷_布衣中",
+    "files": [
+      "audio_mandarin.mp3",
+      "audio_taici.mp3",
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "secondary-085-〔中呂〕十二月過堯民歌_別情",
+    "title": "〔中呂〕十二月過堯民歌 別情",
+    "category": "secondary",
+    "series": "積學與涵泳",
+    "source": "resources/secondary/085-〔中呂〕十二月過堯民歌_別情",
+    "files": [
+      "audio_mandarin.mp3",
+      "audio_taici.mp3",
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "secondary-086-山坡羊_潼關懷古",
+    "title": "山坡羊 潼關懷古",
+    "category": "secondary",
+    "series": "積學與涵泳",
+    "source": "resources/secondary/086-山坡羊_潼關懷古",
+    "files": [
+      "audio_mandarin.mp3",
+      "audio_taici.mp3",
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "secondary-087-〔南呂〕一枝花_湖上歸",
+    "title": "〔南呂〕一枝花 湖上歸",
+    "category": "secondary",
+    "series": "積學與涵泳",
+    "source": "resources/secondary/087-〔南呂〕一枝花_湖上歸",
+    "files": [
+      "audio_mandarin.mp3",
+      "audio_taici.mp3",
+      "audio_yinsong.mp3",
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "secondary-088-賣花聲_懷古",
+    "title": "賣花聲 懷古",
+    "category": "secondary",
+    "series": "積學與涵泳",
+    "source": "resources/secondary/088-賣花聲_懷古",
+    "files": [
+      "audio_mandarin.mp3",
+      "audio_taici.mp3",
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "secondary-089-水仙子_尋梅",
+    "title": "水仙子 尋梅",
+    "category": "secondary",
+    "series": "積學與涵泳",
+    "source": "resources/secondary/089-水仙子_尋梅",
+    "files": [
+      "audio_mandarin.mp3",
+      "audio_taici.mp3",
+      "audio_yinsong.mp3",
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "secondary-090-法場_《竇娥冤》第三折",
+    "title": "法場（《竇娥冤》第三折）",
+    "category": "secondary",
+    "series": "積學與涵泳",
+    "source": "resources/secondary/090-法場_《竇娥冤》第三折",
+    "files": [
+      "audio_mandarin.mp3",
+      "audio_taici.mp3",
+      "audio_yinsong.mp3",
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "secondary-091-灞橋餞別_《漢宫秋》第三折",
+    "title": "灞橋餞別（《漢宫秋》第三折）",
+    "category": "secondary",
+    "series": "積學與涵泳",
+    "source": "resources/secondary/091-灞橋餞別_《漢宫秋》第三折",
+    "files": [
+      "audio_mandarin.mp3",
+      "audio_taici.mp3",
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "secondary-092-五月十九日大雨",
+    "title": "五月十九日大雨",
+    "category": "secondary",
+    "series": "積學與涵泳",
+    "source": "resources/secondary/092-五月十九日大雨",
+    "files": [
+      "audio_mandarin.mp3",
+      "audio_taici.mp3",
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "secondary-093-臨江仙_滾滾長江東逝水",
+    "title": "臨江仙（滾滾長江東逝水）",
+    "category": "secondary",
+    "series": "積學與涵泳",
+    "source": "resources/secondary/093-臨江仙_滾滾長江東逝水",
+    "files": [
+      "audio_mandarin.mp3",
+      "audio_taici.mp3",
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "secondary-094-圓圓曲",
+    "title": "圓圓曲",
+    "category": "secondary",
+    "series": "積學與涵泳",
+    "source": "resources/secondary/094-圓圓曲",
+    "files": [
+      "audio_mandarin.mp3",
+      "audio_taici.mp3",
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "secondary-095-雜感",
+    "title": "雜感",
+    "category": "secondary",
+    "series": "積學與涵泳",
+    "source": "resources/secondary/095-雜感",
+    "files": [
+      "audio_mandarin.mp3",
+      "audio_taici.mp3",
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "secondary-096-己亥雜詩_其五_其一二五",
+    "title": "己亥雜詩（其五、其一二五）",
+    "category": "secondary",
+    "series": "積學與涵泳",
+    "source": "resources/secondary/096-己亥雜詩_其五_其一二五",
+    "files": [
+      "audio_mandarin.mp3",
+      "audio_taici.mp3",
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "secondary-097-對酒",
+    "title": "對酒",
+    "category": "secondary",
+    "series": "積學與涵泳",
+    "source": "resources/secondary/097-對酒",
+    "files": [
+      "audio_mandarin.mp3",
+      "audio_taici.mp3",
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "secondary-098-解珮令_十年磨劍",
+    "title": "解珮令（十年磨劍）",
+    "category": "secondary",
+    "series": "積學與涵泳",
+    "source": "resources/secondary/098-解珮令_十年磨劍",
+    "files": [
+      "audio_mandarin.mp3",
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "secondary-099-蝶戀花_辛苦最憐天上月",
+    "title": "蝶戀花（辛苦最憐天上月）",
+    "category": "secondary",
+    "series": "積學與涵泳",
+    "source": "resources/secondary/099-蝶戀花_辛苦最憐天上月",
+    "files": [
+      "audio_mandarin.mp3",
+      "audio_taici.mp3",
+      "audio_yinsong.mp3",
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "secondary-100-餘韻_《桃花扇》續四十齣",
+    "title": "餘韻（《桃花扇》續四十齣）",
+    "category": "secondary",
+    "series": "積學與涵泳",
+    "source": "resources/secondary/100-餘韻_《桃花扇》續四十齣",
+    "files": [
+      "audio_mandarin.mp3",
+      "audio_taici.mp3",
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "secondary-101-天尊地卑_節錄《周易》",
+    "title": "天尊地卑（節錄《周易》）",
+    "category": "secondary",
+    "series": "積學與涵泳",
+    "source": "resources/secondary/101-天尊地卑_節錄《周易》",
+    "files": [
+      "audio_mandarin.mp3",
+      "audio_taici.mp3",
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "secondary-102-燭之武退秦師",
+    "title": "燭之武退秦師",
+    "category": "secondary",
+    "series": "積學與涵泳",
+    "source": "resources/secondary/102-燭之武退秦師",
+    "files": [
+      "audio_mandarin.mp3",
+      "audio_taici.mp3",
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "secondary-103-學而篇",
+    "title": "學而篇",
+    "category": "secondary",
+    "series": "積學與涵泳",
+    "source": "resources/secondary/103-學而篇",
+    "files": [
+      "audio_mandarin.mp3",
+      "audio_taici.mp3",
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "secondary-104-道德經_第三十三_六十四_八十一章",
+    "title": "道德經（第三十三、六十四、八十一章）",
+    "category": "secondary",
+    "series": "積學與涵泳",
+    "source": "resources/secondary/104-道德經_第三十三_六十四_八十一章",
+    "files": [
+      "audio_mandarin.mp3",
+      "audio_taici.mp3",
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "secondary-107-庖丁解牛",
+    "title": "庖丁解牛",
+    "category": "secondary",
+    "series": "積學與涵泳",
+    "source": "resources/secondary/107-庖丁解牛",
+    "files": [
+      "audio_mandarin.mp3",
+      "audio_taici.mp3",
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "secondary-108-說難",
+    "title": "說難",
+    "category": "secondary",
+    "series": "積學與涵泳",
+    "source": "resources/secondary/108-說難",
+    "files": [
+      "audio_mandarin.mp3",
+      "audio_taici.mp3",
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "secondary-111-周書．秦誓",
+    "title": "周書．秦誓",
+    "category": "secondary",
+    "series": "積學與涵泳",
+    "source": "resources/secondary/111-周書．秦誓",
+    "files": [
+      "audio_mandarin.mp3",
+      "audio_taici.mp3",
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "secondary-114-中庸",
+    "title": "中庸",
+    "category": "secondary",
+    "series": "積學與涵泳",
+    "source": "resources/secondary/114-中庸",
+    "files": [
+      "audio_mandarin.mp3",
+      "audio_taici.mp3",
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "secondary-115-蘇秦為趙合從說楚威王",
+    "title": "蘇秦為趙合從說楚威王",
+    "category": "secondary",
+    "series": "積學與涵泳",
+    "source": "resources/secondary/115-蘇秦為趙合從說楚威王",
+    "files": [
+      "audio_mandarin.mp3",
+      "audio_taici.mp3",
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "secondary-116-諫逐客書",
+    "title": "諫逐客書",
+    "category": "secondary",
+    "series": "積學與涵泳",
+    "source": "resources/secondary/116-諫逐客書",
+    "files": [
+      "audio_mandarin.mp3",
+      "audio_taici.mp3",
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "secondary-117-屈原列傳",
+    "title": "屈原列傳",
+    "category": "secondary",
+    "series": "積學與涵泳",
+    "source": "resources/secondary/117-屈原列傳",
+    "files": [
+      "audio_mandarin.mp3",
+      "audio_taici.mp3",
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "secondary-118-答蘇武書",
+    "title": "答蘇武書",
+    "category": "secondary",
+    "series": "積學與涵泳",
+    "source": "resources/secondary/118-答蘇武書",
+    "files": [
+      "audio_mandarin.mp3",
+      "audio_taici.mp3",
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "secondary-119-登樓賦",
+    "title": "登樓賦",
+    "category": "secondary",
+    "series": "積學與涵泳",
+    "source": "resources/secondary/119-登樓賦",
+    "files": [
+      "audio_mandarin.mp3",
+      "audio_taici.mp3",
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "secondary-122-蘭亭集序",
+    "title": "蘭亭集序",
+    "category": "secondary",
+    "series": "積學與涵泳",
+    "source": "resources/secondary/122-蘭亭集序",
+    "files": [
+      "audio_mandarin.mp3",
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "secondary-123-歸去來辭並序",
+    "title": "歸去來辭並序",
+    "category": "secondary",
+    "series": "積學與涵泳",
+    "source": "resources/secondary/123-歸去來辭並序",
+    "files": [
+      "audio_taici.mp3",
+      "audio_yinsong.mp3",
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "secondary-125-與宋元思書",
+    "title": "與宋元思書",
+    "category": "secondary",
+    "series": "積學與涵泳",
+    "source": "resources/secondary/125-與宋元思書",
+    "files": [
+      "audio_mandarin.mp3",
+      "audio_taici.mp3",
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "secondary-126-謝太傅寒雪日內集",
+    "title": "謝太傅寒雪日內集",
+    "category": "secondary",
+    "series": "積學與涵泳",
+    "source": "resources/secondary/126-謝太傅寒雪日內集",
+    "files": [
+      "audio_mandarin.mp3",
+      "audio_taici.mp3",
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "secondary-127-滕王閣序",
+    "title": "滕王閣序",
+    "category": "secondary",
+    "series": "積學與涵泳",
+    "source": "resources/secondary/127-滕王閣序",
+    "files": [
+      "audio_mandarin.mp3",
+      "audio_taici.mp3",
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "secondary-128-春夜宴桃李園序",
+    "title": "春夜宴桃李園序",
+    "category": "secondary",
+    "series": "積學與涵泳",
+    "source": "resources/secondary/128-春夜宴桃李園序",
+    "files": [
+      "audio_mandarin.mp3",
+      "audio_taici.mp3",
+      "audio_yinsong.mp3",
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "secondary-130-馬說",
+    "title": "馬說",
+    "category": "secondary",
+    "series": "積學與涵泳",
+    "source": "resources/secondary/130-馬說",
+    "files": [
+      "audio_mandarin.mp3",
+      "audio_taici.mp3",
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "secondary-132-捕蛇者說",
+    "title": "捕蛇者說",
+    "category": "secondary",
+    "series": "積學與涵泳",
+    "source": "resources/secondary/132-捕蛇者說",
+    "files": [
+      "audio_mandarin.mp3",
+      "audio_taici.mp3",
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "secondary-134-阿房宮賦",
+    "title": "阿房宮賦",
+    "category": "secondary",
+    "series": "積學與涵泳",
+    "source": "resources/secondary/134-阿房宮賦",
+    "files": [
+      "audio_mandarin.mp3",
+      "audio_taici.mp3",
+      "audio_yinsong.mp3",
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "secondary-136-醉翁亭記",
+    "title": "醉翁亭記",
+    "category": "secondary",
+    "series": "積學與涵泳",
+    "source": "resources/secondary/136-醉翁亭記",
+    "files": [
+      "audio_mandarin.mp3",
+      "audio_taici.mp3",
+      "audio_yinsong.mp3",
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "secondary-137-秋聲賦",
+    "title": "秋聲賦",
+    "category": "secondary",
+    "series": "積學與涵泳",
+    "source": "resources/secondary/137-秋聲賦",
+    "files": [
+      "audio_mandarin.mp3",
+      "audio_taici.mp3",
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "secondary-140-讀孟嘗君傳",
+    "title": "讀孟嘗君傳",
+    "category": "secondary",
+    "series": "積學與涵泳",
+    "source": "resources/secondary/140-讀孟嘗君傳",
+    "files": [
+      "audio_mandarin.mp3",
+      "audio_taici.mp3",
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "secondary-141-前赤壁賦",
+    "title": "前赤壁賦",
+    "category": "secondary",
+    "series": "積學與涵泳",
+    "source": "resources/secondary/141-前赤壁賦",
+    "files": [
+      "audio_mandarin.mp3",
+      "audio_taici.mp3",
+      "audio_yinsong.mp3",
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "secondary-143-送東陽馬生序",
+    "title": "送東陽馬生序",
+    "category": "secondary",
+    "series": "積學與涵泳",
+    "source": "resources/secondary/143-送東陽馬生序",
+    "files": [
+      "audio_mandarin.mp3",
+      "audio_taici.mp3",
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "secondary-145-教條示龍場諸生",
+    "title": "教條示龍場諸生",
+    "category": "secondary",
+    "series": "積學與涵泳",
+    "source": "resources/secondary/145-教條示龍場諸生",
+    "files": [
+      "audio_mandarin.mp3",
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "secondary-146-項脊軒志",
+    "title": "項脊軒志",
+    "category": "secondary",
+    "series": "積學與涵泳",
+    "source": "resources/secondary/146-項脊軒志",
+    "files": [
+      "audio_mandarin.mp3",
+      "audio_taici.mp3",
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "secondary-148-廉恥",
+    "title": "廉恥",
+    "category": "secondary",
+    "series": "積學與涵泳",
+    "source": "resources/secondary/148-廉恥",
+    "files": [
+      "audio_mandarin.mp3",
+      "audio_taici.mp3",
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "secondary-150-病梅館記",
+    "title": "病梅館記",
+    "category": "secondary",
+    "series": "積學與涵泳",
+    "source": "resources/secondary/150-病梅館記",
+    "files": [
+      "audio_mandarin.mp3",
+      "audio_taici.mp3",
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "nss-01-論仁_論孝_論君子",
+    "title": "論仁、論孝、論君子",
+    "category": "nss",
+    "series": "NSS 指定文言經典",
+    "source": "resources/nss/01-論仁_論孝_論君子",
+    "files": [
+      "audio_mandarin.mp3",
+      "audio_taici.mp3",
+      "audio_yinsong.mp3",
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "nss-02-魚我所欲也",
+    "title": "魚我所欲也",
+    "category": "nss",
+    "series": "NSS 指定文言經典",
+    "source": "resources/nss/02-魚我所欲也",
+    "files": [
+      "audio_mandarin.mp3",
+      "audio_taici.mp3",
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "nss-03-逍遙遊",
+    "title": "逍遙遊",
+    "category": "nss",
+    "series": "NSS 指定文言經典",
+    "source": "resources/nss/03-逍遙遊",
+    "files": [
+      "audio_mandarin.mp3",
+      "audio_taici.mp3",
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "nss-04-勸學",
+    "title": "勸學",
+    "category": "nss",
+    "series": "NSS 指定文言經典",
+    "source": "resources/nss/04-勸學",
+    "files": [
+      "audio_mandarin.mp3",
+      "audio_taici.mp3",
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "nss-05-廉頗藺相如列傳",
+    "title": "廉頗藺相如列傳",
+    "category": "nss",
+    "series": "NSS 指定文言經典",
+    "source": "resources/nss/05-廉頗藺相如列傳",
+    "files": [
+      "audio_mandarin.mp3",
+      "audio_taici.mp3",
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "nss-06-出師表",
+    "title": "出師表",
+    "category": "nss",
+    "series": "NSS 指定文言經典",
+    "source": "resources/nss/06-出師表",
+    "files": [
+      "audio_mandarin.mp3",
+      "audio_taici.mp3",
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "nss-07-師說",
+    "title": "師說",
+    "category": "nss",
+    "series": "NSS 指定文言經典",
+    "source": "resources/nss/07-師說",
+    "files": [
+      "audio_mandarin.mp3",
+      "audio_taici.mp3",
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "nss-08-始得西山宴遊記",
+    "title": "始得西山宴遊記",
+    "category": "nss",
+    "series": "NSS 指定文言經典",
+    "source": "resources/nss/08-始得西山宴遊記",
+    "files": [
+      "audio_mandarin.mp3",
+      "audio_taici.mp3",
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "nss-09-岳陽樓記",
+    "title": "岳陽樓記",
+    "category": "nss",
+    "series": "NSS 指定文言經典",
+    "source": "resources/nss/09-岳陽樓記",
+    "files": [
+      "audio_mandarin.mp3",
+      "audio_taici.mp3",
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "nss-10-六國論",
+    "title": "六國論",
+    "category": "nss",
+    "series": "NSS 指定文言經典",
+    "source": "resources/nss/10-六國論",
+    "files": [
+      "audio_mandarin.mp3",
+      "audio_taici.mp3",
+      "original.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "nss-11-唐詩三首",
+    "title": "唐詩三首",
+    "category": "nss",
+    "series": "NSS 指定文言經典",
+    "source": "resources/nss/11-唐詩三首",
+    "files": [
+      "audio_mandarin.mp3",
+      "audio_taici.mp3",
+      "original.pdf",
+      "text.md",
+      "山居秋暝",
+      "月下獨酌",
+      "登樓"
+    ]
+  },
+  {
+    "id": "nss-12-詞三首",
+    "title": "詞三首",
+    "category": "nss",
+    "series": "NSS 指定文言經典",
+    "source": "resources/nss/12-詞三首",
+    "files": [
+      "audio_mandarin.mp3",
+      "audio_taici.mp3",
+      "original.pdf",
+      "text.md",
+      "念奴嬌_赤壁懷古",
+      "聲聲慢",
+      "青玉案_元夕"
+    ]
+  },
+  {
+    "id": "nss-unmapped-audio",
+    "title": "unmapped-audio",
+    "category": "nss",
+    "series": "NSS 指定文言經典",
+    "source": "resources/nss/unmapped-audio",
+    "files": [
+      "nss_13_mandarin.mp3",
+      "nss_13_taici.mp3",
+      "nss_13_yinsong.mp3",
+      "nss_14_mandarin.mp3",
+      "nss_14_taici.mp3",
+      "nss_14_yinsong.mp3",
+      "nss_15_mandarin.mp3",
+      "nss_15_taici.mp3"
+    ]
+  },
+  {
+    "id": "culture-01-大學_節錄",
+    "title": "大學（節錄）",
+    "category": "culture",
+    "series": "文化專題",
+    "source": "resources/culture/01-大學_節錄",
+    "files": [
+      "analysis.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "culture-02-論仁_論君子",
+    "title": "論仁、論君子",
+    "category": "culture",
+    "series": "文化專題",
+    "source": "resources/culture/02-論仁_論君子",
+    "files": [
+      "analysis.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "culture-03-論學",
+    "title": "論學",
+    "category": "culture",
+    "series": "文化專題",
+    "source": "resources/culture/03-論學",
+    "files": [
+      "analysis.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "culture-04-魚我所欲也",
+    "title": "魚我所欲也",
+    "category": "culture",
+    "series": "文化專題",
+    "source": "resources/culture/04-魚我所欲也",
+    "files": [
+      "analysis.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "culture-05-論四端",
+    "title": "論四端",
+    "category": "culture",
+    "series": "文化專題",
+    "source": "resources/culture/05-論四端",
+    "files": [
+      "analysis.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "culture-06-晏子僕御_節錄",
+    "title": "晏子僕御（節錄）",
+    "category": "culture",
+    "series": "文化專題",
+    "source": "resources/culture/06-晏子僕御_節錄",
+    "files": [
+      "analysis.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "culture-07-臧與穀牧羊_節錄",
+    "title": "臧與穀牧羊（節錄）",
+    "category": "culture",
+    "series": "文化專題",
+    "source": "resources/culture/07-臧與穀牧羊_節錄",
+    "files": [
+      "analysis.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "culture-08-庖丁解牛_節錄",
+    "title": "庖丁解牛（節錄）",
+    "category": "culture",
+    "series": "文化專題",
+    "source": "resources/culture/08-庖丁解牛_節錄",
+    "files": [
+      "analysis.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "culture-09-歸園田居_三首",
+    "title": "歸園田居 三首",
+    "category": "culture",
+    "series": "文化專題",
+    "source": "resources/culture/09-歸園田居_三首",
+    "files": [
+      "analysis.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "culture-10-管寧華歆共園中鋤菜_節錄",
+    "title": "管寧華歆共園中鋤菜（節錄）",
+    "category": "culture",
+    "series": "文化專題",
+    "source": "resources/culture/10-管寧華歆共園中鋤菜_節錄",
+    "files": [
+      "analysis.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "culture-11-把酒問月",
+    "title": "把酒問月",
+    "category": "culture",
+    "series": "文化專題",
+    "source": "resources/culture/11-把酒問月",
+    "files": [
+      "analysis.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "culture-12-茅屋為秋風所破歌",
+    "title": "茅屋為秋風所破歌",
+    "category": "culture",
+    "series": "文化專題",
+    "source": "resources/culture/12-茅屋為秋風所破歌",
+    "files": [
+      "analysis.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "culture-13-始得西山宴遊記",
+    "title": "始得西山宴遊記",
+    "category": "culture",
+    "series": "文化專題",
+    "source": "resources/culture/13-始得西山宴遊記",
+    "files": [
+      "analysis.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "culture-14-岳陽樓記",
+    "title": "岳陽樓記",
+    "category": "culture",
+    "series": "文化專題",
+    "source": "resources/culture/14-岳陽樓記",
+    "files": [
+      "analysis.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "culture-15-醉翁亭記",
+    "title": "醉翁亭記",
+    "category": "culture",
+    "series": "文化專題",
+    "source": "resources/culture/15-醉翁亭記",
+    "files": [
+      "analysis.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "culture-16-正氣歌_並序",
+    "title": "正氣歌 並序",
+    "category": "culture",
+    "series": "文化專題",
+    "source": "resources/culture/16-正氣歌_並序",
+    "files": [
+      "analysis.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "culture-17-廉恥",
+    "title": "廉恥",
+    "category": "culture",
+    "series": "文化專題",
+    "source": "resources/culture/17-廉恥",
+    "files": [
+      "analysis.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "culture-18-左忠毅公軼事",
+    "title": "左忠毅公軼事",
+    "category": "culture",
+    "series": "文化專題",
+    "source": "resources/culture/18-左忠毅公軼事",
+    "files": [
+      "analysis.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "culture-19-為學",
+    "title": "為學",
+    "category": "culture",
+    "series": "文化專題",
+    "source": "resources/culture/19-為學",
+    "files": [
+      "analysis.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "culture-20-習慣說",
+    "title": "習慣說",
+    "category": "culture",
+    "series": "文化專題",
+    "source": "resources/culture/20-習慣說",
+    "files": [
+      "analysis.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "culture-21-敬業與樂業",
+    "title": "敬業與樂業",
+    "category": "culture",
+    "series": "文化專題",
+    "source": "resources/culture/21-敬業與樂業",
+    "files": [
+      "analysis.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "culture-23-不恥下問",
+    "title": "不恥下問",
+    "category": "culture",
+    "series": "文化專題",
+    "source": "resources/culture/23-不恥下問",
+    "files": [
+      "analysis.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "culture-24-小國寡民",
+    "title": "小國寡民",
+    "category": "culture",
+    "series": "文化專題",
+    "source": "resources/culture/24-小國寡民",
+    "files": [
+      "analysis.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "culture-25-兼愛",
+    "title": "兼愛",
+    "category": "culture",
+    "series": "文化專題",
+    "source": "resources/culture/25-兼愛",
+    "files": [
+      "analysis.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "culture-26-寡人願安承教",
+    "title": "寡人願安承教",
+    "category": "culture",
+    "series": "文化專題",
+    "source": "resources/culture/26-寡人願安承教",
+    "files": [
+      "analysis.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "culture-27-隆禮重法_節錄",
+    "title": "隆禮重法（節錄）",
+    "category": "culture",
+    "series": "文化專題",
+    "source": "resources/culture/27-隆禮重法_節錄",
+    "files": [
+      "analysis.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "culture-28-君不仁_臣不忠_節錄",
+    "title": "君不仁，臣不忠（節錄）",
+    "category": "culture",
+    "series": "文化專題",
+    "source": "resources/culture/28-君不仁_臣不忠_節錄",
+    "files": [
+      "analysis.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "culture-29-大同與小康_節錄",
+    "title": "大同與小康（節錄）",
+    "category": "culture",
+    "series": "文化專題",
+    "source": "resources/culture/29-大同與小康_節錄",
+    "files": [
+      "analysis.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "culture-30-出師表",
+    "title": "出師表",
+    "category": "culture",
+    "series": "文化專題",
+    "source": "resources/culture/30-出師表",
+    "files": [
+      "analysis.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "culture-32-論孝",
+    "title": "論孝",
+    "category": "culture",
+    "series": "文化專題",
+    "source": "resources/culture/32-論孝",
+    "files": [
+      "analysis.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "culture-33-燕詩",
+    "title": "燕詩",
+    "category": "culture",
+    "series": "文化專題",
+    "source": "resources/culture/33-燕詩",
+    "files": [
+      "analysis.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "culture-40-愛蓮說",
+    "title": "愛蓮說",
+    "category": "culture",
+    "series": "文化專題",
+    "source": "resources/culture/40-愛蓮說",
+    "files": [
+      "analysis.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "culture-44-宋徽宗選畫_節錄",
+    "title": "宋徽宗選畫（節錄）",
+    "category": "culture",
+    "series": "文化專題",
+    "source": "resources/culture/44-宋徽宗選畫_節錄",
+    "files": [
+      "analysis.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "culture-45-知魚之樂",
+    "title": "知魚之樂",
+    "category": "culture",
+    "series": "文化專題",
+    "source": "resources/culture/45-知魚之樂",
+    "files": [
+      "analysis.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "culture-46-逍遙遊_節錄",
+    "title": "逍遙遊（節錄）",
+    "category": "culture",
+    "series": "文化專題",
+    "source": "resources/culture/46-逍遙遊_節錄",
+    "files": [
+      "analysis.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "culture-47-女媧補天_節錄",
+    "title": "女媧補天（節錄）",
+    "category": "culture",
+    "series": "文化專題",
+    "source": "resources/culture/47-女媧補天_節錄",
+    "files": [
+      "analysis.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "culture-48-飲酒_其五",
+    "title": "飲酒（其五）",
+    "category": "culture",
+    "series": "文化專題",
+    "source": "resources/culture/48-飲酒_其五",
+    "files": [
+      "analysis.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "culture-49-鳥鳴澗",
+    "title": "鳥鳴澗",
+    "category": "culture",
+    "series": "文化專題",
+    "source": "resources/culture/49-鳥鳴澗",
+    "files": [
+      "analysis.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "culture-essay-01-中華文化的精神價值",
+    "title": "中華文化的精神價值",
+    "category": "culture",
+    "series": "文化專題",
+    "source": "resources/culture/essay-01-中華文化的精神價值",
+    "files": [
+      "text.md"
+    ]
+  },
+  {
+    "id": "culture-essay-02-如何與中學生談中華文化",
+    "title": "如何與中學生談中華文化",
+    "category": "culture",
+    "series": "文化專題",
+    "source": "resources/culture/essay-02-如何與中學生談中華文化",
+    "files": [
+      "essay.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "culture-essay-03-雜談新高中語文課程的文化教學",
+    "title": "雜談新高中語文課程的文化教學",
+    "category": "culture",
+    "series": "文化專題",
+    "source": "resources/culture/essay-03-雜談新高中語文課程的文化教學",
+    "files": [
+      "essay.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "culture-essay-04-中文和中國文化",
+    "title": "中文和中國文化",
+    "category": "culture",
+    "series": "文化專題",
+    "source": "resources/culture/essay-04-中文和中國文化",
+    "files": [
+      "essay.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "culture-essay-05-課程領導如何推動中華文化的學習",
+    "title": "課程領導如何推動中華文化的學習",
+    "category": "culture",
+    "series": "文化專題",
+    "source": "resources/culture/essay-05-課程領導如何推動中華文化的學習",
+    "files": [
+      "essay.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "culture-essay-06-高中選修單元「文化專題探討」的設計與教學—種籽計劃實踐經驗談",
+    "title": "高中選修單元「文化專題探討」的設計與教學—種籽計劃實踐經驗談",
+    "category": "culture",
+    "series": "文化專題",
+    "source": "resources/culture/essay-06-高中選修單元「文化專題探討」的設計與教學—種籽計劃實踐經驗談",
+    "files": [
+      "essay.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "culture-teaching-01-為學",
+    "title": "為學",
+    "category": "culture",
+    "series": "文化專題",
+    "source": "resources/culture/teaching-01-為學",
+    "files": [
+      "design.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "culture-teaching-02-孝親",
+    "title": "孝親",
+    "category": "culture",
+    "series": "文化專題",
+    "source": "resources/culture/teaching-02-孝親",
+    "files": [
+      "design.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "culture-teaching-03-美與善",
+    "title": "美與善",
+    "category": "culture",
+    "series": "文化專題",
+    "source": "resources/culture/teaching-03-美與善",
+    "files": [
+      "text.md"
+    ]
+  },
+  {
+    "id": "culture-teaching-04-讀書人的情操",
+    "title": "讀書人的情操",
+    "category": "culture",
+    "series": "文化專題",
+    "source": "resources/culture/teaching-04-讀書人的情操",
+    "files": [
+      "text.md"
+    ]
+  },
+  {
+    "id": "culture-teaching-05-鄉土情懷",
+    "title": "鄉土情懷",
+    "category": "culture",
+    "series": "文化專題",
+    "source": "resources/culture/teaching-05-鄉土情懷",
+    "files": [
+      "text.md"
+    ]
+  },
+  {
+    "id": "culture-teaching-06-順應自然",
+    "title": "順應自然",
+    "category": "culture",
+    "series": "文化專題",
+    "source": "resources/culture/teaching-06-順應自然",
+    "files": [
+      "text.md"
+    ]
+  },
+  {
+    "id": "culture-unmapped",
+    "title": "unmapped",
+    "category": "culture",
+    "series": "文化專題",
+    "source": "resources/culture/unmapped",
+    "files": [
+      "A001.pdf",
+      "B001.pdf",
+      "B003.pdf",
+      "B004.pdf",
+      "B005.pdf",
+      "B006.pdf",
+      "C003.pdf",
+      "C004.pdf",
+      "C005.pdf",
+      "C006.pdf",
+      "EDB_PDPO_c.pdf",
+      "acknowledge.pdf",
+      "preface.pdf"
+    ]
+  },
+  {
+    "id": "training-001-從廣泛閱讀到深度閱讀——閱讀計劃的規劃與實踐_新辦",
+    "title": "從廣泛閱讀到深度閱讀——閱讀計劃的規劃與實踐（新辦）",
+    "category": "training",
+    "series": "教師培訓",
+    "source": "resources/training/001-從廣泛閱讀到深度閱讀——閱讀計劃的規劃與實踐_新辦",
+    "files": [
+      "slide_1.pdf",
+      "slide_2.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "training-002-善用建議篇章——課程規劃和教學經驗分享_新辦",
+    "title": "善用建議篇章——課程規劃和教學經驗分享 (新辦)",
+    "category": "training",
+    "series": "教師培訓",
+    "source": "resources/training/002-善用建議篇章——課程規劃和教學經驗分享_新辦",
+    "files": [
+      "slide_1.pdf",
+      "slide_2.pdf",
+      "slide_3.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "training-003-推動文學文化學習與多元語文活動學校經驗分享_新辦",
+    "title": "推動文學文化學習與多元語文活動學校經驗分享(新辦)",
+    "category": "training",
+    "series": "教師培訓",
+    "source": "resources/training/003-推動文學文化學習與多元語文活動學校經驗分享_新辦",
+    "files": [
+      "slide_1.pdf",
+      "slide_2.pdf",
+      "slide_3.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "training-004-寫作教學的規劃_實踐與回饋_新辦",
+    "title": "寫作教學的規劃、實踐與回饋(新辦)",
+    "category": "training",
+    "series": "教師培訓",
+    "source": "resources/training/004-寫作教學的規劃_實踐與回饋_新辦",
+    "files": [
+      "slide_1.pdf",
+      "slide_2.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "training-005-從傳統到現代_二：家國之情_新辦",
+    "title": "從傳統到現代（二）：家國之情(新辦)",
+    "category": "training",
+    "series": "教師培訓",
+    "source": "resources/training/005-從傳統到現代_二：家國之情_新辦",
+    "files": [
+      "slide_1.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "training-006-從傳統到現代_一：孝親文化_新辦",
+    "title": "從傳統到現代（一）：孝親文化 (新辦)",
+    "category": "training",
+    "series": "教師培訓",
+    "source": "resources/training/006-從傳統到現代_一：孝親文化_新辦",
+    "files": [
+      "slide_1.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "training-007-中學中國語文科新任科主任導引工作坊──課程實施與領導_修訂",
+    "title": "中學中國語文科新任科主任導引工作坊──課程實施與領導(修訂)",
+    "category": "training",
+    "series": "教師培訓",
+    "source": "resources/training/007-中學中國語文科新任科主任導引工作坊──課程實施與領導_修訂",
+    "files": [
+      "slide_1.pdf",
+      "slide_2.pdf",
+      "slide_3.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "training-008-「建議篇章」及學與教資源簡介_新辦",
+    "title": "「建議篇章」及學與教資源簡介(新辦)",
+    "category": "training",
+    "series": "教師培訓",
+    "source": "resources/training/008-「建議篇章」及學與教資源簡介_新辦",
+    "files": [
+      "slide_1.pdf",
+      "slide_2.pdf",
+      "slide_3.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "training-009-閱讀能力教學與評核_修訂",
+    "title": "閱讀能力教學與評核(修訂)",
+    "category": "training",
+    "series": "教師培訓",
+    "source": "resources/training/009-閱讀能力教學與評核_修訂",
+    "files": [
+      "slide_1.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "training-010-寫作能力教學與評核_修訂",
+    "title": "寫作能力教學與評核(修訂)",
+    "category": "training",
+    "series": "教師培訓",
+    "source": "resources/training/010-寫作能力教學與評核_修訂",
+    "files": [
+      "slide_1.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "training-011-粵語正音_朗讀與朗誦教學_修訂",
+    "title": "粵語正音、朗讀與朗誦教學(修訂)",
+    "category": "training",
+    "series": "教師培訓",
+    "source": "resources/training/011-粵語正音_朗讀與朗誦教學_修訂",
+    "files": [
+      "slide_1.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "training-012-中學中國語文科課程中的文學文化及國家安全教育_修訂",
+    "title": "中學中國語文科課程中的文學文化及國家安全教育(修訂)",
+    "category": "training",
+    "series": "教師培訓",
+    "source": "resources/training/012-中學中國語文科課程中的文學文化及國家安全教育_修訂",
+    "files": [
+      "slide_1.pdf",
+      "slide_2.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "training-013-照顧學習多樣性——多元閱讀教學_新辦",
+    "title": "照顧學習多樣性——多元閱讀教學（新辦）",
+    "category": "training",
+    "series": "教師培訓",
+    "source": "resources/training/013-照顧學習多樣性——多元閱讀教學_新辦",
+    "files": [
+      "slide_1.pdf",
+      "slide_2.pdf",
+      "slide_3.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "training-014-對聯與中華文化_二：對聯創作工作坊_新辦",
+    "title": "對聯與中華文化(二)：對聯創作工作坊 (新辦)",
+    "category": "training",
+    "series": "教師培訓",
+    "source": "resources/training/014-對聯與中華文化_二：對聯創作工作坊_新辦",
+    "files": [
+      "slide_1.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "training-015-文學文化交流活動的規劃與實踐_修訂",
+    "title": "文學文化交流活動的規劃與實踐 (修訂)",
+    "category": "training",
+    "series": "教師培訓",
+    "source": "resources/training/015-文學文化交流活動的規劃與實踐_修訂",
+    "files": [
+      "slide_1.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "training-016-實用寫作的規劃與教學分享_修訂",
+    "title": "實用寫作的規劃與教學分享(修訂)",
+    "category": "training",
+    "series": "教師培訓",
+    "source": "resources/training/016-實用寫作的規劃與教學分享_修訂",
+    "files": [
+      "slide_1.pdf",
+      "slide_2.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "training-017-中國語文科優化措施_四：文言作品賞析與教學_新辦",
+    "title": "中國語文科優化措施(四)：文言作品賞析與教學(新辦)",
+    "category": "training",
+    "series": "教師培訓",
+    "source": "resources/training/017-中國語文科優化措施_四：文言作品賞析與教學_新辦",
+    "files": [
+      "slide_1.pdf",
+      "slide_2.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "training-018-小說閱讀教學_新辦",
+    "title": "小說閱讀教學(新辦)",
+    "category": "training",
+    "series": "教師培訓",
+    "source": "resources/training/018-小說閱讀教學_新辦",
+    "files": [
+      "slide_1.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "training-019-中國語文科優化措施_三：白話作品賞析與教學_新辦",
+    "title": "中國語文科優化措施(三)：白話作品賞析與教學(新辦)",
+    "category": "training",
+    "series": "教師培訓",
+    "source": "resources/training/019-中國語文科優化措施_三：白話作品賞析與教學_新辦",
+    "files": [
+      "slide_1.pdf",
+      "slide_2.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "training-020-對聯與中華文化_一：網上講座_新辦",
+    "title": "對聯與中華文化 (一)：網上講座 (新辦)",
+    "category": "training",
+    "series": "教師培訓",
+    "source": "resources/training/020-對聯與中華文化_一：網上講座_新辦",
+    "files": [
+      "slide_1.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "training-021-中學中國語文科新任科主任導引工作坊──課程實施與領導_新辦",
+    "title": "中學中國語文科新任科主任導引工作坊──課程實施與領導(新辦)",
+    "category": "training",
+    "series": "教師培訓",
+    "source": "resources/training/021-中學中國語文科新任科主任導引工作坊──課程實施與領導_新辦",
+    "files": [
+      "slide_1.pdf",
+      "slide_2.pdf",
+      "slide_3.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "training-022-中國語文科優化措施_二：文化專題探討與反思_修訂",
+    "title": "中國語文科優化措施(二)：文化專題探討與反思(修訂)",
+    "category": "training",
+    "series": "教師培訓",
+    "source": "resources/training/022-中國語文科優化措施_二：文化專題探討與反思_修訂",
+    "files": [
+      "slide_1.pdf",
+      "slide_2.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "training-023-科普作品閱讀教學_新辦",
+    "title": "科普作品閱讀教學(新辦)",
+    "category": "training",
+    "series": "教師培訓",
+    "source": "resources/training/023-科普作品閱讀教學_新辦",
+    "files": [
+      "slide_1.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "training-024-中學中國語文科課程中的文學文化及國家安全教育_修訂_網上課程",
+    "title": "中學中國語文科課程中的文學文化及國家安全教育(修訂) (網上課程)",
+    "category": "training",
+    "series": "教師培訓",
+    "source": "resources/training/024-中學中國語文科課程中的文學文化及國家安全教育_修訂_網上課程",
+    "files": [
+      "slide_1.pdf",
+      "slide_2.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "training-025-中國語文科優化措施_一：文學文化學習與多元活動_修訂",
+    "title": "中國語文科優化措施(一)：文學文化學習與多元活動(修訂)",
+    "category": "training",
+    "series": "教師培訓",
+    "source": "resources/training/025-中國語文科優化措施_一：文學文化學習與多元活動_修訂",
+    "files": [
+      "slide_1.pdf",
+      "slide_2.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "training-026-如何善用教育局學與教資源促進語文學習_新辦",
+    "title": "如何善用教育局學與教資源促進語文學習(新辦)",
+    "category": "training",
+    "series": "教師培訓",
+    "source": "resources/training/026-如何善用教育局學與教資源促進語文學習_新辦",
+    "files": [
+      "slide_1.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "training-027-202223種籽計劃分享會：在中學中國語文課程加強文學和中華文化學習_新辦",
+    "title": "2022/23種籽計劃分享會：在中學中國語文課程加強文學和中華文化學習(新辦)",
+    "category": "training",
+    "series": "教師培訓",
+    "source": "resources/training/027-202223種籽計劃分享會：在中學中國語文課程加強文學和中華文化學習_新辦",
+    "files": [
+      "slide_1.pdf",
+      "slide_2.pdf",
+      "slide_3.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "training-028-箴言精選_新辦",
+    "title": "箴言精選(新辦)",
+    "category": "training",
+    "series": "教師培訓",
+    "source": "resources/training/028-箴言精選_新辦",
+    "files": [
+      "slide_1.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "training-029-如何在校園營造語文學習的氛圍_新辦",
+    "title": "如何在校園營造語文學習的氛圍(新辦)",
+    "category": "training",
+    "series": "教師培訓",
+    "source": "resources/training/029-如何在校園營造語文學習的氛圍_新辦",
+    "files": [
+      "slide_1.pdf",
+      "slide_2.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "training-030-以篇帶書──學校讀文教學和閱讀計劃經驗分享_新辦",
+    "title": "以篇帶書──學校讀文教學和閱讀計劃經驗分享(新辦)",
+    "category": "training",
+    "series": "教師培訓",
+    "source": "resources/training/030-以篇帶書──學校讀文教學和閱讀計劃經驗分享_新辦",
+    "files": [
+      "slide_1.pdf",
+      "slide_2.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "training-031-高中中國語文科優化措施_十：文學文化學習與多元活動_修訂",
+    "title": "高中中國語文科優化措施（十）：文學文化學習與多元活動（修訂）",
+    "category": "training",
+    "series": "教師培訓",
+    "source": "resources/training/031-高中中國語文科優化措施_十：文學文化學習與多元活動_修訂",
+    "files": [
+      "slide_1.pdf",
+      "slide_2.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "training-032-高中中國語文科優化措施_九：文化專題探討與課堂討論_修訂",
+    "title": "高中中國語文科優化措施（九）：文化專題探討與課堂討論（修訂）",
+    "category": "training",
+    "series": "教師培訓",
+    "source": "resources/training/032-高中中國語文科優化措施_九：文化專題探討與課堂討論_修訂",
+    "files": [
+      "slide_1.pdf",
+      "slide_2.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "training-033-高中中國語文科優化措施_八：以篇帶書的閱讀教學_新辦",
+    "title": "高中中國語文科優化措施（八）：以篇帶書的閱讀教學（新辦）",
+    "category": "training",
+    "series": "教師培訓",
+    "source": "resources/training/033-高中中國語文科優化措施_八：以篇帶書的閱讀教學_新辦",
+    "files": [
+      "slide_1.pdf",
+      "slide_2.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "training-034-高中中國語文科優化措施_七：以優質讀物為例說明如何進行閱讀活動_新辦",
+    "title": "高中中國語文科優化措施（七）：以優質讀物為例說明如何進行閱讀活動（新辦）",
+    "category": "training",
+    "series": "教師培訓",
+    "source": "resources/training/034-高中中國語文科優化措施_七：以優質讀物為例說明如何進行閱讀活動_新辦",
+    "files": [
+      "slide_1.pdf",
+      "slide_2.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "training-035-高中中國語文科優化措施_六：校本中國語文科語文活動——從歷史記憶走到文學書寫_修訂",
+    "title": "高中中國語文科優化措施（六）：校本中國語文科語文活動——從歷史記憶走到文學書寫（修訂）",
+    "category": "training",
+    "series": "教師培訓",
+    "source": "resources/training/035-高中中國語文科優化措施_六：校本中國語文科語文活動——從歷史記憶走到文學書寫_修訂",
+    "files": [
+      "slide_1.pdf",
+      "slide_2.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "training-036-高中中國語文科優化措施_五：寫作教學：如何從生活中提煉寫作_新辦",
+    "title": "高中中國語文科優化措施（五）：寫作教學：如何從生活中提煉寫作（新辦）",
+    "category": "training",
+    "series": "教師培訓",
+    "source": "resources/training/036-高中中國語文科優化措施_五：寫作教學：如何從生活中提煉寫作_新辦",
+    "files": [
+      "slide_1.pdf",
+      "slide_2.pdf",
+      "slide_3.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "training-037-中學中國語文科課程中的文學文化及國家安全教育_修訂",
+    "title": "中學中國語文科課程中的文學文化及國家安全教育 (修訂)",
+    "category": "training",
+    "series": "教師培訓",
+    "source": "resources/training/037-中學中國語文科課程中的文學文化及國家安全教育_修訂",
+    "files": [
+      "slide_1.pdf",
+      "slide_2.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "training-038-高中中國語文科優化措施_四：文學文化學習與多元活動_修訂",
+    "title": "高中中國語文科優化措施(四)：文學文化學習與多元活動(修訂)",
+    "category": "training",
+    "series": "教師培訓",
+    "source": "resources/training/038-高中中國語文科優化措施_四：文學文化學習與多元活動_修訂",
+    "files": [
+      "slide_1.pdf",
+      "slide_2.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "training-039-高中中國語文科優化措施_三：課程領導與設計──中國語文科文學與文化校本課程經驗分享_修訂",
+    "title": "高中中國語文科優化措施(三)：課程領導與設計──中國語文科文學與文化校本課程經驗分享(修訂)",
+    "category": "training",
+    "series": "教師培訓",
+    "source": "resources/training/039-高中中國語文科優化措施_三：課程領導與設計──中國語文科文學與文化校本課程經驗分享_修訂",
+    "files": [
+      "slide_1.pdf",
+      "slide_2.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "training-040-高中中國語文科優化措施_二：建議篇章──文白經典教學_修訂",
+    "title": "高中中國語文科優化措施(二)：建議篇章──文白經典教學(修訂)",
+    "category": "training",
+    "series": "教師培訓",
+    "source": "resources/training/040-高中中國語文科優化措施_二：建議篇章──文白經典教學_修訂",
+    "files": [
+      "slide_1.pdf",
+      "slide_2.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "training-041-實用寫作的規劃與教學分享_新辦",
+    "title": "實用寫作的規劃與教學分享(新辦)",
+    "category": "training",
+    "series": "教師培訓",
+    "source": "resources/training/041-實用寫作的規劃與教學分享_新辦",
+    "files": [
+      "slide_1.pdf",
+      "slide_2.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "training-042-高中中國語文科優化措施_一：以篇帶書的學與教策略_修訂",
+    "title": "高中中國語文科優化措施(一)：以篇帶書的學與教策略(修訂)",
+    "category": "training",
+    "series": "教師培訓",
+    "source": "resources/training/042-高中中國語文科優化措施_一：以篇帶書的學與教策略_修訂",
+    "files": [
+      "slide_1.pdf",
+      "slide_2.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "training-043-202122種籽計劃分享會：在中學中國語文課程加強文學和中華文化學習_新辦",
+    "title": "2021/22種籽計劃分享會：在中學中國語文課程加強文學和中華文化學習（新辦）",
+    "category": "training",
+    "series": "教師培訓",
+    "source": "resources/training/043-202122種籽計劃分享會：在中學中國語文課程加強文學和中華文化學習_新辦",
+    "files": [
+      "slide_1.pdf",
+      "slide_2.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "training-044-高中中國語文課程學校經驗分享——融合必修和選修_優化讀寫教學_新辦",
+    "title": "高中中國語文課程學校經驗分享——融合必修和選修、優化讀寫教學（新辦）",
+    "category": "training",
+    "series": "教師培訓",
+    "source": "resources/training/044-高中中國語文課程學校經驗分享——融合必修和選修_優化讀寫教學_新辦",
+    "files": [
+      "slide_1.pdf",
+      "slide_2.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "training-045-對聯與文化_新辦",
+    "title": "對聯與文化（新辦）",
+    "category": "training",
+    "series": "教師培訓",
+    "source": "resources/training/045-對聯與文化_新辦",
+    "files": [
+      "slide_1.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "training-046-閱讀教學與中華文化學習：_二教學經驗分享_修訂",
+    "title": "閱讀教學與中華文化學習：（二）教學經驗分享（修訂）",
+    "category": "training",
+    "series": "教師培訓",
+    "source": "resources/training/046-閱讀教學與中華文化學習：_二教學經驗分享_修訂",
+    "files": [
+      "slide_1.pdf",
+      "slide_2.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "training-047-經典_書法與中華文化_新辦",
+    "title": "經典、書法與中華文化（新辦）",
+    "category": "training",
+    "series": "教師培訓",
+    "source": "resources/training/047-經典_書法與中華文化_新辦",
+    "files": [
+      "slide_1.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "training-048-閱讀教學與中華文化學習：_一經典作品選讀_修訂",
+    "title": "閱讀教學與中華文化學習：（一）經典作品選讀（修訂）",
+    "category": "training",
+    "series": "教師培訓",
+    "source": "resources/training/048-閱讀教學與中華文化學習：_一經典作品選讀_修訂",
+    "files": [
+      "slide_1.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "training-049-實用寫作樣本卷簡介及教學分享_新辦",
+    "title": "實用寫作樣本卷簡介及教學分享（新辦）",
+    "category": "training",
+    "series": "教師培訓",
+    "source": "resources/training/049-實用寫作樣本卷簡介及教學分享_新辦",
+    "files": [
+      "slide_1.pdf",
+      "slide_2.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "training-050-粵語正音與粵語流行曲的文學意象_新辦",
+    "title": "粵語正音與粵語流行曲的文學意象（新辦）",
+    "category": "training",
+    "series": "教師培訓",
+    "source": "resources/training/050-粵語正音與粵語流行曲的文學意象_新辦",
+    "files": [
+      "slide_1.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "training-051-文化交流的規劃與實踐_新辦",
+    "title": "文化交流的規劃與實踐 （新辦）",
+    "category": "training",
+    "series": "教師培訓",
+    "source": "resources/training/051-文化交流的規劃與實踐_新辦",
+    "files": [
+      "slide_1.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "training-052-提升閱讀教學的效益_新辦",
+    "title": "提升閱讀教學的效益（新辦）",
+    "category": "training",
+    "series": "教師培訓",
+    "source": "resources/training/052-提升閱讀教學的效益_新辦",
+    "files": [
+      "slide_1.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "training-053-202021種籽計劃分享：促進中學中國語文學與教效能_新辦",
+    "title": "2020/21種籽計劃分享：促進中學中國語文學與教效能（新辦）",
+    "category": "training",
+    "series": "教師培訓",
+    "source": "resources/training/053-202021種籽計劃分享：促進中學中國語文學與教效能_新辦",
+    "files": [
+      "slide_1.pdf",
+      "slide_2.pdf",
+      "slide_3.pdf",
+      "slide_4.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "training-054-高中中國語文課程融合必修和選修部分教學經驗分享_新辦",
+    "title": "高中中國語文課程融合必修和選修部分教學經驗分享（新辦）",
+    "category": "training",
+    "series": "教師培訓",
+    "source": "resources/training/054-高中中國語文課程融合必修和選修部分教學經驗分享_新辦",
+    "files": [
+      "slide_1.pdf",
+      "slide_2.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "training-055-讀中華經典名句談古人修身處世_新辦",
+    "title": "讀中華經典名句談古人修身處世（新辦）",
+    "category": "training",
+    "series": "教師培訓",
+    "source": "resources/training/055-讀中華經典名句談古人修身處世_新辦",
+    "files": [
+      "slide_1.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "training-056-閱讀教學與中華文化學習︰_二教學經驗分享_新辦_網上課程",
+    "title": "閱讀教學與中華文化學習︰（二）教學經驗分享（新辦）（網上課程）",
+    "category": "training",
+    "series": "教師培訓",
+    "source": "resources/training/056-閱讀教學與中華文化學習︰_二教學經驗分享_新辦_網上課程",
+    "files": [
+      "slide_1.pdf",
+      "slide_2.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "training-057-閱讀教學與中華文化學習︰_一經典作品選讀_新辦_網上課程",
+    "title": "閱讀教學與中華文化學習︰（一）經典作品選讀（新辦）（網上課程）",
+    "category": "training",
+    "series": "教師培訓",
+    "source": "resources/training/057-閱讀教學與中華文化學習︰_一經典作品選讀_新辦_網上課程",
+    "files": [
+      "slide_1.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "training-058-優化高中中國語文科簡介會_新辦",
+    "title": "優化高中中國語文科簡介會（新辦）",
+    "category": "training",
+    "series": "教師培訓",
+    "source": "resources/training/058-優化高中中國語文科簡介會_新辦",
+    "files": [
+      "slide_1.pdf",
+      "slide_2.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "training-059-中學中國語文課程領導：_透過多元活動提升學生語文素養_新辦",
+    "title": "中學中國語文課程領導： 透過多元活動提升學生語文素養（新辦）",
+    "category": "training",
+    "series": "教師培訓",
+    "source": "resources/training/059-中學中國語文課程領導：_透過多元活動提升學生語文素養_新辦",
+    "files": [
+      "slide_1.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "training-060-中學中國語文課程領導：「校本課程規劃」",
+    "title": "中學中國語文課程領導：「校本課程規劃」",
+    "category": "training",
+    "series": "教師培訓",
+    "source": "resources/training/060-中學中國語文課程領導：「校本課程規劃」",
+    "files": [
+      "slide_1.pdf",
+      "slide_2.pdf",
+      "slide_3.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "training-061-文本細讀：閱讀教學課堂反思_文言作品選讀_新辦",
+    "title": "文本細讀：閱讀教學課堂反思（文言作品選讀）（新辦）",
+    "category": "training",
+    "series": "教師培訓",
+    "source": "resources/training/061-文本細讀：閱讀教學課堂反思_文言作品選讀_新辦",
+    "files": [
+      "slide_1.pdf",
+      "slide_2.pdf",
+      "slide_3.pdf",
+      "slide_4.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "training-062-文本細讀：閱讀教學課堂反思_白話作品選讀_新辦",
+    "title": "文本細讀：閱讀教學課堂反思（白話作品選讀）（新辦）",
+    "category": "training",
+    "series": "教師培訓",
+    "source": "resources/training/062-文本細讀：閱讀教學課堂反思_白話作品選讀_新辦",
+    "files": [
+      "slide_1.pdf",
+      "slide_2.pdf",
+      "slide_3.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "training-063-文化專題—陶淵明：每觀其文_想其人德_新辦",
+    "title": "文化專題—陶淵明：每觀其文，想其人德（新辦）",
+    "category": "training",
+    "series": "教師培訓",
+    "source": "resources/training/063-文化專題—陶淵明：每觀其文_想其人德_新辦",
+    "files": [
+      "slide_1.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "training-064-文化專題—蘇軾的人生路：失意_求索_超脫_重辦",
+    "title": "文化專題—蘇軾的人生路：失意、求索、超脫（重辦）",
+    "category": "training",
+    "series": "教師培訓",
+    "source": "resources/training/064-文化專題—蘇軾的人生路：失意_求索_超脫_重辦",
+    "files": [
+      "slide_1.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "training-065-「促進學習的評估」工作坊——_1閱讀教學有效的提問與回饋_2閱讀評估優質擬題設計_修訂",
+    "title": "「促進學習的評估」工作坊——（1）閱讀教學有效的提問與回饋（2）閱讀評估優質擬題設計（修訂）",
+    "category": "training",
+    "series": "教師培訓",
+    "source": "resources/training/065-「促進學習的評估」工作坊——_1閱讀教學有效的提問與回饋_2閱讀評估優質擬題設計_修訂",
+    "files": [
+      "slide_1.pdf",
+      "slide_2.pdf",
+      "slide_3.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "training-066-讀書會的推動與實踐—貓主題讀書會_新辦",
+    "title": "讀書會的推動與實踐—貓主題讀書會（新辦）",
+    "category": "training",
+    "series": "教師培訓",
+    "source": "resources/training/066-讀書會的推動與實踐—貓主題讀書會_新辦",
+    "files": [
+      "slide_1.pdf",
+      "slide_2.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "training-067-跨課程閱讀的理論與實踐_修訂",
+    "title": "跨課程閱讀的理論與實踐（修訂）",
+    "category": "training",
+    "series": "教師培訓",
+    "source": "resources/training/067-跨課程閱讀的理論與實踐_修訂",
+    "files": [
+      "slide_1.pdf",
+      "slide_2.pdf",
+      "slide_3.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "training-068-課堂教學反思︰文本細讀_作品選讀_新辦",
+    "title": "課堂教學反思︰文本細讀（作品選讀）（新辦）",
+    "category": "training",
+    "series": "教師培訓",
+    "source": "resources/training/068-課堂教學反思︰文本細讀_作品選讀_新辦",
+    "files": [
+      "slide_1.pdf",
+      "slide_2.pdf",
+      "slide_3.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "training-069-課堂教學反思︰文本細讀_白話文選讀_新辦",
+    "title": "課堂教學反思︰文本細讀（白話文選讀）（新辦）",
+    "category": "training",
+    "series": "教師培訓",
+    "source": "resources/training/069-課堂教學反思︰文本細讀_白話文選讀_新辦",
+    "files": [
+      "slide_1.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "training-070-照顧學習多樣性︰善用資訊科技促進中國語文及文學學習_修訂",
+    "title": "照顧學習多樣性︰善用資訊科技促進中國語文及文學學習（修訂）",
+    "category": "training",
+    "series": "教師培訓",
+    "source": "resources/training/070-照顧學習多樣性︰善用資訊科技促進中國語文及文學學習_修訂",
+    "files": [
+      "slide_1.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "training-071-結合多媒體促進實用文寫作教學_修訂",
+    "title": "結合多媒體促進實用文寫作教學（修訂）",
+    "category": "training",
+    "series": "教師培訓",
+    "source": "resources/training/071-結合多媒體促進實用文寫作教學_修訂",
+    "files": [
+      "slide_1.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "training-072-語文學習中的自主學習_新辦",
+    "title": "語文學習中的自主學習（新辦）",
+    "category": "training",
+    "series": "教師培訓",
+    "source": "resources/training/072-語文學習中的自主學習_新辦",
+    "files": [
+      "slide_1.pdf",
+      "slide_2.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "training-073-照顧學生學習語文的多樣性_新辦",
+    "title": "照顧學生學習語文的多樣性（新辦）",
+    "category": "training",
+    "series": "教師培訓",
+    "source": "resources/training/073-照顧學生學習語文的多樣性_新辦",
+    "files": [
+      "slide_1.pdf",
+      "slide_2.pdf",
+      "slide_3.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "training-074-中學中國語文科課程詮釋_修訂",
+    "title": "中學中國語文科課程詮釋(修訂)",
+    "category": "training",
+    "series": "教師培訓",
+    "source": "resources/training/074-中學中國語文科課程詮釋_修訂",
+    "files": [
+      "slide_1.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "training-075-中學中國語文科新任教師導引：_課程詮釋及學習評估_修訂",
+    "title": "中學中國語文科新任教師導引： 課程詮釋及學習評估（修訂）",
+    "category": "training",
+    "series": "教師培訓",
+    "source": "resources/training/075-中學中國語文科新任教師導引：_課程詮釋及學習評估_修訂",
+    "files": [
+      "slide_1.pdf",
+      "slide_2.pdf",
+      "slide_3.pdf",
+      "slide_4.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "training-076-中學中國語文科新任教師導引：_課程詮釋及學習評估_修訂",
+    "title": "中學中國語文科新任教師導引： 課程詮釋及學習評估（修訂）",
+    "category": "training",
+    "series": "教師培訓",
+    "source": "resources/training/076-中學中國語文科新任教師導引：_課程詮釋及學習評估_修訂",
+    "files": [
+      "slide_1.pdf",
+      "slide_2.pdf",
+      "slide_3.pdf",
+      "slide_4.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "training-077-重讀經典_六：《愛蓮說》_《桃花源記》_《飲酒_其五_結廬在人境》_修訂",
+    "title": "重讀經典(六)：《愛蓮說》、《桃花源記》、《飲酒 其五（結廬在人境）》(修訂)",
+    "category": "training",
+    "series": "教師培訓",
+    "source": "resources/training/077-重讀經典_六：《愛蓮說》_《桃花源記》_《飲酒_其五_結廬在人境》_修訂",
+    "files": [
+      "slide_1.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "training-078-重讀經典_五：《木蘭詩》_《天淨沙_秋思》_《國風．關雎》_《青玉案_元夕_東風夜放花千樹》_修訂",
+    "title": "重讀經典(五)：《木蘭詩》、《天淨沙 秋思》、《國風．關雎》、《青玉案 元夕(東風夜放花千樹)》(修訂)",
+    "category": "training",
+    "series": "教師培訓",
+    "source": "resources/training/078-重讀經典_五：《木蘭詩》_《天淨沙_秋思》_《國風．關雎》_《青玉案_元夕_東風夜放花千樹》_修訂",
+    "files": [
+      "slide_1.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "training-079-重讀經典_四：《送杜少府之任蜀州》_《兵車行》_《燕詩》_《登樓》_《月下獨酌》_其一_《山居秋暝》_修訂",
+    "title": "重讀經典(四)：《送杜少府之任蜀州》、《兵車行》、《燕詩》、《登樓》、《月下獨酌》(其一)、《山居秋暝》(修訂)",
+    "category": "training",
+    "series": "教師培訓",
+    "source": "resources/training/079-重讀經典_四：《送杜少府之任蜀州》_《兵車行》_《燕詩》_《登樓》_《月下獨酌》_其一_《山居秋暝》_修訂",
+    "files": [
+      "slide_1.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "training-080-重讀經典_三：《楊修之死》_《陳情表》_《曹劌論戰》_修訂",
+    "title": "重讀經典(三)：《楊修之死》、《陳情表》、《曹劌論戰》(修訂)",
+    "category": "training",
+    "series": "教師培訓",
+    "source": "resources/training/080-重讀經典_三：《楊修之死》_《陳情表》_《曹劌論戰》_修訂",
+    "files": [
+      "slide_1.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "training-081-重讀經典_二：《論四端》_《論仁_論孝_論君子》_修訂",
+    "title": "重讀經典(二)：《論四端》、《論仁、論孝、論君子》(修訂)",
+    "category": "training",
+    "series": "教師培訓",
+    "source": "resources/training/081-重讀經典_二：《論四端》_《論仁_論孝_論君子》_修訂",
+    "files": [
+      "slide_1.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "training-082-重讀經典_一：《逍遙遊_節錄》及其他",
+    "title": "重讀經典(一)：《逍遙遊(節錄)》及其他",
+    "category": "training",
+    "series": "教師培訓",
+    "source": "resources/training/082-重讀經典_一：《逍遙遊_節錄》及其他",
+    "files": [
+      "slide_1.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "training-083-重讀經典_六：《始得西山宴遊記》_《山居秋暝》_《月下獨酌_其一》_《登樓》_新辦",
+    "title": "重讀經典（六）：《始得西山宴遊記》、《山居秋暝》、《月下獨酌（其一）》、《登樓》（新辦）",
+    "category": "training",
+    "series": "教師培訓",
+    "source": "resources/training/083-重讀經典_六：《始得西山宴遊記》_《山居秋暝》_《月下獨酌_其一》_《登樓》_新辦",
+    "files": [
+      "slide_1.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "training-084-重讀經典_五：《水調歌頭並序_明月幾時有》_《天淨沙_秋思》_《青玉案_元夕_東風夜放花千樹》_新辦",
+    "title": "重讀經典（五）：《水調歌頭並序（明月幾時有）》、《天淨沙 秋思》、《青玉案 元夕（東風夜放花千樹）》（新辦）",
+    "category": "training",
+    "series": "教師培訓",
+    "source": "resources/training/084-重讀經典_五：《水調歌頭並序_明月幾時有》_《天淨沙_秋思》_《青玉案_元夕_東風夜放花千樹》_新辦",
+    "files": [
+      "slide_1.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "training-085-重讀經典_四：《愛蓮說》_《桃花源記》_《飲酒其五_結廬在人境》_修訂",
+    "title": "重讀經典（四）：《愛蓮說》、《桃花源記》、《飲酒其五（結廬在人境)》（修訂）",
+    "category": "training",
+    "series": "教師培訓",
+    "source": "resources/training/085-重讀經典_四：《愛蓮說》_《桃花源記》_《飲酒其五_結廬在人境》_修訂",
+    "files": [
+      "slide_1.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "training-086-重讀經典_三：《鄒忌諷齊王訥諫》_《楊修之死》_《陳情表》_修訂",
+    "title": "重讀經典(三)：《鄒忌諷齊王訥諫》、《楊修之死》、《陳情表》(修訂)",
+    "category": "training",
+    "series": "教師培訓",
+    "source": "resources/training/086-重讀經典_三：《鄒忌諷齊王訥諫》_《楊修之死》_《陳情表》_修訂",
+    "files": [
+      "slide_1.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "training-087-重讀經典_二：《大同與小康》_《大學_節錄》_《魚我所欲也》_修訂",
+    "title": "重讀經典(二)：《大同與小康》、《大學(節錄)》、《魚我所欲也》(修訂)",
+    "category": "training",
+    "series": "教師培訓",
+    "source": "resources/training/087-重讀經典_二：《大同與小康》_《大學_節錄》_《魚我所欲也》_修訂",
+    "files": [
+      "slide_1.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "training-088-重讀經典_一：《廉頗藺相如列傳_節錄》_《逍遙遊_節錄》_新辧",
+    "title": "重讀經典(一)：《廉頗藺相如列傳(節錄)》、《逍遙遊(節錄)》(新辧)",
+    "category": "training",
+    "series": "教師培訓",
+    "source": "resources/training/088-重讀經典_一：《廉頗藺相如列傳_節錄》_《逍遙遊_節錄》_新辧",
+    "files": [
+      "slide_1.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "training-089-文言經典的賞析與品味_十：馴致以繹辭：宋詞的藝術特色——從蘇軾_李清照及辛棄疾三家詞為例_新辦",
+    "title": "文言經典的賞析與品味（十）：馴致以繹辭：宋詞的藝術特色——從蘇軾、李清照及辛棄疾三家詞為例（新辦）",
+    "category": "training",
+    "series": "教師培訓",
+    "source": "resources/training/089-文言經典的賞析與品味_十：馴致以繹辭：宋詞的藝術特色——從蘇軾_李清照及辛棄疾三家詞為例_新辦",
+    "files": [
+      "slide_1.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "training-090-文言經典的賞析與品味_九：盛唐詩歌的文化精神——從王維_李白及杜甫三家詩為例_新辦",
+    "title": "文言經典的賞析與品味（九）：盛唐詩歌的文化精神——從王維、李白及杜甫三家詩為例（新辦）",
+    "category": "training",
+    "series": "教師培訓",
+    "source": "resources/training/090-文言經典的賞析與品味_九：盛唐詩歌的文化精神——從王維_李白及杜甫三家詩為例_新辦",
+    "files": [
+      "slide_1.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "training-091-文言經典的賞析與品味_八：意在言外_借古喻今的論辯技巧——從蘇洵〈六國論〉說起_新辦",
+    "title": "文言經典的賞析與品味（八）：意在言外、借古喻今的論辯技巧——從蘇洵〈六國論〉說起（新辦）",
+    "category": "training",
+    "series": "教師培訓",
+    "source": "resources/training/091-文言經典的賞析與品味_八：意在言外_借古喻今的論辯技巧——從蘇洵〈六國論〉說起_新辦",
+    "files": [
+      "slide_1.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "training-092-文言經典的賞析與品味_七：傳道_授業_解惑——從韓愈〈師說〉說起_新辦",
+    "title": "文言經典的賞析與品味（七）：傳道，授業，解惑——從韓愈〈師說〉說起（新辦）",
+    "category": "training",
+    "series": "教師培訓",
+    "source": "resources/training/092-文言經典的賞析與品味_七：傳道_授業_解惑——從韓愈〈師說〉說起_新辦",
+    "files": [
+      "slide_1.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "training-093-文言經典的賞析與品味_六：傳統美德與讀史意義——從司馬遷〈廉頗藺相如列傳〉_節錄說起_新辦",
+    "title": "文言經典的賞析與品味（六）：傳統美德與讀史意義——從司馬遷〈廉頗藺相如列傳〉（節錄）說起（新辦）",
+    "category": "training",
+    "series": "教師培訓",
+    "source": "resources/training/093-文言經典的賞析與品味_六：傳統美德與讀史意義——從司馬遷〈廉頗藺相如列傳〉_節錄說起_新辦",
+    "files": [
+      "slide_1.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "training-094-文言經典的賞析與品味_五：_入世與出世人生態度——從莊子《逍遙遊》_節錄與諸葛亮《出師表》說起_新辦",
+    "title": "文言經典的賞析與品味（五）： 入世與出世人生態度——從莊子《逍遙遊》（節錄）與諸葛亮《出師表》說起（新辦）",
+    "category": "training",
+    "series": "教師培訓",
+    "source": "resources/training/094-文言經典的賞析與品味_五：_入世與出世人生態度——從莊子《逍遙遊》_節錄與諸葛亮《出師表》說起_新辦",
+    "files": [
+      "slide_1.pdf",
+      "slide_2.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "training-095-文言經典的賞析與品味_四：_超凡入聖_雄深雅健——從孟子《魚我所欲也》章與荀子《勸學》_節錄看孟荀散文的特色_新辦",
+    "title": "文言經典的賞析與品味（四）： 超凡入聖 雄深雅健——從孟子《魚我所欲也》章與荀子《勸學》（節錄）看孟荀散文的特色（新辦）",
+    "category": "training",
+    "series": "教師培訓",
+    "source": "resources/training/095-文言經典的賞析與品味_四：_超凡入聖_雄深雅健——從孟子《魚我所欲也》章與荀子《勸學》_節錄看孟荀散文的特色_新辦",
+    "files": [
+      "slide_1.pdf",
+      "slide_2.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "training-096-文言經典的賞析與品味_三：_事景情理的寫作藝術——從柳宗元《始得西山宴遊記》及范仲淹《岳陽樓記》說起_新辦",
+    "title": "文言經典的賞析與品味（三）： 事景情理的寫作藝術——從柳宗元《始得西山宴遊記》及范仲淹《岳陽樓記》說起（新辦）",
+    "category": "training",
+    "series": "教師培訓",
+    "source": "resources/training/096-文言經典的賞析與品味_三：_事景情理的寫作藝術——從柳宗元《始得西山宴遊記》及范仲淹《岳陽樓記》說起_新辦",
+    "files": [
+      "slide_1.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "training-097-文言經典的賞析與品味_二：_至聖先師的道德垂訓——論仁_論孝_論君子_新辦",
+    "title": "文言經典的賞析與品味（二）： 至聖先師的道德垂訓——論仁、論孝、論君子（新辦）",
+    "category": "training",
+    "series": "教師培訓",
+    "source": "resources/training/097-文言經典的賞析與品味_二：_至聖先師的道德垂訓——論仁_論孝_論君子_新辦",
+    "files": [
+      "slide_1.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "training-098-文言經典的賞析與品味_一：_通變以適時——古今經典名篇的學與教_新辦",
+    "title": "文言經典的賞析與品味（一）： 通變以適時——古今經典名篇的學與教（新辦）",
+    "category": "training",
+    "series": "教師培訓",
+    "source": "resources/training/098-文言經典的賞析與品味_一：_通變以適時——古今經典名篇的學與教_新辦",
+    "files": [
+      "slide_1.pdf",
+      "text.md"
+    ]
+  },
+  {
+    "id": "training-unmapped",
+    "title": "unmapped",
+    "category": "training",
+    "series": "教師培訓",
+    "source": "resources/training/unmapped",
+    "files": [
+      "EDB_PDPO_c.pdf"
+    ]
+  }
+]

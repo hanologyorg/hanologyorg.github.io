@@ -1,0 +1,1 @@
+/Users/mulgogi/src/chinese/primary/resources/primary/097-畫雞/text.md

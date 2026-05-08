@@ -1,0 +1,1 @@
+/Users/mulgogi/src/chinese/primary/resources/primary/032-送友人/text.md

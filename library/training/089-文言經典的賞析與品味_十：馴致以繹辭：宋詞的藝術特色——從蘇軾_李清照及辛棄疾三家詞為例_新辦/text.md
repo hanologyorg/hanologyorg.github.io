@@ -1,0 +1,1 @@
+/Users/mulgogi/src/chinese/primary/resources/training/089-文言經典的賞析與品味_十：馴致以繹辭：宋詞的藝術特色——從蘇軾_李清照及辛棄疾三家詞為例_新辦/text.md

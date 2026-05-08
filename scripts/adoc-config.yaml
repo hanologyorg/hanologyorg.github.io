@@ -1,0 +1,104 @@
+# Per-book AsciiDoc → CHAM conversion config.
+# No document-specific strings in the TS code.
+
+books:
+  - id: laozi
+    type: annotated
+    source:
+      dir: sections
+    meta:
+      title: 帛書老子 甲本
+      titleEn: The Book of Laozi on Silk, Version A
+      publisher: 早稲田大学図書館
+      genre: prose
+      contributors:
+        - ref: Laozi
+          role: author
+      date:
+        dynasty: 周
+        circa: true
+      layers:
+        - id: wangbi
+          label: 王弼註
+          shortLabel: 王
+          annotator: 王弼
+          contributor: C001
+          role: commentator
+          nature: commentary
+          displayOrder: 1
+        - id: hesonggong
+          label: 河上公註
+          shortLabel: 河
+          annotator: 河上公
+          contributor: C002
+          role: commentator
+          nature: commentary
+          displayOrder: 2
+      annotation:
+        defaultLabel: 原文
+        defaultShortLabel: 文
+
+  - id: difan
+    type: prose
+    source:
+      file: difan.adoc
+    meta:
+      title: 帝範
+      subtitle: 唐·太宗
+      titleEn: The Imperial Model
+      publisher: 早稲田大学図書館
+      genre: prose
+      contributors:
+        - ref: C003
+          role: author
+      date:
+        dynasty: 唐
+        era: 貞觀
+        era_year: 22
+    sections:
+      unit: 篇
+      contributors:
+        foreword:
+          - ref: C010
+        preface:
+          - ref: C011
+            role: author
+            title: 總纂官
+          - ref: C012
+            role: author
+            title: 總纂官
+          - ref: C013
+            role: author
+            title: 總纂官
+          - ref: C014
+            role: author
+            title: 總校官
+        native: [C003]
+        chapter: [C003]
+        postface: [C003]
+
+  - id: shengui
+    type: prose
+    source:
+      file: shengui.adoc
+    meta:
+      title: 臣軌
+      subtitle: 唐·武則天
+      titleEn: "The Minister's Guide"
+      publisher: 早稲田大学図書館
+      genre: prose
+      contributors:
+        - ref: C004
+          role: author
+      date:
+        dynasty: 唐
+        era: 垂拱
+        era_year: 1
+    sections:
+      unit: 章
+      contributors:
+        foreword: [C010]
+        preface: [C004]
+        native: [C004]
+        chapter: [C004]
+        postface: [C004]

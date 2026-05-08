@@ -1,0 +1,1 @@
+/Users/mulgogi/src/chinese/primary/resources/training/097-文言經典的賞析與品味_二：_至聖先師的道德垂訓——論仁_論孝_論君子_新辦/text.md

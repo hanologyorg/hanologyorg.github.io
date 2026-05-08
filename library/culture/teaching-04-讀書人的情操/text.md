@@ -1,0 +1,1 @@
+/Users/mulgogi/src/chinese/primary/resources/culture/teaching-04-讀書人的情操/text.md

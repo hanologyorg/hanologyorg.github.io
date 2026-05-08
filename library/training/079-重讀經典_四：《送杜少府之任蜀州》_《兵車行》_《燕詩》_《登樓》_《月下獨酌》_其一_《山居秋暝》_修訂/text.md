@@ -1,0 +1,1 @@
+/Users/mulgogi/src/chinese/primary/resources/training/079-重讀經典_四：《送杜少府之任蜀州》_《兵車行》_《燕詩》_《登樓》_《月下獨酌》_其一_《山居秋暝》_修訂/text.md

@@ -1,0 +1,1 @@
+/Users/mulgogi/src/chinese/primary/resources/primary/043-絕句/text.md

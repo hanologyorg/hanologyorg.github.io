@@ -1,0 +1,1 @@
+/Users/mulgogi/src/chinese/primary/resources/training/006-從傳統到現代_一：孝親文化_新辦/text.md

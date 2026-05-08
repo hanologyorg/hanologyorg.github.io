@@ -1,0 +1,1 @@
+/Users/mulgogi/src/chinese/primary/resources/training/088-重讀經典_一：《廉頗藺相如列傳_節錄》_《逍遙遊_節錄》_新辧/text.md

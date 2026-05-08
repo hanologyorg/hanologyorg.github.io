@@ -1,0 +1,1 @@
+/Users/mulgogi/src/chinese/primary/resources/culture/teaching-06-順應自然/text.md

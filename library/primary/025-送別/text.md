@@ -1,0 +1,1 @@
+/Users/mulgogi/src/chinese/primary/resources/primary/025-送別/text.md

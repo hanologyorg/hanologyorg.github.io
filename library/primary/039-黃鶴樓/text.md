@@ -1,0 +1,1 @@
+/Users/mulgogi/src/chinese/primary/resources/primary/039-黃鶴樓/text.md

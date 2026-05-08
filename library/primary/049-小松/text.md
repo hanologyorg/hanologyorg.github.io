@@ -1,0 +1,1 @@
+/Users/mulgogi/src/chinese/primary/resources/primary/049-小松/text.md

@@ -1,0 +1,1 @@
+/Users/mulgogi/src/chinese/primary/resources/primary/027-鹿柴/text.md
