@@ -1,5 +1,7 @@
 import { ref } from 'vue'
 import type { Annotation } from '../types'
+import { useReadingMode } from './useReadingMode'
+import { toChineseNumber } from '../utils/chineseNumber'
 
 export interface AnnSpan {
   start: number
@@ -27,24 +29,74 @@ export function buildVerseAnnotations(annotations: Annotation[], verseIndex: num
   }).sort((a, b) => a.start - b.start)
 }
 
-export function renderAnnotatedText(text: string, spans: AnnSpan[]): string {
+export function countVerseSpans(annotations: Annotation[], verseIndex: number): number {
+  const anns = annotations.filter(a =>
+    a.range.scope === 'verse' && a.range.verseIndex === verseIndex
+  )
+  const keys = new Set<string>()
+  for (const a of anns) {
+    keys.add(`${a.range.start ?? 0}:${a.range.end ?? 0}`)
+  }
+  return keys.size
+}
+
+export function renderAnnotatedText(text: string, spans: AnnSpan[], useRuby = false, startNum = 0): string {
   if (!spans.length) return esc(text)
 
+  let annCounter = startNum
   let html = ''
   let cursor = 0
   for (const span of spans) {
     if (span.start > cursor) {
       html += esc(text.slice(cursor, span.start))
     }
+    annCounter++
     const ids = span.annotations.map(a => a.id).join(',')
     const kinds = [...new Set(span.annotations.map(a => a.kind))].join(' ')
-    html += `<span class="ann-target ${kinds}" data-ann-ids="${ids}">${esc(text.slice(span.start, span.end))}</span>`
+    const numText = toChineseNumber(annCounter)
+    const body = esc(text.slice(span.start, span.end))
+    if (useRuby) {
+      html += `<ruby class="ann-target ${kinds}" data-ann-ids="${ids}">${body}<rp></rp><rt class="ann-num">${numText}</rt><rp></rp></ruby>`
+    } else {
+      html += `<span class="ann-target ${kinds}" data-ann-ids="${ids}">${body}<sup class="ann-num">${numText}</sup></span>`
+    }
     cursor = span.end
   }
   if (cursor < text.length) {
     html += esc(text.slice(cursor))
   }
   return html
+}
+
+export interface VerseGutterRender {
+  textHtml: string
+  gutterHtml: string
+}
+
+export function renderVerseGutter(text: string, spans: AnnSpan[], startNum = 0): VerseGutterRender {
+  if (!spans.length) return { textHtml: esc(text), gutterHtml: '' }
+
+  const gutter = new Array<string>(text.length).fill('　')
+  let annCounter = startNum
+  let textHtml = ''
+  let cursor = 0
+
+  for (const span of spans) {
+    if (span.start > cursor) {
+      textHtml += esc(text.slice(cursor, span.start))
+    }
+    annCounter++
+    const ids = span.annotations.map(a => a.id).join(',')
+    const kinds = [...new Set(span.annotations.map(a => a.kind))].join(' ')
+    textHtml += `<span class="ann-target ${kinds}" data-ann-ids="${ids}">${esc(text.slice(span.start, span.end))}</span>`
+    gutter[span.start] = `<span class="ann-gutter-num ${kinds}" data-ann-ids="${ids}">${toChineseNumber(annCounter)}</span>`
+    cursor = span.end
+  }
+  if (cursor < text.length) {
+    textHtml += esc(text.slice(cursor))
+  }
+
+  return { textHtml, gutterHtml: gutter.join('') }
 }
 
 export function resolveHoveredAnnotations(
@@ -62,15 +114,29 @@ export function useAnnotationTooltip() {
   const visible = ref(false)
   const items = ref<Annotation[]>([])
   const style = ref<Record<string, string>>({})
+  const { layout } = useReadingMode()
 
   function show(event: MouseEvent, annotations: Annotation[]) {
     items.value = annotations
-    const target = event.target as HTMLElement
-    const rect = target.getBoundingClientRect()
+    const el = (event.target as HTMLElement).closest('.ann-target') as HTMLElement | null
+    const rect = (el ?? event.target as HTMLElement).getBoundingClientRect()
     const w = 280
-    style.value = {
-      left: Math.max(8, Math.min(rect.left - w - 12, window.innerWidth - w - 8)) + 'px',
-      top: Math.max(8, rect.top) + 'px',
+    const h = 200
+
+    if (layout.value === 'vertical') {
+      const left = rect.left - 12
+      const top = Math.max(8, Math.min(rect.top, window.innerHeight - h - 8))
+      style.value = {
+        right: Math.max(8, window.innerWidth - left) + 'px',
+        top: top + 'px',
+      }
+    } else {
+      const left = Math.max(8, Math.min(rect.left, window.innerWidth - w - 8))
+      const top = Math.max(8, rect.bottom + 8)
+      style.value = {
+        left: left + 'px',
+        top: Math.min(top, window.innerHeight - h - 8) + 'px',
+      }
     }
     visible.value = true
   }

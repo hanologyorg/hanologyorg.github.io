@@ -11,7 +11,8 @@
   "license": "ISC",
   "type": "commonjs",
   "dependencies": {
-    "pdfjs-dist": "^4.4.168"
+    "pdfjs-dist": "^4.4.168",
+    "yaml": "^2.8.4"
   },
   "devDependencies": {
     "@types/node": "^25.6.0",

@@ -1,10 +1,13 @@
 <script setup lang="ts">
 import { ref } from 'vue'
-import { useReadingMode, THEMES, THEME_LABELS } from '../composables/useReadingMode'
-import type { LayoutMode } from '../composables/useReadingMode'
+import { useReadingMode, THEMES, THEME_LABELS, FONT_SIZES } from '../composables/useReadingMode'
+import type { LayoutMode, FontSize } from '../composables/useReadingMode'
 
 defineProps<{
   context?: string
+  poemTitle?: string
+  poemAuthor?: string
+  titleCollapsed?: boolean
 }>()
 
 const emit = defineEmits<{
@@ -12,7 +15,7 @@ const emit = defineEmits<{
   home: []
 }>()
 
-const { theme, layout, setTheme, setLayout } = useReadingMode()
+const { theme, layout, mainFontSize, bodyFontSize, setTheme, setLayout, setMainFontSize, setBodyFontSize } = useReadingMode()
 const settingsOpen = ref(false)
 
 function toggleSettings() { settingsOpen.value = !settingsOpen.value }
@@ -21,14 +24,21 @@ function toggleSettings() { settingsOpen.value = !settingsOpen.value }
 <template>
   <nav class="sidenav">
     <button class="sn-brand" @click="emit('home')" title="首頁">
-      <span class="sn-seal">積</span>
+      <span class="sn-seal">漢流</span>
     </button>
 
     <button class="sn-btn" @click="emit('back')" title="返回">
       <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M9 18l6-6-6-6"/></svg>
     </button>
 
-    <div v-if="context" class="sn-context">{{ context }}</div>
+    <div v-if="context && !titleCollapsed" class="sn-context">{{ context }}</div>
+
+    <Transition name="title-in">
+      <div v-if="titleCollapsed && poemTitle" class="sn-poem-info">
+        <div class="sn-poem-title">{{ poemTitle }}</div>
+        <div v-if="poemAuthor" class="sn-poem-author">{{ poemAuthor }}</div>
+      </div>
+    </Transition>
 
     <div class="sn-spacer" />
 
@@ -64,6 +74,22 @@ function toggleSettings() { settingsOpen.value = !settingsOpen.value }
             >{{ THEME_LABELS[t] }}</button>
           </div>
         </div>
+        <div class="ss-group">
+          <div class="ss-label">正文字號</div>
+          <div class="ss-size-row">
+            <button class="ss-size-btn" @click="setMainFontSize(FONT_SIZES[Math.max(0, FONT_SIZES.indexOf(mainFontSize) - 1)] as FontSize)">−</button>
+            <span class="ss-size-val">{{ mainFontSize }}</span>
+            <button class="ss-size-btn" @click="setMainFontSize(FONT_SIZES[Math.min(FONT_SIZES.length - 1, FONT_SIZES.indexOf(mainFontSize) + 1)] as FontSize)">+</button>
+          </div>
+        </div>
+        <div class="ss-group">
+          <div class="ss-label">內文字號</div>
+          <div class="ss-size-row">
+            <button class="ss-size-btn" @click="setBodyFontSize(FONT_SIZES[Math.max(0, FONT_SIZES.indexOf(bodyFontSize) - 1)] as FontSize)">−</button>
+            <span class="ss-size-val">{{ bodyFontSize }}</span>
+            <button class="ss-size-btn" @click="setBodyFontSize(FONT_SIZES[Math.min(FONT_SIZES.length - 1, FONT_SIZES.indexOf(bodyFontSize) + 1)] as FontSize)">+</button>
+          </div>
+        </div>
       </div>
     </Transition>
 
@@ -86,7 +112,7 @@ function toggleSettings() { settingsOpen.value = !settingsOpen.value }
 }
 
 .sn-brand {
-  width: 40px; height: 40px;
+  width: 40px; height: 48px;
   border: 2px solid var(--vermillion);
   border-radius: 3px;
   background: none;
@@ -98,10 +124,16 @@ function toggleSettings() { settingsOpen.value = !settingsOpen.value }
 .sn-brand:hover { background: var(--vermillion); }
 .sn-brand:hover .sn-seal { color: var(--paper); }
 .sn-seal {
+  writing-mode: vertical-rl;
+  text-orientation: upright;
   font-family: var(--serif);
-  font-size: 18px; font-weight: 900;
+  font-size: 14px; font-weight: 900;
   color: var(--vermillion);
   transition: color 0.2s;
+  display: flex;
+  align-items: center;
+  letter-spacing: 2px;
+  line-height: 1;
 }
 
 .sn-btn {
@@ -126,6 +158,40 @@ function toggleSettings() { settingsOpen.value = !settingsOpen.value }
   overflow: hidden;
   font-family: var(--sans);
   text-align: center;
+  transition: opacity 0.3s ease, max-height 0.3s ease;
+}
+
+.sn-poem-info {
+  writing-mode: vertical-rl;
+  text-orientation: mixed;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 4px;
+}
+.sn-poem-title {
+  font-size: 18px;
+  font-weight: 900;
+  letter-spacing: 4px;
+  color: var(--ink);
+  padding-left: 8px;
+  border-left: 2px solid var(--vermillion);
+  line-height: 1.6;
+}
+.sn-poem-author {
+  font-size: 12px;
+  font-weight: 400;
+  color: var(--ink-light);
+  letter-spacing: 2px;
+  margin-left: 4px;
+}
+
+.title-in-enter-active, .title-in-leave-active {
+  transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+}
+.title-in-enter-from, .title-in-leave-to {
+  opacity: 0;
+  transform: translateX(20px);
 }
 
 .sn-spacer { flex: 1; }
@@ -186,6 +252,29 @@ function toggleSettings() { settingsOpen.value = !settingsOpen.value }
 }
 .ss-opt:hover { border-color: var(--ink); color: var(--ink); }
 .ss-opt.active { background: var(--ink); color: var(--paper); border-color: var(--ink); }
+.ss-size-row {
+  display: flex; align-items: center; gap: 6px; justify-content: center;
+}
+.ss-size-btn {
+  width: 28px; height: 28px;
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  background: none;
+  font-family: var(--sans);
+  font-size: 14px;
+  color: var(--ink-mid);
+  cursor: pointer;
+  display: flex; align-items: center; justify-content: center;
+  transition: all 0.15s;
+}
+.ss-size-btn:hover { border-color: var(--ink); color: var(--ink); }
+.ss-size-val {
+  font-family: var(--sans);
+  font-size: 13px;
+  color: var(--ink);
+  min-width: 32px;
+  text-align: center;
+}
 
 .sn-overlay {
   position: fixed; inset: 0;

@@ -1,0 +1,60 @@
+{
+  "version": "2.0.0",
+  "generatedAt": "2026-05-07T06:28:50.811Z",
+  "collections": {
+    "primary": {
+      "label": "積累與感興（小學）",
+      "total": 100,
+      "withPdf": 100,
+      "withFullText": 100,
+      "withAnnotations": 100,
+      "authors": 55,
+      "folders": 100
+    },
+    "secondary": {
+      "label": "積學與涵泳（中學）",
+      "total": 150,
+      "withPdf": 115,
+      "withAudio": 115,
+      "withTextMd": 115,
+      "folders": 150
+    },
+    "culture": {
+      "label": "郁文華章（文化）",
+      "articles": 50,
+      "essays": 6,
+      "teachingDesigns": 6,
+      "total": 62,
+      "withPdf": 46,
+      "withTextMd": 50,
+      "folders": 63
+    },
+    "nss": {
+      "label": "NSS 指定篇章",
+      "total": 12,
+      "subItems": 6,
+      "withPdf": 12,
+      "withAudio": 13,
+      "withTextMd": 12,
+      "folders": 13
+    },
+    "training": {
+      "label": "教師培訓",
+      "total": 98,
+      "withPdf": 99,
+      "withTextMd": 98,
+      "folders": 99,
+      "byCategory": {
+        "learning_teaching": 65,
+        "curriculum_assessment": 3,
+        "classical_texts": 30
+      },
+      "series": 16
+    }
+  },
+  "crossReferences": {
+    "total": 56
+  },
+  "totalResources": 422,
+  "totalFolders": 425
+}

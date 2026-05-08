@@ -1,0 +1,188 @@
+{
+  "source": "NSS 指定文言經典學習材料 — 原文及誦讀錄音",
+  "sourceUrl": "https://www.edb.gov.hk/tc/curriculum-development/kla/chi-edu/nss-lang/settext-text.html",
+  "total": 12,
+  "texts": [
+    {
+      "id": "nss:001",
+      "num": 1,
+      "title": "論仁、論孝、論君子",
+      "author": "孔子",
+      "dynasty": "春秋",
+      "source": "論語",
+      "pdfUrl": "https://www.edb.gov.hk/attachment/tc/curriculum-development/kla/chi-edu/recommended-passages/ks4_01_text.pdf",
+      "audio": {
+        "cantonese_taici": "https://www.edb.gov.hk/attachment/tc/curriculum-development/kla/chi-edu/recommended-passages/ks4_01_c.mp3",
+        "mandarin": "https://www.edb.gov.hk/attachment/tc/curriculum-development/kla/chi-edu/recommended-passages/ks4_01_p.mp3"
+      },
+      "collection": "nss"
+    },
+    {
+      "id": "nss:002",
+      "num": 2,
+      "title": "魚我所欲也",
+      "author": "孟子",
+      "dynasty": "戰國",
+      "source": "孟子",
+      "excerptRange": "節錄自《孟子‧告子上》",
+      "pdfUrl": "https://www.edb.gov.hk/attachment/tc/curriculum-development/kla/chi-edu/recommended-passages/ks4_02_text.pdf",
+      "audio": {
+        "cantonese_taici": "https://www.edb.gov.hk/attachment/tc/curriculum-development/kla/chi-edu/recommended-passages/ks4_02_c.mp3",
+        "mandarin": "https://www.edb.gov.hk/attachment/tc/curriculum-development/kla/chi-edu/recommended-passages/ks4_02_p.mp3"
+      },
+      "collection": "nss",
+      "crossRefs": [
+        { "collection": "secondary", "id": "secondary:105", "relation": "same_text" }
+      ]
+    },
+    {
+      "id": "nss:003",
+      "num": 3,
+      "title": "逍遙遊",
+      "author": "莊周",
+      "dynasty": "戰國",
+      "source": "莊子",
+      "excerptRange": "節錄",
+      "pdfUrl": "https://www.edb.gov.hk/attachment/tc/curriculum-development/kla/chi-edu/recommended-passages/ks4_03_text.pdf",
+      "audio": {
+        "cantonese_taici": "https://www.edb.gov.hk/attachment/tc/curriculum-development/kla/chi-edu/recommended-passages/ks4_03_c.mp3",
+        "mandarin": "https://www.edb.gov.hk/attachment/tc/curriculum-development/kla/chi-edu/recommended-passages/ks4_03_p.mp3"
+      },
+      "collection": "nss"
+    },
+    {
+      "id": "nss:004",
+      "num": 4,
+      "title": "勸學",
+      "author": "荀況",
+      "dynasty": "戰國",
+      "source": "荀子",
+      "excerptRange": "節錄",
+      "pdfUrl": "https://www.edb.gov.hk/attachment/tc/curriculum-development/kla/chi-edu/recommended-passages/ks4_04_text.pdf",
+      "audio": {
+        "cantonese_taici": "https://www.edb.gov.hk/attachment/tc/curriculum-development/kla/chi-edu/recommended-passages/ks4_04_c.mp3",
+        "mandarin": "https://www.edb.gov.hk/attachment/tc/curriculum-development/kla/chi-edu/recommended-passages/ks4_04_p.mp3"
+      },
+      "collection": "nss",
+      "crossRefs": [
+        { "collection": "secondary", "id": "secondary:109", "relation": "same_text" }
+      ]
+    },
+    {
+      "id": "nss:005",
+      "num": 5,
+      "title": "廉頗藺相如列傳",
+      "author": "司馬遷",
+      "dynasty": "漢",
+      "source": "史記",
+      "excerptRange": "節錄",
+      "pdfUrl": "https://www.edb.gov.hk/attachment/tc/curriculum-development/kla/chi-edu/recommended-passages/ks4_05_text.pdf",
+      "audio": {
+        "cantonese_taici": "https://www.edb.gov.hk/attachment/tc/curriculum-development/kla/chi-edu/recommended-passages/ks4_05_c.mp3",
+        "mandarin": "https://www.edb.gov.hk/attachment/tc/curriculum-development/kla/chi-edu/recommended-passages/ks4_05_p.mp3"
+      },
+      "collection": "nss"
+    },
+    {
+      "id": "nss:006",
+      "num": 6,
+      "title": "出師表",
+      "author": "諸葛亮",
+      "dynasty": "三國",
+      "pdfUrl": "https://www.edb.gov.hk/attachment/tc/curriculum-development/kla/chi-edu/recommended-passages/ks4_06_text.pdf",
+      "audio": {
+        "cantonese_taici": "https://www.edb.gov.hk/attachment/tc/curriculum-development/kla/chi-edu/recommended-passages/ks4_06_c.mp3",
+        "mandarin": "https://www.edb.gov.hk/attachment/tc/curriculum-development/kla/chi-edu/recommended-passages/ks4_06_p.mp3"
+      },
+      "collection": "nss"
+    },
+    {
+      "id": "nss:007",
+      "num": 7,
+      "title": "師說",
+      "author": "韓愈",
+      "dynasty": "唐",
+      "pdfUrl": "https://www.edb.gov.hk/attachment/tc/curriculum-development/kla/chi-edu/recommended-passages/ks4_07_text.pdf",
+      "audio": {
+        "cantonese_taici": "https://www.edb.gov.hk/attachment/tc/curriculum-development/kla/chi-edu/recommended-passages/ks4_07_c.mp3",
+        "mandarin": "https://www.edb.gov.hk/attachment/tc/curriculum-development/kla/chi-edu/recommended-passages/ks4_07_p.mp3"
+      },
+      "collection": "nss"
+    },
+    {
+      "id": "nss:008",
+      "num": 8,
+      "title": "始得西山宴遊記",
+      "author": "柳宗元",
+      "dynasty": "唐",
+      "pdfUrl": "https://www.edb.gov.hk/attachment/tc/curriculum-development/kla/chi-edu/recommended-passages/ks4_08_text.pdf",
+      "audio": {
+        "cantonese_taici": "https://www.edb.gov.hk/attachment/tc/curriculum-development/kla/chi-edu/recommended-passages/ks4_08_c.mp3",
+        "cantonese_yinsong": "https://www.edb.gov.hk/attachment/tc/curriculum-development/kla/chi-edu/recommended-passages/ks4_08_y.mp3",
+        "mandarin": "https://www.edb.gov.hk/attachment/tc/curriculum-development/kla/chi-edu/recommended-passages/ks4_08_p.mp3"
+      },
+      "collection": "nss"
+    },
+    {
+      "id": "nss:009",
+      "num": 9,
+      "title": "岳陽樓記",
+      "author": "范仲淹",
+      "dynasty": "宋",
+      "pdfUrl": "https://www.edb.gov.hk/attachment/tc/curriculum-development/kla/chi-edu/recommended-passages/ks4_09_text.pdf",
+      "audio": {
+        "cantonese_taici": "https://www.edb.gov.hk/attachment/tc/curriculum-development/kla/chi-edu/recommended-passages/ks4_09_c.mp3",
+        "cantonese_yinsong": "https://www.edb.gov.hk/attachment/tc/curriculum-development/kla/chi-edu/recommended-passages/ks4_09_y.mp3",
+        "mandarin": "https://www.edb.gov.hk/attachment/tc/curriculum-development/kla/chi-edu/recommended-passages/ks4_09_p.mp3"
+      },
+      "collection": "nss"
+    },
+    {
+      "id": "nss:010",
+      "num": 10,
+      "title": "六國論",
+      "author": "蘇洵",
+      "dynasty": "宋",
+      "pdfUrl": "https://www.edb.gov.hk/attachment/tc/curriculum-development/kla/chi-edu/recommended-passages/ks4_10_text.pdf",
+      "audio": {
+        "cantonese_taici": "https://www.edb.gov.hk/attachment/tc/curriculum-development/kla/chi-edu/recommended-passages/ks4_10_c.mp3",
+        "mandarin": "https://www.edb.gov.hk/attachment/tc/curriculum-development/kla/chi-edu/recommended-passages/ks4_10_p.mp3"
+      },
+      "collection": "nss"
+    },
+    {
+      "id": "nss:011",
+      "num": 11,
+      "title": "唐詩三首",
+      "dynasty": "唐",
+      "pdfUrl": "https://www.edb.gov.hk/attachment/tc/curriculum-development/kla/chi-edu/recommended-passages/ks4_11_text.pdf",
+      "audio": {
+        "cantonese_taici": "https://www.edb.gov.hk/attachment/tc/curriculum-development/kla/chi-edu/recommended-passages/ks4_11_c.mp3",
+        "mandarin": "https://www.edb.gov.hk/attachment/tc/curriculum-development/kla/chi-edu/recommended-passages/ks4_11_p.mp3"
+      },
+      "subItems": [
+        { "id": "nss:011a", "num": 1, "title": "山居秋暝", "author": "王維", "dynasty": "唐", "collection": "nss" },
+        { "id": "nss:011b", "num": 2, "title": "月下獨酌", "author": "李白", "dynasty": "唐", "collection": "nss" },
+        { "id": "nss:011c", "num": 3, "title": "登樓", "author": "杜甫", "dynasty": "唐", "collection": "nss" }
+      ],
+      "collection": "nss"
+    },
+    {
+      "id": "nss:012",
+      "num": 12,
+      "title": "詞三首",
+      "dynasty": "宋",
+      "pdfUrl": "https://www.edb.gov.hk/attachment/tc/curriculum-development/kla/chi-edu/recommended-passages/ks4_12_text.pdf",
+      "audio": {
+        "cantonese_taici": "https://www.edb.gov.hk/attachment/tc/curriculum-development/kla/chi-edu/recommended-passages/ks4_12_c.mp3",
+        "mandarin": "https://www.edb.gov.hk/attachment/tc/curriculum-development/kla/chi-edu/recommended-passages/ks4_12_p.mp3"
+      },
+      "subItems": [
+        { "id": "nss:012a", "num": 1, "title": "念奴嬌‧赤壁懷古", "author": "蘇軾", "dynasty": "宋", "collection": "nss" },
+        { "id": "nss:012b", "num": 2, "title": "聲聲慢", "author": "李清照", "dynasty": "宋", "collection": "nss" },
+        { "id": "nss:012c", "num": 3, "title": "青玉案‧元夕", "author": "辛棄疾", "dynasty": "宋", "collection": "nss" }
+      ],
+      "collection": "nss"
+    }
+  ]
+}

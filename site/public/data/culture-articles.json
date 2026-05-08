@@ -1,0 +1,657 @@
+{
+  "source": "郁文華章—中華文化學與教資源套（中學篇）",
+  "updatedYear": 2020,
+  "essays": [
+    {
+      "id": "culture:essay:001",
+      "num": 1,
+      "title": "中華文化的精神價值",
+      "author": "鄭宗義教授",
+      "section": "essays",
+      "collection": "culture"
+    },
+    {
+      "id": "culture:essay:002",
+      "num": 2,
+      "title": "如何與中學生談中華文化",
+      "author": "盧鳴東博士",
+      "section": "essays",
+      "collection": "culture",
+      "pdfUrl": "https://www.edb.gov.hk/attachment/tc/curriculum-development/kla/chi-edu/resources/secondary-edu/lang/culture/A002.pdf"
+    },
+    {
+      "id": "culture:essay:003",
+      "num": 3,
+      "title": "雜談新高中語文課程的文化教學",
+      "author": "楊鍾基教授",
+      "section": "essays",
+      "collection": "culture",
+      "pdfUrl": "https://www.edb.gov.hk/attachment/tc/curriculum-development/kla/chi-edu/resources/secondary-edu/lang/culture/A003.pdf"
+    },
+    {
+      "id": "culture:essay:004",
+      "num": 4,
+      "title": "中文和中國文化",
+      "author": "陳永明教授",
+      "section": "essays",
+      "collection": "culture",
+      "pdfUrl": "https://www.edb.gov.hk/attachment/tc/curriculum-development/kla/chi-edu/resources/secondary-edu/lang/culture/A004.pdf"
+    },
+    {
+      "id": "culture:essay:005",
+      "num": 5,
+      "title": "課程領導如何推動中華文化的學習",
+      "author": "胡志洪老師",
+      "section": "essays",
+      "collection": "culture",
+      "pdfUrl": "https://www.edb.gov.hk/attachment/tc/curriculum-development/kla/chi-edu/resources/secondary-edu/lang/culture/A005.pdf"
+    },
+    {
+      "id": "culture:essay:006",
+      "num": 6,
+      "title": "高中選修單元「文化專題探討」的設計與教學—種籽計劃實踐經驗談",
+      "author": "陳慧儀老師",
+      "section": "essays",
+      "collection": "culture",
+      "pdfUrl": "https://www.edb.gov.hk/attachment/tc/curriculum-development/kla/chi-edu/resources/secondary-edu/lang/culture/A006.pdf"
+    }
+  ],
+  "articles": [
+    {
+      "id": "culture:001",
+      "num": 1,
+      "title": "大學（節錄）",
+      "author": "禮記",
+      "category": "self_cultivation",
+      "format": "pdf",
+      "section": "articles",
+      "collection": "culture",
+      "pdfUrl": "https://www.edb.gov.hk/attachment/tc/curriculum-development/kla/chi-edu/resources/secondary-edu/lang/culture/B001.pdf"
+    },
+    {
+      "id": "culture:002",
+      "num": 2,
+      "title": "論仁、論君子",
+      "author": "論語",
+      "category": "self_cultivation",
+      "format": "pdf",
+      "section": "articles",
+      "collection": "culture",
+      "pdfUrl": "https://www.edb.gov.hk/attachment/tc/curriculum-development/kla/chi-edu/resources/secondary-edu/lang/culture/B002.pdf"
+    },
+    {
+      "id": "culture:003",
+      "num": 3,
+      "title": "論學",
+      "author": "論語",
+      "category": "self_cultivation",
+      "format": "pdf",
+      "section": "articles",
+      "collection": "culture",
+      "pdfUrl": "https://www.edb.gov.hk/attachment/tc/curriculum-development/kla/chi-edu/resources/secondary-edu/lang/culture/C003.pdf"
+    },
+    {
+      "id": "culture:004",
+      "num": 4,
+      "title": "魚我所欲也",
+      "author": "孟子",
+      "category": "self_cultivation",
+      "format": "pdf",
+      "section": "articles",
+      "collection": "culture",
+      "pdfUrl": "https://www.edb.gov.hk/attachment/tc/curriculum-development/kla/chi-edu/resources/secondary-edu/lang/culture/C004.pdf"
+    },
+    {
+      "id": "culture:005",
+      "num": 5,
+      "title": "論四端",
+      "author": "孟子",
+      "category": "self_cultivation",
+      "format": "pdf",
+      "section": "articles",
+      "collection": "culture",
+      "pdfUrl": "https://www.edb.gov.hk/attachment/tc/curriculum-development/kla/chi-edu/resources/secondary-edu/lang/culture/C005.pdf"
+    },
+    {
+      "id": "culture:006",
+      "num": 6,
+      "title": "晏子僕御（節錄）",
+      "author": "晏子春秋",
+      "category": "self_cultivation",
+      "format": "pdf",
+      "section": "articles",
+      "collection": "culture",
+      "pdfUrl": "https://www.edb.gov.hk/attachment/tc/curriculum-development/kla/chi-edu/resources/secondary-edu/lang/culture/C006.pdf"
+    },
+    {
+      "id": "culture:007",
+      "num": 7,
+      "title": "臧與穀牧羊（節錄）",
+      "author": "莊子",
+      "category": "self_cultivation",
+      "format": "pdf",
+      "section": "articles",
+      "collection": "culture",
+      "pdfUrl": "https://www.edb.gov.hk/attachment/tc/curriculum-development/kla/chi-edu/resources/secondary-edu/lang/culture/B007.pdf"
+    },
+    {
+      "id": "culture:008",
+      "num": 8,
+      "title": "庖丁解牛（節錄）",
+      "author": "莊子",
+      "category": "self_cultivation",
+      "format": "pdf",
+      "section": "articles",
+      "collection": "culture",
+      "pdfUrl": "https://www.edb.gov.hk/attachment/tc/curriculum-development/kla/chi-edu/resources/secondary-edu/lang/culture/B008.pdf"
+    },
+    {
+      "id": "culture:009",
+      "num": 9,
+      "title": "歸園田居 三首",
+      "author": "陶潛",
+      "category": "self_cultivation",
+      "format": "pdf",
+      "section": "articles",
+      "collection": "culture",
+      "pdfUrl": "https://www.edb.gov.hk/attachment/tc/curriculum-development/kla/chi-edu/resources/secondary-edu/lang/culture/B009.pdf"
+    },
+    {
+      "id": "culture:010",
+      "num": 10,
+      "title": "管寧華歆共園中鋤菜（節錄）",
+      "author": "世說新語",
+      "category": "self_cultivation",
+      "format": "pdf",
+      "section": "articles",
+      "collection": "culture",
+      "pdfUrl": "https://www.edb.gov.hk/attachment/tc/curriculum-development/kla/chi-edu/resources/secondary-edu/lang/culture/B010.pdf"
+    },
+    {
+      "id": "culture:011",
+      "num": 11,
+      "title": "把酒問月",
+      "author": "李白",
+      "category": "self_cultivation",
+      "format": "pdf",
+      "section": "articles",
+      "collection": "culture",
+      "pdfUrl": "https://www.edb.gov.hk/attachment/tc/curriculum-development/kla/chi-edu/resources/secondary-edu/lang/culture/B011.pdf"
+    },
+    {
+      "id": "culture:012",
+      "num": 12,
+      "title": "茅屋為秋風所破歌",
+      "author": "杜甫",
+      "category": "self_cultivation",
+      "format": "pdf",
+      "section": "articles",
+      "collection": "culture",
+      "pdfUrl": "https://www.edb.gov.hk/attachment/tc/curriculum-development/kla/chi-edu/resources/secondary-edu/lang/culture/B012.pdf"
+    },
+    {
+      "id": "culture:013",
+      "num": 13,
+      "title": "始得西山宴遊記",
+      "author": "柳宗元",
+      "category": "self_cultivation",
+      "format": "pdf",
+      "section": "articles",
+      "collection": "culture",
+      "pdfUrl": "https://www.edb.gov.hk/attachment/tc/curriculum-development/kla/chi-edu/resources/secondary-edu/lang/culture/B013.pdf"
+    },
+    {
+      "id": "culture:014",
+      "num": 14,
+      "title": "岳陽樓記",
+      "author": "范仲淹",
+      "category": "self_cultivation",
+      "format": "pdf",
+      "section": "articles",
+      "collection": "culture",
+      "pdfUrl": "https://www.edb.gov.hk/attachment/tc/curriculum-development/kla/chi-edu/resources/secondary-edu/lang/culture/B014.pdf"
+    },
+    {
+      "id": "culture:015",
+      "num": 15,
+      "title": "醉翁亭記",
+      "author": "歐陽修",
+      "category": "self_cultivation",
+      "format": "pdf",
+      "section": "articles",
+      "collection": "culture",
+      "pdfUrl": "https://www.edb.gov.hk/attachment/tc/curriculum-development/kla/chi-edu/resources/secondary-edu/lang/culture/B015.pdf"
+    },
+    {
+      "id": "culture:016",
+      "num": 16,
+      "title": "正氣歌 並序",
+      "author": "文天祥",
+      "category": "self_cultivation",
+      "format": "pdf",
+      "section": "articles",
+      "collection": "culture",
+      "pdfUrl": "https://www.edb.gov.hk/attachment/tc/curriculum-development/kla/chi-edu/resources/secondary-edu/lang/culture/B016.pdf"
+    },
+    {
+      "id": "culture:017",
+      "num": 17,
+      "title": "廉恥",
+      "author": "顧炎武",
+      "category": "self_cultivation",
+      "format": "pdf",
+      "section": "articles",
+      "collection": "culture",
+      "pdfUrl": "https://www.edb.gov.hk/attachment/tc/curriculum-development/kla/chi-edu/resources/secondary-edu/lang/culture/B017.pdf"
+    },
+    {
+      "id": "culture:018",
+      "num": 18,
+      "title": "左忠毅公軼事",
+      "author": "方苞",
+      "category": "self_cultivation",
+      "format": "pdf",
+      "section": "articles",
+      "collection": "culture",
+      "pdfUrl": "https://www.edb.gov.hk/attachment/tc/curriculum-development/kla/chi-edu/resources/secondary-edu/lang/culture/B018.pdf"
+    },
+    {
+      "id": "culture:019",
+      "num": 19,
+      "title": "為學",
+      "author": "彭端淑",
+      "category": "self_cultivation",
+      "format": "pdf",
+      "section": "articles",
+      "collection": "culture",
+      "pdfUrl": "https://www.edb.gov.hk/attachment/tc/curriculum-development/kla/chi-edu/resources/secondary-edu/lang/culture/B019.pdf"
+    },
+    {
+      "id": "culture:020",
+      "num": 20,
+      "title": "習慣說",
+      "author": "劉蓉",
+      "category": "self_cultivation",
+      "format": "pdf",
+      "section": "articles",
+      "collection": "culture",
+      "pdfUrl": "https://www.edb.gov.hk/attachment/tc/curriculum-development/kla/chi-edu/resources/secondary-edu/lang/culture/B020.pdf"
+    },
+    {
+      "id": "culture:021",
+      "num": 21,
+      "title": "敬業與樂業",
+      "author": "梁啟超",
+      "category": "self_cultivation",
+      "format": "pdf",
+      "section": "articles",
+      "collection": "culture",
+      "pdfUrl": "https://www.edb.gov.hk/attachment/tc/curriculum-development/kla/chi-edu/resources/secondary-edu/lang/culture/B021.pdf"
+    },
+    {
+      "id": "culture:022",
+      "num": 22,
+      "title": "中山先生的習醫時代",
+      "author": "鄭子瑜",
+      "category": "self_cultivation",
+      "format": "www",
+      "section": "articles",
+      "collection": "culture",
+      "externalUrl": "https://cd.edb.gov.hk/chi/resource/culture.asp"
+    },
+    {
+      "id": "culture:023",
+      "num": 23,
+      "title": "不恥下問",
+      "author": "佚名",
+      "category": "self_cultivation",
+      "format": "pdf",
+      "section": "articles",
+      "collection": "culture",
+      "pdfUrl": "https://www.edb.gov.hk/attachment/tc/curriculum-development/kla/chi-edu/resources/secondary-edu/lang/culture/B023.pdf"
+    },
+    {
+      "id": "culture:024",
+      "num": 24,
+      "title": "小國寡民",
+      "author": "老子",
+      "category": "family_nation",
+      "format": "pdf",
+      "section": "articles",
+      "collection": "culture",
+      "pdfUrl": "https://www.edb.gov.hk/attachment/tc/curriculum-development/kla/chi-edu/resources/secondary-edu/lang/culture/B024.pdf"
+    },
+    {
+      "id": "culture:025",
+      "num": 25,
+      "title": "兼愛",
+      "author": "墨子",
+      "category": "family_nation",
+      "format": "pdf",
+      "section": "articles",
+      "collection": "culture",
+      "pdfUrl": "https://www.edb.gov.hk/attachment/tc/curriculum-development/kla/chi-edu/resources/secondary-edu/lang/culture/B025.pdf"
+    },
+    {
+      "id": "culture:026",
+      "num": 26,
+      "title": "寡人願安承教",
+      "author": "孟子",
+      "category": "family_nation",
+      "format": "pdf",
+      "section": "articles",
+      "collection": "culture",
+      "pdfUrl": "https://www.edb.gov.hk/attachment/tc/curriculum-development/kla/chi-edu/resources/secondary-edu/lang/culture/B026.pdf"
+    },
+    {
+      "id": "culture:027",
+      "num": 27,
+      "title": "隆禮重法（節錄）",
+      "author": "荀子",
+      "category": "family_nation",
+      "format": "pdf",
+      "section": "articles",
+      "collection": "culture",
+      "pdfUrl": "https://www.edb.gov.hk/attachment/tc/curriculum-development/kla/chi-edu/resources/secondary-edu/lang/culture/B027.pdf"
+    },
+    {
+      "id": "culture:028",
+      "num": 28,
+      "title": "君不仁，臣不忠（節錄）",
+      "author": "韓非子",
+      "category": "family_nation",
+      "format": "pdf",
+      "section": "articles",
+      "collection": "culture",
+      "pdfUrl": "https://www.edb.gov.hk/attachment/tc/curriculum-development/kla/chi-edu/resources/secondary-edu/lang/culture/B028.pdf"
+    },
+    {
+      "id": "culture:029",
+      "num": 29,
+      "title": "大同與小康（節錄）",
+      "author": "禮記",
+      "category": "family_nation",
+      "format": "pdf",
+      "section": "articles",
+      "collection": "culture",
+      "pdfUrl": "https://www.edb.gov.hk/attachment/tc/curriculum-development/kla/chi-edu/resources/secondary-edu/lang/culture/B029.pdf"
+    },
+    {
+      "id": "culture:030",
+      "num": 30,
+      "title": "出師表",
+      "author": "諸葛亮",
+      "category": "family_nation",
+      "format": "pdf",
+      "section": "articles",
+      "collection": "culture",
+      "pdfUrl": "https://www.edb.gov.hk/attachment/tc/curriculum-development/kla/chi-edu/resources/secondary-edu/lang/culture/B030.pdf"
+    },
+    {
+      "id": "culture:031",
+      "num": 31,
+      "title": "雪落在中國的土地上",
+      "author": "艾青",
+      "category": "family_nation",
+      "format": "www",
+      "section": "articles",
+      "collection": "culture",
+      "externalUrl": "https://cd.edb.gov.hk/chi/resource/culture.asp"
+    },
+    {
+      "id": "culture:032",
+      "num": 32,
+      "title": "論孝",
+      "author": "論語",
+      "category": "family_nation",
+      "format": "pdf",
+      "section": "articles",
+      "collection": "culture",
+      "pdfUrl": "https://www.edb.gov.hk/attachment/tc/curriculum-development/kla/chi-edu/resources/secondary-edu/lang/culture/B032.pdf"
+    },
+    {
+      "id": "culture:033",
+      "num": 33,
+      "title": "燕詩",
+      "author": "白居易",
+      "category": "family_nation",
+      "format": "pdf",
+      "section": "articles",
+      "collection": "culture",
+      "pdfUrl": "https://www.edb.gov.hk/attachment/tc/curriculum-development/kla/chi-edu/resources/secondary-edu/lang/culture/B033.pdf"
+    },
+    {
+      "id": "culture:034",
+      "num": 34,
+      "title": "我的母親",
+      "author": "老舍",
+      "category": "family_nation",
+      "format": "www",
+      "section": "articles",
+      "collection": "culture",
+      "externalUrl": "https://cd.edb.gov.hk/chi/resource/culture.asp"
+    },
+    {
+      "id": "culture:035",
+      "num": 35,
+      "title": "父親節論慈孝（節錄）",
+      "author": "陳耀南",
+      "category": "family_nation",
+      "format": "www",
+      "section": "articles",
+      "collection": "culture",
+      "externalUrl": "https://cd.edb.gov.hk/chi/resource/culture.asp"
+    },
+    {
+      "id": "culture:036",
+      "num": 36,
+      "title": "承教小記—謹以此段文字追念唐君毅老師",
+      "author": "小思",
+      "category": "family_nation",
+      "format": "www",
+      "section": "articles",
+      "collection": "culture",
+      "externalUrl": "https://cd.edb.gov.hk/chi/resource/culture.asp"
+    },
+    {
+      "id": "culture:037",
+      "num": 37,
+      "title": "不遷",
+      "author": "小思",
+      "category": "family_nation",
+      "format": "www",
+      "section": "articles",
+      "collection": "culture",
+      "externalUrl": "https://cd.edb.gov.hk/chi/resource/culture.asp"
+    },
+    {
+      "id": "culture:038",
+      "num": 38,
+      "title": "少小離家老大回—我的尋根記（節選）",
+      "author": "白先勇",
+      "category": "family_nation",
+      "format": "www",
+      "section": "articles",
+      "collection": "culture",
+      "externalUrl": "https://cd.edb.gov.hk/chi/resource/culture.asp"
+    },
+    {
+      "id": "culture:039",
+      "num": 39,
+      "title": "鄉愁四韻",
+      "author": "余光中",
+      "category": "family_nation",
+      "format": "www",
+      "section": "articles",
+      "collection": "culture",
+      "externalUrl": "https://cd.edb.gov.hk/chi/resource/culture.asp"
+    },
+    {
+      "id": "culture:040",
+      "num": 40,
+      "title": "愛蓮說",
+      "author": "周敦頤",
+      "category": "beauty_goodness",
+      "format": "pdf",
+      "section": "articles",
+      "collection": "culture",
+      "pdfUrl": "https://www.edb.gov.hk/attachment/tc/curriculum-development/kla/chi-edu/resources/secondary-edu/lang/culture/B040.pdf"
+    },
+    {
+      "id": "culture:041",
+      "num": 41,
+      "title": "白玉苦瓜",
+      "author": "余光中",
+      "category": "beauty_goodness",
+      "format": "www",
+      "section": "articles",
+      "collection": "culture",
+      "externalUrl": "https://cd.edb.gov.hk/chi/resource/culture.asp"
+    },
+    {
+      "id": "culture:042",
+      "num": 42,
+      "title": "中國的牛",
+      "author": "小思",
+      "category": "beauty_goodness",
+      "format": "www",
+      "section": "articles",
+      "collection": "culture",
+      "externalUrl": "https://cd.edb.gov.hk/chi/resource/culture.asp"
+    },
+    {
+      "id": "culture:043",
+      "num": 43,
+      "title": "竹影",
+      "author": "豐子愷",
+      "category": "beauty_goodness",
+      "format": "www",
+      "section": "articles",
+      "collection": "culture",
+      "externalUrl": "https://cd.edb.gov.hk/chi/resource/culture.asp"
+    },
+    {
+      "id": "culture:044",
+      "num": 44,
+      "title": "宋徽宗選畫（節錄）",
+      "author": "曹濟平、韓龍瑤、吳惠風",
+      "category": "beauty_goodness",
+      "format": "pdf",
+      "section": "articles",
+      "collection": "culture",
+      "pdfUrl": "https://www.edb.gov.hk/attachment/tc/curriculum-development/kla/chi-edu/resources/secondary-edu/lang/culture/B044.pdf"
+    },
+    {
+      "id": "culture:045",
+      "num": 45,
+      "title": "知魚之樂",
+      "author": "莊子",
+      "category": "nature",
+      "format": "pdf",
+      "section": "articles",
+      "collection": "culture",
+      "pdfUrl": "https://www.edb.gov.hk/attachment/tc/curriculum-development/kla/chi-edu/resources/secondary-edu/lang/culture/B045.pdf"
+    },
+    {
+      "id": "culture:046",
+      "num": 46,
+      "title": "逍遙遊（節錄）",
+      "author": "莊子",
+      "category": "nature",
+      "format": "pdf",
+      "section": "articles",
+      "collection": "culture",
+      "pdfUrl": "https://www.edb.gov.hk/attachment/tc/curriculum-development/kla/chi-edu/resources/secondary-edu/lang/culture/B046.pdf"
+    },
+    {
+      "id": "culture:047",
+      "num": 47,
+      "title": "女媧補天（節錄）",
+      "author": "淮南子",
+      "category": "nature",
+      "format": "pdf",
+      "section": "articles",
+      "collection": "culture",
+      "pdfUrl": "https://www.edb.gov.hk/attachment/tc/curriculum-development/kla/chi-edu/resources/secondary-edu/lang/culture/B047.pdf"
+    },
+    {
+      "id": "culture:048",
+      "num": 48,
+      "title": "飲酒（其五）",
+      "author": "陶潛",
+      "category": "nature",
+      "format": "pdf",
+      "section": "articles",
+      "collection": "culture",
+      "pdfUrl": "https://www.edb.gov.hk/attachment/tc/curriculum-development/kla/chi-edu/resources/secondary-edu/lang/culture/B048.pdf"
+    },
+    {
+      "id": "culture:049",
+      "num": 49,
+      "title": "鳥鳴澗",
+      "author": "王維",
+      "category": "nature",
+      "format": "pdf",
+      "section": "articles",
+      "collection": "culture",
+      "pdfUrl": "https://www.edb.gov.hk/attachment/tc/curriculum-development/kla/chi-edu/resources/secondary-edu/lang/culture/B049.pdf"
+    },
+    {
+      "id": "culture:050",
+      "num": 50,
+      "title": "明天不封陽台",
+      "author": "杜衛東",
+      "category": "nature",
+      "format": "www",
+      "section": "articles",
+      "collection": "culture",
+      "externalUrl": "https://cd.edb.gov.hk/chi/resource/culture.asp"
+    }
+  ],
+  "teachingDesigns": [
+    {
+      "id": "culture:design:001",
+      "num": 1,
+      "title": "為學",
+      "section": "teaching_designs",
+      "collection": "culture",
+      "pdfUrl": "https://www.edb.gov.hk/attachment/tc/curriculum-development/kla/chi-edu/resources/secondary-edu/lang/culture/C001.pdf"
+    },
+    {
+      "id": "culture:design:002",
+      "num": 2,
+      "title": "孝親",
+      "section": "teaching_designs",
+      "collection": "culture",
+      "pdfUrl": "https://www.edb.gov.hk/attachment/tc/curriculum-development/kla/chi-edu/resources/secondary-edu/lang/culture/C002.pdf"
+    },
+    {
+      "id": "culture:design:003",
+      "num": 3,
+      "title": "美與善",
+      "section": "teaching_designs",
+      "collection": "culture"
+    },
+    {
+      "id": "culture:design:004",
+      "num": 4,
+      "title": "讀書人的情操",
+      "section": "teaching_designs",
+      "collection": "culture"
+    },
+    {
+      "id": "culture:design:005",
+      "num": 5,
+      "title": "鄉土情懷",
+      "section": "teaching_designs",
+      "collection": "culture"
+    },
+    {
+      "id": "culture:design:006",
+      "num": 6,
+      "title": "順應自然",
+      "section": "teaching_designs",
+      "collection": "culture"
+    }
+  ]
+}

@@ -1,6 +1,14 @@
-# 積累與感興 — 古典詩文圖書館
+# 古典詩文圖書館
 
-教育局「積累與感興」小學古詩文誦讀材料選編的數位圖書館，收錄 100 篇經典詩文。
+古典漢語文本數位圖書館，目前收錄五部典籍共 271 篇：
+
+| 典籍 | 篇數 |
+|------|------|
+| 積累與感興（教育局小學古詩文誦讀材料） | 100 |
+| 積學與涵泳（教育局中學古詩文誦讀材料） | 115 |
+| 帛書老子 甲本 | 26 |
+| 帝範 | 17 |
+| 臣軌 | 13 |
 
 ## 快速開始
 
@@ -23,7 +31,7 @@ npm run preview
 ```
 ├── site/                    # 前端（Vue 3 + vite-ssg）
 │   ├── src/
-│   │   ├── types.ts         # 主要資料型別（Poem, Annotation, Author, Dynasty）
+│   │   ├── types.ts         # 主要資料型別
 │   │   ├── models/          # 古典文本擴展模型
 │   │   │   └── classical-types.ts
 │   │   ├── composables/     # Vue composables
@@ -34,44 +42,20 @@ npm run preview
 │   │   ├── views/           # 頁面元件
 │   │   └── styles/main.css  # 設計系統（CSS 變數）
 │   └── public/data/         # JSON 資料檔
-│       ├── poems.json       # 100 篇詩文
-│       ├── authors.json     # 47 位作者
+│       ├── library.json     # 圖書館索引（所有典籍）
+│       ├── books/           # 各典籍資料（primary.json, laozi.json…）
+│       ├── authors.json     # 作者索引
 │       └── dynasties.json   # 朝代索引
-├── scripts/
-│   └── reprocess-data.py    # PDF → JSON 資料管線
+├── src/                     # 後端管線（TypeScript, pdfjs-dist）
 ├── pdfs/                    # 來源 PDF 檔案
 ├── TODO.classic-han-library/  # 古典文本系統規格文件
 ├── TODO.resources-pull/       # 資源擴展規格文件
 └── reference-docs/            # 參考文獻
 ```
 
-## 資料流程
+## 資料格式
 
-```
-PDF 檔案 (pdfs/*.pdf)
-  ↓ pdfjs-dist 提取文本
-  ↓ reprocess-data.py 解析結構
-  ↓
-site/public/data/poems.json (100 篇，含 1112 條注釋)
-site/public/data/authors.json (47 位作者)
-site/public/data/dynasties.json
-  ↓
-vite-ssg build → 靜態 HTML（site/dist/）
-```
-
-### 重新處理資料
-
-若 PDF 來源有更新，重新執行管線：
-
-```bash
-python3 scripts/reprocess-data.py
-```
-
-輸出會直接覆寫 `site/public/data/poems.json`。
-
-### 資料格式
-
-每首詩文的注釋使用 **flat annotation model**（每條注釋獨立，透過 `TextRange` 精確定位到字元偏移量）：
+注釋使用 **flat annotation model**（每條注釋透過 `TextRange` 精確定位到字元偏移量）：
 
 ```json
 {
@@ -90,25 +74,15 @@ python3 scripts/reprocess-data.py
 }
 ```
 
-注釋類型（`kind`）：
-- `pronunciation` — 注音（顯示「音」標籤，jade 色）
-- `semantic` — 釋義（顯示「義」標籤，vermillion 色）
-- `etymology`、`note`、`definition` — 預留擴展
+注釋類型（`kind`）：`pronunciation`（注音）、`semantic`（釋義）、`etymology`、`note`、`definition`。
 
 ## 開發指南
-
-### 新增前端元件
-
-1. 在 `site/src/components/` 建立元件
-2. 遵循設計系統的 CSS 變數（見 `styles/main.css`）
-3. 注釋渲染使用 `useAnnotationRenderer` composable（DRY）
-4. 資料存取使用 `useData` composable（Map 索引，O(1) 查詢）
 
 ### SSR 注意事項
 
 - `useData` 在 SSR 時直接讀檔，在 CSR 時 fetch JSON
 - 禁止在 SSR 環境使用 `document`、`window`（用 `import.meta.env.SSR` 保護）
-- `createRouterInstance()` 必須每次建立新實例（vite-ssg 要求，見 `router.ts`）
+- `createRouterInstance()` 必須每次建立新實例（vite-ssg 要求）
 
 ### 新增注釋類型
 
@@ -118,22 +92,9 @@ python3 scripts/reprocess-data.py
 
 ## 部署
 
-```bash
-cd site && npm run build
-```
+推送至 `main` 分支即自動部署至 GitHub Pages（透過 GitHub Actions）。
 
-`site/dist/` 目錄包含所有靜態檔案，可直接部署到：
-- **GitHub Pages**：推送 `dist/` 內容到 `gh-pages` 分支
-- **Netlify / Vercel / Cloudflare Pages**：指向 `site/` 目錄，建置命令 `npm run build`
-
-部署時需配置 SPA fallback（所有路徑 → `index.html`），或使用 pre-rendered HTML（vite-ssg 已生成）。
-
-## 擴展計劃
-
-詳見規格文件：
-- `TODO.classic-han-library/` — 古典文本資料模型、設計系統、前端架構
-- `TODO.resources-pull/` — 中學資源、NSS 指定篇章、教師培訓材料
-- `TODO.classic-han-library/06-classical-text-model.md` — 古典漢語文本資料模型設計（注疏層級、遞迴注釋、年代編碼）
+詳見 `.github/workflows/deploy.yml`。
 
 ## 技術棧
 
@@ -142,5 +103,6 @@ cd site && npm run build
 | 前端 | Vue 3 Composition API + TypeScript |
 | 建置 | Vite 8 + vite-ssg（Static Site Generation） |
 | 樣式 | CSS Custom Properties（無框架） |
-| 資料管線 | Python 3 + pdfjs-dist |
+| 資料管線 | TypeScript + pdfjs-dist |
+| 部署 | GitHub Pages + GitHub Actions |
 | 字體 | Noto Serif TC / Noto Sans TC（Google Fonts） |

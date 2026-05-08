@@ -1,56 +1,35 @@
 {
-  "秦末": {
-    "@id": "dynasty:%E7%A7%A6%E6%9C%AB",
+  "未知": {
+    "@id": "dynasty:%E6%9C%AA%E7%9F%A5",
     "@type": "HistoricalPeriod",
-    "name": "秦末",
+    "name": "未知",
     "authors": [
-      "項羽"
-    ],
-    "poemCount": 1
-  },
-  "漢": {
-    "@id": "dynasty:%E6%BC%A2",
-    "@type": "HistoricalPeriod",
-    "name": "漢",
-    "authors": [
-      "漢樂府",
-      "《古詩十九首》"
-    ],
-    "poemCount": 4
-  },
-  "漢末": {
-    "@id": "dynasty:%E6%BC%A2%E6%9C%AB",
-    "@type": "HistoricalPeriod",
-    "name": "漢末",
-    "authors": [
-      "曹操",
-      "曹植"
+      "佚名"
     ],
     "poemCount": 2
   },
-  "東晉": {
-    "@id": "dynasty:%E6%9D%B1%E6%99%89",
+  "清": {
+    "@id": "dynasty:%E6%B8%85",
     "@type": "HistoricalPeriod",
-    "name": "東晉",
+    "name": "清",
     "authors": [
-      "陶淵明"
+      "紀昀",
+      "鄭燮",
+      "高鼎",
+      "黃仲則",
+      "龔自珍",
+      "秋瑾",
+      "納蘭性德",
+      "孔尚任"
     ],
-    "poemCount": 2
-  },
-  "南北朝": {
-    "@id": "dynasty:%E5%8D%97%E5%8C%97%E6%9C%9D",
-    "@type": "HistoricalPeriod",
-    "name": "南北朝",
-    "authors": [
-      "北朝民歌"
-    ],
-    "poemCount": 2
+    "poemCount": 9
   },
   "唐": {
     "@id": "dynasty:%E5%94%90",
     "@type": "HistoricalPeriod",
     "name": "唐",
     "authors": [
+      "李世民",
       "虞世南",
       "駱賓王",
       "王勃",
@@ -79,9 +58,91 @@
       "杜秋娘",
       "杜牧",
       "李商隱",
-      "曹鄴"
+      "曹鄴",
+      "陳子昂",
+      "張九齡",
+      "李頎",
+      "岑參",
+      "李益",
+      "張籍",
+      "元稹",
+      "溫庭筠",
+      "馮延巳",
+      "孔子",
+      "武曌"
     ],
-    "poemCount": 58
+    "poemCount": 115
+  },
+  "周": {
+    "@id": "dynasty:%E5%91%A8",
+    "@type": "HistoricalPeriod",
+    "name": "周",
+    "authors": [
+      "老子",
+      "《詩經》",
+      "屈原",
+      "莊周，蒙人",
+      "韓非",
+      "尚書",
+      "禮記"
+    ],
+    "poemCount": 33
+  },
+  "秦末": {
+    "@id": "dynasty:%E7%A7%A6%E6%9C%AB",
+    "@type": "HistoricalPeriod",
+    "name": "秦末",
+    "authors": [
+      "項羽"
+    ],
+    "poemCount": 1
+  },
+  "漢": {
+    "@id": "dynasty:%E6%BC%A2",
+    "@type": "HistoricalPeriod",
+    "name": "漢",
+    "authors": [
+      "漢樂府",
+      "《古詩十九首》",
+      "佚名",
+      "班婕妤",
+      "陳琳",
+      "本文節錄",
+      "本文選自",
+      "司馬遷",
+      "李陵",
+      "王粲"
+    ],
+    "poemCount": 12
+  },
+  "漢末": {
+    "@id": "dynasty:%E6%BC%A2%E6%9C%AB",
+    "@type": "HistoricalPeriod",
+    "name": "漢末",
+    "authors": [
+      "曹操",
+      "曹植"
+    ],
+    "poemCount": 4
+  },
+  "東晉": {
+    "@id": "dynasty:%E6%9D%B1%E6%99%89",
+    "@type": "HistoricalPeriod",
+    "name": "東晉",
+    "authors": [
+      "陶淵明"
+    ],
+    "poemCount": 2
+  },
+  "南北朝": {
+    "@id": "dynasty:%E5%8D%97%E5%8C%97%E6%9C%9D",
+    "@type": "HistoricalPeriod",
+    "name": "南北朝",
+    "authors": [
+      "北朝民歌",
+      "吳均"
+    ],
+    "poemCount": 3
   },
   "宋": {
     "@id": "dynasty:%E5%AE%8B",
@@ -100,18 +161,43 @@
       "林升",
       "趙師秀",
       "葉紹翁",
-      "文天祥"
+      "文天祥",
+      "黃庭堅",
+      "陸游",
+      "柳永",
+      "范仲淹",
+      "晏殊",
+      "晏幾道",
+      "秦觀",
+      "賀鑄",
+      "周邦彥",
+      "李清照",
+      "辛棄疾",
+      "姜夔",
+      "蔣捷",
+      "張炎",
+      "元好問",
+      "關漢卿生平事蹟的",
+      "張養浩",
+      "朱彝尊",
+      "《周易》"
     ],
-    "poemCount": 24
+    "poemCount": 64
   },
   "元": {
     "@id": "dynasty:%E5%85%83",
     "@type": "HistoricalPeriod",
     "name": "元",
     "authors": [
-      "王冕"
+      "王冕",
+      "馬致遠",
+      "王實甫",
+      "張可久",
+      "喬吉",
+      "劉基",
+      "宋濂"
     ],
-    "poemCount": 2
+    "poemCount": 10
   },
   "明": {
     "@id": "dynasty:%E6%98%8E",
@@ -120,18 +206,42 @@
     "authors": [
       "于謙",
       "唐寅",
-      "徐渭"
+      "徐渭",
+      "楊慎",
+      "吳偉業",
+      "王守仁",
+      "歸有光",
+      "顧炎武"
+    ],
+    "poemCount": 8
+  },
+  "晉": {
+    "@id": "dynasty:%E6%99%89",
+    "@type": "HistoricalPeriod",
+    "name": "晉",
+    "authors": [
+      "陶潛",
+      "王羲之",
+      "本文節錄自劉義慶"
+    ],
+    "poemCount": 4
+  },
+  "五代": {
+    "@id": "dynasty:%E4%BA%94%E4%BB%A3",
+    "@type": "HistoricalPeriod",
+    "name": "五代",
+    "authors": [
+      "李煜"
     ],
     "poemCount": 3
   },
-  "清": {
-    "@id": "dynasty:%E6%B8%85",
+  "秦": {
+    "@id": "dynasty:%E7%A7%A6",
     "@type": "HistoricalPeriod",
-    "name": "清",
+    "name": "秦",
     "authors": [
-      "鄭燮",
-      "高鼎"
+      "李斯"
     ],
-    "poemCount": 2
+    "poemCount": 1
   }
 }
