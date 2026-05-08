@@ -1,1 +1,0 @@
-/Users/mulgogi/src/chinese/primary/resources/primary/073-梅花/text.md

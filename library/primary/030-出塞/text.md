@@ -1,1 +1,0 @@
-/Users/mulgogi/src/chinese/primary/resources/primary/030-出塞/text.md

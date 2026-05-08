@@ -1,1 +1,0 @@
-/Users/mulgogi/src/chinese/primary/resources/training/005-從傳統到現代_二：家國之情_新辦/text.md

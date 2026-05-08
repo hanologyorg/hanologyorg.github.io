@@ -1,1 +1,0 @@
-/Users/mulgogi/src/chinese/primary/resources/primary/063-山行/text.md

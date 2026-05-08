@@ -1,1 +1,0 @@
-/Users/mulgogi/src/chinese/primary/resources/primary/009-雜詩_其一/text.md

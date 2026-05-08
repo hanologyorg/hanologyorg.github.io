@@ -1,1 +1,0 @@
-/Users/mulgogi/src/chinese/primary/resources/primary/015-詠柳/text.md

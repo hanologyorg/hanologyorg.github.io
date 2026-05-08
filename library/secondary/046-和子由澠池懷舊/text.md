@@ -1,1 +1,0 @@
-/Users/mulgogi/src/chinese/primary/resources/secondary/046-和子由澠池懷舊/text.md

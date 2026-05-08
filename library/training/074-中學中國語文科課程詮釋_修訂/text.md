@@ -1,1 +1,0 @@
-/Users/mulgogi/src/chinese/primary/resources/training/074-中學中國語文科課程詮釋_修訂/text.md

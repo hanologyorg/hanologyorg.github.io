@@ -1,1 +1,0 @@
-/Users/mulgogi/src/chinese/primary/resources/primary/033-黃鶴樓送孟浩然之廣陵/text.md

@@ -1,1 +1,0 @@
-/Users/mulgogi/src/chinese/primary/resources/secondary/063-蘇幕遮_燎沉香/text.md

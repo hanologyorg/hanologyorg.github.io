@@ -1,1 +1,0 @@
-/Users/mulgogi/src/chinese/primary/resources/culture/essay-01-中華文化的精神價值/text.md

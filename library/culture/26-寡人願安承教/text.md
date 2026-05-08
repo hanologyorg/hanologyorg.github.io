@@ -1,1 +1,0 @@
-/Users/mulgogi/src/chinese/primary/resources/culture/26-寡人願安承教/text.md

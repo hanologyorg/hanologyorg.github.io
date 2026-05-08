@@ -1,1 +1,0 @@
-/Users/mulgogi/src/chinese/primary/resources/secondary/025-黃鶴樓/text.md

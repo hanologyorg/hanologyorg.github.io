@@ -1,1 +1,0 @@
-/Users/mulgogi/src/chinese/primary/resources/primary/074-元日/text.md

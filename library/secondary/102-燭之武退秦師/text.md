@@ -1,1 +1,0 @@
-/Users/mulgogi/src/chinese/primary/resources/secondary/102-燭之武退秦師/text.md

@@ -1,1 +1,0 @@
-/Users/mulgogi/src/chinese/primary/resources/primary/096-石灰吟/text.md

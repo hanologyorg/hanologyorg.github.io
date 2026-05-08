@@ -1,1 +1,0 @@
-/Users/mulgogi/src/chinese/primary/resources/training/055-讀中華經典名句談古人修身處世_新辦/text.md

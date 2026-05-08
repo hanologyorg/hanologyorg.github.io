@@ -1,1 +1,0 @@
-/Users/mulgogi/src/chinese/primary/resources/primary/048-遊子吟/text.md

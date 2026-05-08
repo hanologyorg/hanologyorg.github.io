@@ -1,1 +1,0 @@
-/Users/mulgogi/src/chinese/primary/resources/culture/29-大同與小康_節錄/text.md

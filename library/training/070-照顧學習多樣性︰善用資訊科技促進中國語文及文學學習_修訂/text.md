@@ -1,1 +1,0 @@
-/Users/mulgogi/src/chinese/primary/resources/training/070-照顧學習多樣性︰善用資訊科技促進中國語文及文學學習_修訂/text.md

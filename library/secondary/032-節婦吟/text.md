@@ -1,1 +1,0 @@
-/Users/mulgogi/src/chinese/primary/resources/secondary/032-節婦吟/text.md

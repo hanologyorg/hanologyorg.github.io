@@ -1,1 +1,0 @@
-/Users/mulgogi/src/chinese/primary/resources/primary/098-風鳶圖詩_其一/text.md

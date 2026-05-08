@@ -1,1 +1,0 @@
-/Users/mulgogi/src/chinese/primary/resources/culture/essay-03-雜談新高中語文課程的文化教學/text.md

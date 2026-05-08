@@ -1,1 +1,0 @@
-/Users/mulgogi/src/chinese/primary/resources/training/050-粵語正音與粵語流行曲的文學意象_新辦/text.md

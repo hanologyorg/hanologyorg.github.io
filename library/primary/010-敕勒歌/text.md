@@ -1,1 +1,0 @@
-/Users/mulgogi/src/chinese/primary/resources/primary/010-敕勒歌/text.md

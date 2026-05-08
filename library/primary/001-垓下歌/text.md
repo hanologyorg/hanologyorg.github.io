@@ -1,1 +1,0 @@
-/Users/mulgogi/src/chinese/primary/resources/primary/001-垓下歌/text.md

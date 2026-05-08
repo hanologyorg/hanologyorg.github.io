@@ -1,1 +1,0 @@
-/Users/mulgogi/src/chinese/primary/resources/training/063-文化專題—陶淵明：每觀其文_想其人德_新辦/text.md

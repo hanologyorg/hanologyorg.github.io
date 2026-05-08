@@ -1,1 +1,0 @@
-/Users/mulgogi/src/chinese/primary/resources/primary/004-十五從軍征/text.md

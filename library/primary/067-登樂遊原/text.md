@@ -1,1 +1,0 @@
-/Users/mulgogi/src/chinese/primary/resources/primary/067-登樂遊原/text.md

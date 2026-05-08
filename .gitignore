@@ -2,6 +2,8 @@ TODO*
 .DS_Store
 .claude
 node_modules
+dist/
+output/
+library/
 site/dist
-
 DONE.resources-pull/

@@ -1,1 +1,0 @@
-/Users/mulgogi/src/chinese/primary/resources/training/012-中學中國語文科課程中的文學文化及國家安全教育_修訂/text.md

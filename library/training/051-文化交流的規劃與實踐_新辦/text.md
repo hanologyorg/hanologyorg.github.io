@@ -1,1 +1,0 @@
-/Users/mulgogi/src/chinese/primary/resources/training/051-文化交流的規劃與實踐_新辦/text.md

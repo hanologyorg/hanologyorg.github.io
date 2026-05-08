@@ -1,1 +1,0 @@
-/Users/mulgogi/src/chinese/primary/resources/secondary/140-讀孟嘗君傳/text.md

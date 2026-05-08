@@ -1,1 +1,0 @@
-/Users/mulgogi/src/chinese/primary/resources/training/078-重讀經典_五：《木蘭詩》_《天淨沙_秋思》_《國風．關雎》_《青玉案_元夕_東風夜放花千樹》_修訂/text.md

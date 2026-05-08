@@ -1,1 +1,0 @@
-/Users/mulgogi/src/chinese/primary/resources/culture/49-鳥鳴澗/text.md

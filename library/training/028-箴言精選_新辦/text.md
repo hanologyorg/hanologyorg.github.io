@@ -1,1 +1,0 @@
-/Users/mulgogi/src/chinese/primary/resources/training/028-箴言精選_新辦/text.md

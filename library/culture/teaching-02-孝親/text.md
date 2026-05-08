@@ -1,1 +1,0 @@
-/Users/mulgogi/src/chinese/primary/resources/culture/teaching-02-孝親/text.md

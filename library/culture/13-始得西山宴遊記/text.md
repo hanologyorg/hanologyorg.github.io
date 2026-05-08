@@ -1,1 +1,0 @@
-/Users/mulgogi/src/chinese/primary/resources/culture/13-始得西山宴遊記/text.md

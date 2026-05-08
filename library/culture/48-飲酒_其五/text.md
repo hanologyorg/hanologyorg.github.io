@@ -1,1 +1,0 @@
-/Users/mulgogi/src/chinese/primary/resources/culture/48-飲酒_其五/text.md

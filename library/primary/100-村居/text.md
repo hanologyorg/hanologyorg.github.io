@@ -1,1 +1,0 @@
-/Users/mulgogi/src/chinese/primary/resources/primary/100-村居/text.md

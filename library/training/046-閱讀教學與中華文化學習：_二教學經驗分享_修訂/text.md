@@ -1,1 +1,0 @@
-/Users/mulgogi/src/chinese/primary/resources/training/046-閱讀教學與中華文化學習：_二教學經驗分享_修訂/text.md

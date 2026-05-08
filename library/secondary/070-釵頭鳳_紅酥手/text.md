@@ -1,1 +1,0 @@
-/Users/mulgogi/src/chinese/primary/resources/secondary/070-釵頭鳳_紅酥手/text.md

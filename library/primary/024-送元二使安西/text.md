@@ -1,1 +1,0 @@
-/Users/mulgogi/src/chinese/primary/resources/primary/024-送元二使安西/text.md

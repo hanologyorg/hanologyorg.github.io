@@ -1,1 +1,0 @@
-/Users/mulgogi/src/chinese/primary/resources/secondary/119-登樓賦/text.md

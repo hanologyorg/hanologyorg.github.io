@@ -1,1 +1,0 @@
-/Users/mulgogi/src/chinese/primary/resources/culture/16-正氣歌_並序/text.md

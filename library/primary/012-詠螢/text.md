@@ -1,1 +1,0 @@
-/Users/mulgogi/src/chinese/primary/resources/primary/012-詠螢/text.md

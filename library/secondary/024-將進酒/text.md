@@ -1,1 +1,0 @@
-/Users/mulgogi/src/chinese/primary/resources/secondary/024-將進酒/text.md

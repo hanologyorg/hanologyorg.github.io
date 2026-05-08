@@ -1,1 +1,0 @@
-/Users/mulgogi/src/chinese/primary/resources/training/011-粵語正音_朗讀與朗誦教學_修訂/text.md

@@ -1,1 +1,0 @@
-/Users/mulgogi/src/chinese/primary/resources/training/086-重讀經典_三：《鄒忌諷齊王訥諫》_《楊修之死》_《陳情表》_修訂/text.md

@@ -1,1 +1,0 @@
-/Users/mulgogi/src/chinese/primary/resources/training/087-重讀經典_二：《大同與小康》_《大學_節錄》_《魚我所欲也》_修訂/text.md

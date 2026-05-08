@@ -1,1 +1,0 @@
-/Users/mulgogi/src/chinese/primary/resources/training/038-高中中國語文科優化措施_四：文學文化學習與多元活動_修訂/text.md

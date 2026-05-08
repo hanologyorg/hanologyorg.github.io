@@ -1,1 +1,0 @@
-/Users/mulgogi/src/chinese/primary/resources/secondary/145-教條示龍場諸生/text.md

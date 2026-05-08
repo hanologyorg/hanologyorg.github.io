@@ -1,1 +1,0 @@
-/Users/mulgogi/src/chinese/primary/resources/secondary/030-白雪歌送武判官歸京/text.md

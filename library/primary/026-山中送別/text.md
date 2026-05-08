@@ -1,1 +1,0 @@
-/Users/mulgogi/src/chinese/primary/resources/primary/026-山中送別/text.md

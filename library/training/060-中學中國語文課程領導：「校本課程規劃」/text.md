@@ -1,1 +1,0 @@
-/Users/mulgogi/src/chinese/primary/resources/training/060-中學中國語文課程領導：「校本課程規劃」/text.md

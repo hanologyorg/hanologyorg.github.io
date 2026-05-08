@@ -1,1 +1,0 @@
-/Users/mulgogi/src/chinese/primary/resources/primary/023-相思/text.md

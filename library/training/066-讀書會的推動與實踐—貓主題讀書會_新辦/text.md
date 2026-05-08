@@ -1,1 +1,0 @@
-/Users/mulgogi/src/chinese/primary/resources/training/066-讀書會的推動與實踐—貓主題讀書會_新辦/text.md

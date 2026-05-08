@@ -1,1 +1,0 @@
-/Users/mulgogi/src/chinese/primary/resources/secondary/041-謁金門_風乍起/text.md

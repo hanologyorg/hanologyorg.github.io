@@ -1,1 +1,0 @@
-/Users/mulgogi/src/chinese/primary/resources/primary/090-題臨安邸/text.md

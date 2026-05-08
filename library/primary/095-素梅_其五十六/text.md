@@ -1,1 +1,0 @@
-/Users/mulgogi/src/chinese/primary/resources/primary/095-素梅_其五十六/text.md

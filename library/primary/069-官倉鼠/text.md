@@ -1,1 +1,0 @@
-/Users/mulgogi/src/chinese/primary/resources/primary/069-官倉鼠/text.md

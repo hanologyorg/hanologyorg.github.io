@@ -1,1 +1,0 @@
-/Users/mulgogi/src/chinese/primary/resources/secondary/047-登快閣/text.md

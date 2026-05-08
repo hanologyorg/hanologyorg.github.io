@@ -1,1 +1,0 @@
-/Users/mulgogi/src/chinese/primary/resources/primary/088-春日/text.md

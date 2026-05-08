@@ -1,1 +1,0 @@
-/Users/mulgogi/src/chinese/primary/resources/primary/082-贈劉景文/text.md

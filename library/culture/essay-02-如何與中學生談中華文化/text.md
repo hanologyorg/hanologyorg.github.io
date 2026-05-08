@@ -1,1 +1,0 @@
-/Users/mulgogi/src/chinese/primary/resources/culture/essay-02-如何與中學生談中華文化/text.md

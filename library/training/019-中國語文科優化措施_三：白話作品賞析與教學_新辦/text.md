@@ -1,1 +1,0 @@
-/Users/mulgogi/src/chinese/primary/resources/training/019-中國語文科優化措施_三：白話作品賞析與教學_新辦/text.md

@@ -1,1 +1,0 @@
-/Users/mulgogi/src/chinese/primary/resources/secondary/048-寄黃幾復/text.md

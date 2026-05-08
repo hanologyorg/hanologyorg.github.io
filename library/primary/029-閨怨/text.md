@@ -1,1 +1,0 @@
-/Users/mulgogi/src/chinese/primary/resources/primary/029-閨怨/text.md

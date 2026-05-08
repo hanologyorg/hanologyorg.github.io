@@ -1,1 +1,0 @@
-/Users/mulgogi/src/chinese/primary/resources/training/034-高中中國語文科優化措施_七：以優質讀物為例說明如何進行閱讀活動_新辦/text.md

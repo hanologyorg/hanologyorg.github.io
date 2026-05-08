@@ -1,1 +1,0 @@
-/Users/mulgogi/src/chinese/primary/resources/training/067-跨課程閱讀的理論與實踐_修訂/text.md

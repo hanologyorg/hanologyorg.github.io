@@ -1,1 +1,0 @@
-/Users/mulgogi/src/chinese/primary/resources/culture/46-逍遙遊_節錄/text.md

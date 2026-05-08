@@ -1,1 +1,0 @@
-/Users/mulgogi/src/chinese/primary/resources/training/032-高中中國語文科優化措施_九：文化專題探討與課堂討論_修訂/text.md

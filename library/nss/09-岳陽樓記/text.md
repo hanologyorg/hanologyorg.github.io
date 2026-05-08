@@ -1,1 +1,0 @@
-/Users/mulgogi/src/chinese/primary/resources/nss/09-岳陽樓記/text.md

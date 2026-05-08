@@ -1,1 +1,0 @@
-/Users/mulgogi/src/chinese/primary/resources/secondary/103-學而篇/text.md

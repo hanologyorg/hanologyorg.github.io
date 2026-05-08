@@ -1,1 +1,0 @@
-/Users/mulgogi/src/chinese/primary/resources/secondary/017-過故人莊/text.md

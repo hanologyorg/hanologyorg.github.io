@@ -1,1 +1,0 @@
-/Users/mulgogi/src/chinese/primary/resources/secondary/072-破陣子_醉裏挑燈看劍/text.md

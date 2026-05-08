@@ -1,1 +1,0 @@
-/Users/mulgogi/src/chinese/primary/resources/culture/33-燕詩/text.md
