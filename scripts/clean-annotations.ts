@@ -15,14 +15,14 @@
 
 import { readFileSync, writeFileSync, readdirSync, existsSync } from 'node:fs'
 import { join } from 'node:path'
-import { ChamParser } from '../src/cham/parser.js'
-import { ChamSerializer } from '../src/cham/serializer.js'
+import { ChamParser } from '@hanology/cham'
+import { ChamSerializer } from '@hanology/cham'
 import type {
   ChamDocument, AnnotationEntry, AnnotationSection, Marker,
-} from '../src/cham/types.js'
+} from '@hanology/cham'
 
 const ROOT = import.meta.dirname ? join(import.meta.dirname, '..') : process.cwd()
-const CONTENT_DIR = join(ROOT, 'content')
+const CONTENT_DIR = join(ROOT, 'library/content')
 const DRY_RUN = process.argv.includes('--dry-run')
 
 const parser = new ChamParser()

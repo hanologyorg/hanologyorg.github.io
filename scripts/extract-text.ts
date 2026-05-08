@@ -12,7 +12,7 @@ import { fileURLToPath } from 'node:url'
 const __filename = fileURLToPath(import.meta.url)
 const __dirname = dirname(__filename)
 const ROOT = join(__dirname, '..')
-const RESOURCES = join(ROOT, 'resources')
+const RESOURCES = join(ROOT, 'library/resources')
 const OUTPUT = join(ROOT, 'output')
 
 // Use the existing PdfExtractor

@@ -20,8 +20,8 @@ const ROOT = join(__dirname, '..')
 const EDB = 'https://www.edb.gov.hk'
 const DELAY = 500
 
-const SECONDARY_DIR = join(ROOT, 'resources', 'secondary')
-const CULTURE_SECONDARY_DIR = join(ROOT, 'resources', 'culture', 'secondary')
+const SECONDARY_DIR = join(ROOT, 'library/resources', 'secondary')
+const CULTURE_SECONDARY_DIR = join(ROOT, 'library/resources', 'culture', 'secondary')
 
 function sleep(ms: number) { return new Promise(r => setTimeout(r, ms)) }
 

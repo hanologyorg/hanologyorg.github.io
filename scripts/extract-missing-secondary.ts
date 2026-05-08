@@ -10,7 +10,7 @@ const MISSING = [
   142, 144, 147, 149,
 ];
 
-const RES_DIR = 'resources/secondary';
+const RES_DIR = 'library/resources/secondary';
 const OUT_DIR = '/tmp/secondary-raw';
 
 async function main() {

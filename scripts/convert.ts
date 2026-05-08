@@ -4,8 +4,8 @@ import * as yaml from 'yaml'
 import { ChamConverter } from '../src/cham/convert'
 
 const POEMS_JSON = 'site/public/data/poems.json'
-const AUTHORS_YAML = 'data/authors.yaml'
-const CONTENT_DIR = 'content'
+const AUTHORS_YAML = 'library/data/authors.yaml'
+const CONTENT_DIR = 'library/content'
 
 interface SourcePoem {
   num: number

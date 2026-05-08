@@ -87,7 +87,7 @@ async function main() {
   }
 
   console.log(`找到 ${mp3Urls.size} 個音頻 URL:\n`)
-  const audioDir = join(ROOT, 'resources', 'nss', 'audio')
+  const audioDir = join(ROOT, 'library/resources', 'nss', 'audio')
   let downloaded = 0
 
   for (const [filename, url] of mp3Urls) {

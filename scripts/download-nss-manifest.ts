@@ -10,7 +10,7 @@ import { fileURLToPath } from 'node:url'
 const __filename = fileURLToPath(import.meta.url)
 const __dirname = dirname(__filename)
 const ROOT = join(__dirname, '..')
-const OUT = join(ROOT, 'resources', 'nss')
+const OUT = join(ROOT, 'library/resources', 'nss')
 
 const DELAY = 500
 

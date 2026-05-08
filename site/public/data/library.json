@@ -45,6 +45,18 @@
       }
     },
     {
+      "id": "nss",
+      "title": "NSS 指定文言經典學習材料",
+      "subtitle": "新高中中國語文課程",
+      "publisher": "教育局課程發展處 · 中國語文教育",
+      "genre": "mixed",
+      "count": 16,
+      "hero": [
+        "{count} 篇指定經典",
+        "{authorCount} 位作者"
+      ]
+    },
+    {
       "id": "primary",
       "title": "積累與感興",
       "subtitle": "小學古詩文誦讀材料選編（修訂）",
@@ -58,12 +70,24 @@
       ]
     },
     {
+      "id": "primary-culture",
+      "title": "郁文華章",
+      "subtitle": "小學中華經典文化學習材料",
+      "publisher": "教育局課程發展處 · 中國語文教育",
+      "genre": "mixed",
+      "count": 31,
+      "hero": [
+        "{count} 篇詩文",
+        "{authorCount} 位作者"
+      ]
+    },
+    {
       "id": "secondary",
       "title": "積學與涵泳",
       "subtitle": "中學古詩文誦讀材料選編",
       "publisher": "教育局課程發展處 · 中國語文教育",
       "genre": "mixed",
-      "count": 115,
+      "count": 150,
       "hero": [
         "{count} 篇詩文",
         "{authorCount} 位作者",
@@ -85,6 +109,14 @@
           "contributor": "C011"
         }
       ]
+    },
+    {
+      "id": "skqs-difan",
+      "title": "帝範",
+      "subtitle": "四庫全書本",
+      "titleEn": "The Imperial Model (Siku Quanshu Edition)",
+      "genre": "prose",
+      "count": 14
     }
   ],
   "crossRefs": [

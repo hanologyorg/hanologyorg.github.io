@@ -4,6 +4,5 @@ TODO*
 node_modules
 dist/
 output/
-library/
 site/dist
 DONE.resources-pull/

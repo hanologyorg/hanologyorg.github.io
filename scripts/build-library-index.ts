@@ -11,7 +11,7 @@ const __filename = fileURLToPath(import.meta.url)
 const __dirname = dirname(__filename)
 const ROOT = join(__dirname, '..')
 const DATA = join(ROOT, 'site', 'public', 'data')
-const RESOURCES = join(ROOT, 'resources')
+const RESOURCES = join(ROOT, 'library/resources')
 
 function safeReadJson(path: string): any {
   if (!existsSync(path)) return null

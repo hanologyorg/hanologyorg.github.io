@@ -11,7 +11,7 @@ import * as https from 'node:https'
 const __filename = fileURLToPath(import.meta.url)
 const __dirname = dirname(__filename)
 const ROOT = join(__dirname, '..')
-const OUT = join(ROOT, 'resources', 'culture')
+const OUT = join(ROOT, 'library/resources', 'culture')
 const DATA = join(ROOT, 'site', 'public', 'data')
 
 const EDB_BASE = 'https://www.edb.gov.hk'

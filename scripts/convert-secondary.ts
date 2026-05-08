@@ -632,5 +632,5 @@ class SecondaryConverter {
 
 // ─── Main ─────────────────────────────────────────────────────
 
-const converter = new SecondaryConverter('resources/secondary', 'content/secondary', 'data')
+const converter = new SecondaryConverter('library/resources/secondary', 'library/content/secondary', 'library/data')
 converter.run()

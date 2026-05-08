@@ -5,7 +5,7 @@ import YAML from 'yaml'
 // ─── Config ──────────────────────────────────────────────────
 
 const MN_DIR = process.env.MN_DIR || join(process.env.HOME!, 'src/mn/laozi')
-const CONTENT_DIR = 'content'
+const CONTENT_DIR = 'library/content'
 
 interface ContributorRef {
   ref: string
