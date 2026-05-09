@@ -12,6 +12,7 @@ const props = defineProps<{
 const emit = defineEmits<{
   annotationHover: [event: MouseEvent, annotations: Annotation[]]
   annotationLeave: []
+  annotationTap: [event: MouseEvent, annotations: Annotation[]]
 }>()
 
 function verseHtml(index: number): string {
@@ -29,10 +30,15 @@ function onHover(event: MouseEvent) {
 function onLeave() {
   emit('annotationLeave')
 }
+
+function onTap(event: MouseEvent) {
+  const matched = resolveHoveredAnnotations(event, props.annotations)
+  if (matched) emit('annotationTap', event, matched)
+}
 </script>
 
 <template>
-  <div class="h-display" @mouseover="onHover" @mouseleave="onLeave">
+  <div class="h-display" @mouseover="onHover" @mouseleave="onLeave" @click="onTap">
     <div class="h-display-title">{{ title }}</div>
     <div class="h-display-author">{{ author }}</div>
     <div
@@ -83,6 +89,7 @@ function onLeave() {
   font-weight: 600;
   vertical-align: super;
   margin-right: 1px;
+  letter-spacing: 0;
 }
 :deep(.ann-target.pronunciation:hover) {
   background: rgba(58, 107, 94, 0.08);

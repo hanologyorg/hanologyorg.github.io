@@ -13,6 +13,7 @@ const props = defineProps<{
 const emit = defineEmits<{
   annotationHover: [event: MouseEvent, annotations: Annotation[]]
   annotationLeave: []
+  annotationTap: [event: MouseEvent, annotations: Annotation[]]
   openAuthor: [name: string]
 }>()
 
@@ -31,10 +32,15 @@ function onHover(event: MouseEvent) {
 function onLeave() {
   emit('annotationLeave')
 }
+
+function onTap(event: MouseEvent) {
+  const matched = resolveHoveredAnnotations(event, props.annotations)
+  if (matched) emit('annotationTap', event, matched)
+}
 </script>
 
 <template>
-  <div class="v-scroll" @mouseover="onHover" @mouseleave="onLeave">
+  <div class="v-scroll" @mouseover="onHover" @mouseleave="onLeave" @click="onTap">
     <span class="v-scroll-title">{{ title }}</span>
     <span class="v-scroll-author v-scroll-clickable" @click="emit('openAuthor', author)">{{ author }}</span>
     <div class="v-scroll-body">
@@ -97,6 +103,7 @@ function onLeave() {
   color: var(--vermillion);
   text-combine-upright: all;
   text-align: end;
+  letter-spacing: 0;
 }
 :deep(.ann-target:hover) {
   background: rgba(194, 58, 43, 0.08);

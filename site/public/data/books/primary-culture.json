@@ -16,9 +16,9 @@
       "bookId": "primary-culture",
       "num": 1,
       "title": "論語四則",
-      "author": "A181",
-      "authorId": "A181",
-      "dynasty": "春秋",
+      "author": "孔子",
+      "authorId": "A148",
+      "dynasty": "唐",
       "genre": "prose",
       "verses": [
         {
@@ -348,8 +348,8 @@
       "bookId": "primary-culture",
       "num": 2,
       "title": "二子學弈",
-      "author": "A182",
-      "authorId": "A182",
+      "author": "孟子",
+      "authorId": "A166",
       "dynasty": "戰國",
       "genre": "prose",
       "verses": [
@@ -697,9 +697,9 @@
       "bookId": "primary-culture",
       "num": 4,
       "title": "誨學（家誡）",
-      "author": "A183",
-      "authorId": "A183",
-      "dynasty": "宋",
+      "author": "諸葛亮",
+      "authorId": "A167",
+      "dynasty": "三國",
       "genre": "prose",
       "verses": [
         {
@@ -830,9 +830,9 @@
       "bookId": "primary-culture",
       "num": 5,
       "title": "程門立雪",
-      "author": "A184",
-      "authorId": "A184",
-      "dynasty": "元",
+      "author": "佚名",
+      "authorId": "A102",
+      "dynasty": "漢",
       "genre": "prose",
       "verses": [
         {
@@ -937,8 +937,8 @@
       "bookId": "primary-culture",
       "num": 6,
       "title": "三字經（節錄）",
-      "author": "A185",
-      "authorId": "A185",
+      "author": "王應麟",
+      "authorId": "A168",
       "dynasty": "宋",
       "genre": "prose",
       "verses": [
@@ -1044,9 +1044,9 @@
       "bookId": "primary-culture",
       "num": 9,
       "title": "在上位不陵下",
-      "author": "A186",
-      "authorId": "A186",
-      "dynasty": "春秋",
+      "author": "《禮記》",
+      "authorId": "A169",
+      "dynasty": "先秦",
       "genre": "prose",
       "verses": [
         {
@@ -1287,8 +1287,8 @@
       "bookId": "primary-culture",
       "num": 10,
       "title": "閔子騫童年",
-      "author": "A187",
-      "authorId": "A187",
+      "author": "佚名",
+      "authorId": "A102",
       "dynasty": "漢",
       "genre": "prose",
       "verses": [
@@ -1678,9 +1678,9 @@
       "bookId": "primary-culture",
       "num": 13,
       "title": "大禹治水",
-      "author": "A188",
-      "authorId": "A188",
-      "dynasty": "先秦",
+      "author": "佚名",
+      "authorId": "A102",
+      "dynasty": "漢",
       "genre": "prose",
       "verses": [
         {
@@ -1714,8 +1714,8 @@
       "bookId": "primary-culture",
       "num": 14,
       "title": "病牛",
-      "author": "A189",
-      "authorId": "A189",
+      "author": "李綱",
+      "authorId": "A042",
       "dynasty": "宋",
       "genre": "poetry",
       "verses": [
@@ -1862,8 +1862,8 @@
       "bookId": "primary-culture",
       "num": 15,
       "title": "過零丁洋",
-      "author": "A190",
-      "authorId": "A190",
+      "author": "文天祥",
+      "authorId": "A049",
       "dynasty": "宋",
       "genre": "poetry",
       "verses": [
@@ -2073,8 +2073,8 @@
       "bookId": "primary-culture",
       "num": 16,
       "title": "己亥雜詩",
-      "author": "A191",
-      "authorId": "A191",
+      "author": "龔自珍",
+      "authorId": "A141",
       "dynasty": "清",
       "genre": "poetry",
       "verses": [
@@ -2180,9 +2180,9 @@
       "bookId": "primary-culture",
       "num": 18,
       "title": "歸園田居（其三）",
-      "author": "A192",
-      "authorId": "A192",
-      "dynasty": "晉",
+      "author": "陶淵明",
+      "authorId": "A006",
+      "dynasty": "東晉",
       "genre": "poetry",
       "verses": [
         {
@@ -2367,8 +2367,8 @@
       "bookId": "primary-culture",
       "num": 19,
       "title": "陋室銘",
-      "author": "A193",
-      "authorId": "A193",
+      "author": "劉禹錫",
+      "authorId": "A027",
       "dynasty": "唐",
       "genre": "prose",
       "verses": [
@@ -2671,8 +2671,8 @@
       "bookId": "primary-culture",
       "num": 20,
       "title": "竹石",
-      "author": "A194",
-      "authorId": "A194",
+      "author": "鄭燮",
+      "authorId": "A054",
       "dynasty": "清",
       "genre": "poetry",
       "verses": [
@@ -2778,9 +2778,9 @@
       "bookId": "primary-culture",
       "num": 21,
       "title": "落花生",
-      "author": "A195",
-      "authorId": "A195",
-      "dynasty": "民國",
+      "author": "許地山",
+      "authorId": "A170",
+      "dynasty": "近代",
       "genre": "prose",
       "verses": [
         {
@@ -3073,9 +3073,9 @@
       "bookId": "primary-culture",
       "num": 22,
       "title": "精衞填海",
-      "author": "A196",
-      "authorId": "A196",
-      "dynasty": "先秦",
+      "author": "佚名",
+      "authorId": "A102",
+      "dynasty": "漢",
       "genre": "prose",
       "verses": [
         {
@@ -3299,9 +3299,9 @@
       "bookId": "primary-culture",
       "num": 23,
       "title": "管寧割席",
-      "author": "A197",
-      "authorId": "A197",
-      "dynasty": "晉",
+      "author": "佚名",
+      "authorId": "A102",
+      "dynasty": "漢",
       "genre": "prose",
       "verses": [
         {
@@ -3393,8 +3393,8 @@
       "bookId": "primary-culture",
       "num": 25,
       "title": "曾子殺豬",
-      "author": "A198",
-      "authorId": "A198",
+      "author": "佚名",
+      "authorId": "A102",
       "dynasty": "漢",
       "genre": "prose",
       "verses": [
@@ -3538,8 +3538,8 @@
       "bookId": "primary-culture",
       "num": 26,
       "title": "季札掛劍",
-      "author": "A199",
-      "authorId": "A199",
+      "author": "佚名",
+      "authorId": "A102",
       "dynasty": "漢",
       "genre": "prose",
       "verses": [
@@ -3645,9 +3645,9 @@
       "bookId": "primary-culture",
       "num": 27,
       "title": "楊震暮夜卻金",
-      "author": "A200",
-      "authorId": "A200",
-      "dynasty": "晉",
+      "author": "佚名",
+      "authorId": "A102",
+      "dynasty": "漢",
       "genre": "prose",
       "verses": [
         {
@@ -3726,8 +3726,8 @@
       "bookId": "primary-culture",
       "num": 28,
       "title": "不貪為寶",
-      "author": "A201",
-      "authorId": "A201",
+      "author": "佚名",
+      "authorId": "A102",
       "dynasty": "漢",
       "genre": "prose",
       "verses": [
@@ -3900,8 +3900,8 @@
       "bookId": "primary-culture",
       "num": 30,
       "title": "賦得古原草送別",
-      "author": "A202",
-      "authorId": "A202",
+      "author": "白居易",
+      "authorId": "A028",
       "dynasty": "唐",
       "genre": "poetry",
       "verses": [
@@ -4035,8 +4035,8 @@
       "bookId": "primary-culture",
       "num": 32,
       "title": "塞翁失馬",
-      "author": "A203",
-      "authorId": "A203",
+      "author": "佚名",
+      "authorId": "A102",
       "dynasty": "漢",
       "genre": "prose",
       "verses": [
@@ -4302,8 +4302,8 @@
       "bookId": "primary-culture",
       "num": 33,
       "title": "憫農（其二）",
-      "author": "A204",
-      "authorId": "A204",
+      "author": "李紳",
+      "authorId": "A029",
       "dynasty": "唐",
       "genre": "poetry",
       "verses": [
@@ -4398,8 +4398,8 @@
       "bookId": "primary-culture",
       "num": 36,
       "title": "九月九日憶山東兄弟",
-      "author": "A205",
-      "authorId": "A205",
+      "author": "王維",
+      "authorId": "A016",
       "dynasty": "唐",
       "genre": "poetry",
       "verses": [
@@ -4533,8 +4533,8 @@
       "bookId": "primary-culture",
       "num": 37,
       "title": "清明",
-      "author": "A206",
-      "authorId": "A206",
+      "author": "杜牧",
+      "authorId": "A034",
       "dynasty": "唐",
       "genre": "poetry",
       "verses": [
@@ -4614,8 +4614,8 @@
       "bookId": "primary-culture",
       "num": 38,
       "title": "朱子家訓（節錄）",
-      "author": "A207",
-      "authorId": "A207",
+      "author": "朱柏廬",
+      "authorId": "A171",
       "dynasty": "清",
       "genre": "prose",
       "verses": [
@@ -4918,9 +4918,9 @@
       "bookId": "primary-culture",
       "num": 40,
       "title": "背影",
-      "author": "A208",
-      "authorId": "A208",
-      "dynasty": "民國",
+      "author": "朱自清",
+      "authorId": "A172",
+      "dynasty": "近代",
       "genre": "prose",
       "verses": [
         {
@@ -4960,8 +4960,8 @@
       "bookId": "primary-culture",
       "num": 41,
       "title": "黃鶴樓",
-      "author": "A209",
-      "authorId": "A209",
+      "author": "崔顥",
+      "authorId": "A019",
       "dynasty": "唐",
       "genre": "poetry",
       "verses": [
@@ -5173,8 +5173,8 @@
       "bookId": "primary-culture",
       "num": 42,
       "title": "示兒",
-      "author": "A210",
-      "authorId": "A210",
+      "author": "陸游",
+      "authorId": "A117",
       "dynasty": "宋",
       "genre": "poetry",
       "verses": [
@@ -5254,9 +5254,9 @@
       "bookId": "primary-culture",
       "num": 43,
       "title": "染絲",
-      "author": "A211",
-      "authorId": "A211",
-      "dynasty": "漢",
+      "author": "墨子",
+      "authorId": "A173",
+      "dynasty": "春秋",
       "genre": "prose",
       "verses": [
         {

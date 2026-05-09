@@ -1,4 +1,5 @@
 <script setup lang="ts">
+import { computed } from 'vue'
 import { useReadingMode } from '../composables/useReadingMode'
 import { annotationToPronSegment } from '../utils/annotationParser'
 import PronunciationGroup from './PronunciationGroup.vue'
@@ -11,7 +12,9 @@ const props = defineProps<{
   style?: Record<string, string>
 }>()
 
+const emit = defineEmits<{ close: [] }>()
 const { layout } = useReadingMode()
+const isMobile = computed(() => window.innerWidth < 768)
 
 function getSegment(ann: Annotation) {
   return annotationToPronSegment(ann)
@@ -29,24 +32,29 @@ function layerLabel(ann: Annotation): string {
 <template>
   <Teleport to="body">
     <Transition name="ann-fade">
-      <div
-        v-if="visible && annotations.length"
-        class="ann-tooltip"
-        :class="{ 'ann-vertical': layout === 'vertical' }"
-        :style="style"
-      >
+      <div v-if="visible && annotations.length" class="ann-backdrop" @click="emit('close')">
         <div
-          v-for="ann in annotations"
-          :key="ann.id"
-          class="ann-entry"
-          :class="ann.kind"
+          class="ann-tooltip"
+          :class="{ 'ann-vertical': layout === 'vertical', 'ann-mobile-bottom': isMobile }"
+          :style="style"
+          @click.stop
         >
-          <div class="ann-header">
-            <span class="ann-kind">{{ ann.kind === 'pronunciation' ? '音' : '義' }}</span>
-            <span v-if="layerLabel(ann)" class="ann-layer">{{ layerLabel(ann) }}</span>
+          <button v-if="isMobile" class="ann-handle" @click="emit('close')">
+            <span class="ann-handle-bar" />
+          </button>
+          <div
+            v-for="ann in annotations"
+            :key="ann.id"
+            class="ann-entry"
+            :class="ann.kind"
+          >
+            <div class="ann-header">
+              <span class="ann-kind">{{ ann.kind === 'pronunciation' ? '音' : '義' }}</span>
+              <span v-if="layerLabel(ann)" class="ann-layer">{{ layerLabel(ann) }}</span>
+            </div>
+            <PronunciationGroup v-if="getSegment(ann)" :segment="getSegment(ann)!" />
+            <div v-else class="ann-body">{{ ann.text }}</div>
           </div>
-          <PronunciationGroup v-if="getSegment(ann)" :segment="getSegment(ann)!" />
-          <div v-else class="ann-body">{{ ann.text }}</div>
         </div>
       </div>
     </Transition>
@@ -54,6 +62,12 @@ function layerLabel(ann: Annotation): string {
 </template>
 
 <style scoped>
+.ann-backdrop {
+  position: fixed;
+  inset: 0;
+  z-index: 999;
+}
+
 .ann-tooltip {
   position: fixed;
   padding: 12px 16px;
@@ -65,6 +79,36 @@ function layerLabel(ann: Annotation): string {
   max-height: 60vh;
   overflow-y: auto;
   z-index: 1000;
+}
+
+/* ─── Mobile bottom sheet ─── */
+.ann-mobile-bottom {
+  position: fixed;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  max-width: none;
+  max-height: 50vh;
+  border-radius: 16px 16px 0 0;
+  padding: 8px 20px 20px;
+  overscroll-behavior: contain;
+}
+
+.ann-handle {
+  display: flex;
+  justify-content: center;
+  padding: 8px 0 4px;
+  width: 100%;
+  border: none;
+  background: none;
+  cursor: pointer;
+}
+.ann-handle-bar {
+  display: block;
+  width: 36px;
+  height: 4px;
+  border-radius: 2px;
+  background: var(--border);
 }
 
 .ann-entry {
@@ -88,7 +132,7 @@ function layerLabel(ann: Annotation): string {
   vertical-align: middle;
 }
 .ann-header {
-  display: flex;
+  display: inline-flex;
   align-items: center;
   gap: 6px;
   margin-bottom: 2px;

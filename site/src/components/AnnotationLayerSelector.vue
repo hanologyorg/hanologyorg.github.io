@@ -42,24 +42,25 @@ function toggle(id: string) {
 }
 
 .layer-btn {
-  border: 1px solid var(--c-border);
+  border: 1px solid var(--border);
   border-radius: 4px;
-  padding: 2px 10px;
+  padding: 4px 12px;
   font-size: 13px;
-  background: var(--c-bg);
-  color: var(--c-text);
+  background: var(--surface);
+  color: var(--ink-mid);
   cursor: pointer;
   transition: all 0.15s;
-  font-family: inherit;
+  font-family: var(--sans);
+  letter-spacing: 1px;
 }
 
 .layer-btn:hover {
-  border-color: var(--c-brand);
+  border-color: var(--gold);
 }
 
 .layer-btn.active {
-  background: var(--c-brand);
-  color: #fff;
-  border-color: var(--c-brand);
+  background: var(--ink);
+  color: var(--paper);
+  border-color: var(--ink);
 }
 </style>

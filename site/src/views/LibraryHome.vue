@@ -9,6 +9,7 @@ import { useHorizontalScroll } from '../composables/useHorizontalScroll'
 import BookCard from '../components/BookCard.vue'
 import SideNav from '../components/SideNav.vue'
 import ReadingToolbar from '../components/ReadingToolbar.vue'
+import type { BookMeta } from '../types'
 
 const { scale, books, singleBook, loadLibrary } = useLibrary()
 await loadLibrary()
@@ -37,6 +38,34 @@ const { layout } = useReadingMode()
 const isVertical = computed(() => layout.value === 'vertical')
 const vPageRef = ref<HTMLElement | null>(null)
 const vScroll = useHorizontalScroll(vPageRef)
+
+const genreLabel: Record<string, string> = {
+  poetry: '詩歌',
+  prose: '散文',
+  mixed: '綜合',
+  drama: '戲曲',
+}
+
+function bookCategory(book: BookMeta): string {
+  if (book.id.startsWith('skqs-')) return '四庫全書'
+  if (book.id === 'primary' || book.id === 'primary-culture' || book.id === 'secondary' || book.id === 'nss') return '教材'
+  return '古典文本'
+}
+
+const groupedBooks = computed(() => {
+  const groups = new Map<string, BookMeta[]>()
+  const order = ['教材', '古典文本', '四庫全書']
+  for (const book of books.value) {
+    const cat = bookCategory(book)
+    if (!groups.has(cat)) groups.set(cat, [])
+    groups.get(cat)!.push(book)
+  }
+  return order
+    .filter(cat => groups.has(cat))
+    .map(cat => ({ category: cat, books: groups.get(cat)! }))
+})
+
+const totalPieces = computed(() => books.value.reduce((sum, b) => sum + b.count, 0))
 
 function openBook(bookId: string) {
   router.push(`/${bookId}`)
@@ -79,20 +108,31 @@ function openBook(bookId: string) {
         <div class="lib-seal">漢流</div>
         <h1>古典詩文圖書館</h1>
         <p class="lib-subtitle">Classical Chinese Text Library</p>
+        <div class="lib-stats-bar">
+          <span class="lib-stat">{{ books.length }} 部</span>
+          <span class="lib-stat-sep">·</span>
+          <span class="lib-stat">{{ totalPieces }} 篇</span>
+        </div>
       </header>
-      <div class="lib-grid">
-        <div
-          v-for="book in books"
-          :key="book.id"
-          class="lib-card"
-          @click="openBook(book.id)"
-        >
-          <div class="lib-card-accent"></div>
-          <div class="lib-card-body">
-            <h2 class="lib-card-title">{{ book.title }}</h2>
-            <p v-if="book.subtitle" class="lib-card-sub">{{ book.subtitle }}</p>
-            <div class="lib-card-stats">
-              <span class="lib-card-count">{{ book.count }} 篇</span>
+      <div v-for="group in groupedBooks" :key="group.category" class="lib-group">
+        <h2 class="lib-group-title">{{ group.category }}</h2>
+        <div class="lib-grid">
+          <div
+            v-for="book in group.books"
+            :key="book.id"
+            class="lib-card"
+            @click="openBook(book.id)"
+          >
+            <div class="lib-card-accent"></div>
+            <div class="lib-card-body">
+              <div class="lib-card-top">
+                <h3 class="lib-card-title">{{ book.title }}</h3>
+                <span class="lib-card-genre">{{ genreLabel[book.genre] || book.genre }}</span>
+              </div>
+              <p v-if="book.subtitle" class="lib-card-sub">{{ book.subtitle }}</p>
+              <div class="lib-card-stats">
+                <span class="lib-card-count">{{ book.count }} 篇</span>
+              </div>
             </div>
           </div>
         </div>
@@ -237,11 +277,11 @@ function openBook(bookId: string) {
 .lib-root {
   max-width: 960px;
   margin: 0 auto;
-  padding: 80px 24px 120px;
+  padding: 64px 24px 120px;
 }
 .lib-hero {
   text-align: center;
-  margin-bottom: 64px;
+  margin-bottom: 48px;
 }
 .lib-seal {
   writing-mode: vertical-rl;
@@ -271,18 +311,43 @@ function openBook(bookId: string) {
   font-family: var(--sans);
   color: var(--ink-faint);
   letter-spacing: 2px;
+  margin-bottom: 12px;
 }
+.lib-stats-bar {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  font-family: var(--sans);
+  font-size: 14px;
+  color: var(--ink-light);
+  letter-spacing: 2px;
+}
+.lib-stat-sep { color: var(--border); }
+
+.lib-group { margin-bottom: 40px; }
+.lib-group-title {
+  font-size: 15px;
+  font-family: var(--sans);
+  font-weight: 600;
+  color: var(--ink-light);
+  letter-spacing: 3px;
+  margin-bottom: 16px;
+  padding-bottom: 8px;
+  border-bottom: 1px solid var(--border-light);
+}
+
 .lib-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
-  gap: 16px;
+  grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+  gap: 12px;
 }
 
 .lib-card {
   display: flex;
   flex-direction: column;
   justify-content: flex-start;
-  padding: 32px 24px;
+  padding: 20px;
   border: 1px solid var(--border-light);
   border-radius: 8px;
   cursor: pointer;
@@ -291,22 +356,44 @@ function openBook(bookId: string) {
   background: var(--surface);
 }
 .lib-card:hover { border-color: var(--gold); box-shadow: 0 4px 20px rgba(var(--shadow-rgb), 0.1); }
+.lib-card-accent {
+  position: absolute;
+  top: 0; left: 0;
+  width: 3px; height: 0;
+  background: var(--vermillion);
+  transition: height 0.35s ease;
+}
+.lib-card:hover .lib-card-accent { height: 100%; }
+.lib-card-top {
+  display: flex;
+  align-items: baseline;
+  gap: 8px;
+  margin-bottom: 4px;
+}
 .lib-card-title {
-  font-size: 28px; font-weight: 900;
-  letter-spacing: 6px; color: var(--ink);
-  margin-bottom: 8px;
+  font-size: 22px; font-weight: 900;
+  letter-spacing: 4px; color: var(--ink);
+}
+.lib-card-genre {
+  font-size: 11px;
+  font-family: var(--sans);
+  color: var(--ink-faint);
+  padding: 1px 6px;
+  border: 1px solid var(--border-light);
+  border-radius: 3px;
+  white-space: nowrap;
 }
 .lib-card-sub {
-  font-size: 14px; color: var(--ink-light);
-  letter-spacing: 2px; font-family: var(--sans);
-  margin-bottom: 16px;
+  font-size: 13px; color: var(--ink-light);
+  letter-spacing: 1px; font-family: var(--sans);
+  margin-bottom: 12px;
 }
 .lib-card-stats {
-  font-size: 13px; color: var(--ink-faint);
+  font-size: 12px; color: var(--ink-faint);
   font-family: var(--sans); letter-spacing: 1px;
 }
 .lib-card-count {
-  padding: 4px 10px;
+  padding: 2px 8px;
   background: var(--surface-warm);
   border-radius: 4px;
 }
@@ -314,5 +401,19 @@ function openBook(bookId: string) {
 @media (max-width: 768px) {
   .v-page { padding: 0 16px; }
   .v-title { font-size: 36px; letter-spacing: 10px; }
+  .lib-root { padding: 40px 16px 80px; }
+  .lib-hero h1 { font-size: 28px; letter-spacing: 4px; }
+  .lib-grid {
+    grid-template-columns: 1fr 1fr;
+    gap: 8px;
+  }
+  .lib-card { padding: 14px; }
+  .lib-card-title { font-size: 18px; letter-spacing: 2px; }
+  .lib-card-genre { display: none; }
+  .lib-card-sub { font-size: 12px; margin-bottom: 8px; }
+}
+
+@media (max-width: 480px) {
+  .lib-grid { grid-template-columns: 1fr; }
 }
 </style>

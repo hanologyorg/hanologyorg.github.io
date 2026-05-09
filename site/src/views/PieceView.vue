@@ -155,7 +155,13 @@ const proseSections = computed(() => {
 function handleAnnotationHover(event: MouseEvent, annotations: Annotation[]) {
   tooltip.show(event, annotations)
 }
-function handleAnnotationLeave() { tooltip.hide() }
+function handleAnnotationLeave() {
+  if (window.innerWidth >= 768) tooltip.hide()
+}
+function handleAnnotationTap(event: MouseEvent, annotations: Annotation[]) {
+  tooltip.toggle(event, annotations)
+}
+function dismissTooltip() { tooltip.hide() }
 const { getAuthor, loadShared } = useData()
 await loadShared()
 
@@ -248,6 +254,7 @@ function tcy(n: number): string {
             :annotations="mergedAnnotations"
             @annotation-hover="handleAnnotationHover"
             @annotation-leave="handleAnnotationLeave"
+            @annotation-tap="handleAnnotationTap"
             @open-author="openAuthorPane"
           />
         </section>
@@ -312,6 +319,7 @@ function tcy(n: number): string {
         :annotations="tooltip.items"
         :layer-labels="layerLabels"
         :style="tooltip.style"
+        @close="dismissTooltip"
       />
 
       <Teleport to="body">
@@ -369,6 +377,7 @@ function tcy(n: number): string {
               :annotations="mergedAnnotations"
               @annotation-hover="handleAnnotationHover"
               @annotation-leave="handleAnnotationLeave"
+              @annotation-tap="handleAnnotationTap"
             />
           </div>
 
@@ -420,6 +429,7 @@ function tcy(n: number): string {
         :annotations="tooltip.items"
         :layer-labels="layerLabels"
         :style="tooltip.style"
+        @close="dismissTooltip"
       />
 
       <Teleport to="body">

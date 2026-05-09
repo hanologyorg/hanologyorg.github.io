@@ -120,28 +120,39 @@ export function useAnnotationTooltip() {
     items.value = annotations
     const el = (event.target as HTMLElement).closest('.ann-target') as HTMLElement | null
     const rect = (el ?? event.target as HTMLElement).getBoundingClientRect()
-    const w = 280
-    const h = 200
 
     if (layout.value === 'vertical') {
       const left = rect.left - 12
-      const top = Math.max(8, Math.min(rect.top, window.innerHeight - h - 8))
       style.value = {
         right: Math.max(8, window.innerWidth - left) + 'px',
-        top: top + 'px',
+        top: '50%',
+        transform: 'translateY(-50%)',
       }
     } else {
-      const left = Math.max(8, Math.min(rect.left, window.innerWidth - w - 8))
-      const top = Math.max(8, rect.bottom + 8)
-      style.value = {
-        left: left + 'px',
-        top: Math.min(top, window.innerHeight - h - 8) + 'px',
+      const isMobile = window.innerWidth < 768
+      if (isMobile) {
+        style.value = {
+          left: '4vw',
+          right: '4vw',
+          bottom: '0',
+          maxWidth: 'none',
+        }
+      } else {
+        const left = Math.max(8, Math.min(rect.left, window.innerWidth - 288))
+        const top = Math.max(8, rect.bottom + 8)
+        style.value = {
+          left: left + 'px',
+          top: Math.min(top, window.innerHeight - 200) + 'px',
+        }
       }
     }
     visible.value = true
   }
 
   function hide() { visible.value = false }
+  function toggle(event: MouseEvent, annotations: Annotation[]) {
+    if (visible.value) { hide() } else { show(event, annotations) }
+  }
 
-  return { visible, items, style, show, hide }
+  return { visible, items, style, show, hide, toggle }
 }
