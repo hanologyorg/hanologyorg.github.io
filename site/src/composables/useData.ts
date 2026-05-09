@@ -11,7 +11,7 @@ async function loadShared(): Promise<void> {
   if (import.meta.env.SSR) {
     const { readFileSync } = await import('fs')
     const { resolve } = await import('path')
-    const base = resolve('public/data')
+    const base = process.env.CHAM_DATA_DIR || resolve('public/data')
     authors.value = JSON.parse(readFileSync(`${base}/authors.json`, 'utf-8'))
     dynasties.value = JSON.parse(readFileSync(`${base}/dynasties.json`, 'utf-8'))
   } else {

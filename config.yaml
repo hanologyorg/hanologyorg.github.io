@@ -1,0 +1,15 @@
+# 漢流 Hanology — Site Configuration
+
+# Branding
+name: 漢流
+nameEn: Hanology
+subtitle: 古典詩文圖書館
+subtitleEn: Classical Chinese Text Library
+
+# Content paths (relative to this file)
+libraryDir: library/content
+authorsFile: library/data/authors.yaml
+
+# Build options
+outputDir: dist
+pretty: true

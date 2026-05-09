@@ -29,8 +29,9 @@ async function fetchBook(bookId: string): Promise<{ meta: BookMeta; pieces: Piec
 
   if (import.meta.env.SSR) {
     const { readFileSync } = await import('fs')
-    const { resolve } = await import('path')
-    data = JSON.parse(readFileSync(resolve(`public/data/books/${bookId}.json`), 'utf-8'))
+    const { join } = await import('path')
+    const base = process.env.CHAM_DATA_DIR || join('public', 'data')
+    data = JSON.parse(readFileSync(join(base, 'books', `${bookId}.json`), 'utf-8'))
   } else {
     const res = await fetch(`/data/books/${bookId}.json`)
     data = await res.json()

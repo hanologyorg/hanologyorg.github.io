@@ -9,8 +9,9 @@ async function loadLibrary(): Promise<void> {
 
   if (import.meta.env.SSR) {
     const { readFileSync } = await import('fs')
-    const { resolve } = await import('path')
-    library.value = JSON.parse(readFileSync(resolve('public/data/library.json'), 'utf-8'))
+    const { resolve, join } = await import('path')
+    const base = process.env.CHAM_DATA_DIR || resolve('public/data')
+    library.value = JSON.parse(readFileSync(join(base, 'library.json'), 'utf-8'))
   } else {
     const res = await fetch('/data/library.json')
     library.value = await res.json()
