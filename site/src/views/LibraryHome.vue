@@ -9,6 +9,7 @@ import { useHorizontalScroll } from '../composables/useHorizontalScroll'
 import BookCard from '../components/BookCard.vue'
 import SideNav from '../components/SideNav.vue'
 import ReadingToolbar from '../components/ReadingToolbar.vue'
+import { useSiteConfig } from '../composables/useSiteConfig'
 import type { BookMeta } from '../types'
 
 const { scale, books, singleBook, loadLibrary } = useLibrary()
@@ -35,6 +36,7 @@ if (scale.value === 'single-piece' && singleBook.value) {
 
 const router = useRouter()
 const { layout } = useReadingMode()
+const { logoUrl } = useSiteConfig()
 const isVertical = computed(() => layout.value === 'vertical')
 const vPageRef = ref<HTMLElement | null>(null)
 const vScroll = useHorizontalScroll(vPageRef)
@@ -78,6 +80,9 @@ function openBook(bookId: string) {
     <div v-if="isVertical" class="v-root">
       <SideNav @home="router.push('/')" @back="router.push('/')" />
       <div ref="vPageRef" class="v-page">
+        <div class="v-about-col">
+          <router-link to="/about" class="v-about-link">關 於</router-link>
+        </div>
         <section class="v-hero">
           <h1 class="v-title">古 典 詩 文 圖 書 館</h1>
           <p class="v-subtitle">Classical Chinese Text Library</p>
@@ -105,7 +110,8 @@ function openBook(bookId: string) {
     <!-- ═══════ 橫排模式 ═══════ -->
     <div v-else class="lib-root">
       <header class="lib-hero">
-        <div class="lib-seal">漢流</div>
+        <img v-if="logoUrl" :src="logoUrl" alt="" class="lib-logo" />
+        <div v-else class="lib-seal">漢流</div>
         <h1>古典詩文圖書館</h1>
         <p class="lib-subtitle">Classical Chinese Text Library</p>
         <div class="lib-stats-bar">
@@ -113,14 +119,16 @@ function openBook(bookId: string) {
           <span class="lib-stat-sep">·</span>
           <span class="lib-stat">{{ totalPieces }} 篇</span>
         </div>
+        <router-link to="/about" class="lib-about-link">關於</router-link>
       </header>
       <div v-for="group in groupedBooks" :key="group.category" class="lib-group">
         <h2 class="lib-group-title">{{ group.category }}</h2>
         <div class="lib-grid">
           <div
-            v-for="book in group.books"
+            v-for="(book, bi) in group.books"
             :key="book.id"
             class="lib-card"
+            :style="{ animationDelay: bi * 0.06 + 's' }"
             @click="openBook(book.id)"
           >
             <div class="lib-card-accent"></div>
@@ -156,6 +164,7 @@ function openBook(bookId: string) {
   background: linear-gradient(90deg, var(--paper) 0%, var(--paper-warm) 100%);
   scrollbar-width: thin;
   scrollbar-color: var(--gold) transparent;
+  scroll-snap-type: x proximity;
 }
 .v-page::-webkit-scrollbar { height: 4px; }
 .v-page::-webkit-scrollbar-thumb { background: var(--gold); border-radius: 2px; }
@@ -171,21 +180,30 @@ function openBook(bookId: string) {
   justify-content: center;
   padding: 40px 20px;
 }
-.v-seal {
-  writing-mode: horizontal-tb;
-  display: inline-flex;
+.v-about-col {
+  writing-mode: vertical-rl;
+  text-orientation: mixed;
+  flex-shrink: 0;
+  height: 100vh;
+  display: flex;
   align-items: center;
   justify-content: center;
-  width: 48px; height: 48px;
-  border: 2px solid var(--vermillion);
-  color: var(--vermillion);
+  padding: 0 12px;
+  border-right: 1px solid var(--border-light);
+}
+.v-about-link {
   font-size: 14px;
-  font-family: var(--serif);
-  font-weight: 900;
-  margin-bottom: 0;
-  margin-left: 16px;
-  border-radius: 4px;
-  letter-spacing: 0;
+  color: var(--ink-faint);
+  letter-spacing: 6px;
+  font-family: var(--sans);
+  padding: 12px 8px;
+  border: 1px solid var(--border-light);
+  border-radius: 2px;
+  transition: all 0.2s;
+}
+.v-about-link:hover {
+  color: var(--ink);
+  border-color: var(--ink);
 }
 .v-title {
   font-size: 48px; font-weight: 900;
@@ -283,6 +301,12 @@ function openBook(bookId: string) {
   text-align: center;
   margin-bottom: 48px;
 }
+.lib-logo {
+  height: 64px;
+  width: auto;
+  object-fit: contain;
+  margin-bottom: 24px;
+}
 .lib-seal {
   writing-mode: vertical-rl;
   text-orientation: upright;
@@ -325,6 +349,24 @@ function openBook(bookId: string) {
 }
 .lib-stat-sep { color: var(--border); }
 
+.lib-about-link {
+  display: inline-block;
+  margin-top: 16px;
+  font-family: var(--sans);
+  font-size: 13px;
+  color: var(--ink-faint);
+  letter-spacing: 2px;
+  text-decoration: none;
+  padding: 4px 12px;
+  border: 1px solid var(--border-light);
+  border-radius: 4px;
+  transition: all 0.2s;
+}
+.lib-about-link:hover {
+  color: var(--ink);
+  border-color: var(--ink);
+}
+
 .lib-group { margin-bottom: 40px; }
 .lib-group-title {
   font-size: 15px;
@@ -351,9 +393,14 @@ function openBook(bookId: string) {
   border: 1px solid var(--border-light);
   border-radius: 8px;
   cursor: pointer;
-  transition: all 0.3s ease;
+  transition: all 0.3s var(--ease-out-expo, ease);
   position: relative;
   background: var(--surface);
+  animation: cardEnter 0.5s var(--ease-out-expo, ease) both;
+}
+@keyframes cardEnter {
+  from { opacity: 0; transform: translateY(12px); }
+  to { opacity: 1; transform: translateY(0); }
 }
 .lib-card:hover { border-color: var(--gold); box-shadow: 0 4px 20px rgba(var(--shadow-rgb), 0.1); }
 .lib-card-accent {

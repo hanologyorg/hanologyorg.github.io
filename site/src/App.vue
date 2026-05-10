@@ -2,7 +2,7 @@
 import { useRouter } from 'vue-router'
 import { useReadingMode } from './composables/useReadingMode'
 import ReadingToolbar from './components/ReadingToolbar.vue'
-import { computed } from 'vue'
+import { computed, ref } from 'vue'
 
 const router = useRouter()
 const { toggleLayout, cycleTheme, layout } = useReadingMode()

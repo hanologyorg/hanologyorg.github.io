@@ -5,15 +5,17 @@ import { useBook } from '../composables/useBook'
 import { useTitle } from '../composables/useTitle'
 import { useReadingMode } from '../composables/useReadingMode'
 import { useHorizontalScroll } from '../composables/useHorizontalScroll'
-import { useAnnotationTooltip } from '../composables/useAnnotationRenderer'
+import { useAnnotationInteraction } from '../composables/useAnnotationInteraction'
 import { useData } from '../composables/useData'
 import VerticalScroll from '../components/VerticalScroll.vue'
 import HorizontalDisplay from '../components/HorizontalDisplay.vue'
 import SectionBlock from '../components/SectionBlock.vue'
 import AnnotationTooltip from '../components/AnnotationTooltip.vue'
-import AnnotationLayerSelector from '../components/AnnotationLayerSelector.vue'
+import AnnotationControlBar from '../components/AnnotationControlBar.vue'
 import SideNav from '../components/SideNav.vue'
-import type { Piece, Annotation, AnnotationLayer } from '../types'
+import PartGroup from '../components/PartGroup.vue'
+import ReadingProgress from '../components/ReadingProgress.vue'
+import type { Piece, Annotation, AnnotationLayer, Part } from '../types'
 
 const props = defineProps<{ bookId: string; num: string | number }>()
 const router = useRouter()
@@ -26,7 +28,7 @@ const vScroll = useHorizontalScroll(vPageRef)
 
 const authorPaneOpen = ref(false)
 const selectedAuthorId = ref('')
-const tooltip = reactive(useAnnotationTooltip())
+const interaction = reactive(useAnnotationInteraction())
 const titleCollapsed = ref(false)
 const vTitleRef = ref<HTMLElement | null>(null)
 
@@ -58,9 +60,21 @@ useTitle(pageTitle.value)
 
 const isVertical = computed(() => layout.value === 'vertical')
 
+const totalAnnotationCount = computed(() => {
+  if (!piece.value) return 0
+  let count = piece.value.annotations.length
+  if (piece.value.annotationLayers) {
+    for (const layer of piece.value.annotationLayers) {
+      count += layer.annotations.length
+    }
+  }
+  return count
+})
+
 const annotationLayers = computed<AnnotationLayer[]>(() => piece.value?.annotationLayers || [])
 const hasLayers = computed(() => annotationLayers.value.length > 1)
 const activeLayerIds = ref<string[]>([])
+const annotationsVisible = ref(true)
 
 function initLayers() {
   if (hasLayers.value && activeLayerIds.value.length === 0) {
@@ -94,7 +108,7 @@ const layerLabels = computed(() => {
 })
 
 const layerAnnotationBlocks = computed(() => {
-  if (!hasLayers.value) return []
+  if (!hasLayers.value || !annotationsVisible.value) return []
   const result: { label: string; text: string }[] = []
   const activeLayers = annotationLayers.value.filter(l => activeLayerIds.value.includes(l.id) && l.id !== 'default')
   for (const layer of activeLayers) {
@@ -127,6 +141,29 @@ function getHeadword(ann: Annotation): string {
 // Initialize layers when piece loads
 watch(() => piece.value, () => initLayers(), { immediate: true })
 
+// ─── Multi-part ───────────────────────────────────────────────
+const isMultiPart = computed(() => (piece.value?.parts?.length ?? 0) > 0)
+
+const partGroups = computed<{ label: string; parts: Part[] }[]>(() => {
+  if (!piece.value?.parts?.length) return []
+  const groupMap = new Map<string, Part[]>()
+  for (const part of piece.value.parts) {
+    const key = part.group || ''
+    if (!groupMap.has(key)) groupMap.set(key, [])
+    groupMap.get(key)!.push(part)
+  }
+  return [...groupMap.entries()].map(([label, parts]) => ({ label, parts }))
+})
+
+const allPartAnnotations = computed<Annotation[]>(() => {
+  if (!piece.value?.parts) return []
+  return piece.value.parts.flatMap(p => p.annotations)
+})
+
+const totalPartAnnotationCount = computed(() => {
+  return piece.value?.parts?.reduce((sum, p) => sum + p.annotations.length, 0) ?? 0
+})
+
 const SECTION_META: Record<string, { label: string; special: boolean }> = {
   background: { label: '背景資料', special: false },
   analysis: { label: '賞析重點', special: false },
@@ -152,33 +189,7 @@ const proseSections = computed(() => {
   return result
 })
 
-let hideTimer: ReturnType<typeof setTimeout> | null = null
-function cancelHide() {
-  if (hideTimer) { clearTimeout(hideTimer); hideTimer = null }
-}
-function scheduleHide(delay = 150) {
-  cancelHide()
-  hideTimer = setTimeout(() => { tooltip.hide(); hideTimer = null }, delay)
-}
 
-function handleAnnotationHover(event: MouseEvent, annotations: Annotation[]) {
-  cancelHide()
-  tooltip.show(event, annotations)
-}
-function handleAnnotationLeave() {
-  if (window.innerWidth >= 768) scheduleHide()
-}
-function handleAnnotationTap(event: MouseEvent, annotations: Annotation[]) {
-  cancelHide()
-  tooltip.toggle(event, annotations)
-}
-function handleTooltipEnter() {
-  cancelHide()
-}
-function handleTooltipLeave() {
-  if (window.innerWidth >= 768) scheduleHide()
-}
-function dismissTooltip() { cancelHide(); tooltip.hide() }
 const { getAuthor, loadShared } = useData()
 await loadShared()
 
@@ -243,6 +254,7 @@ function tcy(n: number): string {
         @back="goBack"
         @home="goHome"
       />
+      <ReadingProgress vertical :scroll-container="vPageRef" />
       <div ref="vPageRef" class="v-page">
         <section ref="vTitleRef" class="v-title-col">
           <h1 class="v-poem-title">{{ piece.title }}</h1>
@@ -257,53 +269,85 @@ function tcy(n: number): string {
             ← {{ meta?.title }}
           </div>
           <div class="v-poem-meta">
-            <span class="v-meta-item" v-html="tcy(piece.verses.length) + ' 段'" />
-            <span class="v-meta-item" v-html="piece.annotations.length > 0 ? tcy(piece.annotations.length) + ' 注' : '無注'" />
+            <template v-if="isMultiPart">
+              <span class="v-meta-item" v-html="tcy(piece.parts!.length) + ' 段'" />
+              <span class="v-meta-item" v-html="totalPartAnnotationCount > 0 ? tcy(totalPartAnnotationCount) + ' 注' : '無注'" />
+            </template>
+            <template v-else>
+              <span class="v-meta-item" v-html="tcy(piece.verses.length) + ' 段'" />
+              <span class="v-meta-item" v-html="totalAnnotationCount > 0 ? tcy(totalAnnotationCount) + ' 注' : '無注'" />
+            </template>
           </div>
         </section>
 
-        <section class="v-poem-col">
+        <section v-if="isMultiPart" class="v-poem-col v-multipart">
+          <PartGroup
+            v-for="group in partGroups"
+            :key="group.label"
+            :label="group.label"
+            :parts="group.parts"
+            :vertical="true"
+            @annotation-hover="interaction.onHover"
+            @annotation-leave="interaction.onLeave"
+            @annotation-tap="interaction.onTap"
+          />
+        </section>
+
+        <section v-else class="v-poem-col">
           <VerticalScroll
             :title="''"
             :author="''"
             :verses="piece.verses"
             :author-initial="piece.author?.charAt(0) || '詩'"
             :annotations="mergedAnnotations"
-            @annotation-hover="handleAnnotationHover"
-            @annotation-leave="handleAnnotationLeave"
-            @annotation-tap="handleAnnotationTap"
+            @annotation-hover="interaction.onHover"
+            @annotation-leave="interaction.onLeave"
+            @annotation-tap="interaction.onTap"
             @open-author="openAuthorPane"
           />
         </section>
 
-        <div class="v-section">
+        <SectionBlock
+          v-if="!isMultiPart && annotationsVisible && piece.sections.annotations"
+          num=""
+          label="注釋"
+          :special="false"
+          :text="piece.sections.annotations"
+          :is-annotations="true"
+          :vertical="true"
+          class="v-section"
+        />
+        <template v-if="hasLayers">
+          <div class="v-layers-inline v-section">
+            <AnnotationControlBar
+              :layers="annotationLayers"
+              :has-annotations="piece.annotations.length > 0"
+              v-model:active-ids="activeLayerIds"
+              v-model:annotations-visible="annotationsVisible"
+            />
+          </div>
           <SectionBlock
+            v-for="block in layerAnnotationBlocks"
+            :key="block.label"
             num=""
-            label="注釋"
+            :label="block.label"
             :special="false"
-            :text="piece.sections.annotations || ''"
+            :text="block.text"
             :is-annotations="true"
             :vertical="true"
+            class="v-section"
           />
-          <template v-if="hasLayers">
-            <div class="v-layers-inline">
-              <AnnotationLayerSelector
-                :layers="annotationLayers"
-                v-model:activeIds="activeLayerIds"
-              />
-            </div>
-            <SectionBlock
-              v-for="block in layerAnnotationBlocks"
-              :key="block.label"
-              num=""
-              :label="block.label"
-              :special="false"
-              :text="block.text"
-              :is-annotations="true"
-              :vertical="true"
-            />
-          </template>
-        </div>
+        </template>
+        <SectionBlock
+          v-else-if="piece.annotations.length > 0"
+          num=""
+          label="注釋"
+          :special="false"
+          :text="piece.sections.annotations || ''"
+          :is-annotations="true"
+          :vertical="true"
+          class="v-section"
+        />
 
         <SectionBlock
           v-for="(sec, idx) in proseSections"
@@ -333,13 +377,13 @@ function tcy(n: number): string {
       </div>
 
       <AnnotationTooltip
-        :visible="tooltip.visible"
-        :annotations="tooltip.items"
+        :visible="interaction.visible"
+        :annotations="interaction.items"
         :layer-labels="layerLabels"
-        :style="tooltip.style"
-        @close="dismissTooltip"
-        @tooltip-enter="handleTooltipEnter"
-        @tooltip-leave="handleTooltipLeave"
+        :style="interaction.style"
+        @close="interaction.dismiss"
+        @tooltip-enter="interaction.onTooltipEnter"
+        @tooltip-leave="interaction.onTooltipLeave"
       />
 
       <Teleport to="body">
@@ -361,6 +405,7 @@ function tcy(n: number): string {
 
     <!-- ═══════ 橫排模式 ═══════ -->
     <div v-else class="h-root">
+      <ReadingProgress />
       <div class="h-page">
         <nav class="h-nav">
           <div class="h-nav-inner">
@@ -382,29 +427,54 @@ function tcy(n: number): string {
               <span v-else class="h-author-link" @click="openAuthorPane">{{ piece.author }}</span>
             </div>
             <div class="h-controls">
-              <span class="h-tag">{{ piece.verses.length }} 段</span>
-              <span class="h-tag">{{ piece.annotations.length > 0 ? piece.annotations.length + ' 注' : '無注' }}</span>
+              <template v-if="isMultiPart">
+                <span class="h-tag">{{ piece.parts!.length }} 段</span>
+                <span class="h-tag">{{ totalPartAnnotationCount > 0 ? totalPartAnnotationCount + ' 注' : '無注' }}</span>
+              </template>
+              <template v-else>
+                <span class="h-tag">{{ piece.verses.length }} 段</span>
+                <span class="h-tag">{{ totalAnnotationCount > 0 ? totalAnnotationCount + ' 注' : '無注' }}</span>
+              </template>
             </div>
           </div>
         </nav>
 
         <div class="h-content">
-          <div class="h-poem-block">
+          <div v-if="isMultiPart" class="h-multipart">
+            <PartGroup
+              v-for="group in partGroups"
+              :key="group.label"
+              :label="group.label"
+              :parts="group.parts"
+              @annotation-hover="interaction.onHover"
+              @annotation-leave="interaction.onLeave"
+              @annotation-tap="interaction.onTap"
+            />
+          </div>
+
+          <div v-else class="h-poem-block">
             <HorizontalDisplay
               :title="piece.title"
               :author="piece.author"
               :verses="piece.verses"
               :annotations="mergedAnnotations"
-              @annotation-hover="handleAnnotationHover"
-              @annotation-leave="handleAnnotationLeave"
-              @annotation-tap="handleAnnotationTap"
+              @annotation-hover="interaction.onHover"
+              @annotation-leave="interaction.onLeave"
+              @annotation-tap="interaction.onTap"
             />
           </div>
 
           <div class="h-sections">
-            <div v-if="piece.sections.annotations || hasLayers" class="h-ann-section">
+            <div v-if="(piece.sections.annotations && annotationsVisible) || hasLayers" class="h-ann-section">
+              <AnnotationControlBar
+                :layers="annotationLayers"
+                :has-annotations="piece.annotations.length > 0"
+                v-model:active-ids="activeLayerIds"
+                v-model:annotations-visible="annotationsVisible"
+                style="margin-bottom: 16px"
+              />
               <SectionBlock
-                v-if="piece.sections.annotations"
+                v-if="annotationsVisible && piece.sections.annotations"
                 num=""
                 label="注釋"
                 :special="false"
@@ -412,12 +482,6 @@ function tcy(n: number): string {
                 :is-annotations="true"
               />
               <template v-if="hasLayers">
-                <div class="h-layers-inline">
-                  <AnnotationLayerSelector
-                    :layers="annotationLayers"
-                    v-model:activeIds="activeLayerIds"
-                  />
-                </div>
                 <SectionBlock
                   v-for="block in layerAnnotationBlocks"
                   :key="block.label"
@@ -457,13 +521,13 @@ function tcy(n: number): string {
       </div>
 
       <AnnotationTooltip
-        :visible="tooltip.visible"
-        :annotations="tooltip.items"
+        :visible="interaction.visible"
+        :annotations="interaction.items"
         :layer-labels="layerLabels"
-        :style="tooltip.style"
-        @close="dismissTooltip"
-        @tooltip-enter="handleTooltipEnter"
-        @tooltip-leave="handleTooltipLeave"
+        :style="interaction.style"
+        @close="interaction.dismiss"
+        @tooltip-enter="interaction.onTooltipEnter"
+        @tooltip-leave="interaction.onTooltipLeave"
       />
 
       <Teleport to="body">
@@ -487,8 +551,8 @@ function tcy(n: number): string {
     </div>
   </div>
 
-  <div v-else style="text-align:center;padding-top:120px">
-    <p style="font-size:18px;color:var(--ink-faint)">載入中…</p>
+  <div v-else class="loading">
+    <div class="loading-seal">詩</div>
   </div>
 </template>
 
@@ -506,6 +570,7 @@ function tcy(n: number): string {
   background: var(--paper);
   scrollbar-width: thin;
   scrollbar-color: var(--gold) transparent;
+  scroll-snap-type: x proximity;
 }
 .v-page::-webkit-scrollbar { height: 4px; }
 .v-page::-webkit-scrollbar-thumb { background: var(--gold); border-radius: 2px; }
@@ -521,6 +586,7 @@ function tcy(n: number): string {
   gap: 16px;
   padding: 40px 24px;
   border-right: 1px solid var(--border);
+  scroll-snap-align: start;
 }
 .v-poem-title {
   font-size: 40px; font-weight: 900;
@@ -562,6 +628,22 @@ function tcy(n: number): string {
   padding: 24px;
 }
 
+.v-multipart {
+  display: flex;
+  flex-direction: row-reverse;
+  align-items: flex-start;
+  gap: 0;
+  max-height: calc(100vh - 120px);
+  overflow-x: auto;
+  overflow-y: hidden;
+  padding: 24px 16px;
+  scrollbar-width: thin;
+  scrollbar-color: var(--gold) var(--paper);
+}
+
+.v-multipart::-webkit-scrollbar { height: 4px; }
+.v-multipart::-webkit-scrollbar-thumb { background: var(--gold); border-radius: 2px; }
+
 .v-section {
   flex-shrink: 0;
 }
@@ -575,7 +657,7 @@ function tcy(n: number): string {
 
 .v-source-link {
   font-size: 12px;
-  color: var(--c-brand);
+  color: var(--vermillion);
   cursor: pointer;
   margin-top: 4px;
   opacity: 0.8;
@@ -593,6 +675,7 @@ function tcy(n: number): string {
   justify-content: center;
   padding: 24px 12px;
   gap: 32px;
+  scroll-snap-align: start;
 }
 .v-nav-spacer { flex: 1; }
 .v-nav-btn {
@@ -674,6 +757,16 @@ function tcy(n: number): string {
 .h-poem-block {
   margin-bottom: 60px; display: flex; justify-content: center;
 }
+
+.h-multipart {
+  max-width: min(680px, calc(100vw - 80px));
+  margin: 0 auto 60px;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 32px 40px;
+  box-shadow: 0 4px 16px rgba(var(--shadow-rgb), 0.08);
+}
 .h-sections {
   max-width: min(680px, calc(100vw - 80px));
   margin: 0 auto; padding-bottom: 80px;
@@ -689,7 +782,7 @@ function tcy(n: number): string {
 }
 
 .h-source-link {
-  color: var(--c-brand);
+  color: var(--vermillion);
   cursor: pointer;
   font-size: 13px;
 }
@@ -714,7 +807,9 @@ function tcy(n: number): string {
 
 .h-overlay {
   position: fixed; inset: 0;
-  background: rgba(var(--shadow-rgb), 0.3);
+  background: rgba(var(--shadow-rgb), 0.2);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
   z-index: 200;
   display: flex; justify-content: flex-end;
   animation: fadeIn 0.2s ease;
@@ -761,7 +856,9 @@ function tcy(n: number): string {
 
 .v-overlay {
   position: fixed; inset: 0;
-  background: rgba(var(--shadow-rgb), 0.3);
+  background: rgba(var(--shadow-rgb), 0.2);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
   z-index: 200;
   display: flex; justify-content: flex-start;
   animation: fadeIn 0.2s ease;
@@ -816,6 +913,25 @@ function tcy(n: number): string {
 .v-pane-p {
   margin-bottom: 0;
   margin-left: 12px;
+}
+
+.loading {
+  display: flex; flex-direction: column;
+  align-items: center; justify-content: center;
+  height: 100vh;
+}
+.loading-seal {
+  width: 56px; height: 56px;
+  border: 2px solid var(--vermillion);
+  border-radius: 4px;
+  display: flex; align-items: center; justify-content: center;
+  font-size: 28px; font-weight: 900;
+  color: var(--vermillion);
+  animation: pulse 1.2s ease-in-out infinite;
+}
+@keyframes pulse {
+  0%, 100% { opacity: 0.3; }
+  50% { opacity: 1; }
 }
 
 @media (max-width: 768px) {

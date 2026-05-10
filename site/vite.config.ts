@@ -14,7 +14,7 @@ export default defineConfig({
     script: 'async',
     formatting: 'minify',
     includedRoutes(paths, routes) {
-      const result = ['/']
+      const result = ['/', '/about']
 
       const library = JSON.parse(
         readFileSync(resolve(__dirname, 'public/data/library.json'), 'utf-8')

@@ -108,11 +108,12 @@ export interface PieceContributor {
   title?: string
 }
 
-export interface PieceSource {  text?: string
+export interface PieceSource {
+  text?: string
   textRef?: string
   pieceRef?: number
   relation: 'section' | 'excerpt' | 'standalone'
-  range?: { start: string; end: string }
+  range?: { start?: string; end?: string; chapter?: string; [key: string]: string | undefined }
 }
 
 export interface ProseSection {
@@ -121,6 +122,16 @@ export interface ProseSection {
   filename: string
   body: string
   order: number
+}
+
+export interface Part {
+  num: number
+  group?: string
+  title?: string
+  source?: PieceSource
+  verses: VerseLine[]
+  annotations: Annotation[]
+  annotationText?: string
 }
 
 export interface Piece {
@@ -139,6 +150,7 @@ export interface Piece {
   annotationLayers?: AnnotationLayer[]
   source?: PieceSource
   contributors?: PieceContributor[]
+  parts?: Part[]
 }
 
 // Backward compatibility alias

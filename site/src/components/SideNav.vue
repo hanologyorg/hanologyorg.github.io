@@ -1,7 +1,10 @@
 <script setup lang="ts">
 import { ref } from 'vue'
+import { useRouter } from 'vue-router'
 import { useReadingMode, THEMES, THEME_LABELS, FONT_SIZES } from '../composables/useReadingMode'
 import type { LayoutMode, FontSize } from '../composables/useReadingMode'
+import { useI18n, LOCALE_LABELS, type Locale } from '../composables/useI18n'
+import { useSiteConfig } from '../composables/useSiteConfig'
 
 defineProps<{
   context?: string
@@ -16,6 +19,9 @@ const emit = defineEmits<{
 }>()
 
 const { theme, layout, mainFontSize, bodyFontSize, setTheme, setLayout, setMainFontSize, setBodyFontSize } = useReadingMode()
+const { t, setLocale, locale, availableLocales, localeLabels } = useI18n()
+const { logoUrl } = useSiteConfig()
+const router = useRouter()
 const settingsOpen = ref(false)
 
 function toggleSettings() { settingsOpen.value = !settingsOpen.value }
@@ -24,7 +30,8 @@ function toggleSettings() { settingsOpen.value = !settingsOpen.value }
 <template>
   <nav class="sidenav">
     <button class="sn-brand" @click="emit('home')" title="首頁">
-      <span class="sn-seal">漢流</span>
+      <img v-if="logoUrl" :src="logoUrl" alt="" class="sn-logo" />
+      <span v-else class="sn-seal">漢流</span>
     </button>
 
     <button class="sn-btn" @click="emit('back')" title="返回">
@@ -42,6 +49,10 @@ function toggleSettings() { settingsOpen.value = !settingsOpen.value }
 
     <div class="sn-spacer" />
 
+    <button class="sn-btn" @click="router.push('/about')" title="關於">
+      <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><line x1="12" y1="16" x2="12" y2="12"/><line x1="12" y1="8" x2="12.01" y2="8"/></svg>
+    </button>
+
     <button
       class="sn-btn"
       :class="{ active: settingsOpen }"
@@ -56,14 +67,14 @@ function toggleSettings() { settingsOpen.value = !settingsOpen.value }
     <Transition name="slide-left">
       <div v-if="settingsOpen" class="sn-settings" @click.stop>
         <div class="ss-group">
-          <div class="ss-label">版面</div>
+          <div class="ss-label">{{ t('settings.layout') }}</div>
           <div class="ss-options">
-            <button class="ss-opt" :class="{ active: layout === 'horizontal' }" @click="setLayout('horizontal' as LayoutMode)">橫排</button>
-            <button class="ss-opt" :class="{ active: layout === 'vertical' }" @click="setLayout('vertical' as LayoutMode)">直排</button>
+            <button class="ss-opt" :class="{ active: layout === 'horizontal' }" @click="setLayout('horizontal' as LayoutMode)">{{ t('settings.horizontal') }}</button>
+            <button class="ss-opt" :class="{ active: layout === 'vertical' }" @click="setLayout('vertical' as LayoutMode)">{{ t('settings.vertical') }}</button>
           </div>
         </div>
         <div class="ss-group">
-          <div class="ss-label">主題</div>
+          <div class="ss-label">{{ t('settings.theme') }}</div>
           <div class="ss-options">
             <button
               v-for="t in THEMES"
@@ -75,7 +86,7 @@ function toggleSettings() { settingsOpen.value = !settingsOpen.value }
           </div>
         </div>
         <div class="ss-group">
-          <div class="ss-label">正文字號</div>
+          <div class="ss-label">{{ t('settings.mainFontSize') }}</div>
           <div class="ss-size-row">
             <button class="ss-size-btn" @click="setMainFontSize(FONT_SIZES[Math.max(0, FONT_SIZES.indexOf(mainFontSize) - 1)] as FontSize)">−</button>
             <span class="ss-size-val">{{ mainFontSize }}</span>
@@ -83,11 +94,23 @@ function toggleSettings() { settingsOpen.value = !settingsOpen.value }
           </div>
         </div>
         <div class="ss-group">
-          <div class="ss-label">內文字號</div>
+          <div class="ss-label">{{ t('settings.bodyFontSize') }}</div>
           <div class="ss-size-row">
             <button class="ss-size-btn" @click="setBodyFontSize(FONT_SIZES[Math.max(0, FONT_SIZES.indexOf(bodyFontSize) - 1)] as FontSize)">−</button>
             <span class="ss-size-val">{{ bodyFontSize }}</span>
             <button class="ss-size-btn" @click="setBodyFontSize(FONT_SIZES[Math.min(FONT_SIZES.length - 1, FONT_SIZES.indexOf(bodyFontSize) + 1)] as FontSize)">+</button>
+          </div>
+        </div>
+        <div class="ss-group">
+          <div class="ss-label">{{ t('settings.language') }}</div>
+          <div class="ss-options">
+            <button
+              v-for="loc in availableLocales"
+              :key="loc"
+              class="ss-opt"
+              :class="{ active: locale === loc }"
+              @click="setLocale(loc as Locale)"
+            >{{ localeLabels[loc] }}</button>
           </div>
         </div>
       </div>
@@ -120,16 +143,21 @@ function toggleSettings() { settingsOpen.value = !settingsOpen.value }
   cursor: pointer;
   transition: all 0.2s;
   margin-bottom: 4px;
+  padding: 2px;
 }
-.sn-brand:hover { background: var(--vermillion); }
-.sn-brand:hover .sn-seal { color: var(--paper); }
+.sn-brand:hover { opacity: 0.8; }
+.sn-logo {
+  height: 100%;
+  width: auto;
+  object-fit: contain;
+}
+.sn-brand:has(.sn-logo) { border: none; }
 .sn-seal {
   writing-mode: vertical-rl;
   text-orientation: upright;
   font-family: var(--serif);
   font-size: 14px; font-weight: 900;
   color: var(--vermillion);
-  transition: color 0.2s;
   display: flex;
   align-items: center;
   letter-spacing: 2px;
@@ -283,7 +311,7 @@ function toggleSettings() { settingsOpen.value = !settingsOpen.value }
 
 @media (max-width: 768px) {
   .sidenav { width: 44px; padding: 8px 0; gap: 6px; }
-  .sn-brand { width: 32px; height: 32px; }
+  .sn-brand { width: 32px; height: 38px; }
   .sn-seal { font-size: 15px; }
   .sn-btn { width: 30px; height: 30px; }
   .sn-context { font-size: 10px; max-height: 80px; }

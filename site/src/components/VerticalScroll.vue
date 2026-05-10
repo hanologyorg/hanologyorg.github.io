@@ -106,6 +106,7 @@ function onTap(event: MouseEvent) {
   letter-spacing: 0;
 }
 :deep(.ann-num-long) {
+  text-combine-upright: none;
   font-size: 0.38em;
   letter-spacing: -1px;
 }
