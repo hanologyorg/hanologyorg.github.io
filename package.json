@@ -8,7 +8,7 @@
     "dev": "vite dev node_modules/@hanology/cham-browser/template"
   },
   "dependencies": {
-    "@hanology/cham": "file:DONE.resources-pull/hanology-cham-0.1.6.tgz",
+    "@hanology/cham": "^0.1.6",
     "@hanology/cham-browser": "^0.3.7"
   }
 }
