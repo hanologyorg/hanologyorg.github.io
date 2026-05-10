@@ -2,19 +2,58 @@ import { readFileSync, writeFileSync, existsSync } from 'fs'
 import { join } from 'path'
 import { ChamJsonConverter } from '@hanology/cham'
 import type { OutputPiece, AuthorRecord } from '@hanology/cham'
+import { parse as yamlParse } from 'yaml'
 
 const contentDir = 'library/content'
-const dataDir = 'library/data'
+const authorsDir = 'library/authors'
 const outputDir = 'site/public/data'
 
-// ─── Load author registry ─────────────────────────────────────
+// ─── Load author registry from author library ─────────────────
 
 function loadAuthors(): Record<string, AuthorRecord> {
-  const yamlPath = join(dataDir, 'authors.yaml')
-  if (!existsSync(yamlPath)) return {}
+  const yaml = { parse: yamlParse }
+  const indexPath = join(authorsDir, '_index.yaml')
+  if (!existsSync(indexPath)) return {}
 
-  const yaml = require('yaml')
-  return yaml.parse(readFileSync(yamlPath, 'utf-8')) || {}
+  const index = yaml.parse(readFileSync(indexPath, 'utf-8'))
+  const seen = new Set<string>()
+  const result: Record<string, AuthorRecord> = {}
+
+  for (const [ref, dirName] of Object.entries(index.authors as Record<string, string>)) {
+    if (seen.has(dirName)) continue
+    seen.add(dirName)
+
+    const yamlPath = join(authorsDir, dirName, 'author.yaml')
+    if (!existsSync(yamlPath)) continue
+
+    const data = yaml.parse(readFileSync(yamlPath, 'utf-8'))
+
+    let bio = ''
+    if (data.bio_sources?.length > 0) {
+      const bioFile = join(authorsDir, dirName, data.bio_sources[0].file)
+      if (existsSync(bioFile)) {
+        bio = readFileSync(bioFile, 'utf-8').replace(/^---\n.*?\n---\n/s, '').trim()
+      }
+    }
+
+    result[ref] = {
+      name: data.label,
+      dynasty: data.dynasty || '',
+      bio: bio || '',
+    }
+  }
+
+  // Map alias refs to canonical record
+  for (const [ref, dirName] of Object.entries(index.authors as Record<string, string>)) {
+    if (!result[ref]) {
+      const canonical = Object.entries(index.authors as Record<string, string>).find(
+        ([r, d]) => d === dirName && result[r]
+      )
+      if (canonical) result[ref] = result[canonical[0]]
+    }
+  }
+
+  return result
 }
 
 // ─── Build supplementary outputs ──────────────────────────────
@@ -23,20 +62,28 @@ function buildAuthorsJson(
   authors: Record<string, AuthorRecord>,
   allPieces: OutputPiece[],
 ): void {
-  // Count pieces per author
+  // Count pieces per author ref
   const pieceCounts = new Map<string, number>()
   for (const p of allPieces) {
     pieceCounts.set(p.authorId, (pieceCounts.get(p.authorId) || 0) + 1)
   }
 
-  const entries = Object.entries(authors).map(([id, data]) => ({
-    '@id': `author:${encodeURIComponent(data.name)}`,
-    '@type': 'Person',
-    name: data.name,
-    dynasty: data.dynasty || '',
-    bio: data.bio || '',
-    poemCount: pieceCounts.get(id) || 0,
-  }))
+  // Deduplicate: alias refs share the same AuthorRecord, emit one entry per unique record
+  const seen = new Set<string>()
+  const entries: object[] = []
+  for (const [id, data] of Object.entries(authors)) {
+    const key = data.name
+    if (seen.has(key)) continue
+    seen.add(key)
+    entries.push({
+      '@id': `author:${encodeURIComponent(data.name)}`,
+      '@type': 'Person',
+      name: data.name,
+      dynasty: data.dynasty || '',
+      bio: data.bio || '',
+      poemCount: pieceCounts.get(id) || 0,
+    })
+  }
 
   writeFileSync(
     join(outputDir, 'authors.json'),

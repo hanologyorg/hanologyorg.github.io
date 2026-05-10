@@ -1,14 +1,17 @@
 import { readFileSync, readdirSync, existsSync, statSync } from 'fs'
 import { join } from 'path'
 import { parse } from '@hanology/cham'
+import { parse as yamlParse } from 'yaml'
 
 const CONTENT_DIR = 'library/content'
+const AUTHORS_DIR = 'library/authors'
 
 let totalFiles = 0
 let ok = 0
 let fail = 0
 const errors: string[] = []
 const warnings: string[] = []
+const allContributorRefs = new Set<string>()
 
 // ─── Scan all text.cham.md across all collections ────────────
 
@@ -37,6 +40,13 @@ for (const coll of collections.sort()) {
       const doc = parse(src)
 
       if (!doc.meta.title) errors.push(`${label}: missing title`)
+
+      // Collect contributor refs
+      if (doc.meta.type === 'primary' && doc.meta.contributors) {
+        for (const c of doc.meta.contributors) {
+          if (c.ref) allContributorRefs.add(c.ref)
+        }
+      }
 
       if (doc.meta.type === 'primary') {
         if (doc.meta.id === undefined || doc.meta.id === null) errors.push(`${label}: missing id`)
@@ -77,6 +87,58 @@ for (const coll of collections.sort()) {
 }
 
 console.log(`CHAM verification: ${ok} OK, ${fail} FAIL out of ${totalFiles} total`)
+
+// ─── Author library checks ──────────────────────────────────
+
+const indexPath = join(AUTHORS_DIR, '_index.yaml')
+if (existsSync(indexPath)) {
+  const index = yamlParse(readFileSync(indexPath, 'utf-8'))
+  const authorDirs = index.authors as Record<string, string>
+
+  // Check: every text.cham.md contributor ref exists in _index
+  for (const ref of allContributorRefs) {
+    if (!authorDirs[ref]) {
+      errors.push(`author library: ref "${ref}" used in text.cham.md but not in _index.yaml`)
+    }
+  }
+
+  // Check: every _index directory exists and has author.yaml
+  const checkedDirs = new Set<string>()
+  for (const [ref, dirName] of Object.entries(authorDirs)) {
+    if (checkedDirs.has(dirName)) continue
+    checkedDirs.add(dirName)
+
+    const dirPath = join(AUTHORS_DIR, dirName)
+    if (!existsSync(dirPath)) {
+      errors.push(`author library: directory ${dirName} (ref ${ref}) does not exist`)
+      continue
+    }
+
+    const yamlPath = join(dirPath, 'author.yaml')
+    if (!existsSync(yamlPath)) {
+      errors.push(`author library: ${dirName}/author.yaml missing`)
+      continue
+    }
+
+    try {
+      const data = yamlParse(readFileSync(yamlPath, 'utf-8'))
+      if (!data.label) errors.push(`author library: ${dirName}/author.yaml missing label`)
+      if (!data.ref) errors.push(`author library: ${dirName}/author.yaml missing ref`)
+
+      // Check bio_sources files exist
+      for (const bs of (data.bio_sources || [])) {
+        const bsPath = join(dirPath, bs.file)
+        if (!existsSync(bsPath)) {
+          errors.push(`author library: ${dirName}/${bs.file} referenced but missing`)
+        }
+      }
+    } catch (e: any) {
+      errors.push(`author library: ${dirName}/author.yaml parse error: ${e.message.substring(0, 100)}`)
+    }
+  }
+
+  console.log(`\nAuthor library: ${checkedDirs.size} directories, ${Object.keys(authorDirs).length} refs (${allContributorRefs.size} used by text.cham.md)`)
+}
 
 if (warnings.length > 0) {
   console.log(`\nWarnings (${warnings.length}):`)
