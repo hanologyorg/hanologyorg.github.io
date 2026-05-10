@@ -3,3 +3,7 @@ TODO*
 .claude
 node_modules
 dist/
+
+# Generated data (built by cham-browser pipeline)
+site/public/data/*.json
+site/public/data/books/*.json
