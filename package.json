@@ -9,6 +9,6 @@
   },
   "dependencies": {
     "@hanology/cham": "^0.1.6",
-    "@hanology/cham-browser": "^0.3.7"
+    "@hanology/cham-browser": "^0.3.8"
   }
 }
