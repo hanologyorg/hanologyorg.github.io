@@ -11,6 +11,30 @@
       "count": 17
     },
     {
+      "id": "heshanggong",
+      "title": "老子河上公章句",
+      "titleEn": "Laozi with He Shang Gong Commentary",
+      "publisher": "ctext.org (四部叢刊初編本)",
+      "genre": "prose",
+      "count": 81,
+      "layers": [
+        {
+          "id": "heshanggong",
+          "label": "河上公註",
+          "shortLabel": "河",
+          "annotator": "河上公",
+          "contributor": "C002",
+          "role": "commentator",
+          "nature": "commentary",
+          "displayOrder": 1
+        }
+      ],
+      "annotation": {
+        "defaultLabel": "原文",
+        "defaultShortLabel": "文"
+      }
+    },
+    {
       "id": "laozi",
       "title": "帛書老子 甲本",
       "titleEn": "The Book of Laozi on Silk, Version A",
@@ -261,6 +285,492 @@
       "focusedBookId": "difan",
       "focusedNum": 16,
       "fullBookId": "difan",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "heshanggong",
+      "focusedNum": 1,
+      "fullBookId": "heshanggong-laozi",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "heshanggong",
+      "focusedNum": 2,
+      "fullBookId": "heshanggong-laozi",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "heshanggong",
+      "focusedNum": 3,
+      "fullBookId": "heshanggong-laozi",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "heshanggong",
+      "focusedNum": 4,
+      "fullBookId": "heshanggong-laozi",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "heshanggong",
+      "focusedNum": 5,
+      "fullBookId": "heshanggong-laozi",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "heshanggong",
+      "focusedNum": 6,
+      "fullBookId": "heshanggong-laozi",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "heshanggong",
+      "focusedNum": 7,
+      "fullBookId": "heshanggong-laozi",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "heshanggong",
+      "focusedNum": 8,
+      "fullBookId": "heshanggong-laozi",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "heshanggong",
+      "focusedNum": 9,
+      "fullBookId": "heshanggong-laozi",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "heshanggong",
+      "focusedNum": 10,
+      "fullBookId": "heshanggong-laozi",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "heshanggong",
+      "focusedNum": 11,
+      "fullBookId": "heshanggong-laozi",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "heshanggong",
+      "focusedNum": 12,
+      "fullBookId": "heshanggong-laozi",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "heshanggong",
+      "focusedNum": 13,
+      "fullBookId": "heshanggong-laozi",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "heshanggong",
+      "focusedNum": 14,
+      "fullBookId": "heshanggong-laozi",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "heshanggong",
+      "focusedNum": 15,
+      "fullBookId": "heshanggong-laozi",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "heshanggong",
+      "focusedNum": 16,
+      "fullBookId": "heshanggong-laozi",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "heshanggong",
+      "focusedNum": 17,
+      "fullBookId": "heshanggong-laozi",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "heshanggong",
+      "focusedNum": 18,
+      "fullBookId": "heshanggong-laozi",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "heshanggong",
+      "focusedNum": 19,
+      "fullBookId": "heshanggong-laozi",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "heshanggong",
+      "focusedNum": 20,
+      "fullBookId": "heshanggong-laozi",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "heshanggong",
+      "focusedNum": 21,
+      "fullBookId": "heshanggong-laozi",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "heshanggong",
+      "focusedNum": 22,
+      "fullBookId": "heshanggong-laozi",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "heshanggong",
+      "focusedNum": 23,
+      "fullBookId": "heshanggong-laozi",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "heshanggong",
+      "focusedNum": 24,
+      "fullBookId": "heshanggong-laozi",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "heshanggong",
+      "focusedNum": 25,
+      "fullBookId": "heshanggong-laozi",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "heshanggong",
+      "focusedNum": 26,
+      "fullBookId": "heshanggong-laozi",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "heshanggong",
+      "focusedNum": 27,
+      "fullBookId": "heshanggong-laozi",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "heshanggong",
+      "focusedNum": 28,
+      "fullBookId": "heshanggong-laozi",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "heshanggong",
+      "focusedNum": 29,
+      "fullBookId": "heshanggong-laozi",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "heshanggong",
+      "focusedNum": 30,
+      "fullBookId": "heshanggong-laozi",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "heshanggong",
+      "focusedNum": 31,
+      "fullBookId": "heshanggong-laozi",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "heshanggong",
+      "focusedNum": 32,
+      "fullBookId": "heshanggong-laozi",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "heshanggong",
+      "focusedNum": 33,
+      "fullBookId": "heshanggong-laozi",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "heshanggong",
+      "focusedNum": 34,
+      "fullBookId": "heshanggong-laozi",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "heshanggong",
+      "focusedNum": 35,
+      "fullBookId": "heshanggong",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "heshanggong",
+      "focusedNum": 36,
+      "fullBookId": "heshanggong",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "heshanggong",
+      "focusedNum": 37,
+      "fullBookId": "heshanggong-laozi",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "heshanggong",
+      "focusedNum": 38,
+      "fullBookId": "heshanggong-laozi",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "heshanggong",
+      "focusedNum": 39,
+      "fullBookId": "heshanggong",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "heshanggong",
+      "focusedNum": 40,
+      "fullBookId": "heshanggong-laozi",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "heshanggong",
+      "focusedNum": 41,
+      "fullBookId": "heshanggong",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "heshanggong",
+      "focusedNum": 42,
+      "fullBookId": "heshanggong",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "heshanggong",
+      "focusedNum": 43,
+      "fullBookId": "heshanggong",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "heshanggong",
+      "focusedNum": 44,
+      "fullBookId": "heshanggong",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "heshanggong",
+      "focusedNum": 45,
+      "fullBookId": "heshanggong",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "heshanggong",
+      "focusedNum": 46,
+      "fullBookId": "heshanggong",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "heshanggong",
+      "focusedNum": 47,
+      "fullBookId": "heshanggong",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "heshanggong",
+      "focusedNum": 48,
+      "fullBookId": "heshanggong",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "heshanggong",
+      "focusedNum": 49,
+      "fullBookId": "heshanggong",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "heshanggong",
+      "focusedNum": 50,
+      "fullBookId": "heshanggong",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "heshanggong",
+      "focusedNum": 51,
+      "fullBookId": "heshanggong",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "heshanggong",
+      "focusedNum": 52,
+      "fullBookId": "heshanggong",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "heshanggong",
+      "focusedNum": 53,
+      "fullBookId": "heshanggong",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "heshanggong",
+      "focusedNum": 54,
+      "fullBookId": "heshanggong",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "heshanggong",
+      "focusedNum": 55,
+      "fullBookId": "heshanggong",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "heshanggong",
+      "focusedNum": 56,
+      "fullBookId": "heshanggong",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "heshanggong",
+      "focusedNum": 57,
+      "fullBookId": "heshanggong",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "heshanggong",
+      "focusedNum": 58,
+      "fullBookId": "heshanggong",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "heshanggong",
+      "focusedNum": 59,
+      "fullBookId": "heshanggong",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "heshanggong",
+      "focusedNum": 60,
+      "fullBookId": "heshanggong",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "heshanggong",
+      "focusedNum": 61,
+      "fullBookId": "heshanggong",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "heshanggong",
+      "focusedNum": 62,
+      "fullBookId": "heshanggong",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "heshanggong",
+      "focusedNum": 63,
+      "fullBookId": "heshanggong",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "heshanggong",
+      "focusedNum": 64,
+      "fullBookId": "heshanggong",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "heshanggong",
+      "focusedNum": 65,
+      "fullBookId": "heshanggong",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "heshanggong",
+      "focusedNum": 66,
+      "fullBookId": "heshanggong",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "heshanggong",
+      "focusedNum": 67,
+      "fullBookId": "heshanggong",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "heshanggong",
+      "focusedNum": 68,
+      "fullBookId": "heshanggong",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "heshanggong",
+      "focusedNum": 69,
+      "fullBookId": "heshanggong",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "heshanggong",
+      "focusedNum": 70,
+      "fullBookId": "heshanggong",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "heshanggong",
+      "focusedNum": 71,
+      "fullBookId": "heshanggong",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "heshanggong",
+      "focusedNum": 72,
+      "fullBookId": "heshanggong",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "heshanggong",
+      "focusedNum": 73,
+      "fullBookId": "heshanggong-laozi",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "heshanggong",
+      "focusedNum": 74,
+      "fullBookId": "heshanggong-laozi",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "heshanggong",
+      "focusedNum": 75,
+      "fullBookId": "heshanggong",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "heshanggong",
+      "focusedNum": 76,
+      "fullBookId": "heshanggong-laozi",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "heshanggong",
+      "focusedNum": 77,
+      "fullBookId": "heshanggong",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "heshanggong",
+      "focusedNum": 78,
+      "fullBookId": "heshanggong",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "heshanggong",
+      "focusedNum": 79,
+      "fullBookId": "heshanggong",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "heshanggong",
+      "focusedNum": 80,
+      "fullBookId": "heshanggong",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "heshanggong",
+      "focusedNum": 81,
+      "fullBookId": "heshanggong",
       "relation": "section"
     },
     {
