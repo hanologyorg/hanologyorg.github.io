@@ -1,6 +1,6 @@
 {
-  "name": "MyWebSite",
-  "short_name": "MySite",
+  "name": "古典詩文圖書館",
+  "short_name": "詩文",
   "icons": [
     {
       "src": "/web-app-manifest-192x192.png",
