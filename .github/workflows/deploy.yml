@@ -21,8 +21,10 @@ jobs:
       - uses: actions/checkout@v4
         with:
           submodules: recursive
-      - name: Clone cham-js (sibling dependency)
-        run: git clone --depth 1 https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/hanologyorg/cham-js.git ../cham-js
+      - name: Clone and build cham-js (sibling dependency)
+        run: |
+          git clone --depth 1 https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/hanologyorg/cham-js.git ../cham-js
+          cd ../cham-js && npm ci && npm run build
       - uses: actions/setup-node@v4
         with:
           node-version: 24
