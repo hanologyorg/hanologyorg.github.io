@@ -54,7 +54,7 @@ def get_entity_type(ref, name):
     # Works (classic texts)
     works = {'A003', 'A100', 'A146', 'A152', 'A153', 'A169'}
     # Collectives
-    collectives = {'A002', 'A007', 'A045', 'C010'}
+    collectives = {'A002', 'A007', 'A045', 'A102'}
 
     if ref in works:
         return 'schema:CreativeWork'

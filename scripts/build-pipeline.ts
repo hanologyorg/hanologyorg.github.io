@@ -1,60 +1,19 @@
-import { readFileSync, writeFileSync, existsSync } from 'fs'
-import { join } from 'path'
+import { writeFileSync, existsSync } from 'fs'
+import { join, dirname } from 'path'
+import { fileURLToPath } from 'url'
 import { ChamJsonConverter } from '@hanology/cham'
 import type { OutputPiece, AuthorRecord } from '@hanology/cham'
-import { parse as yamlParse } from 'yaml'
+import { loadLibrary, buildRegistries } from '../src/library/index.js'
 
-const contentDir = 'library/content'
-const authorsDir = 'library/authors'
-const outputDir = 'site/public/data'
+const __dirname = dirname(fileURLToPath(import.meta.url))
+const contentDir = join(__dirname, '..', 'library', 'content')
+const outputDir = join(__dirname, '..', 'site', 'public', 'data')
+const libraryDir = join(__dirname, '..', 'library')
 
-// ─── Load author registry from author library ─────────────────
+// ─── Load author registry via library module ──────────────────
 
-function loadAuthors(): Record<string, AuthorRecord> {
-  const yaml = { parse: yamlParse }
-  const indexPath = join(authorsDir, '_index.yaml')
-  if (!existsSync(indexPath)) return {}
-
-  const index = yaml.parse(readFileSync(indexPath, 'utf-8'))
-  const seen = new Set<string>()
-  const result: Record<string, AuthorRecord> = {}
-
-  for (const [ref, dirName] of Object.entries(index.authors as Record<string, string>)) {
-    if (seen.has(dirName)) continue
-    seen.add(dirName)
-
-    const yamlPath = join(authorsDir, dirName, 'author.yaml')
-    if (!existsSync(yamlPath)) continue
-
-    const data = yaml.parse(readFileSync(yamlPath, 'utf-8'))
-
-    let bio = ''
-    if (data.bio_sources?.length > 0) {
-      const bioFile = join(authorsDir, dirName, data.bio_sources[0].file)
-      if (existsSync(bioFile)) {
-        bio = readFileSync(bioFile, 'utf-8').replace(/^---\n.*?\n---\n/s, '').trim()
-      }
-    }
-
-    result[ref] = {
-      name: data.label,
-      dynasty: data.dynasty || '',
-      bio: bio || '',
-    }
-  }
-
-  // Map alias refs to canonical record
-  for (const [ref, dirName] of Object.entries(index.authors as Record<string, string>)) {
-    if (!result[ref]) {
-      const canonical = Object.entries(index.authors as Record<string, string>).find(
-        ([r, d]) => d === dirName && result[r]
-      )
-      if (canonical) result[ref] = result[canonical[0]]
-    }
-  }
-
-  return result
-}
+const libraryData = loadLibrary(libraryDir)
+const registries = buildRegistries(libraryData)
 
 // ─── Build supplementary outputs ──────────────────────────────
 
@@ -62,27 +21,34 @@ function buildAuthorsJson(
   authors: Record<string, AuthorRecord>,
   allPieces: OutputPiece[],
 ): void {
-  // Count pieces per author ref
   const pieceCounts = new Map<string, number>()
   for (const p of allPieces) {
     pieceCounts.set(p.authorId, (pieceCounts.get(p.authorId) || 0) + 1)
   }
 
-  // Deduplicate: alias refs share the same AuthorRecord, emit one entry per unique record
   const seen = new Set<string>()
   const entries: object[] = []
   for (const [id, data] of Object.entries(authors)) {
     const key = data.name
     if (seen.has(key)) continue
     seen.add(key)
-    entries.push({
+    const entry: Record<string, unknown> = {
       '@id': `author:${encodeURIComponent(data.name)}`,
       '@type': 'Person',
       name: data.name,
       dynasty: data.dynasty || '',
       bio: data.bio || '',
       poemCount: pieceCounts.get(id) || 0,
-    })
+    }
+    if (data.born) entry.born = data.born
+    if (data.died) entry.died = data.died
+    if (data.courtesyName) entry.courtesyName = data.courtesyName
+    if (data.artName) entry.artName = data.artName
+    if (data.wikidata) entry.wikidata = data.wikidata
+    if (data.ctextId) entry.ctextId = data.ctextId
+    if (data.wikipediaZh) entry.wikipediaZh = data.wikipediaZh
+    if (data.wikipediaEn) entry.wikipediaEn = data.wikipediaEn
+    entries.push(entry)
   }
 
   writeFileSync(
@@ -124,7 +90,7 @@ function buildDynastiesJson(allPieces: OutputPiece[]): void {
 
 // ─── Main ─────────────────────────────────────────────────────
 
-const authors = loadAuthors()
+const authors = registries.authors
 const converter = new ChamJsonConverter()
 
 const { library, allPieces } = converter.convertLibrary({
