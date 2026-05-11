@@ -5,8 +5,9 @@ name: 漢流
 nameEn: Hanology
 subtitle: 古典詩文圖書館
 subtitleEn: Classical Chinese Text Library
-logo: site/src/assets/hanology-logo_logo-red.svg
-logoDark: site/src/assets/hanology-logo_logo-white.svg
+logo: public/hanology-logo_logo-white.svg
+logoDark: public/hanology-logo_logo-red.svg
+aboutFile: about.md
 
 # Content paths (relative to this file)
 libraryDir: library/content
@@ -14,4 +15,5 @@ authorsFile: library/data/authors.yaml
 
 # Build options
 outputDir: dist
+publicDir: site/public
 pretty: true
