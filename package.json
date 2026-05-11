@@ -9,8 +9,8 @@
     "preview": "npx serve dist"
   },
   "dependencies": {
-    "@hanology/cham": "file:../cham-js/packages/cham",
-    "@hanology/cham-browser": "file:../cham-js/packages/cham-browser",
+    "@hanology/cham": "^0.1.10",
+    "@hanology/cham-browser": "^0.4.3",
     "yaml": "^2.8.4"
   }
 }
