@@ -3,6 +3,8 @@ TODO*
 .claude
 node_modules
 dist/
+DONE.*/
+site/tmp/
 
 # Generated data (built by cham-browser pipeline)
 site/public/data/*.json
