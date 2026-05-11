@@ -4,14 +4,13 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "build": "cham-browser --config config.yaml",
-    "dev": "vite dev node_modules/@hanology/cham-browser/template"
+    "build": "cham-browser build --config config.yaml",
+    "dev": "cham-browser dev --config config.yaml",
+    "preview": "npx serve dist"
   },
   "dependencies": {
-    "@hanology/cham": "^0.1.6",
-    "@hanology/cham-browser": "^0.3.9"
-  },
-  "overrides": {
-    "@hanology/cham": "$@hanology/cham"
+    "@hanology/cham": "file:../cham-js/packages/cham",
+    "@hanology/cham-browser": "file:../cham-js/packages/cham-browser",
+    "yaml": "^2.8.4"
   }
 }
