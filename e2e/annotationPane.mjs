@@ -55,24 +55,54 @@ async function tapElement(page, selector) {
 }
 
 async function swipeLeft(page, selector, distance = 300) {
-  await page.evaluate(({ sel, dist }) => {
+  // Use page.evaluate to find element position, then CDP for touch
+  const box = await page.evaluate(sel => {
     const el = document.querySelector(sel)
-    if (!el) throw new Error(`Element not found: ${sel}`)
-    const rect = el.getBoundingClientRect()
-    const cx = rect.x + rect.width / 2
-    const cy = rect.y + rect.height / 2
-    const touch = (x, y) => new Touch({ identifier: 1, target: el, clientX: x, clientY: y })
-    el.dispatchEvent(new TouchEvent('touchstart', { touches: [touch(cx, cy)], bubbles: true, cancelable: true }))
-    const steps = 10
+    if (!el) return null
+    const r = el.getBoundingClientRect()
+    return { x: r.x + r.width / 2, y: r.y + r.height / 2 }
+  }, selector)
+  if (!box) throw new Error(`Element not found: ${selector}`)
+  const client = await page.createCDPSession()
+  const startX = box.x, startY = box.y
+  const steps = 10
+  try {
+    await client.send('Input.dispatchTouchEvent', {
+      type: 'touchStart',
+      touchPoints: [{ x: startX, y: startY }],
+    })
     for (let i = 1; i <= steps; i++) {
-      el.dispatchEvent(new TouchEvent('touchmove', {
-        touches: [touch(cx - i * (dist / steps), cy)], bubbles: true, cancelable: true,
-      }))
+      await client.send('Input.dispatchTouchEvent', {
+        type: 'touchMove',
+        touchPoints: [{ x: startX - i * (distance / steps), y: startY }],
+      })
     }
-    el.dispatchEvent(new TouchEvent('touchend', {
-      touches: [], changedTouches: [touch(cx - dist, cy)], bubbles: true, cancelable: true,
-    }))
-  }, { sel: selector, dist: distance })
+    await client.send('Input.dispatchTouchEvent', {
+      type: 'touchEnd',
+      touchPoints: [],
+    })
+  } catch (e) {
+    // CDP touch events may timeout; fall back to synthetic events
+    await page.evaluate(({ sel, dist }) => {
+      const el = document.querySelector(sel)
+      if (!el) return
+      const rect = el.getBoundingClientRect()
+      const cx = rect.x + rect.width / 2
+      const cy = rect.y + rect.height / 2
+      const touch = (x, y) => new Touch({ identifier: 1, target: el, clientX: x, clientY: y })
+      el.dispatchEvent(new TouchEvent('touchstart', { touches: [touch(cx, cy)], bubbles: true, cancelable: true }))
+      const steps = 10
+      for (let i = 1; i <= steps; i++) {
+        el.dispatchEvent(new TouchEvent('touchmove', {
+          touches: [touch(cx - i * (dist / steps), cy)], bubbles: true, cancelable: true,
+        }))
+      }
+      el.dispatchEvent(new TouchEvent('touchend', {
+        touches: [], changedTouches: [touch(cx - dist, cy)], bubbles: true, cancelable: true,
+      }))
+    }, { sel: selector, dist: distance })
+  }
+  await client.detach()
   await new Promise(r => setTimeout(r, 600))
 }
 
