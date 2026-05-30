@@ -1,0 +1,511 @@
+{
+  "bookId": "heshanggong-laozi",
+  "num": 14,
+  "title": "第十四章（贊玄）",
+  "author": "老子",
+  "authorId": "Laozi",
+  "dynasty": "周",
+  "era": "周",
+  "genre": "prose",
+  "verses": [
+    {
+      "text": "視之不見名曰夷，"
+    },
+    {
+      "text": "聽之不見名曰希，"
+    },
+    {
+      "text": "搏之不得名曰微。"
+    },
+    {
+      "text": "此三者不可致詰，"
+    },
+    {
+      "text": "故混而為一。"
+    },
+    {
+      "text": "其上不皦，"
+    },
+    {
+      "text": "其下不昧。"
+    },
+    {
+      "text": "繩繩不可名，"
+    },
+    {
+      "text": "復歸於無物。"
+    },
+    {
+      "text": "是謂無狀之狀，"
+    },
+    {
+      "text": "無物之象，"
+    },
+    {
+      "text": "是謂惚恍。"
+    },
+    {
+      "text": "迎之不見其首，"
+    },
+    {
+      "text": "隨之不見其後，"
+    },
+    {
+      "text": "執古之道，以御今之有，"
+    },
+    {
+      "text": "能知古始，是謂道紀。"
+    }
+  ],
+  "sections": {},
+  "annotations": [],
+  "layers": {
+    "heshanggong": [
+      {
+        "id": "heshanggong-1",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 8
+        },
+        "kind": "commentary",
+        "text": "無色曰夷。 言一無采色，不可得視而見之。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-2",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 0,
+          "end": 8
+        },
+        "kind": "commentary",
+        "text": "無聲曰希。 言一無音聲，不可得聽而聞之。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-3",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 2,
+          "start": 0,
+          "end": 8
+        },
+        "kind": "commentary",
+        "text": "無形曰微。 言一無形體，不可摶持而得之。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-4",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 3,
+          "start": 0,
+          "end": 8
+        },
+        "kind": "commentary",
+        "text": "三者，謂夷、希、微也。 不可致詰者，夫無色、無聲、無形，口不能言，書不能傳，當受之以靜，求之以神，不可問詰而得之也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-5",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 4,
+          "start": 0,
+          "end": 6
+        },
+        "kind": "commentary",
+        "text": "混，合也。 故合於三名之為一。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-6",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 5,
+          "start": 0,
+          "end": 5
+        },
+        "kind": "commentary",
+        "text": "言一在天上，不皦。 皦，光明。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-7",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 6,
+          "start": 0,
+          "end": 5
+        },
+        "kind": "commentary",
+        "text": "言一在天下，不昧。 昧，有所闇冥。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-8",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 7,
+          "start": 0,
+          "end": 6
+        },
+        "kind": "commentary",
+        "text": "繩繩者，動行無窮級也。 不可名者，非一色也，不可以青黃白黑別，非一聲也，不可以宮商角徵羽聽，非一形也，不可以長短大小度之也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-9",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 8,
+          "start": 0,
+          "end": 6
+        },
+        "kind": "commentary",
+        "text": "物，質也。 復當歸之於無質。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-10",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 9,
+          "start": 0,
+          "end": 7
+        },
+        "kind": "commentary",
+        "text": "言一無形狀，而能為萬物作形狀也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-11",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 10,
+          "start": 0,
+          "end": 5
+        },
+        "kind": "commentary",
+        "text": "一無物質，而為萬物設形象也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-12",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 11,
+          "start": 0,
+          "end": 5
+        },
+        "kind": "commentary",
+        "text": "一忽忽恍恍者，若存若亡，不可見之也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-13",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 12,
+          "start": 0,
+          "end": 7
+        },
+        "kind": "commentary",
+        "text": "一無端末，不可預待也。除情去欲，一自歸之也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-14",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 13,
+          "start": 0,
+          "end": 7
+        },
+        "kind": "commentary",
+        "text": "言一無影跡，不可得而看。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-15",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 14,
+          "start": 0,
+          "end": 11
+        },
+        "kind": "commentary",
+        "text": "聖人執守古道，生一以御物，知今當有一也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-16",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 15,
+          "start": 0,
+          "end": 10
+        },
+        "kind": "commentary",
+        "text": "人能知上古本始有一，是謂知道綱紀也。",
+        "source": "cham"
+      }
+    ]
+  },
+  "annotationLayers": [
+    {
+      "id": "default",
+      "label": "原文",
+      "shortLabel": "文",
+      "contributor": "Laozi",
+      "role": "author",
+      "nature": "annotation",
+      "displayOrder": 0,
+      "enabled": true,
+      "annotations": []
+    },
+    {
+      "id": "heshanggong",
+      "label": "河上公註",
+      "shortLabel": "河",
+      "contributor": "C002",
+      "role": "commentator",
+      "nature": "commentary",
+      "displayOrder": 1,
+      "enabled": true,
+      "annotations": [
+        {
+          "id": "heshanggong-1",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 8
+          },
+          "kind": "commentary",
+          "text": "無色曰夷。 言一無采色，不可得視而見之。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-2",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 1,
+            "start": 0,
+            "end": 8
+          },
+          "kind": "commentary",
+          "text": "無聲曰希。 言一無音聲，不可得聽而聞之。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-3",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 2,
+            "start": 0,
+            "end": 8
+          },
+          "kind": "commentary",
+          "text": "無形曰微。 言一無形體，不可摶持而得之。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-4",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 3,
+            "start": 0,
+            "end": 8
+          },
+          "kind": "commentary",
+          "text": "三者，謂夷、希、微也。 不可致詰者，夫無色、無聲、無形，口不能言，書不能傳，當受之以靜，求之以神，不可問詰而得之也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-5",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 4,
+            "start": 0,
+            "end": 6
+          },
+          "kind": "commentary",
+          "text": "混，合也。 故合於三名之為一。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-6",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 5,
+            "start": 0,
+            "end": 5
+          },
+          "kind": "commentary",
+          "text": "言一在天上，不皦。 皦，光明。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-7",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 6,
+            "start": 0,
+            "end": 5
+          },
+          "kind": "commentary",
+          "text": "言一在天下，不昧。 昧，有所闇冥。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-8",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 7,
+            "start": 0,
+            "end": 6
+          },
+          "kind": "commentary",
+          "text": "繩繩者，動行無窮級也。 不可名者，非一色也，不可以青黃白黑別，非一聲也，不可以宮商角徵羽聽，非一形也，不可以長短大小度之也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-9",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 8,
+            "start": 0,
+            "end": 6
+          },
+          "kind": "commentary",
+          "text": "物，質也。 復當歸之於無質。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-10",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 9,
+            "start": 0,
+            "end": 7
+          },
+          "kind": "commentary",
+          "text": "言一無形狀，而能為萬物作形狀也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-11",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 10,
+            "start": 0,
+            "end": 5
+          },
+          "kind": "commentary",
+          "text": "一無物質，而為萬物設形象也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-12",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 11,
+            "start": 0,
+            "end": 5
+          },
+          "kind": "commentary",
+          "text": "一忽忽恍恍者，若存若亡，不可見之也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-13",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 12,
+            "start": 0,
+            "end": 7
+          },
+          "kind": "commentary",
+          "text": "一無端末，不可預待也。除情去欲，一自歸之也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-14",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 13,
+            "start": 0,
+            "end": 7
+          },
+          "kind": "commentary",
+          "text": "言一無影跡，不可得而看。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-15",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 14,
+            "start": 0,
+            "end": 11
+          },
+          "kind": "commentary",
+          "text": "聖人執守古道，生一以御物，知今當有一也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-16",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 15,
+            "start": 0,
+            "end": 10
+          },
+          "kind": "commentary",
+          "text": "人能知上古本始有一，是謂知道綱紀也。",
+          "source": "cham"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "textRef": "heshanggong-laozi",
+    "relation": "section"
+  }
+}

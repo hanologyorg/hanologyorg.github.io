@@ -1,0 +1,90 @@
+{
+  "bookId": "difan",
+  "num": 13,
+  "title": "篇第十一·閱武",
+  "author": "李世民",
+  "authorId": "C003",
+  "dynasty": "唐",
+  "era": "唐",
+  "eraCode": "24",
+  "genre": "prose",
+  "verses": [
+    {
+      "text": "夫兵甲者，國之兇器也。土地雖廣，好戰則人雕；邦國雖安，亟戰則人殆。雕非保全之術，殆非擬寇之方。不可以全除，不可以常用，故農隙講武，習威儀也。是以勾踐軾蛙，卒成霸業；徐偃棄武，遂以喪邦。何則？越習其威，徐忘其備。孔子曰：不教人戰，是謂棄之。故知弧矢之威，以利天下。此用兵之機也。"
+    }
+  ],
+  "sections": {
+    "annotations": "1.勾踐：越王勾踐（？—前465），臥薪嘗膽，滅吳稱霸。傳說他見怒蛙而憑軾致敬，以示尊重勇武。\n2.徐偃：徐偃王，傳說中徐國國君，行仁義而不修武備，為楚所滅。\n3.越：越國，春秋時諸侯國，在今浙江一帶。\n4.徐：徐國，周代諸侯國，在今江蘇一帶。\n5.孔子：孔子（前551—前479），名丘，字仲尼。引文見《論語·子路》。"
+  },
+  "annotations": [
+    {
+      "id": "13-1",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 72,
+        "end": 74
+      },
+      "kind": "person",
+      "text": "越王勾踐（？—前465），臥薪嘗膽，滅吳稱霸。傳說他見怒蛙而憑軾致敬，以示尊重勇武。",
+      "source": "cham"
+    },
+    {
+      "id": "13-2",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 82,
+        "end": 84
+      },
+      "kind": "person",
+      "text": "徐偃王，傳說中徐國國君，行仁義而不修武備，為楚所滅。",
+      "source": "cham"
+    },
+    {
+      "id": "13-3",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 95,
+        "end": 96
+      },
+      "kind": "place",
+      "text": "越國，春秋時諸侯國，在今浙江一帶。",
+      "source": "cham"
+    },
+    {
+      "id": "13-4",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 100,
+        "end": 101
+      },
+      "kind": "place",
+      "text": "徐國，周代諸侯國，在今江蘇一帶。",
+      "source": "cham"
+    },
+    {
+      "id": "13-5",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 105,
+        "end": 107
+      },
+      "kind": "allusion",
+      "text": "孔子（前551—前479），名丘，字仲尼。引文見《論語·子路》。",
+      "source": "cham"
+    }
+  ],
+  "source": {
+    "textRef": "difan",
+    "relation": "section"
+  }
+}

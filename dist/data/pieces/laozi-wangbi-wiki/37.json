@@ -1,0 +1,166 @@
+{
+  "bookId": "laozi-wangbi-wiki",
+  "num": 37,
+  "title": "第三十七章",
+  "author": "老子",
+  "authorId": "Laozi",
+  "dynasty": "周",
+  "era": "周",
+  "genre": "prose",
+  "verses": [
+    {
+      "text": "道常無為"
+    },
+    {
+      "text": "而無不為。"
+    },
+    {
+      "text": "侯王若能守之，萬物將自化。化而欲作，吾將鎮之以無名之樸。"
+    },
+    {
+      "text": "無名之樸，夫亦將無欲。"
+    },
+    {
+      "text": "不欲以靜，天下將自定。"
+    }
+  ],
+  "sections": {},
+  "annotations": [],
+  "layers": {
+    "wangbi": [
+      {
+        "id": "wangbi-1",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 4
+        },
+        "kind": "commentary",
+        "text": "順自然也。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-2",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 0,
+          "end": 5
+        },
+        "kind": "commentary",
+        "text": "萬物無不由為以治以成之也。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-3",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 2,
+          "start": 0,
+          "end": 28
+        },
+        "kind": "commentary",
+        "text": "化而欲作，作欲成也。吾將鎮之無名之樸，不為主也。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-4",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 3,
+          "start": 0,
+          "end": 11
+        },
+        "kind": "commentary",
+        "text": "無欲競也。",
+        "source": "cham"
+      }
+    ]
+  },
+  "annotationLayers": [
+    {
+      "id": "default",
+      "label": "原文",
+      "shortLabel": "文",
+      "contributor": "Laozi",
+      "role": "author",
+      "nature": "annotation",
+      "displayOrder": 0,
+      "enabled": true,
+      "annotations": []
+    },
+    {
+      "id": "wangbi",
+      "label": "王弼註",
+      "shortLabel": "王",
+      "contributor": "C001",
+      "role": "commentator",
+      "nature": "commentary",
+      "displayOrder": 1,
+      "enabled": true,
+      "annotations": [
+        {
+          "id": "wangbi-1",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 4
+          },
+          "kind": "commentary",
+          "text": "順自然也。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-2",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 1,
+            "start": 0,
+            "end": 5
+          },
+          "kind": "commentary",
+          "text": "萬物無不由為以治以成之也。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-3",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 2,
+            "start": 0,
+            "end": 28
+          },
+          "kind": "commentary",
+          "text": "化而欲作，作欲成也。吾將鎮之無名之樸，不為主也。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-4",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 3,
+            "start": 0,
+            "end": 11
+          },
+          "kind": "commentary",
+          "text": "無欲競也。",
+          "source": "cham"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "textRef": "laozi-wangbi-wiki",
+    "relation": "section"
+  }
+}

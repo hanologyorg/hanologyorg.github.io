@@ -1,0 +1,285 @@
+{
+  "bookId": "skqs-yantielun",
+  "num": 50,
+  "title": "後刑第三十四",
+  "author": "桓寬",
+  "authorId": "桓寬",
+  "dynasty": "漢",
+  "era": "漢",
+  "eraCode": "07",
+  "genre": "prose",
+  "verses": [
+    {
+      "text": "大夫曰古之君子善善而惡惡人君不畜惡民農夫不畜無用之苖無用之苖苖之害也無用之民民之賊也鉏一害而衆苖成刑一惡而萬民説雖周公孔子不能釋刑而用惡家之有鉏子器皿不居况鉏民乎民者教於愛而聼刑故刑所以正民鉏所以别苖也"
+    },
+    {
+      "text": "賢良曰古者篤教以導民明辟以正刑刑之於治猶策之於御也良工不能無策而御有策而勿用聖人假法以成教教成而刑不施故威厲而不殺刑設而不犯今廢其紀綱而不能張壊其禮義而不能坊民陷於罔從而獵之以刑是猶開其闌牢發以毒矢也不盡不止曾子曰上失其道民散久矣如得其情則哀矜而勿喜夫不傷民之不治而伐已之能得姦猶弋者覩鳥獸挂罻羅而喜也今天下之被誅者不必有管蔡之邪鄧晳之偽恐苖盡而不别民欺而不治也孔子曰人而不仁疾之已甚亂也故民亂反之政政亂反之身身正而天下定是以君子嘉善而矜不能恩及刑人徳潤窮夫施惠説爾行刑不樂也"
+    }
+  ],
+  "sections": {},
+  "annotations": [],
+  "layers": {
+    "commentary": [
+      {
+        "id": "commentary-1",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 14
+        },
+        "kind": "semantic",
+        "text": "音汙",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-2",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 14,
+          "end": 29
+        },
+        "kind": "semantic",
+        "text": "叢談曰父不能愛無益之子君不能愛不軌之民曹植曰唐堯至仁不能容無益之子湯武至聖不能養無益之臣",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-3",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 29,
+          "end": 46
+        },
+        "kind": "semantic",
+        "text": "音鋤",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-4",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 46,
+          "end": 59
+        },
+        "kind": "semantic",
+        "text": "音悦王符曰養稂莠者傷禾稼惠姦軌者賊良民管子曰先王者為民興利除害故天下之民歸之所謂興利者利農事者也所謂除害者禁害農者也兵略訓曰治國者若耨田去害苖者而已今沐者堕髪而猶為之不已以其所去者少所利者多也",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-5",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 59,
+          "end": 75
+        },
+        "kind": "semantic",
+        "text": "音鋤",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-6",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 75,
+          "end": 82
+        },
+        "kind": "semantic",
+        "text": "音鋤",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-7",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 82,
+          "end": 84
+        },
+        "kind": "semantic",
+        "text": "指武篇曰昔堯誅四㓙以懲惡周公殺管蔡以弭亂子産殺鄧晳以威侈孔子斬少正卯以變衆佞賊之人而不誅亂之道也易曰不威小不懲大此小人之福也",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-8",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 84,
+          "end": 99
+        },
+        "kind": "semantic",
+        "text": "音鋤",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-9",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 99,
+          "end": 101
+        },
+        "kind": "semantic",
+        "text": "韓非子曰夫惜草茅者害禾穗惠盗賊者傷良民今緩刑罰行寛惠是利姦邪而害善人也此非所以為治也",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-10",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 0,
+          "end": 65
+        },
+        "kind": "semantic",
+        "text": "白虎通曰刑罰者五帝之鞭䇿也覽㝠訓曰鉗且大丙不施轡銜而以善御聞於天下伏戯女媧不設法度而以至徳遺於後世仲尼曰至刑無所用政至政無所用刑",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-11",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 65,
+          "end": 82
+        },
+        "kind": "semantic",
+        "text": "古防字",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-12",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 82,
+          "end": 107
+        },
+        "kind": "semantic",
+        "text": "詩傳曰孔子曰詩曰俾民不迷昔之君子道其百姓不使迷是以威厲而刑措不用也故形其仁義謹其教道使民目晰焉而見之使民耳晰焉而聞之使民心晰焉而知之則道不迷而民志不惑矣詩曰示我顯徳行故道義不易民不由也禮樂不明民不見也詩曰周道如砥其直如矢言其易也君子所履小人所視言其明也睠言顧之澘焉出涕哀其不聞禮教而就刑誅也夫散其本教而待之刑辟猶决其牢而發以毒矢也亦不哀乎故曰未可殺也昔者先王使民以禮譬之如御也刑者鞭䇿也今猶無轡銜而鞭䇿以御也欲馬之進則䇿其後欲馬之退則䇿其前御者以勞而馬亦多傷矣今猶此也上憂勞而民多罹刑詩曰人而無禮胡不遄死為上無禮則不免乎患為下無禮則不免乎刑上下無禮胡不遄死",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-13",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 107,
+          "end": 129
+        },
+        "kind": "semantic",
+        "text": "音扶",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-14",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 129,
+          "end": 149
+        },
+        "kind": "semantic",
+        "text": "音卦",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-15",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 149,
+          "end": 150
+        },
+        "kind": "semantic",
+        "text": "音尉",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-16",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 150,
+          "end": 154
+        },
+        "kind": "semantic",
+        "text": "孔融曰古者敦厖善否不别吏端刑清政無過失百姓有罪皆自取之末世凌遲風化壊亂政撓其俗法害其人故曰上失其道民散久矣而欲繩之以古刑投之以殘棄非所謂與時消息者也",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-17",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 154,
+          "end": 214
+        },
+        "kind": "semantic",
+        "text": "道應訓曰楚莊王問詹何曰治國奈何對曰何明於治身而不明於治國楚王曰寡人得立宗廟社稷願學所以守之詹何對曰臣未嘗聞身治而國亂者也未嘗聞身亂而國治者也故本任於身不敢對以末楚王曰善故老子曰修之身其徳乃真也",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-18",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 214,
+          "end": 235
+        },
+        "kind": "semantic",
+        "text": "音悦",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-19",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 235,
+          "end": 238
+        },
+        "kind": "semantic",
+        "text": "音洛",
+        "source": "cham"
+      }
+    ]
+  },
+  "annotationLayers": [
+    {
+      "id": "default",
+      "label": "原文",
+      "shortLabel": "文",
+      "contributor": "桓寬",
+      "role": "author",
+      "nature": "annotation",
+      "displayOrder": 0,
+      "enabled": true,
+      "annotations": []
+    }
+  ]
+}

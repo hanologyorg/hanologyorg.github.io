@@ -1,0 +1,174 @@
+{
+  "bookId": "laozi",
+  "num": 12,
+  "title": "第十二章",
+  "author": "老子",
+  "authorId": "Laozi",
+  "dynasty": "周",
+  "era": "周",
+  "genre": "prose",
+  "verses": [
+    {
+      "text": "五色令人目盲，五音令人耳聾，五味令人口爽，"
+    },
+    {
+      "text": "馳騁畋獵令人心發狂，難得之貨令人行妨。"
+    },
+    {
+      "text": "是以聖人為腹不為目，故去彼取此。"
+    }
+  ],
+  "sections": {},
+  "annotations": [],
+  "layers": {
+    "hesonggong": [
+      {
+        "id": "hesonggong-1",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 21
+        },
+        "kind": "semantic",
+        "text": "五色亂目，五音亂耳，五味亂口，馳騁畋獵發狂心，難得之貨妨人道行。",
+        "source": "cham"
+      },
+      {
+        "id": "hesonggong-2",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 2,
+          "start": 0,
+          "end": 16
+        },
+        "kind": "semantic",
+        "text": "聖人為腹實不為目視，故去彼五者，取此道德。",
+        "source": "cham"
+      }
+    ],
+    "wangbi": [
+      {
+        "id": "wangbi-1",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 21
+        },
+        "kind": "semantic",
+        "text": "五色、五音、五味、馳騁畋獵、難得之貨皆能使人迷惑失性。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-2",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 2,
+          "start": 0,
+          "end": 16
+        },
+        "kind": "semantic",
+        "text": "聖人為腹不為目，去彼欲望，取此道德。",
+        "source": "cham"
+      }
+    ]
+  },
+  "annotationLayers": [
+    {
+      "id": "default",
+      "label": "原文",
+      "shortLabel": "文",
+      "contributor": "Laozi",
+      "role": "author",
+      "nature": "annotation",
+      "displayOrder": 0,
+      "enabled": true,
+      "annotations": []
+    },
+    {
+      "id": "wangbi",
+      "label": "王弼註",
+      "shortLabel": "王",
+      "contributor": "C001",
+      "role": "commentator",
+      "nature": "commentary",
+      "displayOrder": 1,
+      "enabled": true,
+      "annotations": [
+        {
+          "id": "wangbi-1",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 21
+          },
+          "kind": "semantic",
+          "text": "五色、五音、五味、馳騁畋獵、難得之貨皆能使人迷惑失性。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-2",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 2,
+            "start": 0,
+            "end": 16
+          },
+          "kind": "semantic",
+          "text": "聖人為腹不為目，去彼欲望，取此道德。",
+          "source": "cham"
+        }
+      ]
+    },
+    {
+      "id": "hesonggong",
+      "label": "河上公註",
+      "shortLabel": "河",
+      "contributor": "C002",
+      "role": "commentator",
+      "nature": "commentary",
+      "displayOrder": 2,
+      "enabled": true,
+      "annotations": [
+        {
+          "id": "hesonggong-1",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 21
+          },
+          "kind": "semantic",
+          "text": "五色亂目，五音亂耳，五味亂口，馳騁畋獵發狂心，難得之貨妨人道行。",
+          "source": "cham"
+        },
+        {
+          "id": "hesonggong-2",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 2,
+            "start": 0,
+            "end": 16
+          },
+          "kind": "semantic",
+          "text": "聖人為腹實不為目視，故去彼五者，取此道德。",
+          "source": "cham"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "textRef": "laozi",
+    "relation": "section"
+  }
+}

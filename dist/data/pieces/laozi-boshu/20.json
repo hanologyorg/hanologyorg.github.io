@@ -1,0 +1,1177 @@
+{
+  "bookId": "laozi-boshu",
+  "num": 20,
+  "title": "第二十章（食母）",
+  "author": "老子",
+  "authorId": "Laozi",
+  "dynasty": "周",
+  "era": "周",
+  "genre": "prose",
+  "verses": [
+    {
+      "text": "唯與訶 亓相去幾何 美與惡 亓相去何若"
+    },
+    {
+      "text": "人之所畏 亦不可以不畏人"
+    },
+    {
+      "text": "朢呵 亓未央哉"
+    },
+    {
+      "text": "眾人巸巸 若鄉於大牢 而春登臺"
+    },
+    {
+      "text": "我泊焉未兆 若嬰兒未咳 纍呵 似无所歸"
+    },
+    {
+      "text": "眾人皆有餘 我獨遺 我愚人之心也 湷湷呵 鬻人昭昭 我獨呵 鬻人蔡蔡 我獨悶悶呵"
+    },
+    {
+      "text": "忽呵 亓若海 朢呵 亓若无所止"
+    },
+    {
+      "text": "眾人皆有以 我獨頑以悝 吾欲獨異於人 而貴食母"
+    }
+  ],
+  "sections": {},
+  "annotations": [],
+  "layers": {
+    "heshanggong": [
+      {
+        "id": "heshanggong-1",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 19
+        },
+        "kind": "commentary",
+        "text": "絕學不真，不合道文。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-2",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 19
+        },
+        "kind": "commentary",
+        "text": "除浮華則無憂患也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-3",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 19
+        },
+        "kind": "commentary",
+        "text": "同為應對而相去幾何。疾時賤質而貴文。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-4",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 19
+        },
+        "kind": "commentary",
+        "text": "善者稱譽，惡者諫諍，能相去何如。疾時惡忠直，用邪佞也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-5",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 19
+        },
+        "kind": "commentary",
+        "text": "人謂道人也。人所畏者，畏不絕學之君也。不可不畏，近令色，殺仁賢。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-6",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 19
+        },
+        "kind": "commentary",
+        "text": "或言世俗人荒亂，欲進學為文，未央止也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-7",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 19
+        },
+        "kind": "commentary",
+        "text": "熙熙，放淫多情欲也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-8",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 19
+        },
+        "kind": "commentary",
+        "text": "如飢思太牢之具，意無足時也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-9",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 19
+        },
+        "kind": "commentary",
+        "text": "春，陰陽交通，萬物感動，登台觀之，意志淫淫然。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-10",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 19
+        },
+        "kind": "commentary",
+        "text": "我獨怕然安靜，未有情慾之形兆也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-11",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 19
+        },
+        "kind": "commentary",
+        "text": "如小兒未能答偶人時也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-12",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 19
+        },
+        "kind": "commentary",
+        "text": "我乘乘如窮鄙，無所歸就。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-13",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 5,
+          "start": 0,
+          "end": 1
+        },
+        "kind": "commentary",
+        "text": "眾人餘財以為奢，餘智以為詐。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-14",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 5,
+          "start": 0,
+          "end": 40
+        },
+        "kind": "commentary",
+        "text": "我獨如遺棄，似於不足也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-15",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 5,
+          "start": 10,
+          "end": 11
+        },
+        "kind": "commentary",
+        "text": "不與俗人相隨，守一不移，如愚人之心也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-16",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 5,
+          "start": 0,
+          "end": 40
+        },
+        "kind": "commentary",
+        "text": "無所分別。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-17",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 5,
+          "start": 0,
+          "end": 40
+        },
+        "kind": "commentary",
+        "text": "明且達也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-18",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 5,
+          "start": 0,
+          "end": 40
+        },
+        "kind": "commentary",
+        "text": "如闇昧也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-19",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 5,
+          "start": 0,
+          "end": 40
+        },
+        "kind": "commentary",
+        "text": "察察，急且疾也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-20",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 5,
+          "start": 35,
+          "end": 36
+        },
+        "kind": "commentary",
+        "text": "悶悶，無所割截。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-21",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 5,
+          "start": 0,
+          "end": 40
+        },
+        "kind": "commentary",
+        "text": "我獨忽忽，如江海之流，莫知其所窮極也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-22",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 5,
+          "start": 0,
+          "end": 40
+        },
+        "kind": "commentary",
+        "text": "我獨漂漂，若飛若揚，無所止也，志意在神域也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-23",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 7,
+          "start": 0,
+          "end": 1
+        },
+        "kind": "commentary",
+        "text": "以，有為也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-24",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 7,
+          "start": 0,
+          "end": 23
+        },
+        "kind": "commentary",
+        "text": "我獨無為。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-25",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 7,
+          "start": 0,
+          "end": 23
+        },
+        "kind": "commentary",
+        "text": "鄙，似若不逮也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-26",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 7,
+          "start": 0,
+          "end": 23
+        },
+        "kind": "commentary",
+        "text": "我獨與人異也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-27",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 7,
+          "start": 19,
+          "end": 20
+        },
+        "kind": "commentary",
+        "text": "食，用也。母，道也。我獨貴用道也。",
+        "source": "cham"
+      }
+    ],
+    "wangbi": [
+      {
+        "id": "wangbi-1",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 19
+        },
+        "kind": "commentary",
+        "text": "下篇，為學者日益，為道者日損。然則學求益所能，而進其智者也，若將無欲而足，何求於益。不知而中，何求於進。夫燕雀有匹，鳩鴿有仇，寒鄉之民，必知旃裘，自然已足，益之則憂。故續鳧之足，何異截鶴之脛，畏譽而進，何異畏刑。唯阿美惡，相去何若？故人之所畏，吾亦畏焉，未敢恃之以為用也。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-2",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 19
+        },
+        "kind": "commentary",
+        "text": "歎與俗相返之遠也。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-3",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 19
+        },
+        "kind": "commentary",
+        "text": "眾人迷於美進，惑於榮利，欲進心競，故熙熙如享太牢，如春登臺也。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-4",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 19
+        },
+        "kind": "commentary",
+        "text": "言我廓然無形之可名、無兆之可舉，如嬰兒之未能孩也。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-5",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 19
+        },
+        "kind": "commentary",
+        "text": "若無所宅。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-6",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 19
+        },
+        "kind": "commentary",
+        "text": "眾人無不有懷有志，盈溢胸心，故曰，皆有餘也。我獨廓然無為無欲，若遺失之也。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-7",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 19
+        },
+        "kind": "commentary",
+        "text": "絕愚之人，心無所別析，意無所好欲，猶然其情不可覩我頹然若此也。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-8",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 19
+        },
+        "kind": "commentary",
+        "text": "無所別析，不可為明。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-9",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 19
+        },
+        "kind": "commentary",
+        "text": "耀其光也。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-10",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 19
+        },
+        "kind": "commentary",
+        "text": "分別別析也。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-11",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 19
+        },
+        "kind": "commentary",
+        "text": "情不可覩。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-12",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 19
+        },
+        "kind": "commentary",
+        "text": "無所繫縶。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-13",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 7,
+          "start": 0,
+          "end": 1
+        },
+        "kind": "commentary",
+        "text": "以，用也。皆欲有所施用也。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-14",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 7,
+          "start": 0,
+          "end": 23
+        },
+        "kind": "commentary",
+        "text": "無所欲為，悶悶昏昏，若無所識，故曰頑且鄙也。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-15",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 7,
+          "start": 0,
+          "end": 23
+        },
+        "kind": "commentary",
+        "text": "食母，生之本也。人者皆棄生民之本，貴末飾之華，故曰我獨欲異於人。",
+        "source": "cham"
+      }
+    ]
+  },
+  "annotationLayers": [
+    {
+      "id": "default",
+      "label": "原文",
+      "shortLabel": "文",
+      "contributor": "Laozi",
+      "role": "author",
+      "nature": "annotation",
+      "displayOrder": 0,
+      "enabled": true,
+      "annotations": []
+    },
+    {
+      "id": "heshanggong",
+      "label": "河上公註",
+      "shortLabel": "河",
+      "contributor": "C002",
+      "role": "commentator",
+      "nature": "commentary",
+      "displayOrder": 1,
+      "enabled": true,
+      "annotations": [
+        {
+          "id": "heshanggong-1",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 19
+          },
+          "kind": "commentary",
+          "text": "絕學不真，不合道文。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-2",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 19
+          },
+          "kind": "commentary",
+          "text": "除浮華則無憂患也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-3",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 19
+          },
+          "kind": "commentary",
+          "text": "同為應對而相去幾何。疾時賤質而貴文。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-4",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 19
+          },
+          "kind": "commentary",
+          "text": "善者稱譽，惡者諫諍，能相去何如。疾時惡忠直，用邪佞也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-5",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 19
+          },
+          "kind": "commentary",
+          "text": "人謂道人也。人所畏者，畏不絕學之君也。不可不畏，近令色，殺仁賢。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-6",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 19
+          },
+          "kind": "commentary",
+          "text": "或言世俗人荒亂，欲進學為文，未央止也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-7",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 19
+          },
+          "kind": "commentary",
+          "text": "熙熙，放淫多情欲也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-8",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 19
+          },
+          "kind": "commentary",
+          "text": "如飢思太牢之具，意無足時也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-9",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 19
+          },
+          "kind": "commentary",
+          "text": "春，陰陽交通，萬物感動，登台觀之，意志淫淫然。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-10",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 19
+          },
+          "kind": "commentary",
+          "text": "我獨怕然安靜，未有情慾之形兆也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-11",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 19
+          },
+          "kind": "commentary",
+          "text": "如小兒未能答偶人時也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-12",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 19
+          },
+          "kind": "commentary",
+          "text": "我乘乘如窮鄙，無所歸就。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-13",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 5,
+            "start": 0,
+            "end": 1
+          },
+          "kind": "commentary",
+          "text": "眾人餘財以為奢，餘智以為詐。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-14",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 5,
+            "start": 0,
+            "end": 40
+          },
+          "kind": "commentary",
+          "text": "我獨如遺棄，似於不足也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-15",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 5,
+            "start": 10,
+            "end": 11
+          },
+          "kind": "commentary",
+          "text": "不與俗人相隨，守一不移，如愚人之心也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-16",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 5,
+            "start": 0,
+            "end": 40
+          },
+          "kind": "commentary",
+          "text": "無所分別。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-17",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 5,
+            "start": 0,
+            "end": 40
+          },
+          "kind": "commentary",
+          "text": "明且達也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-18",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 5,
+            "start": 0,
+            "end": 40
+          },
+          "kind": "commentary",
+          "text": "如闇昧也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-19",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 5,
+            "start": 0,
+            "end": 40
+          },
+          "kind": "commentary",
+          "text": "察察，急且疾也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-20",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 5,
+            "start": 35,
+            "end": 36
+          },
+          "kind": "commentary",
+          "text": "悶悶，無所割截。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-21",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 5,
+            "start": 0,
+            "end": 40
+          },
+          "kind": "commentary",
+          "text": "我獨忽忽，如江海之流，莫知其所窮極也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-22",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 5,
+            "start": 0,
+            "end": 40
+          },
+          "kind": "commentary",
+          "text": "我獨漂漂，若飛若揚，無所止也，志意在神域也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-23",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 7,
+            "start": 0,
+            "end": 1
+          },
+          "kind": "commentary",
+          "text": "以，有為也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-24",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 7,
+            "start": 0,
+            "end": 23
+          },
+          "kind": "commentary",
+          "text": "我獨無為。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-25",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 7,
+            "start": 0,
+            "end": 23
+          },
+          "kind": "commentary",
+          "text": "鄙，似若不逮也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-26",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 7,
+            "start": 0,
+            "end": 23
+          },
+          "kind": "commentary",
+          "text": "我獨與人異也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-27",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 7,
+            "start": 19,
+            "end": 20
+          },
+          "kind": "commentary",
+          "text": "食，用也。母，道也。我獨貴用道也。",
+          "source": "cham"
+        }
+      ]
+    },
+    {
+      "id": "wangbi",
+      "label": "王弼註",
+      "shortLabel": "王",
+      "contributor": "C001",
+      "role": "commentator",
+      "nature": "commentary",
+      "displayOrder": 2,
+      "enabled": true,
+      "annotations": [
+        {
+          "id": "wangbi-1",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 19
+          },
+          "kind": "commentary",
+          "text": "下篇，為學者日益，為道者日損。然則學求益所能，而進其智者也，若將無欲而足，何求於益。不知而中，何求於進。夫燕雀有匹，鳩鴿有仇，寒鄉之民，必知旃裘，自然已足，益之則憂。故續鳧之足，何異截鶴之脛，畏譽而進，何異畏刑。唯阿美惡，相去何若？故人之所畏，吾亦畏焉，未敢恃之以為用也。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-2",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 19
+          },
+          "kind": "commentary",
+          "text": "歎與俗相返之遠也。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-3",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 19
+          },
+          "kind": "commentary",
+          "text": "眾人迷於美進，惑於榮利，欲進心競，故熙熙如享太牢，如春登臺也。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-4",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 19
+          },
+          "kind": "commentary",
+          "text": "言我廓然無形之可名、無兆之可舉，如嬰兒之未能孩也。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-5",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 19
+          },
+          "kind": "commentary",
+          "text": "若無所宅。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-6",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 19
+          },
+          "kind": "commentary",
+          "text": "眾人無不有懷有志，盈溢胸心，故曰，皆有餘也。我獨廓然無為無欲，若遺失之也。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-7",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 19
+          },
+          "kind": "commentary",
+          "text": "絕愚之人，心無所別析，意無所好欲，猶然其情不可覩我頹然若此也。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-8",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 19
+          },
+          "kind": "commentary",
+          "text": "無所別析，不可為明。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-9",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 19
+          },
+          "kind": "commentary",
+          "text": "耀其光也。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-10",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 19
+          },
+          "kind": "commentary",
+          "text": "分別別析也。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-11",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 19
+          },
+          "kind": "commentary",
+          "text": "情不可覩。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-12",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 19
+          },
+          "kind": "commentary",
+          "text": "無所繫縶。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-13",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 7,
+            "start": 0,
+            "end": 1
+          },
+          "kind": "commentary",
+          "text": "以，用也。皆欲有所施用也。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-14",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 7,
+            "start": 0,
+            "end": 23
+          },
+          "kind": "commentary",
+          "text": "無所欲為，悶悶昏昏，若無所識，故曰頑且鄙也。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-15",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 7,
+            "start": 0,
+            "end": 23
+          },
+          "kind": "commentary",
+          "text": "食母，生之本也。人者皆棄生民之本，貴末飾之華，故曰我獨欲異於人。",
+          "source": "cham"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "textRef": "laozi-boshu",
+    "relation": "section"
+  }
+}

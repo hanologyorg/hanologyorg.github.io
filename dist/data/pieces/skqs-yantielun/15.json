@@ -1,0 +1,415 @@
+{
+  "bookId": "skqs-yantielun",
+  "num": 15,
+  "title": "雜論第六十",
+  "author": "桓寬",
+  "authorId": "桓寬",
+  "dynasty": "漢",
+  "era": "漢",
+  "eraCode": "07",
+  "genre": "prose",
+  "verses": [
+    {
+      "text": "客曰余覩鹽鐡之義觀乎公卿文學賢良之論意指殊路各有所出或上仁義或務權利異哉吾所聞周秦粲然皆有天下而南面焉然安危長久殊世始汝南朱子伯為予言當此之時豪俊並進四方輻輳賢良茂陵唐生文學魯萬生之倫六十餘人咸聚闕庭舒六藝之諷論太平之原知者贊其慮仁者明其施勇者見其斷辯者陳其詞誾誾焉侃侃焉雖未能詳備斯可略觀矣然蔽於雲霧終廢而不行悲夫公卿知任武可以辟地而不知徳廣可以附逺知權利可以廣用而不知稼穡可以富國也近者親附逺者説徳則何為而不成何求而不得不出於斯路而務畜利長威豈不謬哉中山劉子雍言王道矯當世復諸正務在乎反本直而不徼切而不⿰斌斌然斯可謂𢎞博君子矣九江祝生奮由路之意推史魚之節發憤懣刺譏公卿介然直而不撓可謂不畏強禦矣桑大夫據當世合時變推道術尚權利辟畧小辯雖非正法然巨儒宿學惡然大能自解可謂博物通士矣然攝卿相之位不引凖䋲以道化下放於利末不師始古易曰焚如棄如處非其位行非其道果隕其姓以及厥宗車丞相即周魯之列當軸處中括囊不言容身而去彼哉彼哉若夫羣丞相御史不能正議以輔宰相成同類長同行阿意苟合以説其上斗筲之人道䛕之徒何足選哉"
+    },
+    {
+      "text": "鹽鐡論卷十二"
+    }
+  ],
+  "sections": {},
+  "annotations": [],
+  "layers": {
+    "commentary": [
+      {
+        "id": "commentary-1",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 31
+        },
+        "kind": "semantic",
+        "text": "通作尚",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-2",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 31,
+          "end": 61
+        },
+        "kind": "semantic",
+        "text": "張子曰周有天下八百年而滅秦有天下十四嵗而亡",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-3",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 61,
+          "end": 82
+        },
+        "kind": "semantic",
+        "text": "顔師古曰輳聚也言如車輻之聚於轂也",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-4",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 82,
+          "end": 114
+        },
+        "kind": "semantic",
+        "text": "去聲",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-5",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 114,
+          "end": 135
+        },
+        "kind": "semantic",
+        "text": "誾音銀",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-6",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 135,
+          "end": 139
+        },
+        "kind": "semantic",
+        "text": "顔師古曰誾誾辯爭之貌侃侃剛直之貌",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-7",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 139,
+          "end": 161
+        },
+        "kind": "semantic",
+        "text": "音扶是時丞相車千秋御史大夫桑𢎞羊皆不悦文學賢良之議奏罷酒𣙜均輸而鹽鐡卒不變",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-8",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 161,
+          "end": 169
+        },
+        "kind": "semantic",
+        "text": "音闢",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-9",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 169,
+          "end": 203
+        },
+        "kind": "semantic",
+        "text": "音悦",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-10",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 203,
+          "end": 225
+        },
+        "kind": "semantic",
+        "text": "長音掌",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-11",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 225,
+          "end": 253
+        },
+        "kind": "semantic",
+        "text": "徼音澆伺察之意也",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-12",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 253,
+          "end": 257
+        },
+        "kind": "semantic",
+        "text": "音索",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-13",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 257,
+          "end": 259
+        },
+        "kind": "semantic",
+        "text": "音彬",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-14",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 259,
+          "end": 269
+        },
+        "kind": "semantic",
+        "text": "顔師古曰斌斌文章之貌",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-15",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 269,
+          "end": 283
+        },
+        "kind": "semantic",
+        "text": "詩傳曰孔子遊於景山之上子路子貢顔淵從孔子曰君子登髙必賦小子願者何言其願丘将啓汝子路曰由願奮長㦸盪三軍乳虎在後仇敵在前蠡躍蛟奮進救兩國之患孔子曰勇士哉他日孔子與子路子貢顔淵游於戎山之上孔子喟然嘆曰二三子各言爾志予将覽焉由爾何如對曰得白羽如月赤羽如朱擊鐘鼔者上聞於天下槊於地使将而攻之惟由為能孔子曰勇士哉雜事篇曰衞靈公之時蘧伯玉賢而不用彌子瑕不肖而任事史鰌患之數以諌靈公而不聽史鰌病且死謂其子曰我即死治䘮於北堂吾不能進蘧伯玉而退彌子瑕是不能正君也生不能正君者死不當成禮置尸北堂於我足矣史鰌死靈公徃弔見䘮在北堂問其故其子具以父言對靈公蹴然易容寤然失位曰夫子生則欲進賢而退不肖死且不懈又以屍諫可謂忠而不衰矣於是乃召蘧伯玊而進之以為卿退彌子瑕徙䘮正堂成禮而後返衛國以治史鰌字子魚論語所謂直哉史魚者也",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-16",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 283,
+          "end": 286
+        },
+        "kind": "semantic",
+        "text": "音悶",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-17",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 286,
+          "end": 296
+        },
+        "kind": "semantic",
+        "text": "音鐃曲也",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-18",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 296,
+          "end": 322
+        },
+        "kind": "semantic",
+        "text": "辟便僻也舉止輕偒也略智也方略計畫也",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-19",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 322,
+          "end": 332
+        },
+        "kind": "semantic",
+        "text": "音烏",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-20",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 332,
+          "end": 337
+        },
+        "kind": "semantic",
+        "text": "漢書作不能自解顔師古曰解釋也言理不出於𢎞羊也",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-21",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 337,
+          "end": 362
+        },
+        "kind": "semantic",
+        "text": "孔子曰放於利而行多怨顔師古曰放縱也謂縱心於利也",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-22",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 362,
+          "end": 382
+        },
+        "kind": "semantic",
+        "text": "音允",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-23",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 382,
+          "end": 388
+        },
+        "kind": "fanqie",
+        "text": "車千秋傳曰桑𢎞羊為御史大夫八年自以為國家興榷筦之利伐其功欲為子弟得官怨望霍光與上官桀等謀反遂誅滅",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-24",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 388,
+          "end": 412
+        },
+        "kind": "semantic",
+        "text": "易曰括囊無咎無譽顔師古田括結也言自閉慎如囊之括結也車千秋傳曰昭帝初即位未任聽政政事一决大将軍光千秋居丞相位謹厚有重徳每公卿朝㑹光謂千秋曰始與君侯俱受先帝遺詔令光治内君侯治外宜有以教督使光無負天下千秋曰唯将軍留意即天下幸甚終不肯有所言光以此重之論語曰或問子西孔子曰彼哉彼哉顔師古曰言彼人哉無足稱也",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-25",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 412,
+          "end": 414
+        },
+        "kind": "semantic",
+        "text": "音扶",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-26",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 414,
+          "end": 431
+        },
+        "kind": "semantic",
+        "text": "音掌",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-27",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 431,
+          "end": 433
+        },
+        "kind": "semantic",
+        "text": "去聲",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-28",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 433,
+          "end": 439
+        },
+        "kind": "semantic",
+        "text": "音悦",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-29",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 439,
+          "end": 450
+        },
+        "kind": "semantic",
+        "text": "論語云子貢問曰今之從政者何如子曰斗筲之人何足算也顔師古曰筲竹器也容一斗算數也言其材器少劣不足數也桓寛此論托為客言總評議其得失也",
+        "source": "cham"
+      }
+    ]
+  },
+  "annotationLayers": [
+    {
+      "id": "default",
+      "label": "原文",
+      "shortLabel": "文",
+      "contributor": "桓寬",
+      "role": "author",
+      "nature": "annotation",
+      "displayOrder": 0,
+      "enabled": true,
+      "annotations": []
+    }
+  ]
+}

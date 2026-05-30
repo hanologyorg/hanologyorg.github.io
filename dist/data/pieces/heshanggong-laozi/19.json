@@ -1,0 +1,395 @@
+{
+  "bookId": "heshanggong-laozi",
+  "num": 19,
+  "title": "第十九章（還淳）",
+  "author": "老子",
+  "authorId": "Laozi",
+  "dynasty": "周",
+  "era": "周",
+  "genre": "prose",
+  "verses": [
+    {
+      "text": "絕聖"
+    },
+    {
+      "text": "棄智，"
+    },
+    {
+      "text": "民利百倍。"
+    },
+    {
+      "text": "絕仁棄義，"
+    },
+    {
+      "text": "民復孝慈。"
+    },
+    {
+      "text": "絕巧棄利，"
+    },
+    {
+      "text": "盜賊無有。"
+    },
+    {
+      "text": "此三者，"
+    },
+    {
+      "text": "以為文不足，"
+    },
+    {
+      "text": "故令有所屬。"
+    },
+    {
+      "text": "見素抱樸，"
+    },
+    {
+      "text": "少私寡欲。"
+    }
+  ],
+  "sections": {},
+  "annotations": [],
+  "layers": {
+    "heshanggong": [
+      {
+        "id": "heshanggong-1",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 2
+        },
+        "kind": "commentary",
+        "text": "絕聖制作，反初守元。五帝垂象，倉頡作書，不如三皇結繩無文。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-2",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 0,
+          "end": 3
+        },
+        "kind": "commentary",
+        "text": "棄智慧，反無為。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-3",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 2,
+          "start": 0,
+          "end": 5
+        },
+        "kind": "commentary",
+        "text": "農事修，公無私。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-4",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 3,
+          "start": 0,
+          "end": 5
+        },
+        "kind": "commentary",
+        "text": "絕仁之見恩惠，棄義之尚華言。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-5",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 4,
+          "start": 0,
+          "end": 5
+        },
+        "kind": "commentary",
+        "text": "德化淳也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-6",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 5,
+          "start": 0,
+          "end": 5
+        },
+        "kind": "commentary",
+        "text": "絕巧者，詐偽亂真也。棄利者，塞貪路閉權門也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-7",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 6,
+          "start": 0,
+          "end": 5
+        },
+        "kind": "commentary",
+        "text": "上化公正，下無邪私。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-8",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 7,
+          "start": 0,
+          "end": 4
+        },
+        "kind": "commentary",
+        "text": "謂上三事所棄絕也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-9",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 8,
+          "start": 0,
+          "end": 6
+        },
+        "kind": "commentary",
+        "text": "以為文不足者，文不足以教民。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-10",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 9,
+          "start": 0,
+          "end": 6
+        },
+        "kind": "commentary",
+        "text": "當如下句。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-11",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 10,
+          "start": 0,
+          "end": 5
+        },
+        "kind": "commentary",
+        "text": "見素者，當抱素守真，不尚文飾也。 抱朴者，當見其篤朴1，以示下，故可法則。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-12",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 11,
+          "start": 0,
+          "end": 5
+        },
+        "kind": "commentary",
+        "text": "少私者，正無私也。寡欲者，當知足也。",
+        "source": "cham"
+      }
+    ]
+  },
+  "annotationLayers": [
+    {
+      "id": "default",
+      "label": "原文",
+      "shortLabel": "文",
+      "contributor": "Laozi",
+      "role": "author",
+      "nature": "annotation",
+      "displayOrder": 0,
+      "enabled": true,
+      "annotations": []
+    },
+    {
+      "id": "heshanggong",
+      "label": "河上公註",
+      "shortLabel": "河",
+      "contributor": "C002",
+      "role": "commentator",
+      "nature": "commentary",
+      "displayOrder": 1,
+      "enabled": true,
+      "annotations": [
+        {
+          "id": "heshanggong-1",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 2
+          },
+          "kind": "commentary",
+          "text": "絕聖制作，反初守元。五帝垂象，倉頡作書，不如三皇結繩無文。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-2",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 1,
+            "start": 0,
+            "end": 3
+          },
+          "kind": "commentary",
+          "text": "棄智慧，反無為。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-3",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 2,
+            "start": 0,
+            "end": 5
+          },
+          "kind": "commentary",
+          "text": "農事修，公無私。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-4",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 3,
+            "start": 0,
+            "end": 5
+          },
+          "kind": "commentary",
+          "text": "絕仁之見恩惠，棄義之尚華言。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-5",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 4,
+            "start": 0,
+            "end": 5
+          },
+          "kind": "commentary",
+          "text": "德化淳也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-6",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 5,
+            "start": 0,
+            "end": 5
+          },
+          "kind": "commentary",
+          "text": "絕巧者，詐偽亂真也。棄利者，塞貪路閉權門也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-7",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 6,
+            "start": 0,
+            "end": 5
+          },
+          "kind": "commentary",
+          "text": "上化公正，下無邪私。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-8",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 7,
+            "start": 0,
+            "end": 4
+          },
+          "kind": "commentary",
+          "text": "謂上三事所棄絕也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-9",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 8,
+            "start": 0,
+            "end": 6
+          },
+          "kind": "commentary",
+          "text": "以為文不足者，文不足以教民。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-10",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 9,
+            "start": 0,
+            "end": 6
+          },
+          "kind": "commentary",
+          "text": "當如下句。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-11",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 10,
+            "start": 0,
+            "end": 5
+          },
+          "kind": "commentary",
+          "text": "見素者，當抱素守真，不尚文飾也。 抱朴者，當見其篤朴1，以示下，故可法則。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-12",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 11,
+            "start": 0,
+            "end": 5
+          },
+          "kind": "commentary",
+          "text": "少私者，正無私也。寡欲者，當知足也。",
+          "source": "cham"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "textRef": "heshanggong-laozi",
+    "relation": "section"
+  }
+}

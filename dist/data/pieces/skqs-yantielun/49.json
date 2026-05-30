@@ -1,0 +1,326 @@
+{
+  "bookId": "skqs-yantielun",
+  "num": 49,
+  "title": "鹽鐵論卷八",
+  "author": "桓寬",
+  "authorId": "桓寬",
+  "dynasty": "漢",
+  "era": "漢",
+  "eraCode": "07",
+  "genre": "prose",
+  "verses": [
+    {
+      "text": "漢　桓　寛　撰"
+    },
+    {
+      "text": "明　張之象　註"
+    },
+    {
+      "text": "疾貪第三十三"
+    },
+    {
+      "text": "大夫曰然為醫以拙矣又多求謝為吏既多不良矣又侵漁百姓長吏厲諸小吏小吏厲諸百姓故不患擇之不熟而患求之與得異也不患其不足也患其貪而無厭也"
+    },
+    {
+      "text": "賢良曰古之制爵禄也卿大夫足以潤賢厚士足以優身及黨庻人為官者足以代其耕而食其禄今小吏禄薄郡國繇役逺至三輔粟米貴不足相澹常居則匱於衣食有故則賣畜粥業非徒是也繇吏相遣官庭攝追小計權吏行施乞貸長吏侵漁上府下求之縣縣求之鄉鄉安取之哉語曰貨賂下流猶水之赴下不竭不止今大川江河飲巨海巨海受之而欲谿谷之讓流潦百官之廉不可得也夫欲影正者端其表欲下廉者先之身故貪鄙在率不在下教訓在政不在民也"
+    },
+    {
+      "text": "大夫曰賢不肖有質而貪鄙有性君子内潔已而不能純教於彼故周公非不正管蔡之邪子産非不正鄧晳之偽也夫内不從父兄之教外不畏刑法之罪周公子産不能化必也今一二則責之有司有司豈能縛其手足而使之無為非哉"
+    },
+    {
+      "text": "賢良曰駟馬不馴御者之過也百姓不治有司之罪也春秋刺譏不及庻人責其率也故古者大夫將臨刑聲色不御刑以當矣猶三廵而嗟嘆之其耻不能以化而傷其不全也政教闇而不著百姓顛蹶而不扶猶赤子臨井焉聽其入也若此則何以為民父母故君子急於教緩於刑刑一而正百殺一而慎萬是以周公誅管蔡而子産誅鄧晳也刑誅一施民遵禮義矣夫上之化下若風之靡草無不從教何一一而縛之也"
+    }
+  ],
+  "sections": {},
+  "annotations": [],
+  "layers": {
+    "commentary": [
+      {
+        "id": "commentary-1",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 3,
+          "start": 0,
+          "end": 28
+        },
+        "kind": "semantic",
+        "text": "顔師古曰侵漁言侵奪百姓若漁者之取魚也",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-2",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 3,
+          "start": 28,
+          "end": 34
+        },
+        "kind": "semantic",
+        "text": "厲病也",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-3",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 4,
+          "start": 0,
+          "end": 41
+        },
+        "kind": "semantic",
+        "text": "管子曰爵不尊禄不重者不與圖難犯危以其道為未可以求之也是故先王制軒冕足以著貴賤不求其美設爵禄足以守其服不求其親使君子食於道小人食於力",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-4",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 4,
+          "start": 41,
+          "end": 49
+        },
+        "kind": "semantic",
+        "text": "音遥",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-5",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 4,
+          "start": 49,
+          "end": 61
+        },
+        "kind": "semantic",
+        "text": "古聸字",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-6",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 4,
+          "start": 61,
+          "end": 114
+        },
+        "kind": "semantic",
+        "text": "荀悦曰先王之制禄也下足以代耕上足以充祀故食禄之家不與下民爭利所以厲其公義塞其私心其或犯逾之者則繩以政法是以君子慕義小人無怨若位苟禄薄外而不充憂匱是䘏所求不贍則私利之制萌矣放而聼之則貪利之心濫矣以法繩之則下情怨矣故位必稱徳禄必稱爵故一物而不稱亂之道也今漢之賦禄薄而吏非員者衆在位者貪於財産規奪官民之利則殖貨無厭奪民之利不以為耻是以清節毁傷公義損缺富者比公室貧者匱朝夕非所為濟俗也",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-7",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 4,
+          "start": 114,
+          "end": 118
+        },
+        "kind": "semantic",
+        "text": "音路",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-8",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 4,
+          "start": 118,
+          "end": 158
+        },
+        "kind": "semantic",
+        "text": "音扶",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-9",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 4,
+          "start": 158,
+          "end": 172
+        },
+        "kind": "semantic",
+        "text": "曾子曰響不辭聲鑑不辭形君子正一而萬物皆成夫行非為影也而影随之呼非為響也而響和之故君子功先成而名随之主術訓曰君人者其猶射者乎於此毫末於彼尋丈矣故慎所以感之也夫榮啓期一彈而孔子三日樂感于和鄒忌一徽而威王終夕悲感于憂動諸琴瑟形諸聲音而能使人為之哀樂縣法設賞而不能移風易俗其誠心弗施也",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-10",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 4,
+          "start": 172,
+          "end": 185
+        },
+        "kind": "semantic",
+        "text": "主術訓曰通於本者不亂於末覩於要者不惑于詳是故有諸已不非諸人無諸已不求諸人所立於下者不廢於上所禁於民者不行於身孔子曰其身正不令而行其身不正雖令不從故禁勝於身則令行於民矣劉峻曰神非舜禹心異朱均才絓中庸在於所習是以素絲無恒𤣥黃代起鮑魚芳蘭入而自變",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-11",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 5,
+          "start": 0,
+          "end": 48
+        },
+        "kind": "semantic",
+        "text": "韓嬰曰客有見周公者應之於門曰何以道旦也客曰在外即言外在内即言内入乎將母周公曰請入客曰立即言義坐即言仁坐乎將母周公曰請坐客曰疾言則翕翕徐言則不聞言乎將母周公唯唯旦也踰明日興師而誅管蔡故客善以不言之説周公善聼不言之説若周公可謂能聼微言矣故君子之告人也微其救人之急也婉詩曰豈敢憚行畏不能趨鴻烈解曰鄧晳教鄭人以訟訟不俱囬子産誅之也許慎曰鄧晳詭辯姦人之雄也子産誅之故姦止也傳曰鄭駟遄殺鄧晳而用其竹刑鄧晳制刑書之於竹鄭國用之不以人廢言也",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-12",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 5,
+          "start": 48,
+          "end": 49
+        },
+        "kind": "semantic",
+        "text": "音扶",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-13",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 5,
+          "start": 49,
+          "end": 85
+        },
+        "kind": "semantic",
+        "text": "房入聲",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-14",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 6,
+          "start": 0,
+          "end": 10
+        },
+        "kind": "semantic",
+        "text": "音廵",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-15",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 6,
+          "start": 10,
+          "end": 24
+        },
+        "kind": "fanqie",
+        "text": "主術訓曰人主之立法先自為檢式儀故令行於天下孔子曰其身正不令而行其身不正雖令不從故禁勝於身則令行於民矣今夫御者馬體調於車御心和于馬則歴險致逺進退周游莫不如志雖有騏驥騄駬之良臧獲御之則馬反自恣而人弗能制矣故治者不貴其自是而貴其不得為非也故曰勿使可欲母曰弗求勿使可奪母曰不争如此則人材釋而公道行矣聖主之治也其猶造父之御乎齊輯之于轡銜之際而急緩之于脣吻之和正度于胷臆之中而執節於掌握之間内得于心中外合于馬志是故能進退履繩而旋曲中規取道致逺而氣力有餘誠得其術也體離車輿之安而手失駟馬之心而能不危者古今未有也",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-16",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 6,
+          "start": 24,
+          "end": 71
+        },
+        "kind": "semantic",
+        "text": "王制曰刑者侀也侀者成也一成而不可變故君子盡心焉曽子曰上失其道民散久矣如得其情則哀矜而勿喜",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-17",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 6,
+          "start": 71,
+          "end": 81
+        },
+        "kind": "semantic",
+        "text": "音决",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-18",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 6,
+          "start": 81,
+          "end": 103
+        },
+        "kind": "semantic",
+        "text": "康誥曰若保赤子孟子曰彼有取爾也赤子匍匐將入并非赤子之罪也又曰人皆有不忍人之心所以謂人皆有不忍人之心者今人乍見孺子將入於并皆有怵愓惻隐之心無惻隐之心非人也",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-19",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 6,
+          "start": 103,
+          "end": 136
+        },
+        "kind": "semantic",
+        "text": "指武篇曰齊人王滿生見周公周公出見之曰先生逺辱何以教之王滿生曰言内事者於内言外事者於外今言内事乎言外事乎周公導入王滿生曰敬從布席周公不導坐王滿生曰言大事者坐言小事者倚今言大事乎言小事乎周公導坐王滿生坐周公曰先生何以教之王滿生曰臣聞聖人不言而知非聖人者雖言不知今欲言乎無言乎周公俛念有頃不對王滿生籍筆牘書之曰社稷且危傳之於膺周公仰視見書曰唯唯謹聞命矣明日誅管蔡吕氏春秋曰子産治鄭鄧晳務難之與民之有獄者約大獄一衣小獄襦袴民之獻衣襦袴而學訟者不可勝數以非為是以是為非是非無度而可與不可日變所欲勝因勝所欲罪因罪鄭國大亂民口讙譁子産患之於是殺鄧晳而戮之民心乃服是非乃定法令乃行汜論曰善賞者費少而勸衆善罰者刑省而姦禁故聖人因民之所喜而勸善因民之所惡以禁姦故賞一人而天下譽之罰一人而天下畏之故至賞不費至刑不濫孔子誅少正夘而魯國之邪塞子産誅鄧晳而鄭國之姦禁以近諭逺以小知大也",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-20",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 6,
+          "start": 136,
+          "end": 146
+        },
+        "kind": "semantic",
+        "text": "音扶",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-21",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 6,
+          "start": 146,
+          "end": 163
+        },
+        "kind": "semantic",
+        "text": "泄冶曰夫上之化下猶風靡草東風則草靡而西西風則草靡而東在風所由而草為之靡是故人君之動不可不慎也",
+        "source": "cham"
+      }
+    ]
+  },
+  "annotationLayers": [
+    {
+      "id": "default",
+      "label": "原文",
+      "shortLabel": "文",
+      "contributor": "桓寬",
+      "role": "author",
+      "nature": "annotation",
+      "displayOrder": 0,
+      "enabled": true,
+      "annotations": []
+    }
+  ]
+}

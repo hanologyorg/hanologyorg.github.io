@@ -1,0 +1,177 @@
+{
+  "bookId": "primary",
+  "num": 27,
+  "title": "鹿柴",
+  "author": "王維",
+  "authorId": "A016",
+  "dynasty": "唐",
+  "era": "唐",
+  "eraCode": "24",
+  "genre": "poetry",
+  "verses": [
+    {
+      "text": "空山不見人，但聞人語響。"
+    },
+    {
+      "text": "返景入深林，復照青苔上。"
+    }
+  ],
+  "sections": {
+    "analysis": "這首小詩描繪了鹿柴附近的山林傍晚時分的幽靜景色。寂靜的山谷裏看不見一個人影，卻聽到遠處傳來的說話聲音在空氣中迴盪。夕陽西下，餘暉穿過密密的樹林，靜靜地反照在青青的苔蘚上。\n\n詩的前兩句描繪山的空寂。上句劈頭一個「空」字便把山的空曠突現出來，接着又用「不見人」具體表現它的空寂。下句詩人用「人語響」進一步渲染山中的寧靜。一個「響」字似乎讓我們聽到了空谷人語的回響，正因為萬籟俱寂，所以遠處的人語才顯得格外清晰響亮。「人語響」和上句「不見人」似相抵牾，其實聞其聲而不見其人，恰好寫出了山深林密的特點。詩的後兩句描繪山林的茂密幽深。詩人沒有正面描繪，而是巧妙地借助照亮林間青苔的一抹餘暉，烘托出林木的遮天蔽日。青苔生長在陰暗潮濕的地方，只有夕陽從樹的縫隙中斜照進來，才能獲得片刻亮光，而這一小片光影，正反襯出深林的幽暗。\n\n詩人以聲響反襯空山的靜謐，以日影反襯深林的幽暗，全詩僅用了二十字，便將山中黃昏一剎那間特有的幽靜境界描繪出來，可見詩人對自然美有深切的體會，同時也反映了詩人胸無雜念、恬淡坦然的心境。詩人以敏銳的筆觸，捕捉深山中聲響光影的微妙變化，詩中有畫，是王維精妙之作。",
+    "background": "王維有別墅在藍田輞川，晚年在這裏過着隱居的生活。他自編的詩集《輞川集》，就是這段隱居生活的記錄。集中共收他和朋友裴迪吟詠輞川景物的詩歌各二十首。《鹿柴》是《輞川集》中的第五首。鹿柴是輞川別墅內的建築物之一，「柴」即「寨」，是指四周有柵欄圍着的地方。",
+    "preparation": "1. 瀏覽互聯網，搜尋一幅《鹿柴》的詩意圖畫，跟組內同學分享。\n\n2. 聆聽誦讀錄音，代入詩人角色，有感情地朗讀詩歌。 https://www.edb.gov.hk/attachment/tc/curriculum-development/kla/chi-edu/resources/primary/lang/jilei/027_jilei_shi(cantonese).mp3",
+    "think_questions": "1. 熱鬧的地方固然可令人興奮，但也會帶給人煩擾的感覺。有甚麼環境是這樣的？\n\n2. 寧靜的環境或會令人覺得孤寂，但處身在這樣的環境也會有好處。想想若你能在一個非常安靜的環境之中上課，你喜歡嗎？為甚麼？\n\n3. 哪些地方給你安寧或幽靜的感覺？試簡單地說說那個地方是如何給你寧靜的感覺。",
+    "annotations": "1.鹿：○粵寨；zaai6；○普zhɑ̀i\n2.空山：空曠幽靜的山谷。\n3.但：只。\n4.返景：○粵影；jing2；○普yǐnɡ。落日的反照。\n景：；通「影」。\n5.景：；通「影」。\n6.復：再。"
+  },
+  "annotations": [
+    {
+      "id": "27-1",
+      "range": {
+        "type": "range",
+        "scope": "title",
+        "start": 0,
+        "end": 1
+      },
+      "kind": "pronunciation",
+      "lang": "yue",
+      "text": "寨；zaai6",
+      "source": "cham"
+    },
+    {
+      "id": "27-2",
+      "range": {
+        "type": "range",
+        "scope": "title",
+        "start": 0,
+        "end": 1
+      },
+      "kind": "pronunciation",
+      "lang": "cmn",
+      "text": "zhɑ̀i",
+      "source": "cham"
+    },
+    {
+      "id": "27-3",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 0,
+        "end": 2
+      },
+      "kind": "semantic",
+      "text": "空曠幽靜的山谷。",
+      "source": "cham"
+    },
+    {
+      "id": "27-4",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 6,
+        "end": 7
+      },
+      "kind": "semantic",
+      "text": "只。",
+      "source": "cham"
+    },
+    {
+      "id": "27-5",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 1,
+        "start": 0,
+        "end": 2
+      },
+      "kind": "pronunciation",
+      "lang": "yue",
+      "text": "影；jing2",
+      "source": "cham"
+    },
+    {
+      "id": "27-6",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 1,
+        "start": 0,
+        "end": 2
+      },
+      "kind": "pronunciation",
+      "lang": "cmn",
+      "text": "yǐnɡ",
+      "source": "cham"
+    },
+    {
+      "id": "27-7",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 1,
+        "start": 0,
+        "end": 2
+      },
+      "kind": "semantic",
+      "text": "落日的反照。\n景：；通「影」。",
+      "source": "cham"
+    },
+    {
+      "id": "27-8",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 1,
+        "start": 1,
+        "end": 2
+      },
+      "kind": "semantic",
+      "text": "；通「影」。",
+      "source": "cham"
+    },
+    {
+      "id": "27-9",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 1,
+        "start": 6,
+        "end": 7
+      },
+      "kind": "semantic",
+      "text": "再。",
+      "source": "cham"
+    }
+  ],
+  "structuredSections": [
+    {
+      "key": "background",
+      "title": "背景資料",
+      "filename": "background.md",
+      "body": "王維有別墅在藍田輞川，晚年在這裏過着隱居的生活。他自編的詩集《輞川集》，就是這段隱居生活的記錄。集中共收他和朋友裴迪吟詠輞川景物的詩歌各二十首。《鹿柴》是《輞川集》中的第五首。鹿柴是輞川別墅內的建築物之一，「柴」即「寨」，是指四周有柵欄圍着的地方。",
+      "order": 2
+    },
+    {
+      "key": "analysis",
+      "title": "賞析",
+      "filename": "analysis.md",
+      "body": "這首小詩描繪了鹿柴附近的山林傍晚時分的幽靜景色。寂靜的山谷裏看不見一個人影，卻聽到遠處傳來的說話聲音在空氣中迴盪。夕陽西下，餘暉穿過密密的樹林，靜靜地反照在青青的苔蘚上。\n\n詩的前兩句描繪山的空寂。上句劈頭一個「空」字便把山的空曠突現出來，接着又用「不見人」具體表現它的空寂。下句詩人用「人語響」進一步渲染山中的寧靜。一個「響」字似乎讓我們聽到了空谷人語的回響，正因為萬籟俱寂，所以遠處的人語才顯得格外清晰響亮。「人語響」和上句「不見人」似相抵牾，其實聞其聲而不見其人，恰好寫出了山深林密的特點。詩的後兩句描繪山林的茂密幽深。詩人沒有正面描繪，而是巧妙地借助照亮林間青苔的一抹餘暉，烘托出林木的遮天蔽日。青苔生長在陰暗潮濕的地方，只有夕陽從樹的縫隙中斜照進來，才能獲得片刻亮光，而這一小片光影，正反襯出深林的幽暗。\n\n詩人以聲響反襯空山的靜謐，以日影反襯深林的幽暗，全詩僅用了二十字，便將山中黃昏一剎那間特有的幽靜境界描繪出來，可見詩人對自然美有深切的體會，同時也反映了詩人胸無雜念、恬淡坦然的心境。詩人以敏銳的筆觸，捕捉深山中聲響光影的微妙變化，詩中有畫，是王維精妙之作。",
+      "order": 3
+    },
+    {
+      "key": "think_questions",
+      "title": "思考問題",
+      "filename": "think-questions.md",
+      "body": "1. 熱鬧的地方固然可令人興奮，但也會帶給人煩擾的感覺。有甚麼環境是這樣的？\n\n2. 寧靜的環境或會令人覺得孤寂，但處身在這樣的環境也會有好處。想想若你能在一個非常安靜的環境之中上課，你喜歡嗎？為甚麼？\n\n3. 哪些地方給你安寧或幽靜的感覺？試簡單地說說那個地方是如何給你寧靜的感覺。",
+      "order": 5
+    },
+    {
+      "key": "preparation",
+      "title": "教學準備",
+      "filename": "preparation.md",
+      "body": "1. 瀏覽互聯網，搜尋一幅《鹿柴》的詩意圖畫，跟組內同學分享。\n\n2. 聆聽誦讀錄音，代入詩人角色，有感情地朗讀詩歌。 https://www.edb.gov.hk/attachment/tc/curriculum-development/kla/chi-edu/resources/primary/lang/jilei/027_jilei_shi(cantonese).mp3",
+      "order": 6
+    }
+  ]
+}

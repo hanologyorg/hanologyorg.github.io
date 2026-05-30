@@ -1,0 +1,134 @@
+{
+  "bookId": "laozi-wangbi-wiki",
+  "num": 18,
+  "title": "第十八章",
+  "author": "老子",
+  "authorId": "Laozi",
+  "dynasty": "周",
+  "era": "周",
+  "genre": "prose",
+  "verses": [
+    {
+      "text": "大道廢，有仁義；"
+    },
+    {
+      "text": "智慧出，有大偽；"
+    },
+    {
+      "text": "六親不和，有孝慈；國家昏亂，有忠臣。"
+    }
+  ],
+  "sections": {},
+  "annotations": [],
+  "layers": {
+    "wangbi": [
+      {
+        "id": "wangbi-1",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 8
+        },
+        "kind": "commentary",
+        "text": "失無為之事，更以施慧立善道，進物也。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-2",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 0,
+          "end": 8
+        },
+        "kind": "commentary",
+        "text": "行術用明，以察姦偽；趣覩形見，物知避之。故智慧出則大偽生也。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-3",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 2,
+          "start": 0,
+          "end": 18
+        },
+        "kind": "commentary",
+        "text": "甚美之名生於大惡，所謂美惡同門。六親，父子兄弟夫婦也。若六親自和，國家自治，則孝慈忠臣不知其所在矣。魚相忘於江湖之道，則相濡之德生也。",
+        "source": "cham"
+      }
+    ]
+  },
+  "annotationLayers": [
+    {
+      "id": "default",
+      "label": "原文",
+      "shortLabel": "文",
+      "contributor": "Laozi",
+      "role": "author",
+      "nature": "annotation",
+      "displayOrder": 0,
+      "enabled": true,
+      "annotations": []
+    },
+    {
+      "id": "wangbi",
+      "label": "王弼註",
+      "shortLabel": "王",
+      "contributor": "C001",
+      "role": "commentator",
+      "nature": "commentary",
+      "displayOrder": 1,
+      "enabled": true,
+      "annotations": [
+        {
+          "id": "wangbi-1",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 8
+          },
+          "kind": "commentary",
+          "text": "失無為之事，更以施慧立善道，進物也。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-2",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 1,
+            "start": 0,
+            "end": 8
+          },
+          "kind": "commentary",
+          "text": "行術用明，以察姦偽；趣覩形見，物知避之。故智慧出則大偽生也。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-3",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 2,
+            "start": 0,
+            "end": 18
+          },
+          "kind": "commentary",
+          "text": "甚美之名生於大惡，所謂美惡同門。六親，父子兄弟夫婦也。若六親自和，國家自治，則孝慈忠臣不知其所在矣。魚相忘於江湖之道，則相濡之德生也。",
+          "source": "cham"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "textRef": "laozi-wangbi-wiki",
+    "relation": "section"
+  }
+}

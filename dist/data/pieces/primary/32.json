@@ -1,0 +1,251 @@
+{
+  "bookId": "primary",
+  "num": 32,
+  "title": "送友人",
+  "author": "李白",
+  "authorId": "A018",
+  "dynasty": "唐",
+  "era": "唐",
+  "eraCode": "24",
+  "genre": "poetry",
+  "verses": [
+    {
+      "text": "青山橫北郭，白水繞東城。"
+    },
+    {
+      "text": "此地一為別，孤蓬萬里征。"
+    },
+    {
+      "text": "浮雲游子意，落日故人情。"
+    },
+    {
+      "text": "揮手自茲去，蕭蕭班馬鳴。"
+    }
+  ],
+  "sections": {
+    "analysis": "古人慣以詩詞送別，這首詩寫李白為友人送行的情境，抒發依依不捨之情。\n\n詩人與友人騎馬走到城外，只見連綿的青山橫亙城北，白水如帶繞向城東。一對摯友在這兒要作別了，友人就要像蓬草一樣，孤身一人飄轉萬里；此去一別，不知何時能再見面。依依惜別之時正值傍晚，天上白雲飄飛，夕陽徐徐落下。游子在外萍蹤無定，就像那天空飄盪的浮雲，真教人惦念；那落日彷彿就是送別友人的自己，經過整日的相送，終歸要告別回家，就如太陽下山的重返大地。但無論多麼不捨，揮手道別的時間終要來到；兩匹馬兒竟向天悲鳴，似乎也難捨難分。\n\n詩的第一、二句描寫城外景色，點出分別的地點。青山橫臥，白水繞城，青、白相映，動、靜相間，一派山青水秀旖旎風光，充滿詩情畫意。第三、四句，切入正題，抒寫惜別之情。以「孤蓬」比喻友人飄泊無定的生活，十分形象貼切。第五、六句，以象徵手法，借浮雲、落日抒寫惜別之情，聯想自然。第七、八句，寫分手一刻。千里送君，終須一別。此時兩人竟相對無語，僅以頻頻揮手作別，心情的沉重由此可見。末句用兩匹即將分離的馬兒也感受到別離的難堪而仰天悲鳴，打破了沉寂，離情的描寫至此達到全詩的高潮。\n\n綜觀全詩，都是即景喻情，由許多很美麗的畫面，如「青山」、「白水」、「浮雲」、「落日」等來襯托離別的哀愁，在這環境下作別，兩個主角縱有千言萬語亦無從說起，最後以馬鳴作結，具音響效果，把兩人憋了好久的愁緒，一併發洩出來，令人黯然。\n\n這是一首五言律詩。通常律詩在頷聯（第三、四句）、頸聯（第五、六句）用對仗，而本詩在首聯即用對仗，別具一格；且三聯都對偶工巧，使詩歌的節奏更加明快。",
+    "preparation": "1. 聆聽誦讀錄音，投入感情朗讀本詩。 https://www.edb.gov.hk/attachment/tc/curriculum-development/kla/chi-edu/resources/primary/lang/jilei/032_jilei_shi(cantonese).mp3\n\n2. 網上小遊戲：《古文知多少‧送友人》 https://game.hkedcity.net/chigame/index.php?game_id=5a3a32f5ac7f84ea17aec97f&type=ccancient&level=J\n\n3. 請畫一張惜別卡，送給將要轉校或到外地升學的好朋友。",
+    "think_questions": "1. 你有送別親朋好友的經驗嗎？當時的心情是怎樣？若沒有，能否說說你見過最感人的送別場面？\n\n2. 所謂「睹物思人」，你有沒有收過具紀念價值的物品呢？當你看到這些物品時會想起甚麼？\n\n3. 說說你在宿營或旅行時，初到陌生環境的感受；若要長期在外地生活，你的心情會是怎樣的？",
+    "annotations": "1.橫：橫亙，由此端伸延到彼端。\n2.郭：外城，古人在城的外圍加築的一道城牆。\n3.白水：在陽光的照射下，河水像潔白的布帛。\n4.為別：作別。\n5.孤蓬：蓬草，隨風飄轉，比喻將孤身遠行的友人。\n6.征：遠行。\n7.浮雲：飄浮無定的白雲。\n8.游子：「游」通「遊」。離家遠遊的人。\n9.意：心情。\n10.故人情：指詩人與友人惜別之情。\n故人：舊友，此指詩人自己。\n11.故人：舊友，此指詩人自己。\n12.茲：此。\n13.蕭蕭班馬鳴：兩匹即將分道揚鑣的馬昂首嘶鳴。\n蕭蕭：馬鳴聲。\n班馬：離群的馬。\n14.蕭蕭：馬鳴聲。\n15.班馬：離群的馬。"
+  },
+  "annotations": [
+    {
+      "id": "32-1",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 2,
+        "end": 3
+      },
+      "kind": "semantic",
+      "text": "橫亙，由此端伸延到彼端。",
+      "source": "cham"
+    },
+    {
+      "id": "32-2",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 4,
+        "end": 5
+      },
+      "kind": "semantic",
+      "text": "外城，古人在城的外圍加築的一道城牆。",
+      "source": "cham"
+    },
+    {
+      "id": "32-3",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 6,
+        "end": 8
+      },
+      "kind": "semantic",
+      "text": "在陽光的照射下，河水像潔白的布帛。",
+      "source": "cham"
+    },
+    {
+      "id": "32-4",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 1,
+        "start": 3,
+        "end": 5
+      },
+      "kind": "semantic",
+      "text": "作別。",
+      "source": "cham"
+    },
+    {
+      "id": "32-5",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 1,
+        "start": 6,
+        "end": 8
+      },
+      "kind": "semantic",
+      "text": "蓬草，隨風飄轉，比喻將孤身遠行的友人。",
+      "source": "cham"
+    },
+    {
+      "id": "32-6",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 1,
+        "start": 10,
+        "end": 11
+      },
+      "kind": "semantic",
+      "text": "遠行。",
+      "source": "cham"
+    },
+    {
+      "id": "32-7",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 2,
+        "start": 0,
+        "end": 2
+      },
+      "kind": "semantic",
+      "text": "飄浮無定的白雲。",
+      "source": "cham"
+    },
+    {
+      "id": "32-8",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 2,
+        "start": 2,
+        "end": 4
+      },
+      "kind": "semantic",
+      "text": "「游」通「遊」。離家遠遊的人。",
+      "source": "cham"
+    },
+    {
+      "id": "32-9",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 2,
+        "start": 4,
+        "end": 5
+      },
+      "kind": "semantic",
+      "text": "心情。",
+      "source": "cham"
+    },
+    {
+      "id": "32-10",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 2,
+        "start": 8,
+        "end": 11
+      },
+      "kind": "semantic",
+      "text": "指詩人與友人惜別之情。\n故人：舊友，此指詩人自己。",
+      "source": "cham"
+    },
+    {
+      "id": "32-11",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 2,
+        "start": 8,
+        "end": 10
+      },
+      "kind": "semantic",
+      "text": "舊友，此指詩人自己。",
+      "source": "cham"
+    },
+    {
+      "id": "32-12",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 3,
+        "start": 3,
+        "end": 4
+      },
+      "kind": "semantic",
+      "text": "此。",
+      "source": "cham"
+    },
+    {
+      "id": "32-13",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 3,
+        "start": 6,
+        "end": 11
+      },
+      "kind": "semantic",
+      "text": "兩匹即將分道揚鑣的馬昂首嘶鳴。\n蕭蕭：馬鳴聲。\n班馬：離群的馬。",
+      "source": "cham"
+    },
+    {
+      "id": "32-14",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 3,
+        "start": 6,
+        "end": 8
+      },
+      "kind": "semantic",
+      "text": "馬鳴聲。",
+      "source": "cham"
+    },
+    {
+      "id": "32-15",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 3,
+        "start": 8,
+        "end": 10
+      },
+      "kind": "semantic",
+      "text": "離群的馬。",
+      "source": "cham"
+    }
+  ],
+  "structuredSections": [
+    {
+      "key": "analysis",
+      "title": "賞析",
+      "filename": "analysis.md",
+      "body": "古人慣以詩詞送別，這首詩寫李白為友人送行的情境，抒發依依不捨之情。\n\n詩人與友人騎馬走到城外，只見連綿的青山橫亙城北，白水如帶繞向城東。一對摯友在這兒要作別了，友人就要像蓬草一樣，孤身一人飄轉萬里；此去一別，不知何時能再見面。依依惜別之時正值傍晚，天上白雲飄飛，夕陽徐徐落下。游子在外萍蹤無定，就像那天空飄盪的浮雲，真教人惦念；那落日彷彿就是送別友人的自己，經過整日的相送，終歸要告別回家，就如太陽下山的重返大地。但無論多麼不捨，揮手道別的時間終要來到；兩匹馬兒竟向天悲鳴，似乎也難捨難分。\n\n詩的第一、二句描寫城外景色，點出分別的地點。青山橫臥，白水繞城，青、白相映，動、靜相間，一派山青水秀旖旎風光，充滿詩情畫意。第三、四句，切入正題，抒寫惜別之情。以「孤蓬」比喻友人飄泊無定的生活，十分形象貼切。第五、六句，以象徵手法，借浮雲、落日抒寫惜別之情，聯想自然。第七、八句，寫分手一刻。千里送君，終須一別。此時兩人竟相對無語，僅以頻頻揮手作別，心情的沉重由此可見。末句用兩匹即將分離的馬兒也感受到別離的難堪而仰天悲鳴，打破了沉寂，離情的描寫至此達到全詩的高潮。\n\n綜觀全詩，都是即景喻情，由許多很美麗的畫面，如「青山」、「白水」、「浮雲」、「落日」等來襯托離別的哀愁，在這環境下作別，兩個主角縱有千言萬語亦無從說起，最後以馬鳴作結，具音響效果，把兩人憋了好久的愁緒，一併發洩出來，令人黯然。\n\n這是一首五言律詩。通常律詩在頷聯（第三、四句）、頸聯（第五、六句）用對仗，而本詩在首聯即用對仗，別具一格；且三聯都對偶工巧，使詩歌的節奏更加明快。",
+      "order": 3
+    },
+    {
+      "key": "think_questions",
+      "title": "思考問題",
+      "filename": "think-questions.md",
+      "body": "1. 你有送別親朋好友的經驗嗎？當時的心情是怎樣？若沒有，能否說說你見過最感人的送別場面？\n\n2. 所謂「睹物思人」，你有沒有收過具紀念價值的物品呢？當你看到這些物品時會想起甚麼？\n\n3. 說說你在宿營或旅行時，初到陌生環境的感受；若要長期在外地生活，你的心情會是怎樣的？",
+      "order": 5
+    },
+    {
+      "key": "preparation",
+      "title": "教學準備",
+      "filename": "preparation.md",
+      "body": "1. 聆聽誦讀錄音，投入感情朗讀本詩。 https://www.edb.gov.hk/attachment/tc/curriculum-development/kla/chi-edu/resources/primary/lang/jilei/032_jilei_shi(cantonese).mp3\n\n2. 網上小遊戲：《古文知多少‧送友人》 https://game.hkedcity.net/chigame/index.php?game_id=5a3a32f5ac7f84ea17aec97f&type=ccancient&level=J\n\n3. 請畫一張惜別卡，送給將要轉校或到外地升學的好朋友。",
+      "order": 6
+    }
+  ]
+}

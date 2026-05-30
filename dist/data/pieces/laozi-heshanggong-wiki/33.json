@@ -1,0 +1,279 @@
+{
+  "bookId": "laozi-heshanggong-wiki",
+  "num": 33,
+  "title": "第三十三章（辯德）",
+  "author": "老子",
+  "authorId": "Laozi",
+  "dynasty": "周",
+  "era": "周",
+  "genre": "prose",
+  "verses": [
+    {
+      "text": "知人者智，"
+    },
+    {
+      "text": "自知者明。"
+    },
+    {
+      "text": "勝人者有力，"
+    },
+    {
+      "text": "自勝者強。"
+    },
+    {
+      "text": "知足者富，"
+    },
+    {
+      "text": "強行者有志，"
+    },
+    {
+      "text": "不失其所者久，"
+    },
+    {
+      "text": "死而不亡者壽。"
+    }
+  ],
+  "sections": {},
+  "annotations": [],
+  "layers": {
+    "heshanggong": [
+      {
+        "id": "heshanggong-1",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 5
+        },
+        "kind": "commentary",
+        "text": "能知人好惡，是為智。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-2",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 0,
+          "end": 5
+        },
+        "kind": "commentary",
+        "text": "人能自知賢與不肖，是為反聽無聲，內視無形，故為明也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-3",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 2,
+          "start": 0,
+          "end": 6
+        },
+        "kind": "commentary",
+        "text": "能勝人者，不過以威力也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-4",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 3,
+          "start": 0,
+          "end": 5
+        },
+        "kind": "commentary",
+        "text": "人能自勝己情欲，則天下無有能與己爭者，故為強也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-5",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 4,
+          "start": 0,
+          "end": 5
+        },
+        "kind": "commentary",
+        "text": "人能知足，則長保福祿，故為富也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-6",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 5,
+          "start": 0,
+          "end": 6
+        },
+        "kind": "commentary",
+        "text": "人能強力行善，則為有意於道，道亦有意於人。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-7",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 6,
+          "start": 0,
+          "end": 7
+        },
+        "kind": "commentary",
+        "text": "人能自節養，不失其所受天之精氣，則可以久。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-8",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 7,
+          "start": 0,
+          "end": 7
+        },
+        "kind": "commentary",
+        "text": "目不妄視，耳不妄聽，口不妄言，則無怨惡於天下，故長壽。",
+        "source": "cham"
+      }
+    ]
+  },
+  "annotationLayers": [
+    {
+      "id": "default",
+      "label": "原文",
+      "shortLabel": "文",
+      "contributor": "Laozi",
+      "role": "author",
+      "nature": "annotation",
+      "displayOrder": 0,
+      "enabled": true,
+      "annotations": []
+    },
+    {
+      "id": "heshanggong",
+      "label": "河上公註",
+      "shortLabel": "河",
+      "contributor": "C002",
+      "role": "commentator",
+      "nature": "commentary",
+      "displayOrder": 1,
+      "enabled": true,
+      "annotations": [
+        {
+          "id": "heshanggong-1",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 5
+          },
+          "kind": "commentary",
+          "text": "能知人好惡，是為智。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-2",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 1,
+            "start": 0,
+            "end": 5
+          },
+          "kind": "commentary",
+          "text": "人能自知賢與不肖，是為反聽無聲，內視無形，故為明也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-3",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 2,
+            "start": 0,
+            "end": 6
+          },
+          "kind": "commentary",
+          "text": "能勝人者，不過以威力也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-4",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 3,
+            "start": 0,
+            "end": 5
+          },
+          "kind": "commentary",
+          "text": "人能自勝己情欲，則天下無有能與己爭者，故為強也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-5",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 4,
+            "start": 0,
+            "end": 5
+          },
+          "kind": "commentary",
+          "text": "人能知足，則長保福祿，故為富也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-6",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 5,
+            "start": 0,
+            "end": 6
+          },
+          "kind": "commentary",
+          "text": "人能強力行善，則為有意於道，道亦有意於人。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-7",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 6,
+            "start": 0,
+            "end": 7
+          },
+          "kind": "commentary",
+          "text": "人能自節養，不失其所受天之精氣，則可以久。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-8",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 7,
+            "start": 0,
+            "end": 7
+          },
+          "kind": "commentary",
+          "text": "目不妄視，耳不妄聽，口不妄言，則無怨惡於天下，故長壽。",
+          "source": "cham"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "textRef": "laozi-heshanggong-wiki",
+    "relation": "section"
+  }
+}

@@ -1,0 +1,954 @@
+{
+  "bookId": "laozi-boshu",
+  "num": 41,
+  "title": "第四十一章（聞道）",
+  "author": "老子",
+  "authorId": "Laozi",
+  "dynasty": "周",
+  "era": "周",
+  "genre": "prose",
+  "verses": [
+    {
+      "text": "上士聞道 堇而行之 中士聞道 若存若亡 下士聞道 大笑之 弗笑 不足以為道"
+    },
+    {
+      "text": "是以建言有之曰 明道如費 進道如退 夷道如纇 上德如浴 大白如辱 廣德如不足 建德如偷 質真如渝 大方无隅 大器免成 大音希聲 天象无形 道殷无名"
+    },
+    {
+      "text": "夫唯道 善始且善成"
+    }
+  ],
+  "sections": {},
+  "annotations": [],
+  "layers": {
+    "heshanggong": [
+      {
+        "id": "heshanggong-1",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 37
+        },
+        "kind": "commentary",
+        "text": "上士聞道，自勤苦竭力而行之。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-2",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 10,
+          "end": 11
+        },
+        "kind": "commentary",
+        "text": "中士聞道，治身以長存，治國以太平，欣然而存之，退見財色榮譽，惑於情欲，而覆亡之也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-3",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 20,
+          "end": 21
+        },
+        "kind": "commentary",
+        "text": "下士貪狠多欲，見道柔弱，謂之恐懼。見道質樸，謂之鄙陋。故大笑之。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-4",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 37
+        },
+        "kind": "commentary",
+        "text": "不為下士所笑，不足以名為道。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-5",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 37
+        },
+        "kind": "commentary",
+        "text": "建，設也。設言以有道，當如下句。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-6",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 37
+        },
+        "kind": "commentary",
+        "text": "明道之人，若闇昧無所見。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-7",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 37
+        },
+        "kind": "commentary",
+        "text": "進取道者，若退不及。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-8",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 37
+        },
+        "kind": "commentary",
+        "text": "夷，平也。大道之人不自別殊，若多比類也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-9",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 37
+        },
+        "kind": "commentary",
+        "text": "上德之人若深谷，不恥垢濁也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-10",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 37
+        },
+        "kind": "commentary",
+        "text": "大潔白之人若汙辱，不自彰顯。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-11",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 37
+        },
+        "kind": "commentary",
+        "text": "德行廣大之人，若愚頑不足也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-12",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 37
+        },
+        "kind": "commentary",
+        "text": "建設道德之人，若可偷引使空虛也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-13",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 37
+        },
+        "kind": "commentary",
+        "text": "質樸之人，若五色有渝淺不明也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-14",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 49,
+          "end": 50
+        },
+        "kind": "commentary",
+        "text": "大方正之人，無委屈廉隅。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-15",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 0,
+          "end": 73
+        },
+        "kind": "commentary",
+        "text": "大器之人，若九鼎瑚璉，不可卒成也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-16",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 59,
+          "end": 60
+        },
+        "kind": "commentary",
+        "text": "大音猶雷霆待時而動，喻當愛氣希言也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-17",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 0,
+          "end": 73
+        },
+        "kind": "commentary",
+        "text": "大法象之人，質樸無形容。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-18",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 0,
+          "end": 73
+        },
+        "kind": "commentary",
+        "text": "道潛隱，使人無能指名也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-19",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 0,
+          "end": 73
+        },
+        "kind": "commentary",
+        "text": "成，就也。言道善稟貸人精氣，且成就之也。",
+        "source": "cham"
+      }
+    ],
+    "wangbi": [
+      {
+        "id": "wangbi-1",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 37
+        },
+        "kind": "commentary",
+        "text": "有志也。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-2",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 37
+        },
+        "kind": "commentary",
+        "text": "建，猶立也。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-3",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 37
+        },
+        "kind": "commentary",
+        "text": "光而不耀。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-4",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 37
+        },
+        "kind": "commentary",
+        "text": "後其身而身先，外其身而身存。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-5",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 37
+        },
+        "kind": "commentary",
+        "text": "纇，㘨也。大夷之道，因物之性，不執平以割物，其平不見，乃更反若纇㘨也。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-6",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 37
+        },
+        "kind": "commentary",
+        "text": "不德其德，無所懷也。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-7",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 37
+        },
+        "kind": "commentary",
+        "text": "知其白，守其黑，大白然後乃得。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-8",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 37
+        },
+        "kind": "commentary",
+        "text": "廣德不盈，廓然無形，不可滿也。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-9",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 37
+        },
+        "kind": "commentary",
+        "text": "偷，匹也。建德者，因物自然，不立不施，故若偷匹。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-10",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 37
+        },
+        "kind": "commentary",
+        "text": "質真者，不矜其真，故渝。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-11",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 49,
+          "end": 50
+        },
+        "kind": "commentary",
+        "text": "方而不割，故無隅也。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-12",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 0,
+          "end": 73
+        },
+        "kind": "commentary",
+        "text": "大器成天下不持全別，故必晚成也。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-13",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 59,
+          "end": 60
+        },
+        "kind": "commentary",
+        "text": "聽之不聞名曰希，不可得聞之音也。有聲則有分，有分則不宮而商矣，分則不能統眾，故有聲者非大音也。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-14",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 0,
+          "end": 73
+        },
+        "kind": "commentary",
+        "text": "有形則有分，有分者不溫則炎，不炎則寒。故象而形者，非大象。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-15",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 0,
+          "end": 73
+        },
+        "kind": "commentary",
+        "text": "凡此諸善，皆是道之所成也。在象則為大象，而大象無形。在音則為大音，而大音希聲。物以之成而不見其成形，故隱而無名也。貸之非唯供其乏而已，一貸之則足以永終其德，故曰善貸也。成之不如機匠之裁，無物而不濟其形，故曰善成。",
+        "source": "cham"
+      }
+    ]
+  },
+  "annotationLayers": [
+    {
+      "id": "default",
+      "label": "原文",
+      "shortLabel": "文",
+      "contributor": "Laozi",
+      "role": "author",
+      "nature": "annotation",
+      "displayOrder": 0,
+      "enabled": true,
+      "annotations": []
+    },
+    {
+      "id": "heshanggong",
+      "label": "河上公註",
+      "shortLabel": "河",
+      "contributor": "C002",
+      "role": "commentator",
+      "nature": "commentary",
+      "displayOrder": 1,
+      "enabled": true,
+      "annotations": [
+        {
+          "id": "heshanggong-1",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 37
+          },
+          "kind": "commentary",
+          "text": "上士聞道，自勤苦竭力而行之。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-2",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 10,
+            "end": 11
+          },
+          "kind": "commentary",
+          "text": "中士聞道，治身以長存，治國以太平，欣然而存之，退見財色榮譽，惑於情欲，而覆亡之也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-3",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 20,
+            "end": 21
+          },
+          "kind": "commentary",
+          "text": "下士貪狠多欲，見道柔弱，謂之恐懼。見道質樸，謂之鄙陋。故大笑之。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-4",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 37
+          },
+          "kind": "commentary",
+          "text": "不為下士所笑，不足以名為道。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-5",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 37
+          },
+          "kind": "commentary",
+          "text": "建，設也。設言以有道，當如下句。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-6",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 37
+          },
+          "kind": "commentary",
+          "text": "明道之人，若闇昧無所見。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-7",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 37
+          },
+          "kind": "commentary",
+          "text": "進取道者，若退不及。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-8",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 37
+          },
+          "kind": "commentary",
+          "text": "夷，平也。大道之人不自別殊，若多比類也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-9",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 37
+          },
+          "kind": "commentary",
+          "text": "上德之人若深谷，不恥垢濁也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-10",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 37
+          },
+          "kind": "commentary",
+          "text": "大潔白之人若汙辱，不自彰顯。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-11",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 37
+          },
+          "kind": "commentary",
+          "text": "德行廣大之人，若愚頑不足也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-12",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 37
+          },
+          "kind": "commentary",
+          "text": "建設道德之人，若可偷引使空虛也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-13",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 37
+          },
+          "kind": "commentary",
+          "text": "質樸之人，若五色有渝淺不明也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-14",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 1,
+            "start": 49,
+            "end": 50
+          },
+          "kind": "commentary",
+          "text": "大方正之人，無委屈廉隅。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-15",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 1,
+            "start": 0,
+            "end": 73
+          },
+          "kind": "commentary",
+          "text": "大器之人，若九鼎瑚璉，不可卒成也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-16",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 1,
+            "start": 59,
+            "end": 60
+          },
+          "kind": "commentary",
+          "text": "大音猶雷霆待時而動，喻當愛氣希言也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-17",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 1,
+            "start": 0,
+            "end": 73
+          },
+          "kind": "commentary",
+          "text": "大法象之人，質樸無形容。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-18",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 1,
+            "start": 0,
+            "end": 73
+          },
+          "kind": "commentary",
+          "text": "道潛隱，使人無能指名也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-19",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 1,
+            "start": 0,
+            "end": 73
+          },
+          "kind": "commentary",
+          "text": "成，就也。言道善稟貸人精氣，且成就之也。",
+          "source": "cham"
+        }
+      ]
+    },
+    {
+      "id": "wangbi",
+      "label": "王弼註",
+      "shortLabel": "王",
+      "contributor": "C001",
+      "role": "commentator",
+      "nature": "commentary",
+      "displayOrder": 2,
+      "enabled": true,
+      "annotations": [
+        {
+          "id": "wangbi-1",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 37
+          },
+          "kind": "commentary",
+          "text": "有志也。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-2",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 37
+          },
+          "kind": "commentary",
+          "text": "建，猶立也。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-3",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 37
+          },
+          "kind": "commentary",
+          "text": "光而不耀。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-4",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 37
+          },
+          "kind": "commentary",
+          "text": "後其身而身先，外其身而身存。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-5",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 37
+          },
+          "kind": "commentary",
+          "text": "纇，㘨也。大夷之道，因物之性，不執平以割物，其平不見，乃更反若纇㘨也。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-6",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 37
+          },
+          "kind": "commentary",
+          "text": "不德其德，無所懷也。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-7",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 37
+          },
+          "kind": "commentary",
+          "text": "知其白，守其黑，大白然後乃得。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-8",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 37
+          },
+          "kind": "commentary",
+          "text": "廣德不盈，廓然無形，不可滿也。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-9",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 37
+          },
+          "kind": "commentary",
+          "text": "偷，匹也。建德者，因物自然，不立不施，故若偷匹。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-10",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 37
+          },
+          "kind": "commentary",
+          "text": "質真者，不矜其真，故渝。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-11",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 1,
+            "start": 49,
+            "end": 50
+          },
+          "kind": "commentary",
+          "text": "方而不割，故無隅也。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-12",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 1,
+            "start": 0,
+            "end": 73
+          },
+          "kind": "commentary",
+          "text": "大器成天下不持全別，故必晚成也。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-13",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 1,
+            "start": 59,
+            "end": 60
+          },
+          "kind": "commentary",
+          "text": "聽之不聞名曰希，不可得聞之音也。有聲則有分，有分則不宮而商矣，分則不能統眾，故有聲者非大音也。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-14",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 1,
+            "start": 0,
+            "end": 73
+          },
+          "kind": "commentary",
+          "text": "有形則有分，有分者不溫則炎，不炎則寒。故象而形者，非大象。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-15",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 1,
+            "start": 0,
+            "end": 73
+          },
+          "kind": "commentary",
+          "text": "凡此諸善，皆是道之所成也。在象則為大象，而大象無形。在音則為大音，而大音希聲。物以之成而不見其成形，故隱而無名也。貸之非唯供其乏而已，一貸之則足以永終其德，故曰善貸也。成之不如機匠之裁，無物而不濟其形，故曰善成。",
+          "source": "cham"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "textRef": "laozi-boshu",
+    "relation": "section"
+  }
+}

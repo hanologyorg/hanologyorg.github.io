@@ -1,0 +1,17 @@
+{
+  "id": "A173",
+  "name": "墨子",
+  "era": "春秋",
+  "eraCode": "",
+  "workCount": 1,
+  "names": [],
+  "bio": "",
+  "bioSource": "",
+  "ctext": 541908,
+  "wikidata": "Q272411",
+  "wikipediaZh": "https://zh.wikipedia.org/wiki/%E5%A2%A8%E5%AD%90",
+  "wikipediaEn": "https://en.wikipedia.org/wiki/Mozi",
+  "works": [
+    "primary-culture/43"
+  ]
+}

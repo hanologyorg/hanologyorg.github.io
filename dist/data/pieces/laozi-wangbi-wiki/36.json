@@ -1,0 +1,105 @@
+{
+  "bookId": "laozi-wangbi-wiki",
+  "num": 36,
+  "title": "第三十六章",
+  "author": "老子",
+  "authorId": "Laozi",
+  "dynasty": "周",
+  "era": "周",
+  "genre": "prose",
+  "verses": [
+    {
+      "text": "將欲歙之，必固張之；將欲弱之，必固強之；將欲廢之，必固興之；將欲奪之，必固與之。是謂微明。"
+    },
+    {
+      "text": "柔弱勝剛強。魚不可脫於淵，國之利器不可以示人。"
+    }
+  ],
+  "sections": {},
+  "annotations": [],
+  "layers": {
+    "wangbi": [
+      {
+        "id": "wangbi-1",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 45
+        },
+        "kind": "commentary",
+        "text": "將欲除强梁，去暴亂，當以此四者。因物之性，令其自戮，不假刑為大，以除將物也，故曰微明也。足其張，令之足，而又求其張，則眾所歙也，與其張之不足，而改其求張者，愈益而已反危。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-2",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 0,
+          "end": 23
+        },
+        "kind": "commentary",
+        "text": "利器，利國之器也。唯因物之性，不假刑以理物，器不可覩，而物各得其所，則國之利器也。示人者，任刑也。刑以利國則失矣。魚脫於淵，則必見失矣。利國器而立刑以示人，亦必失也。",
+        "source": "cham"
+      }
+    ]
+  },
+  "annotationLayers": [
+    {
+      "id": "default",
+      "label": "原文",
+      "shortLabel": "文",
+      "contributor": "Laozi",
+      "role": "author",
+      "nature": "annotation",
+      "displayOrder": 0,
+      "enabled": true,
+      "annotations": []
+    },
+    {
+      "id": "wangbi",
+      "label": "王弼註",
+      "shortLabel": "王",
+      "contributor": "C001",
+      "role": "commentator",
+      "nature": "commentary",
+      "displayOrder": 1,
+      "enabled": true,
+      "annotations": [
+        {
+          "id": "wangbi-1",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 45
+          },
+          "kind": "commentary",
+          "text": "將欲除强梁，去暴亂，當以此四者。因物之性，令其自戮，不假刑為大，以除將物也，故曰微明也。足其張，令之足，而又求其張，則眾所歙也，與其張之不足，而改其求張者，愈益而已反危。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-2",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 1,
+            "start": 0,
+            "end": 23
+          },
+          "kind": "commentary",
+          "text": "利器，利國之器也。唯因物之性，不假刑以理物，器不可覩，而物各得其所，則國之利器也。示人者，任刑也。刑以利國則失矣。魚脫於淵，則必見失矣。利國器而立刑以示人，亦必失也。",
+          "source": "cham"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "textRef": "laozi-wangbi-wiki",
+    "relation": "section"
+  }
+}

@@ -1,0 +1,1 @@
+function e(e){let t=String(e);return t.length<=2?`<span style="text-combine-upright:all">${t}</span>`:t}export{e as t};

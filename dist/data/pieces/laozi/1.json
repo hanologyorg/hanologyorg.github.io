@@ -1,0 +1,287 @@
+{
+  "bookId": "laozi",
+  "num": 1,
+  "title": "第一章",
+  "author": "老子",
+  "authorId": "Laozi",
+  "dynasty": "周",
+  "era": "周",
+  "genre": "prose",
+  "verses": [
+    {
+      "text": "道，可道也，非恆道也。"
+    },
+    {
+      "text": "名，可名也，非恆名也。"
+    },
+    {
+      "text": "無名萬物之始也，有名萬物之母也。"
+    },
+    {
+      "text": "故：恆無欲也，以觀其眇；恆有欲也，以觀其徼。"
+    },
+    {
+      "text": "两者同出，異名同謂。"
+    },
+    {
+      "text": "玄之又玄，眾妙之門。"
+    }
+  ],
+  "sections": {},
+  "annotations": [],
+  "layers": {
+    "hesonggong": [
+      {
+        "id": "hesonggong-1",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 11
+        },
+        "kind": "semantic",
+        "text": "人能常行道，即合於道。能常名道，即得道意。",
+        "source": "cham"
+      },
+      {
+        "id": "hesonggong-2",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 2,
+          "start": 0,
+          "end": 16
+        },
+        "kind": "semantic",
+        "text": "無名，謂道未生萬物時。有名，謂道生萬物後。",
+        "source": "cham"
+      },
+      {
+        "id": "hesonggong-3",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 3,
+          "start": 0,
+          "end": 22
+        },
+        "kind": "semantic",
+        "text": "常無欲，則知道之微妙。常有欲，則知物之所起。",
+        "source": "cham"
+      },
+      {
+        "id": "hesonggong-4",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 4,
+          "start": 0,
+          "end": 10
+        },
+        "kind": "semantic",
+        "text": "玄，天也。天中復有天焉。玄者，深遠也。言道深遠無窮極，妙本在一，一數之始也。",
+        "source": "cham"
+      }
+    ],
+    "wangbi": [
+      {
+        "id": "wangbi-1",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 11
+        },
+        "kind": "semantic",
+        "text": "可道之道，可名之名，指事造形，非其常也。故不可道，不可名也。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-2",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 2,
+          "start": 0,
+          "end": 16
+        },
+        "kind": "semantic",
+        "text": "無名，則物之始也；有名，則物之母也。始，所以未形。母，所以既形。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-3",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 3,
+          "start": 0,
+          "end": 22
+        },
+        "kind": "semantic",
+        "text": "滌除玄鑒，涉有名之境，即觀其所徼；以無名之妙，即觀其所眇。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-4",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 4,
+          "start": 0,
+          "end": 10
+        },
+        "kind": "semantic",
+        "text": "同出者，同出於道也。異名者，有無之名異也。同謂者，同謂之為道也。",
+        "source": "cham"
+      }
+    ]
+  },
+  "annotationLayers": [
+    {
+      "id": "default",
+      "label": "原文",
+      "shortLabel": "文",
+      "contributor": "Laozi",
+      "role": "author",
+      "nature": "annotation",
+      "displayOrder": 0,
+      "enabled": true,
+      "annotations": []
+    },
+    {
+      "id": "wangbi",
+      "label": "王弼註",
+      "shortLabel": "王",
+      "contributor": "C001",
+      "role": "commentator",
+      "nature": "commentary",
+      "displayOrder": 1,
+      "enabled": true,
+      "annotations": [
+        {
+          "id": "wangbi-1",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 11
+          },
+          "kind": "semantic",
+          "text": "可道之道，可名之名，指事造形，非其常也。故不可道，不可名也。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-2",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 2,
+            "start": 0,
+            "end": 16
+          },
+          "kind": "semantic",
+          "text": "無名，則物之始也；有名，則物之母也。始，所以未形。母，所以既形。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-3",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 3,
+            "start": 0,
+            "end": 22
+          },
+          "kind": "semantic",
+          "text": "滌除玄鑒，涉有名之境，即觀其所徼；以無名之妙，即觀其所眇。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-4",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 4,
+            "start": 0,
+            "end": 10
+          },
+          "kind": "semantic",
+          "text": "同出者，同出於道也。異名者，有無之名異也。同謂者，同謂之為道也。",
+          "source": "cham"
+        }
+      ]
+    },
+    {
+      "id": "hesonggong",
+      "label": "河上公註",
+      "shortLabel": "河",
+      "contributor": "C002",
+      "role": "commentator",
+      "nature": "commentary",
+      "displayOrder": 2,
+      "enabled": true,
+      "annotations": [
+        {
+          "id": "hesonggong-1",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 11
+          },
+          "kind": "semantic",
+          "text": "人能常行道，即合於道。能常名道，即得道意。",
+          "source": "cham"
+        },
+        {
+          "id": "hesonggong-2",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 2,
+            "start": 0,
+            "end": 16
+          },
+          "kind": "semantic",
+          "text": "無名，謂道未生萬物時。有名，謂道生萬物後。",
+          "source": "cham"
+        },
+        {
+          "id": "hesonggong-3",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 3,
+            "start": 0,
+            "end": 22
+          },
+          "kind": "semantic",
+          "text": "常無欲，則知道之微妙。常有欲，則知物之所起。",
+          "source": "cham"
+        },
+        {
+          "id": "hesonggong-4",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 4,
+            "start": 0,
+            "end": 10
+          },
+          "kind": "semantic",
+          "text": "玄，天也。天中復有天焉。玄者，深遠也。言道深遠無窮極，妙本在一，一數之始也。",
+          "source": "cham"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "textRef": "laozi",
+    "relation": "section"
+  }
+}

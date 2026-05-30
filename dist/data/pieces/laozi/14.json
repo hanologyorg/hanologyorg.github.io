@@ -1,0 +1,232 @@
+{
+  "bookId": "laozi",
+  "num": 14,
+  "title": "第十四章",
+  "author": "老子",
+  "authorId": "Laozi",
+  "dynasty": "周",
+  "era": "周",
+  "genre": "prose",
+  "verses": [
+    {
+      "text": "視之不見名曰夷，聽之不聞名曰希，搏之不得名曰微。"
+    },
+    {
+      "text": "此三者不可致詰，故混而為一。"
+    },
+    {
+      "text": "其上不皦，其下不昧。繩繩不可名，復歸於無物。"
+    },
+    {
+      "text": "是謂無狀之狀，無物之象，是謂惚恍。"
+    },
+    {
+      "text": "迎之不見其首，隨之不見其後。"
+    }
+  ],
+  "sections": {},
+  "annotations": [],
+  "layers": {
+    "hesonggong": [
+      {
+        "id": "hesonggong-1",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 24
+        },
+        "kind": "semantic",
+        "text": "道非色故不可見，非聲故不可聞，非形故不可扪握。此三者微妙無形，故不可致詰，混合為一。",
+        "source": "cham"
+      },
+      {
+        "id": "hesonggong-2",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 2,
+          "start": 0,
+          "end": 22
+        },
+        "kind": "semantic",
+        "text": "道上不明，下不昧，延長無窮，不可名字，復歸於無形無物。是謂無狀之狀，無物之象，是謂惚恍。",
+        "source": "cham"
+      },
+      {
+        "id": "hesonggong-3",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 4,
+          "start": 0,
+          "end": 14
+        },
+        "kind": "semantic",
+        "text": "迎之不見其首，隨之不見其後，言道無端無末也。",
+        "source": "cham"
+      }
+    ],
+    "wangbi": [
+      {
+        "id": "wangbi-1",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 24
+        },
+        "kind": "semantic",
+        "text": "道之微妙，不可見聞觸知，混而為一，不可分別。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-2",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 2,
+          "start": 0,
+          "end": 22
+        },
+        "kind": "semantic",
+        "text": "道體玄妙，上不明，下不昧，無狀無象，惚恍難名。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-3",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 4,
+          "start": 0,
+          "end": 14
+        },
+        "kind": "semantic",
+        "text": "道無始無終，故迎之不見首，隨之不見後。",
+        "source": "cham"
+      }
+    ]
+  },
+  "annotationLayers": [
+    {
+      "id": "default",
+      "label": "原文",
+      "shortLabel": "文",
+      "contributor": "Laozi",
+      "role": "author",
+      "nature": "annotation",
+      "displayOrder": 0,
+      "enabled": true,
+      "annotations": []
+    },
+    {
+      "id": "wangbi",
+      "label": "王弼註",
+      "shortLabel": "王",
+      "contributor": "C001",
+      "role": "commentator",
+      "nature": "commentary",
+      "displayOrder": 1,
+      "enabled": true,
+      "annotations": [
+        {
+          "id": "wangbi-1",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 24
+          },
+          "kind": "semantic",
+          "text": "道之微妙，不可見聞觸知，混而為一，不可分別。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-2",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 2,
+            "start": 0,
+            "end": 22
+          },
+          "kind": "semantic",
+          "text": "道體玄妙，上不明，下不昧，無狀無象，惚恍難名。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-3",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 4,
+            "start": 0,
+            "end": 14
+          },
+          "kind": "semantic",
+          "text": "道無始無終，故迎之不見首，隨之不見後。",
+          "source": "cham"
+        }
+      ]
+    },
+    {
+      "id": "hesonggong",
+      "label": "河上公註",
+      "shortLabel": "河",
+      "contributor": "C002",
+      "role": "commentator",
+      "nature": "commentary",
+      "displayOrder": 2,
+      "enabled": true,
+      "annotations": [
+        {
+          "id": "hesonggong-1",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 24
+          },
+          "kind": "semantic",
+          "text": "道非色故不可見，非聲故不可聞，非形故不可扪握。此三者微妙無形，故不可致詰，混合為一。",
+          "source": "cham"
+        },
+        {
+          "id": "hesonggong-2",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 2,
+            "start": 0,
+            "end": 22
+          },
+          "kind": "semantic",
+          "text": "道上不明，下不昧，延長無窮，不可名字，復歸於無形無物。是謂無狀之狀，無物之象，是謂惚恍。",
+          "source": "cham"
+        },
+        {
+          "id": "hesonggong-3",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 4,
+            "start": 0,
+            "end": 14
+          },
+          "kind": "semantic",
+          "text": "迎之不見其首，隨之不見其後，言道無端無末也。",
+          "source": "cham"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "textRef": "laozi",
+    "relation": "section"
+  }
+}

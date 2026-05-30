@@ -1,0 +1,192 @@
+{
+  "bookId": "laozi-wangbi-wiki",
+  "num": 57,
+  "title": "第五十七章",
+  "author": "老子",
+  "authorId": "Laozi",
+  "dynasty": "周",
+  "era": "周",
+  "genre": "prose",
+  "verses": [
+    {
+      "text": "以正治國，以奇用兵，以無事取天下。"
+    },
+    {
+      "text": "吾何以知其然哉？以此。天下多忌諱，而民彌貧；民多利器，國家滋昬；"
+    },
+    {
+      "text": "人多伎巧，奇物滋起；"
+    },
+    {
+      "text": "法令滋彰，盜賊多有。"
+    },
+    {
+      "text": "故聖人云﹕「我無為而民自化，我好靜而民自正，我無事而民自富，我無欲而民自樸。」"
+    }
+  ],
+  "sections": {},
+  "annotations": [],
+  "layers": {
+    "wangbi": [
+      {
+        "id": "wangbi-1",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 17
+        },
+        "kind": "commentary",
+        "text": "以道治國則國平，以正治國則奇正起也，以無事則能取天下也。上章云：其取天下者，常以無事，及其有事，又不足以取天下也。故以正治國則不足以取天下，而以奇用兵也。夫以道治國，崇本以息末，以正治國，立辟以攻末，本不立而末淺，民無所及，故必至於奇用兵也。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-2",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 0,
+          "end": 32
+        },
+        "kind": "commentary",
+        "text": "利器，凡所以利己之器也。民强則國家弱。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-3",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 2,
+          "start": 0,
+          "end": 10
+        },
+        "kind": "commentary",
+        "text": "民多智慧則巧偽生，巧偽生則邪事起。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-4",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 3,
+          "start": 0,
+          "end": 10
+        },
+        "kind": "commentary",
+        "text": "立正欲以息邪，而奇兵用；多忌諱欲以恥貧，而民彌貧；利器欲以强國者也，而國愈昬多。皆舍本以治末，故以致此也。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-5",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 4,
+          "start": 0,
+          "end": 39
+        },
+        "kind": "commentary",
+        "text": "上之所欲，民從之速也。我之所欲，唯無欲而民亦無欲而自樸也。此四者，崇本以息末也。",
+        "source": "cham"
+      }
+    ]
+  },
+  "annotationLayers": [
+    {
+      "id": "default",
+      "label": "原文",
+      "shortLabel": "文",
+      "contributor": "Laozi",
+      "role": "author",
+      "nature": "annotation",
+      "displayOrder": 0,
+      "enabled": true,
+      "annotations": []
+    },
+    {
+      "id": "wangbi",
+      "label": "王弼註",
+      "shortLabel": "王",
+      "contributor": "C001",
+      "role": "commentator",
+      "nature": "commentary",
+      "displayOrder": 1,
+      "enabled": true,
+      "annotations": [
+        {
+          "id": "wangbi-1",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 17
+          },
+          "kind": "commentary",
+          "text": "以道治國則國平，以正治國則奇正起也，以無事則能取天下也。上章云：其取天下者，常以無事，及其有事，又不足以取天下也。故以正治國則不足以取天下，而以奇用兵也。夫以道治國，崇本以息末，以正治國，立辟以攻末，本不立而末淺，民無所及，故必至於奇用兵也。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-2",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 1,
+            "start": 0,
+            "end": 32
+          },
+          "kind": "commentary",
+          "text": "利器，凡所以利己之器也。民强則國家弱。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-3",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 2,
+            "start": 0,
+            "end": 10
+          },
+          "kind": "commentary",
+          "text": "民多智慧則巧偽生，巧偽生則邪事起。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-4",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 3,
+            "start": 0,
+            "end": 10
+          },
+          "kind": "commentary",
+          "text": "立正欲以息邪，而奇兵用；多忌諱欲以恥貧，而民彌貧；利器欲以强國者也，而國愈昬多。皆舍本以治末，故以致此也。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-5",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 4,
+            "start": 0,
+            "end": 39
+          },
+          "kind": "commentary",
+          "text": "上之所欲，民從之速也。我之所欲，唯無欲而民亦無欲而自樸也。此四者，崇本以息末也。",
+          "source": "cham"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "textRef": "laozi-wangbi-wiki",
+    "relation": "section"
+  }
+}

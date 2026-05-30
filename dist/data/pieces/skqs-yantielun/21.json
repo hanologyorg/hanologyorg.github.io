@@ -1,0 +1,473 @@
+{
+  "bookId": "skqs-yantielun",
+  "num": 21,
+  "title": "復古第六",
+  "author": "桓寬",
+  "authorId": "桓寬",
+  "dynasty": "漢",
+  "era": "漢",
+  "eraCode": "07",
+  "genre": "prose",
+  "verses": [
+    {
+      "text": "大夫曰故扇水都尉彭祖寜歸言鹽鐡令品令品甚明卒徒衣食縣官作鑄鐡器給用甚衆無妨於民而吏或不良禁令不行故民煩苦之今意總一鹽錢非獨為利入也將以建本抑末離朋黨禁淫侈絶并兼之路也古者名山大澤不以封為下之専利也山海之利廣澤之畜天下之藏也皆宜屬少府陛下不私以屬大司農以佐助百姓浮食豪民好欲擅山海之貨以致富業役利細民故沮事議者衆鐡器兵刃天下之大用也非衆庻所宜事也徃者豪强大家得管山海之利採鐵石鼓鑄煑鹽一家聚衆或至千餘人大抵盡收放流人民也逺去鄉里棄墳墓依倚大家聚深山窮澤之中成姦偽之業遂朋黨之權其輕為非亦大矣今自廣進賢之途揀擇守尉不待去鹽鐡而安民也"
+    },
+    {
+      "text": "文學曰扇水都尉所言當時之利權一切之術也不可以久行而傳世此非明王所以君國子民之道也詩云哀哉為猶匪先民是程匪大猶是經維邇言是聽此詩人刺不通於王道而善為權利者孝武皇帝攘九夷平百越師旅數起糧食不足故立田官置錢入榖射官救急澹不給今陛下繼大功之勤養勞勌之民此用麋鬻之時公卿宜思所以安集百姓致利除害輔明主以仁義修潤洪業之道明主即位以來六年于兹公卿無請減除不急之官省罷機利之人人權縣太久民良望於上陛下宣聖徳昭明光令郡國賢良文學之士乗傳詣公車議五帝三王之道六藝之風册陳安危利害之分指意粲然今公卿辯議未有所定此所謂守小節而遺大體抱小利而忘大利者也"
+    },
+    {
+      "text": "大夫曰宇宙之内鷰雀不知天地之高也坎井之鼃不知江海之大窮夫否婦不知國家之慮負荷之商不知猗頓之富先帝計外國之利料胡越之兵兵敵弱而易制用力少而功大故因勢變以主四夷地濵山海以屬長城北畧河外開路匈奴之鄉功未卒善文王受命伐崇作邑于豐武王繼之載尸以行破商擒紂遂成王業曹沫棄三北之耻而復侵地管仲負當世之累而立霸功　故志大者遺小用權者離俗有司思師望之計遂先帝之業志在絶胡貉擒單于故未遑扣扃之義而録拘儒之論"
+    },
+    {
+      "text": "文學曰鷰雀離巢宇而有鷹隼之憂坎井之鼃離其居而有蛇䑕之患况翺翔千仞而游四海乎其禍必大矣此李斯之所以折翼而趙高沒淵也聞文武受命伐不義以安諸侯大夫未聞弊諸夏以役夷狄也昔秦常舉天下之力以事胡越竭天下之財以奉其用然衆不能畢而以百萬之師為一夫之任此天下共聞也且數戰則民勞久師則兵弊此百姓所疾苦而拘儒之所憂也"
+    }
+  ],
+  "sections": {},
+  "annotations": [],
+  "layers": {
+    "commentary": [
+      {
+        "id": "commentary-1",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 65
+        },
+        "kind": "semantic",
+        "text": "去聲",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-2",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 65,
+          "end": 75
+        },
+        "kind": "semantic",
+        "text": "去聲",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-3",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 75,
+          "end": 96
+        },
+        "kind": "semantic",
+        "text": "去聲",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-4",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 96,
+          "end": 113
+        },
+        "kind": "semantic",
+        "text": "去聲",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-5",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 113,
+          "end": 138
+        },
+        "kind": "semantic",
+        "text": "去聲",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-6",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 138,
+          "end": 192
+        },
+        "kind": "semantic",
+        "text": "音注",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-7",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 0,
+          "end": 19
+        },
+        "kind": "semantic",
+        "text": "音砌",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-8",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 19,
+          "end": 92
+        },
+        "kind": "semantic",
+        "text": "音朔",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-9",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 92,
+          "end": 110
+        },
+        "kind": "semantic",
+        "text": "古贍字",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-10",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 110,
+          "end": 112
+        },
+        "kind": "semantic",
+        "text": "食貨志曰元狩二年天子為伐胡故盛養馬馬之徃來食長安者數萬匹率掌者闗中不足廼調旁近郡而胡降者數萬人皆得厚賞衣食仰給縣官縣官不給天子乃損膳解乘輿駟出御府禁藏以贍之其明年山東被水災民多飢乏於是天子遣使空郡國倉廩以賑貧",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-11",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 112,
+          "end": 123
+        },
+        "kind": "semantic",
+        "text": "音倦",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-12",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 123,
+          "end": 131
+        },
+        "kind": "semantic",
+        "text": "釋名曰麋煑米使糜爛粥淖於糜粥粥然也",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-13",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 131,
+          "end": 186
+        },
+        "kind": "semantic",
+        "text": "音懸",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-14",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 186,
+          "end": 212
+        },
+        "kind": "semantic",
+        "text": "去聲",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-15",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 212,
+          "end": 227
+        },
+        "kind": "semantic",
+        "text": "通作䇿",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-16",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 227,
+          "end": 238
+        },
+        "kind": "semantic",
+        "text": "如淳曰律四馬高足為置傳四馬中足為馳傳四馬下足為乗傳一馬二馬為軺傳急者乗一乗傳顔師古曰傳者若今之驛古者以車謂之傳車其後又單置馬謂之驛騎",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-17",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 238,
+          "end": 263
+        },
+        "kind": "fanqie",
+        "text": "雜言曰太公田不足以償種漁不足以償網治天下有餘智文公種米曾子駕羊孫叔敖相楚三年不知軌在衡後務大者固忘小智伯㕑人亡炙𥶷而知之韓魏反而不知邯鄲子陽園人亡桃而知之其亡也不知務小者亦忘大也泰族訓曰夫徹於一事審於一枝可以曲説而未可以廣應也秤薪而㸑數米而炊可以治小而未可以治大也",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-18",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 2,
+          "start": 0,
+          "end": 23
+        },
+        "kind": "semantic",
+        "text": "音蛙",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-19",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 2,
+          "start": 23,
+          "end": 32
+        },
+        "kind": "semantic",
+        "text": "披上聲",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-20",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 2,
+          "start": 32,
+          "end": 41
+        },
+        "kind": "semantic",
+        "text": "音賀",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-21",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 2,
+          "start": 41,
+          "end": 83
+        },
+        "kind": "semantic",
+        "text": "通作瀕近也",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-22",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 2,
+          "start": 83,
+          "end": 113
+        },
+        "kind": "semantic",
+        "text": "指武篇曰文王欲伐崇先宣言曰余聞崇侯虎蔑侮父兄不敬長老聼獄不中分財不均百姓力盡不得衣食余将來征之唯為民乃伐崇令毋殺人毋壊室毋填井毋伐樹木毋動六畜有不如令者死無赦崇人聞之因請降周紀曰崇侯虎謵西伯於紂紂囚西伯於羑里其後赦西伯賜之弓矢鉄鉞得専征伐曰譛西伯者崇侯虎也西伯歸三年伐崇侯虎而作豐邑",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-23",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 2,
+          "start": 113,
+          "end": 129
+        },
+        "kind": "semantic",
+        "text": "周紀曰武王修文王業東觀兵孟津為文王木主載以居中軍自稱太子發言奉文王以伐紂不敢自專遂興師渡于河時諸侯不期而會孟津者八百諸侯皆曰紂可伐武王曰未可也乃還師居二年聞紂昏亂滋甚殺比干囚箕子太師疵少師彊㣲子抱其祭器而犇周於是武王乃渡孟津伐紂紂師皆倒干戈以戰紂軍潰畔紂死周書曰周車三百五十乗陳于牧野帝辛從武王使尚父與伯夫致師王既以虎賁戎車馳商師商師大敗商辛奔内登于廩臺之上屏遮而自燔于火武王乃手太白以麾諸侯諸侯畢拜蓫揖之商庶百姓咸俟于郊羣賔僉進曰上天降休再拜稽首武王答拜先入適王所乃克射之三發而後下車而擊之以輕吕斬之以黄龯折懸諸太白適二女之所乃既縊王又射之三發乃右擊之以輕吕斬之以𤣥龯懸諸小白",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-24",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 2,
+          "start": 129,
+          "end": 151
+        },
+        "kind": "fanqie",
+        "text": "汜論曰昔者曹子為魯将兵三戰不勝亡地千里使曹子計不顧後足不旋踵刎頸於陣中則終身為破軍擒将矣然而曹子不羞其敗耻死而無功柯之盟揄三尺之刃造桓公之胷三戰所亡一朝而反之勇聞於天下功立於魯國管仲輔公子糾而不能遂不可謂智遁逃奔走不死其難不可謂勇束縛桎梏不諱其耻不可謂貞當此三行者布衣弗友人君弗臣然而管仲免於縲絏之中立齊國之政九合諸侯一匡天下使管仲出死捐軀不顧後圖豈有此霸功哉今人君論其臣也不計其大功總其畧行而求小善則失賢之數也魯仲連曰效小節者不能行大威惡小耻者不能立榮名昔管仲射桓公中鈎簒也遺公子糾而不能死怯也束縛桎梏辱身也此三行者鄉里不通也世主不臣也使管仲終窮抑幽囚而不出慙耻而不見窮年沒夀不免為辱人賤行矣然管子并三行之過據齊國之政一匡天下九合諸侯為五伯首名高天下光照鄰國曹沫為魯君三戰三北而䘮地千里使曹子之足不離陳計不顧後出必死而不生則不免為敗軍擒將曹子以敗軍擒將非勇也功廢名滅後世無稱非智也故去三北之耻退而與魯君計也齊桓公有天下朝諸侯曹子以一劔之任刼桓公於壇位之上顧色不變而辭氣不悖三戰之所䘮一朝而反之天下震動驚駭威信呉楚傳名後世若此二公者非不能行小節忍小耻也以為殺身絶世功名不立非智也故去忿恚之心而成終身之名除感忿之耻而立累世之功故業與三王爭流名與天壤相敝也",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-25",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 2,
+          "start": 151,
+          "end": 170
+        },
+        "kind": "semantic",
+        "text": "師望師尚父太公吕望也",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-26",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 2,
+          "start": 170,
+          "end": 182
+        },
+        "kind": "semantic",
+        "text": "音蟬",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-27",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 2,
+          "start": 182,
+          "end": 183
+        },
+        "kind": "semantic",
+        "text": "匈奴酋長曰單于單于廣大貎言象天單于然也",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-28",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 2,
+          "start": 183,
+          "end": 193
+        },
+        "kind": "semantic",
+        "text": "劉向曰論大功者不錄小過舉大美者不疵細瑕",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-29",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 3,
+          "start": 0,
+          "end": 15
+        },
+        "kind": "semantic",
+        "text": "音笋",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-30",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 3,
+          "start": 15,
+          "end": 21
+        },
+        "kind": "semantic",
+        "text": "音蛙",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-31",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 3,
+          "start": 21,
+          "end": 59
+        },
+        "kind": "semantic",
+        "text": "張子曰李斯族誅卒擊於鷹隼趙高車裂終斃於䑕蛇",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-32",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 3,
+          "start": 59,
+          "end": 128
+        },
+        "kind": "semantic",
+        "text": "音朔",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-33",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 3,
+          "start": 128,
+          "end": 147
+        },
+        "kind": "semantic",
+        "text": "伍被曰徃者秦為無道殘賊天下殺術士燔詩書滅聖棄禮義任刑法轉海濵之栗致於西河當是之時男子疾耕不足於糧餽女子紡績不足以葢形遣䝉恬築長城東西數千里𭧂兵露師常數十萬死者不可勝數僵尸滿野流血千里又使尉佗踰五嶺攻百越尉佗知中國勞極止土南越行者不還徃者莫返於是百姓離心瓦解欲為亂者十室而七韓成曰夫秦嘗積衆暴兵數十萬人雖有覆軍殺將係虜單于之功亦適足以結怨深讐不足以償天下之費夫上虚府庫下敝百姓甘心於外國非完事也",
+        "source": "cham"
+      }
+    ]
+  },
+  "annotationLayers": [
+    {
+      "id": "default",
+      "label": "原文",
+      "shortLabel": "文",
+      "contributor": "桓寬",
+      "role": "author",
+      "nature": "annotation",
+      "displayOrder": 0,
+      "enabled": true,
+      "annotations": []
+    }
+  ]
+}

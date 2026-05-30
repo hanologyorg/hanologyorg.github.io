@@ -1,0 +1,463 @@
+{
+  "bookId": "laozi-boshu",
+  "num": 65,
+  "title": "第六十五章（玄德）",
+  "author": "老子",
+  "authorId": "Laozi",
+  "dynasty": "周",
+  "era": "周",
+  "genre": "prose",
+  "verses": [
+    {
+      "text": "故曰 為道者非以明民也 將以愚之也 民之難治也 以亓知也"
+    },
+    {
+      "text": "故以知知邦 邦之賊也 以不知知邦 邦之德也"
+    },
+    {
+      "text": "恆知此兩者 亦稽式也 恆知稽式 此謂玄德"
+    },
+    {
+      "text": "玄德深矣 遠矣 與物反矣 乃至大順"
+    }
+  ],
+  "sections": {},
+  "annotations": [],
+  "layers": {
+    "heshanggong": [
+      {
+        "id": "heshanggong-1",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 28
+        },
+        "kind": "commentary",
+        "text": "說古之善以道治身及治國者，不以道教民明智巧詐也，將以道德教民，使質樸不詐偽。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-2",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 28
+        },
+        "kind": "commentary",
+        "text": "民之所以難治者，以其智多而為巧偽。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-3",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 28
+        },
+        "kind": "commentary",
+        "text": "使智慧之人治國之政事，必遠道德，妄作威福，為國之賊也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-4",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 28
+        },
+        "kind": "commentary",
+        "text": "不使智慧之人治國之政事，則民守正直，不為邪飾，上下相親，君臣同力，故為國之福也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-5",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 28
+        },
+        "kind": "commentary",
+        "text": "兩者謂智與不智也。常能智者為賊，不智者為福，是治身治國之法式也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-6",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 28
+        },
+        "kind": "commentary",
+        "text": "玄，天也。能知治身及治國之法式，是謂與天同德也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-7",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 3,
+          "start": 0,
+          "end": 1
+        },
+        "kind": "commentary",
+        "text": "玄德之人深不可測，遠不可及也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-8",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 3,
+          "start": 8,
+          "end": 9
+        },
+        "kind": "commentary",
+        "text": "玄德之人與萬物反異，萬物欲益己，玄德施與人也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-9",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 3,
+          "start": 0,
+          "end": 17
+        },
+        "kind": "commentary",
+        "text": "玄德與萬物反異，故能至大順。順天理也。",
+        "source": "cham"
+      }
+    ],
+    "wangbi": [
+      {
+        "id": "wangbi-1",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 28
+        },
+        "kind": "commentary",
+        "text": "明謂多見巧詐，蔽其樸也。愚謂無知守真，順自然也。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-2",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 28
+        },
+        "kind": "commentary",
+        "text": "多智巧詐，故難治也。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-3",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 28
+        },
+        "kind": "commentary",
+        "text": "智，猶治也，以智而治國，所以謂之賊者，故謂之智也。民之難治，以其多智也，當務塞兌閉門，令無知無欲，而以智術動民。邪心既動，復以巧術防民之偽，民知其術，防隨而避之，思惟密巧，奸偽益滋，故曰，以智治國，國之賊也。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-4",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 28
+        },
+        "kind": "commentary",
+        "text": "稽，同也。今古之所同，則而不可廢，能知稽式，是謂玄德，玄德深矣，遠矣。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-5",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 3,
+          "start": 8,
+          "end": 9
+        },
+        "kind": "commentary",
+        "text": "反其真也。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-6",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 3,
+          "start": 0,
+          "end": 17
+        },
+        "kind": "commentary",
+        "text": "",
+        "source": "cham"
+      }
+    ]
+  },
+  "annotationLayers": [
+    {
+      "id": "default",
+      "label": "原文",
+      "shortLabel": "文",
+      "contributor": "Laozi",
+      "role": "author",
+      "nature": "annotation",
+      "displayOrder": 0,
+      "enabled": true,
+      "annotations": []
+    },
+    {
+      "id": "heshanggong",
+      "label": "河上公註",
+      "shortLabel": "河",
+      "contributor": "C002",
+      "role": "commentator",
+      "nature": "commentary",
+      "displayOrder": 1,
+      "enabled": true,
+      "annotations": [
+        {
+          "id": "heshanggong-1",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 28
+          },
+          "kind": "commentary",
+          "text": "說古之善以道治身及治國者，不以道教民明智巧詐也，將以道德教民，使質樸不詐偽。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-2",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 28
+          },
+          "kind": "commentary",
+          "text": "民之所以難治者，以其智多而為巧偽。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-3",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 28
+          },
+          "kind": "commentary",
+          "text": "使智慧之人治國之政事，必遠道德，妄作威福，為國之賊也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-4",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 28
+          },
+          "kind": "commentary",
+          "text": "不使智慧之人治國之政事，則民守正直，不為邪飾，上下相親，君臣同力，故為國之福也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-5",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 28
+          },
+          "kind": "commentary",
+          "text": "兩者謂智與不智也。常能智者為賊，不智者為福，是治身治國之法式也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-6",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 28
+          },
+          "kind": "commentary",
+          "text": "玄，天也。能知治身及治國之法式，是謂與天同德也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-7",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 3,
+            "start": 0,
+            "end": 1
+          },
+          "kind": "commentary",
+          "text": "玄德之人深不可測，遠不可及也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-8",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 3,
+            "start": 8,
+            "end": 9
+          },
+          "kind": "commentary",
+          "text": "玄德之人與萬物反異，萬物欲益己，玄德施與人也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-9",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 3,
+            "start": 0,
+            "end": 17
+          },
+          "kind": "commentary",
+          "text": "玄德與萬物反異，故能至大順。順天理也。",
+          "source": "cham"
+        }
+      ]
+    },
+    {
+      "id": "wangbi",
+      "label": "王弼註",
+      "shortLabel": "王",
+      "contributor": "C001",
+      "role": "commentator",
+      "nature": "commentary",
+      "displayOrder": 2,
+      "enabled": true,
+      "annotations": [
+        {
+          "id": "wangbi-1",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 28
+          },
+          "kind": "commentary",
+          "text": "明謂多見巧詐，蔽其樸也。愚謂無知守真，順自然也。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-2",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 28
+          },
+          "kind": "commentary",
+          "text": "多智巧詐，故難治也。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-3",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 28
+          },
+          "kind": "commentary",
+          "text": "智，猶治也，以智而治國，所以謂之賊者，故謂之智也。民之難治，以其多智也，當務塞兌閉門，令無知無欲，而以智術動民。邪心既動，復以巧術防民之偽，民知其術，防隨而避之，思惟密巧，奸偽益滋，故曰，以智治國，國之賊也。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-4",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 28
+          },
+          "kind": "commentary",
+          "text": "稽，同也。今古之所同，則而不可廢，能知稽式，是謂玄德，玄德深矣，遠矣。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-5",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 3,
+            "start": 8,
+            "end": 9
+          },
+          "kind": "commentary",
+          "text": "反其真也。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-6",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 3,
+            "start": 0,
+            "end": 17
+          },
+          "kind": "commentary",
+          "text": "",
+          "source": "cham"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "textRef": "laozi-boshu",
+    "relation": "section"
+  }
+}

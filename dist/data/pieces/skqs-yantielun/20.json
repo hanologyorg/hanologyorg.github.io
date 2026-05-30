@@ -1,0 +1,393 @@
+{
+  "bookId": "skqs-yantielun",
+  "num": 20,
+  "title": "禁耕第五",
+  "author": "桓寬",
+  "authorId": "桓寬",
+  "dynasty": "漢",
+  "era": "漢",
+  "eraCode": "07",
+  "genre": "prose",
+  "verses": [
+    {
+      "text": "大夫曰家人有寳器尚函匣而藏之况人主之山海乎夫權利之處必在深山窮澤之中非豪民不能通其利異時鹽鐡未籠布衣有朐邴人君有呉王皆鹽鐡初議也呉王専山澤之饒薄賦其民賑澹窮小以成私威私威積而逆節之心作夫不蚤絕其源而憂其末若决吕梁沛然其所傷必多矣太公曰一家害百家百家害諸侯諸侯害天下王法禁之令放民於權利罷鹽鐵以資暴强遂其貪心衆邪羣聚私門成黨則强禦日以不制而并兼之徒姦形成也"
+    },
+    {
+      "text": "文學曰民人藏於家諸侯藏於國天子藏於海内故民人以垣墻為藏閉天子以四海為匣匱天子適諸侯升自阼階諸侯納管鍵執䇿而聽命示莫為主也是以王者不畜聚下藏於民逺浮利務民之義義禮立則民化上若是雖湯武生存於世無所容其慮工商之事歐冶之任何姦之能成三桓専魯六卿分晉不以鹽鐡故權利深者不在山海在朝廷一家害百家在蕭墻而不在朐邴也{/16}"
+    },
+    {
+      "text": "大夫曰山海有禁而民不傾貴賤有平而民不疑縣官設衡立凖人從所欲雖使五尺童子適市莫之能欺今罷去之則豪民擅其用而専其利决市閭巷高下在口吻貴賤無常端坐而民豪是以養强抑弱而藏於蹠也强養弱抑則齊民消若衆之盛而害五榖一家害百家不在朐邴如何也"
+    },
+    {
+      "text": "文學曰山海者財用之寳也鐡器者農夫之死生也死生用則仇讐滅仇讐滅則田野闢田野闢則五榖熟而寳路開寳路開則百姓澹而民用給民用給則國富國富而教之以禮則行道有讓而工商不相豫人懐敦樸以自相接而莫相利夫秦楚燕齊土力不同剛柔異勢巨小之用居局之宜黨殊俗易各有所便縣官籠而一之則鐡器失其宜而農民失其便器用不便則農夫罷於野而草萊不辟草萊不辟則民困乏故鹽冶之處大校皆依山川近鐡炭其勢咸逺而作劇郡中踐更者多不勘責取庸代縣邑或以户口賦鐡而賤乎其凖良家以道次發僦運鹽鐡煩費邑或以户百姓病苦之愚竊見一官之傷千里未覩其在朐邴也{/27}"
+    }
+  ],
+  "sections": {},
+  "annotations": [],
+  "layers": {
+    "commentary": [
+      {
+        "id": "commentary-1",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 14
+        },
+        "kind": "semantic",
+        "text": "一作匱",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-2",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 14,
+          "end": 25
+        },
+        "kind": "semantic",
+        "text": "音扶",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-3",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 25,
+          "end": 55
+        },
+        "kind": "semantic",
+        "text": "音劬",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-4",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 55,
+          "end": 56
+        },
+        "kind": "semantic",
+        "text": "音丙",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-5",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 56,
+          "end": 80
+        },
+        "kind": "semantic",
+        "text": "古贍字",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-6",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 80,
+          "end": 95
+        },
+        "kind": "fanqie",
+        "text": "貨殖傳曰魯人俗儉嗇而曹邴氏尤甚以鐡冶起富至巨萬然家自父兄子孫約俛有拾仰有取貰貸行賈徧郡國鄒魯以其故多去文學而趨利者以曹邴氏也或曰以興富於臨朐故曰朐邴呉王傳曰呉有豫章郡銅山濞則招致天下亡命者益鑄錢煑海水為鹽以故無賦國用益饒漢紀曰孝景三年春呉王濞反初上為太子時呉王太子入朝與上博争道無禮於上上以博局擲之而死送䘮至呉呉王怒曰天下一家何必來葬復遣還長安後稱疾不朝隂懐逆謀時齊人鄒陽淮隂人枚乗皆逰呉數諫不聽於是楚趙有罪見削呉王恐禍及身已為使者自見膠西王合謀發使約諸侯七國同謀南使南越北連匈奴伍被曰呉王賜號為劉氏祭酒受几杖而不朝王四郡之衆地方數千里采山銅以為錢煑海水以為鹽伐江陵之木以為船國富民衆行珍寶賂諸侯與七國合謀舉兵而西破大梁敗狐父奔走而還為越所禽死於丹徒頭足異處身㓕祀絶為天下戮",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-7",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 95,
+          "end": 96
+        },
+        "kind": "semantic",
+        "text": "音扶",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-8",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 0,
+          "end": 39
+        },
+        "kind": "semantic",
+        "text": "反質篇曰魏文侯御廩焚文侯素服辟正殿五日羣臣皆素服而弔公子成父獨不弔文侯復殿公子成父趨而入賀曰甚大善矣夫御廩之災也文侯作色不悦曰夫御廩者寡人寳之所藏也今火災寡人素服辟正殿羣臣皆素服而弔至於子大夫而不弔今已復辟矣猶入賀何為公子成父曰臣聞之天子藏於四海之内諸侯藏於境内大夫藏於其家士庻人藏於篋櫝非其所藏者不有天災必有人患今幸無人患乃有天災不亦善乎文侯喟然歎曰善",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-9",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 39,
+          "end": 53
+        },
+        "kind": "semantic",
+        "text": "音健户鑰曰鍵",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-10",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 53,
+          "end": 63
+        },
+        "kind": "semantic",
+        "text": "坊記曰天子四海之内無客禮莫敢為主焉故君適其臣升自阼階即位於堂示民不敢有其室也夷維子曰天子廵狩諸侯辟舍納管籥攝袵袍机視膳於堂下天子已食乃退而聽朝也",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-11",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 63,
+          "end": 74
+        },
+        "kind": "semantic",
+        "text": "政理篇曰文王問於吕望曰為天下若何對曰王國富民覇國富士僅存之國富大夫亡道之國富倉府是謂上溢而下漏文王曰善對曰宿善不祥是日也發其倉府以振鰥寡孤獨詩傳曰晉平公之時藏寳之臺燒士大夫聞皆趨車馳馬救火三日三夜乃勝之公子晏子獨束帛而賀曰甚善矣平公勃然作色曰珠玉之所藏也國之重寳也而天火之士大夫皆趨車走馬而救之子獨束帛而賀何也有説則生無説則死公子晏子曰何敢無説臣聞之王者藏於天下諸侯藏於百姓商賈藏於篋匱今百姓乏於外裋褐不蔽形糟糠不充口而賦斂無已收太半而藏之臺是以天火之且臣聞之昔者桀殘賊海内賦斂無度萬民甚苦是故湯誅之為天下戮𥬇今皇天降災於藏臺是君之福也而不自知變悟亦恐君之為鄰國笑矣公曰善自今以徃請藏於百姓之間",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-12",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 74,
+          "end": 75
+        },
+        "kind": "semantic",
+        "text": "去聲",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-13",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 75,
+          "end": 123
+        },
+        "kind": "semantic",
+        "text": "聖賢羣輔録曰仲孫穀文伯叔孫得臣莊叔季孫行父文子皆魯桓公之曽孫世秉魯政號曰三桓趙無恤襄子范吉射昭子智瑶襄子荀寅文子魏侈襄子韓不信簡子此六族世為晉卿並有功名實弱晉國號曰六卿",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-14",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 123,
+          "end": 138
+        },
+        "kind": "semantic",
+        "text": "音潮",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-15",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 138,
+          "end": 151
+        },
+        "kind": "semantic",
+        "text": "音劬",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-16",
+        "range": {
+          "type": "range",
+          "scope": "title",
+          "start": 0,
+          "end": 1
+        },
+        "kind": "semantic",
+        "text": "音丙",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-17",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 2,
+          "start": 0,
+          "end": 67
+        },
+        "kind": "semantic",
+        "text": "音刎",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-18",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 2,
+          "start": 67,
+          "end": 86
+        },
+        "kind": "semantic",
+        "text": "音隻",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-19",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 2,
+          "start": 86,
+          "end": 111
+        },
+        "kind": "semantic",
+        "text": "音劬",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-20",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 2,
+          "start": 111,
+          "end": 112
+        },
+        "kind": "semantic",
+        "text": "音丙",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-21",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 3,
+          "start": 0,
+          "end": 55
+        },
+        "kind": "semantic",
+        "text": "古贍字",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-22",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 3,
+          "start": 55,
+          "end": 124
+        },
+        "kind": "semantic",
+        "text": "王制曰几居民財必因天地寒暖燥濕廣谷大川異制民生其間者異俗剛柔輕重遲速異齊五味異和器械異制衣服異宜修其教不易其俗齊其政不易其宜",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-23",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 3,
+          "start": 124,
+          "end": 150
+        },
+        "kind": "semantic",
+        "text": "音疲",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-24",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 3,
+          "start": 150,
+          "end": 195
+        },
+        "kind": "semantic",
+        "text": "如淳曰更有三品有卒更有踐更有過更古有正卒無常人皆當迭為之一月一更是為卒更貧者欲得顧更踐者次直者出錢顧之月二千是為踐更也律説卒更踐更者居縣中五月乃更也後從尉律卒踐更一月休十一日也",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-25",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 3,
+          "start": 195,
+          "end": 218
+        },
+        "kind": "semantic",
+        "text": "音就賃也",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-26",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 3,
+          "start": 218,
+          "end": 246
+        },
+        "kind": "semantic",
+        "text": "音劬",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-27",
+        "range": {
+          "type": "range",
+          "scope": "title",
+          "start": 0,
+          "end": 1
+        },
+        "kind": "semantic",
+        "text": "音丙",
+        "source": "cham"
+      }
+    ]
+  },
+  "annotationLayers": [
+    {
+      "id": "default",
+      "label": "原文",
+      "shortLabel": "文",
+      "contributor": "桓寬",
+      "role": "author",
+      "nature": "annotation",
+      "displayOrder": 0,
+      "enabled": true,
+      "annotations": []
+    }
+  ]
+}

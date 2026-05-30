@@ -1,0 +1,424 @@
+{
+  "bookId": "laozi-heshanggong-wiki",
+  "num": 57,
+  "title": "第五十七章（淳風）",
+  "author": "老子",
+  "authorId": "Laozi",
+  "dynasty": "周",
+  "era": "周",
+  "genre": "prose",
+  "verses": [
+    {
+      "text": "以正治國，"
+    },
+    {
+      "text": "以奇用兵，"
+    },
+    {
+      "text": "以無事取天下。"
+    },
+    {
+      "text": "吾何以知其然哉，以此。"
+    },
+    {
+      "text": "天下多忌諱而民彌貧。"
+    },
+    {
+      "text": "民多利器，國家滋昏。"
+    },
+    {
+      "text": "人多伎巧，奇物滋起。"
+    },
+    {
+      "text": "法物滋彰，盜賊多有。"
+    },
+    {
+      "text": "故聖人云："
+    },
+    {
+      "text": "我無為而民自化，"
+    },
+    {
+      "text": "我好靜而民自正，"
+    },
+    {
+      "text": "我無事而民自富，"
+    },
+    {
+      "text": "我無欲而民自朴。"
+    }
+  ],
+  "sections": {},
+  "annotations": [],
+  "layers": {
+    "heshanggong": [
+      {
+        "id": "heshanggong-1",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 5
+        },
+        "kind": "commentary",
+        "text": "以，至也。天使正身之人，使有國也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-2",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 0,
+          "end": 5
+        },
+        "kind": "commentary",
+        "text": "奇，詐也。天使詐偽之人，使用兵也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-3",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 2,
+          "start": 0,
+          "end": 7
+        },
+        "kind": "commentary",
+        "text": "以無事無為之人，使取天下為之主。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-4",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 3,
+          "start": 0,
+          "end": 11
+        },
+        "kind": "commentary",
+        "text": "此，今也。老子言，我何以知天意然哉，以今日所見知。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-5",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 4,
+          "start": 0,
+          "end": 10
+        },
+        "kind": "commentary",
+        "text": "天下謂人主也。忌諱者防禁也。令煩則奸生，禁多則下詐，相殆故貧。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-6",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 5,
+          "start": 0,
+          "end": 10
+        },
+        "kind": "commentary",
+        "text": "利器者，權也。民多權則視者眩於目，聽者惑於耳，上下不親，故國家昏亂。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-7",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 6,
+          "start": 0,
+          "end": 10
+        },
+        "kind": "commentary",
+        "text": "人謂人君、百里諸侯也。多技巧，謂刻畫宮觀，雕琢章服，奇物滋起，下則化上，飾金鏤玉，文繡彩色日以滋甚。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-8",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 7,
+          "start": 0,
+          "end": 10
+        },
+        "kind": "commentary",
+        "text": "法物，好物也。珍好之物滋生彰著，則農事廢，飢寒並至，而盜賊多有也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-9",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 8,
+          "start": 0,
+          "end": 5
+        },
+        "kind": "commentary",
+        "text": "謂下事也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-10",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 9,
+          "start": 0,
+          "end": 8
+        },
+        "kind": "commentary",
+        "text": "聖人言：我修道承天，無所改作，而民自化成也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-11",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 10,
+          "start": 0,
+          "end": 8
+        },
+        "kind": "commentary",
+        "text": "聖人言：我好靜，不言不教，而民自忠正也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-12",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 11,
+          "start": 0,
+          "end": 8
+        },
+        "kind": "commentary",
+        "text": "我無徭役徵召之事，民安其業故皆自富也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-13",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 12,
+          "start": 0,
+          "end": 8
+        },
+        "kind": "commentary",
+        "text": "我常無欲，去華文，微服飾，民則隨我為質樸也。聖人言：我修道守真，絕去六情，民自隨我而清也。",
+        "source": "cham"
+      }
+    ]
+  },
+  "annotationLayers": [
+    {
+      "id": "default",
+      "label": "原文",
+      "shortLabel": "文",
+      "contributor": "Laozi",
+      "role": "author",
+      "nature": "annotation",
+      "displayOrder": 0,
+      "enabled": true,
+      "annotations": []
+    },
+    {
+      "id": "heshanggong",
+      "label": "河上公註",
+      "shortLabel": "河",
+      "contributor": "C002",
+      "role": "commentator",
+      "nature": "commentary",
+      "displayOrder": 1,
+      "enabled": true,
+      "annotations": [
+        {
+          "id": "heshanggong-1",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 5
+          },
+          "kind": "commentary",
+          "text": "以，至也。天使正身之人，使有國也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-2",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 1,
+            "start": 0,
+            "end": 5
+          },
+          "kind": "commentary",
+          "text": "奇，詐也。天使詐偽之人，使用兵也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-3",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 2,
+            "start": 0,
+            "end": 7
+          },
+          "kind": "commentary",
+          "text": "以無事無為之人，使取天下為之主。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-4",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 3,
+            "start": 0,
+            "end": 11
+          },
+          "kind": "commentary",
+          "text": "此，今也。老子言，我何以知天意然哉，以今日所見知。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-5",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 4,
+            "start": 0,
+            "end": 10
+          },
+          "kind": "commentary",
+          "text": "天下謂人主也。忌諱者防禁也。令煩則奸生，禁多則下詐，相殆故貧。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-6",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 5,
+            "start": 0,
+            "end": 10
+          },
+          "kind": "commentary",
+          "text": "利器者，權也。民多權則視者眩於目，聽者惑於耳，上下不親，故國家昏亂。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-7",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 6,
+            "start": 0,
+            "end": 10
+          },
+          "kind": "commentary",
+          "text": "人謂人君、百里諸侯也。多技巧，謂刻畫宮觀，雕琢章服，奇物滋起，下則化上，飾金鏤玉，文繡彩色日以滋甚。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-8",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 7,
+            "start": 0,
+            "end": 10
+          },
+          "kind": "commentary",
+          "text": "法物，好物也。珍好之物滋生彰著，則農事廢，飢寒並至，而盜賊多有也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-9",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 8,
+            "start": 0,
+            "end": 5
+          },
+          "kind": "commentary",
+          "text": "謂下事也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-10",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 9,
+            "start": 0,
+            "end": 8
+          },
+          "kind": "commentary",
+          "text": "聖人言：我修道承天，無所改作，而民自化成也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-11",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 10,
+            "start": 0,
+            "end": 8
+          },
+          "kind": "commentary",
+          "text": "聖人言：我好靜，不言不教，而民自忠正也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-12",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 11,
+            "start": 0,
+            "end": 8
+          },
+          "kind": "commentary",
+          "text": "我無徭役徵召之事，民安其業故皆自富也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-13",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 12,
+            "start": 0,
+            "end": 8
+          },
+          "kind": "commentary",
+          "text": "我常無欲，去華文，微服飾，民則隨我為質樸也。聖人言：我修道守真，絕去六情，民自隨我而清也。",
+          "source": "cham"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "textRef": "laozi-heshanggong-wiki",
+    "relation": "section"
+  }
+}

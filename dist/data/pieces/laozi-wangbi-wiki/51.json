@@ -1,0 +1,221 @@
+{
+  "bookId": "laozi-wangbi-wiki",
+  "num": 51,
+  "title": "第五十一章",
+  "author": "老子",
+  "authorId": "Laozi",
+  "dynasty": "周",
+  "era": "周",
+  "genre": "prose",
+  "verses": [
+    {
+      "text": "道生之，德畜之，物形之，勢成之。"
+    },
+    {
+      "text": "是以萬物莫不尊道而貴德。"
+    },
+    {
+      "text": "道之尊，德之貴，夫莫之命而常自然。"
+    },
+    {
+      "text": "故道生之，德畜之。長之育之，亭之毒之，蓋之覆之。"
+    },
+    {
+      "text": "生而不有，為而不恃，"
+    },
+    {
+      "text": "長而不宰。是謂玄德。"
+    }
+  ],
+  "sections": {},
+  "annotations": [],
+  "layers": {
+    "wangbi": [
+      {
+        "id": "wangbi-1",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 16
+        },
+        "kind": "commentary",
+        "text": "物生而後畜，畜而後形，形而後成，何由而生？道也；何得而畜？德也；何由而形？物也；何使而成，勢也。唯因也，故能無物而不形；唯勢也，故能無物而不成。凡物之所以生，功之所以成，皆有所由，有所由焉，則莫不由乎道也。故推而極之，亦至道也。隨其所因，故各有稱焉。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-2",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 0,
+          "end": 12
+        },
+        "kind": "commentary",
+        "text": "道者，物之所由也。德者，物之所得也。由之乃得，故曰不得不失，尊之則害，不得不貴也。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-3",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 2,
+          "start": 0,
+          "end": 17
+        },
+        "kind": "commentary",
+        "text": "命並作爵。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-4",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 3,
+          "start": 0,
+          "end": 24
+        },
+        "kind": "commentary",
+        "text": "謂成其實，各得其庇蔭，不傷其體矣。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-5",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 4,
+          "start": 0,
+          "end": 10
+        },
+        "kind": "commentary",
+        "text": "為而不有。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-6",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 5,
+          "start": 0,
+          "end": 10
+        },
+        "kind": "commentary",
+        "text": "有德而不知其主也，出乎幽冥，是以謂之玄德也。",
+        "source": "cham"
+      }
+    ]
+  },
+  "annotationLayers": [
+    {
+      "id": "default",
+      "label": "原文",
+      "shortLabel": "文",
+      "contributor": "Laozi",
+      "role": "author",
+      "nature": "annotation",
+      "displayOrder": 0,
+      "enabled": true,
+      "annotations": []
+    },
+    {
+      "id": "wangbi",
+      "label": "王弼註",
+      "shortLabel": "王",
+      "contributor": "C001",
+      "role": "commentator",
+      "nature": "commentary",
+      "displayOrder": 1,
+      "enabled": true,
+      "annotations": [
+        {
+          "id": "wangbi-1",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 16
+          },
+          "kind": "commentary",
+          "text": "物生而後畜，畜而後形，形而後成，何由而生？道也；何得而畜？德也；何由而形？物也；何使而成，勢也。唯因也，故能無物而不形；唯勢也，故能無物而不成。凡物之所以生，功之所以成，皆有所由，有所由焉，則莫不由乎道也。故推而極之，亦至道也。隨其所因，故各有稱焉。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-2",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 1,
+            "start": 0,
+            "end": 12
+          },
+          "kind": "commentary",
+          "text": "道者，物之所由也。德者，物之所得也。由之乃得，故曰不得不失，尊之則害，不得不貴也。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-3",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 2,
+            "start": 0,
+            "end": 17
+          },
+          "kind": "commentary",
+          "text": "命並作爵。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-4",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 3,
+            "start": 0,
+            "end": 24
+          },
+          "kind": "commentary",
+          "text": "謂成其實，各得其庇蔭，不傷其體矣。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-5",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 4,
+            "start": 0,
+            "end": 10
+          },
+          "kind": "commentary",
+          "text": "為而不有。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-6",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 5,
+            "start": 0,
+            "end": 10
+          },
+          "kind": "commentary",
+          "text": "有德而不知其主也，出乎幽冥，是以謂之玄德也。",
+          "source": "cham"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "textRef": "laozi-wangbi-wiki",
+    "relation": "section"
+  }
+}

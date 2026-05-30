@@ -1,0 +1,602 @@
+{
+  "bookId": "skqs-yantielun",
+  "num": 31,
+  "title": "未通第十五",
+  "author": "桓寬",
+  "authorId": "桓寬",
+  "dynasty": "漢",
+  "era": "漢",
+  "eraCode": "07",
+  "genre": "prose",
+  "verses": [
+    {
+      "text": "御史曰内郡人衆水泉薦草不能相澹地勢温濕不宜牛馬民蹠耒而耕負擔而行勞罷而寡功是以百姓貧苦而衣食不足老弱負輅於路而列卿大夫或乗牛車孝武皇帝平百越以為囿圃却羌胡以為𫟍囿是以珍怪異物充於後宮騊駼駃騠實於外廐匹夫莫不乗堅良而民間厭橘柚由此觀之邊郡之利亦饒矣而曰何福之有未通於計也"
+    },
+    {
+      "text": "文學曰禹平水土定九州四方各以土地所生貢獻足以充宫室供人主之欲膏壤萬里山川之利足以富百姓不待蠻貊之地逺方之物而用足徃者未伐胡越之時繇賦省而民富足温衣飽食藏新食陳布帛充用牛馬成羣農夫以馬耕載而民莫不騎乗當此之時却走馬以糞其後師旅數發戎馬不足牸牝入陣故駒犢生於戰地六畜不育於家五榖不殖於野民不足於糟糠何橘柚之所厭傳曰大軍之後累世不復方今郡國田野有壟而不墾城郭有宇而不實邉郡何饒之有乎"
+    },
+    {
+      "text": "御史曰古者制田百歩為畆民井田而耕什而籍一義先公而後已民臣之職也先帝哀憐百姓之愁苦衣食不足制田二百四十歩而一畆率三十而稅一惰民不務田作饑寒及已固其理也其不耕而欲播不種而欲穫鹽鐵又何過乎"
+    },
+    {
+      "text": "文學曰什一而籍民之力也豐耗美惡與民共之民饉已不獨衍民衍已不獨饉故曰什一者天下之中正也田雖三十而以頃畆出稅樂歳粒米狼戾而寡取之凶年饑饉而必求足加之以口賦更繇之役率一人之作中分其功農夫悉其所得或假貸而益之是以百姓疾耕力作而饑寒遂及已也築城者先厚其基而求其髙畜民者先厚其業而後求其澹論語曰百姓足君孰與不足乎"
+    },
+    {
+      "text": "御史曰古者諸侯爭強戰國並起甲兵不休民曠於田疇什一而藉不違其職今賴陛下神靈甲兵不動乆矣然則民不齊出於南畆以口率被墾田而不足空倉廩而賑貧乏寖益日甚是以愈惰而仰利縣官也為斯君者亦病矣反以身勞民民猶背恩棄義而逺流亡避匿上公之事民相倣傚田地日蕪租賦不入抵扞縣官君雖欲足誰與之足乎"
+    },
+    {
+      "text": "文學曰樹木數徙則��蟲獸徙居則壊故代馬依北風飛鳥翔故巢莫不哀其生由此觀之民非利避上公之事而樂流亡也徃者軍陣數起用度不足以貲徵賦常取給見民田家又被其勞故不齊出於南畆也大抵逋流皆在大家吏正畏憚不敢督責刻急細民細民不堪流亡逺去中家為之色出後亡者為先亡者服事録民數創於惡吏故相去尤甚而就少愈多傳曰政寛者民死之政急者父子離是以田地日荒城郭空虚夫牧民之道除其所疾適其所安安而不擾使而不勞是以百姓勸業而樂公賦若此則君無賑於民民無利於上上下交議而頌聲作故取而民不厭役而民不苦靈臺之詩非或使之民自為之若斯則君何不足之有乎"
+    },
+    {
+      "text": "御史曰古者十五入太學與小役二十冠而成人與戎事五十以上血脉溢剛曰艾壯詩曰方叔元老克壯其猶故商師若荼周師若烏今陛下哀憐百姓寛力役之政二十三始賦五十六而免所以輔耆壯而息老艾也丁者治其田里老者修其塘園儉力趨時無饑寒之患不治其家而訟縣官亦悖矣"
+    },
+    {
+      "text": "文學曰十九年已下為殤未成人也二十而冠三十而娶可以從戎事五十已上曰艾老杖於鄉不從力役所以扶不足而息髙年也鄉飲酒之禮耆老異饌所以優耆耄而明養老也故老者非肉不飽非帛不煖非杖不行今五十已上至六十與子孫服輓輸並給徭役非養老之意也古有大䘮者君三年不呼其門通其孝道遂其哀戚之心也君子之所重而自盡者其惟親之䘮乎周公抱成王聼天下恩塞海内澤被四表矧惟南面含仁保德靡不得其所詩云夙夜基命宥宻陛下富於春秋委任大臣公卿輔政政教未均故庶人議也御史黙不答也"
+    }
+  ],
+  "sections": {},
+  "annotations": [],
+  "layers": {
+    "commentary": [
+      {
+        "id": "commentary-1",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 18
+        },
+        "kind": "semantic",
+        "text": "古贍字",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-2",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 18,
+          "end": 28
+        },
+        "kind": "semantic",
+        "text": "音隻",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-3",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 28,
+          "end": 37
+        },
+        "kind": "semantic",
+        "text": "音疲",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-4",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 37,
+          "end": 96
+        },
+        "kind": "semantic",
+        "text": "音陶",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-5",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 96,
+          "end": 97
+        },
+        "kind": "semantic",
+        "text": "音余",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-6",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 97,
+          "end": 98
+        },
+        "kind": "semantic",
+        "text": "音决",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-7",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 98,
+          "end": 99
+        },
+        "kind": "semantic",
+        "text": "音蹄",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-8",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 99,
+          "end": 103
+        },
+        "kind": "semantic",
+        "text": "騊駼馬類也生北海駃騠俊馬也生七日而超其母",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-9",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 0,
+          "end": 59
+        },
+        "kind": "semantic",
+        "text": "五帝紀曰禹披九山通九澤决九河定九州各以其職來貢不失厥宜方五千里至於荒服食貨志曰禹平洪水定九州制土田各因所生逺近賦入貢棐楙遷有無萬國作乂",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-10",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 59,
+          "end": 68
+        },
+        "kind": "semantic",
+        "text": "音遥",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-11",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 68,
+          "end": 111
+        },
+        "kind": "semantic",
+        "text": "老子德經曰天下有道却走馬以糞韓非子曰凡馬之所以大用者外供甲兵而内給滛奢也今有道之君外希用甲兵而内禁滛奢上不事馬於戰鬪逐北而民不以馬逺滛力唯田疇積力於田疇必且糞灌故曰天下有道却走馬以糞也許慎曰却止也糞田也止馬不以走但以田行至德之效也或曰國君無道則天下多事戎馬生於郊原國君有道則天下無事止走馬以糞田也",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-12",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 111,
+          "end": 116
+        },
+        "kind": "semantic",
+        "text": "音朔",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-13",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 116,
+          "end": 122
+        },
+        "kind": "semantic",
+        "text": "音字",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-14",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 122,
+          "end": 125
+        },
+        "kind": "semantic",
+        "text": "牸牝牛也凡獸育子曰牸牝畜母也",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-15",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 125,
+          "end": 157
+        },
+        "kind": "semantic",
+        "text": "去聲",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-16",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 157,
+          "end": 166
+        },
+        "kind": "semantic",
+        "text": "老子曰師之所處荆棘生焉大軍之後必有凶年",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-17",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 2,
+          "start": 0,
+          "end": 34
+        },
+        "kind": "semantic",
+        "text": "詩曰雨我公田遂及我私孟子曰方里而井井九百畆其中為公田八家皆私百畆同養公田公事畢然後敢治私事所以别野人也",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-18",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 3,
+          "start": 0,
+          "end": 80
+        },
+        "kind": "semantic",
+        "text": "音遥",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-19",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 3,
+          "start": 80,
+          "end": 141
+        },
+        "kind": "semantic",
+        "text": "古贍字老子曰貴必以賤為本髙必以下為基泰族訓曰城有基木有根根深即本固基美則上寧不益其厚而張其廣者毁不廣其基而增其髙者覆潘氏曰髙以下為基民以食為天正其末者端其本善其後者慎其先夫九土之宜弗任四人之務不一野有菜蔬之色民靡代耕之秩無儲畜以虞災徒望歳以自必三季之衰皆此物也",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-20",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 4,
+          "start": 0,
+          "end": 84
+        },
+        "kind": "semantic",
+        "text": "食貨志曰商賈以幣之變多積貨逐利於是公卿言郡國頗被災害貧民無産業者募徙廣饒之地陛下損膳省用出禁錢以振元元寛貸而民不齊出南畆商賈滋衆貧者畜積無有皆仰縣官異時筭軺車賈人之緡錢皆有差請筭如故",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-21",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 5,
+          "start": 0,
+          "end": 9
+        },
+        "kind": "semantic",
+        "text": "音朔",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-22",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 5,
+          "start": 9,
+          "end": 13
+        },
+        "kind": "semantic",
+        "text": "音委",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-23",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 5,
+          "start": 13,
+          "end": 35
+        },
+        "kind": "semantic",
+        "text": "原道訓曰今夫徙樹者失其隂陽之性則莫不枯槁故橘樹之江北則化而為枳鴝鵒不過濟貈渡汶而死形性不易勢居不可移也伍子胥曰胡馬望北風而立越燕向日而熈誰不愛其所近悲其所思者乎韓嬰曰詩云代馬依北風飛鳥棲故巢皆不忘本之謂也",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-24",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 5,
+          "start": 35,
+          "end": 57
+        },
+        "kind": "semantic",
+        "text": "音朔",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-25",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 5,
+          "start": 57,
+          "end": 64
+        },
+        "kind": "semantic",
+        "text": "音資",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-26",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 5,
+          "start": 64,
+          "end": 132
+        },
+        "kind": "semantic",
+        "text": "音瘡",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-27",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 5,
+          "start": 132,
+          "end": 146
+        },
+        "kind": "semantic",
+        "text": "去聲",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-28",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 5,
+          "start": 146,
+          "end": 159
+        },
+        "kind": "semantic",
+        "text": "韓嬰曰治國者譬若乎張琴然大絃急則小絃絶矣故急轡䘖者非千里之御也",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-29",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 5,
+          "start": 159,
+          "end": 170
+        },
+        "kind": "semantic",
+        "text": "音扶",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-30",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 5,
+          "start": 170,
+          "end": 251
+        },
+        "kind": "semantic",
+        "text": "賈生曰文王志之所在意之所欲百姓不愛其死不憚其勞從之如集詩曰經始靈臺庻民攻之不日成之經始勿亟庶民子來文王有志為臺近規之民聞之者麏裹而至問業而作之日日以衆命其臺曰靈臺命其囿曰靈囿謂其沼曰靈沼愛敬之至也詩曰王在靈囿麀鹿攸伏麀鹿濯濯白鳥翯翯王在靈沼於仭魚躍文王之澤下被禽獸洽于魚鱉咸若攸樂而况士民乎修文篇曰積恩為愛積愛為仁積仁為靈靈臺之所以為靈者積仁也神靈著天地之本而為萬物之始也是故文王始接民以仁而天下莫不仁焉文徳之至也",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-31",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 6,
+          "start": 0,
+          "end": 14
+        },
+        "kind": "semantic",
+        "text": "去聲",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-32",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 6,
+          "start": 14,
+          "end": 19
+        },
+        "kind": "semantic",
+        "text": "去聲",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-33",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 6,
+          "start": 19,
+          "end": 23
+        },
+        "kind": "semantic",
+        "text": "去聲",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-34",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 6,
+          "start": 23,
+          "end": 55
+        },
+        "kind": "semantic",
+        "text": "荼苦茶也烏燕烏也白項而羣飛者也鄒陽曰秦信左右而殺周用烏集而王",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-35",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 7,
+          "start": 0,
+          "end": 13
+        },
+        "kind": "semantic",
+        "text": "音傷",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-36",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 7,
+          "start": 13,
+          "end": 21
+        },
+        "kind": "semantic",
+        "text": "去聲",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-37",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 7,
+          "start": 21,
+          "end": 54
+        },
+        "kind": "semantic",
+        "text": "曲禮曰人生十年曰幼學二十曰弱冠三十曰壯有室四十曰強而仕五十曰艾服官政七十曰老而傳八十九十曰耄七年曰悼悼與耄雖有罪不加刑百年曰期頥王制曰五十不從力政六十不與服戎七十不與賓客之事八十齊䘮之事弗及也",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-38",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 7,
+          "start": 54,
+          "end": 73
+        },
+        "kind": "semantic",
+        "text": "鄉飲酒義曰鄉飲酒之禮六十者坐五十者立侍以聼政役所以明尊長也六十者三豆七十者四豆八十者五豆九十者六豆所以明養老也民知尊長養老而後乃能入孝弟民入孝弟出尊長養老而後成教成教而後國可安也君子之所謂孝者非家至而日見之也合諸鄉射教之鄉飲酒之禮而孝弟之行立矣",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-39",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 7,
+          "start": 73,
+          "end": 88
+        },
+        "kind": "semantic",
+        "text": "王制曰五十異粻六十宿肉七十貳膳八十常珍九十飲食不離寝膳飲從於遊可也五十始衰六十非肉不飽七十非帛不煖八十非人不煖九十雖得人不煖矣五十杖於家六十杖於鄉七十杖於國八十杖於朝九十者天子欲有問焉則就其室以珍從",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-40",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 7,
+          "start": 88,
+          "end": 105
+        },
+        "kind": "semantic",
+        "text": "音遥",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-41",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 7,
+          "start": 105,
+          "end": 150
+        },
+        "kind": "semantic",
+        "text": "王制曰八十者一子不從政九十者其家不從政廢疾非人不養者一人不從政父母之䘮三年不從政齊衰大功之䘮三月不從政將徙於諸侯三月不從政自諸侯來徙家期不從政陳忠曰夫父母於子同氣異息一體而分三年乃免於懐抱先聖縁人情而著其節制服二十五月是以春秋臣有大䘮君三年不呼其門曾子曰吾聞諸夫子人未有自致者也必也親䘮乎",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-42",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 7,
+          "start": 150,
+          "end": 179
+        },
+        "kind": "semantic",
+        "text": "春秋元命苞曰文王造之而未遂武王遂之而未成周公旦抱少主而成之故曰成王尸子曰昔者武王崩成王幼周公旦踐東宫履乗石假為天子十年蒙恬曰昔周成王初立未離襁褓周公旦負王以朝卒定天下越絶書曰周公以盛德武王封周公使傅相成王成王少周公臣事之當是之時賞賜不加於無功刑罰不加於無罪天下家給人足米麥茂美使人以時說之以禮上順天地澤及夷狄君道篇曰周公踐天子之位布德施恵逺而逾明十三牧方三人出舉逺方之民有饑寒而不得衣食者有獄訟而失職者有賢才而不舉者以入告乎天子天子於其君之朝也揖而進之曰意朕之政教有不得者歟何其所臨之民有飢寒不得衣食者有獄訟而失職者有賢才而不舉者也其君歸也乃召其國大夫告周天子之言百姓聞之皆喜曰此誠天子也何居之深逺而見我之明也豈可欺哉故牧者所以辟四門明四目逹四聪也是以近者親之逺者安之詩曰柔逺能邇以定我王此之謂矣",
+        "source": "cham"
+      }
+    ]
+  },
+  "annotationLayers": [
+    {
+      "id": "default",
+      "label": "原文",
+      "shortLabel": "文",
+      "contributor": "桓寬",
+      "role": "author",
+      "nature": "annotation",
+      "displayOrder": 0,
+      "enabled": true,
+      "annotations": []
+    }
+  ]
+}

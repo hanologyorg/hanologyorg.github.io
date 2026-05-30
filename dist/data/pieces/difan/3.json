@@ -1,0 +1,103 @@
+{
+  "bookId": "difan",
+  "num": 3,
+  "title": "篇第一·君體",
+  "author": "李世民",
+  "authorId": "C003",
+  "dynasty": "唐",
+  "era": "唐",
+  "eraCode": "24",
+  "genre": "prose",
+  "verses": [
+    {
+      "text": "夫人者，國之先，國者，君之本。人主之體，如山嶽焉，高峻而不動；如日月焉，貞明而普照。兆庶之所瞻仰，天下之所歸往。寬大其誌，足以兼包；平正其心足以制斷。非威德無以致遠，非慈厚無以懷人。撫九族以仁，接大臣以禮。奉先思孝，處位思恭。傾己勤勞，以行德義，此乃君之體也。"
+    }
+  ],
+  "sections": {
+    "annotations": "1.夫人者，國之先，國者，君之本：人民是國家的根本，國家是君主的根本。強調君民相依之理。\n2.山嶽：比喻君主的威嚴和穩重，如高山般不可動搖。\n3.日月：比喻君主的明察和普照，如日月般光照天下。\n4.威德：威嚴與恩德。威以服人，德以懷人。\n5.慈厚：慈愛寬厚。指以仁慈之心對待百姓。\n6.九族：宗族。一說指高祖至玄孫九代，一說指父族四、母族三、妻族二。"
+  },
+  "annotations": [
+    {
+      "id": "3-1",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 0,
+        "end": 14
+      },
+      "kind": "semantic",
+      "text": "人民是國家的根本，國家是君主的根本。強調君民相依之理。",
+      "source": "cham"
+    },
+    {
+      "id": "3-2",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 21,
+        "end": 23
+      },
+      "kind": "semantic",
+      "text": "比喻君主的威嚴和穩重，如高山般不可動搖。",
+      "source": "cham"
+    },
+    {
+      "id": "3-3",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 32,
+        "end": 34
+      },
+      "kind": "semantic",
+      "text": "比喻君主的明察和普照，如日月般光照天下。",
+      "source": "cham"
+    },
+    {
+      "id": "3-4",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 76,
+        "end": 78
+      },
+      "kind": "semantic",
+      "text": "威嚴與恩德。威以服人，德以懷人。",
+      "source": "cham"
+    },
+    {
+      "id": "3-5",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 84,
+        "end": 86
+      },
+      "kind": "semantic",
+      "text": "慈愛寬厚。指以仁慈之心對待百姓。",
+      "source": "cham"
+    },
+    {
+      "id": "3-6",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 92,
+        "end": 94
+      },
+      "kind": "semantic",
+      "text": "宗族。一說指高祖至玄孫九代，一說指父族四、母族三、妻族二。",
+      "source": "cham"
+    }
+  ],
+  "source": {
+    "textRef": "difan",
+    "relation": "section"
+  }
+}

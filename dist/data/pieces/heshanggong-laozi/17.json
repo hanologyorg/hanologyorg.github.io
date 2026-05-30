@@ -1,0 +1,279 @@
+{
+  "bookId": "heshanggong-laozi",
+  "num": 17,
+  "title": "第十七章（淳風）",
+  "author": "老子",
+  "authorId": "Laozi",
+  "dynasty": "周",
+  "era": "周",
+  "genre": "prose",
+  "verses": [
+    {
+      "text": "太上，下知有之。"
+    },
+    {
+      "text": "其次，親之譽之。"
+    },
+    {
+      "text": "其次畏之。"
+    },
+    {
+      "text": "其次侮之。"
+    },
+    {
+      "text": "信不足焉，﹝有不信焉﹞。"
+    },
+    {
+      "text": "猶兮其貴言。"
+    },
+    {
+      "text": "功成事遂，"
+    },
+    {
+      "text": "百姓皆謂我自然。"
+    }
+  ],
+  "sections": {},
+  "annotations": [],
+  "layers": {
+    "heshanggong": [
+      {
+        "id": "heshanggong-1",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 8
+        },
+        "kind": "commentary",
+        "text": "太上，謂太古無名之君。 下知有之者，下知上有君，而不臣事，質朴也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-2",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 0,
+          "end": 8
+        },
+        "kind": "commentary",
+        "text": "其德可見，恩惠可稱，故親愛而譽之。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-3",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 2,
+          "start": 0,
+          "end": 5
+        },
+        "kind": "commentary",
+        "text": "設刑法以治之。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-4",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 3,
+          "start": 0,
+          "end": 5
+        },
+        "kind": "commentary",
+        "text": "禁多令煩，不可歸誠，故欺侮之。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-5",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 4,
+          "start": 0,
+          "end": 12
+        },
+        "kind": "commentary",
+        "text": "君信不足於下，下則應之以不信，而欺其君也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-6",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 5,
+          "start": 0,
+          "end": 6
+        },
+        "kind": "commentary",
+        "text": "說太上之君，舉事猶，貴重於言，恐離道失自然也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-7",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 6,
+          "start": 0,
+          "end": 5
+        },
+        "kind": "commentary",
+        "text": "謂天下太平也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-8",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 7,
+          "start": 0,
+          "end": 8
+        },
+        "kind": "commentary",
+        "text": "百姓不知君上之德淳厚，反以為己自當然也。",
+        "source": "cham"
+      }
+    ]
+  },
+  "annotationLayers": [
+    {
+      "id": "default",
+      "label": "原文",
+      "shortLabel": "文",
+      "contributor": "Laozi",
+      "role": "author",
+      "nature": "annotation",
+      "displayOrder": 0,
+      "enabled": true,
+      "annotations": []
+    },
+    {
+      "id": "heshanggong",
+      "label": "河上公註",
+      "shortLabel": "河",
+      "contributor": "C002",
+      "role": "commentator",
+      "nature": "commentary",
+      "displayOrder": 1,
+      "enabled": true,
+      "annotations": [
+        {
+          "id": "heshanggong-1",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 8
+          },
+          "kind": "commentary",
+          "text": "太上，謂太古無名之君。 下知有之者，下知上有君，而不臣事，質朴也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-2",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 1,
+            "start": 0,
+            "end": 8
+          },
+          "kind": "commentary",
+          "text": "其德可見，恩惠可稱，故親愛而譽之。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-3",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 2,
+            "start": 0,
+            "end": 5
+          },
+          "kind": "commentary",
+          "text": "設刑法以治之。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-4",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 3,
+            "start": 0,
+            "end": 5
+          },
+          "kind": "commentary",
+          "text": "禁多令煩，不可歸誠，故欺侮之。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-5",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 4,
+            "start": 0,
+            "end": 12
+          },
+          "kind": "commentary",
+          "text": "君信不足於下，下則應之以不信，而欺其君也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-6",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 5,
+            "start": 0,
+            "end": 6
+          },
+          "kind": "commentary",
+          "text": "說太上之君，舉事猶，貴重於言，恐離道失自然也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-7",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 6,
+            "start": 0,
+            "end": 5
+          },
+          "kind": "commentary",
+          "text": "謂天下太平也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-8",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 7,
+            "start": 0,
+            "end": 8
+          },
+          "kind": "commentary",
+          "text": "百姓不知君上之德淳厚，反以為己自當然也。",
+          "source": "cham"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "textRef": "heshanggong-laozi",
+    "relation": "section"
+  }
+}

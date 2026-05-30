@@ -1,0 +1,250 @@
+{
+  "bookId": "laozi-wangbi-wiki",
+  "num": 28,
+  "title": "第二十八章",
+  "author": "老子",
+  "authorId": "Laozi",
+  "dynasty": "周",
+  "era": "周",
+  "genre": "prose",
+  "verses": [
+    {
+      "text": "知其雄，守其雌，為天下谿。為天下谿，常德不離，復歸於嬰兒。"
+    },
+    {
+      "text": "知其白，守其黑，為天下式。"
+    },
+    {
+      "text": "為天下式，常德不忒，"
+    },
+    {
+      "text": "復歸於無極。"
+    },
+    {
+      "text": "知其榮，守其辱，為天下谷，常德乃足，復歸於樸。"
+    },
+    {
+      "text": "樸散則為器，聖人用之，則為官長，"
+    },
+    {
+      "text": "故大制不割。"
+    }
+  ],
+  "sections": {},
+  "annotations": [],
+  "layers": {
+    "wangbi": [
+      {
+        "id": "wangbi-1",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 29
+        },
+        "kind": "commentary",
+        "text": "雄，先之屬；雌，後之屬也。知為天下之先也，必後也，是以聖人後其身而身先也。谿不求物而物自歸之，嬰兒不用智而合自然之智。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-2",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 0,
+          "end": 13
+        },
+        "kind": "commentary",
+        "text": "式，模則也。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-3",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 2,
+          "start": 0,
+          "end": 10
+        },
+        "kind": "commentary",
+        "text": "忒，差也。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-4",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 3,
+          "start": 0,
+          "end": 6
+        },
+        "kind": "commentary",
+        "text": "不可窮也。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-5",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 4,
+          "start": 0,
+          "end": 23
+        },
+        "kind": "commentary",
+        "text": "此三者，言常反終，後乃德全其所處也。下章云，反者道之動也。功不可取，常處其母也。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-6",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 5,
+          "start": 0,
+          "end": 16
+        },
+        "kind": "commentary",
+        "text": "樸，真也。真散則百行出，殊類生，若器也。聖人因其分散，故為之立官長。以善為師，不善為資，移風易俗，復使歸於一也。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-7",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 6,
+          "start": 0,
+          "end": 6
+        },
+        "kind": "commentary",
+        "text": "大制者，以天下之心為心，故無割也。",
+        "source": "cham"
+      }
+    ]
+  },
+  "annotationLayers": [
+    {
+      "id": "default",
+      "label": "原文",
+      "shortLabel": "文",
+      "contributor": "Laozi",
+      "role": "author",
+      "nature": "annotation",
+      "displayOrder": 0,
+      "enabled": true,
+      "annotations": []
+    },
+    {
+      "id": "wangbi",
+      "label": "王弼註",
+      "shortLabel": "王",
+      "contributor": "C001",
+      "role": "commentator",
+      "nature": "commentary",
+      "displayOrder": 1,
+      "enabled": true,
+      "annotations": [
+        {
+          "id": "wangbi-1",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 29
+          },
+          "kind": "commentary",
+          "text": "雄，先之屬；雌，後之屬也。知為天下之先也，必後也，是以聖人後其身而身先也。谿不求物而物自歸之，嬰兒不用智而合自然之智。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-2",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 1,
+            "start": 0,
+            "end": 13
+          },
+          "kind": "commentary",
+          "text": "式，模則也。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-3",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 2,
+            "start": 0,
+            "end": 10
+          },
+          "kind": "commentary",
+          "text": "忒，差也。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-4",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 3,
+            "start": 0,
+            "end": 6
+          },
+          "kind": "commentary",
+          "text": "不可窮也。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-5",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 4,
+            "start": 0,
+            "end": 23
+          },
+          "kind": "commentary",
+          "text": "此三者，言常反終，後乃德全其所處也。下章云，反者道之動也。功不可取，常處其母也。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-6",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 5,
+            "start": 0,
+            "end": 16
+          },
+          "kind": "commentary",
+          "text": "樸，真也。真散則百行出，殊類生，若器也。聖人因其分散，故為之立官長。以善為師，不善為資，移風易俗，復使歸於一也。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-7",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 6,
+            "start": 0,
+            "end": 6
+          },
+          "kind": "commentary",
+          "text": "大制者，以天下之心為心，故無割也。",
+          "source": "cham"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "textRef": "laozi-wangbi-wiki",
+    "relation": "section"
+  }
+}

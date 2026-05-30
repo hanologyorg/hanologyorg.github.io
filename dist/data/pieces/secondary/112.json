@@ -1,0 +1,892 @@
+{
+  "bookId": "secondary",
+  "num": 112,
+  "title": "大同與小康",
+  "author": "禮記",
+  "authorId": "A153",
+  "dynasty": "周",
+  "era": "周",
+  "genre": "prose",
+  "verses": [
+    {
+      "text": "昔者，仲尼與於蜡賓，事畢，出遊於觀之上，喟然而歎。仲尼之歎，蓋歎魯也。言偃在側，曰︰「君子何歎？」"
+    },
+    {
+      "text": "孔子曰︰「大道之行也，與三代之英，丘未之逮也，而有志焉。大道之行也，天下為公︰選賢與能，講信修睦。故人不獨親其親，不獨子其子；使老有所終，壯有所用，幼有所長，矜、寡、孤、獨、廢、疾者皆有所養；男有分，女有歸。貨，惡其棄於地也，不必藏於己；力，惡其不出於身也，不必為己。是故謀閉而不興，盜竊亂賊而不作，故外戶而不閉。是謂『大同』。」"
+    },
+    {
+      "text": "「今大道既隱，天下為家；各親其親，各子其子；貨力為己；大人世及以為禮；城郭溝池以為固；禮義以為紀——以正君臣，以篤父子，以睦兄弟，以和夫婦；以設制度，以立田里；以賢勇知，以功為己。故謀用是作，而兵由此起。禹、湯、文、武、成王、周公，由此其選也。此六君子者，未有不謹於禮者也。以著其義，以考其信，著有過，刑仁講讓，示民有常。如有不由此者，在埶者去，眾以為殃。是謂『小康』。」"
+    }
+  ],
+  "sections": {
+    "analysis": "本文借孔子與言偃的對話，界定夏、商、周三代的時期為「小康」社會，夏以前的古代為「大同」世界，以表達作者對儒家整體政治社會最高理想的嚮往。\n\n全文可分為三部分，開首至「而有志焉」為第一部分，講述孔子作為賓客參與魯國蜡祭後歎息不已，而弟子子游在身邊問其所歎之由，孔子答是因為想到大道行於世上，以及夏、商、周年代的政治制度而歎息。第二部分由「大道之行也，天下為公」至「是謂大同」，記孔子闡述自己對大同社會的看法。第三部分自「今大道既隱」至文末，講述孔子對小康社會的看法。\n\n春秋戰國時代，社會劇變，儒家提出「大同」的概念，表達了最理想的社會形態；然而大同社會難於真正實現，故退而求其次，期望能建立小康社會。\n\n當大道得以施行的時候，天下由眾人所共同擁有，大家推舉賢能的人擔任領袖。人與人之間講究信用，和諧共處。人們不只親愛自己的父母及兒女，而且博愛他人，使老人家能安享晚年、壯年人可各盡所能、幼年人得到良好教養；鰥夫、寡婦、孤兒、沒有子女的長者、殘疾和患病的人都得到照顧；男的有工作，女的有好歸宿。此外，社會上可做到物資共享，人們不把資源拋棄或浪費，又不會據為己有；大家都討厭不勞而獲，也不會只為了自己的利益而努力。因此，種種自私計謀都不會出現，盜竊、搶劫、作亂的行為都不會發生，家中的大門只是掩上而不用緊閉。這就是「大同」社會。\n\n當大道再無法施行，天下就成為一家一姓的天下。百姓只照顧自己的父母及兒女，並為了自己能獲取貨物財寶而努力。王侯傳位給自己的子弟，推行世襲制度；劃定疆界，各自築起城牆、挖掘壕溝來保衞自己的領土；以禮義作為君臣、父子、兄弟和夫婦間的綱紀，並設立各種制度；推重有勇有謀的人，為自己建功作事。由於人們只重視個人利益，陰謀詭計因此產生，戰爭亦因而興起。以此之故，賢君運用禮制治國，凡事依禮而行，使人民知道對錯的標準；又標舉仁愛，講求謙讓，向百姓昭示要遵守的禮義常規。只要有不依禮而行的，即使是有權位的人也會被罷黜，因為民眾會把他視作禍患。這就是「小康」社會。\n\n本文結構清晰。第一部分可視作全文的引子，第二部分專談大同社會，第三部分專論小康社會。大同社會中能做的，往往在小康社會中未能企及，通過對比，使兩者的分別明晰。\n\n本文多用對偶，如「選賢與能，講信修睦」，「男有分，女有歸」，「各親其親，各子其子」，「以著其義，以考其信」；亦多用排比，如「使老有所終，壯有所用，幼有所長，矜、寡、孤、獨、廢、疾者皆有所養」，「大人世及以為禮；城郭溝池以為固；禮義以為紀」。運用不同的句式，能使文章讀起來更有節奏感。",
+    "background": "《禮記》到唐代被列為儒家九經之一，至宋代列為十三經之一，成為士子們必讀之書。其主要注本為漢鄭玄注、唐孔穎達注疏之《禮記正義》。\n\n本文節錄自《禮記》的《禮運》篇，而《禮運》是《禮記》之第九篇。\n\n「禮」在儒家學說中，內涵兼含個人的生活禮節及國家之典章制度，而「禮」會因應時代環境的改變而有不同的「運行」方式，故稱「禮運」。\n\n《大同與小康》之標題為《禮記》原書所無，後人為了稱述之方便，就以此作為《禮運》第一章之篇名。本文記述孔子對「大同」以及「小康」兩種社會的看法。",
+    "annotations": "1.仲尼與於蜡賓：○粵預；jyu6；○普yù；○粵乍；zaa3；○普zhà。孔子當時仕於魯，以陪祭者的身份，參與魯國年終蜡祭大典。仲尼︰孔子名丘，字仲尼。與︰參加。蜡︰古時年終舉行的祭祀叫「蜡」。。賓︰陪祭者\n2.觀：○粵貫；gun3；○普guàn。出遊到宮門外兩旁的樓台上。觀︰宮門外兩旁的樓台\n3.喟然：○粵委；wai2；○普kuì。歎息聲\n4.蓋歎魯也：歎息魯國。意謂魯國處於「據亂」之世，古禮已喪。按︰「喟然而歎，蓋歎魯也」二句為《孔子家語》所無，可能是後人將旁注誤作正文，預先解釋孔子之歎息是為魯國而發。蓋：用來連接上段或上一句，表示原因\n5.言偃：孔子學生，姓言名偃，字子游，春秋時吳國人，在魯國做過武城宰\n6.大道之行也：大道實行的時候\n7.三代之英：夏、商、周三代。英︰英明賢能之君\n8.丘未之逮也：孔子名丘，故自稱「丘」。有說為了避諱應讀作「某」。逮︰及，這裏是趕上的意思\n9.有志焉：而看到古書上有一些記載。志︰通「誌」，記載；一說解作「志向」，整句就解成「而有這樣的志向」\n10.天下為公：天下是天下人所公有的\n11.選賢與能：選舉賢德能幹的人出來辦事。與︰通「舉」\n12.講信修睦：講究信用，促進人與人之間的和睦關係\n13.不獨親其親，不獨子其子：第一個「親」字和第一個「子」字都是動詞。意思是人們不只是親愛自己的父母，不只是愛護自己的子女\n14.矜、寡、孤、獨：○粵關；gwaan1；○普guān。通「鰥」，老而無妻。寡︰老而無夫。孤︰幼而無父。獨︰老而無子\n15.分：○粵份；fan6；○普fèn。職份、工作\n16.歸：出嫁，這裏指歸宿\n17.貨：○粵污之陰去聲；wu3；○普wù。人們不喜歡將貨財抛棄在地上（而未能加以利用）。貨︰財物、物產資源。惡︰厭惡\n18.不必藏於己：不必私藏到自己家裏\n19.力：指討厭不勞而獲\n20.謀：圖謀、陰謀\n21.興：興起、發生\n22.作：發生\n23.外戶而不閉：因此大門可以不緊閉\n24.大同：儒家之理想社會\n25.今大道既隱：現在大道已經隱沒了\n26.大人世及以為禮：天子、諸侯之位世襲而成為制度。大人︰指天子、諸侯。世及︰世襲。禮︰典章制度\n27.城郭溝池以為固：指築起城牆、挖掘壕溝來保衞自己的領土。城︰內城。郭︰外城。溝池︰護城河。固︰堅固的防禦工事\n28.禮義以為紀：禮法、義理，被作為治國的準則。紀︰法則、綱紀\n29.以正君臣：使君臣關係各符名份\n30.以篤父子：使父子關係親厚。篤︰使之親厚\n31.以和夫婦：使夫婦關係和諧\n32.以設制度：建立土地區分劃分的制度\n33.以賢勇知：推重有勇有謀的人。賢︰尊崇、推重，作動詞用。知︰通「智」，智謀\n34.以功為己：為自己建功作事。功︰立功，作動詞用\n35.用是：所以陰謀詭計由此產生。用︰由。是︰此。作︰興起、發生\n36.兵：而戰爭也由此而興起。兵︰兵戈、戰事\n37.禹、湯、文、武、成王、周公：夏禹、商湯、周文王、周武王、周成王、周公旦\n38.由此其選也：因此成為三代中傑出的人物。選︰人選\n39.謹於禮：嚴守、謹守\n40.以著其義：○粵注；zyu3；○普zhù。用「禮」來表彰他們（人民）做對了的事情。著︰明。義︰合宜\n41.以考其信：用「禮」來考核他們（人民）的誠信。考︰考核。信︰誠實\n42.著有過：用「禮」來明白指出他們（人民）的過失\n43.刑仁講讓：標榜仁愛，講求謙讓。刑：通「型」，作動詞用，解作「以……為典範」。講︰講求。讓︰禮讓、謙讓\n44.示民有常：向人民昭示恆常（須遵守）的行為標準。常︰常規\n45.由此：如果有人不依照這些原則的話。由︰順從、遵從\n46.在埶者去：有權位的人也要罷黜。埶︰通「勢」，指權位、高職。去︰罷免、去職\n47.眾以為殃：大家都把他視作禍根。殃︰禍害\n48.小康：小安，這是相對「大同」而言"
+  },
+  "annotations": [
+    {
+      "id": "112-1",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 3,
+        "end": 9
+      },
+      "kind": "pronunciation",
+      "lang": "yue",
+      "text": "預；jyu6",
+      "source": "cham"
+    },
+    {
+      "id": "112-2",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 3,
+        "end": 9
+      },
+      "kind": "pronunciation",
+      "lang": "cmn",
+      "text": "yù",
+      "source": "cham"
+    },
+    {
+      "id": "112-3",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 3,
+        "end": 9
+      },
+      "kind": "pronunciation",
+      "lang": "yue",
+      "text": "乍；zaa3",
+      "source": "cham"
+    },
+    {
+      "id": "112-4",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 3,
+        "end": 9
+      },
+      "kind": "pronunciation",
+      "lang": "cmn",
+      "text": "zhà",
+      "source": "cham"
+    },
+    {
+      "id": "112-5",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 3,
+        "end": 9
+      },
+      "kind": "semantic",
+      "text": "孔子當時仕於魯，以陪祭者的身份，參與魯國年終蜡祭大典。仲尼︰孔子名丘，字仲尼。與︰參加。蜡︰古時年終舉行的祭祀叫「蜡」。。賓︰陪祭者",
+      "source": "cham"
+    },
+    {
+      "id": "112-6",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 16,
+        "end": 17
+      },
+      "kind": "pronunciation",
+      "lang": "yue",
+      "text": "貫；gun3",
+      "source": "cham"
+    },
+    {
+      "id": "112-7",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 16,
+        "end": 17
+      },
+      "kind": "pronunciation",
+      "lang": "cmn",
+      "text": "guàn",
+      "source": "cham"
+    },
+    {
+      "id": "112-8",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 16,
+        "end": 17
+      },
+      "kind": "semantic",
+      "text": "出遊到宮門外兩旁的樓台上。觀︰宮門外兩旁的樓台",
+      "source": "cham"
+    },
+    {
+      "id": "112-9",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 20,
+        "end": 22
+      },
+      "kind": "pronunciation",
+      "lang": "yue",
+      "text": "委；wai2",
+      "source": "cham"
+    },
+    {
+      "id": "112-10",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 20,
+        "end": 22
+      },
+      "kind": "pronunciation",
+      "lang": "cmn",
+      "text": "kuì",
+      "source": "cham"
+    },
+    {
+      "id": "112-11",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 20,
+        "end": 22
+      },
+      "kind": "semantic",
+      "text": "歎息聲",
+      "source": "cham"
+    },
+    {
+      "id": "112-12",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 30,
+        "end": 34
+      },
+      "kind": "semantic",
+      "text": "歎息魯國。意謂魯國處於「據亂」之世，古禮已喪。按︰「喟然而歎，蓋歎魯也」二句為《孔子家語》所無，可能是後人將旁注誤作正文，預先解釋孔子之歎息是為魯國而發。蓋：用來連接上段或上一句，表示原因",
+      "source": "cham"
+    },
+    {
+      "id": "112-13",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 35,
+        "end": 37
+      },
+      "kind": "semantic",
+      "text": "孔子學生，姓言名偃，字子游，春秋時吳國人，在魯國做過武城宰",
+      "source": "cham"
+    },
+    {
+      "id": "112-14",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 1,
+        "start": 5,
+        "end": 10
+      },
+      "kind": "semantic",
+      "text": "大道實行的時候",
+      "source": "cham"
+    },
+    {
+      "id": "112-15",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 1,
+        "start": 12,
+        "end": 16
+      },
+      "kind": "semantic",
+      "text": "夏、商、周三代。英︰英明賢能之君",
+      "source": "cham"
+    },
+    {
+      "id": "112-16",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 1,
+        "start": 17,
+        "end": 22
+      },
+      "kind": "semantic",
+      "text": "孔子名丘，故自稱「丘」。有說為了避諱應讀作「某」。逮︰及，這裏是趕上的意思",
+      "source": "cham"
+    },
+    {
+      "id": "112-17",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 1,
+        "start": 24,
+        "end": 27
+      },
+      "kind": "semantic",
+      "text": "而看到古書上有一些記載。志︰通「誌」，記載；一說解作「志向」，整句就解成「而有這樣的志向」",
+      "source": "cham"
+    },
+    {
+      "id": "112-18",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 1,
+        "start": 34,
+        "end": 38
+      },
+      "kind": "semantic",
+      "text": "天下是天下人所公有的",
+      "source": "cham"
+    },
+    {
+      "id": "112-19",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 1,
+        "start": 39,
+        "end": 43
+      },
+      "kind": "semantic",
+      "text": "選舉賢德能幹的人出來辦事。與︰通「舉」",
+      "source": "cham"
+    },
+    {
+      "id": "112-20",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 1,
+        "start": 44,
+        "end": 48
+      },
+      "kind": "semantic",
+      "text": "講究信用，促進人與人之間的和睦關係",
+      "source": "cham"
+    },
+    {
+      "id": "112-21",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 1,
+        "start": 51,
+        "end": 62
+      },
+      "kind": "semantic",
+      "text": "第一個「親」字和第一個「子」字都是動詞。意思是人們不只是親愛自己的父母，不只是愛護自己的子女",
+      "source": "cham"
+    },
+    {
+      "id": "112-22",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 1,
+        "start": 79,
+        "end": 86
+      },
+      "kind": "pronunciation",
+      "lang": "yue",
+      "text": "關；gwaan1",
+      "source": "cham"
+    },
+    {
+      "id": "112-23",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 1,
+        "start": 79,
+        "end": 86
+      },
+      "kind": "pronunciation",
+      "lang": "cmn",
+      "text": "guān",
+      "source": "cham"
+    },
+    {
+      "id": "112-24",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 1,
+        "start": 79,
+        "end": 86
+      },
+      "kind": "semantic",
+      "text": "通「鰥」，老而無妻。寡︰老而無夫。孤︰幼而無父。獨︰老而無子",
+      "source": "cham"
+    },
+    {
+      "id": "112-25",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 1,
+        "start": 98,
+        "end": 99
+      },
+      "kind": "pronunciation",
+      "lang": "yue",
+      "text": "份；fan6",
+      "source": "cham"
+    },
+    {
+      "id": "112-26",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 1,
+        "start": 98,
+        "end": 99
+      },
+      "kind": "pronunciation",
+      "lang": "cmn",
+      "text": "fèn",
+      "source": "cham"
+    },
+    {
+      "id": "112-27",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 1,
+        "start": 98,
+        "end": 99
+      },
+      "kind": "semantic",
+      "text": "職份、工作",
+      "source": "cham"
+    },
+    {
+      "id": "112-28",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 1,
+        "start": 102,
+        "end": 103
+      },
+      "kind": "semantic",
+      "text": "出嫁，這裏指歸宿",
+      "source": "cham"
+    },
+    {
+      "id": "112-29",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 1,
+        "start": 104,
+        "end": 105
+      },
+      "kind": "pronunciation",
+      "lang": "yue",
+      "text": "污之陰去聲；wu3",
+      "source": "cham"
+    },
+    {
+      "id": "112-30",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 1,
+        "start": 104,
+        "end": 105
+      },
+      "kind": "pronunciation",
+      "lang": "cmn",
+      "text": "wù",
+      "source": "cham"
+    },
+    {
+      "id": "112-31",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 1,
+        "start": 104,
+        "end": 105
+      },
+      "kind": "semantic",
+      "text": "人們不喜歡將貨財抛棄在地上（而未能加以利用）。貨︰財物、物產資源。惡︰厭惡",
+      "source": "cham"
+    },
+    {
+      "id": "112-32",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 1,
+        "start": 113,
+        "end": 118
+      },
+      "kind": "semantic",
+      "text": "不必私藏到自己家裏",
+      "source": "cham"
+    },
+    {
+      "id": "112-33",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 1,
+        "start": 119,
+        "end": 120
+      },
+      "kind": "semantic",
+      "text": "指討厭不勞而獲",
+      "source": "cham"
+    },
+    {
+      "id": "112-34",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 1,
+        "start": 136,
+        "end": 137
+      },
+      "kind": "semantic",
+      "text": "圖謀、陰謀",
+      "source": "cham"
+    },
+    {
+      "id": "112-35",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 1,
+        "start": 140,
+        "end": 141
+      },
+      "kind": "semantic",
+      "text": "興起、發生",
+      "source": "cham"
+    },
+    {
+      "id": "112-36",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 1,
+        "start": 148,
+        "end": 149
+      },
+      "kind": "semantic",
+      "text": "發生",
+      "source": "cham"
+    },
+    {
+      "id": "112-37",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 1,
+        "start": 151,
+        "end": 156
+      },
+      "kind": "semantic",
+      "text": "因此大門可以不緊閉",
+      "source": "cham"
+    },
+    {
+      "id": "112-38",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 1,
+        "start": 160,
+        "end": 162
+      },
+      "kind": "semantic",
+      "text": "儒家之理想社會",
+      "source": "cham"
+    },
+    {
+      "id": "112-39",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 2,
+        "start": 1,
+        "end": 6
+      },
+      "kind": "semantic",
+      "text": "現在大道已經隱沒了",
+      "source": "cham"
+    },
+    {
+      "id": "112-40",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 2,
+        "start": 27,
+        "end": 34
+      },
+      "kind": "semantic",
+      "text": "天子、諸侯之位世襲而成為制度。大人︰指天子、諸侯。世及︰世襲。禮︰典章制度",
+      "source": "cham"
+    },
+    {
+      "id": "112-41",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 2,
+        "start": 35,
+        "end": 42
+      },
+      "kind": "semantic",
+      "text": "指築起城牆、挖掘壕溝來保衞自己的領土。城︰內城。郭︰外城。溝池︰護城河。固︰堅固的防禦工事",
+      "source": "cham"
+    },
+    {
+      "id": "112-42",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 2,
+        "start": 43,
+        "end": 48
+      },
+      "kind": "semantic",
+      "text": "禮法、義理，被作為治國的準則。紀︰法則、綱紀",
+      "source": "cham"
+    },
+    {
+      "id": "112-43",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 2,
+        "start": 50,
+        "end": 54
+      },
+      "kind": "semantic",
+      "text": "使君臣關係各符名份",
+      "source": "cham"
+    },
+    {
+      "id": "112-44",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 2,
+        "start": 55,
+        "end": 59
+      },
+      "kind": "semantic",
+      "text": "使父子關係親厚。篤︰使之親厚",
+      "source": "cham"
+    },
+    {
+      "id": "112-45",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 2,
+        "start": 65,
+        "end": 69
+      },
+      "kind": "semantic",
+      "text": "使夫婦關係和諧",
+      "source": "cham"
+    },
+    {
+      "id": "112-46",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 2,
+        "start": 70,
+        "end": 74
+      },
+      "kind": "semantic",
+      "text": "建立土地區分劃分的制度",
+      "source": "cham"
+    },
+    {
+      "id": "112-47",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 2,
+        "start": 80,
+        "end": 84
+      },
+      "kind": "semantic",
+      "text": "推重有勇有謀的人。賢︰尊崇、推重，作動詞用。知︰通「智」，智謀",
+      "source": "cham"
+    },
+    {
+      "id": "112-48",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 2,
+        "start": 85,
+        "end": 89
+      },
+      "kind": "semantic",
+      "text": "為自己建功作事。功︰立功，作動詞用",
+      "source": "cham"
+    },
+    {
+      "id": "112-49",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 2,
+        "start": 92,
+        "end": 94
+      },
+      "kind": "semantic",
+      "text": "所以陰謀詭計由此產生。用︰由。是︰此。作︰興起、發生",
+      "source": "cham"
+    },
+    {
+      "id": "112-50",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 2,
+        "start": 97,
+        "end": 98
+      },
+      "kind": "semantic",
+      "text": "而戰爭也由此而興起。兵︰兵戈、戰事",
+      "source": "cham"
+    },
+    {
+      "id": "112-51",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 2,
+        "start": 102,
+        "end": 115
+      },
+      "kind": "semantic",
+      "text": "夏禹、商湯、周文王、周武王、周成王、周公旦",
+      "source": "cham"
+    },
+    {
+      "id": "112-52",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 2,
+        "start": 116,
+        "end": 121
+      },
+      "kind": "semantic",
+      "text": "因此成為三代中傑出的人物。選︰人選",
+      "source": "cham"
+    },
+    {
+      "id": "112-53",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 2,
+        "start": 131,
+        "end": 134
+      },
+      "kind": "semantic",
+      "text": "嚴守、謹守",
+      "source": "cham"
+    },
+    {
+      "id": "112-54",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 2,
+        "start": 137,
+        "end": 141
+      },
+      "kind": "pronunciation",
+      "lang": "yue",
+      "text": "注；zyu3",
+      "source": "cham"
+    },
+    {
+      "id": "112-55",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 2,
+        "start": 137,
+        "end": 141
+      },
+      "kind": "pronunciation",
+      "lang": "cmn",
+      "text": "zhù",
+      "source": "cham"
+    },
+    {
+      "id": "112-56",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 2,
+        "start": 137,
+        "end": 141
+      },
+      "kind": "semantic",
+      "text": "用「禮」來表彰他們（人民）做對了的事情。著︰明。義︰合宜",
+      "source": "cham"
+    },
+    {
+      "id": "112-57",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 2,
+        "start": 142,
+        "end": 146
+      },
+      "kind": "semantic",
+      "text": "用「禮」來考核他們（人民）的誠信。考︰考核。信︰誠實",
+      "source": "cham"
+    },
+    {
+      "id": "112-58",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 2,
+        "start": 147,
+        "end": 150
+      },
+      "kind": "semantic",
+      "text": "用「禮」來明白指出他們（人民）的過失",
+      "source": "cham"
+    },
+    {
+      "id": "112-59",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 2,
+        "start": 151,
+        "end": 155
+      },
+      "kind": "semantic",
+      "text": "標榜仁愛，講求謙讓。刑：通「型」，作動詞用，解作「以……為典範」。講︰講求。讓︰禮讓、謙讓",
+      "source": "cham"
+    },
+    {
+      "id": "112-60",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 2,
+        "start": 156,
+        "end": 160
+      },
+      "kind": "semantic",
+      "text": "向人民昭示恆常（須遵守）的行為標準。常︰常規",
+      "source": "cham"
+    },
+    {
+      "id": "112-61",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 2,
+        "start": 164,
+        "end": 166
+      },
+      "kind": "semantic",
+      "text": "如果有人不依照這些原則的話。由︰順從、遵從",
+      "source": "cham"
+    },
+    {
+      "id": "112-62",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 2,
+        "start": 168,
+        "end": 172
+      },
+      "kind": "semantic",
+      "text": "有權位的人也要罷黜。埶︰通「勢」，指權位、高職。去︰罷免、去職",
+      "source": "cham"
+    },
+    {
+      "id": "112-63",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 2,
+        "start": 173,
+        "end": 177
+      },
+      "kind": "semantic",
+      "text": "大家都把他視作禍根。殃︰禍害",
+      "source": "cham"
+    },
+    {
+      "id": "112-64",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 2,
+        "start": 181,
+        "end": 183
+      },
+      "kind": "semantic",
+      "text": "小安，這是相對「大同」而言",
+      "source": "cham"
+    }
+  ],
+  "structuredSections": [
+    {
+      "key": "background",
+      "title": "背景資料",
+      "filename": "background.md",
+      "body": "《禮記》到唐代被列為儒家九經之一，至宋代列為十三經之一，成為士子們必讀之書。其主要注本為漢鄭玄注、唐孔穎達注疏之《禮記正義》。\n\n本文節錄自《禮記》的《禮運》篇，而《禮運》是《禮記》之第九篇。\n\n「禮」在儒家學說中，內涵兼含個人的生活禮節及國家之典章制度，而「禮」會因應時代環境的改變而有不同的「運行」方式，故稱「禮運」。\n\n《大同與小康》之標題為《禮記》原書所無，後人為了稱述之方便，就以此作為《禮運》第一章之篇名。本文記述孔子對「大同」以及「小康」兩種社會的看法。",
+      "order": 2
+    },
+    {
+      "key": "analysis",
+      "title": "賞析",
+      "filename": "analysis.md",
+      "body": "本文借孔子與言偃的對話，界定夏、商、周三代的時期為「小康」社會，夏以前的古代為「大同」世界，以表達作者對儒家整體政治社會最高理想的嚮往。\n\n全文可分為三部分，開首至「而有志焉」為第一部分，講述孔子作為賓客參與魯國蜡祭後歎息不已，而弟子子游在身邊問其所歎之由，孔子答是因為想到大道行於世上，以及夏、商、周年代的政治制度而歎息。第二部分由「大道之行也，天下為公」至「是謂大同」，記孔子闡述自己對大同社會的看法。第三部分自「今大道既隱」至文末，講述孔子對小康社會的看法。\n\n春秋戰國時代，社會劇變，儒家提出「大同」的概念，表達了最理想的社會形態；然而大同社會難於真正實現，故退而求其次，期望能建立小康社會。\n\n當大道得以施行的時候，天下由眾人所共同擁有，大家推舉賢能的人擔任領袖。人與人之間講究信用，和諧共處。人們不只親愛自己的父母及兒女，而且博愛他人，使老人家能安享晚年、壯年人可各盡所能、幼年人得到良好教養；鰥夫、寡婦、孤兒、沒有子女的長者、殘疾和患病的人都得到照顧；男的有工作，女的有好歸宿。此外，社會上可做到物資共享，人們不把資源拋棄或浪費，又不會據為己有；大家都討厭不勞而獲，也不會只為了自己的利益而努力。因此，種種自私計謀都不會出現，盜竊、搶劫、作亂的行為都不會發生，家中的大門只是掩上而不用緊閉。這就是「大同」社會。\n\n當大道再無法施行，天下就成為一家一姓的天下。百姓只照顧自己的父母及兒女，並為了自己能獲取貨物財寶而努力。王侯傳位給自己的子弟，推行世襲制度；劃定疆界，各自築起城牆、挖掘壕溝來保衞自己的領土；以禮義作為君臣、父子、兄弟和夫婦間的綱紀，並設立各種制度；推重有勇有謀的人，為自己建功作事。由於人們只重視個人利益，陰謀詭計因此產生，戰爭亦因而興起。以此之故，賢君運用禮制治國，凡事依禮而行，使人民知道對錯的標準；又標舉仁愛，講求謙讓，向百姓昭示要遵守的禮義常規。只要有不依禮而行的，即使是有權位的人也會被罷黜，因為民眾會把他視作禍患。這就是「小康」社會。\n\n本文結構清晰。第一部分可視作全文的引子，第二部分專談大同社會，第三部分專論小康社會。大同社會中能做的，往往在小康社會中未能企及，通過對比，使兩者的分別明晰。\n\n本文多用對偶，如「選賢與能，講信修睦」，「男有分，女有歸」，「各親其親，各子其子」，「以著其義，以考其信」；亦多用排比，如「使老有所終，壯有所用，幼有所長，矜、寡、孤、獨、廢、疾者皆有所養」，「大人世及以為禮；城郭溝池以為固；禮義以為紀」。運用不同的句式，能使文章讀起來更有節奏感。",
+      "order": 3
+    }
+  ]
+}

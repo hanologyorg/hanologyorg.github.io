@@ -1,0 +1,132 @@
+{
+  "bookId": "shengui",
+  "num": 11,
+  "title": "章第十·利人",
+  "author": "武曌",
+  "authorId": "C004",
+  "dynasty": "唐",
+  "era": "唐",
+  "eraCode": "24",
+  "genre": "prose",
+  "verses": [
+    {
+      "text": "夫利人者，臣之盛德也。為臣之道，莫大於利國利民。利國者，強本節用；利民者，省刑薄斂。"
+    },
+    {
+      "text": "昔文翁化蜀，立學校以教民，蜀地大治。"
+    },
+    {
+      "text": "召信臣治南陽，興水利以利民，民歌其德。"
+    },
+    {
+      "text": "此皆利人之臣也。"
+    },
+    {
+      "text": "夫利人之道，在乎務本。本莫大於農。故管子曰：「倉廩實則知禮節，衣食足則知榮辱。」"
+    },
+    {
+      "text": "是以善為臣者，必先勸農桑，薄賦斂，省徭役，使民各安其業。如是則國富兵強，民安俗淳。"
+    },
+    {
+      "text": "故曰：民為邦本，本固邦寧。此利人之要也。"
+    }
+  ],
+  "sections": {
+    "annotations": "1.文翁：西漢廬江人，任蜀郡守，創立地方官學。見《漢書·文翁傳》。\n2.蜀：古地名，今四川一帶。\n3.召信臣：西漢九江人，任南陽太守，興修水利，人稱「召父」。見《漢書·召信臣傳》。\n4.南陽：古地名，在今河南南陽一帶。\n5.管子：《管子·牧民》。管仲所述治國理論。"
+  },
+  "annotations": [
+    {
+      "id": "11-1",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 1,
+        "start": 1,
+        "end": 3
+      },
+      "kind": "person",
+      "text": "西漢廬江人，任蜀郡守，創立地方官學。見《漢書·文翁傳》。",
+      "source": "cham"
+    },
+    {
+      "id": "11-2",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 1,
+        "start": 13,
+        "end": 14
+      },
+      "kind": "place",
+      "text": "古地名，今四川一帶。",
+      "source": "cham"
+    },
+    {
+      "id": "11-3",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 2,
+        "start": 0,
+        "end": 3
+      },
+      "kind": "person",
+      "text": "西漢九江人，任南陽太守，興修水利，人稱「召父」。見《漢書·召信臣傳》。",
+      "source": "cham"
+    },
+    {
+      "id": "11-4",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 2,
+        "start": 4,
+        "end": 6
+      },
+      "kind": "place",
+      "text": "古地名，在今河南南陽一帶。",
+      "source": "cham"
+    },
+    {
+      "id": "11-5",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 4,
+        "start": 18,
+        "end": 20
+      },
+      "kind": "allusion",
+      "text": "《管子·牧民》。管仲所述治國理論。",
+      "source": "cham"
+    }
+  ],
+  "annotationLayers": [
+    {
+      "id": "default",
+      "label": "原文",
+      "shortLabel": "文",
+      "contributor": "C004",
+      "role": "author",
+      "nature": "annotation",
+      "displayOrder": 0,
+      "enabled": true,
+      "annotations": []
+    },
+    {
+      "id": "commentary",
+      "label": "注",
+      "shortLabel": "注",
+      "contributor": "C011",
+      "role": "commentator",
+      "nature": "commentary",
+      "displayOrder": 1,
+      "enabled": true,
+      "annotations": []
+    }
+  ],
+  "source": {
+    "textRef": "shengui",
+    "relation": "section"
+  }
+}

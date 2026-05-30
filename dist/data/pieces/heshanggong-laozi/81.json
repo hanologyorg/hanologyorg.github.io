@@ -1,0 +1,366 @@
+{
+  "bookId": "heshanggong-laozi",
+  "num": 81,
+  "title": "第八十一章（顯質）",
+  "author": "老子",
+  "authorId": "Laozi",
+  "dynasty": "周",
+  "era": "周",
+  "genre": "prose",
+  "verses": [
+    {
+      "text": "信言不美，"
+    },
+    {
+      "text": "美言不信。"
+    },
+    {
+      "text": "善者不辯，"
+    },
+    {
+      "text": "辯者不善。"
+    },
+    {
+      "text": "知者不博，"
+    },
+    {
+      "text": "博者不知。"
+    },
+    {
+      "text": "聖人不積，"
+    },
+    {
+      "text": "既以為人己愈有，"
+    },
+    {
+      "text": "既以與人己愈多。"
+    },
+    {
+      "text": "天之道，利而不害；"
+    },
+    {
+      "text": "聖人之道，為而不爭。"
+    }
+  ],
+  "sections": {},
+  "annotations": [],
+  "layers": {
+    "heshanggong": [
+      {
+        "id": "heshanggong-1",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 5
+        },
+        "kind": "commentary",
+        "text": "信者，如其實也。不美者，朴且質也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-2",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 0,
+          "end": 5
+        },
+        "kind": "commentary",
+        "text": "美言者，滋美之華辭。不信者，飾偽多空虛也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-3",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 2,
+          "start": 0,
+          "end": 5
+        },
+        "kind": "commentary",
+        "text": "善者，以道修身也。不綵文也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-4",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 3,
+          "start": 0,
+          "end": 5
+        },
+        "kind": "commentary",
+        "text": "辯者，謂巧言也。不善者，舌致患也。山有玉，掘其山；水有珠，濁其淵；辯口多言，亡其身。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-5",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 4,
+          "start": 0,
+          "end": 5
+        },
+        "kind": "commentary",
+        "text": "知者，謂知道之士。不博者，守一元也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-6",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 5,
+          "start": 0,
+          "end": 5
+        },
+        "kind": "commentary",
+        "text": "博者，多見聞也。不知者，失要真也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-7",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 6,
+          "start": 0,
+          "end": 5
+        },
+        "kind": "commentary",
+        "text": "聖人積德不積財，有德以教愚，有財以與貧也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-8",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 7,
+          "start": 0,
+          "end": 8
+        },
+        "kind": "commentary",
+        "text": "既以為人施設德化，己愈有德。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-9",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 8,
+          "start": 0,
+          "end": 8
+        },
+        "kind": "commentary",
+        "text": "既以財賄布施與人，而財益多，如日月之光，無有盡時。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-10",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 9,
+          "start": 0,
+          "end": 9
+        },
+        "kind": "commentary",
+        "text": "天生萬物，愛育之，令長大，無所傷害也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-11",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 10,
+          "start": 0,
+          "end": 10
+        },
+        "kind": "commentary",
+        "text": "聖人法天所施為，化成事就，不與下爭功名，故能全其聖功也。",
+        "source": "cham"
+      }
+    ]
+  },
+  "annotationLayers": [
+    {
+      "id": "default",
+      "label": "原文",
+      "shortLabel": "文",
+      "contributor": "Laozi",
+      "role": "author",
+      "nature": "annotation",
+      "displayOrder": 0,
+      "enabled": true,
+      "annotations": []
+    },
+    {
+      "id": "heshanggong",
+      "label": "河上公註",
+      "shortLabel": "河",
+      "contributor": "C002",
+      "role": "commentator",
+      "nature": "commentary",
+      "displayOrder": 1,
+      "enabled": true,
+      "annotations": [
+        {
+          "id": "heshanggong-1",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 5
+          },
+          "kind": "commentary",
+          "text": "信者，如其實也。不美者，朴且質也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-2",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 1,
+            "start": 0,
+            "end": 5
+          },
+          "kind": "commentary",
+          "text": "美言者，滋美之華辭。不信者，飾偽多空虛也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-3",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 2,
+            "start": 0,
+            "end": 5
+          },
+          "kind": "commentary",
+          "text": "善者，以道修身也。不綵文也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-4",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 3,
+            "start": 0,
+            "end": 5
+          },
+          "kind": "commentary",
+          "text": "辯者，謂巧言也。不善者，舌致患也。山有玉，掘其山；水有珠，濁其淵；辯口多言，亡其身。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-5",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 4,
+            "start": 0,
+            "end": 5
+          },
+          "kind": "commentary",
+          "text": "知者，謂知道之士。不博者，守一元也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-6",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 5,
+            "start": 0,
+            "end": 5
+          },
+          "kind": "commentary",
+          "text": "博者，多見聞也。不知者，失要真也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-7",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 6,
+            "start": 0,
+            "end": 5
+          },
+          "kind": "commentary",
+          "text": "聖人積德不積財，有德以教愚，有財以與貧也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-8",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 7,
+            "start": 0,
+            "end": 8
+          },
+          "kind": "commentary",
+          "text": "既以為人施設德化，己愈有德。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-9",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 8,
+            "start": 0,
+            "end": 8
+          },
+          "kind": "commentary",
+          "text": "既以財賄布施與人，而財益多，如日月之光，無有盡時。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-10",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 9,
+            "start": 0,
+            "end": 9
+          },
+          "kind": "commentary",
+          "text": "天生萬物，愛育之，令長大，無所傷害也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-11",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 10,
+            "start": 0,
+            "end": 10
+          },
+          "kind": "commentary",
+          "text": "聖人法天所施為，化成事就，不與下爭功名，故能全其聖功也。",
+          "source": "cham"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "textRef": "heshanggong-laozi",
+    "relation": "section"
+  }
+}

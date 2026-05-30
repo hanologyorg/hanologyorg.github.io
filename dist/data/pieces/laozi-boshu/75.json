@@ -1,0 +1,255 @@
+{
+  "bookId": "laozi-boshu",
+  "num": 75,
+  "title": "第七十五章（貴生）",
+  "author": "老子",
+  "authorId": "Laozi",
+  "dynasty": "周",
+  "era": "周",
+  "genre": "prose",
+  "verses": [
+    {
+      "text": "人之饑也 以亓取食稅之多也 是以飢"
+    },
+    {
+      "text": "百姓之不治也 以亓上有以為也 是以不治"
+    },
+    {
+      "text": "民之輕死 以亓求生之厚也 是以輕死"
+    },
+    {
+      "text": "夫唯无以生為者 是賢貴生"
+    }
+  ],
+  "sections": {},
+  "annotations": [],
+  "layers": {
+    "heshanggong": [
+      {
+        "id": "heshanggong-1",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 17
+        },
+        "kind": "commentary",
+        "text": "人民所以饑深者，以其君上稅食下太多，民皆化上為貪，叛道違德，故饑。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-2",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 17
+        },
+        "kind": "commentary",
+        "text": "民之不可治者，以其君上多欲，好有為也，",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-3",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 17
+        },
+        "kind": "commentary",
+        "text": "是以其民化上有為，情偽難治。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-4",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 17
+        },
+        "kind": "commentary",
+        "text": "人民所以侵犯死者，以其求生活之道太厚，貪利以自危。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-5",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 2,
+          "start": 13,
+          "end": 14
+        },
+        "kind": "commentary",
+        "text": "以求生太厚之故，輕入死地也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-6",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 2,
+          "start": 0,
+          "end": 17
+        },
+        "kind": "commentary",
+        "text": "夫唯獨無以生為務者，爵祿不干於意，財利不入於身，天子不得臣，諸侯不得使，則賢於貴生也。",
+        "source": "cham"
+      }
+    ],
+    "wangbi": [
+      {
+        "id": "wangbi-1",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 17
+        },
+        "kind": "commentary",
+        "text": "言民之所以僻，治之所以亂，皆由上不由其下也，民從上也。",
+        "source": "cham"
+      }
+    ]
+  },
+  "annotationLayers": [
+    {
+      "id": "default",
+      "label": "原文",
+      "shortLabel": "文",
+      "contributor": "Laozi",
+      "role": "author",
+      "nature": "annotation",
+      "displayOrder": 0,
+      "enabled": true,
+      "annotations": []
+    },
+    {
+      "id": "heshanggong",
+      "label": "河上公註",
+      "shortLabel": "河",
+      "contributor": "C002",
+      "role": "commentator",
+      "nature": "commentary",
+      "displayOrder": 1,
+      "enabled": true,
+      "annotations": [
+        {
+          "id": "heshanggong-1",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 17
+          },
+          "kind": "commentary",
+          "text": "人民所以饑深者，以其君上稅食下太多，民皆化上為貪，叛道違德，故饑。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-2",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 17
+          },
+          "kind": "commentary",
+          "text": "民之不可治者，以其君上多欲，好有為也，",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-3",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 17
+          },
+          "kind": "commentary",
+          "text": "是以其民化上有為，情偽難治。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-4",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 17
+          },
+          "kind": "commentary",
+          "text": "人民所以侵犯死者，以其求生活之道太厚，貪利以自危。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-5",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 2,
+            "start": 13,
+            "end": 14
+          },
+          "kind": "commentary",
+          "text": "以求生太厚之故，輕入死地也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-6",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 2,
+            "start": 0,
+            "end": 17
+          },
+          "kind": "commentary",
+          "text": "夫唯獨無以生為務者，爵祿不干於意，財利不入於身，天子不得臣，諸侯不得使，則賢於貴生也。",
+          "source": "cham"
+        }
+      ]
+    },
+    {
+      "id": "wangbi",
+      "label": "王弼註",
+      "shortLabel": "王",
+      "contributor": "C001",
+      "role": "commentator",
+      "nature": "commentary",
+      "displayOrder": 2,
+      "enabled": true,
+      "annotations": [
+        {
+          "id": "wangbi-1",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 17
+          },
+          "kind": "commentary",
+          "text": "言民之所以僻，治之所以亂，皆由上不由其下也，民從上也。",
+          "source": "cham"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "textRef": "laozi-boshu",
+    "relation": "section"
+  }
+}

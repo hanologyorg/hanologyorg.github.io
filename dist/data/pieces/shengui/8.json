@@ -1,0 +1,103 @@
+{
+  "bookId": "shengui",
+  "num": 8,
+  "title": "章第七·慎密",
+  "author": "武曌",
+  "authorId": "C004",
+  "dynasty": "唐",
+  "era": "唐",
+  "eraCode": "24",
+  "genre": "prose",
+  "verses": [
+    {
+      "text": "夫慎密者，臣之令德也。言不慎則禍至，謀不密則害生。是故古之君子，慎其言語，密其謀慮。"
+    },
+    {
+      "text": "昔霍光輔政，沈靜詳審，不輕發一言。及其行事，則決斷如流。此慎而後發之效也。"
+    },
+    {
+      "text": "夫慎密之道，在乎三思而後行。不妄言，不輕動。謀之於未然，防之於未發。"
+    },
+    {
+      "text": "故曰：機事不密則害成。是以君子慎其獨也。"
+    },
+    {
+      "text": "韓信之敗也，在於不密。使蒯通之計得行，天下未可知也。然信猶豫不決，事洩而敗。"
+    },
+    {
+      "text": "此慎密之不可廢也。"
+    }
+  ],
+  "sections": {
+    "annotations": "1.霍光：霍光（？—前68），字子孟，西漢大臣。輔佐昭帝、宣帝，以謹慎著稱。見《漢書·霍光傳》。\n2.韓信：韓信（？—前196），淮陰人。漢初三傑之一，後以謀反被殺。見《史記·淮陰侯列傳》。\n3.蒯通：蒯通，秦末漢初謀士。曾勸韓信自立，信不聽。見《史記·淮陰侯列傳》。"
+  },
+  "annotations": [
+    {
+      "id": "8-1",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 1,
+        "start": 1,
+        "end": 3
+      },
+      "kind": "person",
+      "text": "霍光（？—前68），字子孟，西漢大臣。輔佐昭帝、宣帝，以謹慎著稱。見《漢書·霍光傳》。",
+      "source": "cham"
+    },
+    {
+      "id": "8-2",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 4,
+        "start": 0,
+        "end": 2
+      },
+      "kind": "person",
+      "text": "韓信（？—前196），淮陰人。漢初三傑之一，後以謀反被殺。見《史記·淮陰侯列傳》。",
+      "source": "cham"
+    },
+    {
+      "id": "8-3",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 4,
+        "start": 12,
+        "end": 14
+      },
+      "kind": "person",
+      "text": "蒯通，秦末漢初謀士。曾勸韓信自立，信不聽。見《史記·淮陰侯列傳》。",
+      "source": "cham"
+    }
+  ],
+  "annotationLayers": [
+    {
+      "id": "default",
+      "label": "原文",
+      "shortLabel": "文",
+      "contributor": "C004",
+      "role": "author",
+      "nature": "annotation",
+      "displayOrder": 0,
+      "enabled": true,
+      "annotations": []
+    },
+    {
+      "id": "commentary",
+      "label": "注",
+      "shortLabel": "注",
+      "contributor": "C011",
+      "role": "commentator",
+      "nature": "commentary",
+      "displayOrder": 1,
+      "enabled": true,
+      "annotations": []
+    }
+  ],
+  "source": {
+    "textRef": "shengui",
+    "relation": "section"
+  }
+}

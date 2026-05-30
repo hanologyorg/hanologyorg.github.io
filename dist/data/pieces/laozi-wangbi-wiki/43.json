@@ -1,0 +1,108 @@
+{
+  "bookId": "laozi-wangbi-wiki",
+  "num": 43,
+  "title": "第四十三章",
+  "author": "老子",
+  "authorId": "Laozi",
+  "dynasty": "周",
+  "era": "周",
+  "genre": "prose",
+  "verses": [
+    {
+      "text": "天下之至柔，馳騁天下之至堅。"
+    },
+    {
+      "text": "無有入無間，吾是以知無為之有益。"
+    },
+    {
+      "text": "不言之教，無為之益，天下希及之。"
+    }
+  ],
+  "sections": {},
+  "annotations": [],
+  "layers": {
+    "wangbi": [
+      {
+        "id": "wangbi-1",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 14
+        },
+        "kind": "commentary",
+        "text": "氣無所不入，水無所不出於經。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-2",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 0,
+          "end": 16
+        },
+        "kind": "commentary",
+        "text": "虛無柔弱，無所不通，無有不可窮，至柔不可折，以此推之，故知無為之有益也。",
+        "source": "cham"
+      }
+    ]
+  },
+  "annotationLayers": [
+    {
+      "id": "default",
+      "label": "原文",
+      "shortLabel": "文",
+      "contributor": "Laozi",
+      "role": "author",
+      "nature": "annotation",
+      "displayOrder": 0,
+      "enabled": true,
+      "annotations": []
+    },
+    {
+      "id": "wangbi",
+      "label": "王弼註",
+      "shortLabel": "王",
+      "contributor": "C001",
+      "role": "commentator",
+      "nature": "commentary",
+      "displayOrder": 1,
+      "enabled": true,
+      "annotations": [
+        {
+          "id": "wangbi-1",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 14
+          },
+          "kind": "commentary",
+          "text": "氣無所不入，水無所不出於經。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-2",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 1,
+            "start": 0,
+            "end": 16
+          },
+          "kind": "commentary",
+          "text": "虛無柔弱，無所不通，無有不可窮，至柔不可折，以此推之，故知無為之有益也。",
+          "source": "cham"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "textRef": "laozi-wangbi-wiki",
+    "relation": "section"
+  }
+}

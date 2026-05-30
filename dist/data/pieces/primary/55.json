@@ -1,0 +1,179 @@
+{
+  "bookId": "primary",
+  "num": 55,
+  "title": "問劉十九",
+  "author": "白居易",
+  "authorId": "A028",
+  "dynasty": "唐",
+  "era": "唐",
+  "eraCode": "24",
+  "genre": "poetry",
+  "verses": [
+    {
+      "text": "綠螘新醅酒，紅泥小火爐。"
+    },
+    {
+      "text": "晚來天欲雪，能飲一杯無？"
+    }
+  ],
+  "sections": {
+    "analysis": "詩人用這首小詩邀請好友前來飲酒賞雪，言詞親切，富有生活情趣。\n\n在一個冬日的黃昏，天色陰沉沉的，像是快要下雪了。詩人為了驅寒，也為了解悶，篩好新釀的米酒，生着紅泥小火爐，可是對酒無伴，因而想到了友人劉十九，馬上以詩代柬，發出邀請：「你能來和我共飲一杯嗎？」\n\n第一、二句，詩人首先寫酒、爐俱備，渲染一種酒香四溢、暖融待飲的氣氛。接着，詩人再勾勒一筆「晚來天欲雪」的背景，越加襯出新酒、爐火備好的必要。一場大雪眼看就要來到，還有甚麼比圍爐對酒更適合度過這寒氣襲人的冬夜呢？經過這三句的層層蓄勢，末句乘勢發出殷切的邀請，就顯得順理成章了。詩人不問劉十九能不能來，只問他能不能飲，不僅緊密關聯着頭兩句的描寫，而且更能別出心裁，緊扣主題。\n\n詩人用平常之語寫平常之事，雖只淡淡幾筆，卻步步深入，饒有趣味。開頭兩句寫綠酒紅爐，在工整自然的對仗中，形成鮮明的顏色對比，雅趣盎然。全詩二十字，都是用口頭語，樸實如家常閒話，將詩人那種渴望與友人「把酒共飲」的情誼含蓄地表現出來，耐人咀嚼。",
+    "background": "元和十二年（公元817）冬，詩人在江州司馬任上作本詩。劉十九是白居易在江州時的友人，名字不詳。詩人用這首詩作為請柬，邀請劉十九晚上來飲酒敘談。",
+    "follow_up": "1. 聆聽誦讀錄音，投入感情朗讀詩歌，並由同學互評誰讀得有韻味。 https://www.edb.gov.hk/attachment/tc/curriculum-development/kla/chi-edu/resources/primary/lang/jilei/055_jilei_shi(cantonese).mp3\n\n2. 網上小遊戲：《古文知多少‧問劉十九》 https://game.hkedcity.net/chigame/index.php?game_id=6090fd76c872f88f04fc9228&type=ccancient&level=J&scheme=Phase2",
+    "think_questions": "1. 天氣寒冷的晚上，你最渴望做甚麼？為甚麼？\n\n2. 試舉出二、三種可取暖而又寫意的活動。\n\n3. 如果要邀請朋友到家中作客，你有甚麼建議以吸引他們前來應約？",
+    "annotations": "1.綠螘：○粵蟻；ngai5；○普yǐ。新釀的米酒，未經過濾，酒面浮渣，呈淡綠色，其細如蟻，稱\n為「綠螘」。\n螘：；蟻的本字。\n2.螘：；蟻的本字。\n3.醅：○粵胚；pui1；○普pēi。沒有過濾的酒，故酒精濃度低，多飲不\n醉。\n4.雪：此處用作動詞，即下雪。\n5.無：意同「否」，詢問的語氣詞。"
+  },
+  "annotations": [
+    {
+      "id": "55-1",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 0,
+        "end": 2
+      },
+      "kind": "pronunciation",
+      "lang": "yue",
+      "text": "蟻；ngai5",
+      "source": "cham"
+    },
+    {
+      "id": "55-2",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 0,
+        "end": 2
+      },
+      "kind": "pronunciation",
+      "lang": "cmn",
+      "text": "yǐ",
+      "source": "cham"
+    },
+    {
+      "id": "55-3",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 0,
+        "end": 2
+      },
+      "kind": "semantic",
+      "text": "新釀的米酒，未經過濾，酒面浮渣，呈淡綠色，其細如蟻，稱\n為「綠螘」。\n螘：；蟻的本字。",
+      "source": "cham"
+    },
+    {
+      "id": "55-4",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 1,
+        "end": 2
+      },
+      "kind": "semantic",
+      "text": "；蟻的本字。",
+      "source": "cham"
+    },
+    {
+      "id": "55-5",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 3,
+        "end": 4
+      },
+      "kind": "pronunciation",
+      "lang": "yue",
+      "text": "胚；pui1",
+      "source": "cham"
+    },
+    {
+      "id": "55-6",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 3,
+        "end": 4
+      },
+      "kind": "pronunciation",
+      "lang": "cmn",
+      "text": "pēi",
+      "source": "cham"
+    },
+    {
+      "id": "55-7",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 3,
+        "end": 4
+      },
+      "kind": "semantic",
+      "text": "沒有過濾的酒，故酒精濃度低，多飲不\n醉。",
+      "source": "cham"
+    },
+    {
+      "id": "55-8",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 1,
+        "start": 4,
+        "end": 5
+      },
+      "kind": "semantic",
+      "text": "此處用作動詞，即下雪。",
+      "source": "cham"
+    },
+    {
+      "id": "55-9",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 1,
+        "start": 10,
+        "end": 11
+      },
+      "kind": "semantic",
+      "text": "意同「否」，詢問的語氣詞。",
+      "source": "cham"
+    }
+  ],
+  "structuredSections": [
+    {
+      "key": "background",
+      "title": "背景資料",
+      "filename": "background.md",
+      "body": "元和十二年（公元817）冬，詩人在江州司馬任上作本詩。劉十九是白居易在江州時的友人，名字不詳。詩人用這首詩作為請柬，邀請劉十九晚上來飲酒敘談。",
+      "order": 2
+    },
+    {
+      "key": "analysis",
+      "title": "賞析",
+      "filename": "analysis.md",
+      "body": "詩人用這首小詩邀請好友前來飲酒賞雪，言詞親切，富有生活情趣。\n\n在一個冬日的黃昏，天色陰沉沉的，像是快要下雪了。詩人為了驅寒，也為了解悶，篩好新釀的米酒，生着紅泥小火爐，可是對酒無伴，因而想到了友人劉十九，馬上以詩代柬，發出邀請：「你能來和我共飲一杯嗎？」\n\n第一、二句，詩人首先寫酒、爐俱備，渲染一種酒香四溢、暖融待飲的氣氛。接着，詩人再勾勒一筆「晚來天欲雪」的背景，越加襯出新酒、爐火備好的必要。一場大雪眼看就要來到，還有甚麼比圍爐對酒更適合度過這寒氣襲人的冬夜呢？經過這三句的層層蓄勢，末句乘勢發出殷切的邀請，就顯得順理成章了。詩人不問劉十九能不能來，只問他能不能飲，不僅緊密關聯着頭兩句的描寫，而且更能別出心裁，緊扣主題。\n\n詩人用平常之語寫平常之事，雖只淡淡幾筆，卻步步深入，饒有趣味。開頭兩句寫綠酒紅爐，在工整自然的對仗中，形成鮮明的顏色對比，雅趣盎然。全詩二十字，都是用口頭語，樸實如家常閒話，將詩人那種渴望與友人「把酒共飲」的情誼含蓄地表現出來，耐人咀嚼。",
+      "order": 3
+    },
+    {
+      "key": "follow_up",
+      "title": "延伸活動",
+      "filename": "follow-up.md",
+      "body": "1. 聆聽誦讀錄音，投入感情朗讀詩歌，並由同學互評誰讀得有韻味。 https://www.edb.gov.hk/attachment/tc/curriculum-development/kla/chi-edu/resources/primary/lang/jilei/055_jilei_shi(cantonese).mp3\n\n2. 網上小遊戲：《古文知多少‧問劉十九》 https://game.hkedcity.net/chigame/index.php?game_id=6090fd76c872f88f04fc9228&type=ccancient&level=J&scheme=Phase2",
+      "order": 4
+    },
+    {
+      "key": "think_questions",
+      "title": "思考問題",
+      "filename": "think-questions.md",
+      "body": "1. 天氣寒冷的晚上，你最渴望做甚麼？為甚麼？\n\n2. 試舉出二、三種可取暖而又寫意的活動。\n\n3. 如果要邀請朋友到家中作客，你有甚麼建議以吸引他們前來應約？",
+      "order": 5
+    }
+  ]
+}

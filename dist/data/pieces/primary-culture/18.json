@@ -1,0 +1,189 @@
+{
+  "bookId": "primary-culture",
+  "num": 18,
+  "title": "歸園田居（其三）",
+  "author": "陶淵明",
+  "authorId": "A006",
+  "dynasty": "東晉",
+  "era": "東晉",
+  "eraCode": "13",
+  "genre": "poetry",
+  "verses": [
+    {
+      "text": "種豆南山下，草盛豆苗稀。晨興理荒穢，帶月荷鋤歸。道狹草木長，夕露霑我衣；衣霑不足惜，但使願無違。"
+    }
+  ],
+  "sections": {
+    "analysis": "傳統讀書人受儒家「學而優則仕」的思想薰陶，總希望建功立業，但當了官也不一定有作為，有時會選擇棄官歸隱。陶潛正是這類人物的代表，他不為五斗米折腰，寧願辭官退隱田園的價值取向，以及他作品中的田園風光，令後世許多仕途失意的知識分子從中找到慰藉。\n\n《歸園田居》共五首，是陶淵明的代表作之一，亦是田園詩的代表作品，大約寫於他辭去彭澤令，回鄉歸隱後的第二年。這詩是《歸園田居》第三首，描寫陶淵明親自參與農耕生活的情況和感受，表現了他對田園生活的熱愛和珍惜。作者早起晚歸，雖然辛勞，但樂此不疲；「帶月荷鋤」四字，更是活現出詩人悠然自得的神情意態。作者又說「夕露霑衣」並不足惜，他珍惜的只是「願無違」，藉以表明絕不後悔回歸田園的決心，表達了對理想人生的嚮往︰堅守高潔的節操，不願隨波逐流，「但使願無違」，追求精神上的自由，享受閒適。此外，陶潛沒有抱怨躬耕生活辛苦，反而滿足於簡樸、恬靜、平淡的農村生活，表達出心境的平靜比物慾和權力的追求更加可貴，他知足、安貧的想法影響着一代又一代知識份子。",
+    "annotations": "1.南山：指柴桑山，即廬山，位於江西省九江市南面，在陶淵明家附近。\n2.稀：稀疏，形容長勢不佳。\n3.晨興：早起。\n4.理荒穢：指除掉豆田中的雜草。\n5.帶月：指踏上歸途時，月已升空，它好像總是跟隨在後面，給自己帶引着走似的。帶，一作「戴」。\n6.荷：扛着。\n7.長：○粵場；tsœŋ4；○普cháng\n8.夕露：夜晚的露水。\n9.霑：通「沾」，即沾濕。\n10.不足惜：不用覺得可惜。\n11.願無違：不違背。"
+  },
+  "annotations": [
+    {
+      "id": "18-1",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 2,
+        "end": 4
+      },
+      "kind": "semantic",
+      "text": "指柴桑山，即廬山，位於江西省九江市南面，在陶淵明家附近。",
+      "source": "cham"
+    },
+    {
+      "id": "18-2",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 10,
+        "end": 11
+      },
+      "kind": "semantic",
+      "text": "稀疏，形容長勢不佳。",
+      "source": "cham"
+    },
+    {
+      "id": "18-3",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 12,
+        "end": 14
+      },
+      "kind": "semantic",
+      "text": "早起。",
+      "source": "cham"
+    },
+    {
+      "id": "18-4",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 14,
+        "end": 17
+      },
+      "kind": "semantic",
+      "text": "指除掉豆田中的雜草。",
+      "source": "cham"
+    },
+    {
+      "id": "18-5",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 18,
+        "end": 20
+      },
+      "kind": "semantic",
+      "text": "指踏上歸途時，月已升空，它好像總是跟隨在後面，給自己帶引着走似的。帶，一作「戴」。",
+      "source": "cham"
+    },
+    {
+      "id": "18-6",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 20,
+        "end": 21
+      },
+      "kind": "semantic",
+      "text": "扛着。",
+      "source": "cham"
+    },
+    {
+      "id": "18-7",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 28,
+        "end": 29
+      },
+      "kind": "pronunciation",
+      "lang": "yue",
+      "text": "場；tsœŋ4",
+      "source": "cham"
+    },
+    {
+      "id": "18-8",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 28,
+        "end": 29
+      },
+      "kind": "pronunciation",
+      "lang": "cmn",
+      "text": "cháng",
+      "source": "cham"
+    },
+    {
+      "id": "18-9",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 30,
+        "end": 32
+      },
+      "kind": "semantic",
+      "text": "夜晚的露水。",
+      "source": "cham"
+    },
+    {
+      "id": "18-10",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 32,
+        "end": 33
+      },
+      "kind": "semantic",
+      "text": "通「沾」，即沾濕。",
+      "source": "cham"
+    },
+    {
+      "id": "18-11",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 38,
+        "end": 41
+      },
+      "kind": "semantic",
+      "text": "不用覺得可惜。",
+      "source": "cham"
+    },
+    {
+      "id": "18-12",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 44,
+        "end": 47
+      },
+      "kind": "semantic",
+      "text": "不違背。",
+      "source": "cham"
+    }
+  ],
+  "structuredSections": [
+    {
+      "key": "analysis",
+      "title": "賞析",
+      "filename": "analysis.md",
+      "body": "傳統讀書人受儒家「學而優則仕」的思想薰陶，總希望建功立業，但當了官也不一定有作為，有時會選擇棄官歸隱。陶潛正是這類人物的代表，他不為五斗米折腰，寧願辭官退隱田園的價值取向，以及他作品中的田園風光，令後世許多仕途失意的知識分子從中找到慰藉。\n\n《歸園田居》共五首，是陶淵明的代表作之一，亦是田園詩的代表作品，大約寫於他辭去彭澤令，回鄉歸隱後的第二年。這詩是《歸園田居》第三首，描寫陶淵明親自參與農耕生活的情況和感受，表現了他對田園生活的熱愛和珍惜。作者早起晚歸，雖然辛勞，但樂此不疲；「帶月荷鋤」四字，更是活現出詩人悠然自得的神情意態。作者又說「夕露霑衣」並不足惜，他珍惜的只是「願無違」，藉以表明絕不後悔回歸田園的決心，表達了對理想人生的嚮往︰堅守高潔的節操，不願隨波逐流，「但使願無違」，追求精神上的自由，享受閒適。此外，陶潛沒有抱怨躬耕生活辛苦，反而滿足於簡樸、恬靜、平淡的農村生活，表達出心境的平靜比物慾和權力的追求更加可貴，他知足、安貧的想法影響着一代又一代知識份子。",
+      "order": 3
+    }
+  ]
+}

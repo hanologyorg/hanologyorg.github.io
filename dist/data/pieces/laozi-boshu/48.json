@@ -1,0 +1,405 @@
+{
+  "bookId": "laozi-boshu",
+  "num": 48,
+  "title": "第四十八章（無為）",
+  "author": "老子",
+  "authorId": "Laozi",
+  "dynasty": "周",
+  "era": "周",
+  "genre": "prose",
+  "verses": [
+    {
+      "text": "為學者日益 聞道者日損 損之又損 以至於無為 無為而無不為。"
+    },
+    {
+      "text": "將欲取天下也 恆無事 及其有事也 不足以取天下"
+    }
+  ],
+  "sections": {},
+  "annotations": [],
+  "layers": {
+    "heshanggong": [
+      {
+        "id": "heshanggong-1",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 30
+        },
+        "kind": "commentary",
+        "text": "學謂政教禮樂之學也。日益者，情欲文飾日以益多。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-2",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 30
+        },
+        "kind": "commentary",
+        "text": "道謂之自然之道也。日損者，情欲文飾日以消損。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-3",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 12,
+          "end": 13
+        },
+        "kind": "commentary",
+        "text": "損情欲也。又損之，所以漸去。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-4",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 17,
+          "end": 18
+        },
+        "kind": "commentary",
+        "text": "當恬淡如嬰兒，無所造為也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-5",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 23,
+          "end": 24
+        },
+        "kind": "commentary",
+        "text": "情欲斷絕，德於道合，則無所不施，無所不為也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-6",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 30
+        },
+        "kind": "commentary",
+        "text": "取，治也。治天下當以無事，不當以勞煩也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-7",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 11,
+          "end": 12
+        },
+        "kind": "commentary",
+        "text": "及其好有事，則政教煩，民不安，故不足以治天下也。",
+        "source": "cham"
+      }
+    ],
+    "wangbi": [
+      {
+        "id": "wangbi-1",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 30
+        },
+        "kind": "commentary",
+        "text": "務欲進其所能，益其所習。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-2",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 30
+        },
+        "kind": "commentary",
+        "text": "務欲反虛無也。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-3",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 12,
+          "end": 13
+        },
+        "kind": "commentary",
+        "text": "有為則有所失，故無為乃無所不為也。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-4",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 30
+        },
+        "kind": "commentary",
+        "text": "動常因也。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-5",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 11,
+          "end": 12
+        },
+        "kind": "commentary",
+        "text": "自己造也。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-6",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 17,
+          "end": 18
+        },
+        "kind": "commentary",
+        "text": "失統本也。",
+        "source": "cham"
+      }
+    ]
+  },
+  "annotationLayers": [
+    {
+      "id": "default",
+      "label": "原文",
+      "shortLabel": "文",
+      "contributor": "Laozi",
+      "role": "author",
+      "nature": "annotation",
+      "displayOrder": 0,
+      "enabled": true,
+      "annotations": []
+    },
+    {
+      "id": "heshanggong",
+      "label": "河上公註",
+      "shortLabel": "河",
+      "contributor": "C002",
+      "role": "commentator",
+      "nature": "commentary",
+      "displayOrder": 1,
+      "enabled": true,
+      "annotations": [
+        {
+          "id": "heshanggong-1",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 30
+          },
+          "kind": "commentary",
+          "text": "學謂政教禮樂之學也。日益者，情欲文飾日以益多。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-2",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 30
+          },
+          "kind": "commentary",
+          "text": "道謂之自然之道也。日損者，情欲文飾日以消損。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-3",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 12,
+            "end": 13
+          },
+          "kind": "commentary",
+          "text": "損情欲也。又損之，所以漸去。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-4",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 17,
+            "end": 18
+          },
+          "kind": "commentary",
+          "text": "當恬淡如嬰兒，無所造為也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-5",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 23,
+            "end": 24
+          },
+          "kind": "commentary",
+          "text": "情欲斷絕，德於道合，則無所不施，無所不為也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-6",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 30
+          },
+          "kind": "commentary",
+          "text": "取，治也。治天下當以無事，不當以勞煩也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-7",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 1,
+            "start": 11,
+            "end": 12
+          },
+          "kind": "commentary",
+          "text": "及其好有事，則政教煩，民不安，故不足以治天下也。",
+          "source": "cham"
+        }
+      ]
+    },
+    {
+      "id": "wangbi",
+      "label": "王弼註",
+      "shortLabel": "王",
+      "contributor": "C001",
+      "role": "commentator",
+      "nature": "commentary",
+      "displayOrder": 2,
+      "enabled": true,
+      "annotations": [
+        {
+          "id": "wangbi-1",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 30
+          },
+          "kind": "commentary",
+          "text": "務欲進其所能，益其所習。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-2",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 30
+          },
+          "kind": "commentary",
+          "text": "務欲反虛無也。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-3",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 12,
+            "end": 13
+          },
+          "kind": "commentary",
+          "text": "有為則有所失，故無為乃無所不為也。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-4",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 30
+          },
+          "kind": "commentary",
+          "text": "動常因也。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-5",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 1,
+            "start": 11,
+            "end": 12
+          },
+          "kind": "commentary",
+          "text": "自己造也。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-6",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 1,
+            "start": 17,
+            "end": 18
+          },
+          "kind": "commentary",
+          "text": "失統本也。",
+          "source": "cham"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "textRef": "laozi-boshu",
+    "relation": "section"
+  }
+}

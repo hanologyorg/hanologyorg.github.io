@@ -1,0 +1,137 @@
+{
+  "bookId": "primary-culture",
+  "num": 30,
+  "title": "賦得古原草送別",
+  "author": "白居易",
+  "authorId": "A028",
+  "dynasty": "唐",
+  "era": "唐",
+  "eraCode": "24",
+  "genre": "poetry",
+  "verses": [
+    {
+      "text": "離離原上草，一歲一枯榮。野火燒不盡，春風吹又生。遠芳侵古道，晴翠接荒城。又送王孫去，萋萋滿別情。"
+    }
+  ],
+  "sections": {
+    "analysis": "本詩以「古原草送別」為題，是以古原野草比喻離別之情的送別詩，作者描寫野草的枯榮，點出他與朋友之間的離別依依。從詩對野草的描寫，可略窺古人對大自然的看法。\n\n先哲賢人認為天地是不斷運行、永無止息的，具有涵育萬物的價值。本詩首兩句「離離原上草，一歲一枯榮」道出了野草春榮秋枯的生長規律，又通過「野火燒不盡」與「春風吹又生」兩句，形象地展現野草的強韌生命力。這正體現了天道自然，化育萬物的觀念；萬物方生方死，方死方生的循環規律，生與死相續不斷，是生生不已的自然規律和秩序。",
+    "annotations": "1.離離：茂盛的樣子。\n2.枯榮：枯是枯萎，榮是開花。枯榮即指野草的生長規律。\n3.遠芳侵古道：春草蔓生，一直伸向遠方，草香瀰漫了古道。遠芳：指伸延到遠處芳香的野花野草。侵：蔓延。古道：古老的道路。\n4.晴翠接荒城：陽光照耀下的廣闊綠野，連接着荒僻的城鎮。晴翠：指在陽光照耀下，草地反射出來的碧綠光色。接：連接。荒城：荒僻的城鎮。\n5.王孫：原指貴族公子，此處借指被送別的友人。\n6.萋萋：○粵妻；tsɐi1；○普qī。草生長茂盛的樣子。"
+  },
+  "annotations": [
+    {
+      "id": "30-1",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 0,
+        "end": 2
+      },
+      "kind": "semantic",
+      "text": "茂盛的樣子。",
+      "source": "cham"
+    },
+    {
+      "id": "30-2",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 9,
+        "end": 11
+      },
+      "kind": "semantic",
+      "text": "枯是枯萎，榮是開花。枯榮即指野草的生長規律。",
+      "source": "cham"
+    },
+    {
+      "id": "30-3",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 24,
+        "end": 29
+      },
+      "kind": "semantic",
+      "text": "春草蔓生，一直伸向遠方，草香瀰漫了古道。遠芳：指伸延到遠處芳香的野花野草。侵：蔓延。古道：古老的道路。",
+      "source": "cham"
+    },
+    {
+      "id": "30-4",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 30,
+        "end": 35
+      },
+      "kind": "semantic",
+      "text": "陽光照耀下的廣闊綠野，連接着荒僻的城鎮。晴翠：指在陽光照耀下，草地反射出來的碧綠光色。接：連接。荒城：荒僻的城鎮。",
+      "source": "cham"
+    },
+    {
+      "id": "30-5",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 38,
+        "end": 40
+      },
+      "kind": "semantic",
+      "text": "原指貴族公子，此處借指被送別的友人。",
+      "source": "cham"
+    },
+    {
+      "id": "30-6",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 42,
+        "end": 44
+      },
+      "kind": "pronunciation",
+      "lang": "yue",
+      "text": "妻；tsɐi1",
+      "source": "cham"
+    },
+    {
+      "id": "30-7",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 42,
+        "end": 44
+      },
+      "kind": "pronunciation",
+      "lang": "cmn",
+      "text": "qī",
+      "source": "cham"
+    },
+    {
+      "id": "30-8",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 42,
+        "end": 44
+      },
+      "kind": "semantic",
+      "text": "草生長茂盛的樣子。",
+      "source": "cham"
+    }
+  ],
+  "structuredSections": [
+    {
+      "key": "analysis",
+      "title": "賞析",
+      "filename": "analysis.md",
+      "body": "本詩以「古原草送別」為題，是以古原野草比喻離別之情的送別詩，作者描寫野草的枯榮，點出他與朋友之間的離別依依。從詩對野草的描寫，可略窺古人對大自然的看法。\n\n先哲賢人認為天地是不斷運行、永無止息的，具有涵育萬物的價值。本詩首兩句「離離原上草，一歲一枯榮」道出了野草春榮秋枯的生長規律，又通過「野火燒不盡」與「春風吹又生」兩句，形象地展現野草的強韌生命力。這正體現了天道自然，化育萬物的觀念；萬物方生方死，方死方生的循環規律，生與死相續不斷，是生生不已的自然規律和秩序。",
+      "order": 3
+    }
+  ]
+}

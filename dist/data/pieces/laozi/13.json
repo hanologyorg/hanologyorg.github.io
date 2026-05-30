@@ -1,0 +1,229 @@
+{
+  "bookId": "laozi",
+  "num": 13,
+  "title": "第十三章",
+  "author": "老子",
+  "authorId": "Laozi",
+  "dynasty": "周",
+  "era": "周",
+  "genre": "prose",
+  "verses": [
+    {
+      "text": "寵辱若驚，貴大患若身。"
+    },
+    {
+      "text": "何謂寵辱若驚？寵為下，得之若驚，失之若驚，是謂寵辱若驚。"
+    },
+    {
+      "text": "何謂貴大患若身？吾所以有大患者，為吾有身；及吾無身，吾有何患？"
+    },
+    {
+      "text": "故貴以身為天下，若可寄天下。愛以身為天下，若可託天下。"
+    }
+  ],
+  "sections": {},
+  "annotations": [],
+  "layers": {
+    "hesonggong": [
+      {
+        "id": "hesonggong-1",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 11
+        },
+        "kind": "semantic",
+        "text": "寵辱若驚，言不可以寵故驕，不可以辱故憂，當自知者。",
+        "source": "cham"
+      },
+      {
+        "id": "hesonggong-2",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 2,
+          "start": 0,
+          "end": 31
+        },
+        "kind": "semantic",
+        "text": "貴大患若身，言身為患本，當貴而重之，不可以穢辱。",
+        "source": "cham"
+      },
+      {
+        "id": "hesonggong-3",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 3,
+          "start": 0,
+          "end": 27
+        },
+        "kind": "semantic",
+        "text": "貴身愛身，可以寄託天下，為天下主。",
+        "source": "cham"
+      }
+    ],
+    "wangbi": [
+      {
+        "id": "wangbi-1",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 11
+        },
+        "kind": "semantic",
+        "text": "寵辱皆當若驚，不可以喜寵而驕，不可以辱而憂。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-2",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 2,
+          "start": 0,
+          "end": 31
+        },
+        "kind": "semantic",
+        "text": "貴身若大患，身為患本，無身則無患。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-3",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 3,
+          "start": 0,
+          "end": 27
+        },
+        "kind": "semantic",
+        "text": "以身為天下，可以寄託天下。",
+        "source": "cham"
+      }
+    ]
+  },
+  "annotationLayers": [
+    {
+      "id": "default",
+      "label": "原文",
+      "shortLabel": "文",
+      "contributor": "Laozi",
+      "role": "author",
+      "nature": "annotation",
+      "displayOrder": 0,
+      "enabled": true,
+      "annotations": []
+    },
+    {
+      "id": "wangbi",
+      "label": "王弼註",
+      "shortLabel": "王",
+      "contributor": "C001",
+      "role": "commentator",
+      "nature": "commentary",
+      "displayOrder": 1,
+      "enabled": true,
+      "annotations": [
+        {
+          "id": "wangbi-1",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 11
+          },
+          "kind": "semantic",
+          "text": "寵辱皆當若驚，不可以喜寵而驕，不可以辱而憂。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-2",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 2,
+            "start": 0,
+            "end": 31
+          },
+          "kind": "semantic",
+          "text": "貴身若大患，身為患本，無身則無患。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-3",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 3,
+            "start": 0,
+            "end": 27
+          },
+          "kind": "semantic",
+          "text": "以身為天下，可以寄託天下。",
+          "source": "cham"
+        }
+      ]
+    },
+    {
+      "id": "hesonggong",
+      "label": "河上公註",
+      "shortLabel": "河",
+      "contributor": "C002",
+      "role": "commentator",
+      "nature": "commentary",
+      "displayOrder": 2,
+      "enabled": true,
+      "annotations": [
+        {
+          "id": "hesonggong-1",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 11
+          },
+          "kind": "semantic",
+          "text": "寵辱若驚，言不可以寵故驕，不可以辱故憂，當自知者。",
+          "source": "cham"
+        },
+        {
+          "id": "hesonggong-2",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 2,
+            "start": 0,
+            "end": 31
+          },
+          "kind": "semantic",
+          "text": "貴大患若身，言身為患本，當貴而重之，不可以穢辱。",
+          "source": "cham"
+        },
+        {
+          "id": "hesonggong-3",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 3,
+            "start": 0,
+            "end": 27
+          },
+          "kind": "semantic",
+          "text": "貴身愛身，可以寄託天下，為天下主。",
+          "source": "cham"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "textRef": "laozi",
+    "relation": "section"
+  }
+}

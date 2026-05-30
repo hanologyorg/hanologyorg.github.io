@@ -1,0 +1,330 @@
+{
+  "bookId": "laozi-boshu",
+  "num": 70,
+  "title": "第七十章（懷玉）",
+  "author": "老子",
+  "authorId": "Laozi",
+  "dynasty": "周",
+  "era": "周",
+  "genre": "prose",
+  "verses": [
+    {
+      "text": "吾言甚易知也 甚易行也 而人莫之能知也 而莫之能行也"
+    },
+    {
+      "text": "言有君 事有宗 夫唯无知也 是以不我知"
+    },
+    {
+      "text": "知我者希 則我貴矣 是以聖人被褐而懷玉"
+    }
+  ],
+  "sections": {},
+  "annotations": [],
+  "layers": {
+    "heshanggong": [
+      {
+        "id": "heshanggong-1",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 26
+        },
+        "kind": "commentary",
+        "text": "人惡柔弱，好剛強也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-2",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 26
+        },
+        "kind": "commentary",
+        "text": "我所言有宗祖根本，事有君臣上下，世人不知者，非我之無德，不與我反也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-3",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 8,
+          "end": 9
+        },
+        "kind": "commentary",
+        "text": "夫惟聖人也，是我德之暗，不見於外，窮極微妙，故無知也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-4",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 0,
+          "end": 19
+        },
+        "kind": "commentary",
+        "text": "希，少也。唯達道者乃能知我，故為貴也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-5",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 2,
+          "start": 0,
+          "end": 19
+        },
+        "kind": "commentary",
+        "text": "被褐者薄外，懷玉者厚內，匿寶藏德，不以示人也。",
+        "source": "cham"
+      }
+    ],
+    "wangbi": [
+      {
+        "id": "wangbi-1",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 26
+        },
+        "kind": "commentary",
+        "text": "可不出戶窺牖而知，故曰甚易知也。無為而成，故曰甚易行也。惑於躁欲，故曰，莫之能知也。迷於榮利，故曰，莫之能行也。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-2",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 26
+        },
+        "kind": "commentary",
+        "text": "宗，萬物之宗也。君，萬物之主也。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-3",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 8,
+          "end": 9
+        },
+        "kind": "commentary",
+        "text": "以其言有宗、事有君之故，故有知之人不得不知之也。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-4",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 0,
+          "end": 19
+        },
+        "kind": "commentary",
+        "text": "唯深，故知者希也；知我益希，我亦無匹。故曰，知我者希則我者貴也。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-5",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 2,
+          "start": 0,
+          "end": 19
+        },
+        "kind": "commentary",
+        "text": "被褐者，同其塵，懷玉者，寶其真也。聖人之所以難知，以其同塵而不殊，懷玉而不渝，故難知而為貴也。",
+        "source": "cham"
+      }
+    ]
+  },
+  "annotationLayers": [
+    {
+      "id": "default",
+      "label": "原文",
+      "shortLabel": "文",
+      "contributor": "Laozi",
+      "role": "author",
+      "nature": "annotation",
+      "displayOrder": 0,
+      "enabled": true,
+      "annotations": []
+    },
+    {
+      "id": "heshanggong",
+      "label": "河上公註",
+      "shortLabel": "河",
+      "contributor": "C002",
+      "role": "commentator",
+      "nature": "commentary",
+      "displayOrder": 1,
+      "enabled": true,
+      "annotations": [
+        {
+          "id": "heshanggong-1",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 26
+          },
+          "kind": "commentary",
+          "text": "人惡柔弱，好剛強也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-2",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 26
+          },
+          "kind": "commentary",
+          "text": "我所言有宗祖根本，事有君臣上下，世人不知者，非我之無德，不與我反也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-3",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 1,
+            "start": 8,
+            "end": 9
+          },
+          "kind": "commentary",
+          "text": "夫惟聖人也，是我德之暗，不見於外，窮極微妙，故無知也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-4",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 1,
+            "start": 0,
+            "end": 19
+          },
+          "kind": "commentary",
+          "text": "希，少也。唯達道者乃能知我，故為貴也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-5",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 2,
+            "start": 0,
+            "end": 19
+          },
+          "kind": "commentary",
+          "text": "被褐者薄外，懷玉者厚內，匿寶藏德，不以示人也。",
+          "source": "cham"
+        }
+      ]
+    },
+    {
+      "id": "wangbi",
+      "label": "王弼註",
+      "shortLabel": "王",
+      "contributor": "C001",
+      "role": "commentator",
+      "nature": "commentary",
+      "displayOrder": 2,
+      "enabled": true,
+      "annotations": [
+        {
+          "id": "wangbi-1",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 26
+          },
+          "kind": "commentary",
+          "text": "可不出戶窺牖而知，故曰甚易知也。無為而成，故曰甚易行也。惑於躁欲，故曰，莫之能知也。迷於榮利，故曰，莫之能行也。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-2",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 26
+          },
+          "kind": "commentary",
+          "text": "宗，萬物之宗也。君，萬物之主也。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-3",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 1,
+            "start": 8,
+            "end": 9
+          },
+          "kind": "commentary",
+          "text": "以其言有宗、事有君之故，故有知之人不得不知之也。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-4",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 1,
+            "start": 0,
+            "end": 19
+          },
+          "kind": "commentary",
+          "text": "唯深，故知者希也；知我益希，我亦無匹。故曰，知我者希則我者貴也。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-5",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 2,
+            "start": 0,
+            "end": 19
+          },
+          "kind": "commentary",
+          "text": "被褐者，同其塵，懷玉者，寶其真也。聖人之所以難知，以其同塵而不殊，懷玉而不渝，故難知而為貴也。",
+          "source": "cham"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "textRef": "laozi-boshu",
+    "relation": "section"
+  }
+}

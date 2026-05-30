@@ -1,0 +1,24 @@
+{
+  "id": "A102",
+  "name": "佚名",
+  "era": "漢",
+  "eraCode": "07",
+  "workCount": 12,
+  "names": [],
+  "bio": "本文乃根據元代蒙古人脫脫（公元1314–1356）主修的《宋史》及南宋人章穎（公元1141–1218）所著《南渡十將傳》中的《岳飛傳》改寫而成，改寫者姓名不詳。",
+  "bioSource": "",
+  "works": [
+    "primary-culture/5",
+    "primary-culture/10",
+    "primary-culture/13",
+    "primary-culture/22",
+    "primary-culture/23",
+    "primary-culture/25",
+    "primary-culture/26",
+    "primary-culture/27",
+    "primary-culture/28",
+    "primary-culture/32",
+    "secondary/5",
+    "secondary/142"
+  ]
+}

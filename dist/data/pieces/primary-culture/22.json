@@ -1,0 +1,228 @@
+{
+  "bookId": "primary-culture",
+  "num": 22,
+  "title": "精衞填海",
+  "author": "佚名",
+  "authorId": "A102",
+  "dynasty": "漢",
+  "era": "漢",
+  "eraCode": "07",
+  "genre": "prose",
+  "verses": [
+    {
+      "text": "又北二百里，曰發鳩之山，其上多柘木。有鳥焉，其狀如烏，文首、白喙、赤足，名曰精衞，其鳴自詨。是炎帝之少女，名曰女娃，女娃游於東海，溺而不返，故為精衞，常銜西山之木石，以堙於東海。漳水出焉，東流注於河。"
+    }
+  ],
+  "sections": {
+    "analysis": "《山海經》記載許多詭異怪獸、光怪陸離的故事，亦保存不少上古神話。其中《精衞填海》是頗具感染力的一篇，連東晉詩人陶淵明讀完這故事後，也以「精衞銜微木，將以填滄海」讚賞精衞鍥而不捨的精神。\n\n故事記述炎帝小女兒被東海波濤吞噬後，化成精衞鳥，自此便永無休止地從發鳩山上，來來回回銜運小樹枝和小石粒，把這些東西統統丟進東海裏去，決心要把大海填平。\n\n精衞鳥願以自身微弱之力填平大海，心懷「知其不可為而為之」的精神，勇於與命運抗爭到底。這種堅毅不拔，永不放棄的奮進力，堪稱民族精神的典範，在文化上別具象徵意義。孔子為求理想，為世所用，周遊列國十多年以游說諸侯；諸葛亮為輔助劉備，與曹操、孫權鼎足而立，「鞠躬盡瘁，死而後已」；孫中山先生為革命終身奮鬥，至死仍念念不忘。這些仁人志士，但求義之所在，必悉力以赴，不計得失成敗，矢志不渝，可以說是精衞這種精神的延續。",
+    "annotations": "1.發鳩之山：山名，在今山西省長子縣西。\n2.柘木：柘樹，一種灌木，葉可餵蠶。\n3.烏：烏鴉。\n4.文首：頭上有斑紋。\n5.白喙：白色的鳥嘴。喙，鳥獸的嘴。\n6.赤足：紅色的腳。\n7.詨：○粵驍；hiːu1；○普xiāo。呼叫。精衞鳥的叫聲像「精衞」二字，故曰「自詨」。\n8.炎帝：即神農氏，傳說中上古時代的部落首領。\n9.少女：小女兒。\n10.女娃：人名，炎帝的小女兒。\n11.溺：淹沒。\n12.堙：堵塞、填塞。\n13.漳水：河流名，在今山西省境內。"
+  },
+  "annotations": [
+    {
+      "id": "22-1",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 7,
+        "end": 11
+      },
+      "kind": "semantic",
+      "text": "山名，在今山西省長子縣西。",
+      "source": "cham"
+    },
+    {
+      "id": "22-2",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 15,
+        "end": 17
+      },
+      "kind": "semantic",
+      "text": "柘樹，一種灌木，葉可餵蠶。",
+      "source": "cham"
+    },
+    {
+      "id": "22-3",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 25,
+        "end": 26
+      },
+      "kind": "semantic",
+      "text": "烏鴉。",
+      "source": "cham"
+    },
+    {
+      "id": "22-4",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 27,
+        "end": 29
+      },
+      "kind": "semantic",
+      "text": "頭上有斑紋。",
+      "source": "cham"
+    },
+    {
+      "id": "22-5",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 30,
+        "end": 32
+      },
+      "kind": "semantic",
+      "text": "白色的鳥嘴。喙，鳥獸的嘴。",
+      "source": "cham"
+    },
+    {
+      "id": "22-6",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 33,
+        "end": 35
+      },
+      "kind": "semantic",
+      "text": "紅色的腳。",
+      "source": "cham"
+    },
+    {
+      "id": "22-7",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 44,
+        "end": 45
+      },
+      "kind": "pronunciation",
+      "lang": "yue",
+      "text": "驍；hiːu1",
+      "source": "cham"
+    },
+    {
+      "id": "22-8",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 44,
+        "end": 45
+      },
+      "kind": "pronunciation",
+      "lang": "cmn",
+      "text": "xiāo",
+      "source": "cham"
+    },
+    {
+      "id": "22-9",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 44,
+        "end": 45
+      },
+      "kind": "semantic",
+      "text": "呼叫。精衞鳥的叫聲像「精衞」二字，故曰「自詨」。",
+      "source": "cham"
+    },
+    {
+      "id": "22-10",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 47,
+        "end": 49
+      },
+      "kind": "semantic",
+      "text": "即神農氏，傳說中上古時代的部落首領。",
+      "source": "cham"
+    },
+    {
+      "id": "22-11",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 50,
+        "end": 52
+      },
+      "kind": "semantic",
+      "text": "小女兒。",
+      "source": "cham"
+    },
+    {
+      "id": "22-12",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 55,
+        "end": 57
+      },
+      "kind": "semantic",
+      "text": "人名，炎帝的小女兒。",
+      "source": "cham"
+    },
+    {
+      "id": "22-13",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 65,
+        "end": 66
+      },
+      "kind": "semantic",
+      "text": "淹沒。",
+      "source": "cham"
+    },
+    {
+      "id": "22-14",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 84,
+        "end": 85
+      },
+      "kind": "semantic",
+      "text": "堵塞、填塞。",
+      "source": "cham"
+    },
+    {
+      "id": "22-15",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 89,
+        "end": 91
+      },
+      "kind": "semantic",
+      "text": "河流名，在今山西省境內。",
+      "source": "cham"
+    }
+  ],
+  "structuredSections": [
+    {
+      "key": "analysis",
+      "title": "賞析",
+      "filename": "analysis.md",
+      "body": "《山海經》記載許多詭異怪獸、光怪陸離的故事，亦保存不少上古神話。其中《精衞填海》是頗具感染力的一篇，連東晉詩人陶淵明讀完這故事後，也以「精衞銜微木，將以填滄海」讚賞精衞鍥而不捨的精神。\n\n故事記述炎帝小女兒被東海波濤吞噬後，化成精衞鳥，自此便永無休止地從發鳩山上，來來回回銜運小樹枝和小石粒，把這些東西統統丟進東海裏去，決心要把大海填平。\n\n精衞鳥願以自身微弱之力填平大海，心懷「知其不可為而為之」的精神，勇於與命運抗爭到底。這種堅毅不拔，永不放棄的奮進力，堪稱民族精神的典範，在文化上別具象徵意義。孔子為求理想，為世所用，周遊列國十多年以游說諸侯；諸葛亮為輔助劉備，與曹操、孫權鼎足而立，「鞠躬盡瘁，死而後已」；孫中山先生為革命終身奮鬥，至死仍念念不忘。這些仁人志士，但求義之所在，必悉力以赴，不計得失成敗，矢志不渝，可以說是精衞這種精神的延續。",
+      "order": 3
+    }
+  ]
+}

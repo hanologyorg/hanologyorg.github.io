@@ -1,0 +1,192 @@
+{
+  "bookId": "heshanggong-laozi",
+  "num": 37,
+  "title": "第三十七章（為政）",
+  "author": "老子",
+  "authorId": "Laozi",
+  "dynasty": "周",
+  "era": "周",
+  "genre": "prose",
+  "verses": [
+    {
+      "text": "道常無為而無不為。"
+    },
+    {
+      "text": "侯王若能守之，萬物將自化。"
+    },
+    {
+      "text": "化而欲作，吾將鎮之以無名之樸。"
+    },
+    {
+      "text": "無名之樸，夫亦將無欲。不欲以靜，"
+    },
+    {
+      "text": "天下將自定。"
+    }
+  ],
+  "sections": {},
+  "annotations": [],
+  "layers": {
+    "heshanggong": [
+      {
+        "id": "heshanggong-1",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 9
+        },
+        "kind": "commentary",
+        "text": "道以無為為常也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-2",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 0,
+          "end": 13
+        },
+        "kind": "commentary",
+        "text": "言侯王若能守道，萬物將自化效於己也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-3",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 2,
+          "start": 0,
+          "end": 15
+        },
+        "kind": "commentary",
+        "text": "吾，身也。無明之樸，道德也。萬物已化效於己也。 復欲作巧偽者，侯王當身鎮撫以道德也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-4",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 3,
+          "start": 0,
+          "end": 16
+        },
+        "kind": "commentary",
+        "text": "言侯王鎮撫以道德，民亦將不欲，故當以清靜導化之也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-5",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 4,
+          "start": 0,
+          "end": 6
+        },
+        "kind": "commentary",
+        "text": "能如是者，天下將自正定也。",
+        "source": "cham"
+      }
+    ]
+  },
+  "annotationLayers": [
+    {
+      "id": "default",
+      "label": "原文",
+      "shortLabel": "文",
+      "contributor": "Laozi",
+      "role": "author",
+      "nature": "annotation",
+      "displayOrder": 0,
+      "enabled": true,
+      "annotations": []
+    },
+    {
+      "id": "heshanggong",
+      "label": "河上公註",
+      "shortLabel": "河",
+      "contributor": "C002",
+      "role": "commentator",
+      "nature": "commentary",
+      "displayOrder": 1,
+      "enabled": true,
+      "annotations": [
+        {
+          "id": "heshanggong-1",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 9
+          },
+          "kind": "commentary",
+          "text": "道以無為為常也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-2",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 1,
+            "start": 0,
+            "end": 13
+          },
+          "kind": "commentary",
+          "text": "言侯王若能守道，萬物將自化效於己也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-3",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 2,
+            "start": 0,
+            "end": 15
+          },
+          "kind": "commentary",
+          "text": "吾，身也。無明之樸，道德也。萬物已化效於己也。 復欲作巧偽者，侯王當身鎮撫以道德也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-4",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 3,
+            "start": 0,
+            "end": 16
+          },
+          "kind": "commentary",
+          "text": "言侯王鎮撫以道德，民亦將不欲，故當以清靜導化之也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-5",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 4,
+            "start": 0,
+            "end": 6
+          },
+          "kind": "commentary",
+          "text": "能如是者，天下將自正定也。",
+          "source": "cham"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "textRef": "heshanggong-laozi",
+    "relation": "section"
+  }
+}

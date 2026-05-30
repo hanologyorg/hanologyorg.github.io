@@ -1,0 +1,221 @@
+{
+  "bookId": "laozi-wangbi-wiki",
+  "num": 33,
+  "title": "第三十三章",
+  "author": "老子",
+  "authorId": "Laozi",
+  "dynasty": "周",
+  "era": "周",
+  "genre": "prose",
+  "verses": [
+    {
+      "text": "知人者智，自知者明。"
+    },
+    {
+      "text": "勝人者有力，自勝者強。"
+    },
+    {
+      "text": "知足者富。"
+    },
+    {
+      "text": "強行者有志。"
+    },
+    {
+      "text": "不失其所者久。"
+    },
+    {
+      "text": "死而不亡者壽。"
+    }
+  ],
+  "sections": {},
+  "annotations": [],
+  "layers": {
+    "wangbi": [
+      {
+        "id": "wangbi-1",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 10
+        },
+        "kind": "commentary",
+        "text": "知人者，智而已矣，未若自知者超智之上也。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-2",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 0,
+          "end": 11
+        },
+        "kind": "commentary",
+        "text": "勝人者，有力而已矣，未若自勝者無物以損其力，用其智於人，未若用其智於己也。用其力於人，未若用其力於己也。明用於己，則物無避焉，力用於己，則物無改焉。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-3",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 2,
+          "start": 0,
+          "end": 5
+        },
+        "kind": "commentary",
+        "text": "知足自不失，故富也。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-4",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 3,
+          "start": 0,
+          "end": 6
+        },
+        "kind": "commentary",
+        "text": "勤能行之，其志必獲，故曰强行者有志矣。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-5",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 4,
+          "start": 0,
+          "end": 7
+        },
+        "kind": "commentary",
+        "text": "以明自察，量力而行，不失其所，必獲久長矣。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-6",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 5,
+          "start": 0,
+          "end": 7
+        },
+        "kind": "commentary",
+        "text": "雖死而以為生之道不亡，乃得全其壽，身沒而道猶存，況身存而道不卒乎。",
+        "source": "cham"
+      }
+    ]
+  },
+  "annotationLayers": [
+    {
+      "id": "default",
+      "label": "原文",
+      "shortLabel": "文",
+      "contributor": "Laozi",
+      "role": "author",
+      "nature": "annotation",
+      "displayOrder": 0,
+      "enabled": true,
+      "annotations": []
+    },
+    {
+      "id": "wangbi",
+      "label": "王弼註",
+      "shortLabel": "王",
+      "contributor": "C001",
+      "role": "commentator",
+      "nature": "commentary",
+      "displayOrder": 1,
+      "enabled": true,
+      "annotations": [
+        {
+          "id": "wangbi-1",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 10
+          },
+          "kind": "commentary",
+          "text": "知人者，智而已矣，未若自知者超智之上也。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-2",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 1,
+            "start": 0,
+            "end": 11
+          },
+          "kind": "commentary",
+          "text": "勝人者，有力而已矣，未若自勝者無物以損其力，用其智於人，未若用其智於己也。用其力於人，未若用其力於己也。明用於己，則物無避焉，力用於己，則物無改焉。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-3",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 2,
+            "start": 0,
+            "end": 5
+          },
+          "kind": "commentary",
+          "text": "知足自不失，故富也。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-4",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 3,
+            "start": 0,
+            "end": 6
+          },
+          "kind": "commentary",
+          "text": "勤能行之，其志必獲，故曰强行者有志矣。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-5",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 4,
+            "start": 0,
+            "end": 7
+          },
+          "kind": "commentary",
+          "text": "以明自察，量力而行，不失其所，必獲久長矣。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-6",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 5,
+            "start": 0,
+            "end": 7
+          },
+          "kind": "commentary",
+          "text": "雖死而以為生之道不亡，乃得全其壽，身沒而道猶存，況身存而道不卒乎。",
+          "source": "cham"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "textRef": "laozi-wangbi-wiki",
+    "relation": "section"
+  }
+}

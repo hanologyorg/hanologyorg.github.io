@@ -1,0 +1,171 @@
+{
+  "bookId": "primary",
+  "num": 12,
+  "title": "詠螢",
+  "author": "虞世南",
+  "authorId": "A008",
+  "dynasty": "唐",
+  "era": "唐",
+  "eraCode": "24",
+  "genre": "poetry",
+  "verses": [
+    {
+      "text": "的歷流光小，飄颻弱翅輕。"
+    },
+    {
+      "text": "恐畏無人識，獨自暗中明。"
+    }
+  ],
+  "sections": {
+    "analysis": "這是一首詠物詩，生動地刻劃了螢火蟲的弱小形象。\n\n夜空中有一隻螢火蟲在一閃一閃地發着亮光。牠扇動着弱小的翅膀，輕輕的身軀在空中飄蕩。為甚麼牠如此艱苦努力呢？因為生怕別人不知道牠的存在，所以獨自在黑暗中發着亮光。\n\n小小一隻螢火蟲實在是微不足道，牠的翅膀過於單薄，幾乎不能承載自身的軀幹；尾部發出的光亮又十分微弱，在黑暗中若有若無。從形體到本領，詩人都強調了牠的弱小。但是，這個弱小的生命卻沒有自怨自艾，牠能客觀地認識自己的特點，發揮所長：即使不能照亮整個世界，也要盡力發光。黑暗對於牠來說似乎太強大了，但是牠並不悲觀。牠自信不會被黑暗吞噬，因為牠發的光雖然微弱，卻閃爍不已。\n\n全詩從「小」字着眼，以「小」、「弱」、「輕」來刻劃螢火蟲力量的單薄，以廣闊深沉的黑暗來對比牠微弱的亮光。然而，正是因為牠的小與弱，才更顯出牠「獨自明」的精神可貴。詩人對個體生命存有一份尊重，表達了一種個人價值被賞識、被正視的渴望。同時，我們也不難從中感受到詩人面對時光短暫、生命易逝的現實，渴望在有限的人生努力不懈的思想。整首詩短小精悍，寓意卻十分深遠，具有很強的感染力。",
+    "preparation": "1. 唱一唱：《一點燭光》\n\n2. 聆聽誦讀錄音，投入感情朗讀本詩。 https://www.edb.gov.hk/attachment/tc/curriculum-development/kla/chi-edu/resources/primary/lang/jilei/012_jilei_shi(cantonese).mp3",
+    "think_questions": "1. 光有甚麼作用？在甚麼時候和地點，我們需要光？\n\n2. 在日常生活中，我們可以作出甚麼貢獻？\n\n3. 你認為哪些職業像「燭光」一樣，盡自己有限的能力貢獻社會？請加以說明。",
+    "annotations": "1.的歷：○粵力；lik6；○普lì。明亮、鮮明的樣子。\n歷：。\n2.流光：閃動的光。\n3.飄颻：○粵搖；jiu4；○普yɑ́o。同「飄搖」，拍翼飛翔的意思。\n颻：。\n4.弱翅：小小的翅膀。\n5.恐畏：恐怕。"
+  },
+  "annotations": [
+    {
+      "id": "12-1",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 0,
+        "end": 2
+      },
+      "kind": "pronunciation",
+      "lang": "yue",
+      "text": "力；lik6",
+      "source": "cham"
+    },
+    {
+      "id": "12-2",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 0,
+        "end": 2
+      },
+      "kind": "pronunciation",
+      "lang": "cmn",
+      "text": "lì",
+      "source": "cham"
+    },
+    {
+      "id": "12-3",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 0,
+        "end": 2
+      },
+      "kind": "semantic",
+      "text": "明亮、鮮明的樣子。\n歷：。",
+      "source": "cham"
+    },
+    {
+      "id": "12-4",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 2,
+        "end": 4
+      },
+      "kind": "semantic",
+      "text": "閃動的光。",
+      "source": "cham"
+    },
+    {
+      "id": "12-5",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 6,
+        "end": 8
+      },
+      "kind": "pronunciation",
+      "lang": "yue",
+      "text": "搖；jiu4",
+      "source": "cham"
+    },
+    {
+      "id": "12-6",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 6,
+        "end": 8
+      },
+      "kind": "pronunciation",
+      "lang": "cmn",
+      "text": "yɑ́o",
+      "source": "cham"
+    },
+    {
+      "id": "12-7",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 6,
+        "end": 8
+      },
+      "kind": "semantic",
+      "text": "同「飄搖」，拍翼飛翔的意思。\n颻：。",
+      "source": "cham"
+    },
+    {
+      "id": "12-8",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 8,
+        "end": 10
+      },
+      "kind": "semantic",
+      "text": "小小的翅膀。",
+      "source": "cham"
+    },
+    {
+      "id": "12-9",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 1,
+        "start": 0,
+        "end": 2
+      },
+      "kind": "semantic",
+      "text": "恐怕。",
+      "source": "cham"
+    }
+  ],
+  "structuredSections": [
+    {
+      "key": "analysis",
+      "title": "賞析",
+      "filename": "analysis.md",
+      "body": "這是一首詠物詩，生動地刻劃了螢火蟲的弱小形象。\n\n夜空中有一隻螢火蟲在一閃一閃地發着亮光。牠扇動着弱小的翅膀，輕輕的身軀在空中飄蕩。為甚麼牠如此艱苦努力呢？因為生怕別人不知道牠的存在，所以獨自在黑暗中發着亮光。\n\n小小一隻螢火蟲實在是微不足道，牠的翅膀過於單薄，幾乎不能承載自身的軀幹；尾部發出的光亮又十分微弱，在黑暗中若有若無。從形體到本領，詩人都強調了牠的弱小。但是，這個弱小的生命卻沒有自怨自艾，牠能客觀地認識自己的特點，發揮所長：即使不能照亮整個世界，也要盡力發光。黑暗對於牠來說似乎太強大了，但是牠並不悲觀。牠自信不會被黑暗吞噬，因為牠發的光雖然微弱，卻閃爍不已。\n\n全詩從「小」字着眼，以「小」、「弱」、「輕」來刻劃螢火蟲力量的單薄，以廣闊深沉的黑暗來對比牠微弱的亮光。然而，正是因為牠的小與弱，才更顯出牠「獨自明」的精神可貴。詩人對個體生命存有一份尊重，表達了一種個人價值被賞識、被正視的渴望。同時，我們也不難從中感受到詩人面對時光短暫、生命易逝的現實，渴望在有限的人生努力不懈的思想。整首詩短小精悍，寓意卻十分深遠，具有很強的感染力。",
+      "order": 3
+    },
+    {
+      "key": "think_questions",
+      "title": "思考問題",
+      "filename": "think-questions.md",
+      "body": "1. 光有甚麼作用？在甚麼時候和地點，我們需要光？\n\n2. 在日常生活中，我們可以作出甚麼貢獻？\n\n3. 你認為哪些職業像「燭光」一樣，盡自己有限的能力貢獻社會？請加以說明。",
+      "order": 5
+    },
+    {
+      "key": "preparation",
+      "title": "教學準備",
+      "filename": "preparation.md",
+      "body": "1. 唱一唱：《一點燭光》\n\n2. 聆聽誦讀錄音，投入感情朗讀本詩。 https://www.edb.gov.hk/attachment/tc/curriculum-development/kla/chi-edu/resources/primary/lang/jilei/012_jilei_shi(cantonese).mp3",
+      "order": 6
+    }
+  ]
+}

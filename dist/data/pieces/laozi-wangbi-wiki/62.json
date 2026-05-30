@@ -1,0 +1,279 @@
+{
+  "bookId": "laozi-wangbi-wiki",
+  "num": 62,
+  "title": "第六十二章",
+  "author": "老子",
+  "authorId": "Laozi",
+  "dynasty": "周",
+  "era": "周",
+  "genre": "prose",
+  "verses": [
+    {
+      "text": "道者萬物之奧。"
+    },
+    {
+      "text": "善人之寶，"
+    },
+    {
+      "text": "不善人之所保。"
+    },
+    {
+      "text": "美言可以市，尊行可以加人。"
+    },
+    {
+      "text": "人之不善，何棄之有？"
+    },
+    {
+      "text": "故立天子，置三公，"
+    },
+    {
+      "text": "雖有拱璧以先駟馬，不如坐進此道。"
+    },
+    {
+      "text": "古之所以貴此道者何？不曰以求得，有罪以免邪？故為天下貴。"
+    }
+  ],
+  "sections": {},
+  "annotations": [],
+  "layers": {
+    "wangbi": [
+      {
+        "id": "wangbi-1",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 7
+        },
+        "kind": "commentary",
+        "text": "奧，猶曖也。可得庇蔭之辭。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-2",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 0,
+          "end": 5
+        },
+        "kind": "commentary",
+        "text": "寶以為用也。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-3",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 2,
+          "start": 0,
+          "end": 7
+        },
+        "kind": "commentary",
+        "text": "保以全也。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-4",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 3,
+          "start": 0,
+          "end": 13
+        },
+        "kind": "commentary",
+        "text": "言道無所不先，物無有貴於此也。雖有珍寶璧馬，無以匹之，美言之則可以奪眾貨之賈，故曰，美言可以市也，尊行之則千里之外應之，故曰，可以加於人也。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-5",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 4,
+          "start": 0,
+          "end": 10
+        },
+        "kind": "commentary",
+        "text": "不善當保道以免放。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-6",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 5,
+          "start": 0,
+          "end": 9
+        },
+        "kind": "commentary",
+        "text": "言以尊行道也。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-7",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 6,
+          "start": 0,
+          "end": 16
+        },
+        "kind": "commentary",
+        "text": "此道，上之所云也。言故立天子、置三公，尊其位、重其人，所以為道也。物無有貴於此者。故雖有拱抱寶璧以先，駟馬而進之，不如坐而進此道也。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-8",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 7,
+          "start": 0,
+          "end": 28
+        },
+        "kind": "commentary",
+        "text": "以求則得求，以免則得免，無所而不施，故為天下貴也。",
+        "source": "cham"
+      }
+    ]
+  },
+  "annotationLayers": [
+    {
+      "id": "default",
+      "label": "原文",
+      "shortLabel": "文",
+      "contributor": "Laozi",
+      "role": "author",
+      "nature": "annotation",
+      "displayOrder": 0,
+      "enabled": true,
+      "annotations": []
+    },
+    {
+      "id": "wangbi",
+      "label": "王弼註",
+      "shortLabel": "王",
+      "contributor": "C001",
+      "role": "commentator",
+      "nature": "commentary",
+      "displayOrder": 1,
+      "enabled": true,
+      "annotations": [
+        {
+          "id": "wangbi-1",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 7
+          },
+          "kind": "commentary",
+          "text": "奧，猶曖也。可得庇蔭之辭。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-2",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 1,
+            "start": 0,
+            "end": 5
+          },
+          "kind": "commentary",
+          "text": "寶以為用也。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-3",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 2,
+            "start": 0,
+            "end": 7
+          },
+          "kind": "commentary",
+          "text": "保以全也。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-4",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 3,
+            "start": 0,
+            "end": 13
+          },
+          "kind": "commentary",
+          "text": "言道無所不先，物無有貴於此也。雖有珍寶璧馬，無以匹之，美言之則可以奪眾貨之賈，故曰，美言可以市也，尊行之則千里之外應之，故曰，可以加於人也。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-5",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 4,
+            "start": 0,
+            "end": 10
+          },
+          "kind": "commentary",
+          "text": "不善當保道以免放。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-6",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 5,
+            "start": 0,
+            "end": 9
+          },
+          "kind": "commentary",
+          "text": "言以尊行道也。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-7",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 6,
+            "start": 0,
+            "end": 16
+          },
+          "kind": "commentary",
+          "text": "此道，上之所云也。言故立天子、置三公，尊其位、重其人，所以為道也。物無有貴於此者。故雖有拱抱寶璧以先，駟馬而進之，不如坐而進此道也。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-8",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 7,
+            "start": 0,
+            "end": 28
+          },
+          "kind": "commentary",
+          "text": "以求則得求，以免則得免，無所而不施，故為天下貴也。",
+          "source": "cham"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "textRef": "laozi-wangbi-wiki",
+    "relation": "section"
+  }
+}

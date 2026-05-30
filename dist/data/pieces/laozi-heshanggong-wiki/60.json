@@ -1,0 +1,221 @@
+{
+  "bookId": "laozi-heshanggong-wiki",
+  "num": 60,
+  "title": "第六十章（居位）",
+  "author": "老子",
+  "authorId": "Laozi",
+  "dynasty": "周",
+  "era": "周",
+  "genre": "prose",
+  "verses": [
+    {
+      "text": "治大國者若烹小鮮。"
+    },
+    {
+      "text": "以道蒞天下，其鬼不神。"
+    },
+    {
+      "text": "非其鬼不神，其神不傷人。"
+    },
+    {
+      "text": "非其神不傷人，聖人亦不傷。"
+    },
+    {
+      "text": "夫兩不相傷，"
+    },
+    {
+      "text": "故德交歸焉。"
+    }
+  ],
+  "sections": {},
+  "annotations": [],
+  "layers": {
+    "heshanggong": [
+      {
+        "id": "heshanggong-1",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 9
+        },
+        "kind": "commentary",
+        "text": "鮮，魚。烹小魚不去腸、不去鱗、不敢撓，恐其糜也。治國煩則下亂，治身煩則精散。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-2",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 0,
+          "end": 11
+        },
+        "kind": "commentary",
+        "text": "以道德居位治天下，則鬼不敢以其精神犯人也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-3",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 2,
+          "start": 0,
+          "end": 12
+        },
+        "kind": "commentary",
+        "text": "其鬼非無精神也，非不入正，不能傷自然之人。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-4",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 3,
+          "start": 0,
+          "end": 13
+        },
+        "kind": "commentary",
+        "text": "非鬼神不能傷害人。以聖人在位不傷害人，故鬼不敢干之也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-5",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 4,
+          "start": 0,
+          "end": 6
+        },
+        "kind": "commentary",
+        "text": "鬼與聖人俱兩不相傷也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-6",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 5,
+          "start": 0,
+          "end": 6
+        },
+        "kind": "commentary",
+        "text": "夫兩不相傷，則人得治於陽，鬼神得治於陰，人得保全其性命，鬼得保其精神，故德交歸焉。",
+        "source": "cham"
+      }
+    ]
+  },
+  "annotationLayers": [
+    {
+      "id": "default",
+      "label": "原文",
+      "shortLabel": "文",
+      "contributor": "Laozi",
+      "role": "author",
+      "nature": "annotation",
+      "displayOrder": 0,
+      "enabled": true,
+      "annotations": []
+    },
+    {
+      "id": "heshanggong",
+      "label": "河上公註",
+      "shortLabel": "河",
+      "contributor": "C002",
+      "role": "commentator",
+      "nature": "commentary",
+      "displayOrder": 1,
+      "enabled": true,
+      "annotations": [
+        {
+          "id": "heshanggong-1",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 9
+          },
+          "kind": "commentary",
+          "text": "鮮，魚。烹小魚不去腸、不去鱗、不敢撓，恐其糜也。治國煩則下亂，治身煩則精散。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-2",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 1,
+            "start": 0,
+            "end": 11
+          },
+          "kind": "commentary",
+          "text": "以道德居位治天下，則鬼不敢以其精神犯人也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-3",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 2,
+            "start": 0,
+            "end": 12
+          },
+          "kind": "commentary",
+          "text": "其鬼非無精神也，非不入正，不能傷自然之人。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-4",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 3,
+            "start": 0,
+            "end": 13
+          },
+          "kind": "commentary",
+          "text": "非鬼神不能傷害人。以聖人在位不傷害人，故鬼不敢干之也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-5",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 4,
+            "start": 0,
+            "end": 6
+          },
+          "kind": "commentary",
+          "text": "鬼與聖人俱兩不相傷也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-6",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 5,
+            "start": 0,
+            "end": 6
+          },
+          "kind": "commentary",
+          "text": "夫兩不相傷，則人得治於陽，鬼神得治於陰，人得保全其性命，鬼得保其精神，故德交歸焉。",
+          "source": "cham"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "textRef": "laozi-heshanggong-wiki",
+    "relation": "section"
+  }
+}

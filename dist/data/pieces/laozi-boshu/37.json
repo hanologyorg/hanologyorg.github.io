@@ -1,0 +1,342 @@
+{
+  "bookId": "laozi-boshu",
+  "num": 37,
+  "title": "第三十七章（无名）",
+  "author": "老子",
+  "authorId": "Laozi",
+  "dynasty": "周",
+  "era": "周",
+  "genre": "prose",
+  "verses": [
+    {
+      "text": "道恆无名"
+    },
+    {
+      "text": "侯王若守之 萬物將自化"
+    },
+    {
+      "text": "化而欲作 吾將貞之以无名之樸"
+    },
+    {
+      "text": "貞之以无名之樸 夫將不辱"
+    },
+    {
+      "text": "不辱以靜 天地將自正"
+    },
+    {
+      "text": "此作品在全世界都属于"
+    },
+    {
+      "text": "，因为作者逝世已经超过100年，且作品于1931年1月1日之前出版。"
+    }
+  ],
+  "sections": {},
+  "annotations": [],
+  "layers": {
+    "heshanggong": [
+      {
+        "id": "heshanggong-1",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 4
+        },
+        "kind": "commentary",
+        "text": "道以無為為常也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-2",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 4
+        },
+        "kind": "commentary",
+        "text": "言侯王若能守道，萬物將自化效於己也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-3",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 4
+        },
+        "kind": "commentary",
+        "text": "吾，身也。無明之樸，道德也。萬物已化效於己也。復欲作巧偽者，侯王當身鎮撫以道德也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-4",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 4
+        },
+        "kind": "commentary",
+        "text": "言侯王鎮撫以道德，民亦將不欲，故當以清靜導化之也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-5",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 4
+        },
+        "kind": "commentary",
+        "text": "能如是者，天下將自正定也。",
+        "source": "cham"
+      }
+    ],
+    "wangbi": [
+      {
+        "id": "wangbi-1",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 4
+        },
+        "kind": "commentary",
+        "text": "順自然也。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-2",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 4
+        },
+        "kind": "commentary",
+        "text": "萬物無不由為以治以成之也。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-3",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 4
+        },
+        "kind": "commentary",
+        "text": "化而欲作，作欲成也。吾將鎮之無名之樸，不為主也。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-4",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 4
+        },
+        "kind": "commentary",
+        "text": "無欲競也。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-5",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 4
+        },
+        "kind": "commentary",
+        "text": "",
+        "source": "cham"
+      }
+    ]
+  },
+  "annotationLayers": [
+    {
+      "id": "default",
+      "label": "原文",
+      "shortLabel": "文",
+      "contributor": "Laozi",
+      "role": "author",
+      "nature": "annotation",
+      "displayOrder": 0,
+      "enabled": true,
+      "annotations": []
+    },
+    {
+      "id": "heshanggong",
+      "label": "河上公註",
+      "shortLabel": "河",
+      "contributor": "C002",
+      "role": "commentator",
+      "nature": "commentary",
+      "displayOrder": 1,
+      "enabled": true,
+      "annotations": [
+        {
+          "id": "heshanggong-1",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 4
+          },
+          "kind": "commentary",
+          "text": "道以無為為常也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-2",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 4
+          },
+          "kind": "commentary",
+          "text": "言侯王若能守道，萬物將自化效於己也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-3",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 4
+          },
+          "kind": "commentary",
+          "text": "吾，身也。無明之樸，道德也。萬物已化效於己也。復欲作巧偽者，侯王當身鎮撫以道德也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-4",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 4
+          },
+          "kind": "commentary",
+          "text": "言侯王鎮撫以道德，民亦將不欲，故當以清靜導化之也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-5",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 4
+          },
+          "kind": "commentary",
+          "text": "能如是者，天下將自正定也。",
+          "source": "cham"
+        }
+      ]
+    },
+    {
+      "id": "wangbi",
+      "label": "王弼註",
+      "shortLabel": "王",
+      "contributor": "C001",
+      "role": "commentator",
+      "nature": "commentary",
+      "displayOrder": 2,
+      "enabled": true,
+      "annotations": [
+        {
+          "id": "wangbi-1",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 4
+          },
+          "kind": "commentary",
+          "text": "順自然也。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-2",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 4
+          },
+          "kind": "commentary",
+          "text": "萬物無不由為以治以成之也。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-3",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 4
+          },
+          "kind": "commentary",
+          "text": "化而欲作，作欲成也。吾將鎮之無名之樸，不為主也。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-4",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 4
+          },
+          "kind": "commentary",
+          "text": "無欲競也。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-5",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 4
+          },
+          "kind": "commentary",
+          "text": "",
+          "source": "cham"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "textRef": "laozi-boshu",
+    "relation": "section"
+  }
+}

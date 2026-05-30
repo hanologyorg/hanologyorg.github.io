@@ -1,0 +1,424 @@
+{
+  "bookId": "heshanggong-laozi",
+  "num": 8,
+  "title": "第八章（易性）",
+  "author": "老子",
+  "authorId": "Laozi",
+  "dynasty": "周",
+  "era": "周",
+  "genre": "prose",
+  "verses": [
+    {
+      "text": "上善若水。"
+    },
+    {
+      "text": "水善利萬物而不爭，"
+    },
+    {
+      "text": "處眾人之所惡，"
+    },
+    {
+      "text": "故幾於道。"
+    },
+    {
+      "text": "居善地，"
+    },
+    {
+      "text": "心善淵，"
+    },
+    {
+      "text": "與善仁，"
+    },
+    {
+      "text": "言善信，"
+    },
+    {
+      "text": "正善治，"
+    },
+    {
+      "text": "事善能，"
+    },
+    {
+      "text": "動善時。"
+    },
+    {
+      "text": "夫唯不爭，"
+    },
+    {
+      "text": "故無尤。"
+    }
+  ],
+  "sections": {},
+  "annotations": [],
+  "layers": {
+    "heshanggong": [
+      {
+        "id": "heshanggong-1",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 5
+        },
+        "kind": "commentary",
+        "text": "上善之人，如水之性。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-2",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 0,
+          "end": 9
+        },
+        "kind": "commentary",
+        "text": "水在天為霧露，在地為源泉也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-3",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 2,
+          "start": 0,
+          "end": 7
+        },
+        "kind": "commentary",
+        "text": "眾人惡卑濕垢濁，水獨靜流居之也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-4",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 3,
+          "start": 0,
+          "end": 5
+        },
+        "kind": "commentary",
+        "text": "水性幾於道同。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-5",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 4,
+          "start": 0,
+          "end": 4
+        },
+        "kind": "commentary",
+        "text": "水性善喜於地，草木之上即流而下，有似於牝動而下人也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-6",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 5,
+          "start": 0,
+          "end": 4
+        },
+        "kind": "commentary",
+        "text": "水深空虛，淵深清明。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-7",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 6,
+          "start": 0,
+          "end": 4
+        },
+        "kind": "commentary",
+        "text": "萬物得水以生。 與，虛不與盈也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-8",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 7,
+          "start": 0,
+          "end": 4
+        },
+        "kind": "commentary",
+        "text": "水內影照形，不失其情也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-9",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 8,
+          "start": 0,
+          "end": 4
+        },
+        "kind": "commentary",
+        "text": "無有不洗，清且平也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-10",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 9,
+          "start": 0,
+          "end": 4
+        },
+        "kind": "commentary",
+        "text": "能方能圓，曲直隨形。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-11",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 10,
+          "start": 0,
+          "end": 4
+        },
+        "kind": "commentary",
+        "text": "夏散冬凝，應期而動，不失天時。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-12",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 11,
+          "start": 0,
+          "end": 5
+        },
+        "kind": "commentary",
+        "text": "壅之則止，決之則流，聽從人也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-13",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 12,
+          "start": 0,
+          "end": 4
+        },
+        "kind": "commentary",
+        "text": "水性如是，故天下無有怨尤水者也。",
+        "source": "cham"
+      }
+    ]
+  },
+  "annotationLayers": [
+    {
+      "id": "default",
+      "label": "原文",
+      "shortLabel": "文",
+      "contributor": "Laozi",
+      "role": "author",
+      "nature": "annotation",
+      "displayOrder": 0,
+      "enabled": true,
+      "annotations": []
+    },
+    {
+      "id": "heshanggong",
+      "label": "河上公註",
+      "shortLabel": "河",
+      "contributor": "C002",
+      "role": "commentator",
+      "nature": "commentary",
+      "displayOrder": 1,
+      "enabled": true,
+      "annotations": [
+        {
+          "id": "heshanggong-1",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 5
+          },
+          "kind": "commentary",
+          "text": "上善之人，如水之性。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-2",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 1,
+            "start": 0,
+            "end": 9
+          },
+          "kind": "commentary",
+          "text": "水在天為霧露，在地為源泉也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-3",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 2,
+            "start": 0,
+            "end": 7
+          },
+          "kind": "commentary",
+          "text": "眾人惡卑濕垢濁，水獨靜流居之也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-4",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 3,
+            "start": 0,
+            "end": 5
+          },
+          "kind": "commentary",
+          "text": "水性幾於道同。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-5",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 4,
+            "start": 0,
+            "end": 4
+          },
+          "kind": "commentary",
+          "text": "水性善喜於地，草木之上即流而下，有似於牝動而下人也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-6",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 5,
+            "start": 0,
+            "end": 4
+          },
+          "kind": "commentary",
+          "text": "水深空虛，淵深清明。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-7",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 6,
+            "start": 0,
+            "end": 4
+          },
+          "kind": "commentary",
+          "text": "萬物得水以生。 與，虛不與盈也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-8",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 7,
+            "start": 0,
+            "end": 4
+          },
+          "kind": "commentary",
+          "text": "水內影照形，不失其情也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-9",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 8,
+            "start": 0,
+            "end": 4
+          },
+          "kind": "commentary",
+          "text": "無有不洗，清且平也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-10",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 9,
+            "start": 0,
+            "end": 4
+          },
+          "kind": "commentary",
+          "text": "能方能圓，曲直隨形。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-11",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 10,
+            "start": 0,
+            "end": 4
+          },
+          "kind": "commentary",
+          "text": "夏散冬凝，應期而動，不失天時。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-12",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 11,
+            "start": 0,
+            "end": 5
+          },
+          "kind": "commentary",
+          "text": "壅之則止，決之則流，聽從人也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-13",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 12,
+            "start": 0,
+            "end": 4
+          },
+          "kind": "commentary",
+          "text": "水性如是，故天下無有怨尤水者也。",
+          "source": "cham"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "textRef": "heshanggong-laozi",
+    "relation": "section"
+  }
+}

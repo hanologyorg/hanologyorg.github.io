@@ -1,0 +1,215 @@
+{
+  "bookId": "primary-culture",
+  "num": 41,
+  "title": "黃鶴樓",
+  "author": "崔顥",
+  "authorId": "A019",
+  "dynasty": "唐",
+  "era": "唐",
+  "eraCode": "24",
+  "genre": "poetry",
+  "verses": [
+    {
+      "text": "昔人已乘黃鶴去，此地空餘黃鶴樓。黃鶴一去不復返，白雲千載空悠悠！晴川歷歷漢陽樹，芳草萋萋鸚鵡洲。日暮鄉關何處是？煙波江上使人愁！"
+    }
+  ],
+  "sections": {
+    "analysis": "中國以農立國，與黃土地的關係密不可分，傳統的鄉土觀念濃厚，即使離鄉別井，總記掛着故鄉，希望落葉歸根。歷來的文學作品中，「思鄉」已成了永恆的主題。從古今詩作所見，哪怕是明月、秋風、飛鳥、江水的景象，或是羌笛、晚鐘、擊鼓、折柳的聲音，都能勾起遊子的鄉愁。\n\n本詩作者崔顥透過登黃鶴樓抒寫所見所感，流露懷念家鄉的深情。詩人登上黃鶴樓遠眺，長空悠悠，卻孤身一人，百般滋味湧上心頭，眼前雖有美景，亦無心欣賞。暮色降臨，詩人倍添鄉愁，想朝故鄉的方向遠眺，卻只見江上煙波迷茫，於是心中惘然，種種感受只能歸結在一個「愁」字上面。這種「愁」，與世世代代騷人墨客所訴說不盡的「鄉愁」，真是何其相似。",
+    "annotations": "1.昔人：指騎鶴的仙人。\n2.黃鶴：鳥名。據傳說古人得道成仙，會駕鶴升天而去。\n3.空餘：徒然留下。\n4.悠悠：空闊無邊際的面貌。\n5.晴川：此指漢江。\n6.歷歷：清晰分明的樣子。\n7.漢陽：地名，武昌西北，在黃鶴樓對岸。\n8.萋萋：○粵妻；tsɐi1；○普qī。草木茂密的樣子。\n9.鸚鵡洲：在武昌北面，長江當中，今已淹沒。\n10.日暮：日落。\n11.鄉關：家鄉。\n12.煙波江上：倒裝語，即「江上煙波」，指江面上煙霧籠罩。"
+  },
+  "annotations": [
+    {
+      "id": "41-1",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 0,
+        "end": 2
+      },
+      "kind": "semantic",
+      "text": "指騎鶴的仙人。",
+      "source": "cham"
+    },
+    {
+      "id": "41-2",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 4,
+        "end": 6
+      },
+      "kind": "semantic",
+      "text": "鳥名。據傳說古人得道成仙，會駕鶴升天而去。",
+      "source": "cham"
+    },
+    {
+      "id": "41-3",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 10,
+        "end": 12
+      },
+      "kind": "semantic",
+      "text": "徒然留下。",
+      "source": "cham"
+    },
+    {
+      "id": "41-4",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 29,
+        "end": 31
+      },
+      "kind": "semantic",
+      "text": "空闊無邊際的面貌。",
+      "source": "cham"
+    },
+    {
+      "id": "41-5",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 32,
+        "end": 34
+      },
+      "kind": "semantic",
+      "text": "此指漢江。",
+      "source": "cham"
+    },
+    {
+      "id": "41-6",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 34,
+        "end": 36
+      },
+      "kind": "semantic",
+      "text": "清晰分明的樣子。",
+      "source": "cham"
+    },
+    {
+      "id": "41-7",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 36,
+        "end": 38
+      },
+      "kind": "semantic",
+      "text": "地名，武昌西北，在黃鶴樓對岸。",
+      "source": "cham"
+    },
+    {
+      "id": "41-8",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 42,
+        "end": 44
+      },
+      "kind": "semantic",
+      "text": "草木茂密的樣子。",
+      "source": "cham"
+    },
+    {
+      "id": "41-9",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 42,
+        "end": 44
+      },
+      "kind": "pronunciation",
+      "lang": "yue",
+      "text": "妻；tsɐi1",
+      "source": "cham"
+    },
+    {
+      "id": "41-10",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 42,
+        "end": 44
+      },
+      "kind": "pronunciation",
+      "lang": "cmn",
+      "text": "qī",
+      "source": "cham"
+    },
+    {
+      "id": "41-11",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 44,
+        "end": 47
+      },
+      "kind": "semantic",
+      "text": "在武昌北面，長江當中，今已淹沒。",
+      "source": "cham"
+    },
+    {
+      "id": "41-12",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 48,
+        "end": 50
+      },
+      "kind": "semantic",
+      "text": "日落。",
+      "source": "cham"
+    },
+    {
+      "id": "41-13",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 50,
+        "end": 52
+      },
+      "kind": "semantic",
+      "text": "家鄉。",
+      "source": "cham"
+    },
+    {
+      "id": "41-14",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 56,
+        "end": 60
+      },
+      "kind": "semantic",
+      "text": "倒裝語，即「江上煙波」，指江面上煙霧籠罩。",
+      "source": "cham"
+    }
+  ],
+  "structuredSections": [
+    {
+      "key": "analysis",
+      "title": "賞析",
+      "filename": "analysis.md",
+      "body": "中國以農立國，與黃土地的關係密不可分，傳統的鄉土觀念濃厚，即使離鄉別井，總記掛着故鄉，希望落葉歸根。歷來的文學作品中，「思鄉」已成了永恆的主題。從古今詩作所見，哪怕是明月、秋風、飛鳥、江水的景象，或是羌笛、晚鐘、擊鼓、折柳的聲音，都能勾起遊子的鄉愁。\n\n本詩作者崔顥透過登黃鶴樓抒寫所見所感，流露懷念家鄉的深情。詩人登上黃鶴樓遠眺，長空悠悠，卻孤身一人，百般滋味湧上心頭，眼前雖有美景，亦無心欣賞。暮色降臨，詩人倍添鄉愁，想朝故鄉的方向遠眺，卻只見江上煙波迷茫，於是心中惘然，種種感受只能歸結在一個「愁」字上面。這種「愁」，與世世代代騷人墨客所訴說不盡的「鄉愁」，真是何其相似。",
+      "order": 3
+    }
+  ]
+}

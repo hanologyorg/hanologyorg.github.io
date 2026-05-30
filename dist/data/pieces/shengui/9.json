@@ -1,0 +1,116 @@
+{
+  "bookId": "shengui",
+  "num": 9,
+  "title": "章第八·廉潔",
+  "author": "武曌",
+  "authorId": "C004",
+  "dynasty": "唐",
+  "era": "唐",
+  "eraCode": "24",
+  "genre": "prose",
+  "verses": [
+    {
+      "text": "夫廉潔者，臣之清節也。貪則民怨，廉則民信。是以古之良臣，必以廉潔自守。"
+    },
+    {
+      "text": "昔楊震暮夜卻金，謂「天知、神知、我知、子知」，廉之至也。"
+    },
+    {
+      "text": "公儀休嗜魚而不受魚，曰：「正因嗜魚，故不受也。受魚而免官，誰復遺我魚乎？」"
+    },
+    {
+      "text": "此皆廉潔之典範也。"
+    },
+    {
+      "text": "夫廉者，政之本也。居官而貪，則民不安；居官而廉，則民自化。是以子罕弗受玉，而宋人知其廉。"
+    },
+    {
+      "text": "故曰：儉以養廉，靜以修身。此古之遺訓，今之龜鑒也。"
+    }
+  ],
+  "sections": {
+    "annotations": "1.楊震：楊震（？—124），字伯起，東漢名臣。「四知」之典故出此。見《後漢書·楊震傳》。\n2.公儀休：春秋時魯國相。嗜魚而不受魚之饋。見《韓非子·外儲說右下》。\n3.子罕：春秋時宋國大夫。有人獻美玉，子罕不受，曰：「我以不貪為寶。」見《左傳·襄公十五年》。\n4.宋：春秋時宋國，在今河南商丘一帶。"
+  },
+  "annotations": [
+    {
+      "id": "9-1",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 1,
+        "start": 1,
+        "end": 3
+      },
+      "kind": "person",
+      "text": "楊震（？—124），字伯起，東漢名臣。「四知」之典故出此。見《後漢書·楊震傳》。",
+      "source": "cham"
+    },
+    {
+      "id": "9-2",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 2,
+        "start": 0,
+        "end": 3
+      },
+      "kind": "person",
+      "text": "春秋時魯國相。嗜魚而不受魚之饋。見《韓非子·外儲說右下》。",
+      "source": "cham"
+    },
+    {
+      "id": "9-3",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 4,
+        "start": 31,
+        "end": 33
+      },
+      "kind": "person",
+      "text": "春秋時宋國大夫。有人獻美玉，子罕不受，曰：「我以不貪為寶。」見《左傳·襄公十五年》。",
+      "source": "cham"
+    },
+    {
+      "id": "9-4",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 4,
+        "start": 38,
+        "end": 39
+      },
+      "kind": "place",
+      "text": "春秋時宋國，在今河南商丘一帶。",
+      "source": "cham"
+    }
+  ],
+  "annotationLayers": [
+    {
+      "id": "default",
+      "label": "原文",
+      "shortLabel": "文",
+      "contributor": "C004",
+      "role": "author",
+      "nature": "annotation",
+      "displayOrder": 0,
+      "enabled": true,
+      "annotations": []
+    },
+    {
+      "id": "commentary",
+      "label": "注",
+      "shortLabel": "注",
+      "contributor": "C011",
+      "role": "commentator",
+      "nature": "commentary",
+      "displayOrder": 1,
+      "enabled": true,
+      "annotations": []
+    }
+  ],
+  "source": {
+    "textRef": "shengui",
+    "relation": "section"
+  }
+}

@@ -1,0 +1,366 @@
+{
+  "bookId": "laozi-heshanggong-wiki",
+  "num": 34,
+  "title": "第三十四章（任成）",
+  "author": "老子",
+  "authorId": "Laozi",
+  "dynasty": "周",
+  "era": "周",
+  "genre": "prose",
+  "verses": [
+    {
+      "text": "大道氾兮，"
+    },
+    {
+      "text": "其可左右。"
+    },
+    {
+      "text": "萬物恃之而生，"
+    },
+    {
+      "text": "而不辭，"
+    },
+    {
+      "text": "功成不名有，"
+    },
+    {
+      "text": "愛養萬物而不為主。"
+    },
+    {
+      "text": "常無欲，可名於小。"
+    },
+    {
+      "text": "萬物歸焉而不為主，"
+    },
+    {
+      "text": "可名為大。"
+    },
+    {
+      "text": "是以聖人終不為大，"
+    },
+    {
+      "text": "故能成其大。"
+    }
+  ],
+  "sections": {},
+  "annotations": [],
+  "layers": {
+    "heshanggong": [
+      {
+        "id": "heshanggong-1",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 5
+        },
+        "kind": "commentary",
+        "text": "言道氾氾，若浮若沉，若有若無，視之不見，說之難殊。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-2",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 0,
+          "end": 5
+        },
+        "kind": "commentary",
+        "text": "道可左可右，無所不宜。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-3",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 2,
+          "start": 0,
+          "end": 7
+        },
+        "kind": "commentary",
+        "text": "恃，待也。萬物皆待道而生。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-4",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 3,
+          "start": 0,
+          "end": 4
+        },
+        "kind": "commentary",
+        "text": "道不辭謝而逆止也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-5",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 4,
+          "start": 0,
+          "end": 6
+        },
+        "kind": "commentary",
+        "text": "有道不名其有功也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-6",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 5,
+          "start": 0,
+          "end": 9
+        },
+        "kind": "commentary",
+        "text": "道雖愛養萬物，不如人主有所收取。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-7",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 6,
+          "start": 0,
+          "end": 9
+        },
+        "kind": "commentary",
+        "text": "道匿德藏名，怕然無為，似若微小也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-8",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 7,
+          "start": 0,
+          "end": 9
+        },
+        "kind": "commentary",
+        "text": "萬物皆歸道受氣，道非如人主有所禁止也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-9",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 8,
+          "start": 0,
+          "end": 5
+        },
+        "kind": "commentary",
+        "text": "萬物橫來橫去，使名自在，故可名於大也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-10",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 9,
+          "start": 0,
+          "end": 9
+        },
+        "kind": "commentary",
+        "text": "聖人法道匿德藏名，不為滿大。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-11",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 10,
+          "start": 0,
+          "end": 6
+        },
+        "kind": "commentary",
+        "text": "聖人以身師導，不言而化，萬事修治，故能成其大。",
+        "source": "cham"
+      }
+    ]
+  },
+  "annotationLayers": [
+    {
+      "id": "default",
+      "label": "原文",
+      "shortLabel": "文",
+      "contributor": "Laozi",
+      "role": "author",
+      "nature": "annotation",
+      "displayOrder": 0,
+      "enabled": true,
+      "annotations": []
+    },
+    {
+      "id": "heshanggong",
+      "label": "河上公註",
+      "shortLabel": "河",
+      "contributor": "C002",
+      "role": "commentator",
+      "nature": "commentary",
+      "displayOrder": 1,
+      "enabled": true,
+      "annotations": [
+        {
+          "id": "heshanggong-1",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 5
+          },
+          "kind": "commentary",
+          "text": "言道氾氾，若浮若沉，若有若無，視之不見，說之難殊。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-2",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 1,
+            "start": 0,
+            "end": 5
+          },
+          "kind": "commentary",
+          "text": "道可左可右，無所不宜。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-3",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 2,
+            "start": 0,
+            "end": 7
+          },
+          "kind": "commentary",
+          "text": "恃，待也。萬物皆待道而生。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-4",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 3,
+            "start": 0,
+            "end": 4
+          },
+          "kind": "commentary",
+          "text": "道不辭謝而逆止也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-5",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 4,
+            "start": 0,
+            "end": 6
+          },
+          "kind": "commentary",
+          "text": "有道不名其有功也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-6",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 5,
+            "start": 0,
+            "end": 9
+          },
+          "kind": "commentary",
+          "text": "道雖愛養萬物，不如人主有所收取。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-7",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 6,
+            "start": 0,
+            "end": 9
+          },
+          "kind": "commentary",
+          "text": "道匿德藏名，怕然無為，似若微小也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-8",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 7,
+            "start": 0,
+            "end": 9
+          },
+          "kind": "commentary",
+          "text": "萬物皆歸道受氣，道非如人主有所禁止也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-9",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 8,
+            "start": 0,
+            "end": 5
+          },
+          "kind": "commentary",
+          "text": "萬物橫來橫去，使名自在，故可名於大也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-10",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 9,
+            "start": 0,
+            "end": 9
+          },
+          "kind": "commentary",
+          "text": "聖人法道匿德藏名，不為滿大。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-11",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 10,
+            "start": 0,
+            "end": 6
+          },
+          "kind": "commentary",
+          "text": "聖人以身師導，不言而化，萬事修治，故能成其大。",
+          "source": "cham"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "textRef": "laozi-heshanggong-wiki",
+    "relation": "section"
+  }
+}

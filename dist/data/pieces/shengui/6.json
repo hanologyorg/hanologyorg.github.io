@@ -1,0 +1,129 @@
+{
+  "bookId": "shengui",
+  "num": 6,
+  "title": "章第五·匡諫",
+  "author": "武曌",
+  "authorId": "C004",
+  "dynasty": "唐",
+  "era": "唐",
+  "eraCode": "24",
+  "genre": "prose",
+  "verses": [
+    {
+      "text": "夫匡諫者，臣之至忠也。君有過失，臣不諫爭，是謂阿諛。阿諛之臣，國之賊也。"
+    },
+    {
+      "text": "昔魏徵事太宗，前後諫諍二百餘事。太宗嘗曰：「以人為鏡，可以明得失。魏徵歿，朕亡一鏡矣。」"
+    },
+    {
+      "text": "夫諫之為道也，貴在適時。言不及時，雖善無益。故曰：進言之機，在乎察色觀行。"
+    },
+    {
+      "text": "是知忠臣之諫君也，必有犯顏直諫之勇，又須委曲求全之智。勇而不智，則君疑；智而不勇，則道廢。二者兼備，而後可以言諫。"
+    },
+    {
+      "text": "故太宗謂蕭瑀曰：「朕少好弓矢，得良弓十數，以示弓工。工曰：『皆非良材。』朕問其故，工曰：『木心不正，則脈理皆邪，弓雖剛而發箭不直。』朕始悟向者辨之未精也。朕以弓矢定天下，識之猶未能盡，況天下之務，豈能遍知乎？」"
+    },
+    {
+      "text": "此太宗虛心納諫之明驗也。"
+    }
+  ],
+  "sections": {
+    "annotations": "1.魏徵：魏徵（580—643），字玄成，唐太宗諫臣。封鄭國公，以直諫聞名。\n2.太宗：唐太宗李世民（598—649），以虛心納諫著稱。\n3.太宗：唐太宗李世民。\n4.蕭瑀：蕭瑀（574—648），字時文，唐初宰相。\n5.太宗：唐太宗李世民。弓矢之喻見《貞觀政要》。"
+  },
+  "annotations": [
+    {
+      "id": "6-1",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 1,
+        "start": 1,
+        "end": 3
+      },
+      "kind": "person",
+      "text": "魏徵（580—643），字玄成，唐太宗諫臣。封鄭國公，以直諫聞名。",
+      "source": "cham"
+    },
+    {
+      "id": "6-2",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 1,
+        "start": 4,
+        "end": 6
+      },
+      "kind": "person",
+      "text": "唐太宗李世民（598—649），以虛心納諫著稱。",
+      "source": "cham"
+    },
+    {
+      "id": "6-3",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 4,
+        "start": 1,
+        "end": 3
+      },
+      "kind": "person",
+      "text": "唐太宗李世民。",
+      "source": "cham"
+    },
+    {
+      "id": "6-4",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 4,
+        "start": 4,
+        "end": 6
+      },
+      "kind": "person",
+      "text": "蕭瑀（574—648），字時文，唐初宰相。",
+      "source": "cham"
+    },
+    {
+      "id": "6-5",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 5,
+        "start": 1,
+        "end": 3
+      },
+      "kind": "person",
+      "text": "唐太宗李世民。弓矢之喻見《貞觀政要》。",
+      "source": "cham"
+    }
+  ],
+  "annotationLayers": [
+    {
+      "id": "default",
+      "label": "原文",
+      "shortLabel": "文",
+      "contributor": "C004",
+      "role": "author",
+      "nature": "annotation",
+      "displayOrder": 0,
+      "enabled": true,
+      "annotations": []
+    },
+    {
+      "id": "commentary",
+      "label": "注",
+      "shortLabel": "注",
+      "contributor": "C011",
+      "role": "commentator",
+      "nature": "commentary",
+      "displayOrder": 1,
+      "enabled": true,
+      "annotations": []
+    }
+  ],
+  "source": {
+    "textRef": "shengui",
+    "relation": "section"
+  }
+}

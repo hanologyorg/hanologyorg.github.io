@@ -1,0 +1,366 @@
+{
+  "bookId": "laozi-heshanggong-wiki",
+  "num": 62,
+  "title": "第六十二章（為道）",
+  "author": "老子",
+  "authorId": "Laozi",
+  "dynasty": "周",
+  "era": "周",
+  "genre": "prose",
+  "verses": [
+    {
+      "text": "道者萬物之奧，"
+    },
+    {
+      "text": "善人之寶，"
+    },
+    {
+      "text": "不善人之所保。"
+    },
+    {
+      "text": "美言可以市，"
+    },
+    {
+      "text": "尊行可以加人。"
+    },
+    {
+      "text": "人之不善，何棄之有。"
+    },
+    {
+      "text": "故立天子，置三公，"
+    },
+    {
+      "text": "雖有拱璧以先駟馬，不如坐進此道。"
+    },
+    {
+      "text": "古之所以貴此道者，何不日以求得？"
+    },
+    {
+      "text": "有罪以免耶，"
+    },
+    {
+      "text": "故為天下貴。"
+    }
+  ],
+  "sections": {},
+  "annotations": [],
+  "layers": {
+    "heshanggong": [
+      {
+        "id": "heshanggong-1",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 7
+        },
+        "kind": "commentary",
+        "text": "奧，藏也。道為萬物之藏，無所不容也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-2",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 0,
+          "end": 5
+        },
+        "kind": "commentary",
+        "text": "善人以道為身寶，不敢違也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-3",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 2,
+          "start": 0,
+          "end": 7
+        },
+        "kind": "commentary",
+        "text": "道者，不善人之保倚也。遭患逢急，猶自知悔卑下。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-4",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 3,
+          "start": 0,
+          "end": 6
+        },
+        "kind": "commentary",
+        "text": "美言者獨可於市耳。夫市交易而退，不相宜善言美語，求者欲疾得，賣者欲疾售也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-5",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 4,
+          "start": 0,
+          "end": 7
+        },
+        "kind": "commentary",
+        "text": "加，別也。人有尊貴之行，可以別異於凡人，未足以尊道。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-6",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 5,
+          "start": 0,
+          "end": 10
+        },
+        "kind": "commentary",
+        "text": "人雖不善，當以道化之。蓋三皇之前，無有棄民，德化淳也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-7",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 6,
+          "start": 0,
+          "end": 9
+        },
+        "kind": "commentary",
+        "text": "欲使教化不善之人。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-8",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 7,
+          "start": 0,
+          "end": 16
+        },
+        "kind": "commentary",
+        "text": "雖有美璧先駟馬而至，故不如坐進此道。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-9",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 8,
+          "start": 0,
+          "end": 16
+        },
+        "kind": "commentary",
+        "text": "古之所以貴此道者，不日日遠行求索，近得之於身。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-10",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 9,
+          "start": 0,
+          "end": 6
+        },
+        "kind": "commentary",
+        "text": "有罪謂遭亂世，闇君妄行形誅，修道則可以解死，免於眾也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-11",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 10,
+          "start": 0,
+          "end": 6
+        },
+        "kind": "commentary",
+        "text": "道德洞遠，無不覆濟，全身治國，恬然無為，故可為天下貴也。",
+        "source": "cham"
+      }
+    ]
+  },
+  "annotationLayers": [
+    {
+      "id": "default",
+      "label": "原文",
+      "shortLabel": "文",
+      "contributor": "Laozi",
+      "role": "author",
+      "nature": "annotation",
+      "displayOrder": 0,
+      "enabled": true,
+      "annotations": []
+    },
+    {
+      "id": "heshanggong",
+      "label": "河上公註",
+      "shortLabel": "河",
+      "contributor": "C002",
+      "role": "commentator",
+      "nature": "commentary",
+      "displayOrder": 1,
+      "enabled": true,
+      "annotations": [
+        {
+          "id": "heshanggong-1",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 7
+          },
+          "kind": "commentary",
+          "text": "奧，藏也。道為萬物之藏，無所不容也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-2",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 1,
+            "start": 0,
+            "end": 5
+          },
+          "kind": "commentary",
+          "text": "善人以道為身寶，不敢違也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-3",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 2,
+            "start": 0,
+            "end": 7
+          },
+          "kind": "commentary",
+          "text": "道者，不善人之保倚也。遭患逢急，猶自知悔卑下。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-4",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 3,
+            "start": 0,
+            "end": 6
+          },
+          "kind": "commentary",
+          "text": "美言者獨可於市耳。夫市交易而退，不相宜善言美語，求者欲疾得，賣者欲疾售也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-5",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 4,
+            "start": 0,
+            "end": 7
+          },
+          "kind": "commentary",
+          "text": "加，別也。人有尊貴之行，可以別異於凡人，未足以尊道。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-6",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 5,
+            "start": 0,
+            "end": 10
+          },
+          "kind": "commentary",
+          "text": "人雖不善，當以道化之。蓋三皇之前，無有棄民，德化淳也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-7",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 6,
+            "start": 0,
+            "end": 9
+          },
+          "kind": "commentary",
+          "text": "欲使教化不善之人。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-8",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 7,
+            "start": 0,
+            "end": 16
+          },
+          "kind": "commentary",
+          "text": "雖有美璧先駟馬而至，故不如坐進此道。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-9",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 8,
+            "start": 0,
+            "end": 16
+          },
+          "kind": "commentary",
+          "text": "古之所以貴此道者，不日日遠行求索，近得之於身。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-10",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 9,
+            "start": 0,
+            "end": 6
+          },
+          "kind": "commentary",
+          "text": "有罪謂遭亂世，闇君妄行形誅，修道則可以解死，免於眾也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-11",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 10,
+            "start": 0,
+            "end": 6
+          },
+          "kind": "commentary",
+          "text": "道德洞遠，無不覆濟，全身治國，恬然無為，故可為天下貴也。",
+          "source": "cham"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "textRef": "laozi-heshanggong-wiki",
+    "relation": "section"
+  }
+}

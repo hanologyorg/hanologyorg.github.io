@@ -1,0 +1,453 @@
+{
+  "bookId": "heshanggong-laozi",
+  "num": 22,
+  "title": "第二十二章（益謙）",
+  "author": "老子",
+  "authorId": "Laozi",
+  "dynasty": "周",
+  "era": "周",
+  "genre": "prose",
+  "verses": [
+    {
+      "text": "曲則全，"
+    },
+    {
+      "text": "枉則直，"
+    },
+    {
+      "text": "窪則盈，"
+    },
+    {
+      "text": "敝則新，"
+    },
+    {
+      "text": "少則得，"
+    },
+    {
+      "text": "多則惑。"
+    },
+    {
+      "text": "是以聖人抱一為天下式。"
+    },
+    {
+      "text": "不自見故明，"
+    },
+    {
+      "text": "不自是故彰，"
+    },
+    {
+      "text": "不自伐故有功，"
+    },
+    {
+      "text": "不自矜故長。"
+    },
+    {
+      "text": "夫惟不爭，故天下莫能與之爭。"
+    },
+    {
+      "text": "古之所謂曲則全者，豈虛言哉。"
+    },
+    {
+      "text": "誠全而歸之。"
+    }
+  ],
+  "sections": {},
+  "annotations": [],
+  "layers": {
+    "heshanggong": [
+      {
+        "id": "heshanggong-1",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 4
+        },
+        "kind": "commentary",
+        "text": "曲己從眾，不自專，則全其身也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-2",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 0,
+          "end": 4
+        },
+        "kind": "commentary",
+        "text": "枉，屈己而伸人，久久自得直也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-3",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 2,
+          "start": 0,
+          "end": 4
+        },
+        "kind": "commentary",
+        "text": "地窪下，水流之；人謙下，德歸之。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-4",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 3,
+          "start": 0,
+          "end": 4
+        },
+        "kind": "commentary",
+        "text": "自受弊薄，後己先人，天下敬之，久久自新也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-5",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 4,
+          "start": 0,
+          "end": 4
+        },
+        "kind": "commentary",
+        "text": "自受取少則得多也，天道祐謙，神明託虛。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-6",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 5,
+          "start": 0,
+          "end": 4
+        },
+        "kind": "commentary",
+        "text": "財多者，惑於所守，學多者，惑於所聞。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-7",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 6,
+          "start": 0,
+          "end": 11
+        },
+        "kind": "commentary",
+        "text": "抱，守也。式，法也。 聖人守一，乃知萬事，故能為天下法式也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-8",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 7,
+          "start": 0,
+          "end": 6
+        },
+        "kind": "commentary",
+        "text": "聖人不以其目視千里之外也，乃因天下之目以視，故能明達也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-9",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 8,
+          "start": 0,
+          "end": 6
+        },
+        "kind": "commentary",
+        "text": "聖人不自以為是而非人，故能彰顯於世。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-10",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 9,
+          "start": 0,
+          "end": 7
+        },
+        "kind": "commentary",
+        "text": "伐，取也。 聖人德化流行，不自取其美，故有功於天下。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-11",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 10,
+          "start": 0,
+          "end": 6
+        },
+        "kind": "commentary",
+        "text": "矜，大也。 聖人不自貴大，故能久不危。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-12",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 11,
+          "start": 0,
+          "end": 14
+        },
+        "kind": "commentary",
+        "text": "此言天下賢與不肖，無能與不爭者爭也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-13",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 12,
+          "start": 0,
+          "end": 14
+        },
+        "kind": "commentary",
+        "text": "傳古言，曲從則全身，此言非虛妄也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-14",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 13,
+          "start": 0,
+          "end": 6
+        },
+        "kind": "commentary",
+        "text": "誠，實也。 能行曲從者，實其肌體，歸之於父母，無有傷害也。",
+        "source": "cham"
+      }
+    ]
+  },
+  "annotationLayers": [
+    {
+      "id": "default",
+      "label": "原文",
+      "shortLabel": "文",
+      "contributor": "Laozi",
+      "role": "author",
+      "nature": "annotation",
+      "displayOrder": 0,
+      "enabled": true,
+      "annotations": []
+    },
+    {
+      "id": "heshanggong",
+      "label": "河上公註",
+      "shortLabel": "河",
+      "contributor": "C002",
+      "role": "commentator",
+      "nature": "commentary",
+      "displayOrder": 1,
+      "enabled": true,
+      "annotations": [
+        {
+          "id": "heshanggong-1",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 4
+          },
+          "kind": "commentary",
+          "text": "曲己從眾，不自專，則全其身也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-2",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 1,
+            "start": 0,
+            "end": 4
+          },
+          "kind": "commentary",
+          "text": "枉，屈己而伸人，久久自得直也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-3",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 2,
+            "start": 0,
+            "end": 4
+          },
+          "kind": "commentary",
+          "text": "地窪下，水流之；人謙下，德歸之。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-4",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 3,
+            "start": 0,
+            "end": 4
+          },
+          "kind": "commentary",
+          "text": "自受弊薄，後己先人，天下敬之，久久自新也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-5",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 4,
+            "start": 0,
+            "end": 4
+          },
+          "kind": "commentary",
+          "text": "自受取少則得多也，天道祐謙，神明託虛。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-6",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 5,
+            "start": 0,
+            "end": 4
+          },
+          "kind": "commentary",
+          "text": "財多者，惑於所守，學多者，惑於所聞。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-7",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 6,
+            "start": 0,
+            "end": 11
+          },
+          "kind": "commentary",
+          "text": "抱，守也。式，法也。 聖人守一，乃知萬事，故能為天下法式也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-8",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 7,
+            "start": 0,
+            "end": 6
+          },
+          "kind": "commentary",
+          "text": "聖人不以其目視千里之外也，乃因天下之目以視，故能明達也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-9",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 8,
+            "start": 0,
+            "end": 6
+          },
+          "kind": "commentary",
+          "text": "聖人不自以為是而非人，故能彰顯於世。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-10",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 9,
+            "start": 0,
+            "end": 7
+          },
+          "kind": "commentary",
+          "text": "伐，取也。 聖人德化流行，不自取其美，故有功於天下。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-11",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 10,
+            "start": 0,
+            "end": 6
+          },
+          "kind": "commentary",
+          "text": "矜，大也。 聖人不自貴大，故能久不危。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-12",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 11,
+            "start": 0,
+            "end": 14
+          },
+          "kind": "commentary",
+          "text": "此言天下賢與不肖，無能與不爭者爭也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-13",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 12,
+            "start": 0,
+            "end": 14
+          },
+          "kind": "commentary",
+          "text": "傳古言，曲從則全身，此言非虛妄也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-14",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 13,
+            "start": 0,
+            "end": 6
+          },
+          "kind": "commentary",
+          "text": "誠，實也。 能行曲從者，實其肌體，歸之於父母，無有傷害也。",
+          "source": "cham"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "textRef": "heshanggong-laozi",
+    "relation": "section"
+  }
+}

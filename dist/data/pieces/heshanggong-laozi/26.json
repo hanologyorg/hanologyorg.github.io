@@ -1,0 +1,279 @@
+{
+  "bookId": "heshanggong-laozi",
+  "num": 26,
+  "title": "第二十六章（重德）",
+  "author": "老子",
+  "authorId": "Laozi",
+  "dynasty": "周",
+  "era": "周",
+  "genre": "prose",
+  "verses": [
+    {
+      "text": "重為輕根，"
+    },
+    {
+      "text": "靜為躁君。"
+    },
+    {
+      "text": "是以聖人終日行，不離輜重。"
+    },
+    {
+      "text": "雖有榮觀，燕處超然。"
+    },
+    {
+      "text": "奈何萬乘之主"
+    },
+    {
+      "text": "而以身輕天下？"
+    },
+    {
+      "text": "輕則失臣，"
+    },
+    {
+      "text": "躁則失君。"
+    }
+  ],
+  "sections": {},
+  "annotations": [],
+  "layers": {
+    "heshanggong": [
+      {
+        "id": "heshanggong-1",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 5
+        },
+        "kind": "commentary",
+        "text": "人君不重則不尊，治身不重則失神，草木之花葉輕，故零落，根重故長存也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-2",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 0,
+          "end": 5
+        },
+        "kind": "commentary",
+        "text": "人君不靜則失威，治身不靜則身危，龍靜故能變化，虎躁故夭虧也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-3",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 2,
+          "start": 0,
+          "end": 13
+        },
+        "kind": "commentary",
+        "text": "輜，靜也。聖人終日行道，不離其靜與重也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-4",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 3,
+          "start": 0,
+          "end": 10
+        },
+        "kind": "commentary",
+        "text": "榮觀，謂宮闕。燕處，后妃所居也。超然，遠避而不處也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-5",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 4,
+          "start": 0,
+          "end": 6
+        },
+        "kind": "commentary",
+        "text": "奈何者，疾時主傷痛之辭。萬乘之主謂，王者。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-6",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 5,
+          "start": 0,
+          "end": 7
+        },
+        "kind": "commentary",
+        "text": "王者至尊，而以其身行輕躁乎。疾時王奢恣輕淫也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-7",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 6,
+          "start": 0,
+          "end": 5
+        },
+        "kind": "commentary",
+        "text": "王者輕淫則失其臣，治身輕淫則失其精。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-8",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 7,
+          "start": 0,
+          "end": 5
+        },
+        "kind": "commentary",
+        "text": "王者行躁疾則失其君位，治身躁疾則失其精神也。",
+        "source": "cham"
+      }
+    ]
+  },
+  "annotationLayers": [
+    {
+      "id": "default",
+      "label": "原文",
+      "shortLabel": "文",
+      "contributor": "Laozi",
+      "role": "author",
+      "nature": "annotation",
+      "displayOrder": 0,
+      "enabled": true,
+      "annotations": []
+    },
+    {
+      "id": "heshanggong",
+      "label": "河上公註",
+      "shortLabel": "河",
+      "contributor": "C002",
+      "role": "commentator",
+      "nature": "commentary",
+      "displayOrder": 1,
+      "enabled": true,
+      "annotations": [
+        {
+          "id": "heshanggong-1",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 5
+          },
+          "kind": "commentary",
+          "text": "人君不重則不尊，治身不重則失神，草木之花葉輕，故零落，根重故長存也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-2",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 1,
+            "start": 0,
+            "end": 5
+          },
+          "kind": "commentary",
+          "text": "人君不靜則失威，治身不靜則身危，龍靜故能變化，虎躁故夭虧也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-3",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 2,
+            "start": 0,
+            "end": 13
+          },
+          "kind": "commentary",
+          "text": "輜，靜也。聖人終日行道，不離其靜與重也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-4",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 3,
+            "start": 0,
+            "end": 10
+          },
+          "kind": "commentary",
+          "text": "榮觀，謂宮闕。燕處，后妃所居也。超然，遠避而不處也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-5",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 4,
+            "start": 0,
+            "end": 6
+          },
+          "kind": "commentary",
+          "text": "奈何者，疾時主傷痛之辭。萬乘之主謂，王者。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-6",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 5,
+            "start": 0,
+            "end": 7
+          },
+          "kind": "commentary",
+          "text": "王者至尊，而以其身行輕躁乎。疾時王奢恣輕淫也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-7",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 6,
+            "start": 0,
+            "end": 5
+          },
+          "kind": "commentary",
+          "text": "王者輕淫則失其臣，治身輕淫則失其精。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-8",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 7,
+            "start": 0,
+            "end": 5
+          },
+          "kind": "commentary",
+          "text": "王者行躁疾則失其君位，治身躁疾則失其精神也。",
+          "source": "cham"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "textRef": "heshanggong-laozi",
+    "relation": "section"
+  }
+}

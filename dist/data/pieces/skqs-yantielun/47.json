@@ -1,0 +1,207 @@
+{
+  "bookId": "skqs-yantielun",
+  "num": 47,
+  "title": "鹽鐡鍼石第三十一",
+  "author": "桓寬",
+  "authorId": "桓寬",
+  "dynasty": "漢",
+  "era": "漢",
+  "eraCode": "07",
+  "genre": "prose",
+  "verses": [
+    {
+      "text": "丞相史曰吾聞諸鄭長孫曰君子正顔色則逺暴嫚出辭氣則逺鄙倍矣故言可述行可則此有司夙昔所願覩也若夫劒客論博奕辯盛色而相蘇秦立權以不相假使有司不能取賢良之議而賢良文學被不遜之名竊為諸生不取也公孫龍有言曰論之為道辯故不可以不屬意屬意相寛相寛其歸爭爭而不讓則入於鄙今有司以不仁又䝉素飡無以更責雪耻矣縣官所招舉賢良文學而及親民偉仕亦未見其能用鍼石而醫百姓之疾也"
+    },
+    {
+      "text": "賢良曰賈生有言曰懇言則辭淺而不入深言則逆耳而失指故曰談何容易談且不易而况行之乎此胡建所以不得其死而吳得㡬不免於患也語曰五盗執一良人枉木惡直繩今欲下鍼石通闗鬲則恐有盛胡之累懐鍼槖艾則被不工之名狼䟦其胡載𨆫其尾君子之路行止之道固狭耳此子石所以歎息也"
+    }
+  ],
+  "sections": {},
+  "annotations": [],
+  "layers": {
+    "commentary": [
+      {
+        "id": "commentary-1",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 5
+        },
+        "kind": "semantic",
+        "text": "去聲",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-2",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 5,
+          "end": 12
+        },
+        "kind": "semantic",
+        "text": "音掌",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-3",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 12,
+          "end": 49
+        },
+        "kind": "semantic",
+        "text": "音扶",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-4",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 49,
+          "end": 113
+        },
+        "kind": "semantic",
+        "text": "去聲",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-5",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 113,
+          "end": 116
+        },
+        "kind": "semantic",
+        "text": "顔師古曰屬意猶言注意也",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-6",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 116,
+          "end": 146
+        },
+        "kind": "semantic",
+        "text": "顔師古曰素空也素飡者徳不稱官空當食禄",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-7",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 146,
+          "end": 168
+        },
+        "kind": "semantic",
+        "text": "音針",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-8",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 0,
+          "end": 60
+        },
+        "kind": "semantic",
+        "text": "胡建傳曰胡建為渭城令治甚有聲值昭帝㓜皇后父上官將軍安與帝姊蓋主私夫丁外人相善外人驕恣怨故京兆尹樊福使客射殺之客藏公主廬吏不敢捕渭城令建將吏卒圍捕蓋主聞之與外人上官將軍多從奴客往犇射追吏吏散走主使僕射劾渭城令游徼傷主家奴建報亡它坐蓋主怒使人上書告建侵辱長公主射甲舍門知吏賊傷奴辟報故不窮審大將軍霍光寢其奏後光病上官氏代聼事下吏捕建建自殺吏民稱寃至今渭城立其祠",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-9",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 60,
+          "end": 73
+        },
+        "kind": "semantic",
+        "text": "説山訓曰衆曲不容直衆枉不容正故人衆則食狼狼衆則食人也",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-10",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 73,
+          "end": 77
+        },
+        "kind": "semantic",
+        "text": "音針",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-11",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 77,
+          "end": 90
+        },
+        "kind": "semantic",
+        "text": "音針",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-12",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 90,
+          "end": 91
+        },
+        "kind": "semantic",
+        "text": "音托",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-13",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 91,
+          "end": 123
+        },
+        "kind": "semantic",
+        "text": "雜言曰子石登吳山而四望喟然而歎息曰嗚呼悲哉世有明於事情不合於人心者有合於人心不明於事情者弟子問曰何謂也子石曰昔者吳王夫差不聼伍子胥盡忠極諌抉目而辜太宰嚭公孫雒偷合苟容以順夫差之志而伐吳二子沉身江湖頭懸越旗昔者費仲惡來革長鼻决耳崇侯虎順紂之心欲以合於意武王伐紂四子身死牧之野頭足異所比干盡忠剖心而死今欲明事情恐有抉目剖心之禍欲合人心恐有頭足異所之患由是觀之君子道狭耳誠不逢其明主狭道之中又將險危閉塞無可從出者子石公孫龍也",
+        "source": "cham"
+      }
+    ]
+  },
+  "annotationLayers": [
+    {
+      "id": "default",
+      "label": "原文",
+      "shortLabel": "文",
+      "contributor": "桓寬",
+      "role": "author",
+      "nature": "annotation",
+      "displayOrder": 0,
+      "enabled": true,
+      "annotations": []
+    }
+  ]
+}

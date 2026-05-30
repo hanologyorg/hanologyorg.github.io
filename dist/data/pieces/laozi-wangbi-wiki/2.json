@@ -1,0 +1,192 @@
+{
+  "bookId": "laozi-wangbi-wiki",
+  "num": 2,
+  "title": "第二章",
+  "author": "老子",
+  "authorId": "Laozi",
+  "dynasty": "周",
+  "era": "周",
+  "genre": "prose",
+  "verses": [
+    {
+      "text": "天下皆知美之為美，斯惡已。皆知善之為善，斯不善已。故有無相生，難易相成，長短相較，高下相傾，音聲相和，前後相隨。"
+    },
+    {
+      "text": "是以聖人處無為之事，"
+    },
+    {
+      "text": "行不言之教；萬物作焉而不辭，生而不有，為而不恃，"
+    },
+    {
+      "text": "功成而弗居。"
+    },
+    {
+      "text": "夫唯弗居，是以不去。"
+    }
+  ],
+  "sections": {},
+  "annotations": [],
+  "layers": {
+    "wangbi": [
+      {
+        "id": "wangbi-1",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 56
+        },
+        "kind": "commentary",
+        "text": "美者，人心之所進樂也；惡者，人心之所惡疾也。美惡，猶喜怒也；善不善，猶是非也。喜怒同根，是非同門，故不可得偏舉也。此六者皆陳自然不可偏舉之明數也。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-2",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 0,
+          "end": 10
+        },
+        "kind": "commentary",
+        "text": "自然已足，為則敗也。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-3",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 2,
+          "start": 0,
+          "end": 24
+        },
+        "kind": "commentary",
+        "text": "智慧自備，為則偽也。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-4",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 3,
+          "start": 0,
+          "end": 6
+        },
+        "kind": "commentary",
+        "text": "因物而用，功自彼成，故不居也。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-5",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 4,
+          "start": 0,
+          "end": 10
+        },
+        "kind": "commentary",
+        "text": "使功在己，則功不可久也。",
+        "source": "cham"
+      }
+    ]
+  },
+  "annotationLayers": [
+    {
+      "id": "default",
+      "label": "原文",
+      "shortLabel": "文",
+      "contributor": "Laozi",
+      "role": "author",
+      "nature": "annotation",
+      "displayOrder": 0,
+      "enabled": true,
+      "annotations": []
+    },
+    {
+      "id": "wangbi",
+      "label": "王弼註",
+      "shortLabel": "王",
+      "contributor": "C001",
+      "role": "commentator",
+      "nature": "commentary",
+      "displayOrder": 1,
+      "enabled": true,
+      "annotations": [
+        {
+          "id": "wangbi-1",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 56
+          },
+          "kind": "commentary",
+          "text": "美者，人心之所進樂也；惡者，人心之所惡疾也。美惡，猶喜怒也；善不善，猶是非也。喜怒同根，是非同門，故不可得偏舉也。此六者皆陳自然不可偏舉之明數也。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-2",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 1,
+            "start": 0,
+            "end": 10
+          },
+          "kind": "commentary",
+          "text": "自然已足，為則敗也。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-3",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 2,
+            "start": 0,
+            "end": 24
+          },
+          "kind": "commentary",
+          "text": "智慧自備，為則偽也。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-4",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 3,
+            "start": 0,
+            "end": 6
+          },
+          "kind": "commentary",
+          "text": "因物而用，功自彼成，故不居也。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-5",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 4,
+            "start": 0,
+            "end": 10
+          },
+          "kind": "commentary",
+          "text": "使功在己，則功不可久也。",
+          "source": "cham"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "textRef": "laozi-wangbi-wiki",
+    "relation": "section"
+  }
+}

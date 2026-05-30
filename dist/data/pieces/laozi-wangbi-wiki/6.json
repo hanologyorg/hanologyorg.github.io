@@ -1,0 +1,76 @@
+{
+  "bookId": "laozi-wangbi-wiki",
+  "num": 6,
+  "title": "第六章",
+  "author": "老子",
+  "authorId": "Laozi",
+  "dynasty": "周",
+  "era": "周",
+  "genre": "prose",
+  "verses": [
+    {
+      "text": "神不死，是謂玄牝。玄牝之門，是謂天地根。緜緜若存，用之不勤。"
+    }
+  ],
+  "sections": {},
+  "annotations": [],
+  "layers": {
+    "wangbi": [
+      {
+        "id": "wangbi-1",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 30
+        },
+        "kind": "commentary",
+        "text": "神，谷中央無谷也。無形無影，無逆無違，處卑不動，守靜不衰，谷以之成而不見其形，此至物也。處卑而不可得名，故謂天地之根，緜緜若存，用之不 勤。門，玄牝之所由也，本其所由，與極同體，故謂之天地之根也。欲言存邪，則不見其形，欲言亡邪，萬物以之生。故緜緜若存也，無物不成，用而不勞也。故曰，用而不勤也。",
+        "source": "cham"
+      }
+    ]
+  },
+  "annotationLayers": [
+    {
+      "id": "default",
+      "label": "原文",
+      "shortLabel": "文",
+      "contributor": "Laozi",
+      "role": "author",
+      "nature": "annotation",
+      "displayOrder": 0,
+      "enabled": true,
+      "annotations": []
+    },
+    {
+      "id": "wangbi",
+      "label": "王弼註",
+      "shortLabel": "王",
+      "contributor": "C001",
+      "role": "commentator",
+      "nature": "commentary",
+      "displayOrder": 1,
+      "enabled": true,
+      "annotations": [
+        {
+          "id": "wangbi-1",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 30
+          },
+          "kind": "commentary",
+          "text": "神，谷中央無谷也。無形無影，無逆無違，處卑不動，守靜不衰，谷以之成而不見其形，此至物也。處卑而不可得名，故謂天地之根，緜緜若存，用之不 勤。門，玄牝之所由也，本其所由，與極同體，故謂之天地之根也。欲言存邪，則不見其形，欲言亡邪，萬物以之生。故緜緜若存也，無物不成，用而不勞也。故曰，用而不勤也。",
+          "source": "cham"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "textRef": "laozi-wangbi-wiki",
+    "relation": "section"
+  }
+}

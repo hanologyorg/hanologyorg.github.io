@@ -1,0 +1,166 @@
+{
+  "bookId": "primary",
+  "num": 28,
+  "title": "竹里館",
+  "author": "王維",
+  "authorId": "A016",
+  "dynasty": "唐",
+  "era": "唐",
+  "eraCode": "24",
+  "genre": "poetry",
+  "verses": [
+    {
+      "text": "獨坐幽篁裏，彈琴復長嘯。"
+    },
+    {
+      "text": "深林人不知，明月來相照。"
+    }
+  ],
+  "sections": {
+    "analysis": "這是一首即景抒情之作。詩人以一幅優美的月下竹林彈琴圖，從一個側面抒寫了閒居輞川時悠遊閒適的心境。在幽深的竹林裏，詩人獨自一人彈着琴，有時還仰天長嘯；月光如水，輕柔地照在身上，這份恬靜和閒適，令人陶醉，別人哪裏能夠體會得到？\n\n這首詩用的是兩句之中前後對補的手法：處身在「幽篁裏」已夠冷清，再加上「獨坐」，這境地在常人恐怕覺得不可久留。然而，詩人卻自得其樂地在「彈琴」，甚至「長嘯」。他的興致好極了，簡直就像找到了一個最自由自在的天地。「深林人不知」，不是過於孤寂了嗎？詩人立即說：「不！有明月來相照，正好伴我彈琴長嘯呢。」\n\n詩人用「幽篁」、「琴」、「明月」三種景物，配以「獨坐」、「彈」、「長嘯」三種動作，動靜結合，創造出一種幽雅、恬靜的意境，散發出逍遙脫俗的韻味。詩人寫「彈琴」、「長嘯」，用聲響襯托靜境；寫「明月」，以光影點破暗夜，創造了優美的詩意境界。雖然詩中幾乎找不到直接抒情的文字，卻處處流露出詩人淡泊、閒適的意趣。",
+    "background": "王維有別墅在藍田輞川，晚年在這裏過着隱居的生活。他自編的詩集《輞川集》，就是這段隱居生活的記錄。集中共收他和朋友裴迪吟詠輞川景物的詩歌各二十首。《竹里館》是《輞川集》中的第十七首。竹里館是輞川別墅內的建築物之一，因建於竹林深處而得名。",
+    "preparation": "1. 聆聽誦讀詩歌錄音，跟同學一起朗讀；然後圈一圈詩中寫寂靜的字詞，嘗試讀出韻味來。 https://www.edb.gov.hk/attachment/tc/curriculum-development/kla/chi-edu/resources/primary/lang/jilei/028_jilei_shi(cantonese).mp3\n\n2. 網上小遊戲：《古文知多少‧竹里館》 https://game.hkedcity.net/chigame/index.php?game_id=5bee8efc0b0663581e691755&type=ccancient&level=J&scheme=Phase1",
+    "think_questions": "1. 你單獨一個人的時候，會有甚麼感覺？你會做甚麼事情呢？為甚麼你會做這些事情呢？\n\n2. 課餘的時候，你喜歡靜態的活動，還是動態的活動呢？為甚麼？\n\n3. 如要你在書、畫、琴、棋這些藝術活動中選一項，你會選擇學甚麼？說說原因。",
+    "annotations": "1.幽篁：○粵皇；wong4；○普huɑ́nɡ。幽靜的竹林。\n篁：。\n2.復：又。\n3.長嘯：○粵笑；siu3；○普xiɑ̀o。撮口發出悠長清脆的聲音，古人常以這種方式抒發情懷。\n嘯：。\n4.深林：幽深的樹林，這裏指「幽篁」。"
+  },
+  "annotations": [
+    {
+      "id": "28-1",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 2,
+        "end": 4
+      },
+      "kind": "pronunciation",
+      "lang": "yue",
+      "text": "皇；wong4",
+      "source": "cham"
+    },
+    {
+      "id": "28-2",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 2,
+        "end": 4
+      },
+      "kind": "pronunciation",
+      "lang": "cmn",
+      "text": "huɑ́nɡ",
+      "source": "cham"
+    },
+    {
+      "id": "28-3",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 2,
+        "end": 4
+      },
+      "kind": "semantic",
+      "text": "幽靜的竹林。\n篁：。",
+      "source": "cham"
+    },
+    {
+      "id": "28-4",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 8,
+        "end": 9
+      },
+      "kind": "semantic",
+      "text": "又。",
+      "source": "cham"
+    },
+    {
+      "id": "28-5",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 9,
+        "end": 11
+      },
+      "kind": "pronunciation",
+      "lang": "yue",
+      "text": "笑；siu3",
+      "source": "cham"
+    },
+    {
+      "id": "28-6",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 9,
+        "end": 11
+      },
+      "kind": "pronunciation",
+      "lang": "cmn",
+      "text": "xiɑ̀o",
+      "source": "cham"
+    },
+    {
+      "id": "28-7",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 9,
+        "end": 11
+      },
+      "kind": "semantic",
+      "text": "撮口發出悠長清脆的聲音，古人常以這種方式抒發情懷。\n嘯：。",
+      "source": "cham"
+    },
+    {
+      "id": "28-8",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 1,
+        "start": 0,
+        "end": 2
+      },
+      "kind": "semantic",
+      "text": "幽深的樹林，這裏指「幽篁」。",
+      "source": "cham"
+    }
+  ],
+  "structuredSections": [
+    {
+      "key": "background",
+      "title": "背景資料",
+      "filename": "background.md",
+      "body": "王維有別墅在藍田輞川，晚年在這裏過着隱居的生活。他自編的詩集《輞川集》，就是這段隱居生活的記錄。集中共收他和朋友裴迪吟詠輞川景物的詩歌各二十首。《竹里館》是《輞川集》中的第十七首。竹里館是輞川別墅內的建築物之一，因建於竹林深處而得名。",
+      "order": 2
+    },
+    {
+      "key": "analysis",
+      "title": "賞析",
+      "filename": "analysis.md",
+      "body": "這是一首即景抒情之作。詩人以一幅優美的月下竹林彈琴圖，從一個側面抒寫了閒居輞川時悠遊閒適的心境。在幽深的竹林裏，詩人獨自一人彈着琴，有時還仰天長嘯；月光如水，輕柔地照在身上，這份恬靜和閒適，令人陶醉，別人哪裏能夠體會得到？\n\n這首詩用的是兩句之中前後對補的手法：處身在「幽篁裏」已夠冷清，再加上「獨坐」，這境地在常人恐怕覺得不可久留。然而，詩人卻自得其樂地在「彈琴」，甚至「長嘯」。他的興致好極了，簡直就像找到了一個最自由自在的天地。「深林人不知」，不是過於孤寂了嗎？詩人立即說：「不！有明月來相照，正好伴我彈琴長嘯呢。」\n\n詩人用「幽篁」、「琴」、「明月」三種景物，配以「獨坐」、「彈」、「長嘯」三種動作，動靜結合，創造出一種幽雅、恬靜的意境，散發出逍遙脫俗的韻味。詩人寫「彈琴」、「長嘯」，用聲響襯托靜境；寫「明月」，以光影點破暗夜，創造了優美的詩意境界。雖然詩中幾乎找不到直接抒情的文字，卻處處流露出詩人淡泊、閒適的意趣。",
+      "order": 3
+    },
+    {
+      "key": "think_questions",
+      "title": "思考問題",
+      "filename": "think-questions.md",
+      "body": "1. 你單獨一個人的時候，會有甚麼感覺？你會做甚麼事情呢？為甚麼你會做這些事情呢？\n\n2. 課餘的時候，你喜歡靜態的活動，還是動態的活動呢？為甚麼？\n\n3. 如要你在書、畫、琴、棋這些藝術活動中選一項，你會選擇學甚麼？說說原因。",
+      "order": 5
+    },
+    {
+      "key": "preparation",
+      "title": "教學準備",
+      "filename": "preparation.md",
+      "body": "1. 聆聽誦讀詩歌錄音，跟同學一起朗讀；然後圈一圈詩中寫寂靜的字詞，嘗試讀出韻味來。 https://www.edb.gov.hk/attachment/tc/curriculum-development/kla/chi-edu/resources/primary/lang/jilei/028_jilei_shi(cantonese).mp3\n\n2. 網上小遊戲：《古文知多少‧竹里館》 https://game.hkedcity.net/chigame/index.php?game_id=5bee8efc0b0663581e691755&type=ccancient&level=J&scheme=Phase1",
+      "order": 6
+    }
+  ]
+}

@@ -1,0 +1,177 @@
+{
+  "bookId": "laozi",
+  "num": 16,
+  "title": "第十六章",
+  "author": "老子",
+  "authorId": "Laozi",
+  "dynasty": "周",
+  "era": "周",
+  "genre": "prose",
+  "verses": [
+    {
+      "text": "致虛極，守靜篤。萬物並作，吾以觀復。"
+    },
+    {
+      "text": "夫物芸芸，各復歸其根。歸根曰靜，是謂復命。"
+    },
+    {
+      "text": "復命曰常，知常曰明。不知常，妄作凶。"
+    },
+    {
+      "text": "知常容，容乃公，公乃王，王乃天，天乃道，道乃久，沒身不殆。"
+    }
+  ],
+  "sections": {},
+  "annotations": [],
+  "layers": {
+    "hesonggong": [
+      {
+        "id": "hesonggong-1",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 18
+        },
+        "kind": "semantic",
+        "text": "致虛極，守靜篤，萬物並作，吾以觀其復。物芸芸，各復歸其根，靜者道之尊。",
+        "source": "cham"
+      },
+      {
+        "id": "hesonggong-2",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 2,
+          "start": 0,
+          "end": 18
+        },
+        "kind": "semantic",
+        "text": "復命曰常，知常曰明。不知常，妄作凶。知常容，容乃公，公乃王，王乃天，天乃道，道乃久，沒身不殆。",
+        "source": "cham"
+      }
+    ],
+    "wangbi": [
+      {
+        "id": "wangbi-1",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 18
+        },
+        "kind": "semantic",
+        "text": "致虛守靜，觀物變化，皆復歸根。歸根復命，乃得常道。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-2",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 2,
+          "start": 0,
+          "end": 18
+        },
+        "kind": "semantic",
+        "text": "知常則明，不知常則妄作凶。知常容乃至道，與天地同久，終身不殆。",
+        "source": "cham"
+      }
+    ]
+  },
+  "annotationLayers": [
+    {
+      "id": "default",
+      "label": "原文",
+      "shortLabel": "文",
+      "contributor": "Laozi",
+      "role": "author",
+      "nature": "annotation",
+      "displayOrder": 0,
+      "enabled": true,
+      "annotations": []
+    },
+    {
+      "id": "wangbi",
+      "label": "王弼註",
+      "shortLabel": "王",
+      "contributor": "C001",
+      "role": "commentator",
+      "nature": "commentary",
+      "displayOrder": 1,
+      "enabled": true,
+      "annotations": [
+        {
+          "id": "wangbi-1",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 18
+          },
+          "kind": "semantic",
+          "text": "致虛守靜，觀物變化，皆復歸根。歸根復命，乃得常道。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-2",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 2,
+            "start": 0,
+            "end": 18
+          },
+          "kind": "semantic",
+          "text": "知常則明，不知常則妄作凶。知常容乃至道，與天地同久，終身不殆。",
+          "source": "cham"
+        }
+      ]
+    },
+    {
+      "id": "hesonggong",
+      "label": "河上公註",
+      "shortLabel": "河",
+      "contributor": "C002",
+      "role": "commentator",
+      "nature": "commentary",
+      "displayOrder": 2,
+      "enabled": true,
+      "annotations": [
+        {
+          "id": "hesonggong-1",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 18
+          },
+          "kind": "semantic",
+          "text": "致虛極，守靜篤，萬物並作，吾以觀其復。物芸芸，各復歸其根，靜者道之尊。",
+          "source": "cham"
+        },
+        {
+          "id": "hesonggong-2",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 2,
+            "start": 0,
+            "end": 18
+          },
+          "kind": "semantic",
+          "text": "復命曰常，知常曰明。不知常，妄作凶。知常容，容乃公，公乃王，王乃天，天乃道，道乃久，沒身不殆。",
+          "source": "cham"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "textRef": "laozi",
+    "relation": "section"
+  }
+}

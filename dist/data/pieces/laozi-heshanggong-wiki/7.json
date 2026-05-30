@@ -1,0 +1,308 @@
+{
+  "bookId": "laozi-heshanggong-wiki",
+  "num": 7,
+  "title": "第七章（韜光）",
+  "author": "老子",
+  "authorId": "Laozi",
+  "dynasty": "周",
+  "era": "周",
+  "genre": "prose",
+  "verses": [
+    {
+      "text": "天長地久，"
+    },
+    {
+      "text": "天地所以能長且久者，以其不自生，"
+    },
+    {
+      "text": "故能長生。"
+    },
+    {
+      "text": "是以聖人後其身，"
+    },
+    {
+      "text": "而身先，"
+    },
+    {
+      "text": "外其身，"
+    },
+    {
+      "text": "而身存。"
+    },
+    {
+      "text": "非以其無私邪。"
+    },
+    {
+      "text": "故能成其私。"
+    }
+  ],
+  "sections": {},
+  "annotations": [],
+  "layers": {
+    "heshanggong": [
+      {
+        "id": "heshanggong-1",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 5
+        },
+        "kind": "commentary",
+        "text": "說天地長生久壽，以喻教人也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-2",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 0,
+          "end": 16
+        },
+        "kind": "commentary",
+        "text": "天地所以獨長且久者，以其安靜，施不求報，不如人居處，汲汲求自饒之利，奪人以自與也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-3",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 2,
+          "start": 0,
+          "end": 5
+        },
+        "kind": "commentary",
+        "text": "以其不求生，故能長生不終也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-4",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 3,
+          "start": 0,
+          "end": 8
+        },
+        "kind": "commentary",
+        "text": "先人而後己也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-5",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 4,
+          "start": 0,
+          "end": 4
+        },
+        "kind": "commentary",
+        "text": "天下敬之，先以為長。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-6",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 5,
+          "start": 0,
+          "end": 4
+        },
+        "kind": "commentary",
+        "text": "薄己而厚人也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-7",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 6,
+          "start": 0,
+          "end": 4
+        },
+        "kind": "commentary",
+        "text": "百姓愛之如父母，神明祐之若赤子，故身常存。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-8",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 7,
+          "start": 0,
+          "end": 7
+        },
+        "kind": "commentary",
+        "text": "聖人為人所愛，神明所祐，非以其公正無私所致乎。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-9",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 8,
+          "start": 0,
+          "end": 6
+        },
+        "kind": "commentary",
+        "text": "人以為私者，欲以厚己也。聖人無私而己自厚，故能成其私也。",
+        "source": "cham"
+      }
+    ]
+  },
+  "annotationLayers": [
+    {
+      "id": "default",
+      "label": "原文",
+      "shortLabel": "文",
+      "contributor": "Laozi",
+      "role": "author",
+      "nature": "annotation",
+      "displayOrder": 0,
+      "enabled": true,
+      "annotations": []
+    },
+    {
+      "id": "heshanggong",
+      "label": "河上公註",
+      "shortLabel": "河",
+      "contributor": "C002",
+      "role": "commentator",
+      "nature": "commentary",
+      "displayOrder": 1,
+      "enabled": true,
+      "annotations": [
+        {
+          "id": "heshanggong-1",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 5
+          },
+          "kind": "commentary",
+          "text": "說天地長生久壽，以喻教人也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-2",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 1,
+            "start": 0,
+            "end": 16
+          },
+          "kind": "commentary",
+          "text": "天地所以獨長且久者，以其安靜，施不求報，不如人居處，汲汲求自饒之利，奪人以自與也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-3",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 2,
+            "start": 0,
+            "end": 5
+          },
+          "kind": "commentary",
+          "text": "以其不求生，故能長生不終也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-4",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 3,
+            "start": 0,
+            "end": 8
+          },
+          "kind": "commentary",
+          "text": "先人而後己也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-5",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 4,
+            "start": 0,
+            "end": 4
+          },
+          "kind": "commentary",
+          "text": "天下敬之，先以為長。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-6",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 5,
+            "start": 0,
+            "end": 4
+          },
+          "kind": "commentary",
+          "text": "薄己而厚人也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-7",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 6,
+            "start": 0,
+            "end": 4
+          },
+          "kind": "commentary",
+          "text": "百姓愛之如父母，神明祐之若赤子，故身常存。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-8",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 7,
+            "start": 0,
+            "end": 7
+          },
+          "kind": "commentary",
+          "text": "聖人為人所愛，神明所祐，非以其公正無私所致乎。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-9",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 8,
+            "start": 0,
+            "end": 6
+          },
+          "kind": "commentary",
+          "text": "人以為私者，欲以厚己也。聖人無私而己自厚，故能成其私也。",
+          "source": "cham"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "textRef": "laozi-heshanggong-wiki",
+    "relation": "section"
+  }
+}

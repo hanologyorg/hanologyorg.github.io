@@ -1,0 +1,177 @@
+{
+  "bookId": "laozi",
+  "num": 11,
+  "title": "第十一章",
+  "author": "老子",
+  "authorId": "Laozi",
+  "dynasty": "周",
+  "era": "周",
+  "genre": "prose",
+  "verses": [
+    {
+      "text": "三十輻共一轂，當其無，有車之用。"
+    },
+    {
+      "text": "埏埴以為器，當其無，有器之用。"
+    },
+    {
+      "text": "鑿戶牖以為室，當其無，有室之用。"
+    },
+    {
+      "text": "故有之以為利，無之以為用。"
+    }
+  ],
+  "sections": {},
+  "annotations": [],
+  "layers": {
+    "hesonggong": [
+      {
+        "id": "hesonggong-1",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 16
+        },
+        "kind": "semantic",
+        "text": "三十輻共一轂，器以土為之，室以空為用，皆取其無有相成之義。",
+        "source": "cham"
+      },
+      {
+        "id": "hesonggong-2",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 3,
+          "start": 0,
+          "end": 13
+        },
+        "kind": "semantic",
+        "text": "有形者以為利，無形者以為用，有無相須，然後成器。",
+        "source": "cham"
+      }
+    ],
+    "wangbi": [
+      {
+        "id": "wangbi-1",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 16
+        },
+        "kind": "semantic",
+        "text": "有無相成，虛實相用。車、器、室皆因無而有用，無乃所以為用。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-2",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 3,
+          "start": 0,
+          "end": 13
+        },
+        "kind": "semantic",
+        "text": "有無相須，形用相待，有以為利，無以為用。",
+        "source": "cham"
+      }
+    ]
+  },
+  "annotationLayers": [
+    {
+      "id": "default",
+      "label": "原文",
+      "shortLabel": "文",
+      "contributor": "Laozi",
+      "role": "author",
+      "nature": "annotation",
+      "displayOrder": 0,
+      "enabled": true,
+      "annotations": []
+    },
+    {
+      "id": "wangbi",
+      "label": "王弼註",
+      "shortLabel": "王",
+      "contributor": "C001",
+      "role": "commentator",
+      "nature": "commentary",
+      "displayOrder": 1,
+      "enabled": true,
+      "annotations": [
+        {
+          "id": "wangbi-1",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 16
+          },
+          "kind": "semantic",
+          "text": "有無相成，虛實相用。車、器、室皆因無而有用，無乃所以為用。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-2",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 3,
+            "start": 0,
+            "end": 13
+          },
+          "kind": "semantic",
+          "text": "有無相須，形用相待，有以為利，無以為用。",
+          "source": "cham"
+        }
+      ]
+    },
+    {
+      "id": "hesonggong",
+      "label": "河上公註",
+      "shortLabel": "河",
+      "contributor": "C002",
+      "role": "commentator",
+      "nature": "commentary",
+      "displayOrder": 2,
+      "enabled": true,
+      "annotations": [
+        {
+          "id": "hesonggong-1",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 16
+          },
+          "kind": "semantic",
+          "text": "三十輻共一轂，器以土為之，室以空為用，皆取其無有相成之義。",
+          "source": "cham"
+        },
+        {
+          "id": "hesonggong-2",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 3,
+            "start": 0,
+            "end": 13
+          },
+          "kind": "semantic",
+          "text": "有形者以為利，無形者以為用，有無相須，然後成器。",
+          "source": "cham"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "textRef": "laozi",
+    "relation": "section"
+  }
+}

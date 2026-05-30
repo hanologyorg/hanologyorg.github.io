@@ -1,0 +1,105 @@
+{
+  "bookId": "laozi-wangbi-wiki",
+  "num": 77,
+  "title": "第七十七章",
+  "author": "老子",
+  "authorId": "Laozi",
+  "dynasty": "周",
+  "era": "周",
+  "genre": "prose",
+  "verses": [
+    {
+      "text": "天之道，其猶張弓與？高者抑之，下者舉之；有餘者損之，不足者補之。天之道，損有餘而補不足。人之道則不然，"
+    },
+    {
+      "text": "損不足以奉有餘。孰能有餘以奉天下？唯有道者。是以聖人為而不恃，功成而不處，其不欲見賢。"
+    }
+  ],
+  "sections": {},
+  "annotations": [],
+  "layers": {
+    "wangbi": [
+      {
+        "id": "wangbi-1",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 51
+        },
+        "kind": "commentary",
+        "text": "與天地合德，乃能包之，如天之道。如人之量，則各有其身，不得相均，如惟無身無私乎，自然然後乃能與天地合德。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-2",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 0,
+          "end": 43
+        },
+        "kind": "commentary",
+        "text": "言唯能處盈而全虛，損有以補無，和光同塵，蕩而均者，唯其道也。是以聖人不欲示其賢以均天下。",
+        "source": "cham"
+      }
+    ]
+  },
+  "annotationLayers": [
+    {
+      "id": "default",
+      "label": "原文",
+      "shortLabel": "文",
+      "contributor": "Laozi",
+      "role": "author",
+      "nature": "annotation",
+      "displayOrder": 0,
+      "enabled": true,
+      "annotations": []
+    },
+    {
+      "id": "wangbi",
+      "label": "王弼註",
+      "shortLabel": "王",
+      "contributor": "C001",
+      "role": "commentator",
+      "nature": "commentary",
+      "displayOrder": 1,
+      "enabled": true,
+      "annotations": [
+        {
+          "id": "wangbi-1",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 51
+          },
+          "kind": "commentary",
+          "text": "與天地合德，乃能包之，如天之道。如人之量，則各有其身，不得相均，如惟無身無私乎，自然然後乃能與天地合德。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-2",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 1,
+            "start": 0,
+            "end": 43
+          },
+          "kind": "commentary",
+          "text": "言唯能處盈而全虛，損有以補無，和光同塵，蕩而均者，唯其道也。是以聖人不欲示其賢以均天下。",
+          "source": "cham"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "textRef": "laozi-wangbi-wiki",
+    "relation": "section"
+  }
+}

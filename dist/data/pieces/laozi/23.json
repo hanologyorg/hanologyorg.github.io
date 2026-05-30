@@ -1,0 +1,180 @@
+{
+  "bookId": "laozi",
+  "num": 23,
+  "title": "第二十三章",
+  "author": "老子",
+  "authorId": "Laozi",
+  "dynasty": "周",
+  "era": "周",
+  "genre": "prose",
+  "verses": [
+    {
+      "text": "希言自然。故飄風不終朝，驟雨不終日。"
+    },
+    {
+      "text": "孰為此者？天地。天地尚不能久，而況於人乎？"
+    },
+    {
+      "text": "故從事於道者，道者同於道，德者同於德，失者同於失。"
+    },
+    {
+      "text": "同於道者，道亦樂得之；同於德者，德亦樂得之；同於失者，失亦樂得之。"
+    },
+    {
+      "text": "信不足焉，有不信焉。"
+    }
+  ],
+  "sections": {},
+  "annotations": [],
+  "layers": {
+    "hesonggong": [
+      {
+        "id": "hesonggong-1",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 18
+        },
+        "kind": "semantic",
+        "text": "希言自然。故飄風不終朝，驟雨不終日。孰為此者？天地。天地尚不能久，而況於人乎？",
+        "source": "cham"
+      },
+      {
+        "id": "hesonggong-2",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 2,
+          "start": 0,
+          "end": 25
+        },
+        "kind": "semantic",
+        "text": "故從事於道者，道者同於道，德者同於德，失者同於失。同於道者，道亦樂得之；同於德者，德亦樂得之；同於失者，失亦樂得之。信不足焉，有不信焉。",
+        "source": "cham"
+      }
+    ],
+    "wangbi": [
+      {
+        "id": "wangbi-1",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 18
+        },
+        "kind": "semantic",
+        "text": "希言自然，順乎自然。飄風驟雨尚不能久，況人乎？",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-2",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 2,
+          "start": 0,
+          "end": 25
+        },
+        "kind": "semantic",
+        "text": "從事於道者，與道同。德者與德同，失者與失同。道德樂得同者，失亦樂得同者。信不足，則有不信。",
+        "source": "cham"
+      }
+    ]
+  },
+  "annotationLayers": [
+    {
+      "id": "default",
+      "label": "原文",
+      "shortLabel": "文",
+      "contributor": "Laozi",
+      "role": "author",
+      "nature": "annotation",
+      "displayOrder": 0,
+      "enabled": true,
+      "annotations": []
+    },
+    {
+      "id": "wangbi",
+      "label": "王弼註",
+      "shortLabel": "王",
+      "contributor": "C001",
+      "role": "commentator",
+      "nature": "commentary",
+      "displayOrder": 1,
+      "enabled": true,
+      "annotations": [
+        {
+          "id": "wangbi-1",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 18
+          },
+          "kind": "semantic",
+          "text": "希言自然，順乎自然。飄風驟雨尚不能久，況人乎？",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-2",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 2,
+            "start": 0,
+            "end": 25
+          },
+          "kind": "semantic",
+          "text": "從事於道者，與道同。德者與德同，失者與失同。道德樂得同者，失亦樂得同者。信不足，則有不信。",
+          "source": "cham"
+        }
+      ]
+    },
+    {
+      "id": "hesonggong",
+      "label": "河上公註",
+      "shortLabel": "河",
+      "contributor": "C002",
+      "role": "commentator",
+      "nature": "commentary",
+      "displayOrder": 2,
+      "enabled": true,
+      "annotations": [
+        {
+          "id": "hesonggong-1",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 18
+          },
+          "kind": "semantic",
+          "text": "希言自然。故飄風不終朝，驟雨不終日。孰為此者？天地。天地尚不能久，而況於人乎？",
+          "source": "cham"
+        },
+        {
+          "id": "hesonggong-2",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 2,
+            "start": 0,
+            "end": 25
+          },
+          "kind": "semantic",
+          "text": "故從事於道者，道者同於道，德者同於德，失者同於失。同於道者，道亦樂得之；同於德者，德亦樂得之；同於失者，失亦樂得之。信不足焉，有不信焉。",
+          "source": "cham"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "textRef": "laozi",
+    "relation": "section"
+  }
+}

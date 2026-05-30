@@ -1,0 +1,232 @@
+{
+  "bookId": "laozi",
+  "num": 4,
+  "title": "第四章",
+  "author": "老子",
+  "authorId": "Laozi",
+  "dynasty": "周",
+  "era": "周",
+  "genre": "prose",
+  "verses": [
+    {
+      "text": "道沖，而用之有弗盈也。"
+    },
+    {
+      "text": "淵呵！似萬物之宗。"
+    },
+    {
+      "text": "銼其銳，解其紛，和其光，同其塵。"
+    },
+    {
+      "text": "湛呵！似或存。"
+    },
+    {
+      "text": "吾不知誰之子，象帝之先。"
+    }
+  ],
+  "sections": {},
+  "annotations": [],
+  "layers": {
+    "hesonggong": [
+      {
+        "id": "hesonggong-1",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 11
+        },
+        "kind": "semantic",
+        "text": "道德沖融，應用不窮。淵深不可測量，為萬物之宗祖。",
+        "source": "cham"
+      },
+      {
+        "id": "hesonggong-2",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 2,
+          "start": 0,
+          "end": 16
+        },
+        "kind": "semantic",
+        "text": "挫銳解紛，和光同塵，皆謙退藏密之義。",
+        "source": "cham"
+      },
+      {
+        "id": "hesonggong-3",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 3,
+          "start": 0,
+          "end": 7
+        },
+        "kind": "semantic",
+        "text": "湛然常存，不知其誰之子，乃在天帝之先而生。",
+        "source": "cham"
+      }
+    ],
+    "wangbi": [
+      {
+        "id": "wangbi-1",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 11
+        },
+        "kind": "semantic",
+        "text": "道體沖虛，應用無窮，淵深不可測，為萬物之宗主。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-2",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 2,
+          "start": 0,
+          "end": 16
+        },
+        "kind": "semantic",
+        "text": "挫其鋒芒，解其紛亂，和其光耀，同其塵垢。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-3",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 3,
+          "start": 0,
+          "end": 7
+        },
+        "kind": "semantic",
+        "text": "湛然常存，不知其所從來，乃在天帝之先。",
+        "source": "cham"
+      }
+    ]
+  },
+  "annotationLayers": [
+    {
+      "id": "default",
+      "label": "原文",
+      "shortLabel": "文",
+      "contributor": "Laozi",
+      "role": "author",
+      "nature": "annotation",
+      "displayOrder": 0,
+      "enabled": true,
+      "annotations": []
+    },
+    {
+      "id": "wangbi",
+      "label": "王弼註",
+      "shortLabel": "王",
+      "contributor": "C001",
+      "role": "commentator",
+      "nature": "commentary",
+      "displayOrder": 1,
+      "enabled": true,
+      "annotations": [
+        {
+          "id": "wangbi-1",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 11
+          },
+          "kind": "semantic",
+          "text": "道體沖虛，應用無窮，淵深不可測，為萬物之宗主。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-2",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 2,
+            "start": 0,
+            "end": 16
+          },
+          "kind": "semantic",
+          "text": "挫其鋒芒，解其紛亂，和其光耀，同其塵垢。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-3",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 3,
+            "start": 0,
+            "end": 7
+          },
+          "kind": "semantic",
+          "text": "湛然常存，不知其所從來，乃在天帝之先。",
+          "source": "cham"
+        }
+      ]
+    },
+    {
+      "id": "hesonggong",
+      "label": "河上公註",
+      "shortLabel": "河",
+      "contributor": "C002",
+      "role": "commentator",
+      "nature": "commentary",
+      "displayOrder": 2,
+      "enabled": true,
+      "annotations": [
+        {
+          "id": "hesonggong-1",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 11
+          },
+          "kind": "semantic",
+          "text": "道德沖融，應用不窮。淵深不可測量，為萬物之宗祖。",
+          "source": "cham"
+        },
+        {
+          "id": "hesonggong-2",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 2,
+            "start": 0,
+            "end": 16
+          },
+          "kind": "semantic",
+          "text": "挫銳解紛，和光同塵，皆謙退藏密之義。",
+          "source": "cham"
+        },
+        {
+          "id": "hesonggong-3",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 3,
+            "start": 0,
+            "end": 7
+          },
+          "kind": "semantic",
+          "text": "湛然常存，不知其誰之子，乃在天帝之先而生。",
+          "source": "cham"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "textRef": "laozi",
+    "relation": "section"
+  }
+}

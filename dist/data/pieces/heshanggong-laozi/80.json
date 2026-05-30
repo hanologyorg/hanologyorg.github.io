@@ -1,0 +1,395 @@
+{
+  "bookId": "heshanggong-laozi",
+  "num": 80,
+  "title": "第八十章（獨立）",
+  "author": "老子",
+  "authorId": "Laozi",
+  "dynasty": "周",
+  "era": "周",
+  "genre": "prose",
+  "verses": [
+    {
+      "text": "小國寡民，"
+    },
+    {
+      "text": "使有什伯之器而不用，"
+    },
+    {
+      "text": "使民重死而不遠徙。"
+    },
+    {
+      "text": "雖有舟輿，無所乘之；"
+    },
+    {
+      "text": "雖有甲兵，無所陳之。"
+    },
+    {
+      "text": "使民復結繩而用之，"
+    },
+    {
+      "text": "甘其食，"
+    },
+    {
+      "text": "美其服，"
+    },
+    {
+      "text": "安其居，"
+    },
+    {
+      "text": "樂其俗。"
+    },
+    {
+      "text": "鄰國相望，雞犬之聲相聞，"
+    },
+    {
+      "text": "民至老死不相往來。"
+    }
+  ],
+  "sections": {},
+  "annotations": [],
+  "layers": {
+    "heshanggong": [
+      {
+        "id": "heshanggong-1",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 5
+        },
+        "kind": "commentary",
+        "text": "聖人雖治大國，猶以為小，儉約不奢泰。民雖眾，猶若寡少，不敢勞之也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-2",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 0,
+          "end": 10
+        },
+        "kind": "commentary",
+        "text": "使民各有部曲什伯，貴賤不相犯也。器謂農人之器。而不用，不徵召奪民良時也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-3",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 2,
+          "start": 0,
+          "end": 9
+        },
+        "kind": "commentary",
+        "text": "君能為民興利除害，各得其所，則民重死而貪生也。政令不煩則民安其業，故不遠遷徙離其常處也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-4",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 3,
+          "start": 0,
+          "end": 10
+        },
+        "kind": "commentary",
+        "text": "清靜無為，不作煩華，不好出入遊娛也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-5",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 4,
+          "start": 0,
+          "end": 10
+        },
+        "kind": "commentary",
+        "text": "無怨惡於天下。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-6",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 5,
+          "start": 0,
+          "end": 9
+        },
+        "kind": "commentary",
+        "text": "去文反質，信無欺也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-7",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 6,
+          "start": 0,
+          "end": 4
+        },
+        "kind": "commentary",
+        "text": "甘其蔬食，不漁食百姓也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-8",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 7,
+          "start": 0,
+          "end": 4
+        },
+        "kind": "commentary",
+        "text": "美其惡衣，不貴五色。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-9",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 8,
+          "start": 0,
+          "end": 4
+        },
+        "kind": "commentary",
+        "text": "安其茅茨，不好文飾之屋。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-10",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 9,
+          "start": 0,
+          "end": 4
+        },
+        "kind": "commentary",
+        "text": "樂其質朴之俗，不轉移也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-11",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 10,
+          "start": 0,
+          "end": 12
+        },
+        "kind": "commentary",
+        "text": "相去近也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-12",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 11,
+          "start": 0,
+          "end": 9
+        },
+        "kind": "commentary",
+        "text": "其無情欲。",
+        "source": "cham"
+      }
+    ]
+  },
+  "annotationLayers": [
+    {
+      "id": "default",
+      "label": "原文",
+      "shortLabel": "文",
+      "contributor": "Laozi",
+      "role": "author",
+      "nature": "annotation",
+      "displayOrder": 0,
+      "enabled": true,
+      "annotations": []
+    },
+    {
+      "id": "heshanggong",
+      "label": "河上公註",
+      "shortLabel": "河",
+      "contributor": "C002",
+      "role": "commentator",
+      "nature": "commentary",
+      "displayOrder": 1,
+      "enabled": true,
+      "annotations": [
+        {
+          "id": "heshanggong-1",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 5
+          },
+          "kind": "commentary",
+          "text": "聖人雖治大國，猶以為小，儉約不奢泰。民雖眾，猶若寡少，不敢勞之也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-2",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 1,
+            "start": 0,
+            "end": 10
+          },
+          "kind": "commentary",
+          "text": "使民各有部曲什伯，貴賤不相犯也。器謂農人之器。而不用，不徵召奪民良時也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-3",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 2,
+            "start": 0,
+            "end": 9
+          },
+          "kind": "commentary",
+          "text": "君能為民興利除害，各得其所，則民重死而貪生也。政令不煩則民安其業，故不遠遷徙離其常處也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-4",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 3,
+            "start": 0,
+            "end": 10
+          },
+          "kind": "commentary",
+          "text": "清靜無為，不作煩華，不好出入遊娛也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-5",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 4,
+            "start": 0,
+            "end": 10
+          },
+          "kind": "commentary",
+          "text": "無怨惡於天下。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-6",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 5,
+            "start": 0,
+            "end": 9
+          },
+          "kind": "commentary",
+          "text": "去文反質，信無欺也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-7",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 6,
+            "start": 0,
+            "end": 4
+          },
+          "kind": "commentary",
+          "text": "甘其蔬食，不漁食百姓也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-8",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 7,
+            "start": 0,
+            "end": 4
+          },
+          "kind": "commentary",
+          "text": "美其惡衣，不貴五色。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-9",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 8,
+            "start": 0,
+            "end": 4
+          },
+          "kind": "commentary",
+          "text": "安其茅茨，不好文飾之屋。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-10",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 9,
+            "start": 0,
+            "end": 4
+          },
+          "kind": "commentary",
+          "text": "樂其質朴之俗，不轉移也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-11",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 10,
+            "start": 0,
+            "end": 12
+          },
+          "kind": "commentary",
+          "text": "相去近也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-12",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 11,
+            "start": 0,
+            "end": 9
+          },
+          "kind": "commentary",
+          "text": "其無情欲。",
+          "source": "cham"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "textRef": "heshanggong-laozi",
+    "relation": "section"
+  }
+}

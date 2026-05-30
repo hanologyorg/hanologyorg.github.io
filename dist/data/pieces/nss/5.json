@@ -1,0 +1,1881 @@
+{
+  "bookId": "nss",
+  "num": 5,
+  "title": "廉頗藺相如列傳（節錄）",
+  "author": "司馬遷",
+  "authorId": "A185",
+  "dynasty": "漢",
+  "era": "漢",
+  "eraCode": "07",
+  "genre": "prose",
+  "verses": [
+    {
+      "text": "廉頗者，趙之良將也。趙惠文王十六年，廉頗為趙將伐齊，大破之，取陽晉，拜為上卿，以勇氣聞於諸侯。藺相如者，趙人也，為趙宦者令繆賢舍人。"
+    },
+    {
+      "text": "趙惠文王時，得楚和氏璧。秦昭王聞之，使人遺趙王書，願以十五城請易璧。趙王與大將軍廉頗諸大臣謀：欲予秦，秦城恐不可得，徒見欺；欲勿予，即患秦兵之來。計未定，求人可使報秦者，未得。宦者令繆賢曰：「臣舍人藺相如可使。」王問：「何以知之？」對曰：「臣嘗有罪，竊計欲亡走燕，臣舍人相如止臣，曰：『君何以知燕王？』臣語曰：『臣嘗從大王與燕王會境上，燕王私握臣手，曰：「願結友。」以此知之，故欲往。』相如謂臣曰：『夫趙彊而燕弱，而君幸於趙王，故燕王欲結於君。今君乃亡趙走燕，燕畏趙，其勢必不敢留君，而束君歸趙矣。君不如肉袒伏斧質請罪，則幸得脫矣。』臣從其計，大王亦幸赦臣。臣竊以為其人勇士，有智謀，宜可使。」"
+    },
+    {
+      "text": "於是王召見，問藺相如曰：「秦王以十五城請易寡人之璧，可予不？」相如曰：「秦彊而趙弱，不可不許。」王曰：「取吾璧，不予我城，奈何？」相如曰：「秦以城求璧而趙不許，曲在趙；趙予璧而秦不予趙城，曲在秦。均之二策，寧許以負秦曲。」王曰：「誰可使者？」相如曰：「王必無人，臣願奉璧往使。城入趙而璧留秦；城不入，臣請完璧歸趙。」趙王於是遂遣相如奉璧西入秦。"
+    },
+    {
+      "text": "秦王坐章臺見相如，相如奉璧奏秦王。秦王大喜，傳以示美人及左右，左右皆呼萬歲。相如視秦王無意償趙城，乃前曰：「璧有瑕，請指示王。」王授璧，相如因持璧卻立，倚柱，怒髮上衝冠，謂秦王曰：「大王欲得璧，使人發書至趙王，趙王悉召羣臣議，皆曰：『秦貪，負其彊，以空言求璧，償城恐不可得。』議不欲予秦璧。臣以為布衣之交尚不相欺，況大國乎！且以一璧之故逆彊秦之驩，不可。於是趙王乃齋戒五日，使臣奉璧，拜送書於庭。何者？嚴大國之威以修敬也。今臣至，大王見臣列觀，禮節甚倨；得璧，傳之美人，以戲弄臣。臣觀大王無意償趙王城邑，故臣復取璧。大王必欲急臣，臣頭今與璧俱碎於柱矣！」"
+    },
+    {
+      "text": "相如持其璧睨柱，欲以擊柱。秦王恐其破璧，乃辭謝固請，召有司案圖，指從此以往十五都予趙。相如度秦王特以詐佯為予趙城，實不可得，乃謂秦王曰：「和氏璧，天下所共傳寶也。趙王恐，不敢不獻。趙王送璧時，齋戒五日，今大王亦宜齋戒五日，設九賓於廷，臣乃敢上璧。」"
+    },
+    {
+      "text": "秦王度之，終不可彊奪，遂許齋五日，舍相如廣成傳。相如度秦王雖齋，決負約不償城，乃使其從者衣褐，懷其璧，從徑道亡，歸璧於趙。"
+    },
+    {
+      "text": "秦王齋五日後，乃設九賓禮於廷，引趙使者藺相如。相如至，謂秦王曰：「秦自繆公以來二十餘君，未嘗有堅明約束者也。臣誠恐見欺於王而負趙，故令人持璧歸，間至趙矣。且秦彊而趙弱，大王遣一介之使至趙，趙立奉璧來；今以秦之彊而先割十五都予趙，趙豈敢留璧而得罪於大王乎？臣知欺大王之罪當誅，臣請就湯鑊。唯大王與羣臣孰計議之！」"
+    },
+    {
+      "text": "秦王與羣臣相視而嘻。左右或欲引相如去，秦王因曰：「今殺相如，終不能得璧也，而絕秦趙之驩，不如因而厚遇之，使歸趙，趙王豈以一璧之故欺秦邪！」卒廷見相如，畢禮而歸之。相如既歸，趙王以為賢大夫，使不辱於諸侯，拜相如為上大夫。秦亦不以城予趙，趙亦終不予秦璧。"
+    },
+    {
+      "text": "其後秦伐趙，拔石城。明年，復攻趙，殺二萬人。秦王使使者告趙王，欲與王為好會於西河外澠池。趙王畏秦，欲毋行。廉頗、藺相如計曰：「王不行，示趙弱且怯也。」趙王遂行，相如從。廉頗送至境，與王訣曰：「王行，度道里會遇之禮畢，還，不過三十日。三十日不還，則請立太子為王，以絕秦望。」"
+    },
+    {
+      "text": "王許之，遂與秦王會澠池。秦王飲酒酣，曰：「寡人竊聞趙王好音，請奏瑟。」趙王鼓瑟。秦御史前書曰：「某年月日，秦王與趙王會飲，令趙王鼓瑟。」"
+    },
+    {
+      "text": "藺相如前曰：「趙王竊聞秦王善為秦聲，請奏盆缻秦王，以相娛樂。」秦王怒，不許。於是相如前進缻，因跪請秦王。秦王不肯擊缻。相如曰：「五步之內，相如請得以頸血濺大王矣！」左右欲刃相如，相如張目叱之，左右皆靡。於是秦王不懌，為一擊缻。相如顧召趙御史書曰：「某年月日，秦王為趙王擊缻。」秦之羣臣曰：「請以趙十五城為秦王壽。」藺相如亦曰：「請以秦之咸陽為趙王壽。」秦王竟酒，終不能加勝於趙。趙亦盛設兵以待秦，秦不敢動。"
+    },
+    {
+      "text": "既罷歸國，以相如功大，拜為上卿，位在廉頗之右。廉頗曰：「我為趙將，有攻城野戰之大功，而藺相如徒以口舌為勞，而位居我上，且相如素賤人，吾羞，不忍為之下。」宣言曰：「我見相如，必辱之。」相如聞，不肯與會。相如每朝時，常稱病，不欲與廉頗爭列。已而相如出，望見廉頗，相如引車避匿。於是舍人相與諫曰：「臣所以去親戚而事君者，徒慕君之高義也。今君與廉頗同列，廉君宣惡言而君畏匿之，恐懼殊甚，且庸人尚羞之，況於將相乎！臣等不肖，請辭去。」藺相如固止之，曰：「公之視廉將軍孰與秦王？」曰：「不若也。」"
+    },
+    {
+      "text": "相如曰：「夫以秦王之威，而相如廷叱之，辱其羣臣，相如雖駑，獨畏廉將軍哉？顧吾念之，彊秦之所以不敢加兵於趙者，徒以吾兩人在也。今兩虎共鬭，其勢不俱生。吾所以為此者，以先國家之急而後私讎也。」廉頗聞之，肉袒負荊，因賓客至藺相如門謝罪。曰：「鄙賤之人，不知將軍寬之至此也。」卒相與驩，為刎頸之交。"
+    }
+  ],
+  "sections": {
+    "analysis": "本文透過記述「完璧歸趙」、「澠池之會」和「負荊請罪」三件事，表揚藺相如和廉頗二人盡心為國，更凸顯藺相如對外智勇雙全，對內謙遜忍讓、先國家之急而後私讎的忠臣形象。司馬遷在本篇傳記後云：「相如一奮其氣，威信敵國，退而讓頗，名重太山，其處智勇，可謂兼之矣！」足見他對藺相如的推許。\n\n第一部分由文章開頭至「趙亦終不予秦璧」。文章先簡述廉頗、藺相如二人身份懸殊。由「趙惠文王時」一句起寫「完璧歸趙」，故事可分為出使前、在秦和歸趙三個階段。趙惠文王得到寶物和氏璧，秦昭王欲據為己有，向趙王表示願以十五城池作交換。趙王進退兩難，若答應秦王的要求，擔心秦國不給予城池；反之又怕觸怒秦國，受秦兵侵犯。就在這時候，宦者令繆賢向趙王舉薦藺相如，認為他可以出使秦國。藺相如見趙王，承諾「城入趙而璧留秦」，城不入則保證「完璧歸趙」。文章接着寫相如在秦的經歷和表現：相如初見秦王，推測秦王無意償城，就機智地取回璧玉，並怒斥秦王貪婪，要求秦王齋戒五日，以迎和氏璧，之後暗中派人把璧玉送回趙國；待秦王齋戒五日後，以秦強趙弱為由，要求秦王先給予趙十五城，趙隨後才奉上璧玉。秦王無可奈何，惟有盡使節之禮後，讓相如歸趙。相如因「完璧歸趙」而獲擢升為上大夫，至於以城易璧一事則不了了之。\n\n第二部分由「其後秦伐趙」至「秦不敢動」，寫「澠池之會」的過程。「完璧歸趙」後，秦先後攻伐趙國，奪取石城；其後假意要修好，邀約趙王到澠池。趙王怕遭不測而不欲赴會，廉、藺則主張應約，以免示弱。趙王接納他們的建議，由相如陪同赴會，並同意若三十日仍未返回趙國，就另立太子為王，以杜絕秦國借他來要脅趙國的可能。「澠池之會」上，相如與秦王再次交鋒：秦王要趙王奏瑟，並命史官記下秦王「令趙王鼓瑟」，以期羞辱趙王；相如不甘示弱，表示不惜與秦王同歸於盡，以脅迫他擊缻，然後，也召史官記下「秦王為趙王擊缻」。之後秦國羣臣提出「以趙十五城為秦王壽」，相如還以顏色，要求秦國以其首都咸陽為趙王祝壽。結果，秦始終不能「加勝於趙」。\n\n第三部分由「既罷歸國」至文末，寫「負荊請罪」的經過。「澠池之會」後，相如因在外交上有功而擢升為上卿，位在廉頗之上。廉頗認為自己是大將軍，戰功顯赫，相如出身卑微，徒以「口舌為勞」而位處其上，心裏不服，故揚言必辱相如。相如得悉後諸多忍讓，處處迴避，因為他明白若與廉頗爭鬭，只會對國家不利。其後廉頗得知他有「先國家之急而後私讎」的胸襟，立即負荊請罪，最終二人和好，成為「刎頸之交」。\n\n本文布局精微，結構嚴謹。「完璧歸趙」、「澠池之會」和「負荊請罪」三件事，各自內容完整，能獨立成篇，同時又能合成一體。這三個故事以兩個矛盾為軸心，一是秦國和趙國之間的矛盾，一是廉頗與藺相如之間的矛盾。「完璧歸趙」是秦、趙第一矛盾，這事引發藺相如的出現。藺相如出現，解決趙國被秦國欺壓的危機，卻埋下了廉、藺之間的矛盾。「完璧歸趙」後，秦國又想在「澠池之會」欺侮趙國，相如再次為趙王解困，使趙不辱於秦，因而拜為上卿，官位比廉頗高，從而引發廉、藺的矛盾。故事高潮是廉頗不甘位居相如之下，明言要羞辱相如，讀者正為相如捏一把汗之時，相如對廉頗的多番躲避，又惹來門客的不滿，矛盾重重之際，相如道出「先國家之急而後私讎」的由衷，廉頗得悉後「負荊請罪」，廉、藺矛盾頓時緩解。秦、趙二國之矛盾亦因將相同心而暫告一段落。\n\n三個故事呼應綿密，情節發展合情合理，故事之間的過渡安排亦巧妙。「完璧歸趙」一節，作者以「秦亦不以城予趙，趙亦終不予秦璧」作結，精簡地交代了以城易璧一事的結果是不了了之。然後，以「其後秦伐趙，拔石城。明年，復攻趙，殺二萬人。秦王使使者告趙王，欲與王為好會於西河外澠池」開啟「澠池之會」的情節，寥寥數語，即清楚地道出秦國一再攻打趙國，交代了趙王起初不想赴會，以及赴會之時，廉頗要「盛設兵以待秦」的原因。「澠池之會」一節，以「秦王竟酒，終不能加勝於趙。趙亦盛設兵以待秦，秦不敢動」收束，與「負荊請罪」一節，相如言秦之所以不敢欺負趙，「徒以吾兩人在」，互相呼應。而「既罷歸國，以相如功大，拜為上卿，位在廉頗之右」，則承接上文並開啟「負荊請罪」一節的故事，自然而順暢地寫出廉、藺二人之矛盾。\n\n《史記》善於塑造人物形象。其一，善以典型事例塑造人物。以本篇為例，司馬遷選取了三個事例來刻劃藺相如的個性：「完璧歸趙」一節，以廷斥秦王表現相如的機智英勇；秦趙「澠池之會」，借相如不辱國體的表現，展現其凜烈正氣；引車避廉一事，則反映他「先國家之急而後私讎」的高尚情操。司馬遷寫廉頗亦工於取材，在「澠池之會」一節中，廉頗建議趙王若三十日不回來，則請允許另立太子為王，以免秦國以趙王來威脅趙國，這件事凸顯廉頗的軍事和政治智慧，以及忠誠為國的形象；在「負荊請罪」一節，廉頗因相如官位高於自己而想羞辱相如，後來了解到相如「先國家之急而後私讎」的崇高思想後，馬上肉袒負荊請罪，表現出知過必改、忠厚憨直的個性。其二，善以行動和語言表現人物形象。如用「璧有瑕，請指示王」這言語，寫相如的機智；用欲以頭撞柱而與璧同碎，使秦王不敢強行奪璧的行動，來展現相如的勇敢。又如以「相如素賤人，吾羞，不忍為之下」這番話，來呈現廉頗重視名位的心理；以肉袒負荊，藉賓客的引領向相如謝罪的行動，寫廉頗知錯能改的個性。其三，善用對比的手法以塑造人物形象。「完璧歸趙」一節中，趙王召見相如，問可否給予秦國和氏璧，相如謂「秦彊而趙弱，不可不許」。趙王繼而擔心璧、城兩失，相如就指出若不給秦璧，是趙國理虧，給秦璧而秦不償城，則是秦國理虧，故建議「寧許以負秦曲」。如此，可凸顯相如能從「理」進行分析，不似趙國群臣只着眼於表面的「利」：給璧，怕秦城不可得，不給，則又怕秦國派兵攻趙。這樣對比，使相如思慮高人一等的形象躍然紙上。此外，又以相如對強秦的勇武無畏與對廉頗的禮讓謙避作對比，以及相如外交上的智勇雙全足以震攝秦王，與秦王的恃勢凌人卻無法加勝於趙作對比，全面立體地呈現相如的形象。還有，以廉頗對相如的前倨後恭作對比，一方面表現相如公而忘私之崇高愛國精神，同時又凸顯廉頗知錯能改的憨厚性格。以上三點可知太史公描寫人物的出色造詣，難怪《世說新語‧品藻》云：「廉頗、藺相如雖千載上死人，懍懍恆如有生氣。」\n\n《史記》文筆精煉、言簡意賅。如「完璧歸趙」一節中，「乃使其從者衣褐，懷其璧，從徑道亡，歸璧於趙」幾句，句子雖短，卻含意豐富，生動描摹了相如的心思細密：派隨從送璧，裝扮成平民，可免人注意；從小道逃走，可避開大道的關卡。在「完璧歸趙」、「澠池之會」兩件事中，主要詳寫相如的智勇和愛國精神，對廉頗只描述了幾筆，形成藺主而廉次的格局；但司馬遷對廉頗的幾筆描述卻非常有力，如廉頗在趙王赴「澠池之會」前，給趙王的建議以及盛設兵以待秦的行動，就能使廉頗「以勇氣聞於諸侯」的形象具體突出。此外，寫相如的心理活動時，用了「視」和「度」兩個關鍵字眼：「相如視秦無意償趙城」的「視」，表達相如對秦王狡詐的敏銳判斷；「相如度秦王特以詐佯為予趙城」、「相如度秦王雖齋，決負約不償城」的兩個「度」字，可見相如對當時政治形勢的謹慎思索，以及對秦國君主歷來多不守約的深刻認識，亦可見司馬遷對用字之講究。又如文章開首部分趙國君臣在收到秦國以城換璧的國書後，陷於予璧則恐城不得，不予璧則恐秦兵來的困境，太史公寫道：「計未定，求人可使報秦者，未得」，「計未定」的「未」字，顯示趙國君臣未想到應對秦國換璧要求之計，「未得」的「未」字則顯示出使秦國人才之難得，這都看出司馬遷工於煉字。\n\n總言之，從內容來說，本篇透現了司馬遷心目中智勇雙全、公而忘私、過而能改、思慮周延的儒家將相形象；從藝術層面而論，本篇文筆精煉，工於敍事布局、塑造人物和剪裁史料。",
+    "background": "《史記》本名《太史公書》，是中國第一部紀傳體通史，記載了由黃帝至漢武帝年間的史事，包含「本紀」、「世家」、「列傳」、「書」、「表」五個部分。列傳是列敍歷史人物事跡的傳記，以評價所記載人物的操行功業。按類型劃分，可分為分傳、合傳、寄傳、雜傳等類別。\n\n《史記》共有七十篇列傳，本篇節錄《廉頗藺相如列傳》前半部分，主要記述廉頗、藺相如的事跡，包括「完璧歸趙」、「澠池之會」和「負荊請罪」三件事。原傳還記述了趙奢、趙括和李牧的事跡。\n\n廉頗、藺相如是趙國著名人物，二人處於戰國後期，距離秦國統一中國只有六十餘年。秦國當時非常強盛，不斷向六國展開軍事、外交攻勢，以期成就統一事業。趙國與秦毗連，常受到秦國的脅迫。廉、藺二人一武一文，盡忠愛國，在軍事和外交上貢獻良多，是輔助趙國抗秦的重要人物。本篇就是記載二人的愛國事跡。",
+    "annotations": "1.廉頗：廉頗：趙國名將。\n2.趙惠文王：趙惠文王：是趙武靈王的兒子。\n3.為：○粵圍；wai4；○普wéi。做、作為。\n4.伐齊：攻打齊國。\n5.陽晉：陽晉：在今山東省鄆城縣西。\n6.上卿：上卿：戰國時代的高級官員。\n7.藺相如：藺相如：趙國人，後為趙國上卿。\n8.宦者令繆賢舍人：宦者令：宦官的頭目。舍人：戰國至漢初，王公貴族的侍從、賓客。\n9.趙惠文王時：趙惠文王在位之時。\n10.楚和氏璧：楚和氏璧：春秋時楚人卞和發現一塊璞玉，先後獻給楚厲王和武王，但二人命人鑑別後都認為這只是普通的石頭，於是以為卞和存心欺騙，結果分別斷其左足和右足。到文王時，卞和抱玉哭於荊山下，王使人剖璞，果真得到寶玉，於是命人把它雕成玉璧，名為「和氏璧」。璧，圓形而中間有孔的玉器。\n11.遺：○粵惠；wai6；○普wèi。給予、送。\n12.徒見欺：白白被欺騙。見：被、受，表示被動的意思。\n13.求人可使報秦者：徵求可以作為使臣去答覆秦國的人。報：答覆、回覆。\n14.宦者令繆賢：宦者令：宦官的頭目。繆賢：人名。\n15.舍人：戰國至漢初，王公貴族的侍從、賓客。\n16.可使：○粵試；si3；○普shì。出使。\n17.竊：私下，多作謙詞用。\n18.亡走燕：逃亡到燕國。亡：逃亡。\n19.語：○粵預；jyu6；○普yù。告訴，作動詞用。\n20.彊：同「強」。\n21.幸：寵幸。\n22.肉袒伏斧質請罪：赤身伏在斧質上，請求降罪。斧質：古代一種腰斬的刑具。質：也寫作「鑕」，鐵砧。\n23.不：通「否」。\n24.曲：理虧。\n25.均之二策：比較這兩個對策。均︰衡量。之：此、這。\n26.寧許以負秦曲：寧可答應將和氏璧給予秦國（假如秦王受璧而不予城），使秦負上理虧的責任。\n27.必：倘若、如果。\n28.完璧歸趙：把璧玉完完整整地帶回趙國。「完璧歸趙」後來成為成語，表示物歸原主的意思。\n29.章臺：秦宮名。章臺本是供登臨遊樂的離宮，昭王不在正殿而在章臺召見趙國使臣藺相如，有輕視之意。\n30.瑕：玉石上的斑點。\n31.卻立：後退站立。\n32.怒髮上衝冠：憤怒得頭髮豎起頂着帽子，形容極度憤怒的樣子。\n33.負：倚仗、恃着。\n34.布衣：麻布衣服，借指平民百姓。\n35.驩：同「歡」。\n36.齋戒：古時候舉行祭祀，主祭的人先要齋戒，住在清淨的房子裏，不同外人往來，誠心誠意準備敬神。\n37.拜送書於庭：（相如）在朝廷上行了禮，送出國書。庭：通「廷」，國君聽政的朝堂。\n38.嚴大國之威以修敬也：尊重大國的威嚴而表達敬意。嚴：尊重。\n39.見臣列觀：○粵貫；gun3；○普guàn。於一般宮殿中（而不是正殿）接見微臣。觀：用作遊樂的宮殿，即指章臺。\n40.倨：○粵據；geoi3；○普jù。傲慢。\n41.急：逼迫。\n42.睨：○粵藝；ngai6；○普nì。斜視。\n43.辭謝固請：於是婉言道歉，堅決請求藺相如不要這樣做。辭謝：婉言道歉。固請：堅決請求。\n44.召有司案圖，指從此以往十五都予趙：召喚負責掌管版圖的官吏查考地圖，指着從這裏到那裏的十五座城給予趙國。有司：官吏的通稱。案：通「按」，查考、按照。都：城。\n45.度：○粵踱；dok6；○普duó。揣度。\n46.特：僅、只是。\n47.佯：○粵羊；joeng4；○普yáng。假裝。\n48.設九賓於廷：在宮廷正殿上設九賓之禮。九賓：也稱「九儀」，古時外交上最隆重的禮節，由九個儐相依次傳呼接引上殿。\n49.舍：安置，作動詞用。\n50.廣成傳：○粵攢；zyun3；○普zhuàn。賓館名。傳：設於驛站的房舍。\n51.衣褐：○粵意；ji3；○普yì。穿着粗布便衣（裝扮成平民模樣）。衣：穿着，作動詞用。\n52.徑道：小路、便道。\n53.亡：逃離、出走。\n54.繆公：即秦穆公，春秋五霸之一。繆：通「穆」。\n55.未嘗有堅明約束者也：未曾有堅守信約的君主。\n56.間至趙矣：○粵諫；gaan3；○普jiàn。已從偏僻的小路回到趙國了。間：「間道」的簡縮；或解作偷偷地。\n57.一介：一個，有低小和微賤的意思。\n58.湯鑊：用滾湯烹煮罪犯，是古代酷刑。\n59.唯：表示「希望」的語氣助詞。\n60.孰：通「熟」，詳細。\n61.嘻：表示又驚又怒的聲音。\n62.趙王豈以一璧之故欺秦邪：趙王怎會因為一塊璧玉的緣故而欺騙我們秦國呢？邪：通「耶」。\n63.卒廷見相如：終於在朝廷上召見相如。\n64.使不辱於諸侯：出使諸侯之國，能不受欺辱。\n65.上大夫：比卿低一級的官職。\n66.其後秦伐趙，拔石城：攻取了石城。\n67.欲與王為好會於西河外澠池：○粵敏；man5；○普miǎn。想與趙王會面於西河外的澠池，以示友好。澠池：在今河南省澠池縣境。\n68.訣：告別。\n69.度：估計。\n70.道里：路程、里程。\n71.會遇：會面。\n72.酣：飲酒到高興的時候。\n73.好音：喜愛音樂。瑟：古樂器。\n74.秦御史：史官。\n75.書：書寫、記載。\n76.善為秦聲：擅長秦地的音樂。\n77.盆缻：○粵否；fau2；○普fǒu。同「缶」，本是盛酒漿的瓦器，秦人歌唱時用來敲打節拍。\n78.左右欲刃相如：秦王的侍從想用刀刺殺相如。刃：用刀刺。\n79.靡：○粵美；mei5；○普mǐ。倒下，此處指秦王左右之人退卻。\n80.懌：○粵翼；jik6；○普yì。高興、喜悅。\n81.壽：祝壽，作動詞用。\n82.咸陽：秦國的首都。\n83.竟酒：酒筵完畢。\n84.位在廉頗之右：職位在廉頗之上。右：古時以右為尊。\n85.素：向來、本來。\n86.賤人：地位卑下的人。\n87.不欲與廉頗爭列：不想與廉頗爭官位的高低。列：排列的位置。\n88.已而：不久。\n89.臣所以去親戚而事君者：微臣之所以離開親人而侍奉你的原因。去：離開。事君：為你辦事。\n90.徒慕君之高義也：只是仰慕你的崇高品德。高義：崇高品德。\n91.不肖：不才，自謙之詞。\n92.公之視廉將軍孰與秦王：你看廉頗將軍與秦王相比，誰較厲害？孰與：比對方怎麼樣，表示疑問語氣。用於比照。\n93.駑：○粵奴；nou4；○普nú。劣馬，喻愚鈍無能。\n94.獨：豈、難道。\n95.顧：只是、不過。用作連接分句，表示轉折。\n96.以先國家之急而後私讎也：○粵籌；cau4；○普chóu。以國家之急務為先，而以個人之私怨為後。讎：同「仇」，怨恨。\n97.肉袒負荊：光着身子，背着荊條，表示願受責罰，認錯賠罪。荊：荊條。\n98.刎頸之交：○粵吻；man5；○普wěn。成了誓同生死的朋友。刎：割。"
+  },
+  "annotations": [
+    {
+      "id": "5-1",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 0,
+        "end": 2
+      },
+      "kind": "semantic",
+      "text": "廉頗：趙國名將。",
+      "source": "cham"
+    },
+    {
+      "id": "5-2",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 10,
+        "end": 14
+      },
+      "kind": "semantic",
+      "text": "趙惠文王：是趙武靈王的兒子。",
+      "source": "cham"
+    },
+    {
+      "id": "5-3",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 20,
+        "end": 21
+      },
+      "kind": "semantic",
+      "text": "做、作為。",
+      "source": "cham"
+    },
+    {
+      "id": "5-4",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 20,
+        "end": 21
+      },
+      "kind": "pronunciation",
+      "lang": "yue",
+      "text": "圍；wai4",
+      "source": "cham"
+    },
+    {
+      "id": "5-5",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 20,
+        "end": 21
+      },
+      "kind": "pronunciation",
+      "lang": "cmn",
+      "text": "wéi",
+      "source": "cham"
+    },
+    {
+      "id": "5-6",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 23,
+        "end": 25
+      },
+      "kind": "semantic",
+      "text": "攻打齊國。",
+      "source": "cham"
+    },
+    {
+      "id": "5-7",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 31,
+        "end": 33
+      },
+      "kind": "semantic",
+      "text": "陽晉：在今山東省鄆城縣西。",
+      "source": "cham"
+    },
+    {
+      "id": "5-8",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 36,
+        "end": 38
+      },
+      "kind": "semantic",
+      "text": "上卿：戰國時代的高級官員。",
+      "source": "cham"
+    },
+    {
+      "id": "5-9",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 47,
+        "end": 50
+      },
+      "kind": "semantic",
+      "text": "藺相如：趙國人，後為趙國上卿。",
+      "source": "cham"
+    },
+    {
+      "id": "5-10",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 58,
+        "end": 65
+      },
+      "kind": "semantic",
+      "text": "宦者令：宦官的頭目。舍人：戰國至漢初，王公貴族的侍從、賓客。",
+      "source": "cham"
+    },
+    {
+      "id": "5-11",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 1,
+        "start": 0,
+        "end": 5
+      },
+      "kind": "semantic",
+      "text": "趙惠文王在位之時。",
+      "source": "cham"
+    },
+    {
+      "id": "5-12",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 1,
+        "start": 7,
+        "end": 11
+      },
+      "kind": "semantic",
+      "text": "楚和氏璧：春秋時楚人卞和發現一塊璞玉，先後獻給楚厲王和武王，但二人命人鑑別後都認為這只是普通的石頭，於是以為卞和存心欺騙，結果分別斷其左足和右足。到文王時，卞和抱玉哭於荊山下，王使人剖璞，果真得到寶玉，於是命人把它雕成玉璧，名為「和氏璧」。璧，圓形而中間有孔的玉器。",
+      "source": "cham"
+    },
+    {
+      "id": "5-13",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 1,
+        "start": 20,
+        "end": 21
+      },
+      "kind": "semantic",
+      "text": "給予、送。",
+      "source": "cham"
+    },
+    {
+      "id": "5-14",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 1,
+        "start": 20,
+        "end": 21
+      },
+      "kind": "pronunciation",
+      "lang": "yue",
+      "text": "惠；wai6",
+      "source": "cham"
+    },
+    {
+      "id": "5-15",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 1,
+        "start": 20,
+        "end": 21
+      },
+      "kind": "pronunciation",
+      "lang": "cmn",
+      "text": "wèi",
+      "source": "cham"
+    },
+    {
+      "id": "5-16",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 1,
+        "start": 58,
+        "end": 61
+      },
+      "kind": "semantic",
+      "text": "白白被欺騙。見：被、受，表示被動的意思。",
+      "source": "cham"
+    },
+    {
+      "id": "5-17",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 1,
+        "start": 77,
+        "end": 84
+      },
+      "kind": "semantic",
+      "text": "徵求可以作為使臣去答覆秦國的人。報：答覆、回覆。",
+      "source": "cham"
+    },
+    {
+      "id": "5-18",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 1,
+        "start": 88,
+        "end": 93
+      },
+      "kind": "semantic",
+      "text": "宦者令：宦官的頭目。繆賢：人名。",
+      "source": "cham"
+    },
+    {
+      "id": "5-19",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 1,
+        "start": 97,
+        "end": 99
+      },
+      "kind": "semantic",
+      "text": "戰國至漢初，王公貴族的侍從、賓客。",
+      "source": "cham"
+    },
+    {
+      "id": "5-20",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 1,
+        "start": 102,
+        "end": 104
+      },
+      "kind": "semantic",
+      "text": "出使。",
+      "source": "cham"
+    },
+    {
+      "id": "5-21",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 1,
+        "start": 102,
+        "end": 104
+      },
+      "kind": "pronunciation",
+      "lang": "yue",
+      "text": "試；si3",
+      "source": "cham"
+    },
+    {
+      "id": "5-22",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 1,
+        "start": 102,
+        "end": 104
+      },
+      "kind": "pronunciation",
+      "lang": "cmn",
+      "text": "shì",
+      "source": "cham"
+    },
+    {
+      "id": "5-23",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 1,
+        "start": 125,
+        "end": 126
+      },
+      "kind": "semantic",
+      "text": "私下，多作謙詞用。",
+      "source": "cham"
+    },
+    {
+      "id": "5-24",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 1,
+        "start": 128,
+        "end": 131
+      },
+      "kind": "semantic",
+      "text": "逃亡到燕國。亡：逃亡。",
+      "source": "cham"
+    },
+    {
+      "id": "5-25",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 1,
+        "start": 152,
+        "end": 153
+      },
+      "kind": "semantic",
+      "text": "告訴，作動詞用。",
+      "source": "cham"
+    },
+    {
+      "id": "5-26",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 1,
+        "start": 152,
+        "end": 153
+      },
+      "kind": "pronunciation",
+      "lang": "yue",
+      "text": "預；jyu6",
+      "source": "cham"
+    },
+    {
+      "id": "5-27",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 1,
+        "start": 152,
+        "end": 153
+      },
+      "kind": "pronunciation",
+      "lang": "cmn",
+      "text": "yù",
+      "source": "cham"
+    },
+    {
+      "id": "5-28",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 1,
+        "start": 202,
+        "end": 203
+      },
+      "kind": "semantic",
+      "text": "同「強」。",
+      "source": "cham"
+    },
+    {
+      "id": "5-29",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 1,
+        "start": 209,
+        "end": 210
+      },
+      "kind": "semantic",
+      "text": "寵幸。",
+      "source": "cham"
+    },
+    {
+      "id": "5-30",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 1,
+        "start": 252,
+        "end": 259
+      },
+      "kind": "semantic",
+      "text": "赤身伏在斧質上，請求降罪。斧質：古代一種腰斬的刑具。質：也寫作「鑕」，鐵砧。",
+      "source": "cham"
+    },
+    {
+      "id": "5-31",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 2,
+        "start": 28,
+        "end": 29
+      },
+      "kind": "semantic",
+      "text": "通「否」。",
+      "source": "cham"
+    },
+    {
+      "id": "5-32",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 2,
+        "start": 80,
+        "end": 81
+      },
+      "kind": "semantic",
+      "text": "理虧。",
+      "source": "cham"
+    },
+    {
+      "id": "5-33",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 2,
+        "start": 98,
+        "end": 102
+      },
+      "kind": "semantic",
+      "text": "比較這兩個對策。均︰衡量。之：此、這。",
+      "source": "cham"
+    },
+    {
+      "id": "5-34",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 2,
+        "start": 103,
+        "end": 109
+      },
+      "kind": "semantic",
+      "text": "寧可答應將和氏璧給予秦國（假如秦王受璧而不予城），使秦負上理虧的責任。",
+      "source": "cham"
+    },
+    {
+      "id": "5-35",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 2,
+        "start": 127,
+        "end": 128
+      },
+      "kind": "semantic",
+      "text": "倘若、如果。",
+      "source": "cham"
+    },
+    {
+      "id": "5-36",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 2,
+        "start": 152,
+        "end": 156
+      },
+      "kind": "semantic",
+      "text": "把璧玉完完整整地帶回趙國。「完璧歸趙」後來成為成語，表示物歸原主的意思。",
+      "source": "cham"
+    },
+    {
+      "id": "5-37",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 3,
+        "start": 3,
+        "end": 5
+      },
+      "kind": "semantic",
+      "text": "秦宮名。章臺本是供登臨遊樂的離宮，昭王不在正殿而在章臺召見趙國使臣藺相如，有輕視之意。",
+      "source": "cham"
+    },
+    {
+      "id": "5-38",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 3,
+        "start": 56,
+        "end": 57
+      },
+      "kind": "semantic",
+      "text": "玉石上的斑點。",
+      "source": "cham"
+    },
+    {
+      "id": "5-39",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 3,
+        "start": 73,
+        "end": 75
+      },
+      "kind": "semantic",
+      "text": "後退站立。",
+      "source": "cham"
+    },
+    {
+      "id": "5-40",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 3,
+        "start": 79,
+        "end": 84
+      },
+      "kind": "semantic",
+      "text": "憤怒得頭髮豎起頂着帽子，形容極度憤怒的樣子。",
+      "source": "cham"
+    },
+    {
+      "id": "5-41",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 3,
+        "start": 120,
+        "end": 121
+      },
+      "kind": "semantic",
+      "text": "倚仗、恃着。",
+      "source": "cham"
+    },
+    {
+      "id": "5-42",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 3,
+        "start": 148,
+        "end": 150
+      },
+      "kind": "semantic",
+      "text": "麻布衣服，借指平民百姓。",
+      "source": "cham"
+    },
+    {
+      "id": "5-43",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 3,
+        "start": 172,
+        "end": 173
+      },
+      "kind": "semantic",
+      "text": "同「歡」。",
+      "source": "cham"
+    },
+    {
+      "id": "5-44",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 3,
+        "start": 182,
+        "end": 184
+      },
+      "kind": "semantic",
+      "text": "古時候舉行祭祀，主祭的人先要齋戒，住在清淨的房子裏，不同外人往來，誠心誠意準備敬神。",
+      "source": "cham"
+    },
+    {
+      "id": "5-45",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 3,
+        "start": 192,
+        "end": 197
+      },
+      "kind": "semantic",
+      "text": "（相如）在朝廷上行了禮，送出國書。庭：通「廷」，國君聽政的朝堂。",
+      "source": "cham"
+    },
+    {
+      "id": "5-46",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 3,
+        "start": 201,
+        "end": 210
+      },
+      "kind": "semantic",
+      "text": "尊重大國的威嚴而表達敬意。嚴：尊重。",
+      "source": "cham"
+    },
+    {
+      "id": "5-47",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 3,
+        "start": 217,
+        "end": 221
+      },
+      "kind": "semantic",
+      "text": "於一般宮殿中（而不是正殿）接見微臣。觀：用作遊樂的宮殿，即指章臺。",
+      "source": "cham"
+    },
+    {
+      "id": "5-48",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 3,
+        "start": 217,
+        "end": 221
+      },
+      "kind": "pronunciation",
+      "lang": "yue",
+      "text": "貫；gun3",
+      "source": "cham"
+    },
+    {
+      "id": "5-49",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 3,
+        "start": 217,
+        "end": 221
+      },
+      "kind": "pronunciation",
+      "lang": "cmn",
+      "text": "guàn",
+      "source": "cham"
+    },
+    {
+      "id": "5-50",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 3,
+        "start": 225,
+        "end": 226
+      },
+      "kind": "semantic",
+      "text": "傲慢。",
+      "source": "cham"
+    },
+    {
+      "id": "5-51",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 3,
+        "start": 225,
+        "end": 226
+      },
+      "kind": "pronunciation",
+      "lang": "yue",
+      "text": "據；geoi3",
+      "source": "cham"
+    },
+    {
+      "id": "5-52",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 3,
+        "start": 225,
+        "end": 226
+      },
+      "kind": "pronunciation",
+      "lang": "cmn",
+      "text": "jù",
+      "source": "cham"
+    },
+    {
+      "id": "5-53",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 3,
+        "start": 262,
+        "end": 263
+      },
+      "kind": "semantic",
+      "text": "逼迫。",
+      "source": "cham"
+    },
+    {
+      "id": "5-54",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 4,
+        "start": 5,
+        "end": 6
+      },
+      "kind": "semantic",
+      "text": "斜視。",
+      "source": "cham"
+    },
+    {
+      "id": "5-55",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 4,
+        "start": 5,
+        "end": 6
+      },
+      "kind": "pronunciation",
+      "lang": "yue",
+      "text": "藝；ngai6",
+      "source": "cham"
+    },
+    {
+      "id": "5-56",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 4,
+        "start": 5,
+        "end": 6
+      },
+      "kind": "pronunciation",
+      "lang": "cmn",
+      "text": "nì",
+      "source": "cham"
+    },
+    {
+      "id": "5-57",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 4,
+        "start": 21,
+        "end": 25
+      },
+      "kind": "semantic",
+      "text": "於是婉言道歉，堅決請求藺相如不要這樣做。辭謝：婉言道歉。固請：堅決請求。",
+      "source": "cham"
+    },
+    {
+      "id": "5-58",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 4,
+        "start": 26,
+        "end": 42
+      },
+      "kind": "semantic",
+      "text": "召喚負責掌管版圖的官吏查考地圖，指着從這裏到那裏的十五座城給予趙國。有司：官吏的通稱。案：通「按」，查考、按照。都：城。",
+      "source": "cham"
+    },
+    {
+      "id": "5-59",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 4,
+        "start": 45,
+        "end": 46
+      },
+      "kind": "semantic",
+      "text": "揣度。",
+      "source": "cham"
+    },
+    {
+      "id": "5-60",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 4,
+        "start": 45,
+        "end": 46
+      },
+      "kind": "pronunciation",
+      "lang": "yue",
+      "text": "踱；dok6",
+      "source": "cham"
+    },
+    {
+      "id": "5-61",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 4,
+        "start": 45,
+        "end": 46
+      },
+      "kind": "pronunciation",
+      "lang": "cmn",
+      "text": "duó",
+      "source": "cham"
+    },
+    {
+      "id": "5-62",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 4,
+        "start": 48,
+        "end": 49
+      },
+      "kind": "semantic",
+      "text": "僅、只是。",
+      "source": "cham"
+    },
+    {
+      "id": "5-63",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 4,
+        "start": 51,
+        "end": 52
+      },
+      "kind": "semantic",
+      "text": "假裝。",
+      "source": "cham"
+    },
+    {
+      "id": "5-64",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 4,
+        "start": 51,
+        "end": 52
+      },
+      "kind": "pronunciation",
+      "lang": "yue",
+      "text": "羊；joeng4",
+      "source": "cham"
+    },
+    {
+      "id": "5-65",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 4,
+        "start": 51,
+        "end": 52
+      },
+      "kind": "pronunciation",
+      "lang": "cmn",
+      "text": "yáng",
+      "source": "cham"
+    },
+    {
+      "id": "5-66",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 4,
+        "start": 111,
+        "end": 116
+      },
+      "kind": "semantic",
+      "text": "在宮廷正殿上設九賓之禮。九賓：也稱「九儀」，古時外交上最隆重的禮節，由九個儐相依次傳呼接引上殿。",
+      "source": "cham"
+    },
+    {
+      "id": "5-67",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 5,
+        "start": 17,
+        "end": 18
+      },
+      "kind": "semantic",
+      "text": "安置，作動詞用。",
+      "source": "cham"
+    },
+    {
+      "id": "5-68",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 5,
+        "start": 20,
+        "end": 23
+      },
+      "kind": "semantic",
+      "text": "賓館名。傳：設於驛站的房舍。",
+      "source": "cham"
+    },
+    {
+      "id": "5-69",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 5,
+        "start": 20,
+        "end": 23
+      },
+      "kind": "pronunciation",
+      "lang": "yue",
+      "text": "攢；zyun3",
+      "source": "cham"
+    },
+    {
+      "id": "5-70",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 5,
+        "start": 20,
+        "end": 23
+      },
+      "kind": "pronunciation",
+      "lang": "cmn",
+      "text": "zhuàn",
+      "source": "cham"
+    },
+    {
+      "id": "5-71",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 5,
+        "start": 44,
+        "end": 46
+      },
+      "kind": "semantic",
+      "text": "穿着粗布便衣（裝扮成平民模樣）。衣：穿着，作動詞用。",
+      "source": "cham"
+    },
+    {
+      "id": "5-72",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 5,
+        "start": 44,
+        "end": 46
+      },
+      "kind": "pronunciation",
+      "lang": "yue",
+      "text": "意；ji3",
+      "source": "cham"
+    },
+    {
+      "id": "5-73",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 5,
+        "start": 44,
+        "end": 46
+      },
+      "kind": "pronunciation",
+      "lang": "cmn",
+      "text": "yì",
+      "source": "cham"
+    },
+    {
+      "id": "5-74",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 5,
+        "start": 52,
+        "end": 54
+      },
+      "kind": "semantic",
+      "text": "小路、便道。",
+      "source": "cham"
+    },
+    {
+      "id": "5-75",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 5,
+        "start": 54,
+        "end": 55
+      },
+      "kind": "semantic",
+      "text": "逃離、出走。",
+      "source": "cham"
+    },
+    {
+      "id": "5-76",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 6,
+        "start": 35,
+        "end": 37
+      },
+      "kind": "semantic",
+      "text": "即秦穆公，春秋五霸之一。繆：通「穆」。",
+      "source": "cham"
+    },
+    {
+      "id": "5-77",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 6,
+        "start": 44,
+        "end": 53
+      },
+      "kind": "semantic",
+      "text": "未曾有堅守信約的君主。",
+      "source": "cham"
+    },
+    {
+      "id": "5-78",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 6,
+        "start": 72,
+        "end": 76
+      },
+      "kind": "semantic",
+      "text": "已從偏僻的小路回到趙國了。間：「間道」的簡縮；或解作偷偷地。",
+      "source": "cham"
+    },
+    {
+      "id": "5-79",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 6,
+        "start": 72,
+        "end": 76
+      },
+      "kind": "pronunciation",
+      "lang": "yue",
+      "text": "諫；gaan3",
+      "source": "cham"
+    },
+    {
+      "id": "5-80",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 6,
+        "start": 72,
+        "end": 76
+      },
+      "kind": "pronunciation",
+      "lang": "cmn",
+      "text": "jiàn",
+      "source": "cham"
+    },
+    {
+      "id": "5-81",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 6,
+        "start": 87,
+        "end": 89
+      },
+      "kind": "semantic",
+      "text": "一個，有低小和微賤的意思。",
+      "source": "cham"
+    },
+    {
+      "id": "5-82",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 6,
+        "start": 140,
+        "end": 142
+      },
+      "kind": "semantic",
+      "text": "用滾湯烹煮罪犯，是古代酷刑。",
+      "source": "cham"
+    },
+    {
+      "id": "5-83",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 6,
+        "start": 143,
+        "end": 144
+      },
+      "kind": "semantic",
+      "text": "表示「希望」的語氣助詞。",
+      "source": "cham"
+    },
+    {
+      "id": "5-84",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 6,
+        "start": 149,
+        "end": 150
+      },
+      "kind": "semantic",
+      "text": "通「熟」，詳細。",
+      "source": "cham"
+    },
+    {
+      "id": "5-85",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 7,
+        "start": 8,
+        "end": 9
+      },
+      "kind": "semantic",
+      "text": "表示又驚又怒的聲音。",
+      "source": "cham"
+    },
+    {
+      "id": "5-86",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 7,
+        "start": 56,
+        "end": 67
+      },
+      "kind": "semantic",
+      "text": "趙王怎會因為一塊璧玉的緣故而欺騙我們秦國呢？邪：通「耶」。",
+      "source": "cham"
+    },
+    {
+      "id": "5-87",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 7,
+        "start": 69,
+        "end": 74
+      },
+      "kind": "semantic",
+      "text": "終於在朝廷上召見相如。",
+      "source": "cham"
+    },
+    {
+      "id": "5-88",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 7,
+        "start": 94,
+        "end": 100
+      },
+      "kind": "semantic",
+      "text": "出使諸侯之國，能不受欺辱。",
+      "source": "cham"
+    },
+    {
+      "id": "5-89",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 7,
+        "start": 105,
+        "end": 108
+      },
+      "kind": "semantic",
+      "text": "比卿低一級的官職。",
+      "source": "cham"
+    },
+    {
+      "id": "5-90",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 8,
+        "start": 0,
+        "end": 9
+      },
+      "kind": "semantic",
+      "text": "攻取了石城。",
+      "source": "cham"
+    },
+    {
+      "id": "5-91",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 8,
+        "start": 31,
+        "end": 43
+      },
+      "kind": "semantic",
+      "text": "想與趙王會面於西河外的澠池，以示友好。澠池：在今河南省澠池縣境。",
+      "source": "cham"
+    },
+    {
+      "id": "5-92",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 8,
+        "start": 31,
+        "end": 43
+      },
+      "kind": "pronunciation",
+      "lang": "yue",
+      "text": "敏；man5",
+      "source": "cham"
+    },
+    {
+      "id": "5-93",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 8,
+        "start": 31,
+        "end": 43
+      },
+      "kind": "pronunciation",
+      "lang": "cmn",
+      "text": "miǎn",
+      "source": "cham"
+    },
+    {
+      "id": "5-94",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 8,
+        "start": 92,
+        "end": 93
+      },
+      "kind": "semantic",
+      "text": "告別。",
+      "source": "cham"
+    },
+    {
+      "id": "5-95",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 8,
+        "start": 99,
+        "end": 100
+      },
+      "kind": "semantic",
+      "text": "估計。",
+      "source": "cham"
+    },
+    {
+      "id": "5-96",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 8,
+        "start": 100,
+        "end": 102
+      },
+      "kind": "semantic",
+      "text": "路程、里程。",
+      "source": "cham"
+    },
+    {
+      "id": "5-97",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 8,
+        "start": 102,
+        "end": 104
+      },
+      "kind": "semantic",
+      "text": "會面。",
+      "source": "cham"
+    },
+    {
+      "id": "5-98",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 9,
+        "start": 16,
+        "end": 17
+      },
+      "kind": "semantic",
+      "text": "飲酒到高興的時候。",
+      "source": "cham"
+    },
+    {
+      "id": "5-99",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 9,
+        "start": 27,
+        "end": 29
+      },
+      "kind": "semantic",
+      "text": "喜愛音樂。瑟：古樂器。",
+      "source": "cham"
+    },
+    {
+      "id": "5-100",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 9,
+        "start": 40,
+        "end": 43
+      },
+      "kind": "semantic",
+      "text": "史官。",
+      "source": "cham"
+    },
+    {
+      "id": "5-101",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 9,
+        "start": 44,
+        "end": 45
+      },
+      "kind": "semantic",
+      "text": "書寫、記載。",
+      "source": "cham"
+    },
+    {
+      "id": "5-102",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 10,
+        "start": 13,
+        "end": 17
+      },
+      "kind": "semantic",
+      "text": "擅長秦地的音樂。",
+      "source": "cham"
+    },
+    {
+      "id": "5-103",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 10,
+        "start": 20,
+        "end": 22
+      },
+      "kind": "semantic",
+      "text": "同「缶」，本是盛酒漿的瓦器，秦人歌唱時用來敲打節拍。",
+      "source": "cham"
+    },
+    {
+      "id": "5-104",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 10,
+        "start": 20,
+        "end": 22
+      },
+      "kind": "pronunciation",
+      "lang": "yue",
+      "text": "否；fau2",
+      "source": "cham"
+    },
+    {
+      "id": "5-105",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 10,
+        "start": 20,
+        "end": 22
+      },
+      "kind": "pronunciation",
+      "lang": "cmn",
+      "text": "fǒu",
+      "source": "cham"
+    },
+    {
+      "id": "5-106",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 10,
+        "start": 82,
+        "end": 88
+      },
+      "kind": "semantic",
+      "text": "秦王的侍從想用刀刺殺相如。刃：用刀刺。",
+      "source": "cham"
+    },
+    {
+      "id": "5-107",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 10,
+        "start": 99,
+        "end": 100
+      },
+      "kind": "semantic",
+      "text": "倒下，此處指秦王左右之人退卻。",
+      "source": "cham"
+    },
+    {
+      "id": "5-108",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 10,
+        "start": 99,
+        "end": 100
+      },
+      "kind": "pronunciation",
+      "lang": "yue",
+      "text": "美；mei5",
+      "source": "cham"
+    },
+    {
+      "id": "5-109",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 10,
+        "start": 99,
+        "end": 100
+      },
+      "kind": "pronunciation",
+      "lang": "cmn",
+      "text": "mǐ",
+      "source": "cham"
+    },
+    {
+      "id": "5-110",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 10,
+        "start": 106,
+        "end": 107
+      },
+      "kind": "semantic",
+      "text": "高興、喜悅。",
+      "source": "cham"
+    },
+    {
+      "id": "5-111",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 10,
+        "start": 106,
+        "end": 107
+      },
+      "kind": "pronunciation",
+      "lang": "yue",
+      "text": "翼；jik6",
+      "source": "cham"
+    },
+    {
+      "id": "5-112",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 10,
+        "start": 106,
+        "end": 107
+      },
+      "kind": "pronunciation",
+      "lang": "cmn",
+      "text": "yì",
+      "source": "cham"
+    },
+    {
+      "id": "5-113",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 10,
+        "start": 154,
+        "end": 155
+      },
+      "kind": "semantic",
+      "text": "祝壽，作動詞用。",
+      "source": "cham"
+    },
+    {
+      "id": "5-114",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 10,
+        "start": 168,
+        "end": 170
+      },
+      "kind": "semantic",
+      "text": "秦國的首都。",
+      "source": "cham"
+    },
+    {
+      "id": "5-115",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 10,
+        "start": 178,
+        "end": 180
+      },
+      "kind": "semantic",
+      "text": "酒筵完畢。",
+      "source": "cham"
+    },
+    {
+      "id": "5-116",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 11,
+        "start": 16,
+        "end": 22
+      },
+      "kind": "semantic",
+      "text": "職位在廉頗之上。右：古時以右為尊。",
+      "source": "cham"
+    },
+    {
+      "id": "5-117",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 11,
+        "start": 62,
+        "end": 63
+      },
+      "kind": "semantic",
+      "text": "向來、本來。",
+      "source": "cham"
+    },
+    {
+      "id": "5-118",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 11,
+        "start": 63,
+        "end": 65
+      },
+      "kind": "semantic",
+      "text": "地位卑下的人。",
+      "source": "cham"
+    },
+    {
+      "id": "5-119",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 11,
+        "start": 110,
+        "end": 117
+      },
+      "kind": "semantic",
+      "text": "不想與廉頗爭官位的高低。列：排列的位置。",
+      "source": "cham"
+    },
+    {
+      "id": "5-120",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 11,
+        "start": 118,
+        "end": 120
+      },
+      "kind": "semantic",
+      "text": "不久。",
+      "source": "cham"
+    },
+    {
+      "id": "5-121",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 11,
+        "start": 146,
+        "end": 156
+      },
+      "kind": "semantic",
+      "text": "微臣之所以離開親人而侍奉你的原因。去：離開。事君：為你辦事。",
+      "source": "cham"
+    },
+    {
+      "id": "5-122",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 11,
+        "start": 157,
+        "end": 164
+      },
+      "kind": "semantic",
+      "text": "只是仰慕你的崇高品德。高義：崇高品德。",
+      "source": "cham"
+    },
+    {
+      "id": "5-123",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 11,
+        "start": 204,
+        "end": 206
+      },
+      "kind": "semantic",
+      "text": "不才，自謙之詞。",
+      "source": "cham"
+    },
+    {
+      "id": "5-124",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 11,
+        "start": 222,
+        "end": 232
+      },
+      "kind": "semantic",
+      "text": "你看廉頗將軍與秦王相比，誰較厲害？孰與：比對方怎麼樣，表示疑問語氣。用於比照。",
+      "source": "cham"
+    },
+    {
+      "id": "5-125",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 12,
+        "start": 27,
+        "end": 28
+      },
+      "kind": "semantic",
+      "text": "劣馬，喻愚鈍無能。",
+      "source": "cham"
+    },
+    {
+      "id": "5-126",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 12,
+        "start": 27,
+        "end": 28
+      },
+      "kind": "pronunciation",
+      "lang": "yue",
+      "text": "奴；nou4",
+      "source": "cham"
+    },
+    {
+      "id": "5-127",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 12,
+        "start": 27,
+        "end": 28
+      },
+      "kind": "pronunciation",
+      "lang": "cmn",
+      "text": "nú",
+      "source": "cham"
+    },
+    {
+      "id": "5-128",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 12,
+        "start": 29,
+        "end": 30
+      },
+      "kind": "semantic",
+      "text": "豈、難道。",
+      "source": "cham"
+    },
+    {
+      "id": "5-129",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 12,
+        "start": 36,
+        "end": 37
+      },
+      "kind": "semantic",
+      "text": "只是、不過。用作連接分句，表示轉折。",
+      "source": "cham"
+    },
+    {
+      "id": "5-130",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 12,
+        "start": 81,
+        "end": 92
+      },
+      "kind": "semantic",
+      "text": "以國家之急務為先，而以個人之私怨為後。讎：同「仇」，怨恨。",
+      "source": "cham"
+    },
+    {
+      "id": "5-131",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 12,
+        "start": 81,
+        "end": 92
+      },
+      "kind": "pronunciation",
+      "lang": "yue",
+      "text": "籌；cau4",
+      "source": "cham"
+    },
+    {
+      "id": "5-132",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 12,
+        "start": 81,
+        "end": 92
+      },
+      "kind": "pronunciation",
+      "lang": "cmn",
+      "text": "chóu",
+      "source": "cham"
+    },
+    {
+      "id": "5-133",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 12,
+        "start": 99,
+        "end": 103
+      },
+      "kind": "semantic",
+      "text": "光着身子，背着荊條，表示願受責罰，認錯賠罪。荊：荊條。",
+      "source": "cham"
+    },
+    {
+      "id": "5-134",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 12,
+        "start": 140,
+        "end": 144
+      },
+      "kind": "semantic",
+      "text": "成了誓同生死的朋友。刎：割。",
+      "source": "cham"
+    },
+    {
+      "id": "5-135",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 12,
+        "start": 140,
+        "end": 144
+      },
+      "kind": "pronunciation",
+      "lang": "yue",
+      "text": "吻；man5",
+      "source": "cham"
+    },
+    {
+      "id": "5-136",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 12,
+        "start": 140,
+        "end": 144
+      },
+      "kind": "pronunciation",
+      "lang": "cmn",
+      "text": "wěn",
+      "source": "cham"
+    }
+  ],
+  "structuredSections": [
+    {
+      "key": "background",
+      "title": "背景資料",
+      "filename": "background.md",
+      "body": "《史記》本名《太史公書》，是中國第一部紀傳體通史，記載了由黃帝至漢武帝年間的史事，包含「本紀」、「世家」、「列傳」、「書」、「表」五個部分。列傳是列敍歷史人物事跡的傳記，以評價所記載人物的操行功業。按類型劃分，可分為分傳、合傳、寄傳、雜傳等類別。\n\n《史記》共有七十篇列傳，本篇節錄《廉頗藺相如列傳》前半部分，主要記述廉頗、藺相如的事跡，包括「完璧歸趙」、「澠池之會」和「負荊請罪」三件事。原傳還記述了趙奢、趙括和李牧的事跡。\n\n廉頗、藺相如是趙國著名人物，二人處於戰國後期，距離秦國統一中國只有六十餘年。秦國當時非常強盛，不斷向六國展開軍事、外交攻勢，以期成就統一事業。趙國與秦毗連，常受到秦國的脅迫。廉、藺二人一武一文，盡忠愛國，在軍事和外交上貢獻良多，是輔助趙國抗秦的重要人物。本篇就是記載二人的愛國事跡。",
+      "order": 2
+    },
+    {
+      "key": "analysis",
+      "title": "賞析",
+      "filename": "analysis.md",
+      "body": "本文透過記述「完璧歸趙」、「澠池之會」和「負荊請罪」三件事，表揚藺相如和廉頗二人盡心為國，更凸顯藺相如對外智勇雙全，對內謙遜忍讓、先國家之急而後私讎的忠臣形象。司馬遷在本篇傳記後云：「相如一奮其氣，威信敵國，退而讓頗，名重太山，其處智勇，可謂兼之矣！」足見他對藺相如的推許。\n\n第一部分由文章開頭至「趙亦終不予秦璧」。文章先簡述廉頗、藺相如二人身份懸殊。由「趙惠文王時」一句起寫「完璧歸趙」，故事可分為出使前、在秦和歸趙三個階段。趙惠文王得到寶物和氏璧，秦昭王欲據為己有，向趙王表示願以十五城池作交換。趙王進退兩難，若答應秦王的要求，擔心秦國不給予城池；反之又怕觸怒秦國，受秦兵侵犯。就在這時候，宦者令繆賢向趙王舉薦藺相如，認為他可以出使秦國。藺相如見趙王，承諾「城入趙而璧留秦」，城不入則保證「完璧歸趙」。文章接着寫相如在秦的經歷和表現：相如初見秦王，推測秦王無意償城，就機智地取回璧玉，並怒斥秦王貪婪，要求秦王齋戒五日，以迎和氏璧，之後暗中派人把璧玉送回趙國；待秦王齋戒五日後，以秦強趙弱為由，要求秦王先給予趙十五城，趙隨後才奉上璧玉。秦王無可奈何，惟有盡使節之禮後，讓相如歸趙。相如因「完璧歸趙」而獲擢升為上大夫，至於以城易璧一事則不了了之。\n\n第二部分由「其後秦伐趙」至「秦不敢動」，寫「澠池之會」的過程。「完璧歸趙」後，秦先後攻伐趙國，奪取石城；其後假意要修好，邀約趙王到澠池。趙王怕遭不測而不欲赴會，廉、藺則主張應約，以免示弱。趙王接納他們的建議，由相如陪同赴會，並同意若三十日仍未返回趙國，就另立太子為王，以杜絕秦國借他來要脅趙國的可能。「澠池之會」上，相如與秦王再次交鋒：秦王要趙王奏瑟，並命史官記下秦王「令趙王鼓瑟」，以期羞辱趙王；相如不甘示弱，表示不惜與秦王同歸於盡，以脅迫他擊缻，然後，也召史官記下「秦王為趙王擊缻」。之後秦國羣臣提出「以趙十五城為秦王壽」，相如還以顏色，要求秦國以其首都咸陽為趙王祝壽。結果，秦始終不能「加勝於趙」。\n\n第三部分由「既罷歸國」至文末，寫「負荊請罪」的經過。「澠池之會」後，相如因在外交上有功而擢升為上卿，位在廉頗之上。廉頗認為自己是大將軍，戰功顯赫，相如出身卑微，徒以「口舌為勞」而位處其上，心裏不服，故揚言必辱相如。相如得悉後諸多忍讓，處處迴避，因為他明白若與廉頗爭鬭，只會對國家不利。其後廉頗得知他有「先國家之急而後私讎」的胸襟，立即負荊請罪，最終二人和好，成為「刎頸之交」。\n\n本文布局精微，結構嚴謹。「完璧歸趙」、「澠池之會」和「負荊請罪」三件事，各自內容完整，能獨立成篇，同時又能合成一體。這三個故事以兩個矛盾為軸心，一是秦國和趙國之間的矛盾，一是廉頗與藺相如之間的矛盾。「完璧歸趙」是秦、趙第一矛盾，這事引發藺相如的出現。藺相如出現，解決趙國被秦國欺壓的危機，卻埋下了廉、藺之間的矛盾。「完璧歸趙」後，秦國又想在「澠池之會」欺侮趙國，相如再次為趙王解困，使趙不辱於秦，因而拜為上卿，官位比廉頗高，從而引發廉、藺的矛盾。故事高潮是廉頗不甘位居相如之下，明言要羞辱相如，讀者正為相如捏一把汗之時，相如對廉頗的多番躲避，又惹來門客的不滿，矛盾重重之際，相如道出「先國家之急而後私讎」的由衷，廉頗得悉後「負荊請罪」，廉、藺矛盾頓時緩解。秦、趙二國之矛盾亦因將相同心而暫告一段落。\n\n三個故事呼應綿密，情節發展合情合理，故事之間的過渡安排亦巧妙。「完璧歸趙」一節，作者以「秦亦不以城予趙，趙亦終不予秦璧」作結，精簡地交代了以城易璧一事的結果是不了了之。然後，以「其後秦伐趙，拔石城。明年，復攻趙，殺二萬人。秦王使使者告趙王，欲與王為好會於西河外澠池」開啟「澠池之會」的情節，寥寥數語，即清楚地道出秦國一再攻打趙國，交代了趙王起初不想赴會，以及赴會之時，廉頗要「盛設兵以待秦」的原因。「澠池之會」一節，以「秦王竟酒，終不能加勝於趙。趙亦盛設兵以待秦，秦不敢動」收束，與「負荊請罪」一節，相如言秦之所以不敢欺負趙，「徒以吾兩人在」，互相呼應。而「既罷歸國，以相如功大，拜為上卿，位在廉頗之右」，則承接上文並開啟「負荊請罪」一節的故事，自然而順暢地寫出廉、藺二人之矛盾。\n\n《史記》善於塑造人物形象。其一，善以典型事例塑造人物。以本篇為例，司馬遷選取了三個事例來刻劃藺相如的個性：「完璧歸趙」一節，以廷斥秦王表現相如的機智英勇；秦趙「澠池之會」，借相如不辱國體的表現，展現其凜烈正氣；引車避廉一事，則反映他「先國家之急而後私讎」的高尚情操。司馬遷寫廉頗亦工於取材，在「澠池之會」一節中，廉頗建議趙王若三十日不回來，則請允許另立太子為王，以免秦國以趙王來威脅趙國，這件事凸顯廉頗的軍事和政治智慧，以及忠誠為國的形象；在「負荊請罪」一節，廉頗因相如官位高於自己而想羞辱相如，後來了解到相如「先國家之急而後私讎」的崇高思想後，馬上肉袒負荊請罪，表現出知過必改、忠厚憨直的個性。其二，善以行動和語言表現人物形象。如用「璧有瑕，請指示王」這言語，寫相如的機智；用欲以頭撞柱而與璧同碎，使秦王不敢強行奪璧的行動，來展現相如的勇敢。又如以「相如素賤人，吾羞，不忍為之下」這番話，來呈現廉頗重視名位的心理；以肉袒負荊，藉賓客的引領向相如謝罪的行動，寫廉頗知錯能改的個性。其三，善用對比的手法以塑造人物形象。「完璧歸趙」一節中，趙王召見相如，問可否給予秦國和氏璧，相如謂「秦彊而趙弱，不可不許」。趙王繼而擔心璧、城兩失，相如就指出若不給秦璧，是趙國理虧，給秦璧而秦不償城，則是秦國理虧，故建議「寧許以負秦曲」。如此，可凸顯相如能從「理」進行分析，不似趙國群臣只着眼於表面的「利」：給璧，怕秦城不可得，不給，則又怕秦國派兵攻趙。這樣對比，使相如思慮高人一等的形象躍然紙上。此外，又以相如對強秦的勇武無畏與對廉頗的禮讓謙避作對比，以及相如外交上的智勇雙全足以震攝秦王，與秦王的恃勢凌人卻無法加勝於趙作對比，全面立體地呈現相如的形象。還有，以廉頗對相如的前倨後恭作對比，一方面表現相如公而忘私之崇高愛國精神，同時又凸顯廉頗知錯能改的憨厚性格。以上三點可知太史公描寫人物的出色造詣，難怪《世說新語‧品藻》云：「廉頗、藺相如雖千載上死人，懍懍恆如有生氣。」\n\n《史記》文筆精煉、言簡意賅。如「完璧歸趙」一節中，「乃使其從者衣褐，懷其璧，從徑道亡，歸璧於趙」幾句，句子雖短，卻含意豐富，生動描摹了相如的心思細密：派隨從送璧，裝扮成平民，可免人注意；從小道逃走，可避開大道的關卡。在「完璧歸趙」、「澠池之會」兩件事中，主要詳寫相如的智勇和愛國精神，對廉頗只描述了幾筆，形成藺主而廉次的格局；但司馬遷對廉頗的幾筆描述卻非常有力，如廉頗在趙王赴「澠池之會」前，給趙王的建議以及盛設兵以待秦的行動，就能使廉頗「以勇氣聞於諸侯」的形象具體突出。此外，寫相如的心理活動時，用了「視」和「度」兩個關鍵字眼：「相如視秦無意償趙城」的「視」，表達相如對秦王狡詐的敏銳判斷；「相如度秦王特以詐佯為予趙城」、「相如度秦王雖齋，決負約不償城」的兩個「度」字，可見相如對當時政治形勢的謹慎思索，以及對秦國君主歷來多不守約的深刻認識，亦可見司馬遷對用字之講究。又如文章開首部分趙國君臣在收到秦國以城換璧的國書後，陷於予璧則恐城不得，不予璧則恐秦兵來的困境，太史公寫道：「計未定，求人可使報秦者，未得」，「計未定」的「未」字，顯示趙國君臣未想到應對秦國換璧要求之計，「未得」的「未」字則顯示出使秦國人才之難得，這都看出司馬遷工於煉字。\n\n總言之，從內容來說，本篇透現了司馬遷心目中智勇雙全、公而忘私、過而能改、思慮周延的儒家將相形象；從藝術層面而論，本篇文筆精煉，工於敍事布局、塑造人物和剪裁史料。",
+      "order": 3
+    }
+  ]
+}

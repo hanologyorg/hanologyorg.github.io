@@ -1,0 +1,605 @@
+{
+  "bookId": "primary",
+  "num": 6,
+  "title": "短歌行",
+  "author": "曹操",
+  "authorId": "A004",
+  "dynasty": "漢",
+  "era": "漢",
+  "eraCode": "07",
+  "genre": "poetry",
+  "verses": [
+    {
+      "text": "對酒當歌，人生幾何？譬如朝露，去日苦多。慨當以"
+    },
+    {
+      "text": "慷，憂思難忘。何以解憂，唯有杜康。青青子衿，悠"
+    },
+    {
+      "text": "悠我心。但為君故，沉吟至今。呦呦鹿鳴，食野之"
+    },
+    {
+      "text": "苹。我有嘉賓，鼓瑟吹笙。明明如月，何時可掇？"
+    },
+    {
+      "text": "憂從中來，不可斷絕。越陌度阡，枉用相存。契"
+    },
+    {
+      "text": "闊談讌，心念舊恩。月明星稀，烏鵲南飛。繞樹三"
+    },
+    {
+      "text": "匝，何枝可依？山不厭高，海不厭深。周公吐哺，天"
+    },
+    {
+      "text": "下歸心。"
+    }
+  ],
+  "sections": {
+    "analysis": "「行」是古代一種樂曲的形式，或謂之「短歌」，吟誦者憑藉高亢急促的歌唱，用以表達慷慨激昂的感情。《短歌行》是樂府舊題，曹操借此抒發自己感時憂國的懷抱。\n\n這是一篇迎賓宴會的歌辭。詩一開頭，詩人就由眼前的酒宴說起。「對酒當歌」四句，直道出歡樂背後詩人對人生短促和年華易逝的慨歎。表面看來，曹操似乎是提出了一個「人生當及時行樂」的消極主題，但實際上卻剛好相反，全詩洋溢着高昂的情緒，蘊藏着應及時努力的思想。「慨當以慷」四句，說明自己即使盡情地高歌酣飲，對功業未成的這一椿心事，實在時刻難忘。飲酒雖可以解決一時之憂，卻不能長久解決人生的痛苦。\n\n要實現霸業，必須依靠人才，詩句緊接着轉到求賢的問題上，通過思念賢才，歡宴嘉賓的描寫，表現了詩人愛才若渴的心情。「青青子衿，悠悠我心」是《詩經‧鄭風‧子衿》的句子，曹操借以表達自己對賢才的思慕，求賢不得恰是詩人思慮與沉吟的原因。「呦呦」四句是《詩經‧小雅‧鹿鳴》中的詩句，鹿喜歡群體生活，每當見到苹草便呦呦而鳴，呼朋引伴相聚而食。曹操引用這一些句子，以表示自己招賢納才的熱切心情，賢才是詩人熱誠禮待的嘉賓。在「明明如月」八句，進一步表明了他求賢若渴的心情。詩人在此將賢才比作皎潔的「明月」，得到那些能輔佐自己成就霸業的賢才，在一起談笑歡宴，其樂融融。\n\n「月明」四句，詩人寓情於景。以烏鵲繞樹而飛，比喻賢者尋找依托，曹操自喻為良木，奈何賢士遲疑不前，令他惆悵不已。結尾四句表現了詩人廣攬人才以完成統一大業的宏偉抱負。《管子‧形勢篇》中說：「海不辭水，故能成其大；山不辭石，故能成其高；明主不厭人，故能成其眾。」曹操表明他對人才的需求，猶如大海不辭涓流，高山不棄土石一樣，他以周公自況，可以為了接待賢士連洗髮、吃飯都顧不上。這四句形象地揭示了曹操宏闊的政治胸懷。曹操不但在詩中這樣寫，在現實中，他曾多次下「唯才是舉」令，招納人才。果然有不少英才投奔他，這也為他統一北方奠定了基礎。\n\n這首詩立意高遠，風格深沉。它集抒情、寫景、敘事、說理於一爐，而且能互相襯托，語言樸實明快，音韻鏗鏘有力，不愧為一首言志佳作。此詩運用四言體非常成功，尤其引用《詩經》的章句，詞如己出，自然雄渾。詩中還用了許多設問句和典故，也用得恰到好處。",
+    "background": "漢末，群雄逐鹿，軍閥混戰，民不聊生，曹操渴望建功立業，統一全國。然而宏圖未展，時光卻急速流逝，詩人深感時間的緊迫和事業的重壓，以故焦慮、憂愁苦悶不時襲來。此詩表達了他急欲求賢，實現自己的政治理想的雄心壯志。\n\n這首詩的寫作時間未能確定。《三國演義》把它安排在赤壁之戰前夕，曹操在夜宴長江時作。又有人認為此詩作於建安十九年，在曹操出兵南征東吳孫權之時。",
+    "preparation": "聆聽朗讀錄音，投入感情朗讀本詩。 https://www.edb.gov.hk/attachment/tc/curriculum-development/kla/chi-edu/resources/primary/lang/jilei/006_jilei_shi(cantonese).mp3",
+    "think_questions": "1. 當你開心的時候，會做些甚麼來助興？不快樂的時候又會怎樣解憂呢？\n\n2. 你知道為甚麼人人都說生命是很可貴的？在對待生命的態度上，你會選擇及時行樂還是及時努力呢？為甚麼？\n\n3. 閱讀《長歌行》，與本詩比較，跟同學說說你喜歡哪一首？為甚麼？",
+    "annotations": "1.對酒當歌：「對」和「當」同義，解作「對着」、「向着」。\n2.人生：人壽。\n3.幾何：能有多長？\n4.去日：逝去的日子。\n5.苦：用作動詞，苦於，太過。\n6.憂思：○粵泗；si3。深藏的心事。\n7.杜康：相傳他是上古發明釀酒的人。這裏用作酒的代稱。\n8.青青子衿：這裏代指曹操所思慕的賢才。\n衿：衣領。青衿是周代學子的服裝。\n子：古代對男子的美稱。\n9.衿：衣領。青衿是周代學子的服裝。\n10.子：古代對男子的美稱。\n11.君：你，這裏是指曹操思慕賢才。\n12.沉吟：默默探索思考。\n13.呦呦：○粵幽；jau1；○普yōu。鹿鳴聲。\n14.苹：植物名，即艾蒿。\n15.鼓：彈奏。\n16.瑟：古彈撥樂器名。\n17.笙：吹奏的竹管樂器名。\n18.掇：○粵啜；zyut3；○普duō。拾取，拾獲得賢才。一作「輟」，作停止\n解。\n19.斷：○粵段；dyun6；○普duɑ̀n\n20.越陌度阡：陌、阡均指田間小路。此指賢才自遠道而來。\n21.枉：謙詞，勞駕、屈就的意思。\n22.用：以。\n23.存：問候、探望。\n24.談讌：暢談歡宴。\n讌：通「宴」。\n25.讌：通「宴」。\n26.舊恩：往日的情誼。\n27.烏鵲：背黑尾長，腹及翼下羽毛白色嘴腳皆黑，與全身黑羽的烏鴉不同，\n古人認為是吉鳥，故稱喜鵲，並非顯示凶兆的烏鴉。\n28.匝：○粵劄；zaap3；○普zɑ̄。周、圈。三匝形容不斷繞樹而飛，遲疑\n不前，未能即時決定棲止。\n29.依：依棲。\n30.周公吐哺：周公是西周武王之弟，曾輔佐武王、成王成就王業。據《韓\n詩外傳》記載，周公很重視人才，雖然他執掌政權，凡有士人來訪，他\n立刻接待。倘若他正在洗頭髮，他就握髮相見。倘若吃飯時來，他就忙\n把嘴裏嚼着的食物吐出來接待。「周公吐哺」是說要像周公那樣虛心對待\n天下人才。\n吐哺：吐出口中的食物。\n31.吐哺：吐出口中的食物。\n32.歸心：心悅誠服地歸附。"
+  },
+  "annotations": [
+    {
+      "id": "6-1",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 0,
+        "end": 4
+      },
+      "kind": "semantic",
+      "text": "「對」和「當」同義，解作「對着」、「向着」。",
+      "source": "cham"
+    },
+    {
+      "id": "6-2",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 5,
+        "end": 7
+      },
+      "kind": "semantic",
+      "text": "人壽。",
+      "source": "cham"
+    },
+    {
+      "id": "6-3",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 7,
+        "end": 9
+      },
+      "kind": "semantic",
+      "text": "能有多長？",
+      "source": "cham"
+    },
+    {
+      "id": "6-4",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 15,
+        "end": 17
+      },
+      "kind": "semantic",
+      "text": "逝去的日子。",
+      "source": "cham"
+    },
+    {
+      "id": "6-5",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 17,
+        "end": 18
+      },
+      "kind": "semantic",
+      "text": "用作動詞，苦於，太過。",
+      "source": "cham"
+    },
+    {
+      "id": "6-6",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 1,
+        "start": 2,
+        "end": 4
+      },
+      "kind": "pronunciation",
+      "lang": "yue",
+      "text": "泗；si3",
+      "source": "cham"
+    },
+    {
+      "id": "6-7",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 1,
+        "start": 2,
+        "end": 4
+      },
+      "kind": "semantic",
+      "text": "深藏的心事。",
+      "source": "cham"
+    },
+    {
+      "id": "6-8",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 1,
+        "start": 14,
+        "end": 16
+      },
+      "kind": "semantic",
+      "text": "相傳他是上古發明釀酒的人。這裏用作酒的代稱。",
+      "source": "cham"
+    },
+    {
+      "id": "6-9",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 1,
+        "start": 17,
+        "end": 21
+      },
+      "kind": "semantic",
+      "text": "這裏代指曹操所思慕的賢才。\n衿：衣領。青衿是周代學子的服裝。\n子：古代對男子的美稱。",
+      "source": "cham"
+    },
+    {
+      "id": "6-10",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 1,
+        "start": 20,
+        "end": 21
+      },
+      "kind": "semantic",
+      "text": "衣領。青衿是周代學子的服裝。",
+      "source": "cham"
+    },
+    {
+      "id": "6-11",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 1,
+        "start": 19,
+        "end": 20
+      },
+      "kind": "semantic",
+      "text": "古代對男子的美稱。",
+      "source": "cham"
+    },
+    {
+      "id": "6-12",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 2,
+        "start": 6,
+        "end": 7
+      },
+      "kind": "semantic",
+      "text": "你，這裏是指曹操思慕賢才。",
+      "source": "cham"
+    },
+    {
+      "id": "6-13",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 2,
+        "start": 9,
+        "end": 11
+      },
+      "kind": "semantic",
+      "text": "默默探索思考。",
+      "source": "cham"
+    },
+    {
+      "id": "6-14",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 2,
+        "start": 14,
+        "end": 16
+      },
+      "kind": "pronunciation",
+      "lang": "yue",
+      "text": "幽；jau1",
+      "source": "cham"
+    },
+    {
+      "id": "6-15",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 2,
+        "start": 14,
+        "end": 16
+      },
+      "kind": "pronunciation",
+      "lang": "cmn",
+      "text": "yōu",
+      "source": "cham"
+    },
+    {
+      "id": "6-16",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 2,
+        "start": 14,
+        "end": 16
+      },
+      "kind": "semantic",
+      "text": "鹿鳴聲。",
+      "source": "cham"
+    },
+    {
+      "id": "6-17",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 3,
+        "start": 0,
+        "end": 1
+      },
+      "kind": "semantic",
+      "text": "植物名，即艾蒿。",
+      "source": "cham"
+    },
+    {
+      "id": "6-18",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 3,
+        "start": 7,
+        "end": 8
+      },
+      "kind": "semantic",
+      "text": "彈奏。",
+      "source": "cham"
+    },
+    {
+      "id": "6-19",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 3,
+        "start": 8,
+        "end": 9
+      },
+      "kind": "semantic",
+      "text": "古彈撥樂器名。",
+      "source": "cham"
+    },
+    {
+      "id": "6-20",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 3,
+        "start": 10,
+        "end": 11
+      },
+      "kind": "semantic",
+      "text": "吹奏的竹管樂器名。",
+      "source": "cham"
+    },
+    {
+      "id": "6-21",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 3,
+        "start": 20,
+        "end": 21
+      },
+      "kind": "pronunciation",
+      "lang": "yue",
+      "text": "啜；zyut3",
+      "source": "cham"
+    },
+    {
+      "id": "6-22",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 3,
+        "start": 20,
+        "end": 21
+      },
+      "kind": "pronunciation",
+      "lang": "cmn",
+      "text": "duō",
+      "source": "cham"
+    },
+    {
+      "id": "6-23",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 3,
+        "start": 20,
+        "end": 21
+      },
+      "kind": "semantic",
+      "text": "拾取，拾獲得賢才。一作「輟」，作停止\n解。",
+      "source": "cham"
+    },
+    {
+      "id": "6-24",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 4,
+        "start": 7,
+        "end": 8
+      },
+      "kind": "pronunciation",
+      "lang": "yue",
+      "text": "段；dyun6",
+      "source": "cham"
+    },
+    {
+      "id": "6-25",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 4,
+        "start": 7,
+        "end": 8
+      },
+      "kind": "pronunciation",
+      "lang": "cmn",
+      "text": "duɑ̀n",
+      "source": "cham"
+    },
+    {
+      "id": "6-26",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 4,
+        "start": 10,
+        "end": 14
+      },
+      "kind": "semantic",
+      "text": "陌、阡均指田間小路。此指賢才自遠道而來。",
+      "source": "cham"
+    },
+    {
+      "id": "6-27",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 4,
+        "start": 15,
+        "end": 16
+      },
+      "kind": "semantic",
+      "text": "謙詞，勞駕、屈就的意思。",
+      "source": "cham"
+    },
+    {
+      "id": "6-28",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 4,
+        "start": 16,
+        "end": 17
+      },
+      "kind": "semantic",
+      "text": "以。",
+      "source": "cham"
+    },
+    {
+      "id": "6-29",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 4,
+        "start": 18,
+        "end": 19
+      },
+      "kind": "semantic",
+      "text": "問候、探望。",
+      "source": "cham"
+    },
+    {
+      "id": "6-30",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 5,
+        "start": 1,
+        "end": 3
+      },
+      "kind": "semantic",
+      "text": "暢談歡宴。\n讌：通「宴」。",
+      "source": "cham"
+    },
+    {
+      "id": "6-31",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 5,
+        "start": 2,
+        "end": 3
+      },
+      "kind": "semantic",
+      "text": "通「宴」。",
+      "source": "cham"
+    },
+    {
+      "id": "6-32",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 5,
+        "start": 6,
+        "end": 8
+      },
+      "kind": "semantic",
+      "text": "往日的情誼。",
+      "source": "cham"
+    },
+    {
+      "id": "6-33",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 5,
+        "start": 14,
+        "end": 16
+      },
+      "kind": "semantic",
+      "text": "背黑尾長，腹及翼下羽毛白色嘴腳皆黑，與全身黑羽的烏鴉不同，\n古人認為是吉鳥，故稱喜鵲，並非顯示凶兆的烏鴉。",
+      "source": "cham"
+    },
+    {
+      "id": "6-34",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 6,
+        "start": 0,
+        "end": 1
+      },
+      "kind": "pronunciation",
+      "lang": "yue",
+      "text": "劄；zaap3",
+      "source": "cham"
+    },
+    {
+      "id": "6-35",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 6,
+        "start": 0,
+        "end": 1
+      },
+      "kind": "pronunciation",
+      "lang": "cmn",
+      "text": "zɑ̄",
+      "source": "cham"
+    },
+    {
+      "id": "6-36",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 6,
+        "start": 0,
+        "end": 1
+      },
+      "kind": "semantic",
+      "text": "周、圈。三匝形容不斷繞樹而飛，遲疑\n不前，未能即時決定棲止。",
+      "source": "cham"
+    },
+    {
+      "id": "6-37",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 6,
+        "start": 5,
+        "end": 6
+      },
+      "kind": "semantic",
+      "text": "依棲。",
+      "source": "cham"
+    },
+    {
+      "id": "6-38",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 6,
+        "start": 17,
+        "end": 21
+      },
+      "kind": "semantic",
+      "text": "周公是西周武王之弟，曾輔佐武王、成王成就王業。據《韓\n詩外傳》記載，周公很重視人才，雖然他執掌政權，凡有士人來訪，他\n立刻接待。倘若他正在洗頭髮，他就握髮相見。倘若吃飯時來，他就忙\n把嘴裏嚼着的食物吐出來接待。「周公吐哺」是說要像周公那樣虛心對待\n天下人才。\n吐哺：吐出口中的食物。",
+      "source": "cham"
+    },
+    {
+      "id": "6-39",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 6,
+        "start": 19,
+        "end": 21
+      },
+      "kind": "semantic",
+      "text": "吐出口中的食物。",
+      "source": "cham"
+    },
+    {
+      "id": "6-40",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 7,
+        "start": 1,
+        "end": 3
+      },
+      "kind": "semantic",
+      "text": "心悅誠服地歸附。",
+      "source": "cham"
+    }
+  ],
+  "structuredSections": [
+    {
+      "key": "background",
+      "title": "背景資料",
+      "filename": "background.md",
+      "body": "漢末，群雄逐鹿，軍閥混戰，民不聊生，曹操渴望建功立業，統一全國。然而宏圖未展，時光卻急速流逝，詩人深感時間的緊迫和事業的重壓，以故焦慮、憂愁苦悶不時襲來。此詩表達了他急欲求賢，實現自己的政治理想的雄心壯志。\n\n這首詩的寫作時間未能確定。《三國演義》把它安排在赤壁之戰前夕，曹操在夜宴長江時作。又有人認為此詩作於建安十九年，在曹操出兵南征東吳孫權之時。",
+      "order": 2
+    },
+    {
+      "key": "analysis",
+      "title": "賞析",
+      "filename": "analysis.md",
+      "body": "「行」是古代一種樂曲的形式，或謂之「短歌」，吟誦者憑藉高亢急促的歌唱，用以表達慷慨激昂的感情。《短歌行》是樂府舊題，曹操借此抒發自己感時憂國的懷抱。\n\n這是一篇迎賓宴會的歌辭。詩一開頭，詩人就由眼前的酒宴說起。「對酒當歌」四句，直道出歡樂背後詩人對人生短促和年華易逝的慨歎。表面看來，曹操似乎是提出了一個「人生當及時行樂」的消極主題，但實際上卻剛好相反，全詩洋溢着高昂的情緒，蘊藏着應及時努力的思想。「慨當以慷」四句，說明自己即使盡情地高歌酣飲，對功業未成的這一椿心事，實在時刻難忘。飲酒雖可以解決一時之憂，卻不能長久解決人生的痛苦。\n\n要實現霸業，必須依靠人才，詩句緊接着轉到求賢的問題上，通過思念賢才，歡宴嘉賓的描寫，表現了詩人愛才若渴的心情。「青青子衿，悠悠我心」是《詩經‧鄭風‧子衿》的句子，曹操借以表達自己對賢才的思慕，求賢不得恰是詩人思慮與沉吟的原因。「呦呦」四句是《詩經‧小雅‧鹿鳴》中的詩句，鹿喜歡群體生活，每當見到苹草便呦呦而鳴，呼朋引伴相聚而食。曹操引用這一些句子，以表示自己招賢納才的熱切心情，賢才是詩人熱誠禮待的嘉賓。在「明明如月」八句，進一步表明了他求賢若渴的心情。詩人在此將賢才比作皎潔的「明月」，得到那些能輔佐自己成就霸業的賢才，在一起談笑歡宴，其樂融融。\n\n「月明」四句，詩人寓情於景。以烏鵲繞樹而飛，比喻賢者尋找依托，曹操自喻為良木，奈何賢士遲疑不前，令他惆悵不已。結尾四句表現了詩人廣攬人才以完成統一大業的宏偉抱負。《管子‧形勢篇》中說：「海不辭水，故能成其大；山不辭石，故能成其高；明主不厭人，故能成其眾。」曹操表明他對人才的需求，猶如大海不辭涓流，高山不棄土石一樣，他以周公自況，可以為了接待賢士連洗髮、吃飯都顧不上。這四句形象地揭示了曹操宏闊的政治胸懷。曹操不但在詩中這樣寫，在現實中，他曾多次下「唯才是舉」令，招納人才。果然有不少英才投奔他，這也為他統一北方奠定了基礎。\n\n這首詩立意高遠，風格深沉。它集抒情、寫景、敘事、說理於一爐，而且能互相襯托，語言樸實明快，音韻鏗鏘有力，不愧為一首言志佳作。此詩運用四言體非常成功，尤其引用《詩經》的章句，詞如己出，自然雄渾。詩中還用了許多設問句和典故，也用得恰到好處。",
+      "order": 3
+    },
+    {
+      "key": "think_questions",
+      "title": "思考問題",
+      "filename": "think-questions.md",
+      "body": "1. 當你開心的時候，會做些甚麼來助興？不快樂的時候又會怎樣解憂呢？\n\n2. 你知道為甚麼人人都說生命是很可貴的？在對待生命的態度上，你會選擇及時行樂還是及時努力呢？為甚麼？\n\n3. 閱讀《長歌行》，與本詩比較，跟同學說說你喜歡哪一首？為甚麼？",
+      "order": 5
+    },
+    {
+      "key": "preparation",
+      "title": "教學準備",
+      "filename": "preparation.md",
+      "body": "聆聽朗讀錄音，投入感情朗讀本詩。 https://www.edb.gov.hk/attachment/tc/curriculum-development/kla/chi-edu/resources/primary/lang/jilei/006_jilei_shi(cantonese).mp3",
+      "order": 6
+    }
+  ]
+}

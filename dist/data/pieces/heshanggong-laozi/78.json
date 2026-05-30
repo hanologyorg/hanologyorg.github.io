@@ -1,0 +1,366 @@
+{
+  "bookId": "heshanggong-laozi",
+  "num": 78,
+  "title": "第七十八章（任信）",
+  "author": "老子",
+  "authorId": "Laozi",
+  "dynasty": "周",
+  "era": "周",
+  "genre": "prose",
+  "verses": [
+    {
+      "text": "天下莫柔弱於水，"
+    },
+    {
+      "text": "而攻堅強者莫之能勝，"
+    },
+    {
+      "text": "以其無以易之。"
+    },
+    {
+      "text": "弱之勝強，"
+    },
+    {
+      "text": "柔之勝剛，"
+    },
+    {
+      "text": "天下莫不知，"
+    },
+    {
+      "text": "莫能行。"
+    },
+    {
+      "text": "是以聖人云："
+    },
+    {
+      "text": "受國之垢，是謂社稷主；"
+    },
+    {
+      "text": "受國不祥，是為天下王。"
+    },
+    {
+      "text": "正言若反。"
+    }
+  ],
+  "sections": {},
+  "annotations": [],
+  "layers": {
+    "heshanggong": [
+      {
+        "id": "heshanggong-1",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 8
+        },
+        "kind": "commentary",
+        "text": "圓中則圓，方中則方，壅之則止，決之則行。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-2",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 0,
+          "end": 10
+        },
+        "kind": "commentary",
+        "text": "水能懷山襄陵，磨鐵消銅，莫能勝水而成功也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-3",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 2,
+          "start": 0,
+          "end": 7
+        },
+        "kind": "commentary",
+        "text": "夫攻堅強者，無以易於水。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-4",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 3,
+          "start": 0,
+          "end": 5
+        },
+        "kind": "commentary",
+        "text": "水能滅火，陰能消陽。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-5",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 4,
+          "start": 0,
+          "end": 5
+        },
+        "kind": "commentary",
+        "text": "舌柔齒剛，齒先舌亡。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-6",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 5,
+          "start": 0,
+          "end": 6
+        },
+        "kind": "commentary",
+        "text": "知柔弱者久長，剛強者折傷。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-7",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 6,
+          "start": 0,
+          "end": 4
+        },
+        "kind": "commentary",
+        "text": "恥謙卑，好強梁。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-8",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 7,
+          "start": 0,
+          "end": 6
+        },
+        "kind": "commentary",
+        "text": "謂下事也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-9",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 8,
+          "start": 0,
+          "end": 11
+        },
+        "kind": "commentary",
+        "text": "人君能受國之垢濁者，若江海不逆小流，則能長保其社稷，為一國之君主也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-10",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 9,
+          "start": 0,
+          "end": 11
+        },
+        "kind": "commentary",
+        "text": "人君能引過自與，代民受不祥之殃，則可以王天下。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-11",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 10,
+          "start": 0,
+          "end": 5
+        },
+        "kind": "commentary",
+        "text": "此乃正直之言，世人不知，以為反言。",
+        "source": "cham"
+      }
+    ]
+  },
+  "annotationLayers": [
+    {
+      "id": "default",
+      "label": "原文",
+      "shortLabel": "文",
+      "contributor": "Laozi",
+      "role": "author",
+      "nature": "annotation",
+      "displayOrder": 0,
+      "enabled": true,
+      "annotations": []
+    },
+    {
+      "id": "heshanggong",
+      "label": "河上公註",
+      "shortLabel": "河",
+      "contributor": "C002",
+      "role": "commentator",
+      "nature": "commentary",
+      "displayOrder": 1,
+      "enabled": true,
+      "annotations": [
+        {
+          "id": "heshanggong-1",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 8
+          },
+          "kind": "commentary",
+          "text": "圓中則圓，方中則方，壅之則止，決之則行。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-2",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 1,
+            "start": 0,
+            "end": 10
+          },
+          "kind": "commentary",
+          "text": "水能懷山襄陵，磨鐵消銅，莫能勝水而成功也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-3",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 2,
+            "start": 0,
+            "end": 7
+          },
+          "kind": "commentary",
+          "text": "夫攻堅強者，無以易於水。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-4",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 3,
+            "start": 0,
+            "end": 5
+          },
+          "kind": "commentary",
+          "text": "水能滅火，陰能消陽。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-5",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 4,
+            "start": 0,
+            "end": 5
+          },
+          "kind": "commentary",
+          "text": "舌柔齒剛，齒先舌亡。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-6",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 5,
+            "start": 0,
+            "end": 6
+          },
+          "kind": "commentary",
+          "text": "知柔弱者久長，剛強者折傷。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-7",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 6,
+            "start": 0,
+            "end": 4
+          },
+          "kind": "commentary",
+          "text": "恥謙卑，好強梁。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-8",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 7,
+            "start": 0,
+            "end": 6
+          },
+          "kind": "commentary",
+          "text": "謂下事也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-9",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 8,
+            "start": 0,
+            "end": 11
+          },
+          "kind": "commentary",
+          "text": "人君能受國之垢濁者，若江海不逆小流，則能長保其社稷，為一國之君主也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-10",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 9,
+            "start": 0,
+            "end": 11
+          },
+          "kind": "commentary",
+          "text": "人君能引過自與，代民受不祥之殃，則可以王天下。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-11",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 10,
+            "start": 0,
+            "end": 5
+          },
+          "kind": "commentary",
+          "text": "此乃正直之言，世人不知，以為反言。",
+          "source": "cham"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "textRef": "heshanggong-laozi",
+    "relation": "section"
+  }
+}

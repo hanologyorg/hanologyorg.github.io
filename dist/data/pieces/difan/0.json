@@ -1,0 +1,24 @@
+{
+  "bookId": "difan",
+  "num": 0,
+  "title": "外序①",
+  "author": "佚名",
+  "authorId": "C010",
+  "dynasty": "未知",
+  "era": "未知",
+  "genre": "prose",
+  "verses": [
+    {
+      "text": "此文本源於早稲田大学図書館藏品《帝範臣軌》（兩冊）合刻本，其中《帝範》一冊，於寛文8年（1668）由京都「林和泉掾」出版。"
+    },
+    {
+      "text": "冊中印有「不老菴」「去水 五味均平蔵」和「両□」共三印。"
+    }
+  ],
+  "sections": {},
+  "annotations": [],
+  "source": {
+    "textRef": "difan",
+    "relation": "section"
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "bookId": "laozi",
+  "num": 18,
+  "title": "第十八章",
+  "author": "老子",
+  "authorId": "Laozi",
+  "dynasty": "周",
+  "era": "周",
+  "genre": "prose",
+  "verses": [
+    {
+      "text": "大道廢，有仁義；智慧出，有大偽；"
+    },
+    {
+      "text": "六親不和，有孝慈；國家昏亂，有忠臣。"
+    }
+  ],
+  "sections": {},
+  "annotations": [],
+  "layers": {
+    "hesonggong": [
+      {
+        "id": "hesonggong-1",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 16
+        },
+        "kind": "semantic",
+        "text": "大道廢，案：大道在無為。有仁義，案：謂人為巧詐。智慧出，案：智慧多令人無質樸。有大偽，案：詐偽生。六親不和，案：謂父子兄弟夫婦。有孝慈，案：孝慈生。國家昏亂，案：謂君臣不明。有忠臣，案：忠臣生。",
+        "source": "cham"
+      }
+    ],
+    "wangbi": [
+      {
+        "id": "wangbi-1",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 16
+        },
+        "kind": "semantic",
+        "text": "大道廢棄，則有仁義。智慧顯露，則有大偽。六親不和，則有孝慈。國家昏亂，則有忠臣。皆非自然之道。",
+        "source": "cham"
+      }
+    ]
+  },
+  "annotationLayers": [
+    {
+      "id": "default",
+      "label": "原文",
+      "shortLabel": "文",
+      "contributor": "Laozi",
+      "role": "author",
+      "nature": "annotation",
+      "displayOrder": 0,
+      "enabled": true,
+      "annotations": []
+    },
+    {
+      "id": "wangbi",
+      "label": "王弼註",
+      "shortLabel": "王",
+      "contributor": "C001",
+      "role": "commentator",
+      "nature": "commentary",
+      "displayOrder": 1,
+      "enabled": true,
+      "annotations": [
+        {
+          "id": "wangbi-1",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 16
+          },
+          "kind": "semantic",
+          "text": "大道廢棄，則有仁義。智慧顯露，則有大偽。六親不和，則有孝慈。國家昏亂，則有忠臣。皆非自然之道。",
+          "source": "cham"
+        }
+      ]
+    },
+    {
+      "id": "hesonggong",
+      "label": "河上公註",
+      "shortLabel": "河",
+      "contributor": "C002",
+      "role": "commentator",
+      "nature": "commentary",
+      "displayOrder": 2,
+      "enabled": true,
+      "annotations": [
+        {
+          "id": "hesonggong-1",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 16
+          },
+          "kind": "semantic",
+          "text": "大道廢，案：大道在無為。有仁義，案：謂人為巧詐。智慧出，案：智慧多令人無質樸。有大偽，案：詐偽生。六親不和，案：謂父子兄弟夫婦。有孝慈，案：孝慈生。國家昏亂，案：謂君臣不明。有忠臣，案：忠臣生。",
+          "source": "cham"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "textRef": "laozi",
+    "relation": "section"
+  }
+}

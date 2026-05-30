@@ -1,0 +1,402 @@
+{
+  "bookId": "skqs-difan",
+  "num": 10,
+  "title": "崇儉第八",
+  "author": "李世民",
+  "authorId": "唐太宗",
+  "dynasty": "唐",
+  "era": "唐",
+  "eraCode": "24",
+  "genre": "prose",
+  "verses": [
+    {
+      "text": ""
+    },
+    {
+      "text": "夫聖世之君存乎節儉富貴廣大守之以約睿智聰明守之以愚不以身尊而驕人不以徳厚而矜物茅茨不剪采椽不斵舟車不飾衣服無文土堦不崇大羮不和非憎榮而惡味乃處薄而行儉故風淳俗朴比屋可封斯二者榮辱之端奢儉由人安危在己五闗近閉則嘉命逺盈千慾内攻則㐫源外發是以丹桂抱蠧終摧榮耀之芳朱火含煙遂鬱凌雲之焰以是知驕出於志不節則志傾慾生於心不遏則身䘮故桀紂肆情而禍結堯舜約己而福延可不務乎"
+    }
+  ],
+  "sections": {},
+  "annotations": [],
+  "layers": {
+    "commentary": [
+      {
+        "id": "commentary-1",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 0
+        },
+        "kind": "semantic",
+        "text": "夫儉者去奢從約之謂豐國富民之本也考諸今古創業垂統之君莫不以儉約而興敗國䘮身之主莫不以奢侈而亡其興亡成敗載諸簡册昭昭然可為鑒矣故太宗以儉居戒盈之先豈無意哉雖然儉固近於吝矣儉不中禮是為吝也雖有周公才美驕吝猶不足觀况其他乎此所以蜉蝣刺其好奢蟋蟀刺不中禮也然則其何以行之哉曰語不云乎菲飲食而致孝乎鬼神惡衣服而致美乎黻冕卑宫室而盡力乎溝洫此是眀王之盛徳至聖之格言依而行之吾無間然矣",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-2",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 0,
+          "end": 12
+        },
+        "kind": "semantic",
+        "text": "史記曰治國之道富民為始富民之要在於節儉又詩之葛覃謂后妃之本躬儉節用化天下以婦道后妃猶能以節儉化天下而况其聖世之君乎節者不傷財不害民之謂也",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-3",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 12,
+          "end": 20
+        },
+        "kind": "semantic",
+        "text": "孔子曰以約失之者鮮矣夫富有四海貴為天子此乃富貴廣大之極矣若不守之以約未有不失之者也文子曰富貴廣大守之以狹亦從約義",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-4",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 20,
+          "end": 28
+        },
+        "kind": "semantic",
+        "text": "中庸曰唯天下至聖為能聰明睿知足以有臨也以是知古之聖王冕而前旒所以蔽明黈纊充耳所以塞聰眀所不見聰所不聞非自壅遏也防閑其滛聲䜛語好色竒玩以亂其耳目也老子曰君子以盛徳容貌若愚亦此意也又文子曰聰眀廣智守之以愚",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-5",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 28,
+          "end": 35
+        },
+        "kind": "collation",
+        "text": "魏太子撃謂田子方曰貧賤者驕人乎富貴者驕人乎子方曰貧賤者驕人耳富貴者安敢驕人人主驕人而亡其國吾未見以國待亡者也貧賤者若不得意納履而去安徃而不得貧賤貧賤者驕人富貴者安敢驕人○按說苑貧賤作貧窮安徃而不得下有貧窮乎三字",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-6",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 35,
+          "end": 42
+        },
+        "kind": "semantic",
+        "text": "繋辭曰勞謙君子有終吉子曰勞而不伐有功而不徳厚之至也矜伐也老子曰盛徳若不足古昔聖賢進徳脩業以務滋崇豈敢矜物乎",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-7",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 42,
+          "end": 50
+        },
+        "kind": "semantic",
+        "text": "墨子曰堯舜徳行茅茨不剪采椽不斵師古曰屋盖曰茅茨茨以覆居也采亦作棌柞木也",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-8",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 50,
+          "end": 54
+        },
+        "kind": "semantic",
+        "text": "白氏六帖曰門閭舟車不飾儉也",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-9",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 54,
+          "end": 58
+        },
+        "kind": "semantic",
+        "text": "東方朔曰衣緼無文語曰惡衣服又禮曰節醜其衣服皆言不用文繡也",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-10",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 58,
+          "end": 62
+        },
+        "kind": "semantic",
+        "text": "墨子曰堯舜堂髙三尺土堦三等故不髙也堦陛也",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-11",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 62,
+          "end": 66
+        },
+        "kind": "semantic",
+        "text": "禮器曰有以素為貴者大圭不琢大羮不和疏云大羮肉汁也不和無鹽梅也太古初變腥但煮肉而飲其汁未知調和後人祭必重古故但盛肉汁謂之大羮不和已上六事皆言上古明王崇儉也如此",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-12",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 66,
+          "end": 78
+        },
+        "kind": "semantic",
+        "text": "言聖人如此質素非是憎嫌榮華鄙惡甘美也乃欲居以淡薄施以節儉以身為天下先然後其教不嚴而治不令而行也",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-13",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 78,
+          "end": 83
+        },
+        "kind": "semantic",
+        "text": "說文曰上以化下曰風下以習上曰俗淳厚也朴實也",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-14",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 83,
+          "end": 87
+        },
+        "kind": "fanqie",
+        "text": "史記曰堯舜之民比屋可封此云聖世之君躬行節儉以化民下觀而化相習崇儉故家給人足禮義生矣然後尊卑之序得骨肉之恩親争訟之原息如此則家稷契而人臯陶故辟止刑錯比屋可封也比屋者周禮地官曰五家為比有九比之數小司徒掌之六卿大夫於正月之吉受教法於司徒退而頒之于其鄉吏使各以教其所治以考其徳行察其道藝三年則大比考其徳行道藝而興其賢者能者鄉老及鄉大夫帥其吏與其衆寡以禮禮賔之厥明鄉老及鄉大夫羣吏獻賢能之書於王王再拜受之登於天府内史貳之此謂使民興賢出使長之使民興能入使治之比聨比而居也　比毗至反",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-15",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 87,
+          "end": 94
+        },
+        "kind": "semantic",
+        "text": "二者謂奢儉也",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-16",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 94,
+          "end": 102
+        },
+        "kind": "semantic",
+        "text": "奢侈則危節儉則安猶聲響形影未甞相逺也行其儉其身必安行其奢其身必危故云由人在己",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-17",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 102,
+          "end": 111
+        },
+        "kind": "semantic",
+        "text": "劉子曰將收情慾先歛五闗五闗者情慾之路嗜好之府也目愛綵色命曰伐性之斤耳樂滛聲命曰攻心之鼓口貪滋味命曰腐腸之藥鼻恱芬馨命曰燻喉之煙身安轝駟命曰召蹶之機此五者所以養生亦所以傷生言當收斂而閉之庶得夀命嘉言逺而不損耳",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-18",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 111,
+          "end": 120
+        },
+        "kind": "fanqie",
+        "text": "劉子曰身之有慾猶樹之有蝎樹抱蝎則還自鑿身抱慾則反自害故蝎盛則木折慾熾則身亡故云㐫源蝎食木蟲猶蠧也",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-19",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 120,
+          "end": 132
+        },
+        "kind": "collation",
+        "text": "拾遺記曰岱輿一名浮折北有玉梁千丈駕元流之上峯傍有丹桂唐藝文類聚曰桂蠧不知所淹留兮又漢書南越尉佗貢桂蠧一器蠧食木之蟲也○按拾遺記無一名浮折四字注誤",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-20",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 132,
+          "end": 142
+        },
+        "kind": "fanqie",
+        "text": "蔡邕釋誨曰懼煙炎之毁熸何光芒之敢揚哉煙炎火之微細者言常懼微細以致毁㓕杜預注左傳曰吳楚之間謂火㓕為熸音子㢘反炎音焰言桂蠧雖小終損榮芳火煙雖微必滯光焰鬱幽也滯也又鬱遏鬱悒鬱結鬱鬱皆言不得仲之意也",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-21",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 142,
+          "end": 163
+        },
+        "kind": "semantic",
+        "text": "言志之出驕猶桂之抱蠧心之生慾猶火之含煙若不防微杜漸節遏其驕慾必至於志傾身䘮也",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-22",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 163,
+          "end": 165
+        },
+        "kind": "semantic",
+        "text": "夏王號謚法曰賊人多殺曰桀",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-23",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 165,
+          "end": 166
+        },
+        "kind": "semantic",
+        "text": "殷王號謚法曰殘義損善曰紂",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-24",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 166,
+          "end": 171
+        },
+        "kind": "semantic",
+        "text": "言桀紂之君縱肆情意焚炙忠良刳剔孕婦斮朝渉之脛剖賢人之心積酒成池屯肉為林置炮烙之刑行長夜之飲作竒技滛巧以恱婦人殘賊暴虐湯武興矣故曰禍結也",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-25",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 171,
+          "end": 172
+        },
+        "kind": "semantic",
+        "text": "唐帝號謚法曰翼善傳聖曰堯",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-26",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 172,
+          "end": 173
+        },
+        "kind": "semantic",
+        "text": "虞帝號謚法曰仁聖盛眀曰舜",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-27",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 173,
+          "end": 178
+        },
+        "kind": "semantic",
+        "text": "謂堯舜恭己無為儉約是務是以太平之福延長也",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-28",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 178,
+          "end": 179
+        },
+        "kind": "semantic",
+        "text": "桀紂所以亡謂不能節遏驕慾也堯舜所以興謂其躬行儉約也一戒一法可不務為儉約乎",
+        "source": "cham"
+      }
+    ]
+  },
+  "annotationLayers": [
+    {
+      "id": "default",
+      "label": "原文",
+      "shortLabel": "文",
+      "contributor": "唐太宗",
+      "role": "author",
+      "nature": "annotation",
+      "displayOrder": 0,
+      "enabled": true,
+      "annotations": []
+    }
+  ]
+}

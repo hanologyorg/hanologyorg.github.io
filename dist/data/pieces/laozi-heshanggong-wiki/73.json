@@ -1,0 +1,395 @@
+{
+  "bookId": "laozi-heshanggong-wiki",
+  "num": 73,
+  "title": "第七十三章（任為）",
+  "author": "老子",
+  "authorId": "Laozi",
+  "dynasty": "周",
+  "era": "周",
+  "genre": "prose",
+  "verses": [
+    {
+      "text": "勇於敢則殺，"
+    },
+    {
+      "text": "勇於不敢則活。"
+    },
+    {
+      "text": "此兩者，"
+    },
+    {
+      "text": "或利或害，"
+    },
+    {
+      "text": "天之所惡。"
+    },
+    {
+      "text": "孰知其故？"
+    },
+    {
+      "text": "是以聖人猶難之。"
+    },
+    {
+      "text": "天之道，不爭而善勝，"
+    },
+    {
+      "text": "不言而善應，"
+    },
+    {
+      "text": "不召而自來，"
+    },
+    {
+      "text": "繟然而善謀。"
+    },
+    {
+      "text": "天網恢恢，踈而不失。"
+    }
+  ],
+  "sections": {},
+  "annotations": [],
+  "layers": {
+    "heshanggong": [
+      {
+        "id": "heshanggong-1",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 6
+        },
+        "kind": "commentary",
+        "text": "勇敢有為，則殺其身。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-2",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 0,
+          "end": 7
+        },
+        "kind": "commentary",
+        "text": "勇於不敢有為，則活其身。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-3",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 2,
+          "start": 0,
+          "end": 4
+        },
+        "kind": "commentary",
+        "text": "謂敢與不敢也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-4",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 3,
+          "start": 0,
+          "end": 5
+        },
+        "kind": "commentary",
+        "text": "活身為利，殺身為害。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-5",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 4,
+          "start": 0,
+          "end": 5
+        },
+        "kind": "commentary",
+        "text": "惡有為也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-6",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 5,
+          "start": 0,
+          "end": 5
+        },
+        "kind": "commentary",
+        "text": "誰能知天意之故而不犯？",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-7",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 6,
+          "start": 0,
+          "end": 8
+        },
+        "kind": "commentary",
+        "text": "言聖人之明德猶難於勇敢，況無聖人之德而欲行之乎？",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-8",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 7,
+          "start": 0,
+          "end": 10
+        },
+        "kind": "commentary",
+        "text": "天不與人爭貴賤，而人自畏之。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-9",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 8,
+          "start": 0,
+          "end": 6
+        },
+        "kind": "commentary",
+        "text": "天不言，萬物自動以應時。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-10",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 9,
+          "start": 0,
+          "end": 6
+        },
+        "kind": "commentary",
+        "text": "天不呼召，萬物皆負陰而向陽。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-11",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 10,
+          "start": 0,
+          "end": 6
+        },
+        "kind": "commentary",
+        "text": "繟，寬也。天道雖寬博，善謀慮人事，修善行惡，各蒙其報也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-12",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 11,
+          "start": 0,
+          "end": 10
+        },
+        "kind": "commentary",
+        "text": "天所網羅恢恢甚大，雖疏遠，司察人善惡，無有所失。",
+        "source": "cham"
+      }
+    ]
+  },
+  "annotationLayers": [
+    {
+      "id": "default",
+      "label": "原文",
+      "shortLabel": "文",
+      "contributor": "Laozi",
+      "role": "author",
+      "nature": "annotation",
+      "displayOrder": 0,
+      "enabled": true,
+      "annotations": []
+    },
+    {
+      "id": "heshanggong",
+      "label": "河上公註",
+      "shortLabel": "河",
+      "contributor": "C002",
+      "role": "commentator",
+      "nature": "commentary",
+      "displayOrder": 1,
+      "enabled": true,
+      "annotations": [
+        {
+          "id": "heshanggong-1",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 6
+          },
+          "kind": "commentary",
+          "text": "勇敢有為，則殺其身。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-2",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 1,
+            "start": 0,
+            "end": 7
+          },
+          "kind": "commentary",
+          "text": "勇於不敢有為，則活其身。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-3",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 2,
+            "start": 0,
+            "end": 4
+          },
+          "kind": "commentary",
+          "text": "謂敢與不敢也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-4",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 3,
+            "start": 0,
+            "end": 5
+          },
+          "kind": "commentary",
+          "text": "活身為利，殺身為害。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-5",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 4,
+            "start": 0,
+            "end": 5
+          },
+          "kind": "commentary",
+          "text": "惡有為也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-6",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 5,
+            "start": 0,
+            "end": 5
+          },
+          "kind": "commentary",
+          "text": "誰能知天意之故而不犯？",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-7",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 6,
+            "start": 0,
+            "end": 8
+          },
+          "kind": "commentary",
+          "text": "言聖人之明德猶難於勇敢，況無聖人之德而欲行之乎？",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-8",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 7,
+            "start": 0,
+            "end": 10
+          },
+          "kind": "commentary",
+          "text": "天不與人爭貴賤，而人自畏之。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-9",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 8,
+            "start": 0,
+            "end": 6
+          },
+          "kind": "commentary",
+          "text": "天不言，萬物自動以應時。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-10",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 9,
+            "start": 0,
+            "end": 6
+          },
+          "kind": "commentary",
+          "text": "天不呼召，萬物皆負陰而向陽。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-11",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 10,
+            "start": 0,
+            "end": 6
+          },
+          "kind": "commentary",
+          "text": "繟，寬也。天道雖寬博，善謀慮人事，修善行惡，各蒙其報也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-12",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 11,
+            "start": 0,
+            "end": 10
+          },
+          "kind": "commentary",
+          "text": "天所網羅恢恢甚大，雖疏遠，司察人善惡，無有所失。",
+          "source": "cham"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "textRef": "laozi-heshanggong-wiki",
+    "relation": "section"
+  }
+}

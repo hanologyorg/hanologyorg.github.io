@@ -1,0 +1,180 @@
+{
+  "bookId": "laozi",
+  "num": 22,
+  "title": "第二十二章",
+  "author": "老子",
+  "authorId": "Laozi",
+  "dynasty": "周",
+  "era": "周",
+  "genre": "prose",
+  "verses": [
+    {
+      "text": "曲則全，枉則直，窪則盈，敝則新，少則得，多則惑。"
+    },
+    {
+      "text": "是以聖人抱一為天下式。"
+    },
+    {
+      "text": "不自見故明，不自是故彰，不自伐故有功，不自矜故長。"
+    },
+    {
+      "text": "夫唯不爭，故天下莫能與之爭。"
+    },
+    {
+      "text": "古之所謂曲則全者，豈虛言哉！誠全而歸之。"
+    }
+  ],
+  "sections": {},
+  "annotations": [],
+  "layers": {
+    "hesonggong": [
+      {
+        "id": "hesonggong-1",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 24
+        },
+        "kind": "semantic",
+        "text": "曲則全，枉則直，窪則盈，敝則新，少則得，多則惑。是以聖人抱一為天下式。",
+        "source": "cham"
+      },
+      {
+        "id": "hesonggong-2",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 2,
+          "start": 0,
+          "end": 25
+        },
+        "kind": "semantic",
+        "text": "不自見故明，不自是故彰，不自伐故有功，不自矜故長。夫唯不爭，故天下莫能與之爭。古之所謂曲則全者，豈虛言哉！誠全而歸之。",
+        "source": "cham"
+      }
+    ],
+    "wangbi": [
+      {
+        "id": "wangbi-1",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 24
+        },
+        "kind": "semantic",
+        "text": "曲全枉直，窪盈敝新，少得多惑，皆相反相成。聖人抱一為天下式。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-2",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 2,
+          "start": 0,
+          "end": 25
+        },
+        "kind": "semantic",
+        "text": "不自見故明，不自是故彰，不自伐故有功，不自矜故長。不爭故天下莫能與之爭。古之所謂曲則全者非虛言，誠能全而歸之。",
+        "source": "cham"
+      }
+    ]
+  },
+  "annotationLayers": [
+    {
+      "id": "default",
+      "label": "原文",
+      "shortLabel": "文",
+      "contributor": "Laozi",
+      "role": "author",
+      "nature": "annotation",
+      "displayOrder": 0,
+      "enabled": true,
+      "annotations": []
+    },
+    {
+      "id": "wangbi",
+      "label": "王弼註",
+      "shortLabel": "王",
+      "contributor": "C001",
+      "role": "commentator",
+      "nature": "commentary",
+      "displayOrder": 1,
+      "enabled": true,
+      "annotations": [
+        {
+          "id": "wangbi-1",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 24
+          },
+          "kind": "semantic",
+          "text": "曲全枉直，窪盈敝新，少得多惑，皆相反相成。聖人抱一為天下式。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-2",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 2,
+            "start": 0,
+            "end": 25
+          },
+          "kind": "semantic",
+          "text": "不自見故明，不自是故彰，不自伐故有功，不自矜故長。不爭故天下莫能與之爭。古之所謂曲則全者非虛言，誠能全而歸之。",
+          "source": "cham"
+        }
+      ]
+    },
+    {
+      "id": "hesonggong",
+      "label": "河上公註",
+      "shortLabel": "河",
+      "contributor": "C002",
+      "role": "commentator",
+      "nature": "commentary",
+      "displayOrder": 2,
+      "enabled": true,
+      "annotations": [
+        {
+          "id": "hesonggong-1",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 24
+          },
+          "kind": "semantic",
+          "text": "曲則全，枉則直，窪則盈，敝則新，少則得，多則惑。是以聖人抱一為天下式。",
+          "source": "cham"
+        },
+        {
+          "id": "hesonggong-2",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 2,
+            "start": 0,
+            "end": 25
+          },
+          "kind": "semantic",
+          "text": "不自見故明，不自是故彰，不自伐故有功，不自矜故長。夫唯不爭，故天下莫能與之爭。古之所謂曲則全者，豈虛言哉！誠全而歸之。",
+          "source": "cham"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "textRef": "laozi",
+    "relation": "section"
+  }
+}

@@ -1,0 +1,163 @@
+{
+  "bookId": "laozi-heshanggong-wiki",
+  "num": 18,
+  "title": "第十八章（俗薄）",
+  "author": "老子",
+  "authorId": "Laozi",
+  "dynasty": "周",
+  "era": "周",
+  "genre": "prose",
+  "verses": [
+    {
+      "text": "大道廢，有仁義。"
+    },
+    {
+      "text": "智慧出，有大偽。"
+    },
+    {
+      "text": "六親不和，有孝慈。"
+    },
+    {
+      "text": "國家昏亂，有忠臣。"
+    }
+  ],
+  "sections": {},
+  "annotations": [],
+  "layers": {
+    "heshanggong": [
+      {
+        "id": "heshanggong-1",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 8
+        },
+        "kind": "commentary",
+        "text": "大道之時，家有孝子，戶有忠信，仁義不見也。大道廢不用，惡逆生，乃有仁義可傳道。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-2",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 0,
+          "end": 8
+        },
+        "kind": "commentary",
+        "text": "智慧之君賤德而貴言，賤質而貴文，下則應之以為大偽姦詐。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-3",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 2,
+          "start": 0,
+          "end": 9
+        },
+        "kind": "commentary",
+        "text": "六紀絕，親戚不合，乃有孝慈相牧養也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-4",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 3,
+          "start": 0,
+          "end": 9
+        },
+        "kind": "commentary",
+        "text": "政令不明，上下相怨，邪僻爭權，乃有忠臣匡正其君也。此言天下太平不知仁，人盡無欲不知廉，各自潔己不知貞。大道之世，仁義沒，孝慈滅，猶日中盛明，眾星失光。",
+        "source": "cham"
+      }
+    ]
+  },
+  "annotationLayers": [
+    {
+      "id": "default",
+      "label": "原文",
+      "shortLabel": "文",
+      "contributor": "Laozi",
+      "role": "author",
+      "nature": "annotation",
+      "displayOrder": 0,
+      "enabled": true,
+      "annotations": []
+    },
+    {
+      "id": "heshanggong",
+      "label": "河上公註",
+      "shortLabel": "河",
+      "contributor": "C002",
+      "role": "commentator",
+      "nature": "commentary",
+      "displayOrder": 1,
+      "enabled": true,
+      "annotations": [
+        {
+          "id": "heshanggong-1",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 8
+          },
+          "kind": "commentary",
+          "text": "大道之時，家有孝子，戶有忠信，仁義不見也。大道廢不用，惡逆生，乃有仁義可傳道。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-2",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 1,
+            "start": 0,
+            "end": 8
+          },
+          "kind": "commentary",
+          "text": "智慧之君賤德而貴言，賤質而貴文，下則應之以為大偽姦詐。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-3",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 2,
+            "start": 0,
+            "end": 9
+          },
+          "kind": "commentary",
+          "text": "六紀絕，親戚不合，乃有孝慈相牧養也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-4",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 3,
+            "start": 0,
+            "end": 9
+          },
+          "kind": "commentary",
+          "text": "政令不明，上下相怨，邪僻爭權，乃有忠臣匡正其君也。此言天下太平不知仁，人盡無欲不知廉，各自潔己不知貞。大道之世，仁義沒，孝慈滅，猶日中盛明，眾星失光。",
+          "source": "cham"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "textRef": "laozi-heshanggong-wiki",
+    "relation": "section"
+  }
+}

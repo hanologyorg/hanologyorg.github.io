@@ -1,0 +1,138 @@
+{
+  "bookId": "primary",
+  "num": 86,
+  "title": "宿新市徐公店",
+  "author": "楊萬里",
+  "authorId": "A043",
+  "dynasty": "宋",
+  "era": "宋",
+  "genre": "poetry",
+  "verses": [
+    {
+      "text": "籬落疏疏一徑深，樹頭花落未成陰。"
+    },
+    {
+      "text": "兒童急走追黃蝶，飛入菜花無處尋。"
+    }
+  ],
+  "sections": {
+    "analysis": "這首詩將農村日常生活裏見到的平凡事物，稍加點染，繪成一幅妙趣橫生的「兒童撲蝶圖」。\n\n籬笆疏疏落落，一條小徑向遠處伸延。樹上杏花、桃花，以及各種春天早開的花兒已經凋謝了，枝條上新長出來的綠葉，還沒有形成濃密的樹蔭。調皮的孩子在奔跑，追趕着那黃色的蝴蝶。蝶兒偏偏飛進那一片金黃色的菜花田中，孩子再也找不到了。\n\n前兩句淡淡幾筆，很有層次地描繪出春末夏初農村景物的特徵：在低處，疏落的籬笆、小徑，由近處伸延到遠處；在高處，樹枝上長出的新葉還不很繁茂。「樹頭花落未成陰」，是初夏樹木生長的特點，詩人必經過細緻的觀察，才能對自然景物作出這樣真切的描繪。在這靜物寫生的基礎上，畫面中出現了人物，還有動態：孩童天真爛漫地追撲蝴蝶。詩的後兩句，既寫出了兒童的活潑可愛，也以菜花一片金黃的眩目色彩，進一步渲染了農村景色的和諧、美好。\n\n楊萬里善於發掘日常生活中的詩意，捕捉瞬間的新鮮感受，渲染平凡事物中的情趣，不假藻飾，不避俗語，跳脫活潑，寫成一幅幅清新雋永的小品。這首詩正顯示了「誠齋體」的特色。",
+    "preparation": "1.瀏覽教育多媒體網頁：《古典詩歌集‧宿新市徐公店》(7:54-8:19) https://emm.edcity.hk/media/%E5%8F%A4%E5%85%B8%E8%A9%A9%E6%AD%8C%E9%9B%86/0_9hv7tntu/172368842\n\n2.請學生帶一幀在郊遊時拍的照片回校，與同學分享：-照片中景物的特色-當時的心情或感受，如輕鬆、悠閒、愉悅……\n\n3.聆聽誦讀錄音，配合適當的動作，有感情地朗讀詩歌。https://www.edb.gov.hk/attachment/tc/curriculum-development/kla/chi-edu/resources/primary/lang/jilei/086_jilei_shi(cantonese).mp3",
+    "think_questions": "1.若有機會讓你在鄉村生活一星期，你會樂意接受這生活體驗嗎？為甚麼？\n\n2.農村小孩的玩意跟你的有甚麼不同？你喜歡他們的玩意兒嗎？為甚麼？\n\n3.看見翩翩起舞的蝴蝶，你會想到些甚麼？",
+    "annotations": "1.宿：地名。。客店名。\n2.籬落：籬笆。\n3.疏疏：稀疏的樣子。\n4.一徑深：一條通往幽深之處的小路。\n5.陰：樹葉茂盛濃密。\n6.急走：奔跑着。"
+  },
+  "annotations": [
+    {
+      "id": "86-1",
+      "range": {
+        "type": "range",
+        "scope": "title",
+        "start": 0,
+        "end": 1
+      },
+      "kind": "semantic",
+      "text": "地名。",
+      "source": "cham"
+    },
+    {
+      "id": "86-2",
+      "range": {
+        "type": "range",
+        "scope": "title",
+        "start": 0,
+        "end": 1
+      },
+      "kind": "semantic",
+      "text": "客店名。",
+      "source": "cham"
+    },
+    {
+      "id": "86-3",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 0,
+        "end": 2
+      },
+      "kind": "semantic",
+      "text": "籬笆。",
+      "source": "cham"
+    },
+    {
+      "id": "86-4",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 2,
+        "end": 4
+      },
+      "kind": "semantic",
+      "text": "稀疏的樣子。",
+      "source": "cham"
+    },
+    {
+      "id": "86-5",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 4,
+        "end": 7
+      },
+      "kind": "semantic",
+      "text": "一條通往幽深之處的小路。",
+      "source": "cham"
+    },
+    {
+      "id": "86-6",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 14,
+        "end": 15
+      },
+      "kind": "semantic",
+      "text": "樹葉茂盛濃密。",
+      "source": "cham"
+    },
+    {
+      "id": "86-7",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 1,
+        "start": 2,
+        "end": 4
+      },
+      "kind": "semantic",
+      "text": "奔跑着。",
+      "source": "cham"
+    }
+  ],
+  "structuredSections": [
+    {
+      "key": "analysis",
+      "title": "賞析",
+      "filename": "analysis.md",
+      "body": "這首詩將農村日常生活裏見到的平凡事物，稍加點染，繪成一幅妙趣橫生的「兒童撲蝶圖」。\n\n籬笆疏疏落落，一條小徑向遠處伸延。樹上杏花、桃花，以及各種春天早開的花兒已經凋謝了，枝條上新長出來的綠葉，還沒有形成濃密的樹蔭。調皮的孩子在奔跑，追趕着那黃色的蝴蝶。蝶兒偏偏飛進那一片金黃色的菜花田中，孩子再也找不到了。\n\n前兩句淡淡幾筆，很有層次地描繪出春末夏初農村景物的特徵：在低處，疏落的籬笆、小徑，由近處伸延到遠處；在高處，樹枝上長出的新葉還不很繁茂。「樹頭花落未成陰」，是初夏樹木生長的特點，詩人必經過細緻的觀察，才能對自然景物作出這樣真切的描繪。在這靜物寫生的基礎上，畫面中出現了人物，還有動態：孩童天真爛漫地追撲蝴蝶。詩的後兩句，既寫出了兒童的活潑可愛，也以菜花一片金黃的眩目色彩，進一步渲染了農村景色的和諧、美好。\n\n楊萬里善於發掘日常生活中的詩意，捕捉瞬間的新鮮感受，渲染平凡事物中的情趣，不假藻飾，不避俗語，跳脫活潑，寫成一幅幅清新雋永的小品。這首詩正顯示了「誠齋體」的特色。",
+      "order": 3
+    },
+    {
+      "key": "think_questions",
+      "title": "思考問題",
+      "filename": "think-questions.md",
+      "body": "1.若有機會讓你在鄉村生活一星期，你會樂意接受這生活體驗嗎？為甚麼？\n\n2.農村小孩的玩意跟你的有甚麼不同？你喜歡他們的玩意兒嗎？為甚麼？\n\n3.看見翩翩起舞的蝴蝶，你會想到些甚麼？",
+      "order": 5
+    },
+    {
+      "key": "preparation",
+      "title": "教學準備",
+      "filename": "preparation.md",
+      "body": "1.瀏覽教育多媒體網頁：《古典詩歌集‧宿新市徐公店》(7:54-8:19) https://emm.edcity.hk/media/%E5%8F%A4%E5%85%B8%E8%A9%A9%E6%AD%8C%E9%9B%86/0_9hv7tntu/172368842\n\n2.請學生帶一幀在郊遊時拍的照片回校，與同學分享：-照片中景物的特色-當時的心情或感受，如輕鬆、悠閒、愉悅……\n\n3.聆聽誦讀錄音，配合適當的動作，有感情地朗讀詩歌。https://www.edb.gov.hk/attachment/tc/curriculum-development/kla/chi-edu/resources/primary/lang/jilei/086_jilei_shi(cantonese).mp3",
+      "order": 6
+    }
+  ]
+}

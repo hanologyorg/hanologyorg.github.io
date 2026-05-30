@@ -1,0 +1,163 @@
+{
+  "bookId": "laozi-wangbi-wiki",
+  "num": 47,
+  "title": "第四十七章",
+  "author": "老子",
+  "authorId": "Laozi",
+  "dynasty": "周",
+  "era": "周",
+  "genre": "prose",
+  "verses": [
+    {
+      "text": "不出戶，知天下；不闚牖，見天道。"
+    },
+    {
+      "text": "其出彌遠，其知彌少。"
+    },
+    {
+      "text": "是以聖人不行而知，不見而名，"
+    },
+    {
+      "text": "不為而成。"
+    }
+  ],
+  "sections": {},
+  "annotations": [],
+  "layers": {
+    "wangbi": [
+      {
+        "id": "wangbi-1",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 16
+        },
+        "kind": "commentary",
+        "text": "事有宗，而物有主，途雖殊而同歸也，慮雖百而其致一也。道有大常，理有大致，執古之道，可以御今，雖處於今，可以知古始，故不出戶闚牖而可知也。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-2",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 0,
+          "end": 10
+        },
+        "kind": "commentary",
+        "text": "無在於一，而求之於眾也，道視之不可見，聽之不可聞，搏之不可得，如其知之，不須出戶，若其不知，出愈遠愈迷也。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-3",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 2,
+          "start": 0,
+          "end": 14
+        },
+        "kind": "commentary",
+        "text": "得物之致，故雖不行而慮可知也。識物之宗，故雖不見，而是非之理可得而名也。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-4",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 3,
+          "start": 0,
+          "end": 5
+        },
+        "kind": "commentary",
+        "text": "明物之性，因之而已。故雖不為而使之成矣。",
+        "source": "cham"
+      }
+    ]
+  },
+  "annotationLayers": [
+    {
+      "id": "default",
+      "label": "原文",
+      "shortLabel": "文",
+      "contributor": "Laozi",
+      "role": "author",
+      "nature": "annotation",
+      "displayOrder": 0,
+      "enabled": true,
+      "annotations": []
+    },
+    {
+      "id": "wangbi",
+      "label": "王弼註",
+      "shortLabel": "王",
+      "contributor": "C001",
+      "role": "commentator",
+      "nature": "commentary",
+      "displayOrder": 1,
+      "enabled": true,
+      "annotations": [
+        {
+          "id": "wangbi-1",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 16
+          },
+          "kind": "commentary",
+          "text": "事有宗，而物有主，途雖殊而同歸也，慮雖百而其致一也。道有大常，理有大致，執古之道，可以御今，雖處於今，可以知古始，故不出戶闚牖而可知也。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-2",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 1,
+            "start": 0,
+            "end": 10
+          },
+          "kind": "commentary",
+          "text": "無在於一，而求之於眾也，道視之不可見，聽之不可聞，搏之不可得，如其知之，不須出戶，若其不知，出愈遠愈迷也。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-3",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 2,
+            "start": 0,
+            "end": 14
+          },
+          "kind": "commentary",
+          "text": "得物之致，故雖不行而慮可知也。識物之宗，故雖不見，而是非之理可得而名也。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-4",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 3,
+            "start": 0,
+            "end": 5
+          },
+          "kind": "commentary",
+          "text": "明物之性，因之而已。故雖不為而使之成矣。",
+          "source": "cham"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "textRef": "laozi-wangbi-wiki",
+    "relation": "section"
+  }
+}

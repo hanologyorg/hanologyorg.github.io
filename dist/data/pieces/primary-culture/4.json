@@ -1,0 +1,134 @@
+{
+  "bookId": "primary-culture",
+  "num": 4,
+  "title": "誨學（家誡）",
+  "author": "諸葛亮",
+  "authorId": "A167",
+  "dynasty": "三國",
+  "era": "三國",
+  "genre": "prose",
+  "verses": [
+    {
+      "text": "玉不琢，不成器，人不學，不知道。然玉之為物，有不變之常德，雖不琢以為器，而猶不害為玉也；人之性，因物則遷，不學，則捨君子而為小人，可不念哉？"
+    }
+  ],
+  "sections": {
+    "analysis": "儒家提出學習可使人通達明理，培養君子情操。本文把人的品性與玉的本質作對比，說明學習對人的重要。人擁有天賦才能，就像玉一樣天生珍貴，不同的是玉「有不變之常德」，即使不經雕琢，仍無損玉質；然而人的品性會「因物則遷」，受外物影響而變化。如果人不學習，就不知道做人的道理，也就不可能成為擁有高尚品格的君子，等而下之，甚或變成品格低下的小人，或為非作歹的壞人，所以我們需要時刻警惕自己，努力學習，以保持人的善性。歐陽修透過此文，勸勉我們好好學習，做一個明理、造福社會的君子。\n\n人在成長的過程中，不斷受到誘惑、挑戰，沒有別人的教導和提點，未必知道對錯。通過學習，我們就學會如何辨別是非善惡，知所取捨，改過遷善。",
+    "annotations": "1.不知道：「玉不琢」四句：原出《禮記‧學記》。意思是璞玉不經琢磨，不會成為貴重的玉器。人沒有受過教育，不會明白道理。\n2.不變之常德：恆常不變的本質。\n3.害：損害。\n4.性：品性。\n5.因物則遷：隨着外部環境改變。\n6.捨：放棄。\n7.可：這裏表示反問，難道可以的意思。\n8.念：考慮，反省。"
+  },
+  "annotations": [
+    {
+      "id": "4-1",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 12,
+        "end": 15
+      },
+      "kind": "semantic",
+      "text": "「玉不琢」四句：原出《禮記‧學記》。意思是璞玉不經琢磨，不會成為貴重的玉器。人沒有受過教育，不會明白道理。",
+      "source": "cham"
+    },
+    {
+      "id": "4-2",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 23,
+        "end": 28
+      },
+      "kind": "semantic",
+      "text": "恆常不變的本質。",
+      "source": "cham"
+    },
+    {
+      "id": "4-3",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 39,
+        "end": 40
+      },
+      "kind": "semantic",
+      "text": "損害。",
+      "source": "cham"
+    },
+    {
+      "id": "4-4",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 46,
+        "end": 47
+      },
+      "kind": "semantic",
+      "text": "品性。",
+      "source": "cham"
+    },
+    {
+      "id": "4-5",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 48,
+        "end": 52
+      },
+      "kind": "semantic",
+      "text": "隨着外部環境改變。",
+      "source": "cham"
+    },
+    {
+      "id": "4-6",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 57,
+        "end": 58
+      },
+      "kind": "semantic",
+      "text": "放棄。",
+      "source": "cham"
+    },
+    {
+      "id": "4-7",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 65,
+        "end": 66
+      },
+      "kind": "semantic",
+      "text": "這裏表示反問，難道可以的意思。",
+      "source": "cham"
+    },
+    {
+      "id": "4-8",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 67,
+        "end": 68
+      },
+      "kind": "semantic",
+      "text": "考慮，反省。",
+      "source": "cham"
+    }
+  ],
+  "structuredSections": [
+    {
+      "key": "analysis",
+      "title": "賞析",
+      "filename": "analysis.md",
+      "body": "儒家提出學習可使人通達明理，培養君子情操。本文把人的品性與玉的本質作對比，說明學習對人的重要。人擁有天賦才能，就像玉一樣天生珍貴，不同的是玉「有不變之常德」，即使不經雕琢，仍無損玉質；然而人的品性會「因物則遷」，受外物影響而變化。如果人不學習，就不知道做人的道理，也就不可能成為擁有高尚品格的君子，等而下之，甚或變成品格低下的小人，或為非作歹的壞人，所以我們需要時刻警惕自己，努力學習，以保持人的善性。歐陽修透過此文，勸勉我們好好學習，做一個明理、造福社會的君子。\n\n人在成長的過程中，不斷受到誘惑、挑戰，沒有別人的教導和提點，未必知道對錯。通過學習，我們就學會如何辨別是非善惡，知所取捨，改過遷善。",
+      "order": 3
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "bookId": "shengui",
+  "num": 7,
+  "title": "章第六·誠信",
+  "author": "武曌",
+  "authorId": "C004",
+  "dynasty": "唐",
+  "era": "唐",
+  "eraCode": "24",
+  "genre": "prose",
+  "verses": [
+    {
+      "text": "夫誠信者，萬事之本也。君臣之際，不可以不信。信之為道也，猶車之有轅，舟之有楫。"
+    },
+    {
+      "text": "是故人臣之於君也，言必信，行必果。口不言非，身不蹈邪。上下相信，則國治；上下相疑，則國亂。"
+    },
+    {
+      "text": "昔季布一諾，重於千金。"
+    },
+    {
+      "text": "侯嬴一言，重於九鼎。"
+    },
+    {
+      "text": "此皆古之信士，言出必行，行出必果。"
+    },
+    {
+      "text": "故曰：人而無信，不知其可也。大車無輗，小車無軏，其何以行之哉？"
+    },
+    {
+      "text": "夫信之為德也，在於不欺。不欺暗室，不欺屋漏。如是而後可謂誠信矣。"
+    }
+  ],
+  "sections": {
+    "annotations": "1.車之有轅：車子的轅木，喻不可或缺之根本。\n2.季布：楚漢時人，以守信著稱。時人諺云：「得黃金百斤，不如得季布一諾。」見《史記·季布列傳》。\n3.侯嬴：戰國時魏國隱士，為信陵君門客。以守諾獻計而自剄。見《史記·魏公子列傳》。"
+  },
+  "annotations": [
+    {
+      "id": "7-1",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 29,
+        "end": 33
+      },
+      "kind": "semantic",
+      "text": "車子的轅木，喻不可或缺之根本。",
+      "source": "cham"
+    },
+    {
+      "id": "7-2",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 2,
+        "start": 1,
+        "end": 3
+      },
+      "kind": "person",
+      "text": "楚漢時人，以守信著稱。時人諺云：「得黃金百斤，不如得季布一諾。」見《史記·季布列傳》。",
+      "source": "cham"
+    },
+    {
+      "id": "7-3",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 3,
+        "start": 0,
+        "end": 2
+      },
+      "kind": "person",
+      "text": "戰國時魏國隱士，為信陵君門客。以守諾獻計而自剄。見《史記·魏公子列傳》。",
+      "source": "cham"
+    }
+  ],
+  "annotationLayers": [
+    {
+      "id": "default",
+      "label": "原文",
+      "shortLabel": "文",
+      "contributor": "C004",
+      "role": "author",
+      "nature": "annotation",
+      "displayOrder": 0,
+      "enabled": true,
+      "annotations": []
+    },
+    {
+      "id": "commentary",
+      "label": "注",
+      "shortLabel": "注",
+      "contributor": "C011",
+      "role": "commentator",
+      "nature": "commentary",
+      "displayOrder": 1,
+      "enabled": true,
+      "annotations": []
+    }
+  ],
+  "source": {
+    "textRef": "shengui",
+    "relation": "section"
+  }
+}

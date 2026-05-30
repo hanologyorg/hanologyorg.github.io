@@ -1,0 +1,569 @@
+{
+  "bookId": "heshanggong-laozi",
+  "num": 67,
+  "title": "第六十七章（三寶）",
+  "author": "老子",
+  "authorId": "Laozi",
+  "dynasty": "周",
+  "era": "周",
+  "genre": "prose",
+  "verses": [
+    {
+      "text": "天下皆謂我道大，似不肖。"
+    },
+    {
+      "text": "夫唯大，故似不肖，"
+    },
+    {
+      "text": "若肖久矣。"
+    },
+    {
+      "text": "其細也夫。"
+    },
+    {
+      "text": "我有三寶，持而保之。"
+    },
+    {
+      "text": "一曰慈，"
+    },
+    {
+      "text": "二曰儉，"
+    },
+    {
+      "text": "三曰不敢為天下先。"
+    },
+    {
+      "text": "慈故能勇，"
+    },
+    {
+      "text": "儉故能廣，"
+    },
+    {
+      "text": "不敢為天下先，"
+    },
+    {
+      "text": "故能成器長。"
+    },
+    {
+      "text": "今舍慈且勇，"
+    },
+    {
+      "text": "舍儉且廣，"
+    },
+    {
+      "text": "舍後且先，"
+    },
+    {
+      "text": "死矣！"
+    },
+    {
+      "text": "夫慈以戰則勝，以守則固。"
+    },
+    {
+      "text": "天將救之，以慈衛之。"
+    }
+  ],
+  "sections": {},
+  "annotations": [],
+  "layers": {
+    "heshanggong": [
+      {
+        "id": "heshanggong-1",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 12
+        },
+        "kind": "commentary",
+        "text": "老子言：天下謂我德大，我則佯愚似不肖。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-2",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 0,
+          "end": 9
+        },
+        "kind": "commentary",
+        "text": "唯獨名德大者為身害，故佯愚似若不肖。無所分別，無所割截，不賤人而自責。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-3",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 2,
+          "start": 0,
+          "end": 5
+        },
+        "kind": "commentary",
+        "text": "肖，善也。謂辨惠也。若大辨惠之人，身高自貴行察察之政所從來久矣。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-4",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 3,
+          "start": 0,
+          "end": 5
+        },
+        "kind": "commentary",
+        "text": "言辨惠者唯如小人，非長者。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-5",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 4,
+          "start": 0,
+          "end": 10
+        },
+        "kind": "commentary",
+        "text": "老子言：我有三寶，抱持而保倚。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-6",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 5,
+          "start": 0,
+          "end": 4
+        },
+        "kind": "commentary",
+        "text": "愛百姓若赤子。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-7",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 6,
+          "start": 0,
+          "end": 4
+        },
+        "kind": "commentary",
+        "text": "賦歛若取之於己也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-8",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 7,
+          "start": 0,
+          "end": 9
+        },
+        "kind": "commentary",
+        "text": "執謙退，不為倡始也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-9",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 8,
+          "start": 0,
+          "end": 5
+        },
+        "kind": "commentary",
+        "text": "以慈仁，故能勇於忠孝也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-10",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 9,
+          "start": 0,
+          "end": 5
+        },
+        "kind": "commentary",
+        "text": "天子身能節儉，故民日用廣矣。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-11",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 10,
+          "start": 0,
+          "end": 7
+        },
+        "kind": "commentary",
+        "text": "不為天下首先。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-12",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 11,
+          "start": 0,
+          "end": 6
+        },
+        "kind": "commentary",
+        "text": "成器長，謂得道人也。我能為得道人之長也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-13",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 12,
+          "start": 0,
+          "end": 6
+        },
+        "kind": "commentary",
+        "text": "今世人舍慈仁，但為勇武。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-14",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 13,
+          "start": 0,
+          "end": 5
+        },
+        "kind": "commentary",
+        "text": "舍其儉約，但為奢泰。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-15",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 14,
+          "start": 0,
+          "end": 5
+        },
+        "kind": "commentary",
+        "text": "舍其後己，但為人先。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-16",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 15,
+          "start": 0,
+          "end": 3
+        },
+        "kind": "commentary",
+        "text": "所行如此，動入死地。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-17",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 16,
+          "start": 0,
+          "end": 12
+        },
+        "kind": "commentary",
+        "text": "夫慈仁者，百姓親附，并心一意，故以戰則勝敵，以守衛則堅固。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-18",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 17,
+          "start": 0,
+          "end": 10
+        },
+        "kind": "commentary",
+        "text": "天將救助善人，必與慈仁之性，使能自營助也。",
+        "source": "cham"
+      }
+    ]
+  },
+  "annotationLayers": [
+    {
+      "id": "default",
+      "label": "原文",
+      "shortLabel": "文",
+      "contributor": "Laozi",
+      "role": "author",
+      "nature": "annotation",
+      "displayOrder": 0,
+      "enabled": true,
+      "annotations": []
+    },
+    {
+      "id": "heshanggong",
+      "label": "河上公註",
+      "shortLabel": "河",
+      "contributor": "C002",
+      "role": "commentator",
+      "nature": "commentary",
+      "displayOrder": 1,
+      "enabled": true,
+      "annotations": [
+        {
+          "id": "heshanggong-1",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 12
+          },
+          "kind": "commentary",
+          "text": "老子言：天下謂我德大，我則佯愚似不肖。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-2",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 1,
+            "start": 0,
+            "end": 9
+          },
+          "kind": "commentary",
+          "text": "唯獨名德大者為身害，故佯愚似若不肖。無所分別，無所割截，不賤人而自責。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-3",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 2,
+            "start": 0,
+            "end": 5
+          },
+          "kind": "commentary",
+          "text": "肖，善也。謂辨惠也。若大辨惠之人，身高自貴行察察之政所從來久矣。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-4",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 3,
+            "start": 0,
+            "end": 5
+          },
+          "kind": "commentary",
+          "text": "言辨惠者唯如小人，非長者。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-5",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 4,
+            "start": 0,
+            "end": 10
+          },
+          "kind": "commentary",
+          "text": "老子言：我有三寶，抱持而保倚。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-6",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 5,
+            "start": 0,
+            "end": 4
+          },
+          "kind": "commentary",
+          "text": "愛百姓若赤子。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-7",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 6,
+            "start": 0,
+            "end": 4
+          },
+          "kind": "commentary",
+          "text": "賦歛若取之於己也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-8",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 7,
+            "start": 0,
+            "end": 9
+          },
+          "kind": "commentary",
+          "text": "執謙退，不為倡始也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-9",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 8,
+            "start": 0,
+            "end": 5
+          },
+          "kind": "commentary",
+          "text": "以慈仁，故能勇於忠孝也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-10",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 9,
+            "start": 0,
+            "end": 5
+          },
+          "kind": "commentary",
+          "text": "天子身能節儉，故民日用廣矣。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-11",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 10,
+            "start": 0,
+            "end": 7
+          },
+          "kind": "commentary",
+          "text": "不為天下首先。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-12",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 11,
+            "start": 0,
+            "end": 6
+          },
+          "kind": "commentary",
+          "text": "成器長，謂得道人也。我能為得道人之長也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-13",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 12,
+            "start": 0,
+            "end": 6
+          },
+          "kind": "commentary",
+          "text": "今世人舍慈仁，但為勇武。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-14",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 13,
+            "start": 0,
+            "end": 5
+          },
+          "kind": "commentary",
+          "text": "舍其儉約，但為奢泰。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-15",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 14,
+            "start": 0,
+            "end": 5
+          },
+          "kind": "commentary",
+          "text": "舍其後己，但為人先。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-16",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 15,
+            "start": 0,
+            "end": 3
+          },
+          "kind": "commentary",
+          "text": "所行如此，動入死地。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-17",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 16,
+            "start": 0,
+            "end": 12
+          },
+          "kind": "commentary",
+          "text": "夫慈仁者，百姓親附，并心一意，故以戰則勝敵，以守衛則堅固。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-18",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 17,
+            "start": 0,
+            "end": 10
+          },
+          "kind": "commentary",
+          "text": "天將救助善人，必與慈仁之性，使能自營助也。",
+          "source": "cham"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "textRef": "heshanggong-laozi",
+    "relation": "section"
+  }
+}

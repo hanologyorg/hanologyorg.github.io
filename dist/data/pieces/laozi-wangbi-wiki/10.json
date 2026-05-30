@@ -1,0 +1,308 @@
+{
+  "bookId": "laozi-wangbi-wiki",
+  "num": 10,
+  "title": "第十章",
+  "author": "老子",
+  "authorId": "Laozi",
+  "dynasty": "周",
+  "era": "周",
+  "genre": "prose",
+  "verses": [
+    {
+      "text": "載營魄抱一，能無離乎？"
+    },
+    {
+      "text": "專氣致柔，能嬰兒乎？"
+    },
+    {
+      "text": "滌除玄覽，能無疵乎？"
+    },
+    {
+      "text": "愛國治民，能無知乎？"
+    },
+    {
+      "text": "天門開闔，能為雌乎？"
+    },
+    {
+      "text": "明白四達，能無為乎？"
+    },
+    {
+      "text": "生之，"
+    },
+    {
+      "text": "畜之。"
+    },
+    {
+      "text": "生而不有，為而不恃，長而不宰，是謂玄德。"
+    }
+  ],
+  "sections": {},
+  "annotations": [],
+  "layers": {
+    "wangbi": [
+      {
+        "id": "wangbi-1",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 11
+        },
+        "kind": "commentary",
+        "text": "載，猶處也。營魄，人之常居處也，一人之真也。言人能處常居之宅，抱一清神，能常無離乎，則萬物自賓也。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-2",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 0,
+          "end": 10
+        },
+        "kind": "commentary",
+        "text": "專，任也，致，極也，言任自然之氣，致至柔之和，能若嬰兒之無所欲乎，則物全而性得矣。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-3",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 2,
+          "start": 0,
+          "end": 10
+        },
+        "kind": "commentary",
+        "text": "玄，物之極也，言能滌除邪飾，至於極覽。能不以物介其明，疵之其神乎，則終與玄同也。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-4",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 3,
+          "start": 0,
+          "end": 10
+        },
+        "kind": "commentary",
+        "text": "任術以求成，運數以求匿者，智也。玄覽無疵，猶絕聖也。治國無以智，猶棄智也。能無以智乎，則民不辟而國治之也。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-5",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 4,
+          "start": 0,
+          "end": 10
+        },
+        "kind": "commentary",
+        "text": "天門，天下之所由從也。開闔，治亂之際也，或開或闔，經通於天下，故曰，天門開闔也。雌應而不倡，因而不為，言天門開閡能為雌乎，則物自賓而處自安矣。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-6",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 5,
+          "start": 0,
+          "end": 10
+        },
+        "kind": "commentary",
+        "text": "言至明四達，無迷無惑，能無以為乎，則物化矣。所謂道常無為，侯王若能守，則萬物自化。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-7",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 6,
+          "start": 0,
+          "end": 3
+        },
+        "kind": "commentary",
+        "text": "不塞其原也。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-8",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 7,
+          "start": 0,
+          "end": 3
+        },
+        "kind": "commentary",
+        "text": "不禁其性也。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-9",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 8,
+          "start": 0,
+          "end": 20
+        },
+        "kind": "commentary",
+        "text": "不塞其原，則物自生，何功之有。不禁其性，則物自濟，何為之恃。物自長足，不吾宰成，有德無主，非玄而何。凡言玄德，皆有德而不知其主，出乎幽冥。",
+        "source": "cham"
+      }
+    ]
+  },
+  "annotationLayers": [
+    {
+      "id": "default",
+      "label": "原文",
+      "shortLabel": "文",
+      "contributor": "Laozi",
+      "role": "author",
+      "nature": "annotation",
+      "displayOrder": 0,
+      "enabled": true,
+      "annotations": []
+    },
+    {
+      "id": "wangbi",
+      "label": "王弼註",
+      "shortLabel": "王",
+      "contributor": "C001",
+      "role": "commentator",
+      "nature": "commentary",
+      "displayOrder": 1,
+      "enabled": true,
+      "annotations": [
+        {
+          "id": "wangbi-1",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 11
+          },
+          "kind": "commentary",
+          "text": "載，猶處也。營魄，人之常居處也，一人之真也。言人能處常居之宅，抱一清神，能常無離乎，則萬物自賓也。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-2",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 1,
+            "start": 0,
+            "end": 10
+          },
+          "kind": "commentary",
+          "text": "專，任也，致，極也，言任自然之氣，致至柔之和，能若嬰兒之無所欲乎，則物全而性得矣。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-3",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 2,
+            "start": 0,
+            "end": 10
+          },
+          "kind": "commentary",
+          "text": "玄，物之極也，言能滌除邪飾，至於極覽。能不以物介其明，疵之其神乎，則終與玄同也。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-4",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 3,
+            "start": 0,
+            "end": 10
+          },
+          "kind": "commentary",
+          "text": "任術以求成，運數以求匿者，智也。玄覽無疵，猶絕聖也。治國無以智，猶棄智也。能無以智乎，則民不辟而國治之也。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-5",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 4,
+            "start": 0,
+            "end": 10
+          },
+          "kind": "commentary",
+          "text": "天門，天下之所由從也。開闔，治亂之際也，或開或闔，經通於天下，故曰，天門開闔也。雌應而不倡，因而不為，言天門開閡能為雌乎，則物自賓而處自安矣。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-6",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 5,
+            "start": 0,
+            "end": 10
+          },
+          "kind": "commentary",
+          "text": "言至明四達，無迷無惑，能無以為乎，則物化矣。所謂道常無為，侯王若能守，則萬物自化。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-7",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 6,
+            "start": 0,
+            "end": 3
+          },
+          "kind": "commentary",
+          "text": "不塞其原也。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-8",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 7,
+            "start": 0,
+            "end": 3
+          },
+          "kind": "commentary",
+          "text": "不禁其性也。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-9",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 8,
+            "start": 0,
+            "end": 20
+          },
+          "kind": "commentary",
+          "text": "不塞其原，則物自生，何功之有。不禁其性，則物自濟，何為之恃。物自長足，不吾宰成，有德無主，非玄而何。凡言玄德，皆有德而不知其主，出乎幽冥。",
+          "source": "cham"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "textRef": "laozi-wangbi-wiki",
+    "relation": "section"
+  }
+}

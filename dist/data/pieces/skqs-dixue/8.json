@@ -1,0 +1,17 @@
+{
+  "bookId": "skqs-dixue",
+  "num": 8,
+  "title": "周文王",
+  "author": "宋太宗",
+  "authorId": "宋太宗",
+  "dynasty": "宋",
+  "era": "宋",
+  "genre": "prose",
+  "verses": [
+    {
+      "text": "武王"
+    }
+  ],
+  "sections": {},
+  "annotations": []
+}

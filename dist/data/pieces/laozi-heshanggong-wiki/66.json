@@ -1,0 +1,366 @@
+{
+  "bookId": "laozi-heshanggong-wiki",
+  "num": 66,
+  "title": "第六十六章（後己）",
+  "author": "老子",
+  "authorId": "Laozi",
+  "dynasty": "周",
+  "era": "周",
+  "genre": "prose",
+  "verses": [
+    {
+      "text": "江海所以能為百谷王者，以其善下之，"
+    },
+    {
+      "text": "故能為百谷王。"
+    },
+    {
+      "text": "是以聖人欲上民，"
+    },
+    {
+      "text": "必以言下之；"
+    },
+    {
+      "text": "欲先民，"
+    },
+    {
+      "text": "必以身後之。"
+    },
+    {
+      "text": "是以聖人處上而民不重，"
+    },
+    {
+      "text": "處前而民不害。"
+    },
+    {
+      "text": "是以天下樂推而不厭。"
+    },
+    {
+      "text": "以其不爭，"
+    },
+    {
+      "text": "故天下莫能與之爭。"
+    }
+  ],
+  "sections": {},
+  "annotations": [],
+  "layers": {
+    "heshanggong": [
+      {
+        "id": "heshanggong-1",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 17
+        },
+        "kind": "commentary",
+        "text": "江海以卑，故眾流歸之，若民歸就王。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-2",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 0,
+          "end": 7
+        },
+        "kind": "commentary",
+        "text": "以卑下，故能為百谷王也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-3",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 2,
+          "start": 0,
+          "end": 8
+        },
+        "kind": "commentary",
+        "text": "欲在民之上也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-4",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 3,
+          "start": 0,
+          "end": 6
+        },
+        "kind": "commentary",
+        "text": "法江海處謙虛。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-5",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 4,
+          "start": 0,
+          "end": 4
+        },
+        "kind": "commentary",
+        "text": "欲在民之前也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-6",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 5,
+          "start": 0,
+          "end": 6
+        },
+        "kind": "commentary",
+        "text": "先人而後己也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-7",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 6,
+          "start": 0,
+          "end": 11
+        },
+        "kind": "commentary",
+        "text": "聖人在民上為主，不以尊貴虐下，故民戴而不為重。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-8",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 7,
+          "start": 0,
+          "end": 7
+        },
+        "kind": "commentary",
+        "text": "聖人在民前，不以光明蔽後，民親之若父母，無有欲害之心也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-9",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 8,
+          "start": 0,
+          "end": 10
+        },
+        "kind": "commentary",
+        "text": "聖人恩深愛厚，視民如赤子，故天下樂推進以為主，無有厭也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-10",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 9,
+          "start": 0,
+          "end": 5
+        },
+        "kind": "commentary",
+        "text": "天下無厭聖人時，是由聖人不與人爭先後也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-11",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 10,
+          "start": 0,
+          "end": 9
+        },
+        "kind": "commentary",
+        "text": "言人皆有為，無有與吾爭無為。",
+        "source": "cham"
+      }
+    ]
+  },
+  "annotationLayers": [
+    {
+      "id": "default",
+      "label": "原文",
+      "shortLabel": "文",
+      "contributor": "Laozi",
+      "role": "author",
+      "nature": "annotation",
+      "displayOrder": 0,
+      "enabled": true,
+      "annotations": []
+    },
+    {
+      "id": "heshanggong",
+      "label": "河上公註",
+      "shortLabel": "河",
+      "contributor": "C002",
+      "role": "commentator",
+      "nature": "commentary",
+      "displayOrder": 1,
+      "enabled": true,
+      "annotations": [
+        {
+          "id": "heshanggong-1",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 17
+          },
+          "kind": "commentary",
+          "text": "江海以卑，故眾流歸之，若民歸就王。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-2",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 1,
+            "start": 0,
+            "end": 7
+          },
+          "kind": "commentary",
+          "text": "以卑下，故能為百谷王也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-3",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 2,
+            "start": 0,
+            "end": 8
+          },
+          "kind": "commentary",
+          "text": "欲在民之上也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-4",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 3,
+            "start": 0,
+            "end": 6
+          },
+          "kind": "commentary",
+          "text": "法江海處謙虛。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-5",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 4,
+            "start": 0,
+            "end": 4
+          },
+          "kind": "commentary",
+          "text": "欲在民之前也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-6",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 5,
+            "start": 0,
+            "end": 6
+          },
+          "kind": "commentary",
+          "text": "先人而後己也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-7",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 6,
+            "start": 0,
+            "end": 11
+          },
+          "kind": "commentary",
+          "text": "聖人在民上為主，不以尊貴虐下，故民戴而不為重。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-8",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 7,
+            "start": 0,
+            "end": 7
+          },
+          "kind": "commentary",
+          "text": "聖人在民前，不以光明蔽後，民親之若父母，無有欲害之心也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-9",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 8,
+            "start": 0,
+            "end": 10
+          },
+          "kind": "commentary",
+          "text": "聖人恩深愛厚，視民如赤子，故天下樂推進以為主，無有厭也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-10",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 9,
+            "start": 0,
+            "end": 5
+          },
+          "kind": "commentary",
+          "text": "天下無厭聖人時，是由聖人不與人爭先後也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-11",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 10,
+            "start": 0,
+            "end": 9
+          },
+          "kind": "commentary",
+          "text": "言人皆有為，無有與吾爭無為。",
+          "source": "cham"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "textRef": "laozi-heshanggong-wiki",
+    "relation": "section"
+  }
+}

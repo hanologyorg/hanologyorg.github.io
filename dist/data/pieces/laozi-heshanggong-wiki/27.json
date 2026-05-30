@@ -1,0 +1,511 @@
+{
+  "bookId": "laozi-heshanggong-wiki",
+  "num": 27,
+  "title": "第二十七章（巧用）",
+  "author": "老子",
+  "authorId": "Laozi",
+  "dynasty": "周",
+  "era": "周",
+  "genre": "prose",
+  "verses": [
+    {
+      "text": "善行無轍跡，"
+    },
+    {
+      "text": "善言無瑕讁，"
+    },
+    {
+      "text": "善計不用籌策，"
+    },
+    {
+      "text": "善閉無關楗而不可開。"
+    },
+    {
+      "text": "善結無繩約而不可解。"
+    },
+    {
+      "text": "是以聖人常善救人，"
+    },
+    {
+      "text": "故無棄人；"
+    },
+    {
+      "text": "常善救物，"
+    },
+    {
+      "text": "故無棄物。"
+    },
+    {
+      "text": "是謂襲明。"
+    },
+    {
+      "text": "故善人者，不善人之師；"
+    },
+    {
+      "text": "不善人者，善人之資。"
+    },
+    {
+      "text": "不貴其師，"
+    },
+    {
+      "text": "不愛其資，"
+    },
+    {
+      "text": "雖智大迷，"
+    },
+    {
+      "text": "是謂要妙。"
+    }
+  ],
+  "sections": {},
+  "annotations": [],
+  "layers": {
+    "heshanggong": [
+      {
+        "id": "heshanggong-1",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 6
+        },
+        "kind": "commentary",
+        "text": "善行道者求之於身，不下堂，不出門，故無轍跡。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-2",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 0,
+          "end": 6
+        },
+        "kind": "commentary",
+        "text": "善言謂擇言而出之，則無瑕疵讁過於天下。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-3",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 2,
+          "start": 0,
+          "end": 7
+        },
+        "kind": "commentary",
+        "text": "善以道計事者，則守一不移，所計不多，則不用籌策而可知也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-4",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 3,
+          "start": 0,
+          "end": 10
+        },
+        "kind": "commentary",
+        "text": "善以道閉情欲、守精神者，不如門戶有關楗可得開。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-5",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 4,
+          "start": 0,
+          "end": 10
+        },
+        "kind": "commentary",
+        "text": "善以道結事者，乃可結其心，不如繩索可得解也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-6",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 5,
+          "start": 0,
+          "end": 9
+        },
+        "kind": "commentary",
+        "text": "聖人所以常教人忠孝者，欲以救人性命。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-7",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 6,
+          "start": 0,
+          "end": 5
+        },
+        "kind": "commentary",
+        "text": "使貴賤各得其所也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-8",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 7,
+          "start": 0,
+          "end": 5
+        },
+        "kind": "commentary",
+        "text": "聖人所以常教民順四時者，欲以救萬物之殘傷。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-9",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 8,
+          "start": 0,
+          "end": 5
+        },
+        "kind": "commentary",
+        "text": "聖人不賤名而貴玉視之如一。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-10",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 9,
+          "start": 0,
+          "end": 5
+        },
+        "kind": "commentary",
+        "text": "聖人善救人物，是謂襲明大道。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-11",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 10,
+          "start": 0,
+          "end": 11
+        },
+        "kind": "commentary",
+        "text": "人之行善者，聖人即以為人師。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-12",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 11,
+          "start": 0,
+          "end": 10
+        },
+        "kind": "commentary",
+        "text": "資，用也。人行不善者，聖人猶教導使為善，得以給用也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-13",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 12,
+          "start": 0,
+          "end": 5
+        },
+        "kind": "commentary",
+        "text": "獨無輔也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-14",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 13,
+          "start": 0,
+          "end": 5
+        },
+        "kind": "commentary",
+        "text": "無所使也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-15",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 14,
+          "start": 0,
+          "end": 5
+        },
+        "kind": "commentary",
+        "text": "雖自以為智。言此人乃大迷惑。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-16",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 15,
+          "start": 0,
+          "end": 5
+        },
+        "kind": "commentary",
+        "text": "能通此意，是謂知微妙要道也。",
+        "source": "cham"
+      }
+    ]
+  },
+  "annotationLayers": [
+    {
+      "id": "default",
+      "label": "原文",
+      "shortLabel": "文",
+      "contributor": "Laozi",
+      "role": "author",
+      "nature": "annotation",
+      "displayOrder": 0,
+      "enabled": true,
+      "annotations": []
+    },
+    {
+      "id": "heshanggong",
+      "label": "河上公註",
+      "shortLabel": "河",
+      "contributor": "C002",
+      "role": "commentator",
+      "nature": "commentary",
+      "displayOrder": 1,
+      "enabled": true,
+      "annotations": [
+        {
+          "id": "heshanggong-1",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 6
+          },
+          "kind": "commentary",
+          "text": "善行道者求之於身，不下堂，不出門，故無轍跡。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-2",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 1,
+            "start": 0,
+            "end": 6
+          },
+          "kind": "commentary",
+          "text": "善言謂擇言而出之，則無瑕疵讁過於天下。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-3",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 2,
+            "start": 0,
+            "end": 7
+          },
+          "kind": "commentary",
+          "text": "善以道計事者，則守一不移，所計不多，則不用籌策而可知也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-4",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 3,
+            "start": 0,
+            "end": 10
+          },
+          "kind": "commentary",
+          "text": "善以道閉情欲、守精神者，不如門戶有關楗可得開。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-5",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 4,
+            "start": 0,
+            "end": 10
+          },
+          "kind": "commentary",
+          "text": "善以道結事者，乃可結其心，不如繩索可得解也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-6",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 5,
+            "start": 0,
+            "end": 9
+          },
+          "kind": "commentary",
+          "text": "聖人所以常教人忠孝者，欲以救人性命。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-7",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 6,
+            "start": 0,
+            "end": 5
+          },
+          "kind": "commentary",
+          "text": "使貴賤各得其所也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-8",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 7,
+            "start": 0,
+            "end": 5
+          },
+          "kind": "commentary",
+          "text": "聖人所以常教民順四時者，欲以救萬物之殘傷。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-9",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 8,
+            "start": 0,
+            "end": 5
+          },
+          "kind": "commentary",
+          "text": "聖人不賤名而貴玉視之如一。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-10",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 9,
+            "start": 0,
+            "end": 5
+          },
+          "kind": "commentary",
+          "text": "聖人善救人物，是謂襲明大道。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-11",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 10,
+            "start": 0,
+            "end": 11
+          },
+          "kind": "commentary",
+          "text": "人之行善者，聖人即以為人師。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-12",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 11,
+            "start": 0,
+            "end": 10
+          },
+          "kind": "commentary",
+          "text": "資，用也。人行不善者，聖人猶教導使為善，得以給用也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-13",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 12,
+            "start": 0,
+            "end": 5
+          },
+          "kind": "commentary",
+          "text": "獨無輔也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-14",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 13,
+            "start": 0,
+            "end": 5
+          },
+          "kind": "commentary",
+          "text": "無所使也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-15",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 14,
+            "start": 0,
+            "end": 5
+          },
+          "kind": "commentary",
+          "text": "雖自以為智。言此人乃大迷惑。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-16",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 15,
+            "start": 0,
+            "end": 5
+          },
+          "kind": "commentary",
+          "text": "能通此意，是謂知微妙要道也。",
+          "source": "cham"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "textRef": "laozi-heshanggong-wiki",
+    "relation": "section"
+  }
+}

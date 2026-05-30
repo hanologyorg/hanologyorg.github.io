@@ -1,0 +1,366 @@
+{
+  "bookId": "heshanggong-laozi",
+  "num": 53,
+  "title": "第五十三章（益證）",
+  "author": "老子",
+  "authorId": "Laozi",
+  "dynasty": "周",
+  "era": "周",
+  "genre": "prose",
+  "verses": [
+    {
+      "text": "使我介然有知，行於大道。"
+    },
+    {
+      "text": "唯施是畏。"
+    },
+    {
+      "text": "大道甚夷，而民好徑。"
+    },
+    {
+      "text": "朝甚除，"
+    },
+    {
+      "text": "田甚蕪，"
+    },
+    {
+      "text": "倉甚虛，"
+    },
+    {
+      "text": "服文綵，"
+    },
+    {
+      "text": "帶利劍，"
+    },
+    {
+      "text": "厭飲食，財貨有餘，"
+    },
+    {
+      "text": "是謂盜誇。"
+    },
+    {
+      "text": "非道哉。"
+    }
+  ],
+  "sections": {},
+  "annotations": [],
+  "layers": {
+    "heshanggong": [
+      {
+        "id": "heshanggong-1",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 12
+        },
+        "kind": "commentary",
+        "text": "介，大也。老子疾時王不行大道，故設此言。 使我介然有知於政事，我則行於大道，躬行無為之化。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-2",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 0,
+          "end": 5
+        },
+        "kind": "commentary",
+        "text": "唯，獨也。獨畏有所施為，恐失道意。 欲賞善，恐偽善生；欲信忠恐詐忠起。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-3",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 2,
+          "start": 0,
+          "end": 10
+        },
+        "kind": "commentary",
+        "text": "夷，平易也。徑，邪、不平正也。大道甚平易，而民好從邪徑也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-4",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 3,
+          "start": 0,
+          "end": 4
+        },
+        "kind": "commentary",
+        "text": "高台榭，宮室修。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-5",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 4,
+          "start": 0,
+          "end": 4
+        },
+        "kind": "commentary",
+        "text": "農事廢，不耕治。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-6",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 5,
+          "start": 0,
+          "end": 4
+        },
+        "kind": "commentary",
+        "text": "五穀傷害，國無儲也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-7",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 6,
+          "start": 0,
+          "end": 4
+        },
+        "kind": "commentary",
+        "text": "好飾偽，貴外華。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-8",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 7,
+          "start": 0,
+          "end": 4
+        },
+        "kind": "commentary",
+        "text": "尚剛強，武且奢。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-9",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 8,
+          "start": 0,
+          "end": 9
+        },
+        "kind": "commentary",
+        "text": "多嗜欲，無足時。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-10",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 9,
+          "start": 0,
+          "end": 5
+        },
+        "kind": "commentary",
+        "text": "百姓而君有餘者，是由劫盜以為服飾，持行誇人，不知身死家破，親戚並隨也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-11",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 10,
+          "start": 0,
+          "end": 4
+        },
+        "kind": "commentary",
+        "text": "人君所行如是，此非道也。復言也哉者，痛傷之辭。",
+        "source": "cham"
+      }
+    ]
+  },
+  "annotationLayers": [
+    {
+      "id": "default",
+      "label": "原文",
+      "shortLabel": "文",
+      "contributor": "Laozi",
+      "role": "author",
+      "nature": "annotation",
+      "displayOrder": 0,
+      "enabled": true,
+      "annotations": []
+    },
+    {
+      "id": "heshanggong",
+      "label": "河上公註",
+      "shortLabel": "河",
+      "contributor": "C002",
+      "role": "commentator",
+      "nature": "commentary",
+      "displayOrder": 1,
+      "enabled": true,
+      "annotations": [
+        {
+          "id": "heshanggong-1",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 12
+          },
+          "kind": "commentary",
+          "text": "介，大也。老子疾時王不行大道，故設此言。 使我介然有知於政事，我則行於大道，躬行無為之化。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-2",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 1,
+            "start": 0,
+            "end": 5
+          },
+          "kind": "commentary",
+          "text": "唯，獨也。獨畏有所施為，恐失道意。 欲賞善，恐偽善生；欲信忠恐詐忠起。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-3",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 2,
+            "start": 0,
+            "end": 10
+          },
+          "kind": "commentary",
+          "text": "夷，平易也。徑，邪、不平正也。大道甚平易，而民好從邪徑也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-4",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 3,
+            "start": 0,
+            "end": 4
+          },
+          "kind": "commentary",
+          "text": "高台榭，宮室修。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-5",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 4,
+            "start": 0,
+            "end": 4
+          },
+          "kind": "commentary",
+          "text": "農事廢，不耕治。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-6",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 5,
+            "start": 0,
+            "end": 4
+          },
+          "kind": "commentary",
+          "text": "五穀傷害，國無儲也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-7",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 6,
+            "start": 0,
+            "end": 4
+          },
+          "kind": "commentary",
+          "text": "好飾偽，貴外華。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-8",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 7,
+            "start": 0,
+            "end": 4
+          },
+          "kind": "commentary",
+          "text": "尚剛強，武且奢。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-9",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 8,
+            "start": 0,
+            "end": 9
+          },
+          "kind": "commentary",
+          "text": "多嗜欲，無足時。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-10",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 9,
+            "start": 0,
+            "end": 5
+          },
+          "kind": "commentary",
+          "text": "百姓而君有餘者，是由劫盜以為服飾，持行誇人，不知身死家破，親戚並隨也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-11",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 10,
+            "start": 0,
+            "end": 4
+          },
+          "kind": "commentary",
+          "text": "人君所行如是，此非道也。復言也哉者，痛傷之辭。",
+          "source": "cham"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "textRef": "heshanggong-laozi",
+    "relation": "section"
+  }
+}

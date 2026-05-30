@@ -1,0 +1,648 @@
+{
+  "bookId": "laozi-boshu",
+  "num": 30,
+  "title": "第三十章（不強）",
+  "author": "老子",
+  "authorId": "Laozi",
+  "dynasty": "周",
+  "era": "周",
+  "genre": "prose",
+  "verses": [
+    {
+      "text": "以道佐人主 不以兵強於天下 亓事好還"
+    },
+    {
+      "text": "師之所居 楚棘生之"
+    },
+    {
+      "text": "善者果而已矣 毋以取強焉"
+    },
+    {
+      "text": "果而毋驕 果而勿矜 果而勿伐 果而毋得已居 是謂果而不強"
+    },
+    {
+      "text": "物壯而老 是謂之不道 不道蚤已"
+    }
+  ],
+  "sections": {},
+  "annotations": [],
+  "layers": {
+    "heshanggong": [
+      {
+        "id": "heshanggong-1",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 18
+        },
+        "kind": "commentary",
+        "text": "謂人主能以道自輔佐也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-2",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 18
+        },
+        "kind": "commentary",
+        "text": "以道自佐之主，不以兵革，順天任德，敵人自服。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-3",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 14,
+          "end": 15
+        },
+        "kind": "commentary",
+        "text": "其舉事好還自責，不怨於人也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-4",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 18
+        },
+        "kind": "commentary",
+        "text": "農事廢，田不修。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-5",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 18
+        },
+        "kind": "commentary",
+        "text": "天應之以惡氣，即害五穀，盡傷人也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-6",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 0,
+          "end": 9
+        },
+        "kind": "commentary",
+        "text": "善用兵者，當果敢而已，不美之。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-7",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 2,
+          "start": 0,
+          "end": 12
+        },
+        "kind": "commentary",
+        "text": "不以果敢取強大之名也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-8",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 3,
+          "start": 5,
+          "end": 6
+        },
+        "kind": "commentary",
+        "text": "當果敢謙卑，勿自矜大也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-9",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 3,
+          "start": 10,
+          "end": 11
+        },
+        "kind": "commentary",
+        "text": "當果敢推讓，勿自伐取其美也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-10",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 3,
+          "start": 0,
+          "end": 28
+        },
+        "kind": "commentary",
+        "text": "驕，欺也。果敢勿以驕欺人。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-11",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 3,
+          "start": 0,
+          "end": 28
+        },
+        "kind": "commentary",
+        "text": "當果敢至誠，不當逼迫不得已也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-12",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 3,
+          "start": 0,
+          "end": 28
+        },
+        "kind": "commentary",
+        "text": "果敢勿以為強兵、堅甲以欺凌人也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-13",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 3,
+          "start": 0,
+          "end": 28
+        },
+        "kind": "commentary",
+        "text": "草木壯極則枯落，人壯極則衰老也。言強者不可以久。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-14",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 4,
+          "start": 0,
+          "end": 15
+        },
+        "kind": "commentary",
+        "text": "枯老者，坐不行道也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-15",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 4,
+          "start": 0,
+          "end": 15
+        },
+        "kind": "commentary",
+        "text": "不行道者早死。",
+        "source": "cham"
+      }
+    ],
+    "wangbi": [
+      {
+        "id": "wangbi-1",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 18
+        },
+        "kind": "commentary",
+        "text": "以道佐人主，尚不可以兵强於天下，況人主躬於道者乎。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-2",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 14,
+          "end": 15
+        },
+        "kind": "commentary",
+        "text": "為始者務欲立功生事，而有道者務欲還反無為，故云，其事好還也。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-3",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 18
+        },
+        "kind": "commentary",
+        "text": "言師凶害之物也。無有所濟，必有所傷，賊害人民，殘荒田畝，故曰荊棘生焉。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-4",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 0,
+          "end": 9
+        },
+        "kind": "commentary",
+        "text": "果猶濟也。言善用師者，趣以濟難而已矣，不以兵力取强於天下也。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-5",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 2,
+          "start": 0,
+          "end": 12
+        },
+        "kind": "commentary",
+        "text": "吾不以師道為尚，不得已而用，何矜驕之有也。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-6",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 3,
+          "start": 0,
+          "end": 28
+        },
+        "kind": "commentary",
+        "text": "言用兵雖趣功果濟難，然時故不得已，當復用者，但當以除暴亂，不遂用果以為强也。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-7",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 3,
+          "start": 0,
+          "end": 28
+        },
+        "kind": "commentary",
+        "text": "壯，武力暴興，喻以兵强於天下者也。飄風不終朝，驟雨不終日，故暴興必不道早已也。",
+        "source": "cham"
+      }
+    ]
+  },
+  "annotationLayers": [
+    {
+      "id": "default",
+      "label": "原文",
+      "shortLabel": "文",
+      "contributor": "Laozi",
+      "role": "author",
+      "nature": "annotation",
+      "displayOrder": 0,
+      "enabled": true,
+      "annotations": []
+    },
+    {
+      "id": "heshanggong",
+      "label": "河上公註",
+      "shortLabel": "河",
+      "contributor": "C002",
+      "role": "commentator",
+      "nature": "commentary",
+      "displayOrder": 1,
+      "enabled": true,
+      "annotations": [
+        {
+          "id": "heshanggong-1",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 18
+          },
+          "kind": "commentary",
+          "text": "謂人主能以道自輔佐也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-2",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 18
+          },
+          "kind": "commentary",
+          "text": "以道自佐之主，不以兵革，順天任德，敵人自服。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-3",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 14,
+            "end": 15
+          },
+          "kind": "commentary",
+          "text": "其舉事好還自責，不怨於人也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-4",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 18
+          },
+          "kind": "commentary",
+          "text": "農事廢，田不修。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-5",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 18
+          },
+          "kind": "commentary",
+          "text": "天應之以惡氣，即害五穀，盡傷人也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-6",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 1,
+            "start": 0,
+            "end": 9
+          },
+          "kind": "commentary",
+          "text": "善用兵者，當果敢而已，不美之。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-7",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 2,
+            "start": 0,
+            "end": 12
+          },
+          "kind": "commentary",
+          "text": "不以果敢取強大之名也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-8",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 3,
+            "start": 5,
+            "end": 6
+          },
+          "kind": "commentary",
+          "text": "當果敢謙卑，勿自矜大也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-9",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 3,
+            "start": 10,
+            "end": 11
+          },
+          "kind": "commentary",
+          "text": "當果敢推讓，勿自伐取其美也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-10",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 3,
+            "start": 0,
+            "end": 28
+          },
+          "kind": "commentary",
+          "text": "驕，欺也。果敢勿以驕欺人。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-11",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 3,
+            "start": 0,
+            "end": 28
+          },
+          "kind": "commentary",
+          "text": "當果敢至誠，不當逼迫不得已也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-12",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 3,
+            "start": 0,
+            "end": 28
+          },
+          "kind": "commentary",
+          "text": "果敢勿以為強兵、堅甲以欺凌人也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-13",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 3,
+            "start": 0,
+            "end": 28
+          },
+          "kind": "commentary",
+          "text": "草木壯極則枯落，人壯極則衰老也。言強者不可以久。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-14",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 4,
+            "start": 0,
+            "end": 15
+          },
+          "kind": "commentary",
+          "text": "枯老者，坐不行道也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-15",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 4,
+            "start": 0,
+            "end": 15
+          },
+          "kind": "commentary",
+          "text": "不行道者早死。",
+          "source": "cham"
+        }
+      ]
+    },
+    {
+      "id": "wangbi",
+      "label": "王弼註",
+      "shortLabel": "王",
+      "contributor": "C001",
+      "role": "commentator",
+      "nature": "commentary",
+      "displayOrder": 2,
+      "enabled": true,
+      "annotations": [
+        {
+          "id": "wangbi-1",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 18
+          },
+          "kind": "commentary",
+          "text": "以道佐人主，尚不可以兵强於天下，況人主躬於道者乎。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-2",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 14,
+            "end": 15
+          },
+          "kind": "commentary",
+          "text": "為始者務欲立功生事，而有道者務欲還反無為，故云，其事好還也。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-3",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 18
+          },
+          "kind": "commentary",
+          "text": "言師凶害之物也。無有所濟，必有所傷，賊害人民，殘荒田畝，故曰荊棘生焉。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-4",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 1,
+            "start": 0,
+            "end": 9
+          },
+          "kind": "commentary",
+          "text": "果猶濟也。言善用師者，趣以濟難而已矣，不以兵力取强於天下也。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-5",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 2,
+            "start": 0,
+            "end": 12
+          },
+          "kind": "commentary",
+          "text": "吾不以師道為尚，不得已而用，何矜驕之有也。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-6",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 3,
+            "start": 0,
+            "end": 28
+          },
+          "kind": "commentary",
+          "text": "言用兵雖趣功果濟難，然時故不得已，當復用者，但當以除暴亂，不遂用果以為强也。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-7",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 3,
+            "start": 0,
+            "end": 28
+          },
+          "kind": "commentary",
+          "text": "壯，武力暴興，喻以兵强於天下者也。飄風不終朝，驟雨不終日，故暴興必不道早已也。",
+          "source": "cham"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "textRef": "laozi-boshu",
+    "relation": "section"
+  }
+}

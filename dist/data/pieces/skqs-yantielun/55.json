@@ -1,0 +1,450 @@
+{
+  "bookId": "skqs-yantielun",
+  "num": 55,
+  "title": "鹽鐵論卷九",
+  "author": "桓寬",
+  "authorId": "桓寬",
+  "dynasty": "漢",
+  "era": "漢",
+  "eraCode": "07",
+  "genre": "prose",
+  "verses": [
+    {
+      "text": "漢　桓　寛　撰"
+    },
+    {
+      "text": "明　張之象　註"
+    },
+    {
+      "text": "執務第三十九"
+    },
+    {
+      "text": "丞相史曰先王之道軼人而難復賢良文學之言深逺而難行夫稱上聖之髙行道至德之美言非當世之所能及也願聞方今之急務可復行於政使百姓咸足於衣食無乏困之憂風雨時五穀熟螟螣不生天下安樂盗賊不起流人還歸各反其田里吏皆亷正故以奉職元元各得其理也"
+    },
+    {
+      "text": "賢良曰孟子曰堯舜之道非逺人也而人不思之耳詩云求之不得寤寐思服有求如關雎好德如河廣何不濟不得之有故髙山仰止景行行止雖不能及離道不逺也顔淵曰舜獨何人也回何人也夫思賢慕能從善不休則成康之俗可致而唐虞之道可及公卿未思也先王之道何逺之有齊桓公以諸侯思王政憂周室匡諸夏之難平夷狄之亂存亡接絶信義大行著于天下召陵之會予之為主傳曰予積也故土積而成山阜水積而成江海行積而成君子孔子曰吾於河廣知徳之至也而欲得之各反其本復諸古而已古者行役不踰時春行秋反秋往春來寒暑未變衣服不易固已還矣夫婦不失時人安和如適獄訟平刑罰得則隂陽調風雨時上不苛擾下不煩勞各修其業安其性則螟□不生而水旱不起賦歛省而農不失時則百姓足而流人歸其田里上清靜而不欲則下㢘而不貪若今則繇役極逺盡寒苦之地危難之處渉胡越之域今兹往而來嵗還父母延頸而西望男女怨曠而相思身在東楚志在西河故一人行而鄉曲恨一人死而萬人悲詩云王事靡盬不能藝稷黍父母何怙念彼恭人涕零如雨豈不懷歸畏此罪罟吏不奉法以存撫倍公任私各以其權充其嗜欲人愁苦而怨思上不恤理則惡政行而邪氣作邪氣作則螟□生而水旱起若此雖禱祀雩祝用事百神無時豈能調隂陽而息盗賊矣"
+    }
+  ],
+  "sections": {},
+  "annotations": [],
+  "layers": {
+    "commentary": [
+      {
+        "id": "commentary-1",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 3,
+          "start": 0,
+          "end": 5
+        },
+        "kind": "semantic",
+        "text": "去聲",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-2",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 3,
+          "start": 5,
+          "end": 12
+        },
+        "kind": "semantic",
+        "text": "音益",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-3",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 3,
+          "start": 12,
+          "end": 28
+        },
+        "kind": "semantic",
+        "text": "音扶",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-4",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 3,
+          "start": 28,
+          "end": 34
+        },
+        "kind": "semantic",
+        "text": "去聲",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-5",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 3,
+          "start": 34,
+          "end": 48
+        },
+        "kind": "semantic",
+        "text": "泰族訓曰事不本於道德者不可以為儀言不合乎先王者不可以為道",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-6",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 3,
+          "start": 48,
+          "end": 80
+        },
+        "kind": "semantic",
+        "text": "音冥",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-7",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 3,
+          "start": 80,
+          "end": 81
+        },
+        "kind": "semantic",
+        "text": "音特",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-8",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 3,
+          "start": 81,
+          "end": 87
+        },
+        "kind": "semantic",
+        "text": "音洛",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-9",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 3,
+          "start": 87,
+          "end": 94
+        },
+        "kind": "semantic",
+        "text": "音旋",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-10",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 4,
+          "start": 0,
+          "end": 39
+        },
+        "kind": "semantic",
+        "text": "去聲",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-11",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 4,
+          "start": 39,
+          "end": 64
+        },
+        "kind": "semantic",
+        "text": "去聲",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-12",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 4,
+          "start": 64,
+          "end": 68
+        },
+        "kind": "semantic",
+        "text": "徐幹曰詩云髙山仰止景行行止好學之謂也倦立而思逺不如速行之必至也矯首而狥飛不如循雌之必獲也孤居而願智不如務學之必達也孔子曰弗學何以行弗思何以得馬雖有逸足而不閑輿則不為良駿人雖有美質而不習道則不為君子",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-13",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 4,
+          "start": 68,
+          "end": 81
+        },
+        "kind": "semantic",
+        "text": "音扶",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-14",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 4,
+          "start": 81,
+          "end": 103
+        },
+        "kind": "semantic",
+        "text": "漢武帝曰昔在唐虞畫象而民不犯日月所燭莫不率俾周之成康刑措不用德及鳥獸教通四海海外肅慎北發渠搜氏羌徠服星辰不孛日月不蝕山川不崩川谷不塞麟鳯在郊藪河洛出圖書",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-15",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 4,
+          "start": 103,
+          "end": 133
+        },
+        "kind": "semantic",
+        "text": "去聲",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-16",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 4,
+          "start": 133,
+          "end": 155
+        },
+        "kind": "semantic",
+        "text": "上聲",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-17",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 4,
+          "start": 155,
+          "end": 158
+        },
+        "kind": "semantic",
+        "text": "春秋曰楚屈完來盟于師盟于召陵公羊傳曰其言盟于師盟于召陵何師在召陵也師在召陵則曷為再言盟喜服楚也何言乎喜服楚楚有王者則後服無王者則先叛夷狄也而亟病中國南夷與北夷交中國不絶若綫桓公救中國而攘夷狄卒帖荆以此為王者之事也其言來何與桓為主也前此者有事矣後此者有事矣則曷為獨於此焉與桓公為主序績也要略曰齊桓公之時天子卑弱諸侯力征南夷北狄交伐中國中國之不絶如綫齊國之地東負海而北鄣河地狹田少而民多智巧桓公憂中國之患苦夷狄之亂欲以存亡繼絶崇天子之位廣文武之業故管子之書生焉人間訓曰三代種德而王齊桓繼絶而霸故樹黍者不獲稷樹怨者無報德",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-18",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 4,
+          "start": 158,
+          "end": 161
+        },
+        "kind": "semantic",
+        "text": "上聲",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-19",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 4,
+          "start": 161,
+          "end": 177
+        },
+        "kind": "semantic",
+        "text": "去聲",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-20",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 4,
+          "start": 177,
+          "end": 182
+        },
+        "kind": "semantic",
+        "text": "雜篇曰丘山積卑而為髙江海合小而為大建本篇曰水積成川則蛟龍生焉土積成山則豫樟生焉學積成聖則富貴尊顯至焉貴德篇曰山致其髙雲雨起焉水致其深蛟龍生焉君子致其道德而福祿歸焉夫有隂徳者必有陽報有隠行者必有昭名",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-21",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 4,
+          "start": 182,
+          "end": 207
+        },
+        "kind": "semantic",
+        "text": "詩序曰河廣宋襄公母歸於衞思而不止故作是詩也",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-22",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 4,
+          "start": 207,
+          "end": 274
+        },
+        "kind": "semantic",
+        "text": "音冥",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-23",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 4,
+          "start": 274,
+          "end": 275
+        },
+        "kind": "semantic",
+        "text": "音特今文作螣",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-24",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 4,
+          "start": 275,
+          "end": 313
+        },
+        "kind": "semantic",
+        "text": "傳曰太平之時民行役者不踰時男女不失時以偶孝子不失時以養外無曠夫内無怨女上無不慈之父下無不孝之子父子相成夫婦相保天下和平國家安寜人事備乎下天道應乎上故天不變經地不易形日月昭明列宿有常天施地化隂陽和合動以雷電潤以風雨節以山川均其寒暑萬民育生各得其所而制國用故國有所安地有所主又曰夫賢君之治也温良而和寛容而愛刑清而省喜賞而惡罰移風崇教生而不殺布惠施恩仁不偏與不奪民力役不踰時百姓得耕家有收聚民無凍餒食無腐敗士不造無用雕文不粥于肆斧斤以時入山林國無佚士皆用於世黎庶歡樂衍盈方外逺人歸義重譯執贄故得風雨不烈小雅曰有渰萋萋興雨祁祁以是知太平無飄風𭧂雨明矣",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-25",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 4,
+          "start": 313,
+          "end": 317
+        },
+        "kind": "semantic",
+        "text": "音遥",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-26",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 4,
+          "start": 317,
+          "end": 341
+        },
+        "kind": "semantic",
+        "text": "音旋",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-27",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 4,
+          "start": 341,
+          "end": 378
+        },
+        "kind": "semantic",
+        "text": "賈捐之曰孝武皇帝探平城之事録冐頓以來數為邉害籍兵厲馬因富民以攘服之西連諸國北卻匈奴當此之時㓂賊並起軍旅數發父戰死於前子鬪傷於後女子乗亭鄣孤兒號於道老母寡婦飲泣巷哭遥設虚祭想魂乎萬里之外是皆廓地泰大征伐不休之故也",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-28",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 4,
+          "start": 378,
+          "end": 451
+        },
+        "kind": "semantic",
+        "text": "音𡨋",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-29",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 4,
+          "start": 451,
+          "end": 452
+        },
+        "kind": "semantic",
+        "text": "音特今文作螣",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-30",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 4,
+          "start": 452,
+          "end": 457
+        },
+        "kind": "semantic",
+        "text": "爾雅曰蟲食苖心者曰螟食苖葉者曰□京房易傳曰嬖惡生孽蟲食苖心徳無節蟲食葉顓事有知誅罰絶理厥災水人君無施澤惠利於下則致旱",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-31",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 4,
+          "start": 457,
+          "end": 477
+        },
+        "kind": "semantic",
+        "text": "傳曰天地之變隂陽之化物之罕至者也恠之可也畏之非也夫日月之薄蝕怪星之黨見風雨之不時是無世而不甞有也上明政平是雖並至無傷也上闇政險是雖無一無益也",
+        "source": "cham"
+      }
+    ]
+  },
+  "annotationLayers": [
+    {
+      "id": "default",
+      "label": "原文",
+      "shortLabel": "文",
+      "contributor": "桓寬",
+      "role": "author",
+      "nature": "annotation",
+      "displayOrder": 0,
+      "enabled": true,
+      "annotations": []
+    }
+  ]
+}

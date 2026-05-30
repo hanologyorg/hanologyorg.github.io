@@ -1,0 +1,180 @@
+{
+  "bookId": "laozi",
+  "num": 21,
+  "title": "第二十一章",
+  "author": "老子",
+  "authorId": "Laozi",
+  "dynasty": "周",
+  "era": "周",
+  "genre": "prose",
+  "verses": [
+    {
+      "text": "孔德之容，惟道是從。"
+    },
+    {
+      "text": "道之為物，惟恍惟惚。惚兮恍兮，其中有象；恍兮惚兮，其中有物。"
+    },
+    {
+      "text": "窈兮冥兮，其中有精；其精甚真，其中有信。"
+    },
+    {
+      "text": "自古及今，其名不去，以閱眾甫。"
+    },
+    {
+      "text": "吾何以知眾甫之狀哉？以此。"
+    }
+  ],
+  "sections": {},
+  "annotations": [],
+  "layers": {
+    "hesonggong": [
+      {
+        "id": "hesonggong-1",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 10
+        },
+        "kind": "semantic",
+        "text": "孔德之容，惟道是從。道之為物，惟恍惟惚。惚兮恍兮，其中有象。恍兮惚兮，其中有物。",
+        "source": "cham"
+      },
+      {
+        "id": "hesonggong-2",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 2,
+          "start": 0,
+          "end": 20
+        },
+        "kind": "semantic",
+        "text": "窈兮冥兮，其中有精。其精甚真，其中有信。自古及今，其名不去，以閱眾甫。吾何以知眾甫之狀哉？以此。",
+        "source": "cham"
+      }
+    ],
+    "wangbi": [
+      {
+        "id": "wangbi-1",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 10
+        },
+        "kind": "semantic",
+        "text": "孔德之容，惟道是從。道之為物，恍惚難名，其中有象有物。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-2",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 2,
+          "start": 0,
+          "end": 20
+        },
+        "kind": "semantic",
+        "text": "窈冥之中有精，其精甚真，其中有信。自古及今，其名不去，以閱眾甫。以此知眾甫之狀。",
+        "source": "cham"
+      }
+    ]
+  },
+  "annotationLayers": [
+    {
+      "id": "default",
+      "label": "原文",
+      "shortLabel": "文",
+      "contributor": "Laozi",
+      "role": "author",
+      "nature": "annotation",
+      "displayOrder": 0,
+      "enabled": true,
+      "annotations": []
+    },
+    {
+      "id": "wangbi",
+      "label": "王弼註",
+      "shortLabel": "王",
+      "contributor": "C001",
+      "role": "commentator",
+      "nature": "commentary",
+      "displayOrder": 1,
+      "enabled": true,
+      "annotations": [
+        {
+          "id": "wangbi-1",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 10
+          },
+          "kind": "semantic",
+          "text": "孔德之容，惟道是從。道之為物，恍惚難名，其中有象有物。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-2",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 2,
+            "start": 0,
+            "end": 20
+          },
+          "kind": "semantic",
+          "text": "窈冥之中有精，其精甚真，其中有信。自古及今，其名不去，以閱眾甫。以此知眾甫之狀。",
+          "source": "cham"
+        }
+      ]
+    },
+    {
+      "id": "hesonggong",
+      "label": "河上公註",
+      "shortLabel": "河",
+      "contributor": "C002",
+      "role": "commentator",
+      "nature": "commentary",
+      "displayOrder": 2,
+      "enabled": true,
+      "annotations": [
+        {
+          "id": "hesonggong-1",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 10
+          },
+          "kind": "semantic",
+          "text": "孔德之容，惟道是從。道之為物，惟恍惟惚。惚兮恍兮，其中有象。恍兮惚兮，其中有物。",
+          "source": "cham"
+        },
+        {
+          "id": "hesonggong-2",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 2,
+            "start": 0,
+            "end": 20
+          },
+          "kind": "semantic",
+          "text": "窈兮冥兮，其中有精。其精甚真，其中有信。自古及今，其名不去，以閱眾甫。吾何以知眾甫之狀哉？以此。",
+          "source": "cham"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "textRef": "laozi",
+    "relation": "section"
+  }
+}

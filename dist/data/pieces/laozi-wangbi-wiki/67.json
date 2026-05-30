@@ -1,0 +1,224 @@
+{
+  "bookId": "laozi-wangbi-wiki",
+  "num": 67,
+  "title": "第六十七章",
+  "author": "老子",
+  "authorId": "Laozi",
+  "dynasty": "周",
+  "era": "周",
+  "genre": "prose",
+  "verses": [
+    {
+      "text": "天下皆謂我道大，似不肖。夫唯大，故似不肖。若肖，久矣其細也夫！"
+    },
+    {
+      "text": "我有三寶，持而保之。一曰慈，二曰儉，三曰不敢為天下先。慈故能勇，"
+    },
+    {
+      "text": "儉故能廣，"
+    },
+    {
+      "text": "不敢為天下先，故能成器長。"
+    },
+    {
+      "text": "今舍慈且勇，"
+    },
+    {
+      "text": "舍儉且廣，舍後且先，死矣！夫慈以戰則勝，"
+    },
+    {
+      "text": "以守則固。天將救之，以慈衛之。"
+    }
+  ],
+  "sections": {},
+  "annotations": [],
+  "layers": {
+    "wangbi": [
+      {
+        "id": "wangbi-1",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 31
+        },
+        "kind": "commentary",
+        "text": "久矣其細，猶曰其細久矣。肖，則失其所以為大矣。故曰，若肖久矣，其細也夫。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-2",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 0,
+          "end": 32
+        },
+        "kind": "commentary",
+        "text": "夫慈，以陳則勝，以守則固，故能勇也。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-3",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 2,
+          "start": 0,
+          "end": 5
+        },
+        "kind": "commentary",
+        "text": "節儉愛費，天下不匱，故能廣也。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-4",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 3,
+          "start": 0,
+          "end": 13
+        },
+        "kind": "commentary",
+        "text": "唯後外其身，為物所歸，然後乃能立成器為天下利，為物之長也。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-5",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 4,
+          "start": 0,
+          "end": 6
+        },
+        "kind": "commentary",
+        "text": "且，猶取也。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-6",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 5,
+          "start": 0,
+          "end": 20
+        },
+        "kind": "commentary",
+        "text": "相慜而不避於難，故勝也。",
+        "source": "cham"
+      }
+    ]
+  },
+  "annotationLayers": [
+    {
+      "id": "default",
+      "label": "原文",
+      "shortLabel": "文",
+      "contributor": "Laozi",
+      "role": "author",
+      "nature": "annotation",
+      "displayOrder": 0,
+      "enabled": true,
+      "annotations": []
+    },
+    {
+      "id": "wangbi",
+      "label": "王弼註",
+      "shortLabel": "王",
+      "contributor": "C001",
+      "role": "commentator",
+      "nature": "commentary",
+      "displayOrder": 1,
+      "enabled": true,
+      "annotations": [
+        {
+          "id": "wangbi-1",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 31
+          },
+          "kind": "commentary",
+          "text": "久矣其細，猶曰其細久矣。肖，則失其所以為大矣。故曰，若肖久矣，其細也夫。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-2",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 1,
+            "start": 0,
+            "end": 32
+          },
+          "kind": "commentary",
+          "text": "夫慈，以陳則勝，以守則固，故能勇也。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-3",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 2,
+            "start": 0,
+            "end": 5
+          },
+          "kind": "commentary",
+          "text": "節儉愛費，天下不匱，故能廣也。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-4",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 3,
+            "start": 0,
+            "end": 13
+          },
+          "kind": "commentary",
+          "text": "唯後外其身，為物所歸，然後乃能立成器為天下利，為物之長也。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-5",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 4,
+            "start": 0,
+            "end": 6
+          },
+          "kind": "commentary",
+          "text": "且，猶取也。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-6",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 5,
+            "start": 0,
+            "end": 20
+          },
+          "kind": "commentary",
+          "text": "相慜而不避於難，故勝也。",
+          "source": "cham"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "textRef": "laozi-wangbi-wiki",
+    "relation": "section"
+  }
+}

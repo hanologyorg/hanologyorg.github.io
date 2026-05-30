@@ -1,0 +1,2842 @@
+{
+  "meta": {
+    "id": "shengui",
+    "title": "臣軌",
+    "subtitle": "唐·武則天",
+    "publisher": "早稲田大学図書館",
+    "genre": "prose",
+    "count": 13,
+    "layers": [
+      {
+        "id": "commentary",
+        "label": "注",
+        "contributor": "C011"
+      }
+    ]
+  },
+  "pieces": [
+    {
+      "bookId": "shengui",
+      "num": 0,
+      "title": "外序①",
+      "author": "佚名",
+      "authorId": "C010",
+      "dynasty": "未知",
+      "era": "未知",
+      "genre": "prose",
+      "verses": [
+        {
+          "text": "此文本源於早稲田大学図書館藏品《帝範臣軌》（兩冊）合刻本，其中《臣軌》一冊，於寛文8年（1668）由京都「林和泉掾」出版。"
+        },
+        {
+          "text": "冊中印有「不老菴」「去水 五味均平蔵」和「両□」共三印。"
+        },
+        {
+          "text": "唐上元二年（675）三月，唐高宗皇后武則天引文學之士著作郎元萬頃、左史劉禕之等人，修撰此書，作為臣僚借鑒之書。"
+        },
+        {
+          "text": "武曌（624～705），即武則天。唐高宗后、武周皇帝。（690～705）年在位。並州文水（山西文水）人。《舊唐書》言其「素多智計，兼涉文史」。在位能「尊時憲而抑幸臣，聽忠言而誅酷吏」。初為太宗才人。高宗即位，被立為皇后。參決朝政，與高宗並稱「二聖」。中宗即位，臨朝稱制。後廢中宗立睿宗，仍握大權。690年廢睿宗，自稱聖神皇帝，改國號為周，改元天授，史稱武周。神龍元年中宗復位，上尊號為則天大聖皇帝。掌政期間，雖多弊政，但保持了唐前期之盛。"
+        }
+      ],
+      "sections": {},
+      "annotations": [],
+      "annotationLayers": [
+        {
+          "id": "default",
+          "label": "原文",
+          "shortLabel": "文",
+          "contributor": "C004",
+          "role": "author",
+          "nature": "annotation",
+          "displayOrder": 0,
+          "enabled": true,
+          "annotations": []
+        },
+        {
+          "id": "commentary",
+          "label": "注",
+          "shortLabel": "注",
+          "contributor": "C011",
+          "role": "commentator",
+          "nature": "commentary",
+          "displayOrder": 1,
+          "enabled": true,
+          "annotations": []
+        }
+      ],
+      "source": {
+        "textRef": "shengui",
+        "relation": "section"
+      }
+    },
+    {
+      "bookId": "shengui",
+      "num": 1,
+      "title": "臣軌序 御撰",
+      "author": "武曌",
+      "authorId": "C004",
+      "dynasty": "唐",
+      "era": "唐",
+      "eraCode": "24",
+      "genre": "prose",
+      "verses": [
+        {
+          "text": "蓋聞惟天著象，庶品同於照臨；惟地含章，群生等於亭育。朕以庸昧，忝位坤元。思齊厚載之仁，式馨普覃之惠。乃中乃外，思養之誌靡殊；惟子惟臣，慈誘之情無隔。"
+        },
+        {
+          "text": "常願甫殫微懇，上翊紫機，爰須眾僚，聿匡玄化。伏以天皇，明逾則哲，志切旁求。"
+        },
+        {
+          "text": "簪裾總川嶽之靈；珩珮聚星辰之秀。"
+        },
+        {
+          "text": "群英蒞職，眾彥分司。"
+        },
+        {
+          "text": "足以廣扇淳風，長隆寶祚。"
+        },
+        {
+          "text": "但母之於子，慈愛特深。雖復已積忠良，猶且思垂勸勵。"
+        },
+        {
+          "text": "昔文伯既達，仍加喻軸之言；"
+        },
+        {
+          "text": "孟軻已賢，更益斷機之誨。"
+        },
+        {
+          "text": "良以情隆撫字，心欲助成。比者，太子及王已撰修身之訓，群公列辟未敷忠告之規。"
+        },
+        {
+          "text": "近以暇辰，遊心策府，"
+        },
+        {
+          "text": "聊因煒管，用寫虛襟。"
+        },
+        {
+          "text": "故綴敘所聞，以為《臣軌》一部。想周朝之十亂，爰著十章；"
+        },
+        {
+          "text": "思殷室之兩臣，分為兩卷。"
+        },
+        {
+          "text": "所以發揮言行，鎔範身心。"
+        },
+        {
+          "text": "為事上之軌模，作臣下之繩準。"
+        },
+        {
+          "text": "若乃遐想綿載，眇鑒前修；"
+        },
+        {
+          "text": "莫不元首居尊，股肱宣力。"
+        },
+        {
+          "text": "資棟梁而成大廈，憑舟楫而濟巨川。"
+        },
+        {
+          "text": "唱和相依，同功共體。"
+        },
+        {
+          "text": "然則君親既立，忠孝形焉。奉國奉家，率由之道寧二；"
+        },
+        {
+          "text": "事君事父，資敬之途斯一。"
+        },
+        {
+          "text": "臣主之義，其至矣乎！"
+        },
+        {
+          "text": "休戚是均，可不深鑒。"
+        },
+        {
+          "text": "夫麗容雖麗，猶待鏡以端形；明德雖明，終假言而榮行。"
+        },
+        {
+          "text": "今故以茲所撰，普錫具僚，誠非筆削之工，貴申裨導之益。"
+        },
+        {
+          "text": "何則？正言斯重，玄珠比而尚輕；巽語為珍，蒼璧喻而非寶。"
+        },
+        {
+          "text": "是知贈人以財者，唯申即目之歡；贈人以言者，能致終身之福。"
+        },
+        {
+          "text": "若使佩茲箴戒，同彼韋弦，"
+        },
+        {
+          "text": "修己必顧其規，立行每觀其則，自然榮隨歲積，慶與時新，家將國而共安，下與上而俱泰。察微之士，所宜三思。"
+        },
+        {
+          "text": "御撰"
+        }
+      ],
+      "sections": {
+        "annotations": "1.朕：武則天（624—705），名曌，并州文水人。中國歷史上唯一女皇帝。此序為垂拱元年（685）撰。\n2.坤元：《周易·坤卦》「至哉坤元，萬物資生」。此以坤喻后位，武則天時為太后臨朝。\n3.天皇：唐高宗李治（628—683），武則天之夫。\n4.川嶽：河流與山嶽，比喻傑出人才匯聚如山川靈秀。\n5.星辰：比喻人才如星辰璀璨。\n6.文伯：公父文伯，春秋時魯國大夫。其母敬姜以紡織喻治國，見《國語·魯語》。\n7.孟軻：孟子（約前372—前289），名軻，鄒人。儒學重要代表人物。\n8.斷機：孟子幼時廢學歸家，其母以刀斷機杼，喻學業半途而廢。見《列女傳》。\n9.策府：書庫、典籍之所。\n10.臣軌：為臣之道的法則。此書十章，專論臣子事君之道。\n11.周朝之十亂：周武王有亂臣十人，指十位輔佐治國的賢臣。見《論語·泰伯》。\n12.殷室之兩臣：商朝的兩位賢臣，指伊尹、傅說。\n13.元首居尊，股肱宣力：語出《尚書·益稷》。元首喻君，股肱喻臣，君臣相須。\n14.舟楫而濟巨川：語出《尚書·說命上》：「若濟巨川，用汝作舟楫。」喻賢臣輔佐君王。\n15.忠孝：忠於國君，孝於父母。儒家倫理核心。\n16.玄珠：黑色的明珠，極言其珍貴。見《莊子·天地》。\n17.蒼璧：青色的璧玉，古代極為珍貴的禮器。\n18.韋弦：西門豹性急，佩韋（牛皮）以自緩；董安於性緩，佩弦以自急。見《韓非子·觀行》。喻自我警戒。\n19.三思：多次思考。語出《論語·公冶長》：「季文子三思而後行。」"
+      },
+      "annotations": [
+        {
+          "id": "1-1",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 26,
+            "end": 27
+          },
+          "kind": "person",
+          "text": "武則天（624—705），名曌，并州文水人。中國歷史上唯一女皇帝。此序為垂拱元年（685）撰。",
+          "source": "cham"
+        },
+        {
+          "id": "1-2",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 33,
+            "end": 35
+          },
+          "kind": "semantic",
+          "text": "《周易·坤卦》「至哉坤元，萬物資生」。此以坤喻后位，武則天時為太后臨朝。",
+          "source": "cham"
+        },
+        {
+          "id": "1-3",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 1,
+            "start": 24,
+            "end": 26
+          },
+          "kind": "person",
+          "text": "唐高宗李治（628—683），武則天之夫。",
+          "source": "cham"
+        },
+        {
+          "id": "1-4",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 2,
+            "start": 3,
+            "end": 5
+          },
+          "kind": "semantic",
+          "text": "河流與山嶽，比喻傑出人才匯聚如山川靈秀。",
+          "source": "cham"
+        },
+        {
+          "id": "1-5",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 2,
+            "start": 11,
+            "end": 13
+          },
+          "kind": "semantic",
+          "text": "比喻人才如星辰璀璨。",
+          "source": "cham"
+        },
+        {
+          "id": "1-6",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 6,
+            "start": 1,
+            "end": 3
+          },
+          "kind": "person",
+          "text": "公父文伯，春秋時魯國大夫。其母敬姜以紡織喻治國，見《國語·魯語》。",
+          "source": "cham"
+        },
+        {
+          "id": "1-7",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 7,
+            "start": 0,
+            "end": 2
+          },
+          "kind": "person",
+          "text": "孟子（約前372—前289），名軻，鄒人。儒學重要代表人物。",
+          "source": "cham"
+        },
+        {
+          "id": "1-8",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 7,
+            "start": 7,
+            "end": 9
+          },
+          "kind": "allusion",
+          "text": "孟子幼時廢學歸家，其母以刀斷機杼，喻學業半途而廢。見《列女傳》。",
+          "source": "cham"
+        },
+        {
+          "id": "1-9",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 9,
+            "start": 7,
+            "end": 9
+          },
+          "kind": "semantic",
+          "text": "書庫、典籍之所。",
+          "source": "cham"
+        },
+        {
+          "id": "1-10",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 11,
+            "start": 9,
+            "end": 11
+          },
+          "kind": "semantic",
+          "text": "為臣之道的法則。此書十章，專論臣子事君之道。",
+          "source": "cham"
+        },
+        {
+          "id": "1-11",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 11,
+            "start": 16,
+            "end": 21
+          },
+          "kind": "event",
+          "text": "周武王有亂臣十人，指十位輔佐治國的賢臣。見《論語·泰伯》。",
+          "source": "cham"
+        },
+        {
+          "id": "1-12",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 12,
+            "start": 1,
+            "end": 6
+          },
+          "kind": "event",
+          "text": "商朝的兩位賢臣，指伊尹、傅說。",
+          "source": "cham"
+        },
+        {
+          "id": "1-13",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 16,
+            "start": 2,
+            "end": 11
+          },
+          "kind": "allusion",
+          "text": "語出《尚書·益稷》。元首喻君，股肱喻臣，君臣相須。",
+          "source": "cham"
+        },
+        {
+          "id": "1-14",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 17,
+            "start": 9,
+            "end": 15
+          },
+          "kind": "allusion",
+          "text": "語出《尚書·說命上》：「若濟巨川，用汝作舟楫。」喻賢臣輔佐君王。",
+          "source": "cham"
+        },
+        {
+          "id": "1-15",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 19,
+            "start": 7,
+            "end": 9
+          },
+          "kind": "semantic",
+          "text": "忠於國君，孝於父母。儒家倫理核心。",
+          "source": "cham"
+        },
+        {
+          "id": "1-16",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 25,
+            "start": 8,
+            "end": 10
+          },
+          "kind": "semantic",
+          "text": "黑色的明珠，極言其珍貴。見《莊子·天地》。",
+          "source": "cham"
+        },
+        {
+          "id": "1-17",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 25,
+            "start": 20,
+            "end": 22
+          },
+          "kind": "semantic",
+          "text": "青色的璧玉，古代極為珍貴的禮器。",
+          "source": "cham"
+        },
+        {
+          "id": "1-18",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 27,
+            "start": 9,
+            "end": 11
+          },
+          "kind": "allusion",
+          "text": "西門豹性急，佩韋（牛皮）以自緩；董安於性緩，佩弦以自急。見《韓非子·觀行》。喻自我警戒。",
+          "source": "cham"
+        },
+        {
+          "id": "1-19",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 28,
+            "start": 47,
+            "end": 49
+          },
+          "kind": "allusion",
+          "text": "多次思考。語出《論語·公冶長》：「季文子三思而後行。」",
+          "source": "cham"
+        }
+      ],
+      "layers": {
+        "commentary": [
+          {
+            "id": "commentary-1",
+            "range": {
+              "type": "range",
+              "scope": "verse",
+              "verseIndex": 0,
+              "start": 26,
+              "end": 27
+            },
+            "kind": "semantic",
+            "text": "靡，無也。聖心無私，故視之若一也。",
+            "source": "cham"
+          },
+          {
+            "id": "commentary-2",
+            "range": {
+              "type": "range",
+              "scope": "verse",
+              "verseIndex": 0,
+              "start": 33,
+              "end": 35
+            },
+            "kind": "semantic",
+            "text": "《書》曰：「知人則哲，惟帝其難之。」又曰：「旁求俊彥，啟迪後人。」",
+            "source": "cham"
+          },
+          {
+            "id": "commentary-3",
+            "range": {
+              "type": "range",
+              "scope": "verse",
+              "verseIndex": 1,
+              "start": 24,
+              "end": 26
+            },
+            "kind": "semantic",
+            "text": "簪裾、珩珮所以別貴賤也。左思《蜀都賦》曰：「近則江漢炳靈，代載其英，蔚若相如忄爵，若君王。」《毛詩》曰：「嵩高惟嶽，峻極於天。惟嶽降神，生甫及申。」《春秋佐助期》曰：「漢將蕭何，昴精生於豐，通於製度也。」",
+            "source": "cham"
+          },
+          {
+            "id": "commentary-4",
+            "range": {
+              "type": "range",
+              "scope": "verse",
+              "verseIndex": 2,
+              "start": 3,
+              "end": 5
+            },
+            "kind": "semantic",
+            "text": "《文子》曰：「知過萬人謂之英。」",
+            "source": "cham"
+          },
+          {
+            "id": "commentary-5",
+            "range": {
+              "type": "range",
+              "scope": "verse",
+              "verseIndex": 2,
+              "start": 11,
+              "end": 13
+            },
+            "kind": "semantic",
+            "text": "蒞，臨也。",
+            "source": "cham"
+          },
+          {
+            "id": "commentary-6",
+            "range": {
+              "type": "range",
+              "scope": "verse",
+              "verseIndex": 6,
+              "start": 1,
+              "end": 3
+            },
+            "kind": "semantic",
+            "text": "孔安國《尚書傳》曰：「美德曰彥。」",
+            "source": "cham"
+          },
+          {
+            "id": "commentary-7",
+            "range": {
+              "type": "range",
+              "scope": "verse",
+              "verseIndex": 7,
+              "start": 0,
+              "end": 2
+            },
+            "kind": "semantic",
+            "text": "《易》曰：「聖人之大寶曰位。」",
+            "source": "cham"
+          },
+          {
+            "id": "commentary-8",
+            "range": {
+              "type": "range",
+              "scope": "verse",
+              "verseIndex": 7,
+              "start": 7,
+              "end": 9
+            },
+            "kind": "semantic",
+            "text": "《書》曰：「咸懷忠良。」",
+            "source": "cham"
+          },
+          {
+            "id": "commentary-9",
+            "range": {
+              "type": "range",
+              "scope": "verse",
+              "verseIndex": 9,
+              "start": 7,
+              "end": 9
+            },
+            "kind": "semantic",
+            "text": "《列女傳》曰：「文伯相魯，敬薑謂之曰：『吾語汝，理國之要，盡在經耳。夫服重任行遠，道正直而固者，軸也。軸可以為相。』文伯再拜，受教矣。」",
+            "source": "cham"
+          },
+          {
+            "id": "commentary-10",
+            "range": {
+              "type": "range",
+              "scope": "verse",
+              "verseIndex": 11,
+              "start": 9,
+              "end": 11
+            },
+            "kind": "semantic",
+            "text": "《列女傳》曰：孟子之少也，既學而歸。孟母方織，問學所至矣。孟子曰：「自若也。」孟母以刀斷其織。孟子懼而問其故。旦夕勤學不息，師事子思，遂成天下之名儒。",
+            "source": "cham"
+          },
+          {
+            "id": "commentary-11",
+            "range": {
+              "type": "range",
+              "scope": "verse",
+              "verseIndex": 11,
+              "start": 16,
+              "end": 21
+            },
+            "kind": "semantic",
+            "text": "《論語》曰：「忠告以善道之。」",
+            "source": "cham"
+          },
+          {
+            "id": "commentary-12",
+            "range": {
+              "type": "range",
+              "scope": "verse",
+              "verseIndex": 12,
+              "start": 1,
+              "end": 6
+            },
+            "kind": "semantic",
+            "text": "《穆天子傳》曰：「觀先王之策府。」",
+            "source": "cham"
+          },
+          {
+            "id": "commentary-13",
+            "range": {
+              "type": "range",
+              "scope": "verse",
+              "verseIndex": 16,
+              "start": 2,
+              "end": 11
+            },
+            "kind": "semantic",
+            "text": "襟，心也。《毛詩》曰：「靜女其孌，貽我彤管。彤管有煒，悅懌女美。」",
+            "source": "cham"
+          },
+          {
+            "id": "commentary-14",
+            "range": {
+              "type": "range",
+              "scope": "verse",
+              "verseIndex": 17,
+              "start": 9,
+              "end": 15
+            },
+            "kind": "semantic",
+            "text": "《論語》曰：「武王曰：『予有亂臣十人。』」鄭玄曰：「亂，治也。武王言我有治政事者十人。謂文母、周公、召公、太公、畢公、榮公、太顛、閎夭、散宜生、南宮括也。」",
+            "source": "cham"
+          },
+          {
+            "id": "commentary-15",
+            "range": {
+              "type": "range",
+              "scope": "verse",
+              "verseIndex": 19,
+              "start": 7,
+              "end": 9
+            },
+            "kind": "semantic",
+            "text": "謂伊尹、傅說也。",
+            "source": "cham"
+          },
+          {
+            "id": "commentary-16",
+            "range": {
+              "type": "range",
+              "scope": "verse",
+              "verseIndex": 25,
+              "start": 8,
+              "end": 10
+            },
+            "kind": "semantic",
+            "text": "《易》曰：「六爻發揮，旁通情也。」",
+            "source": "cham"
+          },
+          {
+            "id": "commentary-17",
+            "range": {
+              "type": "range",
+              "scope": "verse",
+              "verseIndex": 25,
+              "start": 20,
+              "end": 22
+            },
+            "kind": "semantic",
+            "text": "《□□》曰：禹之為君也，左準繩，右規矩。",
+            "source": "cham"
+          },
+          {
+            "id": "commentary-18",
+            "range": {
+              "type": "range",
+              "scope": "verse",
+              "verseIndex": 27,
+              "start": 9,
+              "end": 11
+            },
+            "kind": "semantic",
+            "text": "《楚辭》曰：「謇吾法夫前修。」",
+            "source": "cham"
+          },
+          {
+            "id": "commentary-19",
+            "range": {
+              "type": "range",
+              "scope": "verse",
+              "verseIndex": 28,
+              "start": 47,
+              "end": 49
+            },
+            "kind": "semantic",
+            "text": "《書》曰：「元首明哉，股肱良哉。」又曰：「予欲宣力四方，汝為。」",
+            "source": "cham"
+          },
+          {
+            "id": "commentary-20",
+            "range": {
+              "type": "range",
+              "scope": "title",
+              "start": 0,
+              "end": 1
+            },
+            "kind": "semantic",
+            "text": "《書》曰：「若濟巨川，用汝作舟楫。」",
+            "source": "cham"
+          },
+          {
+            "id": "commentary-21",
+            "range": {
+              "type": "range",
+              "scope": "title",
+              "start": 0,
+              "end": 1
+            },
+            "kind": "semantic",
+            "text": "《毛詩》曰：「唱予和汝。」",
+            "source": "cham"
+          },
+          {
+            "id": "commentary-22",
+            "range": {
+              "type": "range",
+              "scope": "title",
+              "start": 0,
+              "end": 1
+            },
+            "kind": "semantic",
+            "text": "《毛詩》曰：「率由舊章。」",
+            "source": "cham"
+          },
+          {
+            "id": "commentary-23",
+            "range": {
+              "type": "range",
+              "scope": "title",
+              "start": 0,
+              "end": 1
+            },
+            "kind": "semantic",
+            "text": "《孝經》曰：「資於事父以事君而敬同。」",
+            "source": "cham"
+          },
+          {
+            "id": "commentary-24",
+            "range": {
+              "type": "range",
+              "scope": "title",
+              "start": 0,
+              "end": 1
+            },
+            "kind": "semantic",
+            "text": "父子雖至親，猶未若君臣之同體。故曰「其至矣乎。」",
+            "source": "cham"
+          },
+          {
+            "id": "commentary-25",
+            "range": {
+              "type": "range",
+              "scope": "title",
+              "start": 0,
+              "end": 1
+            },
+            "kind": "semantic",
+            "text": "休，美也。戚，憂也。",
+            "source": "cham"
+          },
+          {
+            "id": "commentary-26",
+            "range": {
+              "type": "range",
+              "scope": "title",
+              "start": 0,
+              "end": 1
+            },
+            "kind": "semantic",
+            "text": "《漢書》張良言：「忠言逆於耳利於行，毒藥苦於口利於病也。」",
+            "source": "cham"
+          },
+          {
+            "id": "commentary-27",
+            "range": {
+              "type": "range",
+              "scope": "title",
+              "start": 0,
+              "end": 1
+            },
+            "kind": "semantic",
+            "text": "《史記》曰：孔子文辭有可與人共者，弗獨有也。至於為《春秋》，筆則削，削則削，子夏之徒不能讚一辭。",
+            "source": "cham"
+          },
+          {
+            "id": "commentary-28",
+            "range": {
+              "type": "range",
+              "scope": "title",
+              "start": 0,
+              "end": 1
+            },
+            "kind": "semantic",
+            "text": "《說文》曰：裨，倍益也。",
+            "source": "cham"
+          },
+          {
+            "id": "commentary-29",
+            "range": {
+              "type": "range",
+              "scope": "title",
+              "start": 0,
+              "end": 1
+            },
+            "kind": "semantic",
+            "text": "《莊子》曰：「黃帝遊於赤水之北，遂歸，遺其玄珠。」",
+            "source": "cham"
+          },
+          {
+            "id": "commentary-30",
+            "range": {
+              "type": "range",
+              "scope": "title",
+              "start": 0,
+              "end": 1
+            },
+            "kind": "semantic",
+            "text": "《論語》曰：「巽與之言，能無悅乎？」",
+            "source": "cham"
+          },
+          {
+            "id": "commentary-31",
+            "range": {
+              "type": "range",
+              "scope": "title",
+              "start": 0,
+              "end": 1
+            },
+            "kind": "semantic",
+            "text": "《周禮》曰：「蒼璧祀天。」",
+            "source": "cham"
+          },
+          {
+            "id": "commentary-32",
+            "range": {
+              "type": "range",
+              "scope": "title",
+              "start": 0,
+              "end": 1
+            },
+            "kind": "semantic",
+            "text": "《家語》曰：孔子去周，老子送之，曰：「富者贈人以財，仁者贈人以言。吾雖不能富而竊仁者之跡，請送子以言也。」",
+            "source": "cham"
+          },
+          {
+            "id": "commentary-33",
+            "range": {
+              "type": "range",
+              "scope": "title",
+              "start": 0,
+              "end": 1
+            },
+            "kind": "semantic",
+            "text": "同上。仁者贈人以言。",
+            "source": "cham"
+          },
+          {
+            "id": "commentary-34",
+            "range": {
+              "type": "range",
+              "scope": "title",
+              "start": 0,
+              "end": 1
+            },
+            "kind": "semantic",
+            "text": "《韓子》曰：西門豹之情急，故佩韋以緩己。董安幹之心緩，故佩弦以急己也。",
+            "source": "cham"
+          },
+          {
+            "id": "commentary-35",
+            "range": {
+              "type": "range",
+              "scope": "title",
+              "start": 0,
+              "end": 1
+            },
+            "kind": "semantic",
+            "text": "《論語》曰：季文子三思而後行也。庶照鄙誠，敬終高德，凡諸章目，列於後云。",
+            "source": "cham"
+          }
+        ]
+      },
+      "annotationLayers": [
+        {
+          "id": "default",
+          "label": "原文",
+          "shortLabel": "文",
+          "contributor": "C004",
+          "role": "author",
+          "nature": "annotation",
+          "displayOrder": 0,
+          "enabled": true,
+          "annotations": []
+        },
+        {
+          "id": "commentary",
+          "label": "注",
+          "shortLabel": "注",
+          "contributor": "C011",
+          "role": "commentator",
+          "nature": "commentary",
+          "displayOrder": 1,
+          "enabled": true,
+          "annotations": [
+            {
+              "id": "commentary-1",
+              "range": {
+                "type": "range",
+                "scope": "verse",
+                "verseIndex": 0,
+                "start": 26,
+                "end": 27
+              },
+              "kind": "semantic",
+              "text": "靡，無也。聖心無私，故視之若一也。",
+              "source": "cham"
+            },
+            {
+              "id": "commentary-2",
+              "range": {
+                "type": "range",
+                "scope": "verse",
+                "verseIndex": 0,
+                "start": 33,
+                "end": 35
+              },
+              "kind": "semantic",
+              "text": "《書》曰：「知人則哲，惟帝其難之。」又曰：「旁求俊彥，啟迪後人。」",
+              "source": "cham"
+            },
+            {
+              "id": "commentary-3",
+              "range": {
+                "type": "range",
+                "scope": "verse",
+                "verseIndex": 1,
+                "start": 24,
+                "end": 26
+              },
+              "kind": "semantic",
+              "text": "簪裾、珩珮所以別貴賤也。左思《蜀都賦》曰：「近則江漢炳靈，代載其英，蔚若相如忄爵，若君王。」《毛詩》曰：「嵩高惟嶽，峻極於天。惟嶽降神，生甫及申。」《春秋佐助期》曰：「漢將蕭何，昴精生於豐，通於製度也。」",
+              "source": "cham"
+            },
+            {
+              "id": "commentary-4",
+              "range": {
+                "type": "range",
+                "scope": "verse",
+                "verseIndex": 2,
+                "start": 3,
+                "end": 5
+              },
+              "kind": "semantic",
+              "text": "《文子》曰：「知過萬人謂之英。」",
+              "source": "cham"
+            },
+            {
+              "id": "commentary-5",
+              "range": {
+                "type": "range",
+                "scope": "verse",
+                "verseIndex": 2,
+                "start": 11,
+                "end": 13
+              },
+              "kind": "semantic",
+              "text": "蒞，臨也。",
+              "source": "cham"
+            },
+            {
+              "id": "commentary-6",
+              "range": {
+                "type": "range",
+                "scope": "verse",
+                "verseIndex": 6,
+                "start": 1,
+                "end": 3
+              },
+              "kind": "semantic",
+              "text": "孔安國《尚書傳》曰：「美德曰彥。」",
+              "source": "cham"
+            },
+            {
+              "id": "commentary-7",
+              "range": {
+                "type": "range",
+                "scope": "verse",
+                "verseIndex": 7,
+                "start": 0,
+                "end": 2
+              },
+              "kind": "semantic",
+              "text": "《易》曰：「聖人之大寶曰位。」",
+              "source": "cham"
+            },
+            {
+              "id": "commentary-8",
+              "range": {
+                "type": "range",
+                "scope": "verse",
+                "verseIndex": 7,
+                "start": 7,
+                "end": 9
+              },
+              "kind": "semantic",
+              "text": "《書》曰：「咸懷忠良。」",
+              "source": "cham"
+            },
+            {
+              "id": "commentary-9",
+              "range": {
+                "type": "range",
+                "scope": "verse",
+                "verseIndex": 9,
+                "start": 7,
+                "end": 9
+              },
+              "kind": "semantic",
+              "text": "《列女傳》曰：「文伯相魯，敬薑謂之曰：『吾語汝，理國之要，盡在經耳。夫服重任行遠，道正直而固者，軸也。軸可以為相。』文伯再拜，受教矣。」",
+              "source": "cham"
+            },
+            {
+              "id": "commentary-10",
+              "range": {
+                "type": "range",
+                "scope": "verse",
+                "verseIndex": 11,
+                "start": 9,
+                "end": 11
+              },
+              "kind": "semantic",
+              "text": "《列女傳》曰：孟子之少也，既學而歸。孟母方織，問學所至矣。孟子曰：「自若也。」孟母以刀斷其織。孟子懼而問其故。旦夕勤學不息，師事子思，遂成天下之名儒。",
+              "source": "cham"
+            },
+            {
+              "id": "commentary-11",
+              "range": {
+                "type": "range",
+                "scope": "verse",
+                "verseIndex": 11,
+                "start": 16,
+                "end": 21
+              },
+              "kind": "semantic",
+              "text": "《論語》曰：「忠告以善道之。」",
+              "source": "cham"
+            },
+            {
+              "id": "commentary-12",
+              "range": {
+                "type": "range",
+                "scope": "verse",
+                "verseIndex": 12,
+                "start": 1,
+                "end": 6
+              },
+              "kind": "semantic",
+              "text": "《穆天子傳》曰：「觀先王之策府。」",
+              "source": "cham"
+            },
+            {
+              "id": "commentary-13",
+              "range": {
+                "type": "range",
+                "scope": "verse",
+                "verseIndex": 16,
+                "start": 2,
+                "end": 11
+              },
+              "kind": "semantic",
+              "text": "襟，心也。《毛詩》曰：「靜女其孌，貽我彤管。彤管有煒，悅懌女美。」",
+              "source": "cham"
+            },
+            {
+              "id": "commentary-14",
+              "range": {
+                "type": "range",
+                "scope": "verse",
+                "verseIndex": 17,
+                "start": 9,
+                "end": 15
+              },
+              "kind": "semantic",
+              "text": "《論語》曰：「武王曰：『予有亂臣十人。』」鄭玄曰：「亂，治也。武王言我有治政事者十人。謂文母、周公、召公、太公、畢公、榮公、太顛、閎夭、散宜生、南宮括也。」",
+              "source": "cham"
+            },
+            {
+              "id": "commentary-15",
+              "range": {
+                "type": "range",
+                "scope": "verse",
+                "verseIndex": 19,
+                "start": 7,
+                "end": 9
+              },
+              "kind": "semantic",
+              "text": "謂伊尹、傅說也。",
+              "source": "cham"
+            },
+            {
+              "id": "commentary-16",
+              "range": {
+                "type": "range",
+                "scope": "verse",
+                "verseIndex": 25,
+                "start": 8,
+                "end": 10
+              },
+              "kind": "semantic",
+              "text": "《易》曰：「六爻發揮，旁通情也。」",
+              "source": "cham"
+            },
+            {
+              "id": "commentary-17",
+              "range": {
+                "type": "range",
+                "scope": "verse",
+                "verseIndex": 25,
+                "start": 20,
+                "end": 22
+              },
+              "kind": "semantic",
+              "text": "《□□》曰：禹之為君也，左準繩，右規矩。",
+              "source": "cham"
+            },
+            {
+              "id": "commentary-18",
+              "range": {
+                "type": "range",
+                "scope": "verse",
+                "verseIndex": 27,
+                "start": 9,
+                "end": 11
+              },
+              "kind": "semantic",
+              "text": "《楚辭》曰：「謇吾法夫前修。」",
+              "source": "cham"
+            },
+            {
+              "id": "commentary-19",
+              "range": {
+                "type": "range",
+                "scope": "verse",
+                "verseIndex": 28,
+                "start": 47,
+                "end": 49
+              },
+              "kind": "semantic",
+              "text": "《書》曰：「元首明哉，股肱良哉。」又曰：「予欲宣力四方，汝為。」",
+              "source": "cham"
+            },
+            {
+              "id": "commentary-20",
+              "range": {
+                "type": "range",
+                "scope": "title",
+                "start": 0,
+                "end": 1
+              },
+              "kind": "semantic",
+              "text": "《書》曰：「若濟巨川，用汝作舟楫。」",
+              "source": "cham"
+            },
+            {
+              "id": "commentary-21",
+              "range": {
+                "type": "range",
+                "scope": "title",
+                "start": 0,
+                "end": 1
+              },
+              "kind": "semantic",
+              "text": "《毛詩》曰：「唱予和汝。」",
+              "source": "cham"
+            },
+            {
+              "id": "commentary-22",
+              "range": {
+                "type": "range",
+                "scope": "title",
+                "start": 0,
+                "end": 1
+              },
+              "kind": "semantic",
+              "text": "《毛詩》曰：「率由舊章。」",
+              "source": "cham"
+            },
+            {
+              "id": "commentary-23",
+              "range": {
+                "type": "range",
+                "scope": "title",
+                "start": 0,
+                "end": 1
+              },
+              "kind": "semantic",
+              "text": "《孝經》曰：「資於事父以事君而敬同。」",
+              "source": "cham"
+            },
+            {
+              "id": "commentary-24",
+              "range": {
+                "type": "range",
+                "scope": "title",
+                "start": 0,
+                "end": 1
+              },
+              "kind": "semantic",
+              "text": "父子雖至親，猶未若君臣之同體。故曰「其至矣乎。」",
+              "source": "cham"
+            },
+            {
+              "id": "commentary-25",
+              "range": {
+                "type": "range",
+                "scope": "title",
+                "start": 0,
+                "end": 1
+              },
+              "kind": "semantic",
+              "text": "休，美也。戚，憂也。",
+              "source": "cham"
+            },
+            {
+              "id": "commentary-26",
+              "range": {
+                "type": "range",
+                "scope": "title",
+                "start": 0,
+                "end": 1
+              },
+              "kind": "semantic",
+              "text": "《漢書》張良言：「忠言逆於耳利於行，毒藥苦於口利於病也。」",
+              "source": "cham"
+            },
+            {
+              "id": "commentary-27",
+              "range": {
+                "type": "range",
+                "scope": "title",
+                "start": 0,
+                "end": 1
+              },
+              "kind": "semantic",
+              "text": "《史記》曰：孔子文辭有可與人共者，弗獨有也。至於為《春秋》，筆則削，削則削，子夏之徒不能讚一辭。",
+              "source": "cham"
+            },
+            {
+              "id": "commentary-28",
+              "range": {
+                "type": "range",
+                "scope": "title",
+                "start": 0,
+                "end": 1
+              },
+              "kind": "semantic",
+              "text": "《說文》曰：裨，倍益也。",
+              "source": "cham"
+            },
+            {
+              "id": "commentary-29",
+              "range": {
+                "type": "range",
+                "scope": "title",
+                "start": 0,
+                "end": 1
+              },
+              "kind": "semantic",
+              "text": "《莊子》曰：「黃帝遊於赤水之北，遂歸，遺其玄珠。」",
+              "source": "cham"
+            },
+            {
+              "id": "commentary-30",
+              "range": {
+                "type": "range",
+                "scope": "title",
+                "start": 0,
+                "end": 1
+              },
+              "kind": "semantic",
+              "text": "《論語》曰：「巽與之言，能無悅乎？」",
+              "source": "cham"
+            },
+            {
+              "id": "commentary-31",
+              "range": {
+                "type": "range",
+                "scope": "title",
+                "start": 0,
+                "end": 1
+              },
+              "kind": "semantic",
+              "text": "《周禮》曰：「蒼璧祀天。」",
+              "source": "cham"
+            },
+            {
+              "id": "commentary-32",
+              "range": {
+                "type": "range",
+                "scope": "title",
+                "start": 0,
+                "end": 1
+              },
+              "kind": "semantic",
+              "text": "《家語》曰：孔子去周，老子送之，曰：「富者贈人以財，仁者贈人以言。吾雖不能富而竊仁者之跡，請送子以言也。」",
+              "source": "cham"
+            },
+            {
+              "id": "commentary-33",
+              "range": {
+                "type": "range",
+                "scope": "title",
+                "start": 0,
+                "end": 1
+              },
+              "kind": "semantic",
+              "text": "同上。仁者贈人以言。",
+              "source": "cham"
+            },
+            {
+              "id": "commentary-34",
+              "range": {
+                "type": "range",
+                "scope": "title",
+                "start": 0,
+                "end": 1
+              },
+              "kind": "semantic",
+              "text": "《韓子》曰：西門豹之情急，故佩韋以緩己。董安幹之心緩，故佩弦以急己也。",
+              "source": "cham"
+            },
+            {
+              "id": "commentary-35",
+              "range": {
+                "type": "range",
+                "scope": "title",
+                "start": 0,
+                "end": 1
+              },
+              "kind": "semantic",
+              "text": "《論語》曰：季文子三思而後行也。庶照鄙誠，敬終高德，凡諸章目，列於後云。",
+              "source": "cham"
+            }
+          ]
+        }
+      ],
+      "source": {
+        "textRef": "shengui",
+        "relation": "section"
+      }
+    },
+    {
+      "bookId": "shengui",
+      "num": 2,
+      "title": "章第一·同體",
+      "author": "武曌",
+      "authorId": "C004",
+      "dynasty": "唐",
+      "era": "唐",
+      "eraCode": "24",
+      "genre": "prose",
+      "verses": [
+        {
+          "text": "夫人臣之於君也，猶四肢之載元首，耳目之為心使也。"
+        },
+        {
+          "text": "相須而後成體，"
+        },
+        {
+          "text": "相得而後成用。"
+        },
+        {
+          "text": "故臣之事君，猶子之事父。"
+        },
+        {
+          "text": "父子雖至親，猶未若君臣之同體也。"
+        },
+        {
+          "text": "故《虞書》曰：「臣作朕股肱耳目，"
+        },
+        {
+          "text": "余欲左右有人，汝翼；"
+        },
+        {
+          "text": "余欲宣力四方，汝為。」"
+        },
+        {
+          "text": "故知臣以君為心，君以臣為體。"
+        },
+        {
+          "text": "心安則體安，君泰則臣泰。未有心瘁於中，而體悅於外，君憂於上，而臣樂於下。"
+        },
+        {
+          "text": "古人所謂「共其安危，同其休戚」者，豈不信歟！夫欲構大廈者，必藉眾材。雖楹柱棟梁、栱櫨榱桷，長短方圓，所用各異，自非眾材同體，則不能成其構。"
+        },
+        {
+          "text": "為國者亦猶是焉。"
+        },
+        {
+          "text": "雖人之才能天性殊稟，或仁或智、或武或文，然非群臣同體，則不能興其業。"
+        },
+        {
+          "text": "故《周書》稱殷紂有億兆夷人，離心離德，"
+        },
+        {
+          "text": "此其所以亡也；"
+        },
+        {
+          "text": "周武有亂臣十人，同心同德，"
+        },
+        {
+          "text": "此其所以興也。"
+        },
+        {
+          "text": "謂舜求賢，使代己視聽於四方也。昔屠蒯亦云：「汝為君目，將司明也。"
+        },
+        {
+          "text": "汝為君耳，將司聽也。」"
+        },
+        {
+          "text": "軒轅氏有四臣，以察四方，故《屍子》云：「黃帝四目。」"
+        },
+        {
+          "text": "是知君位尊高，九重奧絕，"
+        },
+        {
+          "text": "萬方之事，不可獨臨，故置群官，以備爪牙耳目，"
+        },
+        {
+          "text": "各盡其能，則天下自化。"
+        },
+        {
+          "text": "故冕旒垂拱無為於上者，人君之任也；"
+        },
+        {
+          "text": "憂國恤人竭力於下者，人臣之職也。"
+        },
+        {
+          "text": "忠臣之獻直於君者，非願觸鱗犯上也，良由與君同體，憂患者深，志欲君之安也。」"
+        },
+        {
+          "text": "陸景《典語》曰：「國之所以有臣，臣之所以事上，非但欲備員而已。"
+        },
+        {
+          "text": "天下至廣，庶事至繁，非一人之身所能周也。"
+        },
+        {
+          "text": "故分官列職，各守其位，"
+        },
+        {
+          "text": "處其任者，必荷其憂。"
+        },
+        {
+          "text": "臣之與主，同體合用。主之任臣，既如身之信手；臣之事主，亦如手之係身。上下協心，以理國事。"
+        },
+        {
+          "text": "不俟命而自勤，"
+        },
+        {
+          "text": "不求容而自親，"
+        },
+        {
+          "text": "則君臣之道著也。」"
+        }
+      ],
+      "sections": {
+        "annotations": "1.元首：頭腦。喻君主。語出《尚書·益稷》。\n2.虞書：《尚書》之一部分，記虞舜之事。引文見《益稷》篇。\n3.股肱：大腿與上臂。喻左右輔佐之臣。\n4.休戚：歡樂與憂愁。喻同甘共苦。\n5.周書：《尚書》之一部分。引文見《泰誓》。\n6.殷紂：商紂王（？—前1046），商朝末代君主，以殘暴亡國。\n7.周武：周武王姬發，伐紂建周。\n8.亂臣十人：周武王十位輔臣。見《論語·泰伯》。\n9.舜：帝舜，上古聖王。\n10.屠蒯：春秋時晉國樂師，曾以樂諫。見《左傳·昭公九年》。\n11.軒轅氏：黃帝，姓公孫，名軒轅。傳說中華人文初祖。\n12.屍子：戰國時屍佼所著。原書已佚，有輯本。\n13.九重：宮禁深處。古代天子所居九重門。\n14.陸景：三國吳人，著有《典語》。\n15.典語：三國吳陸景所著政論。"
+      },
+      "annotations": [
+        {
+          "id": "2-1",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 13,
+            "end": 15
+          },
+          "kind": "semantic",
+          "text": "頭腦。喻君主。語出《尚書·益稷》。",
+          "source": "cham"
+        },
+        {
+          "id": "2-2",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 5,
+            "start": 2,
+            "end": 4
+          },
+          "kind": "allusion",
+          "text": "《尚書》之一部分，記虞舜之事。引文見《益稷》篇。",
+          "source": "cham"
+        },
+        {
+          "id": "2-3",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 5,
+            "start": 11,
+            "end": 13
+          },
+          "kind": "semantic",
+          "text": "大腿與上臂。喻左右輔佐之臣。",
+          "source": "cham"
+        },
+        {
+          "id": "2-4",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 10,
+            "start": 12,
+            "end": 14
+          },
+          "kind": "semantic",
+          "text": "歡樂與憂愁。喻同甘共苦。",
+          "source": "cham"
+        },
+        {
+          "id": "2-5",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 13,
+            "start": 2,
+            "end": 4
+          },
+          "kind": "allusion",
+          "text": "《尚書》之一部分。引文見《泰誓》。",
+          "source": "cham"
+        },
+        {
+          "id": "2-6",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 13,
+            "start": 6,
+            "end": 8
+          },
+          "kind": "person",
+          "text": "商紂王（？—前1046），商朝末代君主，以殘暴亡國。",
+          "source": "cham"
+        },
+        {
+          "id": "2-7",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 15,
+            "start": 0,
+            "end": 2
+          },
+          "kind": "person",
+          "text": "周武王姬發，伐紂建周。",
+          "source": "cham"
+        },
+        {
+          "id": "2-8",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 15,
+            "start": 3,
+            "end": 7
+          },
+          "kind": "event",
+          "text": "周武王十位輔臣。見《論語·泰伯》。",
+          "source": "cham"
+        },
+        {
+          "id": "2-9",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 17,
+            "start": 1,
+            "end": 2
+          },
+          "kind": "person",
+          "text": "帝舜，上古聖王。",
+          "source": "cham"
+        },
+        {
+          "id": "2-10",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 17,
+            "start": 16,
+            "end": 18
+          },
+          "kind": "person",
+          "text": "春秋時晉國樂師，曾以樂諫。見《左傳·昭公九年》。",
+          "source": "cham"
+        },
+        {
+          "id": "2-11",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 19,
+            "start": 0,
+            "end": 3
+          },
+          "kind": "person",
+          "text": "黃帝，姓公孫，名軒轅。傳說中華人文初祖。",
+          "source": "cham"
+        },
+        {
+          "id": "2-12",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 19,
+            "start": 14,
+            "end": 16
+          },
+          "kind": "allusion",
+          "text": "戰國時屍佼所著。原書已佚，有輯本。",
+          "source": "cham"
+        },
+        {
+          "id": "2-13",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 20,
+            "start": 7,
+            "end": 9
+          },
+          "kind": "semantic",
+          "text": "宮禁深處。古代天子所居九重門。",
+          "source": "cham"
+        },
+        {
+          "id": "2-14",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 26,
+            "start": 0,
+            "end": 2
+          },
+          "kind": "person",
+          "text": "三國吳人，著有《典語》。",
+          "source": "cham"
+        },
+        {
+          "id": "2-15",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 26,
+            "start": 3,
+            "end": 5
+          },
+          "kind": "allusion",
+          "text": "三國吳陸景所著政論。",
+          "source": "cham"
+        }
+      ],
+      "annotationLayers": [
+        {
+          "id": "default",
+          "label": "原文",
+          "shortLabel": "文",
+          "contributor": "C004",
+          "role": "author",
+          "nature": "annotation",
+          "displayOrder": 0,
+          "enabled": true,
+          "annotations": []
+        },
+        {
+          "id": "commentary",
+          "label": "注",
+          "shortLabel": "注",
+          "contributor": "C011",
+          "role": "commentator",
+          "nature": "commentary",
+          "displayOrder": 1,
+          "enabled": true,
+          "annotations": []
+        }
+      ],
+      "source": {
+        "textRef": "shengui",
+        "relation": "section"
+      }
+    },
+    {
+      "bookId": "shengui",
+      "num": 3,
+      "title": "章第二·至忠",
+      "author": "武曌",
+      "authorId": "C004",
+      "dynasty": "唐",
+      "era": "唐",
+      "eraCode": "24",
+      "genre": "prose",
+      "verses": [
+        {
+          "text": "夫忠之為道也，施之於君，不可以不至。施之於親，不可以不盡。君親之重，莫大焉。"
+        },
+        {
+          "text": "是故知臣之忠者，必先觀其心。心之在公，則言必正；心之在私，則言必佞。正言逆耳而利於行，佞言順耳而害於理。"
+        },
+        {
+          "text": "昔比干剖心，忠之至也；"
+        },
+        {
+          "text": "屈原沉江，忠之烈也。"
+        },
+        {
+          "text": "諸葛亮鞠躬盡瘁，忠之勤也。"
+        },
+        {
+          "text": "此皆古之忠臣，名垂青史，為萬世法。"
+        },
+        {
+          "text": "然忠臣之事君也，不獨犯顏直諫為忠。苟利於國，雖勞不怨；苟便於民，雖辱不辭。上不阿諛以取寵，下不威福以自私。內不欺心，外不欺人。如是而後可謂至忠矣。"
+        },
+        {
+          "text": "夫至忠者，不以利害易其節，不以毀譽移其志。存則盡其力，亡則盡其義。故曰：忠者，臣之大節也。"
+        }
+      ],
+      "sections": {
+        "annotations": "1.比干：商代貴族，紂王叔父。因直言進諫被紂王剖心而死。見《史記·殷本紀》。\n2.屈原：屈原（約前340—前278），楚國大夫，忠而被謗，投汨羅江而死。見《史記·屈原列傳》。\n3.諸葛亮：諸葛亮（181—234），字孔明，蜀漢丞相。輔佐劉備、劉禪，鞠躬盡瘁。"
+      },
+      "annotations": [
+        {
+          "id": "3-1",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 2,
+            "start": 1,
+            "end": 3
+          },
+          "kind": "person",
+          "text": "商代貴族，紂王叔父。因直言進諫被紂王剖心而死。見《史記·殷本紀》。",
+          "source": "cham"
+        },
+        {
+          "id": "3-2",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 3,
+            "start": 0,
+            "end": 2
+          },
+          "kind": "person",
+          "text": "屈原（約前340—前278），楚國大夫，忠而被謗，投汨羅江而死。見《史記·屈原列傳》。",
+          "source": "cham"
+        },
+        {
+          "id": "3-3",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 4,
+            "start": 0,
+            "end": 3
+          },
+          "kind": "person",
+          "text": "諸葛亮（181—234），字孔明，蜀漢丞相。輔佐劉備、劉禪，鞠躬盡瘁。",
+          "source": "cham"
+        }
+      ],
+      "annotationLayers": [
+        {
+          "id": "default",
+          "label": "原文",
+          "shortLabel": "文",
+          "contributor": "C004",
+          "role": "author",
+          "nature": "annotation",
+          "displayOrder": 0,
+          "enabled": true,
+          "annotations": []
+        },
+        {
+          "id": "commentary",
+          "label": "注",
+          "shortLabel": "注",
+          "contributor": "C011",
+          "role": "commentator",
+          "nature": "commentary",
+          "displayOrder": 1,
+          "enabled": true,
+          "annotations": []
+        }
+      ],
+      "source": {
+        "textRef": "shengui",
+        "relation": "section"
+      }
+    },
+    {
+      "bookId": "shengui",
+      "num": 4,
+      "title": "章第三·守道",
+      "author": "武曌",
+      "authorId": "C004",
+      "dynasty": "唐",
+      "era": "唐",
+      "eraCode": "24",
+      "genre": "prose",
+      "verses": [
+        {
+          "text": "夫道者，萬物之奧，善人之寶。是以君子守道以待時，小人違道以取禍。"
+        },
+        {
+          "text": "故《老子》曰：「道可道，非常道。」又曰：「上士聞道，勤而行之。」"
+        },
+        {
+          "text": "夫守道之要，在於正心。心正則道正，心邪則道邪。古之君子，以正心修身為本，以治國平天下為用。"
+        },
+        {
+          "text": "昔伯夷守節於首陽，道之清也；"
+        },
+        {
+          "text": "柳下惠不枉道以求容，道之和也。"
+        },
+        {
+          "text": "二者殊塗而同歸，皆守道者也。"
+        },
+        {
+          "text": "夫守道者，不以貧賤而易其志，不以富貴而淫其心。在邦必達，在家必達。達則兼善天下，不達則獨善其身。此守道之大方也。"
+        }
+      ],
+      "sections": {
+        "annotations": "1.老子：《道德經》，春秋時老子（李耳）所著。引文見第一章及第四十一章。\n2.伯夷：商末孤竹國長子，與弟叔齊互讓國，不食周粟，餓死首陽山。見《史記·伯夷列傳》。\n3.柳下惠：春秋時魯國大夫展禽，以德行聞名，「不羞污君，不辭小官」。見《論語·微子》。"
+      },
+      "annotations": [
+        {
+          "id": "4-1",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 1,
+            "start": 2,
+            "end": 4
+          },
+          "kind": "allusion",
+          "text": "《道德經》，春秋時老子（李耳）所著。引文見第一章及第四十一章。",
+          "source": "cham"
+        },
+        {
+          "id": "4-2",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 3,
+            "start": 1,
+            "end": 3
+          },
+          "kind": "person",
+          "text": "商末孤竹國長子，與弟叔齊互讓國，不食周粟，餓死首陽山。見《史記·伯夷列傳》。",
+          "source": "cham"
+        },
+        {
+          "id": "4-3",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 4,
+            "start": 0,
+            "end": 3
+          },
+          "kind": "person",
+          "text": "春秋時魯國大夫展禽，以德行聞名，「不羞污君，不辭小官」。見《論語·微子》。",
+          "source": "cham"
+        }
+      ],
+      "annotationLayers": [
+        {
+          "id": "default",
+          "label": "原文",
+          "shortLabel": "文",
+          "contributor": "C004",
+          "role": "author",
+          "nature": "annotation",
+          "displayOrder": 0,
+          "enabled": true,
+          "annotations": []
+        },
+        {
+          "id": "commentary",
+          "label": "注",
+          "shortLabel": "注",
+          "contributor": "C011",
+          "role": "commentator",
+          "nature": "commentary",
+          "displayOrder": 1,
+          "enabled": true,
+          "annotations": []
+        }
+      ],
+      "source": {
+        "textRef": "shengui",
+        "relation": "section"
+      }
+    },
+    {
+      "bookId": "shengui",
+      "num": 5,
+      "title": "章第四·公正",
+      "author": "武曌",
+      "authorId": "C004",
+      "dynasty": "唐",
+      "era": "唐",
+      "eraCode": "24",
+      "genre": "prose",
+      "verses": [
+        {
+          "text": "夫公之為道也，在乎不偏不黨。故《書》曰：「無偏無黨，王道蕩蕩。」"
+        },
+        {
+          "text": "是知人臣之事君，不可以不公。公則天下平，私則天下亂。昔祁黃羊外舉不避仇，內舉不避子，公之至也。"
+        },
+        {
+          "text": "夫公正者，以理為權衡，以法為準繩。賞不避仇怨，罰不避親戚。如是則上下信服，政令通行。"
+        },
+        {
+          "text": "故管仲相齊，一匡天下，不以私恩廢公法。"
+        },
+        {
+          "text": "商鞅變法於秦，刑太子傅，不以貴幸易令。"
+        },
+        {
+          "text": "此皆公正之效也。"
+        },
+        {
+          "text": "夫公正之道，在乎正己。己不正，何以正人？是以君子先正其身，而後正人。正己而不求於人，則無怨。此公正之要也。"
+        }
+      ],
+      "sections": {
+        "annotations": "1.書：《尚書·洪範》。\n2.祁黃羊：春秋時晉國大夫祁奚，字黃羊。舉賢不避親仇。見《左傳·襄公三年》。\n3.管仲：管夷吾（？—前645），齊桓公相，助齊稱霸。\n4.齊：春秋時齊國，在今山東一帶。\n5.商鞅：商鞅（約前390—前338），衛國人，秦國變法功臣。後被車裂。\n6.秦：秦國，戰國七雄之一。"
+      },
+      "annotations": [
+        {
+          "id": "5-1",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 16,
+            "end": 17
+          },
+          "kind": "allusion",
+          "text": "《尚書·洪範》。",
+          "source": "cham"
+        },
+        {
+          "id": "5-2",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 1,
+            "start": 27,
+            "end": 30
+          },
+          "kind": "person",
+          "text": "春秋時晉國大夫祁奚，字黃羊。舉賢不避親仇。見《左傳·襄公三年》。",
+          "source": "cham"
+        },
+        {
+          "id": "5-3",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 3,
+            "start": 1,
+            "end": 3
+          },
+          "kind": "person",
+          "text": "管夷吾（？—前645），齊桓公相，助齊稱霸。",
+          "source": "cham"
+        },
+        {
+          "id": "5-4",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 3,
+            "start": 4,
+            "end": 5
+          },
+          "kind": "place",
+          "text": "春秋時齊國，在今山東一帶。",
+          "source": "cham"
+        },
+        {
+          "id": "5-5",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 4,
+            "start": 0,
+            "end": 2
+          },
+          "kind": "person",
+          "text": "商鞅（約前390—前338），衛國人，秦國變法功臣。後被車裂。",
+          "source": "cham"
+        },
+        {
+          "id": "5-6",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 4,
+            "start": 5,
+            "end": 6
+          },
+          "kind": "place",
+          "text": "秦國，戰國七雄之一。",
+          "source": "cham"
+        }
+      ],
+      "annotationLayers": [
+        {
+          "id": "default",
+          "label": "原文",
+          "shortLabel": "文",
+          "contributor": "C004",
+          "role": "author",
+          "nature": "annotation",
+          "displayOrder": 0,
+          "enabled": true,
+          "annotations": []
+        },
+        {
+          "id": "commentary",
+          "label": "注",
+          "shortLabel": "注",
+          "contributor": "C011",
+          "role": "commentator",
+          "nature": "commentary",
+          "displayOrder": 1,
+          "enabled": true,
+          "annotations": []
+        }
+      ],
+      "source": {
+        "textRef": "shengui",
+        "relation": "section"
+      }
+    },
+    {
+      "bookId": "shengui",
+      "num": 6,
+      "title": "章第五·匡諫",
+      "author": "武曌",
+      "authorId": "C004",
+      "dynasty": "唐",
+      "era": "唐",
+      "eraCode": "24",
+      "genre": "prose",
+      "verses": [
+        {
+          "text": "夫匡諫者，臣之至忠也。君有過失，臣不諫爭，是謂阿諛。阿諛之臣，國之賊也。"
+        },
+        {
+          "text": "昔魏徵事太宗，前後諫諍二百餘事。太宗嘗曰：「以人為鏡，可以明得失。魏徵歿，朕亡一鏡矣。」"
+        },
+        {
+          "text": "夫諫之為道也，貴在適時。言不及時，雖善無益。故曰：進言之機，在乎察色觀行。"
+        },
+        {
+          "text": "是知忠臣之諫君也，必有犯顏直諫之勇，又須委曲求全之智。勇而不智，則君疑；智而不勇，則道廢。二者兼備，而後可以言諫。"
+        },
+        {
+          "text": "故太宗謂蕭瑀曰：「朕少好弓矢，得良弓十數，以示弓工。工曰：『皆非良材。』朕問其故，工曰：『木心不正，則脈理皆邪，弓雖剛而發箭不直。』朕始悟向者辨之未精也。朕以弓矢定天下，識之猶未能盡，況天下之務，豈能遍知乎？」"
+        },
+        {
+          "text": "此太宗虛心納諫之明驗也。"
+        }
+      ],
+      "sections": {
+        "annotations": "1.魏徵：魏徵（580—643），字玄成，唐太宗諫臣。封鄭國公，以直諫聞名。\n2.太宗：唐太宗李世民（598—649），以虛心納諫著稱。\n3.太宗：唐太宗李世民。\n4.蕭瑀：蕭瑀（574—648），字時文，唐初宰相。\n5.太宗：唐太宗李世民。弓矢之喻見《貞觀政要》。"
+      },
+      "annotations": [
+        {
+          "id": "6-1",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 1,
+            "start": 1,
+            "end": 3
+          },
+          "kind": "person",
+          "text": "魏徵（580—643），字玄成，唐太宗諫臣。封鄭國公，以直諫聞名。",
+          "source": "cham"
+        },
+        {
+          "id": "6-2",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 1,
+            "start": 4,
+            "end": 6
+          },
+          "kind": "person",
+          "text": "唐太宗李世民（598—649），以虛心納諫著稱。",
+          "source": "cham"
+        },
+        {
+          "id": "6-3",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 4,
+            "start": 1,
+            "end": 3
+          },
+          "kind": "person",
+          "text": "唐太宗李世民。",
+          "source": "cham"
+        },
+        {
+          "id": "6-4",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 4,
+            "start": 4,
+            "end": 6
+          },
+          "kind": "person",
+          "text": "蕭瑀（574—648），字時文，唐初宰相。",
+          "source": "cham"
+        },
+        {
+          "id": "6-5",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 5,
+            "start": 1,
+            "end": 3
+          },
+          "kind": "person",
+          "text": "唐太宗李世民。弓矢之喻見《貞觀政要》。",
+          "source": "cham"
+        }
+      ],
+      "annotationLayers": [
+        {
+          "id": "default",
+          "label": "原文",
+          "shortLabel": "文",
+          "contributor": "C004",
+          "role": "author",
+          "nature": "annotation",
+          "displayOrder": 0,
+          "enabled": true,
+          "annotations": []
+        },
+        {
+          "id": "commentary",
+          "label": "注",
+          "shortLabel": "注",
+          "contributor": "C011",
+          "role": "commentator",
+          "nature": "commentary",
+          "displayOrder": 1,
+          "enabled": true,
+          "annotations": []
+        }
+      ],
+      "source": {
+        "textRef": "shengui",
+        "relation": "section"
+      }
+    },
+    {
+      "bookId": "shengui",
+      "num": 7,
+      "title": "章第六·誠信",
+      "author": "武曌",
+      "authorId": "C004",
+      "dynasty": "唐",
+      "era": "唐",
+      "eraCode": "24",
+      "genre": "prose",
+      "verses": [
+        {
+          "text": "夫誠信者，萬事之本也。君臣之際，不可以不信。信之為道也，猶車之有轅，舟之有楫。"
+        },
+        {
+          "text": "是故人臣之於君也，言必信，行必果。口不言非，身不蹈邪。上下相信，則國治；上下相疑，則國亂。"
+        },
+        {
+          "text": "昔季布一諾，重於千金。"
+        },
+        {
+          "text": "侯嬴一言，重於九鼎。"
+        },
+        {
+          "text": "此皆古之信士，言出必行，行出必果。"
+        },
+        {
+          "text": "故曰：人而無信，不知其可也。大車無輗，小車無軏，其何以行之哉？"
+        },
+        {
+          "text": "夫信之為德也，在於不欺。不欺暗室，不欺屋漏。如是而後可謂誠信矣。"
+        }
+      ],
+      "sections": {
+        "annotations": "1.車之有轅：車子的轅木，喻不可或缺之根本。\n2.季布：楚漢時人，以守信著稱。時人諺云：「得黃金百斤，不如得季布一諾。」見《史記·季布列傳》。\n3.侯嬴：戰國時魏國隱士，為信陵君門客。以守諾獻計而自剄。見《史記·魏公子列傳》。"
+      },
+      "annotations": [
+        {
+          "id": "7-1",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 29,
+            "end": 33
+          },
+          "kind": "semantic",
+          "text": "車子的轅木，喻不可或缺之根本。",
+          "source": "cham"
+        },
+        {
+          "id": "7-2",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 2,
+            "start": 1,
+            "end": 3
+          },
+          "kind": "person",
+          "text": "楚漢時人，以守信著稱。時人諺云：「得黃金百斤，不如得季布一諾。」見《史記·季布列傳》。",
+          "source": "cham"
+        },
+        {
+          "id": "7-3",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 3,
+            "start": 0,
+            "end": 2
+          },
+          "kind": "person",
+          "text": "戰國時魏國隱士，為信陵君門客。以守諾獻計而自剄。見《史記·魏公子列傳》。",
+          "source": "cham"
+        }
+      ],
+      "annotationLayers": [
+        {
+          "id": "default",
+          "label": "原文",
+          "shortLabel": "文",
+          "contributor": "C004",
+          "role": "author",
+          "nature": "annotation",
+          "displayOrder": 0,
+          "enabled": true,
+          "annotations": []
+        },
+        {
+          "id": "commentary",
+          "label": "注",
+          "shortLabel": "注",
+          "contributor": "C011",
+          "role": "commentator",
+          "nature": "commentary",
+          "displayOrder": 1,
+          "enabled": true,
+          "annotations": []
+        }
+      ],
+      "source": {
+        "textRef": "shengui",
+        "relation": "section"
+      }
+    },
+    {
+      "bookId": "shengui",
+      "num": 8,
+      "title": "章第七·慎密",
+      "author": "武曌",
+      "authorId": "C004",
+      "dynasty": "唐",
+      "era": "唐",
+      "eraCode": "24",
+      "genre": "prose",
+      "verses": [
+        {
+          "text": "夫慎密者，臣之令德也。言不慎則禍至，謀不密則害生。是故古之君子，慎其言語，密其謀慮。"
+        },
+        {
+          "text": "昔霍光輔政，沈靜詳審，不輕發一言。及其行事，則決斷如流。此慎而後發之效也。"
+        },
+        {
+          "text": "夫慎密之道，在乎三思而後行。不妄言，不輕動。謀之於未然，防之於未發。"
+        },
+        {
+          "text": "故曰：機事不密則害成。是以君子慎其獨也。"
+        },
+        {
+          "text": "韓信之敗也，在於不密。使蒯通之計得行，天下未可知也。然信猶豫不決，事洩而敗。"
+        },
+        {
+          "text": "此慎密之不可廢也。"
+        }
+      ],
+      "sections": {
+        "annotations": "1.霍光：霍光（？—前68），字子孟，西漢大臣。輔佐昭帝、宣帝，以謹慎著稱。見《漢書·霍光傳》。\n2.韓信：韓信（？—前196），淮陰人。漢初三傑之一，後以謀反被殺。見《史記·淮陰侯列傳》。\n3.蒯通：蒯通，秦末漢初謀士。曾勸韓信自立，信不聽。見《史記·淮陰侯列傳》。"
+      },
+      "annotations": [
+        {
+          "id": "8-1",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 1,
+            "start": 1,
+            "end": 3
+          },
+          "kind": "person",
+          "text": "霍光（？—前68），字子孟，西漢大臣。輔佐昭帝、宣帝，以謹慎著稱。見《漢書·霍光傳》。",
+          "source": "cham"
+        },
+        {
+          "id": "8-2",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 4,
+            "start": 0,
+            "end": 2
+          },
+          "kind": "person",
+          "text": "韓信（？—前196），淮陰人。漢初三傑之一，後以謀反被殺。見《史記·淮陰侯列傳》。",
+          "source": "cham"
+        },
+        {
+          "id": "8-3",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 4,
+            "start": 12,
+            "end": 14
+          },
+          "kind": "person",
+          "text": "蒯通，秦末漢初謀士。曾勸韓信自立，信不聽。見《史記·淮陰侯列傳》。",
+          "source": "cham"
+        }
+      ],
+      "annotationLayers": [
+        {
+          "id": "default",
+          "label": "原文",
+          "shortLabel": "文",
+          "contributor": "C004",
+          "role": "author",
+          "nature": "annotation",
+          "displayOrder": 0,
+          "enabled": true,
+          "annotations": []
+        },
+        {
+          "id": "commentary",
+          "label": "注",
+          "shortLabel": "注",
+          "contributor": "C011",
+          "role": "commentator",
+          "nature": "commentary",
+          "displayOrder": 1,
+          "enabled": true,
+          "annotations": []
+        }
+      ],
+      "source": {
+        "textRef": "shengui",
+        "relation": "section"
+      }
+    },
+    {
+      "bookId": "shengui",
+      "num": 9,
+      "title": "章第八·廉潔",
+      "author": "武曌",
+      "authorId": "C004",
+      "dynasty": "唐",
+      "era": "唐",
+      "eraCode": "24",
+      "genre": "prose",
+      "verses": [
+        {
+          "text": "夫廉潔者，臣之清節也。貪則民怨，廉則民信。是以古之良臣，必以廉潔自守。"
+        },
+        {
+          "text": "昔楊震暮夜卻金，謂「天知、神知、我知、子知」，廉之至也。"
+        },
+        {
+          "text": "公儀休嗜魚而不受魚，曰：「正因嗜魚，故不受也。受魚而免官，誰復遺我魚乎？」"
+        },
+        {
+          "text": "此皆廉潔之典範也。"
+        },
+        {
+          "text": "夫廉者，政之本也。居官而貪，則民不安；居官而廉，則民自化。是以子罕弗受玉，而宋人知其廉。"
+        },
+        {
+          "text": "故曰：儉以養廉，靜以修身。此古之遺訓，今之龜鑒也。"
+        }
+      ],
+      "sections": {
+        "annotations": "1.楊震：楊震（？—124），字伯起，東漢名臣。「四知」之典故出此。見《後漢書·楊震傳》。\n2.公儀休：春秋時魯國相。嗜魚而不受魚之饋。見《韓非子·外儲說右下》。\n3.子罕：春秋時宋國大夫。有人獻美玉，子罕不受，曰：「我以不貪為寶。」見《左傳·襄公十五年》。\n4.宋：春秋時宋國，在今河南商丘一帶。"
+      },
+      "annotations": [
+        {
+          "id": "9-1",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 1,
+            "start": 1,
+            "end": 3
+          },
+          "kind": "person",
+          "text": "楊震（？—124），字伯起，東漢名臣。「四知」之典故出此。見《後漢書·楊震傳》。",
+          "source": "cham"
+        },
+        {
+          "id": "9-2",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 2,
+            "start": 0,
+            "end": 3
+          },
+          "kind": "person",
+          "text": "春秋時魯國相。嗜魚而不受魚之饋。見《韓非子·外儲說右下》。",
+          "source": "cham"
+        },
+        {
+          "id": "9-3",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 4,
+            "start": 31,
+            "end": 33
+          },
+          "kind": "person",
+          "text": "春秋時宋國大夫。有人獻美玉，子罕不受，曰：「我以不貪為寶。」見《左傳·襄公十五年》。",
+          "source": "cham"
+        },
+        {
+          "id": "9-4",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 4,
+            "start": 38,
+            "end": 39
+          },
+          "kind": "place",
+          "text": "春秋時宋國，在今河南商丘一帶。",
+          "source": "cham"
+        }
+      ],
+      "annotationLayers": [
+        {
+          "id": "default",
+          "label": "原文",
+          "shortLabel": "文",
+          "contributor": "C004",
+          "role": "author",
+          "nature": "annotation",
+          "displayOrder": 0,
+          "enabled": true,
+          "annotations": []
+        },
+        {
+          "id": "commentary",
+          "label": "注",
+          "shortLabel": "注",
+          "contributor": "C011",
+          "role": "commentator",
+          "nature": "commentary",
+          "displayOrder": 1,
+          "enabled": true,
+          "annotations": []
+        }
+      ],
+      "source": {
+        "textRef": "shengui",
+        "relation": "section"
+      }
+    },
+    {
+      "bookId": "shengui",
+      "num": 10,
+      "title": "章第九·良將",
+      "author": "武曌",
+      "authorId": "C004",
+      "dynasty": "唐",
+      "era": "唐",
+      "eraCode": "24",
+      "genre": "prose",
+      "verses": [
+        {
+          "text": "夫良將者，國之柱石也。三軍之命，懸於一人。是以良將之德，在乎智、信、仁、勇、嚴五者兼備。"
+        },
+        {
+          "text": "昔孫武教戰於吳，斬美人以立威；"
+        },
+        {
+          "text": "吳起為將，與士卒同甘苦，為卒吮瘡。"
+        },
+        {
+          "text": "此皆良將之典範也。"
+        },
+        {
+          "text": "夫將者，民之司命，國家安危之主也。故孫子曰：「將者，智、信、仁、勇、嚴也。」"
+        },
+        {
+          "text": "智以料敵，信以賞罰，仁以愛卒，勇以決勝，嚴以立威。五者缺一，不可為將。"
+        },
+        {
+          "text": "故李廣為將，與士卒共饑渴，故士卒樂為之死。此仁勇之效也。"
+        },
+        {
+          "text": "夫良將之道，在乎知己知彼。不知己而知彼，一勝一負。知己知彼，百戰不殆。"
+        }
+      ],
+      "sections": {
+        "annotations": "1.孫武：孫武，春秋時齊國人，仕吳。著有《孫子兵法》，被譽為「兵聖」。\n2.吳：春秋時吳國，在今江蘇蘇州一帶。\n3.吳起：吳起（？—前381），衛國人，戰國名將。與士卒同甘共苦。見《史記·吳起列傳》。\n4.孫子：《孫子兵法·計篇》。孫武著，中國最古兵書。\n5.李廣：李廣（？—前119），隴西成紀人。西漢名將，號「飛將軍」。見《史記·李將軍列傳》。"
+      },
+      "annotations": [
+        {
+          "id": "10-1",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 1,
+            "start": 1,
+            "end": 3
+          },
+          "kind": "person",
+          "text": "孫武，春秋時齊國人，仕吳。著有《孫子兵法》，被譽為「兵聖」。",
+          "source": "cham"
+        },
+        {
+          "id": "10-2",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 1,
+            "start": 6,
+            "end": 7
+          },
+          "kind": "place",
+          "text": "春秋時吳國，在今江蘇蘇州一帶。",
+          "source": "cham"
+        },
+        {
+          "id": "10-3",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 2,
+            "start": 0,
+            "end": 2
+          },
+          "kind": "person",
+          "text": "吳起（？—前381），衛國人，戰國名將。與士卒同甘共苦。見《史記·吳起列傳》。",
+          "source": "cham"
+        },
+        {
+          "id": "10-4",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 4,
+            "start": 18,
+            "end": 20
+          },
+          "kind": "allusion",
+          "text": "《孫子兵法·計篇》。孫武著，中國最古兵書。",
+          "source": "cham"
+        },
+        {
+          "id": "10-5",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 6,
+            "start": 1,
+            "end": 3
+          },
+          "kind": "person",
+          "text": "李廣（？—前119），隴西成紀人。西漢名將，號「飛將軍」。見《史記·李將軍列傳》。",
+          "source": "cham"
+        }
+      ],
+      "annotationLayers": [
+        {
+          "id": "default",
+          "label": "原文",
+          "shortLabel": "文",
+          "contributor": "C004",
+          "role": "author",
+          "nature": "annotation",
+          "displayOrder": 0,
+          "enabled": true,
+          "annotations": []
+        },
+        {
+          "id": "commentary",
+          "label": "注",
+          "shortLabel": "注",
+          "contributor": "C011",
+          "role": "commentator",
+          "nature": "commentary",
+          "displayOrder": 1,
+          "enabled": true,
+          "annotations": []
+        }
+      ],
+      "source": {
+        "textRef": "shengui",
+        "relation": "section"
+      }
+    },
+    {
+      "bookId": "shengui",
+      "num": 11,
+      "title": "章第十·利人",
+      "author": "武曌",
+      "authorId": "C004",
+      "dynasty": "唐",
+      "era": "唐",
+      "eraCode": "24",
+      "genre": "prose",
+      "verses": [
+        {
+          "text": "夫利人者，臣之盛德也。為臣之道，莫大於利國利民。利國者，強本節用；利民者，省刑薄斂。"
+        },
+        {
+          "text": "昔文翁化蜀，立學校以教民，蜀地大治。"
+        },
+        {
+          "text": "召信臣治南陽，興水利以利民，民歌其德。"
+        },
+        {
+          "text": "此皆利人之臣也。"
+        },
+        {
+          "text": "夫利人之道，在乎務本。本莫大於農。故管子曰：「倉廩實則知禮節，衣食足則知榮辱。」"
+        },
+        {
+          "text": "是以善為臣者，必先勸農桑，薄賦斂，省徭役，使民各安其業。如是則國富兵強，民安俗淳。"
+        },
+        {
+          "text": "故曰：民為邦本，本固邦寧。此利人之要也。"
+        }
+      ],
+      "sections": {
+        "annotations": "1.文翁：西漢廬江人，任蜀郡守，創立地方官學。見《漢書·文翁傳》。\n2.蜀：古地名，今四川一帶。\n3.召信臣：西漢九江人，任南陽太守，興修水利，人稱「召父」。見《漢書·召信臣傳》。\n4.南陽：古地名，在今河南南陽一帶。\n5.管子：《管子·牧民》。管仲所述治國理論。"
+      },
+      "annotations": [
+        {
+          "id": "11-1",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 1,
+            "start": 1,
+            "end": 3
+          },
+          "kind": "person",
+          "text": "西漢廬江人，任蜀郡守，創立地方官學。見《漢書·文翁傳》。",
+          "source": "cham"
+        },
+        {
+          "id": "11-2",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 1,
+            "start": 13,
+            "end": 14
+          },
+          "kind": "place",
+          "text": "古地名，今四川一帶。",
+          "source": "cham"
+        },
+        {
+          "id": "11-3",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 2,
+            "start": 0,
+            "end": 3
+          },
+          "kind": "person",
+          "text": "西漢九江人，任南陽太守，興修水利，人稱「召父」。見《漢書·召信臣傳》。",
+          "source": "cham"
+        },
+        {
+          "id": "11-4",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 2,
+            "start": 4,
+            "end": 6
+          },
+          "kind": "place",
+          "text": "古地名，在今河南南陽一帶。",
+          "source": "cham"
+        },
+        {
+          "id": "11-5",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 4,
+            "start": 18,
+            "end": 20
+          },
+          "kind": "allusion",
+          "text": "《管子·牧民》。管仲所述治國理論。",
+          "source": "cham"
+        }
+      ],
+      "annotationLayers": [
+        {
+          "id": "default",
+          "label": "原文",
+          "shortLabel": "文",
+          "contributor": "C004",
+          "role": "author",
+          "nature": "annotation",
+          "displayOrder": 0,
+          "enabled": true,
+          "annotations": []
+        },
+        {
+          "id": "commentary",
+          "label": "注",
+          "shortLabel": "注",
+          "contributor": "C011",
+          "role": "commentator",
+          "nature": "commentary",
+          "displayOrder": 1,
+          "enabled": true,
+          "annotations": []
+        }
+      ],
+      "source": {
+        "textRef": "shengui",
+        "relation": "section"
+      }
+    },
+    {
+      "bookId": "shengui",
+      "num": 12,
+      "title": "帝範臣軌⼆書跋",
+      "author": "武曌",
+      "authorId": "C004",
+      "dynasty": "唐",
+      "era": "唐",
+      "eraCode": "24",
+      "genre": "prose",
+      "verses": [
+        {
+          "text": "帝範⼆卷臣軌⼆卷也者共成于唐帝。"
+        },
+        {
+          "text": "唐帝受隋氏弊，聰明神武[恶]幾成康，功德兼備。"
+        },
+        {
+          "text": "故所以帝範臣軌之有作者也。"
+        },
+        {
+          "text": "本朝慱⼠讀之，尤尊之至。"
+        },
+        {
+          "text": "若鐮倉將軍家皆讀之，有助治道久。"
+        },
+        {
+          "text": "何啻中華⽽已哉。"
+        },
+        {
+          "text": "洛⼈林⽩⽔新鏤之梓，"
+        },
+        {
+          "text": "以欲⾏于世良有故哉。⽩⽔需書"
+        },
+        {
+          "text": "其後於是題之。"
+        },
+        {
+          "text": "寛⽂八年秋八⽉⽇"
+        },
+        {
+          "text": "柳⾕散⼈埜⼦苞⽗書"
+        },
+        {
+          "text": "林和泉掾版行"
+        }
+      ],
+      "sections": {},
+      "annotations": [],
+      "annotationLayers": [
+        {
+          "id": "default",
+          "label": "原文",
+          "shortLabel": "文",
+          "contributor": "C004",
+          "role": "author",
+          "nature": "annotation",
+          "displayOrder": 0,
+          "enabled": true,
+          "annotations": []
+        },
+        {
+          "id": "commentary",
+          "label": "注",
+          "shortLabel": "注",
+          "contributor": "C011",
+          "role": "commentator",
+          "nature": "commentary",
+          "displayOrder": 1,
+          "enabled": true,
+          "annotations": []
+        }
+      ],
+      "source": {
+        "textRef": "shengui",
+        "relation": "section"
+      }
+    }
+  ]
+}

@@ -1,0 +1,545 @@
+{
+  "bookId": "skqs-difan",
+  "num": 6,
+  "title": "審官第四",
+  "author": "李世民",
+  "authorId": "唐太宗",
+  "dynasty": "唐",
+  "era": "唐",
+  "eraCode": "24",
+  "genre": "prose",
+  "verses": [
+    {
+      "text": ""
+    },
+    {
+      "text": "夫設官分職所以闡化宣風故明主之任人如巧匠之制木直者以為轅曲者以為輪長者以為棟梁短者以為栱角無曲直長短各有所施眀主之任人亦由是也智者取其謀愚者取其力勇者取其威怯者取其愼無智愚勇怯兼而用之故良匠無棄材明主無棄士不以一惡忘其善勿以小瑕掩其功割政分機盡其所有然則凾牛之鼎不可處以烹雞捕䑕之狸不可使以摶獸一鈞之器不能容以江漢之流百石之車不可滿以斗筲之粟何則大非小之量輕非重之宜今人智有短長能有巨細或藴百而尚少或綂一而為多有輕才者不可委以重任有小力者不可賴以成職委任責成不勞而化此設官之當也斯二者治亂之源立國制人資股肱以合徳宣風道俗俟眀賢而寄心列宿騰天助隂光之夕照百川决地添溟渤之深源海月之深朗猶假物而為大君人御下統極理時獨運方寸之心以括九區之内不資衆力何以成功必須明職審賢擇材分禄得其人則風行化洽失其用則虧教傷人故云則哲惟難良可愼也"
+    }
+  ],
+  "sections": {},
+  "annotations": [],
+  "layers": {
+    "commentary": [
+      {
+        "id": "commentary-1",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 0
+        },
+        "kind": "semantic",
+        "text": "尚書臯陶曰都在知人在安民禹曰吁咸若時惟帝其難之知人則哲能官人安民則恵黎民懐之能哲而恵何憂乎驩兠何遷乎有苗何畏乎巧言令色孔壬頴逹曰臯陶述此脩身親人之道以吿禹在於知人善惡擇而信任之在於能安下民為政以安定之也禹驚而答曰吁人君如是能知人能安民惟帝堯猶其難之况餘人乎知人善惡則為大智能用官得其人矣能安下民則為恵政衆民皆歸之矣此不易之理也若帝堯能智而恵則當朝無姦佞何憂懼於驩兠之佞而放之何須逺遷徙於有苗之君何畏懼於彼巧言令色為甚佞之人故古之明王用人必先六徴以嘗之然後任之任人之際國之安危民之休戚繫焉故不可不審也審者謂核其實也若核而得實信使守約亷使分財官無曠職職無虚位務成而事濟矣惟人君不可不慎審其官也左傳曰舉不失職官不易方亦審官之義也",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-2",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 0,
+          "end": 14
+        },
+        "kind": "semantic",
+        "text": "周禮曰惟王建國辨方正位體國經野設官分職以為民極乃立天官冡宰使帥其属而掌邦治以佐王均邦國設官分職謂置三公六卿各有所職而百事舉也既各有所職而百事舉矣所以得闡揚徳化宣布風教以齊庶物",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-3",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 14,
+          "end": 26
+        },
+        "kind": "semantic",
+        "text": "任用也制裁也",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-4",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 26,
+          "end": 31
+        },
+        "kind": "semantic",
+        "text": "轅輈也方言楚衛之間轅謂之輈言挺直之木可以為轅",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-5",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 31,
+          "end": 36
+        },
+        "kind": "semantic",
+        "text": "輪謂車輪也廽旋也言宛曲之木可以為輪也",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-6",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 36,
+          "end": 42
+        },
+        "kind": "semantic",
+        "text": "屋脊曰棟負棟者曰梁長者言其大材也故用之于棟梁",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-7",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 42,
+          "end": 48
+        },
+        "kind": "collation",
+        "text": "爾雅云栱杙也大者謂之栱枓也桷椽也一曰屋角斜枋一曰梠也短者言其小材也故用之于栱角○按爾雅杙大者謂之栱注所引多衍文",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-8",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 48,
+          "end": 57
+        },
+        "kind": "semantic",
+        "text": "管子曰工之制木也大者以為舟航柱梁小者以為楫楔修者以為櫚榱短者以為侏儒無小大修短皆得其所宜此之謂也",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-9",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 57,
+          "end": 66
+        },
+        "kind": "semantic",
+        "text": "言明哲之君擢用人材亦如巧匠制木也",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-10",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 66,
+          "end": 95
+        },
+        "kind": "semantic",
+        "text": "軍勢有曰使智使愚使貪使勇使怯是也",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-11",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 95,
+          "end": 106
+        },
+        "kind": "semantic",
+        "text": "良匠能盡其木之性而用是無棄遺之材明主能盡其人之行而用是無棄遺之士斯二者惟良匠明主及之",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-12",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 106,
+          "end": 113
+        },
+        "kind": "semantic",
+        "text": "左傳曰善不可棄惡不可長凡人未有不偶入於惡者但惡有小大改與弗改也至如流毒於物長而不悛斯惡之大者也未離于惡則不知惡以為惡未入於善則不知善以為善人苟有累善是即知善以為善矣此可引而歸之全善也儻因而有一惡亦偶然耳遽可以今日之一惡忘其前日之累善哉此為記惡忘善也且掩其惡以揚其善而誘人入於善尚懼不肯歸之况張其惡而匿其善乎是則為棄之矣",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-13",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 113,
+          "end": 120
+        },
+        "kind": "semantic",
+        "text": "前漢陳湯傳曰論大功者不録小過舉大羙者不庛細瑕瑕者玉之玷也言人有㣲過如玉有小瑕不可因其瑕而棄其玉見其過而忘其功劉子所謂見朱橘一子蠧因剪樹而棄之覩縟錦一寸㸃乃全疋而燔之無乃不可乎",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-14",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 120,
+          "end": 128
+        },
+        "kind": "semantic",
+        "text": "盖謂設官分職當各隨其材之長短小大所有而用之不可求其備也",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-15",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 128,
+          "end": 140
+        },
+        "kind": "semantic",
+        "text": "三禮鼎器圗曰鼎有牛羊豕三鼎古制也牛鼎受一斛天子飾以黄金諸侯飾以白金口徑底徑及深俱一尺五寸三足如牛每足上以牛角飾之羊鼎受五斗大夫以銅為之無飾口徑底徑俱一尺深尺一寸豕鼎受三斗口徑底徑皆八寸深九寸士以鐡為之無飾後漢邊讓傳曰凾牛之鼎以烹雞多汁則淡而不可食少汁則熬而不可熟又荘子曰凾牛之鼎沸蟻不得措一足焉又吕氏春秋曰白圭對魏王曰市邱之鼎以烹雞多洎之則淡不可食少洎之則焦而不可熟也　凾容也洎汁也此言大不可小用",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-16",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 140,
+          "end": 150
+        },
+        "kind": "semantic",
+        "text": "言非其敵也吴起謂魏文侯曰云云不擇其人而用之是如伏雞之摶狸乳狗之犯虎雖有闘心隨之死矣狸摶獸犬犯虎何異哉言小不可大用",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-17",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 150,
+          "end": 162
+        },
+        "kind": "semantic",
+        "text": "劉子曰一鈞之器不可容於泉流三十斤為鈞江水出岷廣雅曰江貢也風俗通曰出珍物可貢獻也釋名曰江共也小水流入其中所公共也禹貢有中江北江三江九江今人謂川之大者皆曰江漢天河詩云維天有漢又水名今人呼陽邏之水為漢江言輕不可重用也",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-18",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 162,
+          "end": 174
+        },
+        "kind": "fanqie",
+        "text": "劉子曰萬鍾之鼎不滿以盂水百數名什十為百石量名四鈞名石重百二十斤又十斗為石車者舍也車尺遮反古史考曰黄帝作車引重致逺少昊時加牛禹時奚仲加馬車又音居車居也周禮注坐乗曰車又安車凡婦人車皆坐乗又周禮王后安車禮記致仕乗安車斗十升為斗筲竹器也可容斗二升語曰斗筲之人何足算也粟禾子也榖粟也粟六種之首也言重不可輕用也",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-19",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 174,
+          "end": 186
+        },
+        "kind": "semantic",
+        "text": "此承上文言大小輕重當隨其器而用之不可彊其所不能也",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-20",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 186,
+          "end": 196
+        },
+        "kind": "semantic",
+        "text": "亢倉子曰政術至要力於審士士有才行比於一郷委之鄉才行比於一縣委之縣才行比於一州委之州才行比於一國委之國政而後廼能無伏士矣言要量忖授職也",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-21",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 196,
+          "end": 198
+        },
+        "kind": "semantic",
+        "text": "藴聚也又蓄也",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-22",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 198,
+          "end": 204
+        },
+        "kind": "semantic",
+        "text": "統總也又紀也",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-23",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 204,
+          "end": 218
+        },
+        "kind": "fanqie",
+        "text": "王命論曰楶梲之材不荷棟梁之任又黄石公有曰腐木不可以為柱庸人不可以為主言智小不可以謀大也楶音莭梲之劣反皆小材也",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-24",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 218,
+          "end": 228
+        },
+        "kind": "semantic",
+        "text": "後漢仲長統損益篇曰小智居大位庻績不咸熈東莱先生有曰舉千鈞之鼎者非烏獲則不可游萬仭之淵者非津人則不可又韓非子曰小知不可使謀事小忠不可使主法此言徳狹不可以䖏廣也成字疑是大字",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-25",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 228,
+          "end": 236
+        },
+        "kind": "semantic",
+        "text": "此謂人君委任既得其人可以深居髙拱惟責成而已故曰不勞而治化也",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-26",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 236,
+          "end": 242
+        },
+        "kind": "semantic",
+        "text": "若大小輕重各適其用可謂設官之允當也",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-27",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 242,
+          "end": 249
+        },
+        "kind": "semantic",
+        "text": "一治一亂在乎得人失人故云斯二者治亂之本原故書曰謂治亂在庶官此之謂也",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-28",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 249,
+          "end": 259
+        },
+        "kind": "semantic",
+        "text": "四子講徳論曰盖君為元首臣為股肱明其一體相待而成書曰股肱惟人良臣惟聖夫手足具乃成人忠良備乃成聖書曰同力度徳同徳度義力鈞則有徳者勝合徳則秉義者彊",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-29",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 259,
+          "end": 262
+        },
+        "kind": "semantic",
+        "text": "道去聲",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-30",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 262,
+          "end": 269
+        },
+        "kind": "semantic",
+        "text": "宣播也道𨗳也言宣播仁風教導美俗須待明哲賢能之人託以衷赤則可",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-31",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 269,
+          "end": 279
+        },
+        "kind": "semantic",
+        "text": "列宿星宿也隂光月也言衆星雖小騰布于天亦可以助月未明之光也",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-32",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 279,
+          "end": 289
+        },
+        "kind": "semantic",
+        "text": "百川百川之水也溟渤海也言百川之水决流于地雖㣲亦可資添大海李斯有曰河海不擇細流故能就其深",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-33",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 289,
+          "end": 300
+        },
+        "kind": "semantic",
+        "text": "以海之深月之明猶藉羣物以成光大耳物謂列宿百川也",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-34",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 300,
+          "end": 308
+        },
+        "kind": "semantic",
+        "text": "人君在上臨下統總三極循理四時",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-35",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 308,
+          "end": 328
+        },
+        "kind": "semantic",
+        "text": "尹文子曰天下萬事不可備能擇其備能於一人則賢聖其猶病諸設一人能備天下之事能左右前後之宜逺近遲速之間必有不兼者焉苟有不兼于治闕矣全治而無闕者大小多少各當其分言人君運營方寸之小包括九區之大若不設官分職以獨力何得成其功業又漢書有曰廊廟之材非一木之枝帝王之功非一士之畧",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-36",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 328,
+          "end": 338
+        },
+        "kind": "semantic",
+        "text": "書曰惟后非賢不乂惟賢非后不食又孔子曰與其食浮于人寧若人浮于食禄勝己則近貪己勝禄則近亷故必須明辨職位大小審實賢俊可否選擇材能短長分頒其爵禄",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-37",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 338,
+          "end": 346
+        },
+        "kind": "semantic",
+        "text": "用人當則必仁風流行教化浃洽矣",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-38",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 346,
+          "end": 354
+        },
+        "kind": "semantic",
+        "text": "用人不當則必虧壊風教㓕傷人倫也",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-39",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 354,
+          "end": 361
+        },
+        "kind": "fanqie",
+        "text": "此即審官篇目下引臯陶謨書語之事也曰都在知人在安民禹曰吁咸若時惟帝其難之知人則哲謂人君設官分職以治天下其要在於知人知人之難堯舜猶病諸矧乎他者可不慎歟故太宗重戒之切如此",
+        "source": "cham"
+      }
+    ]
+  },
+  "annotationLayers": [
+    {
+      "id": "default",
+      "label": "原文",
+      "shortLabel": "文",
+      "contributor": "唐太宗",
+      "role": "author",
+      "nature": "annotation",
+      "displayOrder": 0,
+      "enabled": true,
+      "annotations": []
+    }
+  ]
+}

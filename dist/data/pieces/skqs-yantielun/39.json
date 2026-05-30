@@ -1,0 +1,379 @@
+{
+  "bookId": "skqs-yantielun",
+  "num": 39,
+  "title": "遵道第二十三",
+  "author": "桓寬",
+  "authorId": "桓寬",
+  "dynasty": "漢",
+  "era": "漢",
+  "eraCode": "07",
+  "genre": "prose",
+  "verses": [
+    {
+      "text": "大夫曰御史御史未應謂丞相史曰文學結髪學語服膺不舍辭若循環轉若陶鈞文繁於春華無効於抱風飾虚言以亂實道古以害今従之則縣官用廢虚言不可實而行之不従文學以為非也衆口囂囂不可勝聽諸卿都大府曰久矣通先古明當世今將何従而可矣丞相史進曰晋文公譎而不正齊桓公正而不譎所由不同俱歸於伯而必隨古不革襲故不改是文質不變而椎車尚在也故或作之或述之然後法令調於民而器械便於用也孔對三君殊意晏子相三君異道非苟相反所務之時異也公卿既定大業之路建不竭之本願無顧細故之語牽儒墨論也"
+    },
+    {
+      "text": "文學曰師曠之調五音不失宫商聖王之治世不離仁義故有改制之名無變道之實上自黄帝下及三王莫不明徳教謹庠序崇仁義立教化此百世不易之道也殷周因修而昌秦王變法而亡詩云雖無老成人尚有典刑言法教故沒而存之舉而貫之貫而行之何更為哉丞相史曰說西施之美無益於容道堯舜之徳無益於治今文學不言所為治而言以治之無功猶不言耕田之方美富人之囷倉也夫欲粟者務時欲治者因世故商君昭然獨見存亡不可與世俗同者為其沮功而多近也庸人安其故而愚者果所聞故舟車之始使民三年而後安之商君之法立然後民信之孔子曰可與共學未可與權文學可令扶䋲循刻非所與論道術之外也"
+    },
+    {
+      "text": "文學曰君子多聞闕疑述而不作聖達而謀大叡知而事寡是以功成而不隳名立而不小人知淺而謀大羸弱而任重故中道而廢蘓秦商鞅是也無先王之法非聖人之道而因於已故亡易曰小人處盛位雖髙必崩不盈其道不恒其徳而能以善終身未之有也是以初登于天後入于地禹之治水也民知其利莫不勸其功商鞅之立法民知其害莫不畏其刑故夏后功立而王商鞅法行而亡商鞅有獨智之慮世不獨見之證文學不足與權當世亦無負累之殃也"
+    }
+  ],
+  "sections": {},
+  "annotations": [],
+  "layers": {
+    "commentary": [
+      {
+        "id": "commentary-1",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 15
+        },
+        "kind": "semantic",
+        "text": "去聲",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-2",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 15,
+          "end": 35
+        },
+        "kind": "semantic",
+        "text": "結髪猶言總角少時也循環言其旋繞徃来無窮也陶家名轉者為鈞盖取周囘均調之義也",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-3",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 35,
+          "end": 86
+        },
+        "kind": "semantic",
+        "text": "音升",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-4",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 86,
+          "end": 135
+        },
+        "kind": "semantic",
+        "text": "音覇",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-5",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 135,
+          "end": 142
+        },
+        "kind": "semantic",
+        "text": "音集",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-6",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 142,
+          "end": 156
+        },
+        "kind": "semantic",
+        "text": "齊俗訓曰昔齊桓公合諸侯以乗車退誅於國以斧鉞晋文公合諸侯以革車退行於國以禮義桓公前柔而後剛文公前剛而後柔然而令行乎天下權制諸侯鈞者審於勢之變也韓非子曰古者寡事而備簡樸陋而不盡故有珧銚而椎車者古者人寡而相親物多而輕利易讓故有揖讓而傳天下者然則行揖讓髙慈惠而道推仁厚皆椎政也處多事之時用寡事之器非智者之備也當大争之世而循揖讓之軌非聖人之治也故智者不乗椎車聖人不行椎政也",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-7",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 156,
+          "end": 186
+        },
+        "kind": "semantic",
+        "text": "去聲",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-8",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 186,
+          "end": 200
+        },
+        "kind": "fanqie",
+        "text": "韓非子曰葉公子髙問政於仲尼仲尼曰政在恱近而来逺魯哀公問政於仲尼仲尼曰政在選賢齊景公問政於仲尼仲尼曰政在節財三公出子貢問曰三公問夫子政一也夫子對之不同何也仲尼曰葉都大而國小民有背心故曰政在恱近而来逺魯哀公有大臣三人外障距諸侯四鄰之士内比周而以愚其君使宗廟不掃除社稷不血食者必是三臣也故曰政在選賢齊景公築雍門為路寢一朝而以三百乗之家賜者三故曰政在節財漢武帝曰五帝不相復禮三代不同法所繇殊路而建徳一也葢孔子對定公以來逺哀公以論臣景公以節用非期不同所急異務也臣瓉曰論語及韓子皆言葉公問政於孔子孔子答以恱近来逺今云定公與二書異晏嬰傳曰晏平仲嬰者莱之夷維人也事齊靈公莊公景公以節儉力行重於齊既相齊食不重肉妾不衣帛其在朝君語及之即危言語不及之即危行國有道即順命無道即衡命以此三世顕名于諸侯晏子春秋曰梁丘據問晏子曰子事三君君不同心子俱従焉仁人固多心乎對曰一心可以事百君百心不可以事一君王恢曰五帝不相同樂三王不相襲禮者非故相反也各因世之宜也教與時變備與敵化守一而不易不足以子民",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-9",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 0,
+          "end": 23
+        },
+        "kind": "semantic",
+        "text": "去聲",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-10",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 23,
+          "end": 36
+        },
+        "kind": "fanqie",
+        "text": "修務訓曰昔晋平公令官為鐘鐘成而示師曠師曠曰鐘音不調平公曰寡人以示工工皆以為調而以為不調何也師曠曰使後世無知音者則巳若有知音者必知鐘之不調故師曠之欲調鐘也以為後之有知音者也陳元曰夫明者獨見不惑於朱紫聰者獨聞不謬於清濁故離朱不為巧眩移目師曠不為新聲易耳董仲舒曰三王之道所祖不同非其相反將以捄溢扶衰所衰之變然也故孔子曰無為而治者其舜乎改正朔易服色以順天命而已其餘盡循堯道何更為哉故王者有改制之名亡變道之實",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-11",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 36,
+          "end": 78
+        },
+        "kind": "semantic",
+        "text": "主術訓曰今夫權衡䂓矩一定而不易不為秦楚變莭不為呉越改容常一而不邪方行而不流一日刑之萬世傳之而以無為為之故國有亡主而世無廢道人有困窮而理無不通語曰家有常業雖饑不餓國有常法雖危不亡",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-12",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 78,
+          "end": 109
+        },
+        "kind": "semantic",
+        "text": "牛賛曰國有固籍兵有常經變籍則亂失經則弱故利不百者不變俗功不什者不易器杜摯曰法古無過修禮無邪甘龍曰聖人不易民而教智者不變法而動因民而教者不勞而成功緣法而治者吏習而民安之",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-13",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 109,
+          "end": 111
+        },
+        "kind": "semantic",
+        "text": "去聲",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-14",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 111,
+          "end": 131
+        },
+        "kind": "semantic",
+        "text": "寰宇紀曰西施施其姓也㑹稽諸暨縣有東施家西施家越王於苧蘿山得採薪之女西施飾以羅縠教以行步習於土城臨於都巷三年學服而獻吴王吴得西施為築姑蘓臺說山訓曰畫西施之面美而不可說規孟賁之目大而不可畏",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-15",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 131,
+          "end": 158
+        },
+        "kind": "semantic",
+        "text": "音悃",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-16",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 158,
+          "end": 161
+        },
+        "kind": "semantic",
+        "text": "音扶",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-17",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 161,
+          "end": 171
+        },
+        "kind": "fanqie",
+        "text": "趙武靈王曰古今不同俗何古之法帝王不相襲何禮之循伏羲神農教而不誅黄帝堯舜誅而不怒及至三王觀時而制法因事而制禮法度制令各順其宜衣服器械各便其用故理世不一其道便國不必法古聖人之興也不相襲而王夏殷之衰也不易禮而滅然則反古未可非而循禮未足多也故聖與俗流賢與變俱諺曰以書為御者不盡馬之情以古制今者不逹事之變故循法之功不足以髙世法古之學不足以制今",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-18",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 171,
+          "end": 206
+        },
+        "kind": "semantic",
+        "text": "衛鞅曰聖人苟可以强國不法其故苟可以利民不循其禮常人安於故俗學者溺於所聞以此兩言居官守法可也非所以論於法之外也三代不同禮而王五伯不同法而霸智者作法愚者制焉賢者更禮不肖者拘焉",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-19",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 206,
+          "end": 229
+        },
+        "kind": "semantic",
+        "text": "吕氏春秋曰舟車之始見也三世而後安之夫聞善豈易哉故聼無事治衞鞅傳曰孝公既用衞鞅以衞鞅為左庶長卒定變法之令令既具未布恐民之不信也乃立三丈之木於國都市南門募民有能徙置北門者予十金民怪之莫敢徙復曰能徙者予五十金有一人徙之輒予五十金以明不欺卒下令令行于民期年秦民之國都言初令之不便者以千數於是太子犯法衞鞅曰法之不行自上犯之將法太子太子君嗣也不可施刑刑其傅公子䖍黥其師公孫賈明日秦人皆趨令行之十年秦民大說道不拾遺山無盗賊家給人足民勇於公戰怯於私闘鄉邑大治秦民初言令不便者有来言令便者衞鞅曰此皆亂化之民也盡遷之於邉城其後民莫敢議令",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-20",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 2,
+          "start": 0,
+          "end": 22
+        },
+        "kind": "semantic",
+        "text": "音銳",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-21",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 2,
+          "start": 22,
+          "end": 23
+        },
+        "kind": "semantic",
+        "text": "去聲",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-22",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 2,
+          "start": 23,
+          "end": 40
+        },
+        "kind": "semantic",
+        "text": "去聲",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-23",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 2,
+          "start": 40,
+          "end": 45
+        },
+        "kind": "semantic",
+        "text": "音縲",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-24",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 2,
+          "start": 45,
+          "end": 60
+        },
+        "kind": "semantic",
+        "text": "汜論曰蘓秦匹夫徒步之人也靻蹻羸葢経營萬乘之主服諾諸侯然不自免於車裂之患蔡澤曰商君為孝公平權衡正度量調輕重决裂阡陌教民耕戰是以兵動而地廣兵休而國富故秦無敵於天下立威諸侯功已成矣遂以車裂",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-25",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 2,
+          "start": 60,
+          "end": 143
+        },
+        "kind": "semantic",
+        "text": "河間獻王曰禹稱民無食則我不能使也功成而不利于人則我不能勸也故疏河以導之鑿江通于九派𤂢五湖而定東海民亦勞矣然而不怨苦者利歸于民也衞鞅傳曰商君相秦十年宗室貴戚多怨望者趙良見商君謂曰君之見秦王也因嬖人景監以為主非所以為名也相秦不以百姓為事而大築冀闕非所以為功也刑黥太子之師傅殘傷民以駿刑是積怨蓄禍也教之化民也深於命民之效上也㨗于令今君又左建外易非所以為教也君又南面而稱寡人日䋲秦之貴公子詩曰相鼠有體人而無禮人而無禮胡不遄死以詩觀之非所以為夀也公子䖍杜門不出已八年矣君又殺祝懽而黥公孫賈詩曰得人者興失人者崩此數事者非所以得人也君之危若朝露尚將欲延年益夀乎則何不歸十五都灌園于鄙勸秦王顕巖穴之士養老存孤敬父兄序有功尊有徳可以稍安君尚将貪商於之富寵秦國之教畜百姓之怨秦王一旦捐賔客而不立朝秦國之所以收君者豈其㣲哉",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-26",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 2,
+          "start": 143,
+          "end": 150
+        },
+        "kind": "semantic",
+        "text": "去聲",
+        "source": "cham"
+      }
+    ]
+  },
+  "annotationLayers": [
+    {
+      "id": "default",
+      "label": "原文",
+      "shortLabel": "文",
+      "contributor": "桓寬",
+      "role": "author",
+      "nature": "annotation",
+      "displayOrder": 0,
+      "enabled": true,
+      "annotations": []
+    }
+  ]
+}

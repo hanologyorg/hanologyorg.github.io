@@ -1,0 +1,221 @@
+{
+  "bookId": "laozi-heshanggong-wiki",
+  "num": 47,
+  "title": "第四十七章（鑑遠）",
+  "author": "老子",
+  "authorId": "Laozi",
+  "dynasty": "周",
+  "era": "周",
+  "genre": "prose",
+  "verses": [
+    {
+      "text": "不出戶知天下，"
+    },
+    {
+      "text": "不窺牖見天道，"
+    },
+    {
+      "text": "其出彌遠，其知彌少。"
+    },
+    {
+      "text": "是以聖人不行而知，"
+    },
+    {
+      "text": "不見而名，"
+    },
+    {
+      "text": "不為而成。"
+    }
+  ],
+  "sections": {},
+  "annotations": [],
+  "layers": {
+    "heshanggong": [
+      {
+        "id": "heshanggong-1",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 7
+        },
+        "kind": "commentary",
+        "text": "聖人不出戶以知天下者，以己身知人身，以己家知人家，所以見天下也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-2",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 0,
+          "end": 7
+        },
+        "kind": "commentary",
+        "text": "天道與人道同，天人相通，精氣相貫。人君清淨，天氣自正，人君多欲，天氣煩濁。吉兇利害，皆由於己。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-3",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 2,
+          "start": 0,
+          "end": 10
+        },
+        "kind": "commentary",
+        "text": "謂去其家觀人家，去其身觀人身，所觀益遠，所見益少也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-4",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 3,
+          "start": 0,
+          "end": 9
+        },
+        "kind": "commentary",
+        "text": "聖人不上天，不入淵，能知天下者，以心知之也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-5",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 4,
+          "start": 0,
+          "end": 5
+        },
+        "kind": "commentary",
+        "text": "上好道，下好德；上好武，下好力。聖人原小知大，察內知外。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-6",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 5,
+          "start": 0,
+          "end": 5
+        },
+        "kind": "commentary",
+        "text": "上無所為，則下無事，家給人足，萬物自化就也。",
+        "source": "cham"
+      }
+    ]
+  },
+  "annotationLayers": [
+    {
+      "id": "default",
+      "label": "原文",
+      "shortLabel": "文",
+      "contributor": "Laozi",
+      "role": "author",
+      "nature": "annotation",
+      "displayOrder": 0,
+      "enabled": true,
+      "annotations": []
+    },
+    {
+      "id": "heshanggong",
+      "label": "河上公註",
+      "shortLabel": "河",
+      "contributor": "C002",
+      "role": "commentator",
+      "nature": "commentary",
+      "displayOrder": 1,
+      "enabled": true,
+      "annotations": [
+        {
+          "id": "heshanggong-1",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 7
+          },
+          "kind": "commentary",
+          "text": "聖人不出戶以知天下者，以己身知人身，以己家知人家，所以見天下也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-2",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 1,
+            "start": 0,
+            "end": 7
+          },
+          "kind": "commentary",
+          "text": "天道與人道同，天人相通，精氣相貫。人君清淨，天氣自正，人君多欲，天氣煩濁。吉兇利害，皆由於己。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-3",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 2,
+            "start": 0,
+            "end": 10
+          },
+          "kind": "commentary",
+          "text": "謂去其家觀人家，去其身觀人身，所觀益遠，所見益少也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-4",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 3,
+            "start": 0,
+            "end": 9
+          },
+          "kind": "commentary",
+          "text": "聖人不上天，不入淵，能知天下者，以心知之也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-5",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 4,
+            "start": 0,
+            "end": 5
+          },
+          "kind": "commentary",
+          "text": "上好道，下好德；上好武，下好力。聖人原小知大，察內知外。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-6",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 5,
+            "start": 0,
+            "end": 5
+          },
+          "kind": "commentary",
+          "text": "上無所為，則下無事，家給人足，萬物自化就也。",
+          "source": "cham"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "textRef": "laozi-heshanggong-wiki",
+    "relation": "section"
+  }
+}

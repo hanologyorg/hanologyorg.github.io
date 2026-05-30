@@ -1,0 +1,642 @@
+{
+  "bookId": "laozi-boshu",
+  "num": 55,
+  "title": "第五十五章（含德）",
+  "author": "老子",
+  "authorId": "Laozi",
+  "dynasty": "周",
+  "era": "周",
+  "genre": "prose",
+  "verses": [
+    {
+      "text": "含德之厚者 比於赤子 蜂蠆虺蛇弗螫 攫鳥猛獸弗搏 骨弱筋柔而握固 未知牝牡之合而朘怒 精之至也 終日號而不嚘 和之至也"
+    },
+    {
+      "text": "和曰常 知和曰明 益生曰祥 心使氣曰強"
+    },
+    {
+      "text": "物壯即老 謂之不道 不道早已"
+    }
+  ],
+  "sections": {},
+  "annotations": [],
+  "layers": {
+    "heshanggong": [
+      {
+        "id": "heshanggong-1",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 6,
+          "end": 7
+        },
+        "kind": "commentary",
+        "text": "神明保佑含德之人，若父母之於赤子也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-2",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 59
+        },
+        "kind": "commentary",
+        "text": "蜂蠇蛇虺不螫。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-3",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 59
+        },
+        "kind": "commentary",
+        "text": "赤子不害於物，物亦不害之。故太平之世，人無貴賤，仁心，有刺之物，還返其本，有毒之蟲，不傷於人。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-4",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 25,
+          "end": 26
+        },
+        "kind": "commentary",
+        "text": "赤子筋骨柔弱而持物堅固，以其意心不移也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-5",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 59
+        },
+        "kind": "commentary",
+        "text": "赤子未知男女會合而陰陽作怒者，由精氣多之所致也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-6",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 59
+        },
+        "kind": "commentary",
+        "text": "赤子從朝至暮啼號聲不變易者，和氣多之所至也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-7",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 59
+        },
+        "kind": "commentary",
+        "text": "人能和氣柔弱有益於人者，則為知道之常也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-8",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 59
+        },
+        "kind": "commentary",
+        "text": "人能知道之常行，則日以明達於玄妙也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-9",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 59
+        },
+        "kind": "commentary",
+        "text": "祥，長也。言益生欲自生，日以長大。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-10",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 0,
+          "end": 19
+        },
+        "kind": "commentary",
+        "text": "心當專一和柔而神氣實內，故形柔。而反使妄有所為，和氣去於中，故形體日以剛強也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-11",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 0,
+          "end": 19
+        },
+        "kind": "commentary",
+        "text": "萬物壯極則枯老也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-12",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 2,
+          "start": 5,
+          "end": 6
+        },
+        "kind": "commentary",
+        "text": "枯老則不得道矣。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-13",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 2,
+          "start": 10,
+          "end": 11
+        },
+        "kind": "commentary",
+        "text": "不得道者早死。",
+        "source": "cham"
+      }
+    ],
+    "wangbi": [
+      {
+        "id": "wangbi-1",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 59
+        },
+        "kind": "commentary",
+        "text": "赤子無求無欲，不犯眾物，故毒蟲之物無犯之人也。含德之厚者，不犯於物，故無物以損其全也。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-2",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 25,
+          "end": 26
+        },
+        "kind": "commentary",
+        "text": "以柔弱之故，故握能周固。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-3",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 59
+        },
+        "kind": "commentary",
+        "text": "作，長也。無物以損其身，故能全長也。言含德之厚者，無物可以損其德、渝其真，柔弱不爭而不摧折，皆若此也。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-4",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 59
+        },
+        "kind": "commentary",
+        "text": "無爭欲之心，故終日出聲而不嗄也。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-5",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 59
+        },
+        "kind": "commentary",
+        "text": "物以和為常，故知和則得常也。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-6",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 59
+        },
+        "kind": "commentary",
+        "text": "不皦不昧，不溫不涼，此常也。無形不可得而見，曰明也。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-7",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 9,
+          "end": 10
+        },
+        "kind": "commentary",
+        "text": "生不可益，益之則夭也。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-8",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 14,
+          "end": 15
+        },
+        "kind": "commentary",
+        "text": "心宜無有，使氣則強。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-9",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 0,
+          "end": 19
+        },
+        "kind": "commentary",
+        "text": "",
+        "source": "cham"
+      }
+    ]
+  },
+  "annotationLayers": [
+    {
+      "id": "default",
+      "label": "原文",
+      "shortLabel": "文",
+      "contributor": "Laozi",
+      "role": "author",
+      "nature": "annotation",
+      "displayOrder": 0,
+      "enabled": true,
+      "annotations": []
+    },
+    {
+      "id": "heshanggong",
+      "label": "河上公註",
+      "shortLabel": "河",
+      "contributor": "C002",
+      "role": "commentator",
+      "nature": "commentary",
+      "displayOrder": 1,
+      "enabled": true,
+      "annotations": [
+        {
+          "id": "heshanggong-1",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 6,
+            "end": 7
+          },
+          "kind": "commentary",
+          "text": "神明保佑含德之人，若父母之於赤子也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-2",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 59
+          },
+          "kind": "commentary",
+          "text": "蜂蠇蛇虺不螫。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-3",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 59
+          },
+          "kind": "commentary",
+          "text": "赤子不害於物，物亦不害之。故太平之世，人無貴賤，仁心，有刺之物，還返其本，有毒之蟲，不傷於人。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-4",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 25,
+            "end": 26
+          },
+          "kind": "commentary",
+          "text": "赤子筋骨柔弱而持物堅固，以其意心不移也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-5",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 59
+          },
+          "kind": "commentary",
+          "text": "赤子未知男女會合而陰陽作怒者，由精氣多之所致也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-6",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 59
+          },
+          "kind": "commentary",
+          "text": "赤子從朝至暮啼號聲不變易者，和氣多之所至也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-7",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 59
+          },
+          "kind": "commentary",
+          "text": "人能和氣柔弱有益於人者，則為知道之常也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-8",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 59
+          },
+          "kind": "commentary",
+          "text": "人能知道之常行，則日以明達於玄妙也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-9",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 59
+          },
+          "kind": "commentary",
+          "text": "祥，長也。言益生欲自生，日以長大。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-10",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 1,
+            "start": 0,
+            "end": 19
+          },
+          "kind": "commentary",
+          "text": "心當專一和柔而神氣實內，故形柔。而反使妄有所為，和氣去於中，故形體日以剛強也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-11",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 1,
+            "start": 0,
+            "end": 19
+          },
+          "kind": "commentary",
+          "text": "萬物壯極則枯老也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-12",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 2,
+            "start": 5,
+            "end": 6
+          },
+          "kind": "commentary",
+          "text": "枯老則不得道矣。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-13",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 2,
+            "start": 10,
+            "end": 11
+          },
+          "kind": "commentary",
+          "text": "不得道者早死。",
+          "source": "cham"
+        }
+      ]
+    },
+    {
+      "id": "wangbi",
+      "label": "王弼註",
+      "shortLabel": "王",
+      "contributor": "C001",
+      "role": "commentator",
+      "nature": "commentary",
+      "displayOrder": 2,
+      "enabled": true,
+      "annotations": [
+        {
+          "id": "wangbi-1",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 59
+          },
+          "kind": "commentary",
+          "text": "赤子無求無欲，不犯眾物，故毒蟲之物無犯之人也。含德之厚者，不犯於物，故無物以損其全也。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-2",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 25,
+            "end": 26
+          },
+          "kind": "commentary",
+          "text": "以柔弱之故，故握能周固。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-3",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 59
+          },
+          "kind": "commentary",
+          "text": "作，長也。無物以損其身，故能全長也。言含德之厚者，無物可以損其德、渝其真，柔弱不爭而不摧折，皆若此也。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-4",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 59
+          },
+          "kind": "commentary",
+          "text": "無爭欲之心，故終日出聲而不嗄也。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-5",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 59
+          },
+          "kind": "commentary",
+          "text": "物以和為常，故知和則得常也。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-6",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 59
+          },
+          "kind": "commentary",
+          "text": "不皦不昧，不溫不涼，此常也。無形不可得而見，曰明也。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-7",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 1,
+            "start": 9,
+            "end": 10
+          },
+          "kind": "commentary",
+          "text": "生不可益，益之則夭也。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-8",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 1,
+            "start": 14,
+            "end": 15
+          },
+          "kind": "commentary",
+          "text": "心宜無有，使氣則強。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-9",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 1,
+            "start": 0,
+            "end": 19
+          },
+          "kind": "commentary",
+          "text": "",
+          "source": "cham"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "textRef": "laozi-boshu",
+    "relation": "section"
+  }
+}

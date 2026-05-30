@@ -1,0 +1,482 @@
+{
+  "bookId": "laozi-heshanggong-wiki",
+  "num": 15,
+  "title": "第十五章（顯德）",
+  "author": "老子",
+  "authorId": "Laozi",
+  "dynasty": "周",
+  "era": "周",
+  "genre": "prose",
+  "verses": [
+    {
+      "text": "古之善為士者，"
+    },
+    {
+      "text": "微妙玄通，"
+    },
+    {
+      "text": "深不可識。"
+    },
+    {
+      "text": "夫唯不可識，故強為之容。"
+    },
+    {
+      "text": "與兮若冬涉川；"
+    },
+    {
+      "text": "猶兮若畏四鄰；"
+    },
+    {
+      "text": "儼兮其若容；"
+    },
+    {
+      "text": "渙兮若冰之將釋，"
+    },
+    {
+      "text": "敦兮其若朴，"
+    },
+    {
+      "text": "曠兮其若谷；"
+    },
+    {
+      "text": "渾兮其若濁。"
+    },
+    {
+      "text": "孰能濁以靜之，徐清。"
+    },
+    {
+      "text": "孰能安以久動之，徐生。"
+    },
+    {
+      "text": "保此道者，不欲盈。"
+    },
+    {
+      "text": "夫惟不盈，故能蔽不新成。"
+    }
+  ],
+  "sections": {},
+  "annotations": [],
+  "layers": {
+    "heshanggong": [
+      {
+        "id": "heshanggong-1",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 7
+        },
+        "kind": "commentary",
+        "text": "謂得道之君也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-2",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 0,
+          "end": 5
+        },
+        "kind": "commentary",
+        "text": "玄，天也。言其志節玄妙，精與天通也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-3",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 2,
+          "start": 0,
+          "end": 5
+        },
+        "kind": "commentary",
+        "text": "道德深遠，不可識知，內視若盲，反聽若聾，莫知所長。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-4",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 3,
+          "start": 0,
+          "end": 12
+        },
+        "kind": "commentary",
+        "text": "謂下句也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-5",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 4,
+          "start": 0,
+          "end": 7
+        },
+        "kind": "commentary",
+        "text": "舉事輒加重慎與。與兮若冬涉川，心難之也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-6",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 5,
+          "start": 0,
+          "end": 7
+        },
+        "kind": "commentary",
+        "text": "其進退猶猶如拘制，若人犯法，畏四鄰知之也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-7",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 6,
+          "start": 0,
+          "end": 6
+        },
+        "kind": "commentary",
+        "text": "如客畏主人，儼然無所造作也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-8",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 7,
+          "start": 0,
+          "end": 8
+        },
+        "kind": "commentary",
+        "text": "渙者，解散。釋者，消亡。除情去欲，日以空虛。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-9",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 8,
+          "start": 0,
+          "end": 6
+        },
+        "kind": "commentary",
+        "text": "敦者，質厚。朴者，形未分。內守精神，外無文采也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-10",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 9,
+          "start": 0,
+          "end": 6
+        },
+        "kind": "commentary",
+        "text": "曠者，寬大。谷者，空虛。不有德功名，無所不包也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-11",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 10,
+          "start": 0,
+          "end": 6
+        },
+        "kind": "commentary",
+        "text": "渾者，守本真，濁者，不照然。與眾合同，不自專也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-12",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 11,
+          "start": 0,
+          "end": 10
+        },
+        "kind": "commentary",
+        "text": "孰，誰也。誰能知水之濁止而靜之，徐徐自清也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-13",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 12,
+          "start": 0,
+          "end": 11
+        },
+        "kind": "commentary",
+        "text": "誰能安靜以久，徐徐以長生也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-14",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 13,
+          "start": 0,
+          "end": 9
+        },
+        "kind": "commentary",
+        "text": "保此徐生之道，不欲奢泰盈溢。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-15",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 14,
+          "start": 0,
+          "end": 12
+        },
+        "kind": "commentary",
+        "text": "夫為不盈滿之人，能守蔽不為新成。蔽者，匿光榮也。新成者，貴功名。",
+        "source": "cham"
+      }
+    ]
+  },
+  "annotationLayers": [
+    {
+      "id": "default",
+      "label": "原文",
+      "shortLabel": "文",
+      "contributor": "Laozi",
+      "role": "author",
+      "nature": "annotation",
+      "displayOrder": 0,
+      "enabled": true,
+      "annotations": []
+    },
+    {
+      "id": "heshanggong",
+      "label": "河上公註",
+      "shortLabel": "河",
+      "contributor": "C002",
+      "role": "commentator",
+      "nature": "commentary",
+      "displayOrder": 1,
+      "enabled": true,
+      "annotations": [
+        {
+          "id": "heshanggong-1",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 7
+          },
+          "kind": "commentary",
+          "text": "謂得道之君也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-2",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 1,
+            "start": 0,
+            "end": 5
+          },
+          "kind": "commentary",
+          "text": "玄，天也。言其志節玄妙，精與天通也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-3",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 2,
+            "start": 0,
+            "end": 5
+          },
+          "kind": "commentary",
+          "text": "道德深遠，不可識知，內視若盲，反聽若聾，莫知所長。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-4",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 3,
+            "start": 0,
+            "end": 12
+          },
+          "kind": "commentary",
+          "text": "謂下句也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-5",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 4,
+            "start": 0,
+            "end": 7
+          },
+          "kind": "commentary",
+          "text": "舉事輒加重慎與。與兮若冬涉川，心難之也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-6",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 5,
+            "start": 0,
+            "end": 7
+          },
+          "kind": "commentary",
+          "text": "其進退猶猶如拘制，若人犯法，畏四鄰知之也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-7",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 6,
+            "start": 0,
+            "end": 6
+          },
+          "kind": "commentary",
+          "text": "如客畏主人，儼然無所造作也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-8",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 7,
+            "start": 0,
+            "end": 8
+          },
+          "kind": "commentary",
+          "text": "渙者，解散。釋者，消亡。除情去欲，日以空虛。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-9",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 8,
+            "start": 0,
+            "end": 6
+          },
+          "kind": "commentary",
+          "text": "敦者，質厚。朴者，形未分。內守精神，外無文采也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-10",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 9,
+            "start": 0,
+            "end": 6
+          },
+          "kind": "commentary",
+          "text": "曠者，寬大。谷者，空虛。不有德功名，無所不包也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-11",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 10,
+            "start": 0,
+            "end": 6
+          },
+          "kind": "commentary",
+          "text": "渾者，守本真，濁者，不照然。與眾合同，不自專也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-12",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 11,
+            "start": 0,
+            "end": 10
+          },
+          "kind": "commentary",
+          "text": "孰，誰也。誰能知水之濁止而靜之，徐徐自清也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-13",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 12,
+            "start": 0,
+            "end": 11
+          },
+          "kind": "commentary",
+          "text": "誰能安靜以久，徐徐以長生也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-14",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 13,
+            "start": 0,
+            "end": 9
+          },
+          "kind": "commentary",
+          "text": "保此徐生之道，不欲奢泰盈溢。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-15",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 14,
+            "start": 0,
+            "end": 12
+          },
+          "kind": "commentary",
+          "text": "夫為不盈滿之人，能守蔽不為新成。蔽者，匿光榮也。新成者，貴功名。",
+          "source": "cham"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "textRef": "laozi-heshanggong-wiki",
+    "relation": "section"
+  }
+}

@@ -1,0 +1,226 @@
+{
+  "bookId": "laozi",
+  "num": 8,
+  "title": "第八章",
+  "author": "老子",
+  "authorId": "Laozi",
+  "dynasty": "周",
+  "era": "周",
+  "genre": "prose",
+  "verses": [
+    {
+      "text": "上善若水。水善利萬物而不爭，處眾人之所惡，故幾於道。"
+    },
+    {
+      "text": "居善地，心善淵，與善仁，言善信，正善治，事善能，動善時。"
+    },
+    {
+      "text": "夫唯不爭，故無尤。"
+    }
+  ],
+  "sections": {},
+  "annotations": [],
+  "layers": {
+    "hesonggong": [
+      {
+        "id": "hesonggong-1",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 26
+        },
+        "kind": "semantic",
+        "text": "上善之人如水，善利萬物而不爭，處眾人之所惡，故幾於道。",
+        "source": "cham"
+      },
+      {
+        "id": "hesonggong-2",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 0,
+          "end": 28
+        },
+        "kind": "semantic",
+        "text": "居善地，心善淵，與善仁，言善信，正善治，事善能，動善時。皆法水而為善。",
+        "source": "cham"
+      },
+      {
+        "id": "hesonggong-3",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 2,
+          "start": 0,
+          "end": 9
+        },
+        "kind": "semantic",
+        "text": "夫唯不爭，故天下無尤咎己者。",
+        "source": "cham"
+      }
+    ],
+    "wangbi": [
+      {
+        "id": "wangbi-1",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 26
+        },
+        "kind": "semantic",
+        "text": "上善之人如水，利物而不爭，處卑下而近道。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-2",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 0,
+          "end": 28
+        },
+        "kind": "semantic",
+        "text": "善者當如水，處地低下，心靜深淵，施惠及人，言合信實，政教治正，事得其能，舉動合時。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-3",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 2,
+          "start": 0,
+          "end": 9
+        },
+        "kind": "semantic",
+        "text": "不與物爭，故無過失。",
+        "source": "cham"
+      }
+    ]
+  },
+  "annotationLayers": [
+    {
+      "id": "default",
+      "label": "原文",
+      "shortLabel": "文",
+      "contributor": "Laozi",
+      "role": "author",
+      "nature": "annotation",
+      "displayOrder": 0,
+      "enabled": true,
+      "annotations": []
+    },
+    {
+      "id": "wangbi",
+      "label": "王弼註",
+      "shortLabel": "王",
+      "contributor": "C001",
+      "role": "commentator",
+      "nature": "commentary",
+      "displayOrder": 1,
+      "enabled": true,
+      "annotations": [
+        {
+          "id": "wangbi-1",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 26
+          },
+          "kind": "semantic",
+          "text": "上善之人如水，利物而不爭，處卑下而近道。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-2",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 1,
+            "start": 0,
+            "end": 28
+          },
+          "kind": "semantic",
+          "text": "善者當如水，處地低下，心靜深淵，施惠及人，言合信實，政教治正，事得其能，舉動合時。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-3",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 2,
+            "start": 0,
+            "end": 9
+          },
+          "kind": "semantic",
+          "text": "不與物爭，故無過失。",
+          "source": "cham"
+        }
+      ]
+    },
+    {
+      "id": "hesonggong",
+      "label": "河上公註",
+      "shortLabel": "河",
+      "contributor": "C002",
+      "role": "commentator",
+      "nature": "commentary",
+      "displayOrder": 2,
+      "enabled": true,
+      "annotations": [
+        {
+          "id": "hesonggong-1",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 26
+          },
+          "kind": "semantic",
+          "text": "上善之人如水，善利萬物而不爭，處眾人之所惡，故幾於道。",
+          "source": "cham"
+        },
+        {
+          "id": "hesonggong-2",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 1,
+            "start": 0,
+            "end": 28
+          },
+          "kind": "semantic",
+          "text": "居善地，心善淵，與善仁，言善信，正善治，事善能，動善時。皆法水而為善。",
+          "source": "cham"
+        },
+        {
+          "id": "hesonggong-3",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 2,
+            "start": 0,
+            "end": 9
+          },
+          "kind": "semantic",
+          "text": "夫唯不爭，故天下無尤咎己者。",
+          "source": "cham"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "textRef": "laozi",
+    "relation": "section"
+  }
+}

@@ -1,0 +1,149 @@
+{
+  "bookId": "primary",
+  "num": 35,
+  "title": "秋浦歌",
+  "author": "李白",
+  "authorId": "A018",
+  "dynasty": "唐",
+  "era": "唐",
+  "eraCode": "24",
+  "genre": "poetry",
+  "verses": [
+    {
+      "text": "白髮三千丈，緣愁似个長。"
+    },
+    {
+      "text": "不知明鏡裏，何處得秋霜。"
+    }
+  ],
+  "sections": {
+    "analysis": "這是一首用誇張手法寫愁的名作。詩人對着鏡子一照，赫然發現頭上的白髮竟有三千丈長，那是因為整天發愁的緣故啊！鏡子裏的自己，一頭白髮如同秋天的白霜，真不明白哪裏得來這麼一副衰老的模樣？\n\n此詩劈頭一句「白髮三千丈」，奇峰突起，使人驚怪。李白的詩善於誇張，敢於誇張，為他人所不能相比。人們常以為憂愁會使人頭髮變白，故以「白髮」喻愁，是常語；但以「三千丈」喻愁緒之長，則是奇想，但又不悖於理。因為愁多，所以白髮長，雖誇張至極，卻又似是理所當然。詩人偶爾攬鏡自照發出的驚呼，第二句「緣愁似个長」作了直接解釋。第三、四兩句進一步強調髮之白、愁之深，鏡中秋霜，即頭上白髮，明知故問，是詩人委婉地表達了他的愁緒。如此白髮，如此愁懷，從何而得？詩人問而不答。究竟何人何事給詩人帶來如此深重的愁苦？詩中始終未着一字。自天寶三、四載間遭禍被逐出京城之後，詩人一直過着顛沛流離的生活，如今年過五十，壯志未酬，心中悲愁難以盡訴，不需多說，讀者自可體察。\n\n本詩用誇張浪漫的筆法，抒發婉曲深沉之情，有極強的藝術感染力。",
+    "background": "大約在唐代天寶十二載（公元753），已年近半百的李白漫遊到秋浦（今安徽省貴池縣西），寫了十七首《秋浦歌》，這是其中的第十五首。",
+    "follow_up": "1. 聆聽誦讀錄音，投入感情朗讀詩歌，並互評誰讀得最有韻味。 https://www.edb.gov.hk/attachment/tc/curriculum-development/kla/chi-edu/resources/primary/lang/jilei/035_jilei_shi(cantonese).mp3\n\n2. 試在互聯網上搜尋李白的生平，了解他寫作本詩時的心情和境況，給他寫一張心意卡，鼓勵、安慰他。",
+    "think_questions": "1. 平日最易令你發愁的是甚麼事？\n\n2. 當你發愁時，你會有甚麼表現？你會用甚麼方法去排解愁緒？\n\n3. 李白的詩歌擅用誇張筆法。請就你讀過的李白詩作，舉出三個例子來。",
+    "annotations": "1.秋：○粵普；pou2；○普pǔ\n2.緣：緣由，因為。\n3.个：通「個」、「箇」。如此、這樣。\n4.明鏡：明亮的鏡子。\n5.何處：何時。\n6.秋霜：秋天的白霜，這裏比喻頭髮像秋霜那樣的斑白。"
+  },
+  "annotations": [
+    {
+      "id": "35-1",
+      "range": {
+        "type": "range",
+        "scope": "title",
+        "start": 0,
+        "end": 1
+      },
+      "kind": "pronunciation",
+      "lang": "yue",
+      "text": "普；pou2",
+      "source": "cham"
+    },
+    {
+      "id": "35-2",
+      "range": {
+        "type": "range",
+        "scope": "title",
+        "start": 0,
+        "end": 1
+      },
+      "kind": "pronunciation",
+      "lang": "cmn",
+      "text": "pǔ",
+      "source": "cham"
+    },
+    {
+      "id": "35-3",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 6,
+        "end": 7
+      },
+      "kind": "semantic",
+      "text": "緣由，因為。",
+      "source": "cham"
+    },
+    {
+      "id": "35-4",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 9,
+        "end": 10
+      },
+      "kind": "semantic",
+      "text": "通「個」、「箇」。如此、這樣。",
+      "source": "cham"
+    },
+    {
+      "id": "35-5",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 1,
+        "start": 2,
+        "end": 4
+      },
+      "kind": "semantic",
+      "text": "明亮的鏡子。",
+      "source": "cham"
+    },
+    {
+      "id": "35-6",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 1,
+        "start": 6,
+        "end": 8
+      },
+      "kind": "semantic",
+      "text": "何時。",
+      "source": "cham"
+    },
+    {
+      "id": "35-7",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 1,
+        "start": 9,
+        "end": 11
+      },
+      "kind": "semantic",
+      "text": "秋天的白霜，這裏比喻頭髮像秋霜那樣的斑白。",
+      "source": "cham"
+    }
+  ],
+  "structuredSections": [
+    {
+      "key": "background",
+      "title": "背景資料",
+      "filename": "background.md",
+      "body": "大約在唐代天寶十二載（公元753），已年近半百的李白漫遊到秋浦（今安徽省貴池縣西），寫了十七首《秋浦歌》，這是其中的第十五首。",
+      "order": 2
+    },
+    {
+      "key": "analysis",
+      "title": "賞析",
+      "filename": "analysis.md",
+      "body": "這是一首用誇張手法寫愁的名作。詩人對着鏡子一照，赫然發現頭上的白髮竟有三千丈長，那是因為整天發愁的緣故啊！鏡子裏的自己，一頭白髮如同秋天的白霜，真不明白哪裏得來這麼一副衰老的模樣？\n\n此詩劈頭一句「白髮三千丈」，奇峰突起，使人驚怪。李白的詩善於誇張，敢於誇張，為他人所不能相比。人們常以為憂愁會使人頭髮變白，故以「白髮」喻愁，是常語；但以「三千丈」喻愁緒之長，則是奇想，但又不悖於理。因為愁多，所以白髮長，雖誇張至極，卻又似是理所當然。詩人偶爾攬鏡自照發出的驚呼，第二句「緣愁似个長」作了直接解釋。第三、四兩句進一步強調髮之白、愁之深，鏡中秋霜，即頭上白髮，明知故問，是詩人委婉地表達了他的愁緒。如此白髮，如此愁懷，從何而得？詩人問而不答。究竟何人何事給詩人帶來如此深重的愁苦？詩中始終未着一字。自天寶三、四載間遭禍被逐出京城之後，詩人一直過着顛沛流離的生活，如今年過五十，壯志未酬，心中悲愁難以盡訴，不需多說，讀者自可體察。\n\n本詩用誇張浪漫的筆法，抒發婉曲深沉之情，有極強的藝術感染力。",
+      "order": 3
+    },
+    {
+      "key": "follow_up",
+      "title": "延伸活動",
+      "filename": "follow-up.md",
+      "body": "1. 聆聽誦讀錄音，投入感情朗讀詩歌，並互評誰讀得最有韻味。 https://www.edb.gov.hk/attachment/tc/curriculum-development/kla/chi-edu/resources/primary/lang/jilei/035_jilei_shi(cantonese).mp3\n\n2. 試在互聯網上搜尋李白的生平，了解他寫作本詩時的心情和境況，給他寫一張心意卡，鼓勵、安慰他。",
+      "order": 4
+    },
+    {
+      "key": "think_questions",
+      "title": "思考問題",
+      "filename": "think-questions.md",
+      "body": "1. 平日最易令你發愁的是甚麼事？\n\n2. 當你發愁時，你會有甚麼表現？你會用甚麼方法去排解愁緒？\n\n3. 李白的詩歌擅用誇張筆法。請就你讀過的李白詩作，舉出三個例子來。",
+      "order": 5
+    }
+  ]
+}

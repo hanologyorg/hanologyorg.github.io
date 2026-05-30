@@ -1,0 +1,31 @@
+{
+  "id": "C003",
+  "name": "李世民",
+  "era": "唐",
+  "eraCode": "24",
+  "workCount": 15,
+  "names": [],
+  "bio": "",
+  "bioSource": "",
+  "ctext": 110816,
+  "wikidata": "Q9701",
+  "wikipediaZh": "https://zh.wikipedia.org/wiki/%E5%94%90%E5%A4%AA%E5%AE%97",
+  "wikipediaEn": "https://en.wikipedia.org/wiki/Emperor_Taizong_of_Tang",
+  "works": [
+    "difan/2",
+    "difan/3",
+    "difan/4",
+    "difan/5",
+    "difan/6",
+    "difan/7",
+    "difan/8",
+    "difan/9",
+    "difan/10",
+    "difan/11",
+    "difan/12",
+    "difan/13",
+    "difan/14",
+    "difan/15",
+    "difan/16"
+  ]
+}

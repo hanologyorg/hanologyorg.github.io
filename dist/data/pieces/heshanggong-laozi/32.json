@@ -1,0 +1,337 @@
+{
+  "bookId": "heshanggong-laozi",
+  "num": 32,
+  "title": "第三十二章（聖德）",
+  "author": "老子",
+  "authorId": "Laozi",
+  "dynasty": "周",
+  "era": "周",
+  "genre": "prose",
+  "verses": [
+    {
+      "text": "道常無名，"
+    },
+    {
+      "text": "樸雖小，天下莫能臣也。"
+    },
+    {
+      "text": "侯王若能守之，萬物將自賓。"
+    },
+    {
+      "text": "天地相合，以降甘露，"
+    },
+    {
+      "text": "民莫之令而自均。"
+    },
+    {
+      "text": "始制有名，"
+    },
+    {
+      "text": "名亦既有，"
+    },
+    {
+      "text": "夫亦將知之。"
+    },
+    {
+      "text": "知之，所以不殆。"
+    },
+    {
+      "text": "譬道之在天下，猶川谷之與江海。"
+    }
+  ],
+  "sections": {},
+  "annotations": [],
+  "layers": {
+    "heshanggong": [
+      {
+        "id": "heshanggong-1",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 5
+        },
+        "kind": "commentary",
+        "text": "道能陰能陽，能弛能張，能存能亡，故無常名也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-2",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 0,
+          "end": 11
+        },
+        "kind": "commentary",
+        "text": "道樸雖小，微妙無形，天下不敢有臣使道者也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-3",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 2,
+          "start": 0,
+          "end": 13
+        },
+        "kind": "commentary",
+        "text": "侯王若能守道無為，萬物將自賓，服從於德也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-4",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 3,
+          "start": 0,
+          "end": 10
+        },
+        "kind": "commentary",
+        "text": "侯王動作能與天相應和，天即降下甘露善瑞也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-5",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 4,
+          "start": 0,
+          "end": 8
+        },
+        "kind": "commentary",
+        "text": "天降甘露善瑞，則萬物莫有教令之者，皆自均調若一也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-6",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 5,
+          "start": 0,
+          "end": 5
+        },
+        "kind": "commentary",
+        "text": "始，道也。有名，萬物也。 道無名能制於有名，無形，能制於有形也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-7",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 6,
+          "start": 0,
+          "end": 5
+        },
+        "kind": "commentary",
+        "text": "既，盡也。有名之物，盡有情欲，叛道離德，故身毀辱也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-8",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 7,
+          "start": 0,
+          "end": 6
+        },
+        "kind": "commentary",
+        "text": "人能法道行德，天亦將自知之。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-9",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 8,
+          "start": 0,
+          "end": 8
+        },
+        "kind": "commentary",
+        "text": "天知之，則神靈祐助，不復危怠。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-10",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 9,
+          "start": 0,
+          "end": 15
+        },
+        "kind": "commentary",
+        "text": "譬言道之在天下，與人相應和，如川谷與江海相流通也。",
+        "source": "cham"
+      }
+    ]
+  },
+  "annotationLayers": [
+    {
+      "id": "default",
+      "label": "原文",
+      "shortLabel": "文",
+      "contributor": "Laozi",
+      "role": "author",
+      "nature": "annotation",
+      "displayOrder": 0,
+      "enabled": true,
+      "annotations": []
+    },
+    {
+      "id": "heshanggong",
+      "label": "河上公註",
+      "shortLabel": "河",
+      "contributor": "C002",
+      "role": "commentator",
+      "nature": "commentary",
+      "displayOrder": 1,
+      "enabled": true,
+      "annotations": [
+        {
+          "id": "heshanggong-1",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 5
+          },
+          "kind": "commentary",
+          "text": "道能陰能陽，能弛能張，能存能亡，故無常名也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-2",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 1,
+            "start": 0,
+            "end": 11
+          },
+          "kind": "commentary",
+          "text": "道樸雖小，微妙無形，天下不敢有臣使道者也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-3",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 2,
+            "start": 0,
+            "end": 13
+          },
+          "kind": "commentary",
+          "text": "侯王若能守道無為，萬物將自賓，服從於德也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-4",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 3,
+            "start": 0,
+            "end": 10
+          },
+          "kind": "commentary",
+          "text": "侯王動作能與天相應和，天即降下甘露善瑞也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-5",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 4,
+            "start": 0,
+            "end": 8
+          },
+          "kind": "commentary",
+          "text": "天降甘露善瑞，則萬物莫有教令之者，皆自均調若一也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-6",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 5,
+            "start": 0,
+            "end": 5
+          },
+          "kind": "commentary",
+          "text": "始，道也。有名，萬物也。 道無名能制於有名，無形，能制於有形也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-7",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 6,
+            "start": 0,
+            "end": 5
+          },
+          "kind": "commentary",
+          "text": "既，盡也。有名之物，盡有情欲，叛道離德，故身毀辱也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-8",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 7,
+            "start": 0,
+            "end": 6
+          },
+          "kind": "commentary",
+          "text": "人能法道行德，天亦將自知之。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-9",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 8,
+            "start": 0,
+            "end": 8
+          },
+          "kind": "commentary",
+          "text": "天知之，則神靈祐助，不復危怠。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-10",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 9,
+            "start": 0,
+            "end": 15
+          },
+          "kind": "commentary",
+          "text": "譬言道之在天下，與人相應和，如川谷與江海相流通也。",
+          "source": "cham"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "textRef": "heshanggong-laozi",
+    "relation": "section"
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "bookId": "shengui",
+  "num": 12,
+  "title": "帝範臣軌⼆書跋",
+  "author": "武曌",
+  "authorId": "C004",
+  "dynasty": "唐",
+  "era": "唐",
+  "eraCode": "24",
+  "genre": "prose",
+  "verses": [
+    {
+      "text": "帝範⼆卷臣軌⼆卷也者共成于唐帝。"
+    },
+    {
+      "text": "唐帝受隋氏弊，聰明神武[恶]幾成康，功德兼備。"
+    },
+    {
+      "text": "故所以帝範臣軌之有作者也。"
+    },
+    {
+      "text": "本朝慱⼠讀之，尤尊之至。"
+    },
+    {
+      "text": "若鐮倉將軍家皆讀之，有助治道久。"
+    },
+    {
+      "text": "何啻中華⽽已哉。"
+    },
+    {
+      "text": "洛⼈林⽩⽔新鏤之梓，"
+    },
+    {
+      "text": "以欲⾏于世良有故哉。⽩⽔需書"
+    },
+    {
+      "text": "其後於是題之。"
+    },
+    {
+      "text": "寛⽂八年秋八⽉⽇"
+    },
+    {
+      "text": "柳⾕散⼈埜⼦苞⽗書"
+    },
+    {
+      "text": "林和泉掾版行"
+    }
+  ],
+  "sections": {},
+  "annotations": [],
+  "annotationLayers": [
+    {
+      "id": "default",
+      "label": "原文",
+      "shortLabel": "文",
+      "contributor": "C004",
+      "role": "author",
+      "nature": "annotation",
+      "displayOrder": 0,
+      "enabled": true,
+      "annotations": []
+    },
+    {
+      "id": "commentary",
+      "label": "注",
+      "shortLabel": "注",
+      "contributor": "C011",
+      "role": "commentator",
+      "nature": "commentary",
+      "displayOrder": 1,
+      "enabled": true,
+      "annotations": []
+    }
+  ],
+  "source": {
+    "textRef": "shengui",
+    "relation": "section"
+  }
+}

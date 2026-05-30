@@ -1,0 +1,232 @@
+{
+  "bookId": "laozi",
+  "num": 5,
+  "title": "第五章",
+  "author": "老子",
+  "authorId": "Laozi",
+  "dynasty": "周",
+  "era": "周",
+  "genre": "prose",
+  "verses": [
+    {
+      "text": "天地不仁，以萬物為芻狗。"
+    },
+    {
+      "text": "聖人不仁，以百姓為芻狗。"
+    },
+    {
+      "text": "天地之間，其猶橐籥與？"
+    },
+    {
+      "text": "虛而不屈，動而愈出。"
+    },
+    {
+      "text": "多言數窮，不如守中。"
+    }
+  ],
+  "sections": {},
+  "annotations": [],
+  "layers": {
+    "hesonggong": [
+      {
+        "id": "hesonggong-1",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 12
+        },
+        "kind": "semantic",
+        "text": "天地生養萬物，不以仁恩，任自然。聖人法天地，不以仁恩教民，任自然。",
+        "source": "cham"
+      },
+      {
+        "id": "hesonggong-2",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 2,
+          "start": 0,
+          "end": 11
+        },
+        "kind": "semantic",
+        "text": "天地之間，空虛不屈，動而愈出，如橐籥之鼓風。",
+        "source": "cham"
+      },
+      {
+        "id": "hesonggong-3",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 4,
+          "start": 0,
+          "end": 10
+        },
+        "kind": "semantic",
+        "text": "多言數窮，不如守中和。",
+        "source": "cham"
+      }
+    ],
+    "wangbi": [
+      {
+        "id": "wangbi-1",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 12
+        },
+        "kind": "semantic",
+        "text": "天地無心，任自然而養萬物。聖人法天地，無所偏愛，以百姓為芻狗。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-2",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 2,
+          "start": 0,
+          "end": 11
+        },
+        "kind": "semantic",
+        "text": "天地之間，空虛而不屈，運動而愈出，如橐籥鼓風。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-3",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 4,
+          "start": 0,
+          "end": 10
+        },
+        "kind": "semantic",
+        "text": "多言數窮理，不如守中和。",
+        "source": "cham"
+      }
+    ]
+  },
+  "annotationLayers": [
+    {
+      "id": "default",
+      "label": "原文",
+      "shortLabel": "文",
+      "contributor": "Laozi",
+      "role": "author",
+      "nature": "annotation",
+      "displayOrder": 0,
+      "enabled": true,
+      "annotations": []
+    },
+    {
+      "id": "wangbi",
+      "label": "王弼註",
+      "shortLabel": "王",
+      "contributor": "C001",
+      "role": "commentator",
+      "nature": "commentary",
+      "displayOrder": 1,
+      "enabled": true,
+      "annotations": [
+        {
+          "id": "wangbi-1",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 12
+          },
+          "kind": "semantic",
+          "text": "天地無心，任自然而養萬物。聖人法天地，無所偏愛，以百姓為芻狗。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-2",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 2,
+            "start": 0,
+            "end": 11
+          },
+          "kind": "semantic",
+          "text": "天地之間，空虛而不屈，運動而愈出，如橐籥鼓風。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-3",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 4,
+            "start": 0,
+            "end": 10
+          },
+          "kind": "semantic",
+          "text": "多言數窮理，不如守中和。",
+          "source": "cham"
+        }
+      ]
+    },
+    {
+      "id": "hesonggong",
+      "label": "河上公註",
+      "shortLabel": "河",
+      "contributor": "C002",
+      "role": "commentator",
+      "nature": "commentary",
+      "displayOrder": 2,
+      "enabled": true,
+      "annotations": [
+        {
+          "id": "hesonggong-1",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 12
+          },
+          "kind": "semantic",
+          "text": "天地生養萬物，不以仁恩，任自然。聖人法天地，不以仁恩教民，任自然。",
+          "source": "cham"
+        },
+        {
+          "id": "hesonggong-2",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 2,
+            "start": 0,
+            "end": 11
+          },
+          "kind": "semantic",
+          "text": "天地之間，空虛不屈，動而愈出，如橐籥之鼓風。",
+          "source": "cham"
+        },
+        {
+          "id": "hesonggong-3",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 4,
+            "start": 0,
+            "end": 10
+          },
+          "kind": "semantic",
+          "text": "多言數窮，不如守中和。",
+          "source": "cham"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "textRef": "laozi",
+    "relation": "section"
+  }
+}

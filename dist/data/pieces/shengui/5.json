@@ -1,0 +1,145 @@
+{
+  "bookId": "shengui",
+  "num": 5,
+  "title": "章第四·公正",
+  "author": "武曌",
+  "authorId": "C004",
+  "dynasty": "唐",
+  "era": "唐",
+  "eraCode": "24",
+  "genre": "prose",
+  "verses": [
+    {
+      "text": "夫公之為道也，在乎不偏不黨。故《書》曰：「無偏無黨，王道蕩蕩。」"
+    },
+    {
+      "text": "是知人臣之事君，不可以不公。公則天下平，私則天下亂。昔祁黃羊外舉不避仇，內舉不避子，公之至也。"
+    },
+    {
+      "text": "夫公正者，以理為權衡，以法為準繩。賞不避仇怨，罰不避親戚。如是則上下信服，政令通行。"
+    },
+    {
+      "text": "故管仲相齊，一匡天下，不以私恩廢公法。"
+    },
+    {
+      "text": "商鞅變法於秦，刑太子傅，不以貴幸易令。"
+    },
+    {
+      "text": "此皆公正之效也。"
+    },
+    {
+      "text": "夫公正之道，在乎正己。己不正，何以正人？是以君子先正其身，而後正人。正己而不求於人，則無怨。此公正之要也。"
+    }
+  ],
+  "sections": {
+    "annotations": "1.書：《尚書·洪範》。\n2.祁黃羊：春秋時晉國大夫祁奚，字黃羊。舉賢不避親仇。見《左傳·襄公三年》。\n3.管仲：管夷吾（？—前645），齊桓公相，助齊稱霸。\n4.齊：春秋時齊國，在今山東一帶。\n5.商鞅：商鞅（約前390—前338），衛國人，秦國變法功臣。後被車裂。\n6.秦：秦國，戰國七雄之一。"
+  },
+  "annotations": [
+    {
+      "id": "5-1",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 16,
+        "end": 17
+      },
+      "kind": "allusion",
+      "text": "《尚書·洪範》。",
+      "source": "cham"
+    },
+    {
+      "id": "5-2",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 1,
+        "start": 27,
+        "end": 30
+      },
+      "kind": "person",
+      "text": "春秋時晉國大夫祁奚，字黃羊。舉賢不避親仇。見《左傳·襄公三年》。",
+      "source": "cham"
+    },
+    {
+      "id": "5-3",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 3,
+        "start": 1,
+        "end": 3
+      },
+      "kind": "person",
+      "text": "管夷吾（？—前645），齊桓公相，助齊稱霸。",
+      "source": "cham"
+    },
+    {
+      "id": "5-4",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 3,
+        "start": 4,
+        "end": 5
+      },
+      "kind": "place",
+      "text": "春秋時齊國，在今山東一帶。",
+      "source": "cham"
+    },
+    {
+      "id": "5-5",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 4,
+        "start": 0,
+        "end": 2
+      },
+      "kind": "person",
+      "text": "商鞅（約前390—前338），衛國人，秦國變法功臣。後被車裂。",
+      "source": "cham"
+    },
+    {
+      "id": "5-6",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 4,
+        "start": 5,
+        "end": 6
+      },
+      "kind": "place",
+      "text": "秦國，戰國七雄之一。",
+      "source": "cham"
+    }
+  ],
+  "annotationLayers": [
+    {
+      "id": "default",
+      "label": "原文",
+      "shortLabel": "文",
+      "contributor": "C004",
+      "role": "author",
+      "nature": "annotation",
+      "displayOrder": 0,
+      "enabled": true,
+      "annotations": []
+    },
+    {
+      "id": "commentary",
+      "label": "注",
+      "shortLabel": "注",
+      "contributor": "C011",
+      "role": "commentator",
+      "nature": "commentary",
+      "displayOrder": 1,
+      "enabled": true,
+      "annotations": []
+    }
+  ],
+  "source": {
+    "textRef": "shengui",
+    "relation": "section"
+  }
+}

@@ -1,0 +1,308 @@
+{
+  "bookId": "laozi-wangbi-wiki",
+  "num": 61,
+  "title": "第六十一章",
+  "author": "老子",
+  "authorId": "Laozi",
+  "dynasty": "周",
+  "era": "周",
+  "genre": "prose",
+  "verses": [
+    {
+      "text": "大國者下流，"
+    },
+    {
+      "text": "天下之交。"
+    },
+    {
+      "text": "天下之牝，"
+    },
+    {
+      "text": "牝常以靜勝牡，以靜為下。"
+    },
+    {
+      "text": "故大國以下小國，"
+    },
+    {
+      "text": "則取小國；"
+    },
+    {
+      "text": "小國以下大國，則取大國。"
+    },
+    {
+      "text": "故或下以取，或下而取。"
+    },
+    {
+      "text": "大國不過欲兼畜人，小國不過欲入事人。夫兩者各得其所欲，大者宜為下。"
+    }
+  ],
+  "sections": {},
+  "annotations": [],
+  "layers": {
+    "wangbi": [
+      {
+        "id": "wangbi-1",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 6
+        },
+        "kind": "commentary",
+        "text": "江海居大而處下，則百川流之，大國居大而處下，則天下流之，故曰，大國下流也。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-2",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 0,
+          "end": 5
+        },
+        "kind": "commentary",
+        "text": "天下所歸會也。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-3",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 2,
+          "start": 0,
+          "end": 5
+        },
+        "kind": "commentary",
+        "text": "靜而不求，物自歸之也。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-4",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 3,
+          "start": 0,
+          "end": 12
+        },
+        "kind": "commentary",
+        "text": "以其靜故能為下也。牝，雌也。雄躁動貪欲，雌常以靜，故能勝雄也。以其靜復能為下，故物歸之也。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-5",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 4,
+          "start": 0,
+          "end": 8
+        },
+        "kind": "commentary",
+        "text": "大國以下，猶云以大國下小國。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-6",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 5,
+          "start": 0,
+          "end": 5
+        },
+        "kind": "commentary",
+        "text": "小國則附之。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-7",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 6,
+          "start": 0,
+          "end": 12
+        },
+        "kind": "commentary",
+        "text": "大國納之也。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-8",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 7,
+          "start": 0,
+          "end": 11
+        },
+        "kind": "commentary",
+        "text": "言唯修卑下，然後乃各得其所。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-9",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 8,
+          "start": 0,
+          "end": 33
+        },
+        "kind": "commentary",
+        "text": "小國修下自全而已，不能令天下歸之，大國修下則天下歸之。故曰，各得其所欲，則大者宜為下也。",
+        "source": "cham"
+      }
+    ]
+  },
+  "annotationLayers": [
+    {
+      "id": "default",
+      "label": "原文",
+      "shortLabel": "文",
+      "contributor": "Laozi",
+      "role": "author",
+      "nature": "annotation",
+      "displayOrder": 0,
+      "enabled": true,
+      "annotations": []
+    },
+    {
+      "id": "wangbi",
+      "label": "王弼註",
+      "shortLabel": "王",
+      "contributor": "C001",
+      "role": "commentator",
+      "nature": "commentary",
+      "displayOrder": 1,
+      "enabled": true,
+      "annotations": [
+        {
+          "id": "wangbi-1",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 6
+          },
+          "kind": "commentary",
+          "text": "江海居大而處下，則百川流之，大國居大而處下，則天下流之，故曰，大國下流也。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-2",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 1,
+            "start": 0,
+            "end": 5
+          },
+          "kind": "commentary",
+          "text": "天下所歸會也。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-3",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 2,
+            "start": 0,
+            "end": 5
+          },
+          "kind": "commentary",
+          "text": "靜而不求，物自歸之也。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-4",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 3,
+            "start": 0,
+            "end": 12
+          },
+          "kind": "commentary",
+          "text": "以其靜故能為下也。牝，雌也。雄躁動貪欲，雌常以靜，故能勝雄也。以其靜復能為下，故物歸之也。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-5",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 4,
+            "start": 0,
+            "end": 8
+          },
+          "kind": "commentary",
+          "text": "大國以下，猶云以大國下小國。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-6",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 5,
+            "start": 0,
+            "end": 5
+          },
+          "kind": "commentary",
+          "text": "小國則附之。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-7",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 6,
+            "start": 0,
+            "end": 12
+          },
+          "kind": "commentary",
+          "text": "大國納之也。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-8",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 7,
+            "start": 0,
+            "end": 11
+          },
+          "kind": "commentary",
+          "text": "言唯修卑下，然後乃各得其所。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-9",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 8,
+            "start": 0,
+            "end": 33
+          },
+          "kind": "commentary",
+          "text": "小國修下自全而已，不能令天下歸之，大國修下則天下歸之。故曰，各得其所欲，則大者宜為下也。",
+          "source": "cham"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "textRef": "laozi-wangbi-wiki",
+    "relation": "section"
+  }
+}

@@ -1,0 +1,657 @@
+{
+  "bookId": "skqs-yantielun",
+  "num": 11,
+  "title": "鹽鐡論卷十二",
+  "author": "桓寬",
+  "authorId": "桓寬",
+  "dynasty": "漢",
+  "era": "漢",
+  "eraCode": "07",
+  "genre": "prose",
+  "verses": [
+    {
+      "text": "漢　桓　寛　撰"
+    },
+    {
+      "text": "明　張之象　註"
+    },
+    {
+      "text": "申韓第五十六"
+    },
+    {
+      "text": "御史曰待周公而為相則世無列國待孔子而後學則世無儒墨夫衣小缺襟裂可以補而必待全匹而易之政小缺法令可以坊而必待雅頌乃治之是猶舍鄰之醫而求俞跗而後治病廢汙池之水待江海而後救火也迂而不徑闕而無務是以教令不從而治煩亂夫善為政者弊則補之决則塞之故吴子以法治楚魏申商以法彊秦韓也"
+    },
+    {
+      "text": "文學曰有國者選衆而任賢學者博覽而就善何必是周公孔子故曰法之而已今商鞅吴起反聖人之道變亂秦俗其後政耗亂而不能理流失而不可復愚人縱火於沛澤不能復振蜂蠆螫人放死不能息其毒也煩而止之躁而静之上下勞擾而亂益滋故聖人教化上與日月俱照下與天地同流豈曰小補之哉"
+    },
+    {
+      "text": "御史曰衣缺不補則日以甚坊漏不塞則日以滋大河之始决於瓠子也涓涓爾及其卒氾濫為中國害菑梁楚破曹衞城郭壊沮稸積漂流百姓木棲千里無廬令孤寡無所依老弱無所歸故先帝閔悼其菑親省河堤舉禹之功河流以復曺衞以寧百姓戴其功詠其徳歌宣房塞萬福来焉亦猶是也如何勿小補哉"
+    },
+    {
+      "text": "文學曰河决若甕口而破千里况禮决乎其所害必多矣今斷獄嵗以萬計犯法滋多其為菑豈特曺衞哉夫知塞宣房而福来不知塞亂原而天下治也周國用之刑錯不用黎民若四時各終其序而天下不孤頌曰綏我眉夀介以繁祉此天為福亦不小矣誠信禮義如宣房功業已立垂拱無為有司何補法令何塞也"
+    },
+    {
+      "text": "御史曰犀銚利鉏五榖之利而閒草之害也明理正法姦邪之所惡而良民之福也故曲木惡直䋲姦邪惡正法是以聖人審於是非察於治亂故設明法陳嚴刑坊非矯邪若檼栝輔檠之正弧刺也故水者火之備法者止姦之禁也無法勢雖賢人不能以為治無甲兵雖孫吴不能以制敵是以孔子倡以仁義而民從風伯夷遁首陽而民不可化"
+    },
+    {
+      "text": "文學曰法能刑人而不能使人廉能殺人而不能使人仁所貴良醫者貴其審消息而退邪氣也非貴其下鍼石而鑚肌膚也所貴良吏者貴其絶惡於未萌使之不為非非貴其拘之囹圄而刑殺之也今之所謂良吏者文察則以禍其民強力則以厲其下不本法之所由生而専已之殘心文誅假法以陷不辜累無罪以子及父以弟及兄一人有罪州里驚駭十家奔亡若癰疽之相濘色淫之相連一節動而百枝揺詩云舍彼有罪既伏其辜若此無罪淪胥以鋪痛傷無罪而累也非患銚耨之不利患其舍草而去苖也非患無凖平患其舍枉而䋲直也故親近為過不必誅是鉏不用也疏逺有功不必賞是苖不養也故世不患無法而患無必行之法也"
+    }
+  ],
+  "sections": {},
+  "annotations": [],
+  "layers": {
+    "commentary": [
+      {
+        "id": "commentary-1",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 3,
+          "start": 0,
+          "end": 12
+        },
+        "kind": "semantic",
+        "text": "去聲",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-2",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 3,
+          "start": 12,
+          "end": 28
+        },
+        "kind": "fanqie",
+        "text": "韓非子曰世之顯學儒墨也儒之所至孔丘也墨之所至墨翟也自孔子之死也有子張之儒有子思之儒有顔氏之儒有孟氏之儒有漆雕氏之儒有仲梁氏之儒有孫氏之儒有樂正氏之儒自墨子之死也有相里氏之墨有相夫氏之墨有鄧陵氏之墨故孔墨之後儒分為八墨離為三取舍相反不同而皆自謂真孔墨不可復生将誰定世之學乎修務訓曰美人者非必西施之種通士者不必孔墨之類",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-3",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 3,
+          "start": 28,
+          "end": 29
+        },
+        "kind": "semantic",
+        "text": "音扶",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-4",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 3,
+          "start": 29,
+          "end": 53
+        },
+        "kind": "semantic",
+        "text": "古防字",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-5",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 3,
+          "start": 53,
+          "end": 71
+        },
+        "kind": "semantic",
+        "text": "音夫",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-6",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 3,
+          "start": 71,
+          "end": 88
+        },
+        "kind": "semantic",
+        "text": "趙中庶子曰俞跗之為醫也榒木為腦芷草為軀吹竅定腦死者復生韓非子曰失火而取水於海海水雖多火必不滅矣逺水不救近火也",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-7",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 3,
+          "start": 88,
+          "end": 107
+        },
+        "kind": "semantic",
+        "text": "音扶",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-8",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 3,
+          "start": 107,
+          "end": 127
+        },
+        "kind": "semantic",
+        "text": "道應訓曰吴起為楚令尹適魏問屈宜若曰王不知起之不肖而以為令尹先生試觀起之為人也屈子曰将奈何吴起曰将衰楚國之爵而平其制禄捐其有餘而綏其不足砥礪甲兵時爭利於天下屈子曰宜若聞之昔善治國家者不變其故不易其常今子将衰楚國之爵而平其制禄捐其有餘而綏其不足是變其故易其常也行之者不利宜若聞之曰怒者逆徳也兵者凶器也争者人之所末也今子隂謀逆徳好用凶器始人之所末逆之至也且子用魯兵不宜得志於齊而得志焉子用魏兵不宜得志於秦而得志焉宜若聞之非禍人不能成禍吾固惑吾王之數逆天理戾人道至今無禍差湏夫子也吴起惕然曰尚可更乎屈子曰成形之徒不可更也子不若敦愛而篤行之范睢曰吴起事悼王使私不害公䜛不蔽忠言不取苟合行不取苟容行義不顧毁譽必欲覇主強國不辭禍凶",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-9",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 3,
+          "start": 127,
+          "end": 132
+        },
+        "kind": "fanqie",
+        "text": "要畧曰申子者韓昭釐之佐韓晉别國也地墽民險而介於大國之間晉國之故禮未滅韓國之新法重出先君之令未收後君之令又下新故相反前後相繆百官背亂不知所用故刑名之書生焉秦國之俗貪狼彊力寡義而趨利或威以刑而不可化以善可勸以賞而不可厲以名被險而帶河四塞以為固地利形便畜積殷富孝公欲以虎狼之勢而吞諸侯故商鞅之法生焉傳曰申不害荆人也故鄭之賤臣學術以干韓昭侯昭侯用為相内修政教外應諸侯十五年終申子之身國治兵彊無侵韓者范睢曰公孫鞅事孝公極身毋二盡公不還私信賞罰以致治竭智能示情素𫎇怨咎欺舊交虜魏公子卬卒為秦禽将破敵軍攘地千里泰族訓曰申子之三符商鞅之啟塞皆掇取之權一切之術也非治之大本事之恒常可博聞而世傳者也",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-10",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 4,
+          "start": 0,
+          "end": 34
+        },
+        "kind": "semantic",
+        "text": "齊俗訓曰夫待騕褭飛兎而駕之則世莫乘車待西施毛嬙而為配則終身不家矣然非待古之英俊而人自足者因所有而並用之陸子曰音以比耳為美色以悦目為歡是以衆聽所傾非假百里之操萬夫婉孌非俟西子之顔故聖人隨世以擢佐明主因時而命官",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-11",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 4,
+          "start": 34,
+          "end": 76
+        },
+        "kind": "semantic",
+        "text": "音瘥",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-12",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 4,
+          "start": 76,
+          "end": 77
+        },
+        "kind": "semantic",
+        "text": "音式",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-13",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 4,
+          "start": 77,
+          "end": 86
+        },
+        "kind": "semantic",
+        "text": "傳曰吴起削刑而車裂商鞅峻法而支解",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-14",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 5,
+          "start": 0,
+          "end": 15
+        },
+        "kind": "semantic",
+        "text": "古防字",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-15",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 5,
+          "start": 15,
+          "end": 38
+        },
+        "kind": "semantic",
+        "text": "音泛",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-16",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 5,
+          "start": 38,
+          "end": 54
+        },
+        "kind": "semantic",
+        "text": "音畜",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-17",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 5,
+          "start": 54,
+          "end": 76
+        },
+        "kind": "semantic",
+        "text": "金人銘曰涓涓不壅将成江河緜緜不絶将成網羅青青不伐将尋斧柯誠不能慎之禍之根也曰是何傷禍之門也",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-18",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 5,
+          "start": 76,
+          "end": 87
+        },
+        "kind": "semantic",
+        "text": "通作隄",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-19",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 5,
+          "start": 87,
+          "end": 122
+        },
+        "kind": "semantic",
+        "text": "漢武帝瓠子歌曰頽林竹𠔃楗石菑宣房塞𠔃萬福来",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-20",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 6,
+          "start": 0,
+          "end": 25
+        },
+        "kind": "semantic",
+        "text": "樂王鮒曰江出汶山其源若甕口至楚國其廣千里無他故其下流多也晏子曰君子無禮是庶人也庶人無禮是禽獸也夫臣勇多則弑其君子力多則弑其長然而不敢惟禮之謂也禮者所以御民轡者所以御馬也無禮而能治國家者未之聞也他日又謂景公曰自齊國五尺已上力皆能勝嬰與君所以不敢者畏禮也故自天子無禮則無以守社稷諸侯無禮則無以守其國大夫無禮則無以守其家為人上無禮則無以使其下為人下無禮則無以事其上兄弟無禮則不同居人而無禮不若遄死刑法志曰書云伯夷降典折民惟刑言制禮以止刑猶隄之防溢水也今隄防陵遲禮制未立死刑過制生刑易犯飢寒並至窮斯濫溢豪傑擅私為之囊槖姦有所隠則狃而寖廣此刑之所以蕃也",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-21",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 6,
+          "start": 25,
+          "end": 45
+        },
+        "kind": "semantic",
+        "text": "音扶",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-22",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 7,
+          "start": 0,
+          "end": 8
+        },
+        "kind": "semantic",
+        "text": "音調",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-23",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 7,
+          "start": 8,
+          "end": 10
+        },
+        "kind": "semantic",
+        "text": "音鋤",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-24",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 7,
+          "start": 10,
+          "end": 16
+        },
+        "kind": "semantic",
+        "text": "音閑",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-25",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 7,
+          "start": 16,
+          "end": 29
+        },
+        "kind": "semantic",
+        "text": "音汙",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-26",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 7,
+          "start": 29,
+          "end": 39
+        },
+        "kind": "semantic",
+        "text": "音汙",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-27",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 7,
+          "start": 39,
+          "end": 44
+        },
+        "kind": "semantic",
+        "text": "音汙",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-28",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 7,
+          "start": 44,
+          "end": 46
+        },
+        "kind": "semantic",
+        "text": "諸御已曰土負水者平木負䋲者正韓非子曰法不阿貴䋲不撓曲法之所加智者弗能辭勇者非敢争",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-29",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 7,
+          "start": 46,
+          "end": 66
+        },
+        "kind": "semantic",
+        "text": "古防字",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-30",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 7,
+          "start": 66,
+          "end": 71
+        },
+        "kind": "semantic",
+        "text": "音隠",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-31",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 7,
+          "start": 71,
+          "end": 72
+        },
+        "kind": "semantic",
+        "text": "音括",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-32",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 7,
+          "start": 72,
+          "end": 77
+        },
+        "kind": "semantic",
+        "text": "音胡",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-33",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 7,
+          "start": 77,
+          "end": 78
+        },
+        "kind": "fanqie",
+        "text": "音郎逹反",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-34",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 7,
+          "start": 78,
+          "end": 79
+        },
+        "kind": "semantic",
+        "text": "檼揉曲者也栝正方者也輔檠輔正弓弩者也弧刺弓之不正者也荀子曰不得排檠則不能自正",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-35",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 7,
+          "start": 79,
+          "end": 114
+        },
+        "kind": "semantic",
+        "text": "吴越春秋曰吴王登臺向南風而嘯有頃而嘆羣臣莫有曉王意者子胥深知王之不定将欲伐楚乃薦孫子於王孫子者名武吴人也善為兵法辟隠深居世人莫知其能胥乃明知鑒辯知孫子可以折衝銷敵乃一旦與吴王論兵七薦孫子吴王曰子胥託言進士欲以自納而召孫子問以兵法每陳一篇王不知口之稱善傳曰吴起者衞人也好用兵聞魏文侯賢欲事之文侯問李克曰吴起何如人哉克曰起貪而好色然用兵司馬穰苴不能過也於是魏文侯以為将擊秦㧞五城",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-36",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 7,
+          "start": 114,
+          "end": 126
+        },
+        "kind": "semantic",
+        "text": "雜事篇曰孔子在州里篤行孝道居於闕黨闕黨之子弟畋漁分有親者得多孝以化之也是以七十二子自逺方至服從其徳魯有沈猶氏者旦飲羊飽之以欺市人公慎氏有妻而淫慎潰氏奢侈驕佚魯市之鬻牛馬者善豫賈孔子将為魯司宼沈猶氏不敢朝飲其羊公慎氏出其妻慎潰氏踰境而徙魯之鬻馬牛者不豫賈布政以待之也既為司冦季孟墮郈費之城齊人歸所侵魯之地由積正之所致也故曰其身正不令而行",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-37",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 7,
+          "start": 126,
+          "end": 133
+        },
+        "kind": "semantic",
+        "text": "伯夷傳曰武王已平殷亂天下宗周而伯夷耻之義不食周粟隠於首陽山采薇而食之遂餓而死",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-38",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 8,
+          "start": 0,
+          "end": 25
+        },
+        "kind": "semantic",
+        "text": "泰族訓曰易曰豐其屋蔀其家窺其户閴其無人無人者非無衆庻也言無聖人以統理之也民無廉耻不可治也非修禮義亷耻不立民不知禮義法弗能正也非崇善廢醜而向禮義無法不可以為治也不知禮義不可以行法法能殺不孝者而不能使為孔曽之行法能刑竊盗者而不能使人為伯夷之亷孔子弟子七十養徒三千人皆入孝出悌言為文章行為儀表教人之所成也墨子服役者百八十人皆可使赴火蹈刃死不還踵化之所致也",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-39",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 8,
+          "start": 25,
+          "end": 45
+        },
+        "kind": "semantic",
+        "text": "音針",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-40",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 8,
+          "start": 45,
+          "end": 74
+        },
+        "kind": "semantic",
+        "text": "音零",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-41",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 8,
+          "start": 74,
+          "end": 75
+        },
+        "kind": "semantic",
+        "text": "音語",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-42",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 8,
+          "start": 75,
+          "end": 80
+        },
+        "kind": "semantic",
+        "text": "泰族訓曰所以貴扁鵲者非貴其隨病而調藥貴其擪息脉血知病之所從生也所以貴聖人者非貴随罪而鑒刑也貴其知亂之所由起也若不修其風俗而縱之淫辟乃隨之以刑䋲之以法雖殘賊天下弗能禁也",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-43",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 8,
+          "start": 80,
+          "end": 151
+        },
+        "kind": "semantic",
+        "text": "音佞",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-44",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 8,
+          "start": 151,
+          "end": 191
+        },
+        "kind": "semantic",
+        "text": "音調",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-45",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 8,
+          "start": 191,
+          "end": 226
+        },
+        "kind": "semantic",
+        "text": "音鋤",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-46",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 8,
+          "start": 226,
+          "end": 252
+        },
+        "kind": "semantic",
+        "text": "韓非子曰明君之行賞也曖乎如時雨百姓利其澤其行罰也畏乎如雷霆神聖不能解也故明君無偷賞無赦罰賞偷則功臣墮其業赦罪則姦人易為非是故誠有功則雖疏賤必賞誠有過則雖近愛必誅疏賤必賞近愛必誅則疏賤者不怠而近愛者不驕也主術訓曰衡之於左右無私輕重故可以為平䋲之於内外無私曲直故可以為正人主之於用法無私愛憎故可以為命夫奸不能枉讒不能亂徳無所立怨無所藏是任術而釋人心也故為治者不與焉又曰法者天下之度量而人主之凖䋲也縣法者法不法也設賞者賞當賞也法定之後中程者賞缺䋲者誅尊貴者不輕其罰而卑賤者不重其刑犯法者雖賢必誅中度者雖不肖必無罪是故公道通而私道塞矣荀恱曰賞罰政之柄也明賞必罰審信慎令賞以勸善罰以懲惡人主不妄賞非徒愛其財也賞妄行則善不勸矣不妄罰非徒慎其刑也罰妄行則惡不懲矣賞不勸謂之止善罰不懲謂之縱惡在上者能不止下為善不縱下為惡則國治矣",
+        "source": "cham"
+      }
+    ]
+  },
+  "annotationLayers": [
+    {
+      "id": "default",
+      "label": "原文",
+      "shortLabel": "文",
+      "contributor": "桓寬",
+      "role": "author",
+      "nature": "annotation",
+      "displayOrder": 0,
+      "enabled": true,
+      "annotations": []
+    }
+  ]
+}

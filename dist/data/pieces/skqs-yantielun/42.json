@@ -1,0 +1,320 @@
+{
+  "bookId": "skqs-yantielun",
+  "num": 42,
+  "title": "鹽鐡論卷七",
+  "author": "桓寬",
+  "authorId": "桓寬",
+  "dynasty": "漢",
+  "era": "漢",
+  "eraCode": "07",
+  "genre": "prose",
+  "verses": [
+    {
+      "text": "漢　桓　寛　撰"
+    },
+    {
+      "text": "明　張之象　註"
+    },
+    {
+      "text": "刺議第二十六"
+    },
+    {
+      "text": "丞相史曰山林不讓椒桂以成其崇君子不辭負薪之言以廣其名故多見者博多聞者知距諫者塞專已者孤故謀及下者無失䇿舉及衆者無頓功詩云詢于芻蕘故布衣皆得風議何况公卿之史乎春秋士不載文而書咺者以為宰士也孔子曰雖不吾以吾其與聞諸侯僕雖不敏亦當傾耳下風攝齊勾指受業徑於君子之塗矣使文學言之而是僕之言有何害使文學言之而非雖㣲丞相史孰不非也"
+    },
+    {
+      "text": "文學曰以正輔人謂之忠以邪導人謂之佞夫怫過納善者君之忠臣大夫之直士也孔子曰大夫有爭臣三人雖無道不失其家今子處宰士之列無忠正之心枉不能正邪不能匡順流以容身從風以説上上所言則苟聽上所行則曲從若影之隨形響之於聲終無所是非衣儒衣冠儒冠而不能行其道非真儒也譬若土龍文章首目具而非龍也葶歴似菜而殊味玉石相似而異類子非孔氏執經守道之儒乃公卿面從之儒非吾徒也冉有為季氏宰而附益之孔子曰小子鳴鼓而攻之可也故輔桀者不為知為桀斂者不為仁丞相史黙然不對"
+    }
+  ],
+  "sections": {},
+  "annotations": [],
+  "layers": {
+    "commentary": [
+      {
+        "id": "commentary-1",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 3,
+          "start": 0,
+          "end": 5
+        },
+        "kind": "semantic",
+        "text": "去聲",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-2",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 3,
+          "start": 5,
+          "end": 38
+        },
+        "kind": "semantic",
+        "text": "去聲",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-3",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 3,
+          "start": 38,
+          "end": 61
+        },
+        "kind": "semantic",
+        "text": "頓壊也權謀篇曰聖王之舉事必先諦之於謀慮而後考之於蓍龜白屋之士皆關其謀芻蕘之役咸盡其心故萬舉而無遺籌失策傳曰衆人之智可以測天兼聼獨斷惟在一人此大謀之術也謀有二端上謀知命其次知事知命者預見存亡禍福之原早知盛衰廢興之始防事之未萌避難於無形若此人者居亂世則不害於其身在乎太平之世則必得統下之權彼知事者亦尚矣見事而知得失成敗之分而究其所終極故無敗業廢功東野鄙人曰泰山不讓礫石江海不辭小流所以成其大也詩曰先民有言詢于芻蕘博謀也秦王子嬰曰輕慮者不可以治國獨智者不可以存君",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-4",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 3,
+          "start": 61,
+          "end": 73
+        },
+        "kind": "semantic",
+        "text": "去聲",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-5",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 3,
+          "start": 73,
+          "end": 90
+        },
+        "kind": "semantic",
+        "text": "暄上聲",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-6",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 3,
+          "start": 90,
+          "end": 96
+        },
+        "kind": "semantic",
+        "text": "春秋曰天王使宰咺來歸惠公仲子之賵公羊傳曰宰者何官也咺者何名也曷為以官氏宰士也",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-7",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 3,
+          "start": 96,
+          "end": 106
+        },
+        "kind": "semantic",
+        "text": "去聲",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-8",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 3,
+          "start": 106,
+          "end": 121
+        },
+        "kind": "semantic",
+        "text": "音咨",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-9",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 3,
+          "start": 121,
+          "end": 156
+        },
+        "kind": "semantic",
+        "text": "去聲",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-10",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 4,
+          "start": 0,
+          "end": 20
+        },
+        "kind": "semantic",
+        "text": "令尹子西曰為人臣而忠其君者爵禄不足以賞也為人臣而諛其君者刑罰不足以誅也",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-11",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 4,
+          "start": 20,
+          "end": 21
+        },
+        "kind": "semantic",
+        "text": "音扶",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-12",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 4,
+          "start": 21,
+          "end": 22
+        },
+        "kind": "semantic",
+        "text": "音勃",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-13",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 4,
+          "start": 22,
+          "end": 43
+        },
+        "kind": "semantic",
+        "text": "去聲",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-14",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 4,
+          "start": 43,
+          "end": 53
+        },
+        "kind": "semantic",
+        "text": "韓嬰曰大夫有争臣三人雖無道不失其家季氏為無道僭天子舞八佾旅泰山以雍徹孔子曰是可忍也孰不可忍也然不亡者以冉有季路為宰臣也",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-15",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 4,
+          "start": 53,
+          "end": 82
+        },
+        "kind": "semantic",
+        "text": "音悦",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-16",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 4,
+          "start": 82,
+          "end": 109
+        },
+        "kind": "semantic",
+        "text": "夏侯𤣥曰夫和羮之美在於合異上下之益在能相濟順從乃安此琴瑟一聲也",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-17",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 4,
+          "start": 109,
+          "end": 110
+        },
+        "kind": "semantic",
+        "text": "去聲",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-18",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 4,
+          "start": 110,
+          "end": 113
+        },
+        "kind": "semantic",
+        "text": "去聲",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-19",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 4,
+          "start": 113,
+          "end": 152
+        },
+        "kind": "semantic",
+        "text": "汜論曰夫亂人者芎藭之與藁本也蛇牀之與𧃲蕪也此皆相似故劒工惑劒之似莫邪者唯歐冶能名其種玉工眩玉之似碧盧者唯猗頓不失其情魏文侯曰夫物多相類而非也幽莠之㓜也似禾驪牛之黄也似虎白骨疑象武夫類玉此皆似之而非者也",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-20",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 4,
+          "start": 152,
+          "end": 202
+        },
+        "kind": "semantic",
+        "text": "去聲",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-21",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 4,
+          "start": 202,
+          "end": 211
+        },
+        "kind": "semantic",
+        "text": "去聲",
+        "source": "cham"
+      }
+    ]
+  },
+  "annotationLayers": [
+    {
+      "id": "default",
+      "label": "原文",
+      "shortLabel": "文",
+      "contributor": "桓寬",
+      "role": "author",
+      "nature": "annotation",
+      "displayOrder": 0,
+      "enabled": true,
+      "annotations": []
+    }
+  ]
+}

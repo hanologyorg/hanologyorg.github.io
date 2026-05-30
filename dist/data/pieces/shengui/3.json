@@ -1,0 +1,109 @@
+{
+  "bookId": "shengui",
+  "num": 3,
+  "title": "章第二·至忠",
+  "author": "武曌",
+  "authorId": "C004",
+  "dynasty": "唐",
+  "era": "唐",
+  "eraCode": "24",
+  "genre": "prose",
+  "verses": [
+    {
+      "text": "夫忠之為道也，施之於君，不可以不至。施之於親，不可以不盡。君親之重，莫大焉。"
+    },
+    {
+      "text": "是故知臣之忠者，必先觀其心。心之在公，則言必正；心之在私，則言必佞。正言逆耳而利於行，佞言順耳而害於理。"
+    },
+    {
+      "text": "昔比干剖心，忠之至也；"
+    },
+    {
+      "text": "屈原沉江，忠之烈也。"
+    },
+    {
+      "text": "諸葛亮鞠躬盡瘁，忠之勤也。"
+    },
+    {
+      "text": "此皆古之忠臣，名垂青史，為萬世法。"
+    },
+    {
+      "text": "然忠臣之事君也，不獨犯顏直諫為忠。苟利於國，雖勞不怨；苟便於民，雖辱不辭。上不阿諛以取寵，下不威福以自私。內不欺心，外不欺人。如是而後可謂至忠矣。"
+    },
+    {
+      "text": "夫至忠者，不以利害易其節，不以毀譽移其志。存則盡其力，亡則盡其義。故曰：忠者，臣之大節也。"
+    }
+  ],
+  "sections": {
+    "annotations": "1.比干：商代貴族，紂王叔父。因直言進諫被紂王剖心而死。見《史記·殷本紀》。\n2.屈原：屈原（約前340—前278），楚國大夫，忠而被謗，投汨羅江而死。見《史記·屈原列傳》。\n3.諸葛亮：諸葛亮（181—234），字孔明，蜀漢丞相。輔佐劉備、劉禪，鞠躬盡瘁。"
+  },
+  "annotations": [
+    {
+      "id": "3-1",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 2,
+        "start": 1,
+        "end": 3
+      },
+      "kind": "person",
+      "text": "商代貴族，紂王叔父。因直言進諫被紂王剖心而死。見《史記·殷本紀》。",
+      "source": "cham"
+    },
+    {
+      "id": "3-2",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 3,
+        "start": 0,
+        "end": 2
+      },
+      "kind": "person",
+      "text": "屈原（約前340—前278），楚國大夫，忠而被謗，投汨羅江而死。見《史記·屈原列傳》。",
+      "source": "cham"
+    },
+    {
+      "id": "3-3",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 4,
+        "start": 0,
+        "end": 3
+      },
+      "kind": "person",
+      "text": "諸葛亮（181—234），字孔明，蜀漢丞相。輔佐劉備、劉禪，鞠躬盡瘁。",
+      "source": "cham"
+    }
+  ],
+  "annotationLayers": [
+    {
+      "id": "default",
+      "label": "原文",
+      "shortLabel": "文",
+      "contributor": "C004",
+      "role": "author",
+      "nature": "annotation",
+      "displayOrder": 0,
+      "enabled": true,
+      "annotations": []
+    },
+    {
+      "id": "commentary",
+      "label": "注",
+      "shortLabel": "注",
+      "contributor": "C011",
+      "role": "commentator",
+      "nature": "commentary",
+      "displayOrder": 1,
+      "enabled": true,
+      "annotations": []
+    }
+  ],
+  "source": {
+    "textRef": "shengui",
+    "relation": "section"
+  }
+}

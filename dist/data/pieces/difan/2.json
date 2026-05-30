@@ -1,0 +1,264 @@
+{
+  "bookId": "difan",
+  "num": 2,
+  "title": "帝範序",
+  "author": "李世民",
+  "authorId": "C003",
+  "dynasty": "唐",
+  "era": "唐",
+  "eraCode": "24",
+  "genre": "prose",
+  "verses": [
+    {
+      "text": "朕聞大德曰生，大寶曰位。辯其上下，樹之君臣，所以撫育黎元，鈞陶庶類，自非克明克哲，允武允文，皇天眷命，歷數在躬，安可以濫握靈圖，叨臨神器！是以翠媯薦唐堯之德，元圭賜夏禹之功。丹字呈祥，周開八百之祚；素靈表瑞，漢啟重世之基。由此觀之，帝王之業，非可以力爭者矣。"
+    },
+    {
+      "text": "昔隋季版蕩，海內分崩。先皇以神武之姿，當經綸之會，斬靈蛇而定王業，啟金鏡而握天樞。然由五嶽含氣，三光戢曜，豺狼尚梗，風塵未寧。朕以弱冠之年，懷慷慨之誌，思靖大難，以濟蒼生。躬擐甲冑，親當矢石。夕對魚鱗之陣，朝臨鶴翼之圍，敵無大而不摧，兵何堅而不碎，剪長鯨而清四海，掃槍而廓八紘。乘慶天潢，登暉璇極，襲重光之永業，繼大寶之隆基。戰戰兢兢，若臨深而禦朽；日慎一日，思善始而令終。"
+    },
+    {
+      "text": "汝以幼年，偏鐘慈愛，義方多闕，庭訓有乖。擢自維城之居，屬以少陽之任，未辯君臣之禮節，不知稼穡之艱難。每思此為憂，未嘗不廢寢忘食。自軒昊以降，迄至周隋，以經天緯地之君，纂業承基之主，興亡治亂，其道煥焉。所以披鏡前蹤，博覽史籍，聚其要言，以為近誡雲耳。"
+    }
+  ],
+  "sections": {
+    "annotations": "1.朕：唐太宗李世民（598—649），唐朝第二位皇帝。此序為貞觀二十二年（648）撰賜太子李治。\n2.大德：天地的大德，指生育萬物之功。語出《周易·繫辭》。\n3.大寶：帝位。語出《周易·繫辭》：「聖人之大寶曰位」。\n4.翠媯薦唐堯之德：傳說堯在翠媯河邊得龍馬負圖，為受命之瑞。\n5.唐堯：帝堯，傳說中上古聖王，名放勳，封於唐。\n6.元圭賜夏禹之功：大禹治水成功，帝舜賜以玄圭（黑色玉圭），以表彰其功。\n7.夏禹：大禹，姒姓，名文命，夏朝開國之君，以治水聞名。\n8.丹字呈祥，周開八百之祚：傳說周文王時有赤雀銜丹書止於門，為周興之瑞。周朝享國約八百年。\n9.素靈表瑞，漢啟重世之基：漢高祖劉邦起兵時，有白蛇當道，拔劍斬之。老嫗哭曰白帝子為赤帝子所殺，為漢興之瑞兆。\n10.帝：指隋朝末年（約610—618），天下大亂。\n11.隋：隋朝疆域，都大興城（今陝西西安）。\n12.先皇：唐高祖李淵（566—635），唐朝開國皇帝。\n13.朕：唐太宗李世民自稱。\n14.槍：彗星，古以為兵亂之兆。亦作「欃槍」。\n15.天潢：皇族宗室。此指太宗繼承皇統。\n16.汝：太子李治（628—683），即後來的唐高宗。\n17.軒昊：黃帝（軒轅氏）與少昊，上古帝王。泛指遠古聖王。\n18.周隋：周朝至隋朝，泛指自古以來的歷代王朝。"
+  },
+  "annotations": [
+    {
+      "id": "2-1",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 0,
+        "end": 1
+      },
+      "kind": "person",
+      "text": "唐太宗李世民（598—649），唐朝第二位皇帝。此序為貞觀二十二年（648）撰賜太子李治。",
+      "source": "cham"
+    },
+    {
+      "id": "2-2",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 2,
+        "end": 4
+      },
+      "kind": "semantic",
+      "text": "天地的大德，指生育萬物之功。語出《周易·繫辭》。",
+      "source": "cham"
+    },
+    {
+      "id": "2-3",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 7,
+        "end": 9
+      },
+      "kind": "semantic",
+      "text": "帝位。語出《周易·繫辭》：「聖人之大寶曰位」。",
+      "source": "cham"
+    },
+    {
+      "id": "2-4",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 71,
+        "end": 78
+      },
+      "kind": "allusion",
+      "text": "傳說堯在翠媯河邊得龍馬負圖，為受命之瑞。",
+      "source": "cham"
+    },
+    {
+      "id": "2-5",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 74,
+        "end": 76
+      },
+      "kind": "person",
+      "text": "帝堯，傳說中上古聖王，名放勳，封於唐。",
+      "source": "cham"
+    },
+    {
+      "id": "2-6",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 79,
+        "end": 86
+      },
+      "kind": "allusion",
+      "text": "大禹治水成功，帝舜賜以玄圭（黑色玉圭），以表彰其功。",
+      "source": "cham"
+    },
+    {
+      "id": "2-7",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 82,
+        "end": 84
+      },
+      "kind": "person",
+      "text": "大禹，姒姓，名文命，夏朝開國之君，以治水聞名。",
+      "source": "cham"
+    },
+    {
+      "id": "2-8",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 87,
+        "end": 98
+      },
+      "kind": "allusion",
+      "text": "傳說周文王時有赤雀銜丹書止於門，為周興之瑞。周朝享國約八百年。",
+      "source": "cham"
+    },
+    {
+      "id": "2-9",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 99,
+        "end": 110
+      },
+      "kind": "allusion",
+      "text": "漢高祖劉邦起兵時，有白蛇當道，拔劍斬之。老嫗哭曰白帝子為赤帝子所殺，為漢興之瑞兆。",
+      "source": "cham"
+    },
+    {
+      "id": "2-10",
+      "range": {
+        "type": "range",
+        "scope": "title",
+        "start": 0,
+        "end": 1
+      },
+      "kind": "date",
+      "text": "指隋朝末年（約610—618），天下大亂。",
+      "source": "cham"
+    },
+    {
+      "id": "2-11",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 1,
+        "start": 1,
+        "end": 2
+      },
+      "kind": "place",
+      "text": "隋朝疆域，都大興城（今陝西西安）。",
+      "source": "cham"
+    },
+    {
+      "id": "2-12",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 1,
+        "start": 11,
+        "end": 13
+      },
+      "kind": "person",
+      "text": "唐高祖李淵（566—635），唐朝開國皇帝。",
+      "source": "cham"
+    },
+    {
+      "id": "2-13",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 1,
+        "start": 63,
+        "end": 64
+      },
+      "kind": "person",
+      "text": "唐太宗李世民自稱。",
+      "source": "cham"
+    },
+    {
+      "id": "2-14",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 1,
+        "start": 133,
+        "end": 134
+      },
+      "kind": "semantic",
+      "text": "彗星，古以為兵亂之兆。亦作「欃槍」。",
+      "source": "cham"
+    },
+    {
+      "id": "2-15",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 1,
+        "start": 141,
+        "end": 143
+      },
+      "kind": "semantic",
+      "text": "皇族宗室。此指太宗繼承皇統。",
+      "source": "cham"
+    },
+    {
+      "id": "2-16",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 2,
+        "start": 0,
+        "end": 1
+      },
+      "kind": "person",
+      "text": "太子李治（628—683），即後來的唐高宗。",
+      "source": "cham"
+    },
+    {
+      "id": "2-17",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 2,
+        "start": 65,
+        "end": 67
+      },
+      "kind": "person",
+      "text": "黃帝（軒轅氏）與少昊，上古帝王。泛指遠古聖王。",
+      "source": "cham"
+    },
+    {
+      "id": "2-18",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 2,
+        "start": 72,
+        "end": 74
+      },
+      "kind": "date",
+      "text": "周朝至隋朝，泛指自古以來的歷代王朝。",
+      "source": "cham"
+    }
+  ],
+  "source": {
+    "textRef": "difan",
+    "relation": "section"
+  }
+}

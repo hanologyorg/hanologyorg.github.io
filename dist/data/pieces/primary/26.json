@@ -1,0 +1,143 @@
+{
+  "bookId": "primary",
+  "num": 26,
+  "title": "山中送別",
+  "author": "王維",
+  "authorId": "A016",
+  "dynasty": "唐",
+  "era": "唐",
+  "eraCode": "24",
+  "genre": "poetry",
+  "verses": [
+    {
+      "text": "山中相送罷，日暮掩柴扉。"
+    },
+    {
+      "text": "春草明年綠，王孫歸不歸？"
+    }
+  ],
+  "sections": {
+    "analysis": "這首詩是王維隱居山林時所作，抒發送別友人之後的情思。\n\n在山中送別了遠道而來的朋友，已是黃昏時分，詩人和往常一樣，關上了柴門。回到屋內，一股異樣的寂寞和惆悵襲上了心頭，和友人今天分別，何時再會重逢呢？不知明年春天能否再見？\n\n這首詩和常見的送別詩不同，詩人並沒有寫執手揮淚的送別場面，而是從別後的情緒着筆。第一句就從「送罷」寫起。一個「罷」字，即將別前、別時種種情景全部略去，而且語氣平淡，彷彿並不以眼前離別為意。第二句接着寫送別之後回家寂寞之情。黃昏時輕掩柴門，本是山居人家的生活習慣，閒閒道來，卻又不難令人感受到詩人送友歸來的寂寞和惆悵。遠客到訪，暫時打破了山林的寧靜，送別以後一切又恢復往日的冷寂，而在此時離愁就會不期然襲上心頭。\n\n詩的後兩句，直接抒發別後對友人的思念。「春草明年綠，王孫歸不歸？」點明此時正值春天，春草吐綠，由此想到春草再綠，自有定期；然而友人明年能否再來，卻不一定。「歸不歸」的疑問中，既有與友人重聚的憧憬和希望，也有設問不知友人何時再來探訪的心思。\n\n這首詩只寥寥二十字，字句並不深奧，卻無論抒情寫景，都能緊扣「山中送別」的主題，而且感情含蓄，有意在言外之妙。",
+    "follow_up": "1. 聆聽誦讀錄音，與同學一起朗讀詩歌。 https://www.edb.gov.hk/attachment/tc/curriculum-development/kla/chi-edu/resources/primary/lang/jilei/026_jilei_shi(cantonese).mp3\n\n2. 請就本詩內容，畫一幅畫，並寫上詩句。",
+    "think_questions": "1. 你與親友在家中聚會，送客出門後，會不會有「捨不得」的感覺？為甚麼？\n\n2. 如果有親友移居外地，你希望他們回港探望你嗎？為甚麼？\n\n3. 你和朋友一起騎自行車，玩至黃昏，必須回家了，你當時的心情會是怎樣的？你會相約再會嗎？為甚麼？",
+    "annotations": "1.罷：完了。\n2.日暮：黃昏。\n3.掩：關閉。\n4.柴扉：○粵非；fei1；○普fēi。柴門，即用樹枝編紮而成的簡陋門扇。\n扉：。\n5.王孫：古時貴族子弟的通稱，此指有身份的友人。"
+  },
+  "annotations": [
+    {
+      "id": "26-1",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 4,
+        "end": 5
+      },
+      "kind": "semantic",
+      "text": "完了。",
+      "source": "cham"
+    },
+    {
+      "id": "26-2",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 6,
+        "end": 8
+      },
+      "kind": "semantic",
+      "text": "黃昏。",
+      "source": "cham"
+    },
+    {
+      "id": "26-3",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 8,
+        "end": 9
+      },
+      "kind": "semantic",
+      "text": "關閉。",
+      "source": "cham"
+    },
+    {
+      "id": "26-4",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 9,
+        "end": 11
+      },
+      "kind": "pronunciation",
+      "lang": "yue",
+      "text": "非；fei1",
+      "source": "cham"
+    },
+    {
+      "id": "26-5",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 9,
+        "end": 11
+      },
+      "kind": "pronunciation",
+      "lang": "cmn",
+      "text": "fēi",
+      "source": "cham"
+    },
+    {
+      "id": "26-6",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 9,
+        "end": 11
+      },
+      "kind": "semantic",
+      "text": "柴門，即用樹枝編紮而成的簡陋門扇。\n扉：。",
+      "source": "cham"
+    },
+    {
+      "id": "26-7",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 1,
+        "start": 6,
+        "end": 8
+      },
+      "kind": "semantic",
+      "text": "古時貴族子弟的通稱，此指有身份的友人。",
+      "source": "cham"
+    }
+  ],
+  "structuredSections": [
+    {
+      "key": "analysis",
+      "title": "賞析",
+      "filename": "analysis.md",
+      "body": "這首詩是王維隱居山林時所作，抒發送別友人之後的情思。\n\n在山中送別了遠道而來的朋友，已是黃昏時分，詩人和往常一樣，關上了柴門。回到屋內，一股異樣的寂寞和惆悵襲上了心頭，和友人今天分別，何時再會重逢呢？不知明年春天能否再見？\n\n這首詩和常見的送別詩不同，詩人並沒有寫執手揮淚的送別場面，而是從別後的情緒着筆。第一句就從「送罷」寫起。一個「罷」字，即將別前、別時種種情景全部略去，而且語氣平淡，彷彿並不以眼前離別為意。第二句接着寫送別之後回家寂寞之情。黃昏時輕掩柴門，本是山居人家的生活習慣，閒閒道來，卻又不難令人感受到詩人送友歸來的寂寞和惆悵。遠客到訪，暫時打破了山林的寧靜，送別以後一切又恢復往日的冷寂，而在此時離愁就會不期然襲上心頭。\n\n詩的後兩句，直接抒發別後對友人的思念。「春草明年綠，王孫歸不歸？」點明此時正值春天，春草吐綠，由此想到春草再綠，自有定期；然而友人明年能否再來，卻不一定。「歸不歸」的疑問中，既有與友人重聚的憧憬和希望，也有設問不知友人何時再來探訪的心思。\n\n這首詩只寥寥二十字，字句並不深奧，卻無論抒情寫景，都能緊扣「山中送別」的主題，而且感情含蓄，有意在言外之妙。",
+      "order": 3
+    },
+    {
+      "key": "follow_up",
+      "title": "延伸活動",
+      "filename": "follow-up.md",
+      "body": "1. 聆聽誦讀錄音，與同學一起朗讀詩歌。 https://www.edb.gov.hk/attachment/tc/curriculum-development/kla/chi-edu/resources/primary/lang/jilei/026_jilei_shi(cantonese).mp3\n\n2. 請就本詩內容，畫一幅畫，並寫上詩句。",
+      "order": 4
+    },
+    {
+      "key": "think_questions",
+      "title": "思考問題",
+      "filename": "think-questions.md",
+      "body": "1. 你與親友在家中聚會，送客出門後，會不會有「捨不得」的感覺？為甚麼？\n\n2. 如果有親友移居外地，你希望他們回港探望你嗎？為甚麼？\n\n3. 你和朋友一起騎自行車，玩至黃昏，必須回家了，你當時的心情會是怎樣的？你會相約再會嗎？為甚麼？",
+      "order": 5
+    }
+  ]
+}

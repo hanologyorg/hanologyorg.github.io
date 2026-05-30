@@ -1,0 +1,28 @@
+{
+  "id": "C004",
+  "name": "武曌",
+  "era": "唐",
+  "eraCode": "24",
+  "workCount": 12,
+  "names": [],
+  "bio": "",
+  "bioSource": "",
+  "ctext": 636060,
+  "wikidata": "Q9738",
+  "wikipediaZh": "https://zh.wikipedia.org/wiki/%E6%AD%A6%E5%88%99%E5%A4%A9",
+  "wikipediaEn": "https://en.wikipedia.org/wiki/Wu_Zetian",
+  "works": [
+    "shengui/1",
+    "shengui/2",
+    "shengui/3",
+    "shengui/4",
+    "shengui/5",
+    "shengui/6",
+    "shengui/7",
+    "shengui/8",
+    "shengui/9",
+    "shengui/10",
+    "shengui/11",
+    "shengui/12"
+  ]
+}

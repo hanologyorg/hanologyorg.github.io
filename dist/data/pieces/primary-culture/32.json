@@ -1,0 +1,269 @@
+{
+  "bookId": "primary-culture",
+  "num": 32,
+  "title": "塞翁失馬",
+  "author": "佚名",
+  "authorId": "A102",
+  "dynasty": "漢",
+  "era": "漢",
+  "eraCode": "07",
+  "genre": "prose",
+  "verses": [
+    {
+      "text": "近塞上之人，有善術者。馬無故亡而入胡，人皆弔之。其父曰：「此何遽不為福乎？」居數月，其馬將胡駿馬而歸，人皆賀之。其父曰：「此何遽不能為禍乎？」家富良馬，其子好騎，墮而折其髀，人皆弔之。其父曰：「此何遽不為福乎？」居一年，胡人大入塞，丁壯者引弦而戰，近塞之人，死者十九。此獨以跛之故，父子相保。"
+    }
+  ],
+  "sections": {
+    "analysis": "本文出自《淮南子‧人間訓》，此書雖被歸入雜家，但內容以黃老思想為主，認為世事萬變，禍福無常，人既然不能掌控自己的命運，就只能順着事情自然發展。文章以寓言故事形式，寫一位邊塞老人對生活中偶然發生的福與禍的看法。塞翁由失馬而得馬，由得馬而令其子折髀，由其子折髀而得以保存性命；他不因眼前的喜事而樂，亦不因短暫的不幸而悲；明白世事並沒有絕對的好和壞，不介懷一時的得和失，因其固然，順應自然之道，故得以養生盡年，「父子相保」。\n\n所謂「禍兮福之所倚，福兮禍之所伏」，作者借此故事說明任何事情都有可能向相反方向發展，壞事能轉為好事，好事也能變成壞事。由此觀之，人生的起伏得失在所難免，我們實在不必短視，不需過於介懷或執著一時的得失。",
+    "annotations": "1.善術：術謂方術，古代談吉凶福禍者。善解擅長，善於推測、預卜吉凶福禍的人謂之善術者。\n2.胡：古時泛稱北部和西部的少數民族。\n3.弔：慰問。\n4.何遽：○粵巨；gœy6；○普jù。因此。\n5.居：相當於「經過」，表示相隔若干時間。與下文「居一年」的「居」同。\n6.將：○粵醬；dzœŋ3；○普jiàng。帶領。\n7.駿馬：良馬。\n8.好騎：愛好縱馬奔馳。\n9.折其髀：把他的大腿摔斷了。\n10.大入塞：大舉攻入邊境。\n11.丁壯者：壯健的人。\n12.引弦：拉開弓弦，引申為拿起武器。\n13.死者十九：意謂十分之九的人戰死。\n14.相保：一起保全了性命。"
+  },
+  "annotations": [
+    {
+      "id": "32-1",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 7,
+        "end": 9
+      },
+      "kind": "semantic",
+      "text": "術謂方術，古代談吉凶福禍者。善解擅長，善於推測、預卜吉凶福禍的人謂之善術者。",
+      "source": "cham"
+    },
+    {
+      "id": "32-2",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 17,
+        "end": 18
+      },
+      "kind": "semantic",
+      "text": "古時泛稱北部和西部的少數民族。",
+      "source": "cham"
+    },
+    {
+      "id": "32-3",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 21,
+        "end": 22
+      },
+      "kind": "semantic",
+      "text": "慰問。",
+      "source": "cham"
+    },
+    {
+      "id": "32-4",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 30,
+        "end": 32
+      },
+      "kind": "pronunciation",
+      "lang": "yue",
+      "text": "巨；gœy6",
+      "source": "cham"
+    },
+    {
+      "id": "32-5",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 30,
+        "end": 32
+      },
+      "kind": "pronunciation",
+      "lang": "cmn",
+      "text": "jù",
+      "source": "cham"
+    },
+    {
+      "id": "32-6",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 30,
+        "end": 32
+      },
+      "kind": "semantic",
+      "text": "因此。",
+      "source": "cham"
+    },
+    {
+      "id": "32-7",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 38,
+        "end": 39
+      },
+      "kind": "semantic",
+      "text": "相當於「經過」，表示相隔若干時間。與下文「居一年」的「居」同。",
+      "source": "cham"
+    },
+    {
+      "id": "32-8",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 44,
+        "end": 45
+      },
+      "kind": "pronunciation",
+      "lang": "yue",
+      "text": "醬；dzœŋ3",
+      "source": "cham"
+    },
+    {
+      "id": "32-9",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 44,
+        "end": 45
+      },
+      "kind": "pronunciation",
+      "lang": "cmn",
+      "text": "jiàng",
+      "source": "cham"
+    },
+    {
+      "id": "32-10",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 44,
+        "end": 45
+      },
+      "kind": "semantic",
+      "text": "帶領。",
+      "source": "cham"
+    },
+    {
+      "id": "32-11",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 46,
+        "end": 48
+      },
+      "kind": "semantic",
+      "text": "良馬。",
+      "source": "cham"
+    },
+    {
+      "id": "32-12",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 78,
+        "end": 80
+      },
+      "kind": "semantic",
+      "text": "愛好縱馬奔馳。",
+      "source": "cham"
+    },
+    {
+      "id": "32-13",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 83,
+        "end": 86
+      },
+      "kind": "semantic",
+      "text": "把他的大腿摔斷了。",
+      "source": "cham"
+    },
+    {
+      "id": "32-14",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 112,
+        "end": 115
+      },
+      "kind": "semantic",
+      "text": "大舉攻入邊境。",
+      "source": "cham"
+    },
+    {
+      "id": "32-15",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 116,
+        "end": 119
+      },
+      "kind": "semantic",
+      "text": "壯健的人。",
+      "source": "cham"
+    },
+    {
+      "id": "32-16",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 119,
+        "end": 121
+      },
+      "kind": "semantic",
+      "text": "拉開弓弦，引申為拿起武器。",
+      "source": "cham"
+    },
+    {
+      "id": "32-17",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 129,
+        "end": 133
+      },
+      "kind": "semantic",
+      "text": "意謂十分之九的人戰死。",
+      "source": "cham"
+    },
+    {
+      "id": "32-18",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 143,
+        "end": 145
+      },
+      "kind": "semantic",
+      "text": "一起保全了性命。",
+      "source": "cham"
+    }
+  ],
+  "structuredSections": [
+    {
+      "key": "analysis",
+      "title": "賞析",
+      "filename": "analysis.md",
+      "body": "本文出自《淮南子‧人間訓》，此書雖被歸入雜家，但內容以黃老思想為主，認為世事萬變，禍福無常，人既然不能掌控自己的命運，就只能順着事情自然發展。文章以寓言故事形式，寫一位邊塞老人對生活中偶然發生的福與禍的看法。塞翁由失馬而得馬，由得馬而令其子折髀，由其子折髀而得以保存性命；他不因眼前的喜事而樂，亦不因短暫的不幸而悲；明白世事並沒有絕對的好和壞，不介懷一時的得和失，因其固然，順應自然之道，故得以養生盡年，「父子相保」。\n\n所謂「禍兮福之所倚，福兮禍之所伏」，作者借此故事說明任何事情都有可能向相反方向發展，壞事能轉為好事，好事也能變成壞事。由此觀之，人生的起伏得失在所難免，我們實在不必短視，不需過於介懷或執著一時的得失。",
+      "order": 3
+    }
+  ]
+}

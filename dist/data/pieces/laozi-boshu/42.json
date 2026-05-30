@@ -1,0 +1,466 @@
+{
+  "bookId": "laozi-boshu",
+  "num": 42,
+  "title": "第四十二章（中和）",
+  "author": "老子",
+  "authorId": "Laozi",
+  "dynasty": "周",
+  "era": "周",
+  "genre": "prose",
+  "verses": [
+    {
+      "text": "道生一 一生二 二生三 三生萬物"
+    },
+    {
+      "text": "萬物負陰而抱陽 中氣以為和"
+    },
+    {
+      "text": "天下之所惡 唯孤 寡 不穀 而王公以自名也"
+    },
+    {
+      "text": "勿或損之而益 益之而損 故人之所教 夕議而教人"
+    },
+    {
+      "text": "故強良者不得死 我將以為學父"
+    }
+  ],
+  "sections": {},
+  "annotations": [],
+  "layers": {
+    "heshanggong": [
+      {
+        "id": "heshanggong-1",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 4,
+          "end": 5
+        },
+        "kind": "commentary",
+        "text": "一生陰與陽也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-2",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 8,
+          "end": 9
+        },
+        "kind": "commentary",
+        "text": "陰陽生和、清、濁三氣，分為天地人也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-3",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 12,
+          "end": 13
+        },
+        "kind": "commentary",
+        "text": "天地人共生萬物也，天施地化，人長養之也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-4",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 0,
+          "end": 1
+        },
+        "kind": "commentary",
+        "text": "萬物無不負陰而向陽，迴心而就日。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-5",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 0,
+          "end": 13
+        },
+        "kind": "commentary",
+        "text": "萬物中皆有元氣，得以和柔，若胸中有藏，骨中有髓，草木中有空虛與氣通，故得久生也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-6",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 0,
+          "end": 13
+        },
+        "kind": "commentary",
+        "text": "孤寡不轂者，不祥之名，而王公以為稱者，處謙卑，法空虛和柔。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-7",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 2,
+          "start": 0,
+          "end": 21
+        },
+        "kind": "commentary",
+        "text": "引之不得，推之必還。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-8",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 2,
+          "start": 0,
+          "end": 21
+        },
+        "kind": "commentary",
+        "text": "夫增高者志崩，貪富者致患。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-9",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 3,
+          "start": 13,
+          "end": 14
+        },
+        "kind": "commentary",
+        "text": "謂眾人所教，去弱為強，去柔為剛。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-10",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 3,
+          "start": 0,
+          "end": 23
+        },
+        "kind": "commentary",
+        "text": "言我教眾人，使去強為弱，去柔為剛。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-11",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 3,
+          "start": 0,
+          "end": 23
+        },
+        "kind": "commentary",
+        "text": "強粱者，謂不信玄妙，背叛道德，不從經教，尚勢任力也。不得其死者，為天命所絕，兵刃所伐，王法所殺，不得以壽命死。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-12",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 4,
+          "start": 0,
+          "end": 14
+        },
+        "kind": "commentary",
+        "text": "父，使也。老子以強梁之人為教，誡之始也。",
+        "source": "cham"
+      }
+    ],
+    "wangbi": [
+      {
+        "id": "wangbi-1",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 16
+        },
+        "kind": "commentary",
+        "text": "萬物萬形，其歸一也，何由致一，由於無也。由無乃一，一可謂無，已謂之一，豈得無言乎。有言有一，非二如何？有一有二，遂生乎三，從無之有，數盡乎斯，過此以往，非道之流，故萬物之生，吾知其主，雖有萬形，沖氣一焉。百姓有心，異國殊風，而得一者，王侯主焉。以一為主，一何可舍，愈多愈遠，損則近之，損之至盡，乃得其極。既謂之一，猶乃至三，況本不一而道可近乎，損之而益，豈虛言也。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-2",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 16
+        },
+        "kind": "commentary",
+        "text": "我之非強使人從之也，而用夫自然，舉其至理，順之必吉，違之必凶。故人相教，違之自取其凶也，亦如我之教人，勿違之也。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-3",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 16
+        },
+        "kind": "commentary",
+        "text": "强梁則必不得其死。人相教為强梁，則必如我之教人不當為强梁也。舉其強梁不得其死以教邪。若云順吾教之必吉也，故得其違教之徒，適可以為教父也。",
+        "source": "cham"
+      }
+    ]
+  },
+  "annotationLayers": [
+    {
+      "id": "default",
+      "label": "原文",
+      "shortLabel": "文",
+      "contributor": "Laozi",
+      "role": "author",
+      "nature": "annotation",
+      "displayOrder": 0,
+      "enabled": true,
+      "annotations": []
+    },
+    {
+      "id": "heshanggong",
+      "label": "河上公註",
+      "shortLabel": "河",
+      "contributor": "C002",
+      "role": "commentator",
+      "nature": "commentary",
+      "displayOrder": 1,
+      "enabled": true,
+      "annotations": [
+        {
+          "id": "heshanggong-1",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 4,
+            "end": 5
+          },
+          "kind": "commentary",
+          "text": "一生陰與陽也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-2",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 8,
+            "end": 9
+          },
+          "kind": "commentary",
+          "text": "陰陽生和、清、濁三氣，分為天地人也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-3",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 12,
+            "end": 13
+          },
+          "kind": "commentary",
+          "text": "天地人共生萬物也，天施地化，人長養之也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-4",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 1,
+            "start": 0,
+            "end": 1
+          },
+          "kind": "commentary",
+          "text": "萬物無不負陰而向陽，迴心而就日。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-5",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 1,
+            "start": 0,
+            "end": 13
+          },
+          "kind": "commentary",
+          "text": "萬物中皆有元氣，得以和柔，若胸中有藏，骨中有髓，草木中有空虛與氣通，故得久生也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-6",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 1,
+            "start": 0,
+            "end": 13
+          },
+          "kind": "commentary",
+          "text": "孤寡不轂者，不祥之名，而王公以為稱者，處謙卑，法空虛和柔。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-7",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 2,
+            "start": 0,
+            "end": 21
+          },
+          "kind": "commentary",
+          "text": "引之不得，推之必還。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-8",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 2,
+            "start": 0,
+            "end": 21
+          },
+          "kind": "commentary",
+          "text": "夫增高者志崩，貪富者致患。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-9",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 3,
+            "start": 13,
+            "end": 14
+          },
+          "kind": "commentary",
+          "text": "謂眾人所教，去弱為強，去柔為剛。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-10",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 3,
+            "start": 0,
+            "end": 23
+          },
+          "kind": "commentary",
+          "text": "言我教眾人，使去強為弱，去柔為剛。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-11",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 3,
+            "start": 0,
+            "end": 23
+          },
+          "kind": "commentary",
+          "text": "強粱者，謂不信玄妙，背叛道德，不從經教，尚勢任力也。不得其死者，為天命所絕，兵刃所伐，王法所殺，不得以壽命死。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-12",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 4,
+            "start": 0,
+            "end": 14
+          },
+          "kind": "commentary",
+          "text": "父，使也。老子以強梁之人為教，誡之始也。",
+          "source": "cham"
+        }
+      ]
+    },
+    {
+      "id": "wangbi",
+      "label": "王弼註",
+      "shortLabel": "王",
+      "contributor": "C001",
+      "role": "commentator",
+      "nature": "commentary",
+      "displayOrder": 2,
+      "enabled": true,
+      "annotations": [
+        {
+          "id": "wangbi-1",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 16
+          },
+          "kind": "commentary",
+          "text": "萬物萬形，其歸一也，何由致一，由於無也。由無乃一，一可謂無，已謂之一，豈得無言乎。有言有一，非二如何？有一有二，遂生乎三，從無之有，數盡乎斯，過此以往，非道之流，故萬物之生，吾知其主，雖有萬形，沖氣一焉。百姓有心，異國殊風，而得一者，王侯主焉。以一為主，一何可舍，愈多愈遠，損則近之，損之至盡，乃得其極。既謂之一，猶乃至三，況本不一而道可近乎，損之而益，豈虛言也。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-2",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 16
+          },
+          "kind": "commentary",
+          "text": "我之非強使人從之也，而用夫自然，舉其至理，順之必吉，違之必凶。故人相教，違之自取其凶也，亦如我之教人，勿違之也。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-3",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 16
+          },
+          "kind": "commentary",
+          "text": "强梁則必不得其死。人相教為强梁，則必如我之教人不當為强梁也。舉其強梁不得其死以教邪。若云順吾教之必吉也，故得其違教之徒，適可以為教父也。",
+          "source": "cham"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "textRef": "laozi-boshu",
+    "relation": "section"
+  }
+}

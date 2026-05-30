@@ -1,0 +1,238 @@
+{
+  "bookId": "laozi",
+  "num": 15,
+  "title": "第十五章",
+  "author": "老子",
+  "authorId": "Laozi",
+  "dynasty": "周",
+  "era": "周",
+  "genre": "prose",
+  "verses": [
+    {
+      "text": "古之善為士者，微妙玄通，深不可識。"
+    },
+    {
+      "text": "夫唯不可識，故強為之容。豫焉若冬涉川；"
+    },
+    {
+      "text": "猶兮若畏四鄰；儼兮其若客；"
+    },
+    {
+      "text": "渙兮若冰之將釋；敦兮其若樸；"
+    },
+    {
+      "text": "曠兮其若谷；混兮其若濁。"
+    },
+    {
+      "text": "孰能濁以靜之徐清？孰能安以久動之徐生？"
+    },
+    {
+      "text": "保此道者不欲盈。夫唯不盈，故能蔽不新成。"
+    }
+  ],
+  "sections": {},
+  "annotations": [],
+  "layers": {
+    "hesonggong": [
+      {
+        "id": "hesonggong-1",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 17
+        },
+        "kind": "semantic",
+        "text": "古之善為士者，微妙玄通，深不可識。故強為之容，豫若冬涉川，猶若畏四鄰，儼若為客。",
+        "source": "cham"
+      },
+      {
+        "id": "hesonggong-2",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 3,
+          "start": 0,
+          "end": 14
+        },
+        "kind": "semantic",
+        "text": "渙若冰之將釋，敦若樸，曠若谷，混若濁。皆喻道士之德。",
+        "source": "cham"
+      },
+      {
+        "id": "hesonggong-3",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 5,
+          "start": 0,
+          "end": 19
+        },
+        "kind": "semantic",
+        "text": "孰能濁以靜之徐清？孰能安以久動之徐生？保此道者不欲盈，夫唯不盈，故能蔽不新成。言道士能藏光祿德，不為新成。",
+        "source": "cham"
+      }
+    ],
+    "wangbi": [
+      {
+        "id": "wangbi-1",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 17
+        },
+        "kind": "semantic",
+        "text": "古之善為士者，深不可識，故其容貌若豫若猶若儼，如冬涉川，如畏四鄰，如客自持。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-2",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 3,
+          "start": 0,
+          "end": 14
+        },
+        "kind": "semantic",
+        "text": "渙若冰釋，敦若樸素，曠若空谷，混若濁水。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-3",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 5,
+          "start": 0,
+          "end": 19
+        },
+        "kind": "semantic",
+        "text": "能使濁者清，安者動，保此道者不欲盈滿，故能蔽不新成。",
+        "source": "cham"
+      }
+    ]
+  },
+  "annotationLayers": [
+    {
+      "id": "default",
+      "label": "原文",
+      "shortLabel": "文",
+      "contributor": "Laozi",
+      "role": "author",
+      "nature": "annotation",
+      "displayOrder": 0,
+      "enabled": true,
+      "annotations": []
+    },
+    {
+      "id": "wangbi",
+      "label": "王弼註",
+      "shortLabel": "王",
+      "contributor": "C001",
+      "role": "commentator",
+      "nature": "commentary",
+      "displayOrder": 1,
+      "enabled": true,
+      "annotations": [
+        {
+          "id": "wangbi-1",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 17
+          },
+          "kind": "semantic",
+          "text": "古之善為士者，深不可識，故其容貌若豫若猶若儼，如冬涉川，如畏四鄰，如客自持。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-2",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 3,
+            "start": 0,
+            "end": 14
+          },
+          "kind": "semantic",
+          "text": "渙若冰釋，敦若樸素，曠若空谷，混若濁水。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-3",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 5,
+            "start": 0,
+            "end": 19
+          },
+          "kind": "semantic",
+          "text": "能使濁者清，安者動，保此道者不欲盈滿，故能蔽不新成。",
+          "source": "cham"
+        }
+      ]
+    },
+    {
+      "id": "hesonggong",
+      "label": "河上公註",
+      "shortLabel": "河",
+      "contributor": "C002",
+      "role": "commentator",
+      "nature": "commentary",
+      "displayOrder": 2,
+      "enabled": true,
+      "annotations": [
+        {
+          "id": "hesonggong-1",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 17
+          },
+          "kind": "semantic",
+          "text": "古之善為士者，微妙玄通，深不可識。故強為之容，豫若冬涉川，猶若畏四鄰，儼若為客。",
+          "source": "cham"
+        },
+        {
+          "id": "hesonggong-2",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 3,
+            "start": 0,
+            "end": 14
+          },
+          "kind": "semantic",
+          "text": "渙若冰之將釋，敦若樸，曠若谷，混若濁。皆喻道士之德。",
+          "source": "cham"
+        },
+        {
+          "id": "hesonggong-3",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 5,
+            "start": 0,
+            "end": 19
+          },
+          "kind": "semantic",
+          "text": "孰能濁以靜之徐清？孰能安以久動之徐生？保此道者不欲盈，夫唯不盈，故能蔽不新成。言道士能藏光祿德，不為新成。",
+          "source": "cham"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "textRef": "laozi",
+    "relation": "section"
+  }
+}

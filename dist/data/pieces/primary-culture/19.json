@@ -1,0 +1,306 @@
+{
+  "bookId": "primary-culture",
+  "num": 19,
+  "title": "陋室銘",
+  "author": "劉禹錫",
+  "authorId": "A027",
+  "dynasty": "唐",
+  "era": "唐",
+  "eraCode": "24",
+  "genre": "prose",
+  "verses": [
+    {
+      "text": "山不在高，有仙則名，水不在深，有龍則靈。斯是陋室，唯吾德馨。苔痕上階綠，草色入簾青。談笑有鴻儒，往來無白丁。可以調素琴，閱金經。無絲竹之亂耳，無案牘之勞形。南陽諸葛廬，西蜀子雲亭。孔子云：「何陋之有？」"
+    }
+  ],
+  "sections": {
+    "analysis": "本文作者劉禹錫是唐代貞元年間進士，後來參政失敗，屢遭遷謫，《陋室銘》就是他被貶後出任和州刺史時所寫的。本文托物言志，通過描繪和讚美陋室，既呈現一個安貧樂道、德行高尚的君子形象，亦流露古代文人高雅的生活情趣。\n\n文中所描述的陋室，佈置簡單樸實，能讓作者完全脫離世俗的煩擾，投入寧靜恬淡的生活。一間居室房舍的價值，並非取決於建築或陳設的金碧輝煌，而是取決於主人的品德。居於其中的君子因為品格高尚、馨香高雅，令陋室聲名遠播。在「苔痕上階綠，草色入簾青」的清幽環境中，作者閒時彈素琴、讀佛經，偶與有識之士議論縱橫，怡然自得，正是古時君子澹泊名利的生活寫照。作者將陋室與諸葛廬、子雲亭相比，暗示陋室主人與古代名賢有同樣的志趣與抱負，呈現高潔傲岸的情操與安貧樂道的意趣。\n\n作者雖然仕途坎坷，仍然樂觀豁達，澹泊明志，寧靜致遠，這正是「窮則獨善其身，達則兼善天下」的表現。",
+    "annotations": "1.有仙則名：有仙人居留便名聞遠方。\n2.有龍則靈：有蛟龍潛藏就有靈氣。\n3.斯是：「斯」、「是」都是指示代詞，無論單用或連用，都解作「這」。\n4.陋室：簡陋的居室。\n5.唯：語氣詞，這裏有「只因為」的意思。\n6.德馨：能散佈到遠處的香氣。《左傳‧僖公五年》：「黍稷非馨，明德惟馨」，以香氣比喻美好的德行。\n7.苔痕上階綠：青苔長到臺階上去，使臺階都綠了。\n8.草色入簾青：青青的草色透過竹簾映入室內，使陋室裏也帶有青草的碧綠色。\n9.鴻儒：學識淵博的學者。\n10.白丁：無官職的平民百姓，這裏指沒有文化修養的人。唐代服色，以黃赤色為最高貴，紅紫為上等，藍綠次之，黑褐最低，白色則為無官職者所服。\n11.調素琴：彈奏不加雕飾、樸素無華的琴。調，撫弄。素，無雕飾。\n12.金經：用泥金（一種金色顏料）書寫的佛經。\n13.絲竹：「絲」指絃樂器；「竹」指管樂器。絲竹合稱，泛指音樂。\n14.亂耳：擾亂聽覺。\n15.案牘：○粵讀；duk9；○普dú。指官場文書。\n16.勞形：使身體勞苦。\n17.南陽諸葛廬：指三國時期政治家諸葛亮，未出山前隱居的南陽草廬。\n18.西蜀子雲亭：西漢文學家揚雄（字子雲）在蜀郡成都所建的「草玄堂」。\n19.何陋之有：有甚麼簡陋不簡陋呢？語出《論語‧子罕》：「君子居之，何陋之有？」"
+  },
+  "annotations": [
+    {
+      "id": "19-1",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 5,
+        "end": 9
+      },
+      "kind": "semantic",
+      "text": "有仙人居留便名聞遠方。",
+      "source": "cham"
+    },
+    {
+      "id": "19-2",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 15,
+        "end": 19
+      },
+      "kind": "semantic",
+      "text": "有蛟龍潛藏就有靈氣。",
+      "source": "cham"
+    },
+    {
+      "id": "19-3",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 20,
+        "end": 22
+      },
+      "kind": "semantic",
+      "text": "「斯」、「是」都是指示代詞，無論單用或連用，都解作「這」。",
+      "source": "cham"
+    },
+    {
+      "id": "19-4",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 22,
+        "end": 24
+      },
+      "kind": "semantic",
+      "text": "簡陋的居室。",
+      "source": "cham"
+    },
+    {
+      "id": "19-5",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 25,
+        "end": 26
+      },
+      "kind": "semantic",
+      "text": "語氣詞，這裏有「只因為」的意思。",
+      "source": "cham"
+    },
+    {
+      "id": "19-6",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 27,
+        "end": 29
+      },
+      "kind": "semantic",
+      "text": "能散佈到遠處的香氣。《左傳‧僖公五年》：「黍稷非馨，明德惟馨」，以香氣比喻美好的德行。",
+      "source": "cham"
+    },
+    {
+      "id": "19-7",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 30,
+        "end": 35
+      },
+      "kind": "semantic",
+      "text": "青苔長到臺階上去，使臺階都綠了。",
+      "source": "cham"
+    },
+    {
+      "id": "19-8",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 36,
+        "end": 41
+      },
+      "kind": "semantic",
+      "text": "青青的草色透過竹簾映入室內，使陋室裏也帶有青草的碧綠色。",
+      "source": "cham"
+    },
+    {
+      "id": "19-9",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 45,
+        "end": 47
+      },
+      "kind": "semantic",
+      "text": "學識淵博的學者。",
+      "source": "cham"
+    },
+    {
+      "id": "19-10",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 51,
+        "end": 53
+      },
+      "kind": "semantic",
+      "text": "無官職的平民百姓，這裏指沒有文化修養的人。唐代服色，以黃赤色為最高貴，紅紫為上等，藍綠次之，黑褐最低，白色則為無官職者所服。",
+      "source": "cham"
+    },
+    {
+      "id": "19-11",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 56,
+        "end": 59
+      },
+      "kind": "semantic",
+      "text": "彈奏不加雕飾、樸素無華的琴。調，撫弄。素，無雕飾。",
+      "source": "cham"
+    },
+    {
+      "id": "19-12",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 61,
+        "end": 63
+      },
+      "kind": "semantic",
+      "text": "用泥金（一種金色顏料）書寫的佛經。",
+      "source": "cham"
+    },
+    {
+      "id": "19-13",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 65,
+        "end": 67
+      },
+      "kind": "semantic",
+      "text": "「絲」指絃樂器；「竹」指管樂器。絲竹合稱，泛指音樂。",
+      "source": "cham"
+    },
+    {
+      "id": "19-14",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 68,
+        "end": 70
+      },
+      "kind": "semantic",
+      "text": "擾亂聽覺。",
+      "source": "cham"
+    },
+    {
+      "id": "19-15",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 72,
+        "end": 74
+      },
+      "kind": "pronunciation",
+      "lang": "yue",
+      "text": "讀；duk9",
+      "source": "cham"
+    },
+    {
+      "id": "19-16",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 72,
+        "end": 74
+      },
+      "kind": "pronunciation",
+      "lang": "cmn",
+      "text": "dú",
+      "source": "cham"
+    },
+    {
+      "id": "19-17",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 72,
+        "end": 74
+      },
+      "kind": "semantic",
+      "text": "指官場文書。",
+      "source": "cham"
+    },
+    {
+      "id": "19-18",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 75,
+        "end": 77
+      },
+      "kind": "semantic",
+      "text": "使身體勞苦。",
+      "source": "cham"
+    },
+    {
+      "id": "19-19",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 78,
+        "end": 83
+      },
+      "kind": "semantic",
+      "text": "指三國時期政治家諸葛亮，未出山前隱居的南陽草廬。",
+      "source": "cham"
+    },
+    {
+      "id": "19-20",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 84,
+        "end": 89
+      },
+      "kind": "semantic",
+      "text": "西漢文學家揚雄（字子雲）在蜀郡成都所建的「草玄堂」。",
+      "source": "cham"
+    },
+    {
+      "id": "19-21",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 95,
+        "end": 99
+      },
+      "kind": "semantic",
+      "text": "有甚麼簡陋不簡陋呢？語出《論語‧子罕》：「君子居之，何陋之有？」",
+      "source": "cham"
+    }
+  ],
+  "structuredSections": [
+    {
+      "key": "analysis",
+      "title": "賞析",
+      "filename": "analysis.md",
+      "body": "本文作者劉禹錫是唐代貞元年間進士，後來參政失敗，屢遭遷謫，《陋室銘》就是他被貶後出任和州刺史時所寫的。本文托物言志，通過描繪和讚美陋室，既呈現一個安貧樂道、德行高尚的君子形象，亦流露古代文人高雅的生活情趣。\n\n文中所描述的陋室，佈置簡單樸實，能讓作者完全脫離世俗的煩擾，投入寧靜恬淡的生活。一間居室房舍的價值，並非取決於建築或陳設的金碧輝煌，而是取決於主人的品德。居於其中的君子因為品格高尚、馨香高雅，令陋室聲名遠播。在「苔痕上階綠，草色入簾青」的清幽環境中，作者閒時彈素琴、讀佛經，偶與有識之士議論縱橫，怡然自得，正是古時君子澹泊名利的生活寫照。作者將陋室與諸葛廬、子雲亭相比，暗示陋室主人與古代名賢有同樣的志趣與抱負，呈現高潔傲岸的情操與安貧樂道的意趣。\n\n作者雖然仕途坎坷，仍然樂觀豁達，澹泊明志，寧靜致遠，這正是「窮則獨善其身，達則兼善天下」的表現。",
+      "order": 3
+    }
+  ]
+}

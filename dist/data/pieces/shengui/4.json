@@ -1,0 +1,106 @@
+{
+  "bookId": "shengui",
+  "num": 4,
+  "title": "章第三·守道",
+  "author": "武曌",
+  "authorId": "C004",
+  "dynasty": "唐",
+  "era": "唐",
+  "eraCode": "24",
+  "genre": "prose",
+  "verses": [
+    {
+      "text": "夫道者，萬物之奧，善人之寶。是以君子守道以待時，小人違道以取禍。"
+    },
+    {
+      "text": "故《老子》曰：「道可道，非常道。」又曰：「上士聞道，勤而行之。」"
+    },
+    {
+      "text": "夫守道之要，在於正心。心正則道正，心邪則道邪。古之君子，以正心修身為本，以治國平天下為用。"
+    },
+    {
+      "text": "昔伯夷守節於首陽，道之清也；"
+    },
+    {
+      "text": "柳下惠不枉道以求容，道之和也。"
+    },
+    {
+      "text": "二者殊塗而同歸，皆守道者也。"
+    },
+    {
+      "text": "夫守道者，不以貧賤而易其志，不以富貴而淫其心。在邦必達，在家必達。達則兼善天下，不達則獨善其身。此守道之大方也。"
+    }
+  ],
+  "sections": {
+    "annotations": "1.老子：《道德經》，春秋時老子（李耳）所著。引文見第一章及第四十一章。\n2.伯夷：商末孤竹國長子，與弟叔齊互讓國，不食周粟，餓死首陽山。見《史記·伯夷列傳》。\n3.柳下惠：春秋時魯國大夫展禽，以德行聞名，「不羞污君，不辭小官」。見《論語·微子》。"
+  },
+  "annotations": [
+    {
+      "id": "4-1",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 1,
+        "start": 2,
+        "end": 4
+      },
+      "kind": "allusion",
+      "text": "《道德經》，春秋時老子（李耳）所著。引文見第一章及第四十一章。",
+      "source": "cham"
+    },
+    {
+      "id": "4-2",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 3,
+        "start": 1,
+        "end": 3
+      },
+      "kind": "person",
+      "text": "商末孤竹國長子，與弟叔齊互讓國，不食周粟，餓死首陽山。見《史記·伯夷列傳》。",
+      "source": "cham"
+    },
+    {
+      "id": "4-3",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 4,
+        "start": 0,
+        "end": 3
+      },
+      "kind": "person",
+      "text": "春秋時魯國大夫展禽，以德行聞名，「不羞污君，不辭小官」。見《論語·微子》。",
+      "source": "cham"
+    }
+  ],
+  "annotationLayers": [
+    {
+      "id": "default",
+      "label": "原文",
+      "shortLabel": "文",
+      "contributor": "C004",
+      "role": "author",
+      "nature": "annotation",
+      "displayOrder": 0,
+      "enabled": true,
+      "annotations": []
+    },
+    {
+      "id": "commentary",
+      "label": "注",
+      "shortLabel": "注",
+      "contributor": "C011",
+      "role": "commentator",
+      "nature": "commentary",
+      "displayOrder": 1,
+      "enabled": true,
+      "annotations": []
+    }
+  ],
+  "source": {
+    "textRef": "shengui",
+    "relation": "section"
+  }
+}

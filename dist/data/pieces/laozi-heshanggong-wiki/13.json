@@ -1,0 +1,395 @@
+{
+  "bookId": "laozi-heshanggong-wiki",
+  "num": 13,
+  "title": "第十三章（厭恥）",
+  "author": "老子",
+  "authorId": "Laozi",
+  "dynasty": "周",
+  "era": "周",
+  "genre": "prose",
+  "verses": [
+    {
+      "text": "寵辱若驚，"
+    },
+    {
+      "text": "貴大患若身。"
+    },
+    {
+      "text": "何謂寵辱。"
+    },
+    {
+      "text": "辱為下，"
+    },
+    {
+      "text": "得之若驚，"
+    },
+    {
+      "text": "失之若驚，"
+    },
+    {
+      "text": "是謂寵辱若驚。"
+    },
+    {
+      "text": "何謂貴大患若身。"
+    },
+    {
+      "text": "吾所以有大患者，為吾有身。"
+    },
+    {
+      "text": "及吾無身，吾何有患。"
+    },
+    {
+      "text": "故貴以身為天下者，則可寄天下，"
+    },
+    {
+      "text": "愛以身為天下，若可託天下。"
+    }
+  ],
+  "sections": {},
+  "annotations": [],
+  "layers": {
+    "heshanggong": [
+      {
+        "id": "heshanggong-1",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 5
+        },
+        "kind": "commentary",
+        "text": "身寵亦驚，身辱亦驚。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-2",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 0,
+          "end": 6
+        },
+        "kind": "commentary",
+        "text": "貴，畏也。若，至也。謂大患至身，故皆驚。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-3",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 2,
+          "start": 0,
+          "end": 5
+        },
+        "kind": "commentary",
+        "text": "問何謂寵，何謂辱。寵者尊榮，辱者恥辱。及身還自問者，以曉人也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-4",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 3,
+          "start": 0,
+          "end": 4
+        },
+        "kind": "commentary",
+        "text": "辱為下賤。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-5",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 4,
+          "start": 0,
+          "end": 5
+        },
+        "kind": "commentary",
+        "text": "得寵榮驚者，處高位如臨深危也。貴不敢驕，富不敢奢。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-6",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 5,
+          "start": 0,
+          "end": 5
+        },
+        "kind": "commentary",
+        "text": "失者，失寵處辱也。驚者，恐禍重來也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-7",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 6,
+          "start": 0,
+          "end": 7
+        },
+        "kind": "commentary",
+        "text": "解上得之若驚，失之若驚。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-8",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 7,
+          "start": 0,
+          "end": 8
+        },
+        "kind": "commentary",
+        "text": "復還自問：何故畏大患至身。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-9",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 8,
+          "start": 0,
+          "end": 13
+        },
+        "kind": "commentary",
+        "text": "吾所以有大患者，為吾有身。有身憂者，勤勞念其飢寒，觸情從慾，則遇禍患也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-10",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 9,
+          "start": 0,
+          "end": 10
+        },
+        "kind": "commentary",
+        "text": "使吾無有身體，得道自然，輕舉昇雲，出入無間，與道通神，當有何患。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-11",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 10,
+          "start": 0,
+          "end": 15
+        },
+        "kind": "commentary",
+        "text": "言人君貴其身而賤人，欲為天下主者，則可寄立，不可以久也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-12",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 11,
+          "start": 0,
+          "end": 13
+        },
+        "kind": "commentary",
+        "text": "言人君能愛其身，非為己也，乃欲為萬民之父母。以此得為天下主者，乃可以託其身於萬民之上，長無咎也。",
+        "source": "cham"
+      }
+    ]
+  },
+  "annotationLayers": [
+    {
+      "id": "default",
+      "label": "原文",
+      "shortLabel": "文",
+      "contributor": "Laozi",
+      "role": "author",
+      "nature": "annotation",
+      "displayOrder": 0,
+      "enabled": true,
+      "annotations": []
+    },
+    {
+      "id": "heshanggong",
+      "label": "河上公註",
+      "shortLabel": "河",
+      "contributor": "C002",
+      "role": "commentator",
+      "nature": "commentary",
+      "displayOrder": 1,
+      "enabled": true,
+      "annotations": [
+        {
+          "id": "heshanggong-1",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 5
+          },
+          "kind": "commentary",
+          "text": "身寵亦驚，身辱亦驚。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-2",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 1,
+            "start": 0,
+            "end": 6
+          },
+          "kind": "commentary",
+          "text": "貴，畏也。若，至也。謂大患至身，故皆驚。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-3",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 2,
+            "start": 0,
+            "end": 5
+          },
+          "kind": "commentary",
+          "text": "問何謂寵，何謂辱。寵者尊榮，辱者恥辱。及身還自問者，以曉人也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-4",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 3,
+            "start": 0,
+            "end": 4
+          },
+          "kind": "commentary",
+          "text": "辱為下賤。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-5",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 4,
+            "start": 0,
+            "end": 5
+          },
+          "kind": "commentary",
+          "text": "得寵榮驚者，處高位如臨深危也。貴不敢驕，富不敢奢。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-6",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 5,
+            "start": 0,
+            "end": 5
+          },
+          "kind": "commentary",
+          "text": "失者，失寵處辱也。驚者，恐禍重來也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-7",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 6,
+            "start": 0,
+            "end": 7
+          },
+          "kind": "commentary",
+          "text": "解上得之若驚，失之若驚。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-8",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 7,
+            "start": 0,
+            "end": 8
+          },
+          "kind": "commentary",
+          "text": "復還自問：何故畏大患至身。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-9",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 8,
+            "start": 0,
+            "end": 13
+          },
+          "kind": "commentary",
+          "text": "吾所以有大患者，為吾有身。有身憂者，勤勞念其飢寒，觸情從慾，則遇禍患也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-10",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 9,
+            "start": 0,
+            "end": 10
+          },
+          "kind": "commentary",
+          "text": "使吾無有身體，得道自然，輕舉昇雲，出入無間，與道通神，當有何患。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-11",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 10,
+            "start": 0,
+            "end": 15
+          },
+          "kind": "commentary",
+          "text": "言人君貴其身而賤人，欲為天下主者，則可寄立，不可以久也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-12",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 11,
+            "start": 0,
+            "end": 13
+          },
+          "kind": "commentary",
+          "text": "言人君能愛其身，非為己也，乃欲為萬民之父母。以此得為天下主者，乃可以託其身於萬民之上，長無咎也。",
+          "source": "cham"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "textRef": "laozi-heshanggong-wiki",
+    "relation": "section"
+  }
+}

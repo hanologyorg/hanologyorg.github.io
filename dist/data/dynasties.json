@@ -1,0 +1,292 @@
+{
+  "未知": {
+    "@id": "dynasty:%E6%9C%AA%E7%9F%A5",
+    "@type": "HistoricalPeriod",
+    "name": "未知",
+    "authors": [
+      "佚名"
+    ],
+    "workCount": 2
+  },
+  "清": {
+    "@id": "dynasty:%E6%B8%85",
+    "@type": "HistoricalPeriod",
+    "name": "清",
+    "authors": [
+      "紀昀",
+      "鄭燮",
+      "高鼎",
+      "龔自珍",
+      "朱柏廬",
+      "黃仲則",
+      "秋瑾",
+      "朱彝尊",
+      "納蘭性德",
+      "孔尚任",
+      "顧炎武",
+      "方苞"
+    ],
+    "workCount": 15
+  },
+  "唐": {
+    "@id": "dynasty:%E5%94%90",
+    "@type": "HistoricalPeriod",
+    "name": "唐",
+    "authors": [
+      "李世民",
+      "韓愈",
+      "柳宗元",
+      "杜甫",
+      "王維",
+      "李白",
+      "虞世南",
+      "駱賓王",
+      "王勃",
+      "賀知章",
+      "張若虛",
+      "王翰",
+      "王之渙",
+      "孟浩然",
+      "王昌齡",
+      "崔顥",
+      "張繼",
+      "司空曙",
+      "韋應物",
+      "孟郊",
+      "杜荀鶴",
+      "劉禹錫",
+      "白居易",
+      "李紳",
+      "賈島",
+      "朱慶餘",
+      "杜秋娘",
+      "杜牧",
+      "李商隱",
+      "曹鄴",
+      "陳子昂",
+      "張九齡",
+      "李頎",
+      "岑參",
+      "李益",
+      "張籍",
+      "元稹",
+      "溫庭筠",
+      "馮延巳",
+      "武曌"
+    ],
+    "workCount": 147
+  },
+  "周": {
+    "@id": "dynasty:%E5%91%A8",
+    "@type": "HistoricalPeriod",
+    "name": "周",
+    "authors": [
+      "老子",
+      "莊周",
+      "禮記",
+      "《詩經》",
+      "屈原",
+      "《周易》",
+      "韓非",
+      "尚書",
+      "鬼谷子",
+      "文子",
+      "尹文"
+    ],
+    "workCount": 389
+  },
+  "春秋": {
+    "@id": "dynasty:%E6%98%A5%E7%A7%8B",
+    "@type": "HistoricalPeriod",
+    "name": "春秋",
+    "authors": [
+      "孔子",
+      "墨子"
+    ],
+    "workCount": 4
+  },
+  "戰國": {
+    "@id": "dynasty:%E6%88%B0%E5%9C%8B",
+    "@type": "HistoricalPeriod",
+    "name": "戰國",
+    "authors": [
+      "孟子",
+      "荀子",
+      "列子"
+    ],
+    "workCount": 7
+  },
+  "漢": {
+    "@id": "dynasty:%E6%BC%A2",
+    "@type": "HistoricalPeriod",
+    "name": "漢",
+    "authors": [
+      "司馬遷",
+      "漢樂府",
+      "《古詩十九首》",
+      "曹操",
+      "曹植",
+      "佚名",
+      "班婕妤",
+      "陳琳",
+      "左丘明",
+      "劉向",
+      "李陵",
+      "王粲",
+      "趙岐",
+      "桓寬"
+    ],
+    "workCount": 168
+  },
+  "三國": {
+    "@id": "dynasty:%E4%B8%89%E5%9C%8B",
+    "@type": "HistoricalPeriod",
+    "name": "三國",
+    "authors": [
+      "諸葛亮"
+    ],
+    "workCount": 3
+  },
+  "宋": {
+    "@id": "dynasty:%E5%AE%8B",
+    "@type": "HistoricalPeriod",
+    "name": "宋",
+    "authors": [
+      "范仲淹",
+      "蘇洵",
+      "李清照",
+      "辛棄疾",
+      "蘇軾",
+      "寇準",
+      "歐陽修",
+      "蘇舜欽",
+      "王安石",
+      "李綱",
+      "楊萬里",
+      "朱熹",
+      "南宋民歌",
+      "林升",
+      "趙師秀",
+      "葉紹翁",
+      "文天祥",
+      "王應麟",
+      "陸游",
+      "黃庭堅",
+      "柳永",
+      "晏殊",
+      "晏幾道",
+      "秦觀",
+      "賀鑄",
+      "周邦彥",
+      "岳飛",
+      "姜夔",
+      "蔣捷",
+      "張炎",
+      "周敦頤",
+      "宋太宗"
+    ],
+    "workCount": 95
+  },
+  "秦": {
+    "@id": "dynasty:%E7%A7%A6",
+    "@type": "HistoricalPeriod",
+    "name": "秦",
+    "authors": [
+      "項羽",
+      "李斯"
+    ],
+    "workCount": 2
+  },
+  "東晉": {
+    "@id": "dynasty:%E6%9D%B1%E6%99%89",
+    "@type": "HistoricalPeriod",
+    "name": "東晉",
+    "authors": [
+      "陶淵明"
+    ],
+    "workCount": 7
+  },
+  "南北朝": {
+    "@id": "dynasty:%E5%8D%97%E5%8C%97%E6%9C%9D",
+    "@type": "HistoricalPeriod",
+    "name": "南北朝",
+    "authors": [
+      "北朝民歌",
+      "吳均"
+    ],
+    "workCount": 4
+  },
+  "元": {
+    "@id": "dynasty:%E5%85%83",
+    "@type": "HistoricalPeriod",
+    "name": "元",
+    "authors": [
+      "王冕",
+      "關漢卿",
+      "白樸",
+      "馬致遠",
+      "王實甫",
+      "張養浩",
+      "張可久",
+      "喬吉",
+      "劉基",
+      "宋濂"
+    ],
+    "workCount": 17
+  },
+  "明": {
+    "@id": "dynasty:%E6%98%8E",
+    "@type": "HistoricalPeriod",
+    "name": "明",
+    "authors": [
+      "于謙",
+      "唐寅",
+      "徐渭",
+      "楊慎",
+      "吳偉業",
+      "王守仁",
+      "歸有光",
+      "袁宏道"
+    ],
+    "workCount": 8
+  },
+  "近代": {
+    "@id": "dynasty:%E8%BF%91%E4%BB%A3",
+    "@type": "HistoricalPeriod",
+    "name": "近代",
+    "authors": [
+      "許地山",
+      "朱自清"
+    ],
+    "workCount": 2
+  },
+  "五代": {
+    "@id": "dynasty:%E4%BA%94%E4%BB%A3",
+    "@type": "HistoricalPeriod",
+    "name": "五代",
+    "authors": [
+      "李煜"
+    ],
+    "workCount": 3
+  },
+  "金": {
+    "@id": "dynasty:%E9%87%91",
+    "@type": "HistoricalPeriod",
+    "name": "金",
+    "authors": [
+      "元好問"
+    ],
+    "workCount": 1
+  },
+  "晉": {
+    "@id": "dynasty:%E6%99%89",
+    "@type": "HistoricalPeriod",
+    "name": "晉",
+    "authors": [
+      "李密",
+      "王羲之",
+      "劉義慶"
+    ],
+    "workCount": 3
+  }
+}

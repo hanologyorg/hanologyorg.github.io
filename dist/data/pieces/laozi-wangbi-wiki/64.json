@@ -1,0 +1,282 @@
+{
+  "bookId": "laozi-wangbi-wiki",
+  "num": 64,
+  "title": "第六十四章",
+  "author": "老子",
+  "authorId": "Laozi",
+  "dynasty": "周",
+  "era": "周",
+  "genre": "prose",
+  "verses": [
+    {
+      "text": "其安易持，其未兆易謀。"
+    },
+    {
+      "text": "其脆易泮，其微易散。"
+    },
+    {
+      "text": "為之於未有，"
+    },
+    {
+      "text": "治之於未亂。"
+    },
+    {
+      "text": "合抱之木，生於毫末；九層之臺，起於累土；千里之行，始於足下。為者敗之，執者失之。"
+    },
+    {
+      "text": "是以聖人無為故無敗，無執故無失。民之從事，常於幾成而敗之。"
+    },
+    {
+      "text": "慎終如始，則無敗事。是以聖人欲不欲，不貴難得之貨；"
+    },
+    {
+      "text": "學不學，復眾人之所過。"
+    },
+    {
+      "text": "以輔萬物之自然，而不敢為。"
+    }
+  ],
+  "sections": {},
+  "annotations": [],
+  "layers": {
+    "wangbi": [
+      {
+        "id": "wangbi-1",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 11
+        },
+        "kind": "commentary",
+        "text": "以其安不忘危，持之不忘亡，謀之無功之勢，故曰易也。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-2",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 0,
+          "end": 10
+        },
+        "kind": "commentary",
+        "text": "雖失無入有，以其微脆之故，未足以興大功，故易也。此四者，皆說慎終也。不可以無之故而不持，不可以微之故而弗散也。無而弗持則生有焉，微而不散則生大焉。故慮終之患，如始之禍，則無敗事。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-3",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 2,
+          "start": 0,
+          "end": 6
+        },
+        "kind": "commentary",
+        "text": "謂其安未兆也。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-4",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 3,
+          "start": 0,
+          "end": 6
+        },
+        "kind": "commentary",
+        "text": "謂微脆也。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-5",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 4,
+          "start": 0,
+          "end": 40
+        },
+        "kind": "commentary",
+        "text": "當以慎終除微，慎微除亂，而以施為治之，形名執之，反生事原，巧辟滋作，故敗失也。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-6",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 5,
+          "start": 0,
+          "end": 29
+        },
+        "kind": "commentary",
+        "text": "不慎終也。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-7",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 6,
+          "start": 0,
+          "end": 25
+        },
+        "kind": "commentary",
+        "text": "好欲雖微，爭尚為之，興難得之貨雖細，貪盜為之起也。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-8",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 7,
+          "start": 0,
+          "end": 11
+        },
+        "kind": "commentary",
+        "text": "不學而能者，自然也，喻於不學者，過也。故學不學，以復眾人之過。",
+        "source": "cham"
+      }
+    ]
+  },
+  "annotationLayers": [
+    {
+      "id": "default",
+      "label": "原文",
+      "shortLabel": "文",
+      "contributor": "Laozi",
+      "role": "author",
+      "nature": "annotation",
+      "displayOrder": 0,
+      "enabled": true,
+      "annotations": []
+    },
+    {
+      "id": "wangbi",
+      "label": "王弼註",
+      "shortLabel": "王",
+      "contributor": "C001",
+      "role": "commentator",
+      "nature": "commentary",
+      "displayOrder": 1,
+      "enabled": true,
+      "annotations": [
+        {
+          "id": "wangbi-1",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 11
+          },
+          "kind": "commentary",
+          "text": "以其安不忘危，持之不忘亡，謀之無功之勢，故曰易也。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-2",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 1,
+            "start": 0,
+            "end": 10
+          },
+          "kind": "commentary",
+          "text": "雖失無入有，以其微脆之故，未足以興大功，故易也。此四者，皆說慎終也。不可以無之故而不持，不可以微之故而弗散也。無而弗持則生有焉，微而不散則生大焉。故慮終之患，如始之禍，則無敗事。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-3",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 2,
+            "start": 0,
+            "end": 6
+          },
+          "kind": "commentary",
+          "text": "謂其安未兆也。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-4",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 3,
+            "start": 0,
+            "end": 6
+          },
+          "kind": "commentary",
+          "text": "謂微脆也。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-5",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 4,
+            "start": 0,
+            "end": 40
+          },
+          "kind": "commentary",
+          "text": "當以慎終除微，慎微除亂，而以施為治之，形名執之，反生事原，巧辟滋作，故敗失也。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-6",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 5,
+            "start": 0,
+            "end": 29
+          },
+          "kind": "commentary",
+          "text": "不慎終也。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-7",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 6,
+            "start": 0,
+            "end": 25
+          },
+          "kind": "commentary",
+          "text": "好欲雖微，爭尚為之，興難得之貨雖細，貪盜為之起也。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-8",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 7,
+            "start": 0,
+            "end": 11
+          },
+          "kind": "commentary",
+          "text": "不學而能者，自然也，喻於不學者，過也。故學不學，以復眾人之過。",
+          "source": "cham"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "textRef": "laozi-wangbi-wiki",
+    "relation": "section"
+  }
+}

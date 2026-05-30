@@ -1,0 +1,280 @@
+{
+  "bookId": "primary",
+  "num": 3,
+  "title": "長歌行",
+  "author": "漢樂府",
+  "authorId": "A002",
+  "dynasty": "漢",
+  "era": "漢",
+  "eraCode": "07",
+  "genre": "poetry",
+  "verses": [
+    {
+      "text": "青青園中葵，朝露待日晞。陽春布德澤，萬物生光輝。"
+    },
+    {
+      "text": "常恐秋節至，焜黃華葉衰。百川東到海，何時復西"
+    },
+    {
+      "text": "歸。少壯不努力，老大徒傷悲！"
+    }
+  ],
+  "sections": {
+    "analysis": "「行」是樂曲的意思。「長歌」指長緩的歌聲，多用來表達深沉的感情。這首詩詠歎萬物盛衰有時，惋惜時光的流逝，提出應該在少壯時及早努力，奮發有所作為。\n\n這首詩先從寫景入手，描寫園中生長着青葱鮮嫩的向日葵，花葉沾滿露水，正等待着太陽把露水曬乾。繼而轉入對植物生長普遍的描述：自然界萬物一如向日葵在春天享受陽光的照射和露水的滋潤那樣，煥發出旺盛的生命力；然而秋天一到，隨之而來的卻是花葉枯黃，滿目凋零。自然界的這些變化，很容易引起人們對人生的聯想和慨歎。人的青春如同春天的青葵，終有枯萎的時候；人的生命也像滾滾東逝的河水，奔流到海不復回，所以一定要珍惜大好青春和有限的生命，努力向上，實現自己的理想，免得到老年時，要為自己虛度年華，一事無成而後悔。\n\n《長歌行》用了傳統詩歌兩種最常見的寫作手法，就是「比」和「興」。「興」是「起」的意思。詩人看到了某種景物而產生了某種感觸，然後對這景物加以描繪，用作詩的開端，故「興」有起頭和觸發情思兩層意思。這首詩的開頭，詩人因為看到園中的向日葵而產生青春易逝的感觸，這就是「興」句。「比」就是比喻；《長歌行》雖然說的是人生道理，但並不是用說教的形式，而是用恰當的比喻作具體的描繪，舉出青葵到了秋天終會枯萎，所有河流都東流入海而不西歸的事實，說明人生和青春也一樣，永遠不可能再返老還童、青春永在。最後兩句，明確道出這首詩的主旨，勉勵人在少壯時應及早努力，免得到了年紀老大時才徒然悲傷。\n\n這首詩通過自然界的常見事物，說明深刻的人生哲理；「少壯不努力，老大徒傷悲」這千古名言，給人無限警惕。",
+    "follow_up": "1. 瀏覽教育多媒體網頁：《分享讀書樂》(09:00 – 10:10)，說說你對神童方仲永的看法。 https://emm.edcity.hk/media/%E5%88%86%E4%BA%AB%E8%AE%80%E6%9B%B8%E6%A8%82/0_1c556cxk\n\n2. 分組運用詩歌最後兩句「少壯不努力，老中徒傷悲」創作一個小故事，並進行講故事比賽。",
+    "think_questions": "1. 你學習或做事時，有沒有過「自己年紀尚小，留待長大後才認真努力吧。」的念頭呢？讀過本詩後，你的想法有變嗎？請說說你現在的想法。\n\n2. 光陰十分可貴，我們要珍惜時間和生命，你認為該怎樣做呢？\n\n3. 除了光陰和青春是不可復來之外，還有沒有甚麼東西，如果你不及時掌握就會失去的呢？",
+    "annotations": "1.葵：向日葵。\n2.晞：○粵希；hei1；○普xī。曬乾。\n3.陽春：春天和暖的陽光。\n4.布：通「佈」。分施。\n5.德澤：恩惠。\n6.生光輝：閃耀着生命的光輝。\n7.焜黃：○粵君；gwan1；○普kūn。指植物色衰枯黃的樣子。焜：。焜字解\n光亮。焜黃是光澤晦暗，比喻枯黃的樣子。\n8.華：○粵花；faa1；○普huɑ̄。同「花」。。\n9.百川：許許多多的河流。\n10.東到海：中國的地勢西高東低，江河的水源又多發源於西部，所以河流\n多由西向東流到海裏。\n11.徒：只有"
+  },
+  "annotations": [
+    {
+      "id": "3-1",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 4,
+        "end": 5
+      },
+      "kind": "semantic",
+      "text": "向日葵。",
+      "source": "cham"
+    },
+    {
+      "id": "3-2",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 10,
+        "end": 11
+      },
+      "kind": "pronunciation",
+      "lang": "yue",
+      "text": "希；hei1",
+      "source": "cham"
+    },
+    {
+      "id": "3-3",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 10,
+        "end": 11
+      },
+      "kind": "pronunciation",
+      "lang": "cmn",
+      "text": "xī",
+      "source": "cham"
+    },
+    {
+      "id": "3-4",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 10,
+        "end": 11
+      },
+      "kind": "semantic",
+      "text": "曬乾。",
+      "source": "cham"
+    },
+    {
+      "id": "3-5",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 12,
+        "end": 14
+      },
+      "kind": "semantic",
+      "text": "春天和暖的陽光。",
+      "source": "cham"
+    },
+    {
+      "id": "3-6",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 14,
+        "end": 15
+      },
+      "kind": "semantic",
+      "text": "通「佈」。分施。",
+      "source": "cham"
+    },
+    {
+      "id": "3-7",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 15,
+        "end": 17
+      },
+      "kind": "semantic",
+      "text": "恩惠。",
+      "source": "cham"
+    },
+    {
+      "id": "3-8",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 20,
+        "end": 23
+      },
+      "kind": "semantic",
+      "text": "閃耀着生命的光輝。",
+      "source": "cham"
+    },
+    {
+      "id": "3-9",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 1,
+        "start": 6,
+        "end": 8
+      },
+      "kind": "pronunciation",
+      "lang": "yue",
+      "text": "君；gwan1",
+      "source": "cham"
+    },
+    {
+      "id": "3-10",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 1,
+        "start": 6,
+        "end": 8
+      },
+      "kind": "pronunciation",
+      "lang": "cmn",
+      "text": "kūn",
+      "source": "cham"
+    },
+    {
+      "id": "3-11",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 1,
+        "start": 6,
+        "end": 8
+      },
+      "kind": "semantic",
+      "text": "指植物色衰枯黃的樣子。焜：。焜字解\n光亮。焜黃是光澤晦暗，比喻枯黃的樣子。",
+      "source": "cham"
+    },
+    {
+      "id": "3-12",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 1,
+        "start": 8,
+        "end": 9
+      },
+      "kind": "pronunciation",
+      "lang": "yue",
+      "text": "花；faa1",
+      "source": "cham"
+    },
+    {
+      "id": "3-13",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 1,
+        "start": 8,
+        "end": 9
+      },
+      "kind": "pronunciation",
+      "lang": "cmn",
+      "text": "huɑ̄",
+      "source": "cham"
+    },
+    {
+      "id": "3-14",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 1,
+        "start": 8,
+        "end": 9
+      },
+      "kind": "semantic",
+      "text": "同「花」。。",
+      "source": "cham"
+    },
+    {
+      "id": "3-15",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 1,
+        "start": 12,
+        "end": 14
+      },
+      "kind": "semantic",
+      "text": "許許多多的河流。",
+      "source": "cham"
+    },
+    {
+      "id": "3-16",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 1,
+        "start": 14,
+        "end": 17
+      },
+      "kind": "semantic",
+      "text": "中國的地勢西高東低，江河的水源又多發源於西部，所以河流\n多由西向東流到海裏。",
+      "source": "cham"
+    },
+    {
+      "id": "3-17",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 2,
+        "start": 10,
+        "end": 11
+      },
+      "kind": "semantic",
+      "text": "只有",
+      "source": "cham"
+    }
+  ],
+  "structuredSections": [
+    {
+      "key": "analysis",
+      "title": "賞析",
+      "filename": "analysis.md",
+      "body": "「行」是樂曲的意思。「長歌」指長緩的歌聲，多用來表達深沉的感情。這首詩詠歎萬物盛衰有時，惋惜時光的流逝，提出應該在少壯時及早努力，奮發有所作為。\n\n這首詩先從寫景入手，描寫園中生長着青葱鮮嫩的向日葵，花葉沾滿露水，正等待着太陽把露水曬乾。繼而轉入對植物生長普遍的描述：自然界萬物一如向日葵在春天享受陽光的照射和露水的滋潤那樣，煥發出旺盛的生命力；然而秋天一到，隨之而來的卻是花葉枯黃，滿目凋零。自然界的這些變化，很容易引起人們對人生的聯想和慨歎。人的青春如同春天的青葵，終有枯萎的時候；人的生命也像滾滾東逝的河水，奔流到海不復回，所以一定要珍惜大好青春和有限的生命，努力向上，實現自己的理想，免得到老年時，要為自己虛度年華，一事無成而後悔。\n\n《長歌行》用了傳統詩歌兩種最常見的寫作手法，就是「比」和「興」。「興」是「起」的意思。詩人看到了某種景物而產生了某種感觸，然後對這景物加以描繪，用作詩的開端，故「興」有起頭和觸發情思兩層意思。這首詩的開頭，詩人因為看到園中的向日葵而產生青春易逝的感觸，這就是「興」句。「比」就是比喻；《長歌行》雖然說的是人生道理，但並不是用說教的形式，而是用恰當的比喻作具體的描繪，舉出青葵到了秋天終會枯萎，所有河流都東流入海而不西歸的事實，說明人生和青春也一樣，永遠不可能再返老還童、青春永在。最後兩句，明確道出這首詩的主旨，勉勵人在少壯時應及早努力，免得到了年紀老大時才徒然悲傷。\n\n這首詩通過自然界的常見事物，說明深刻的人生哲理；「少壯不努力，老大徒傷悲」這千古名言，給人無限警惕。",
+      "order": 3
+    },
+    {
+      "key": "follow_up",
+      "title": "延伸活動",
+      "filename": "follow-up.md",
+      "body": "1. 瀏覽教育多媒體網頁：《分享讀書樂》(09:00 – 10:10)，說說你對神童方仲永的看法。 https://emm.edcity.hk/media/%E5%88%86%E4%BA%AB%E8%AE%80%E6%9B%B8%E6%A8%82/0_1c556cxk\n\n2. 分組運用詩歌最後兩句「少壯不努力，老中徒傷悲」創作一個小故事，並進行講故事比賽。",
+      "order": 4
+    },
+    {
+      "key": "think_questions",
+      "title": "思考問題",
+      "filename": "think-questions.md",
+      "body": "1. 你學習或做事時，有沒有過「自己年紀尚小，留待長大後才認真努力吧。」的念頭呢？讀過本詩後，你的想法有變嗎？請說說你現在的想法。\n\n2. 光陰十分可貴，我們要珍惜時間和生命，你認為該怎樣做呢？\n\n3. 除了光陰和青春是不可復來之外，還有沒有甚麼東西，如果你不及時掌握就會失去的呢？",
+      "order": 5
+    }
+  ]
+}

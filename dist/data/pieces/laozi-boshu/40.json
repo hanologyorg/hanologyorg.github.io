@@ -1,0 +1,197 @@
+{
+  "bookId": "laozi-boshu",
+  "num": 40,
+  "title": "第四十章（反復）",
+  "author": "老子",
+  "authorId": "Laozi",
+  "dynasty": "周",
+  "era": "周",
+  "genre": "prose",
+  "verses": [
+    {
+      "text": "反也者 道之動也 弱也者 道之用也"
+    },
+    {
+      "text": "天下之物生於有 有生於无"
+    }
+  ],
+  "sections": {},
+  "annotations": [],
+  "layers": {
+    "heshanggong": [
+      {
+        "id": "heshanggong-1",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 9,
+          "end": 10
+        },
+        "kind": "commentary",
+        "text": "柔弱者，道之所常用，故能常久。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-2",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 17
+        },
+        "kind": "commentary",
+        "text": "天下萬物皆從天地生，天地有形位，故言生於有也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-3",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 8,
+          "end": 9
+        },
+        "kind": "commentary",
+        "text": "天地神明，蜎飛蠕動，皆從道生。道無形，故言生於無也。此言本勝於華，弱勝於強，謙虛勝盈滿也。",
+        "source": "cham"
+      }
+    ],
+    "wangbi": [
+      {
+        "id": "wangbi-1",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 9,
+          "end": 10
+        },
+        "kind": "commentary",
+        "text": "柔弱同通，不可窮極。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-2",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 17
+        },
+        "kind": "commentary",
+        "text": "天下之物皆以有為生，有之所始，以無為本，將欲全有，必反於無也。",
+        "source": "cham"
+      }
+    ]
+  },
+  "annotationLayers": [
+    {
+      "id": "default",
+      "label": "原文",
+      "shortLabel": "文",
+      "contributor": "Laozi",
+      "role": "author",
+      "nature": "annotation",
+      "displayOrder": 0,
+      "enabled": true,
+      "annotations": []
+    },
+    {
+      "id": "heshanggong",
+      "label": "河上公註",
+      "shortLabel": "河",
+      "contributor": "C002",
+      "role": "commentator",
+      "nature": "commentary",
+      "displayOrder": 1,
+      "enabled": true,
+      "annotations": [
+        {
+          "id": "heshanggong-1",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 9,
+            "end": 10
+          },
+          "kind": "commentary",
+          "text": "柔弱者，道之所常用，故能常久。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-2",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 17
+          },
+          "kind": "commentary",
+          "text": "天下萬物皆從天地生，天地有形位，故言生於有也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-3",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 1,
+            "start": 8,
+            "end": 9
+          },
+          "kind": "commentary",
+          "text": "天地神明，蜎飛蠕動，皆從道生。道無形，故言生於無也。此言本勝於華，弱勝於強，謙虛勝盈滿也。",
+          "source": "cham"
+        }
+      ]
+    },
+    {
+      "id": "wangbi",
+      "label": "王弼註",
+      "shortLabel": "王",
+      "contributor": "C001",
+      "role": "commentator",
+      "nature": "commentary",
+      "displayOrder": 2,
+      "enabled": true,
+      "annotations": [
+        {
+          "id": "wangbi-1",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 9,
+            "end": 10
+          },
+          "kind": "commentary",
+          "text": "柔弱同通，不可窮極。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-2",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 17
+          },
+          "kind": "commentary",
+          "text": "天下之物皆以有為生，有之所始，以無為本，將欲全有，必反於無也。",
+          "source": "cham"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "textRef": "laozi-boshu",
+    "relation": "section"
+  }
+}

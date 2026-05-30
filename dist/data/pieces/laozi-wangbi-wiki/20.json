@@ -1,0 +1,482 @@
+{
+  "bookId": "laozi-wangbi-wiki",
+  "num": 20,
+  "title": "第二十章",
+  "author": "老子",
+  "authorId": "Laozi",
+  "dynasty": "周",
+  "era": "周",
+  "genre": "prose",
+  "verses": [
+    {
+      "text": "絕學無憂，唯之與阿，相去幾何？善之與惡，相去若何？人之所畏，不可不畏。"
+    },
+    {
+      "text": "荒兮其未央哉﹗"
+    },
+    {
+      "text": "眾人熙熙，如享太牢，如春登臺。"
+    },
+    {
+      "text": "我獨泊兮其未兆，如嬰兒之未孩；"
+    },
+    {
+      "text": "儽儽兮若無所歸。"
+    },
+    {
+      "text": "眾人皆有餘，而我獨若遺。"
+    },
+    {
+      "text": "我愚人之心也哉﹗"
+    },
+    {
+      "text": "沌沌兮，"
+    },
+    {
+      "text": "俗人昭昭，"
+    },
+    {
+      "text": "我獨昏昏。俗人察察，"
+    },
+    {
+      "text": "我獨悶悶。澹兮其若海，"
+    },
+    {
+      "text": "飂兮若無止。"
+    },
+    {
+      "text": "眾人皆有以，"
+    },
+    {
+      "text": "而我獨頑似鄙。"
+    },
+    {
+      "text": "我獨異於人，而貴食母。"
+    }
+  ],
+  "sections": {},
+  "annotations": [],
+  "layers": {
+    "wangbi": [
+      {
+        "id": "wangbi-1",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 35
+        },
+        "kind": "commentary",
+        "text": "下篇，為學者日益，為道者日損。然則學求益所能，而進其智者也，若將無欲而足，何求於益。不知而中，何求於進。夫燕雀有匹，鳩鴿有仇，寒鄉之民，必知旃裘，自然已足，益之則憂。故續鳧之足，何異截鶴之脛，畏譽而進，何異畏刑。唯阿美惡，相去何若？故人之所畏，吾亦畏焉，未敢恃之以為用也。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-2",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 0,
+          "end": 7
+        },
+        "kind": "commentary",
+        "text": "歎與俗相返之遠也。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-3",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 2,
+          "start": 0,
+          "end": 15
+        },
+        "kind": "commentary",
+        "text": "眾人迷於美進，惑於榮利，欲進心競，故熙熙如享太牢，如春登臺也。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-4",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 3,
+          "start": 0,
+          "end": 15
+        },
+        "kind": "commentary",
+        "text": "言我廓然無形之可名、無兆之可舉，如嬰兒之未能孩也。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-5",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 4,
+          "start": 0,
+          "end": 8
+        },
+        "kind": "commentary",
+        "text": "若無所宅。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-6",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 5,
+          "start": 0,
+          "end": 12
+        },
+        "kind": "commentary",
+        "text": "眾人無不有懷有志，盈溢胸心，故曰，皆有餘也。我獨廓然無為無欲，若遺失之也。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-7",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 6,
+          "start": 0,
+          "end": 8
+        },
+        "kind": "commentary",
+        "text": "絕愚之人，心無所別析，意無所好欲，猶然其情不可覩我頹然若此也。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-8",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 7,
+          "start": 0,
+          "end": 4
+        },
+        "kind": "commentary",
+        "text": "無所別析，不可為明。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-9",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 8,
+          "start": 0,
+          "end": 5
+        },
+        "kind": "commentary",
+        "text": "耀其光也。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-10",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 9,
+          "start": 0,
+          "end": 10
+        },
+        "kind": "commentary",
+        "text": "分別別析也。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-11",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 10,
+          "start": 0,
+          "end": 11
+        },
+        "kind": "commentary",
+        "text": "情不可覩。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-12",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 11,
+          "start": 0,
+          "end": 6
+        },
+        "kind": "commentary",
+        "text": "無所繫縶。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-13",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 12,
+          "start": 0,
+          "end": 6
+        },
+        "kind": "commentary",
+        "text": "以，用也。皆欲有所施用也。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-14",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 13,
+          "start": 0,
+          "end": 7
+        },
+        "kind": "commentary",
+        "text": "無所欲為，悶悶昏昏，若無所識，故曰頑且鄙也。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-15",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 14,
+          "start": 0,
+          "end": 11
+        },
+        "kind": "commentary",
+        "text": "食母，生之本也。人者皆棄生民之本，貴末飾之華，故曰我獨欲異於人。",
+        "source": "cham"
+      }
+    ]
+  },
+  "annotationLayers": [
+    {
+      "id": "default",
+      "label": "原文",
+      "shortLabel": "文",
+      "contributor": "Laozi",
+      "role": "author",
+      "nature": "annotation",
+      "displayOrder": 0,
+      "enabled": true,
+      "annotations": []
+    },
+    {
+      "id": "wangbi",
+      "label": "王弼註",
+      "shortLabel": "王",
+      "contributor": "C001",
+      "role": "commentator",
+      "nature": "commentary",
+      "displayOrder": 1,
+      "enabled": true,
+      "annotations": [
+        {
+          "id": "wangbi-1",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 35
+          },
+          "kind": "commentary",
+          "text": "下篇，為學者日益，為道者日損。然則學求益所能，而進其智者也，若將無欲而足，何求於益。不知而中，何求於進。夫燕雀有匹，鳩鴿有仇，寒鄉之民，必知旃裘，自然已足，益之則憂。故續鳧之足，何異截鶴之脛，畏譽而進，何異畏刑。唯阿美惡，相去何若？故人之所畏，吾亦畏焉，未敢恃之以為用也。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-2",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 1,
+            "start": 0,
+            "end": 7
+          },
+          "kind": "commentary",
+          "text": "歎與俗相返之遠也。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-3",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 2,
+            "start": 0,
+            "end": 15
+          },
+          "kind": "commentary",
+          "text": "眾人迷於美進，惑於榮利，欲進心競，故熙熙如享太牢，如春登臺也。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-4",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 3,
+            "start": 0,
+            "end": 15
+          },
+          "kind": "commentary",
+          "text": "言我廓然無形之可名、無兆之可舉，如嬰兒之未能孩也。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-5",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 4,
+            "start": 0,
+            "end": 8
+          },
+          "kind": "commentary",
+          "text": "若無所宅。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-6",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 5,
+            "start": 0,
+            "end": 12
+          },
+          "kind": "commentary",
+          "text": "眾人無不有懷有志，盈溢胸心，故曰，皆有餘也。我獨廓然無為無欲，若遺失之也。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-7",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 6,
+            "start": 0,
+            "end": 8
+          },
+          "kind": "commentary",
+          "text": "絕愚之人，心無所別析，意無所好欲，猶然其情不可覩我頹然若此也。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-8",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 7,
+            "start": 0,
+            "end": 4
+          },
+          "kind": "commentary",
+          "text": "無所別析，不可為明。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-9",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 8,
+            "start": 0,
+            "end": 5
+          },
+          "kind": "commentary",
+          "text": "耀其光也。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-10",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 9,
+            "start": 0,
+            "end": 10
+          },
+          "kind": "commentary",
+          "text": "分別別析也。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-11",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 10,
+            "start": 0,
+            "end": 11
+          },
+          "kind": "commentary",
+          "text": "情不可覩。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-12",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 11,
+            "start": 0,
+            "end": 6
+          },
+          "kind": "commentary",
+          "text": "無所繫縶。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-13",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 12,
+            "start": 0,
+            "end": 6
+          },
+          "kind": "commentary",
+          "text": "以，用也。皆欲有所施用也。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-14",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 13,
+            "start": 0,
+            "end": 7
+          },
+          "kind": "commentary",
+          "text": "無所欲為，悶悶昏昏，若無所識，故曰頑且鄙也。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-15",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 14,
+            "start": 0,
+            "end": 11
+          },
+          "kind": "commentary",
+          "text": "食母，生之本也。人者皆棄生民之本，貴末飾之華，故曰我獨欲異於人。",
+          "source": "cham"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "textRef": "laozi-wangbi-wiki",
+    "relation": "section"
+  }
+}

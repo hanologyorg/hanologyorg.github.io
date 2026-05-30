@@ -1,0 +1,127 @@
+{
+  "bookId": "primary",
+  "num": 46,
+  "title": "江村即事",
+  "author": "司空曙",
+  "authorId": "A022",
+  "dynasty": "唐",
+  "era": "唐",
+  "eraCode": "24",
+  "genre": "poetry",
+  "verses": [
+    {
+      "text": "釣罷歸來不繫船，江村月落正堪眠。"
+    },
+    {
+      "text": "縱然一夜風吹去，只在蘆花淺水邊。"
+    }
+  ],
+  "sections": {
+    "analysis": "這首詩寫江村眼前事物，但詩人並沒有鋪寫江村景色，而是通過江上釣魚者的行為及心理活動的描寫，營造恬靜優美的意境。\n\n首句「不繫船」三字為全詩關鍵，以下詩句全從這三個字衍生出來。第二句點明「釣罷歸來」的時間、地點及人物的行動、心情。時已夜深，月亮落下去了，人也該睡覺了，因此連船也懶得繫住。但是，不繫船能安然入睡嗎？這就引出了下文：且不說夜裏不一定起風，即使起風，小船不過被吹到那長滿蘆花的淺水邊罷了，那又有甚麼關係呢？這裏，詩人並沒有刻意描寫幽謐美好的環境，然而從釣魚者悠閒的生活情趣，江村寧靜、優美、和諧的情景自可想像。「不繫船」也暗示了詩人不受束縛，自由自在的心情，船飄到哪裏也可以，就隨遇而安罷。\n\n詩人善於抓住生活中的細節來進行饒有情趣的描寫。詩在申明「不繫船」的原因時，不是直筆到底，一覽無餘，而是巧用「縱然」、「只在」等關聯詞，以退為進，深入一步，使詩意更見曲折。詩的語言真率自然，和富有詩情畫意的幽美意境配合得十分和諧。",
+    "preparation": "1. 蒐集與月夜有關的詩歌，跟同學讀一讀。\n\n2. 理解本詩，聆聽誦讀錄音，投入感情朗讀詩歌，並由同學互評。 https://edb.gov.hk/attachment/tc/curriculum-development/kla/chi-edu/resources/primary/lang/jilei/046_jilei_shi(cantonese).mp3",
+    "think_questions": "1. 外出回家後，你會把鞋子放回鞋櫃裏嗎？為甚麼？\n\n2. 若你離開學校後才發現錢包遺留在課室裏，你會有何感受？你會擔心別人把它拿走嗎？為甚麼？\n\n3. 若你在街道上拾獲別人遺失的物品，你會如何處理？",
+    "annotations": "1.江村：臨江的村莊。\n2.江：當前的情物。以當前的事物為題材的詩，就是「即事詩」。\n3.正堪：正好。\n4.縱然：即使。\n5.蘆花：蘆葦的花。\n蘆葦：草本植物，生長於池沼、河岸或道旁，夏秋花開。。草本植物，生長於池沼、河岸或道旁，夏秋花開。"
+  },
+  "annotations": [
+    {
+      "id": "46-1",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 8,
+        "end": 10
+      },
+      "kind": "semantic",
+      "text": "臨江的村莊。",
+      "source": "cham"
+    },
+    {
+      "id": "46-2",
+      "range": {
+        "type": "range",
+        "scope": "title",
+        "start": 0,
+        "end": 1
+      },
+      "kind": "semantic",
+      "text": "當前的情物。以當前的事物為題材的詩，就是「即事詩」。",
+      "source": "cham"
+    },
+    {
+      "id": "46-3",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 12,
+        "end": 14
+      },
+      "kind": "semantic",
+      "text": "正好。",
+      "source": "cham"
+    },
+    {
+      "id": "46-4",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 1,
+        "start": 0,
+        "end": 2
+      },
+      "kind": "semantic",
+      "text": "即使。",
+      "source": "cham"
+    },
+    {
+      "id": "46-5",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 1,
+        "start": 10,
+        "end": 12
+      },
+      "kind": "semantic",
+      "text": "蘆葦的花。\n蘆葦：草本植物，生長於池沼、河岸或道旁，夏秋花開。",
+      "source": "cham"
+    },
+    {
+      "id": "46-6",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 1,
+        "start": 10,
+        "end": 12
+      },
+      "kind": "semantic",
+      "text": "草本植物，生長於池沼、河岸或道旁，夏秋花開。",
+      "source": "cham"
+    }
+  ],
+  "structuredSections": [
+    {
+      "key": "analysis",
+      "title": "賞析",
+      "filename": "analysis.md",
+      "body": "這首詩寫江村眼前事物，但詩人並沒有鋪寫江村景色，而是通過江上釣魚者的行為及心理活動的描寫，營造恬靜優美的意境。\n\n首句「不繫船」三字為全詩關鍵，以下詩句全從這三個字衍生出來。第二句點明「釣罷歸來」的時間、地點及人物的行動、心情。時已夜深，月亮落下去了，人也該睡覺了，因此連船也懶得繫住。但是，不繫船能安然入睡嗎？這就引出了下文：且不說夜裏不一定起風，即使起風，小船不過被吹到那長滿蘆花的淺水邊罷了，那又有甚麼關係呢？這裏，詩人並沒有刻意描寫幽謐美好的環境，然而從釣魚者悠閒的生活情趣，江村寧靜、優美、和諧的情景自可想像。「不繫船」也暗示了詩人不受束縛，自由自在的心情，船飄到哪裏也可以，就隨遇而安罷。\n\n詩人善於抓住生活中的細節來進行饒有情趣的描寫。詩在申明「不繫船」的原因時，不是直筆到底，一覽無餘，而是巧用「縱然」、「只在」等關聯詞，以退為進，深入一步，使詩意更見曲折。詩的語言真率自然，和富有詩情畫意的幽美意境配合得十分和諧。",
+      "order": 3
+    },
+    {
+      "key": "think_questions",
+      "title": "思考問題",
+      "filename": "think-questions.md",
+      "body": "1. 外出回家後，你會把鞋子放回鞋櫃裏嗎？為甚麼？\n\n2. 若你離開學校後才發現錢包遺留在課室裏，你會有何感受？你會擔心別人把它拿走嗎？為甚麼？\n\n3. 若你在街道上拾獲別人遺失的物品，你會如何處理？",
+      "order": 5
+    },
+    {
+      "key": "preparation",
+      "title": "教學準備",
+      "filename": "preparation.md",
+      "body": "1. 蒐集與月夜有關的詩歌，跟同學讀一讀。\n\n2. 理解本詩，聆聽誦讀錄音，投入感情朗讀詩歌，並由同學互評。 https://edb.gov.hk/attachment/tc/curriculum-development/kla/chi-edu/resources/primary/lang/jilei/046_jilei_shi(cantonese).mp3",
+      "order": 6
+    }
+  ]
+}

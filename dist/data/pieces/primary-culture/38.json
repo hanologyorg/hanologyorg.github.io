@@ -1,0 +1,306 @@
+{
+  "bookId": "primary-culture",
+  "num": 38,
+  "title": "朱子家訓（節錄）",
+  "author": "朱柏廬",
+  "authorId": "A171",
+  "dynasty": "清",
+  "era": "清",
+  "eraCode": "37",
+  "genre": "prose",
+  "verses": [
+    {
+      "text": "黎明即起，灑掃庭除，要內外整潔。既昏便息，關鎖門戶，必親自檢點。一粥一飯當思來處不易；半絲半縷，恒念物力維艱。宜未雨而綢繆，毋臨渴而掘井。自奉必須儉約，宴客切勿留連。器具質而潔，瓦缶勝金玉。飲食約而精，園蔬愈珍饈。"
+    }
+  ],
+  "sections": {
+    "analysis": "本文節錄自《朱子家訓》。《朱子家訓》是一部治家規範書，清代學者朱柏廬以儒家的「修身」、「齊家」為宗旨，教人立身處世、治家教子的人情道理，從中可以探尋傳統的家庭禮教文化，並了解傳統士人的做人處世、修身養心之道。\n\n每天清早，天還沒亮就起來，打掃庭院，務必使裏裏外外整齊潔淨。黃昏已過便休息，關好門窗上好鎖，一定要親自檢查一遍。我們吃飯喝粥的時候，應當想到稻米得來不易；穿戴整齊的時候，應當想到衣物製作過程之中，用了多少人力物力，這些物質實在得來不易。凡事要做好準備，防患未然，不要事到臨頭才想辦法。日常生活的支出，必須儉樸節約，宴請客人也要有所節制，不要通宵達旦。家裏的一切物件器皿質樸而潔淨就可以了，一個瓦罐子比貴重的器物更實用。飲食簡單而精純，蔬菜也許比貴重珍奇的食品更有營養。\n\n朱柏廬透過這篇短文，循循善誘地教導子女具體的日常生活細節，提出人要安分守己、勤儉持家、杜絕浪費，亦須講究衞生、注意飲食，由生活出發，認真對待每個生活細節，以儉樸作為做人處世、修身養性的基本。",
+    "annotations": "1.黎明：黑夜與白晝交接的一段時間。\n2.即：就，立刻。\n3.灑掃庭除：庭前階下，庭院。\n4.既：已經。\n5.關鎖門戶：房屋的出入處。\n6.檢點：細心察看。\n7.半絲半縷：此處泛指衣物。半：極言其少。絲縷：絲線。\n8.恒念：經常想到。\n9.物力：物資。\n10.維：亦作「唯」、「惟」，語助詞，用於句首或句中。\n11.未雨而綢繆：指凡事要預先準備，以防患於未然。出於《詩經‧豳風‧鴟鴞》，其中的「迨天之未雨，徹彼桑土，綢繆牖戶」，借一隻鳥的口吻說：趁天還未下雨，去取來桑樹的根鬚，將巢穴的縫隙緊密地纏繞起來，以備陰雨之患。\n12.臨渴而掘井：到了口渴的時候才挖井取水，比喻事到臨頭才想辦法。\n13.自奉：自己的生活消費。\n14.留連：捨不得離開。\n15.質：樸素。\n16.瓦缶：○粵否；fɐu2；○普fŏu。一種瓦製的容器，小口大腹，俗稱瓦罐。\n17.約而精：簡單而品質精純。\n18.愈：勝過。\n19.珍饈：珍貴的食物。"
+  },
+  "annotations": [
+    {
+      "id": "38-1",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 0,
+        "end": 2
+      },
+      "kind": "semantic",
+      "text": "黑夜與白晝交接的一段時間。",
+      "source": "cham"
+    },
+    {
+      "id": "38-2",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 2,
+        "end": 3
+      },
+      "kind": "semantic",
+      "text": "就，立刻。",
+      "source": "cham"
+    },
+    {
+      "id": "38-3",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 5,
+        "end": 9
+      },
+      "kind": "semantic",
+      "text": "庭前階下，庭院。",
+      "source": "cham"
+    },
+    {
+      "id": "38-4",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 16,
+        "end": 17
+      },
+      "kind": "semantic",
+      "text": "已經。",
+      "source": "cham"
+    },
+    {
+      "id": "38-5",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 21,
+        "end": 25
+      },
+      "kind": "semantic",
+      "text": "房屋的出入處。",
+      "source": "cham"
+    },
+    {
+      "id": "38-6",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 29,
+        "end": 31
+      },
+      "kind": "semantic",
+      "text": "細心察看。",
+      "source": "cham"
+    },
+    {
+      "id": "38-7",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 43,
+        "end": 47
+      },
+      "kind": "semantic",
+      "text": "此處泛指衣物。半：極言其少。絲縷：絲線。",
+      "source": "cham"
+    },
+    {
+      "id": "38-8",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 48,
+        "end": 50
+      },
+      "kind": "semantic",
+      "text": "經常想到。",
+      "source": "cham"
+    },
+    {
+      "id": "38-9",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 50,
+        "end": 52
+      },
+      "kind": "semantic",
+      "text": "物資。",
+      "source": "cham"
+    },
+    {
+      "id": "38-10",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 52,
+        "end": 53
+      },
+      "kind": "semantic",
+      "text": "亦作「唯」、「惟」，語助詞，用於句首或句中。",
+      "source": "cham"
+    },
+    {
+      "id": "38-11",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 56,
+        "end": 61
+      },
+      "kind": "semantic",
+      "text": "指凡事要預先準備，以防患於未然。出於《詩經‧豳風‧鴟鴞》，其中的「迨天之未雨，徹彼桑土，綢繆牖戶」，借一隻鳥的口吻說：趁天還未下雨，去取來桑樹的根鬚，將巢穴的縫隙緊密地纏繞起來，以備陰雨之患。",
+      "source": "cham"
+    },
+    {
+      "id": "38-12",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 63,
+        "end": 68
+      },
+      "kind": "semantic",
+      "text": "到了口渴的時候才挖井取水，比喻事到臨頭才想辦法。",
+      "source": "cham"
+    },
+    {
+      "id": "38-13",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 69,
+        "end": 71
+      },
+      "kind": "semantic",
+      "text": "自己的生活消費。",
+      "source": "cham"
+    },
+    {
+      "id": "38-14",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 80,
+        "end": 82
+      },
+      "kind": "semantic",
+      "text": "捨不得離開。",
+      "source": "cham"
+    },
+    {
+      "id": "38-15",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 85,
+        "end": 86
+      },
+      "kind": "semantic",
+      "text": "樸素。",
+      "source": "cham"
+    },
+    {
+      "id": "38-16",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 89,
+        "end": 91
+      },
+      "kind": "semantic",
+      "text": "一種瓦製的容器，小口大腹，俗稱瓦罐。",
+      "source": "cham"
+    },
+    {
+      "id": "38-17",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 89,
+        "end": 91
+      },
+      "kind": "pronunciation",
+      "lang": "yue",
+      "text": "否；fɐu2",
+      "source": "cham"
+    },
+    {
+      "id": "38-18",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 89,
+        "end": 91
+      },
+      "kind": "pronunciation",
+      "lang": "cmn",
+      "text": "fŏu",
+      "source": "cham"
+    },
+    {
+      "id": "38-19",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 97,
+        "end": 100
+      },
+      "kind": "semantic",
+      "text": "簡單而品質精純。",
+      "source": "cham"
+    },
+    {
+      "id": "38-20",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 103,
+        "end": 104
+      },
+      "kind": "semantic",
+      "text": "勝過。",
+      "source": "cham"
+    },
+    {
+      "id": "38-21",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 104,
+        "end": 106
+      },
+      "kind": "semantic",
+      "text": "珍貴的食物。",
+      "source": "cham"
+    }
+  ],
+  "structuredSections": [
+    {
+      "key": "analysis",
+      "title": "賞析",
+      "filename": "analysis.md",
+      "body": "本文節錄自《朱子家訓》。《朱子家訓》是一部治家規範書，清代學者朱柏廬以儒家的「修身」、「齊家」為宗旨，教人立身處世、治家教子的人情道理，從中可以探尋傳統的家庭禮教文化，並了解傳統士人的做人處世、修身養心之道。\n\n每天清早，天還沒亮就起來，打掃庭院，務必使裏裏外外整齊潔淨。黃昏已過便休息，關好門窗上好鎖，一定要親自檢查一遍。我們吃飯喝粥的時候，應當想到稻米得來不易；穿戴整齊的時候，應當想到衣物製作過程之中，用了多少人力物力，這些物質實在得來不易。凡事要做好準備，防患未然，不要事到臨頭才想辦法。日常生活的支出，必須儉樸節約，宴請客人也要有所節制，不要通宵達旦。家裏的一切物件器皿質樸而潔淨就可以了，一個瓦罐子比貴重的器物更實用。飲食簡單而精純，蔬菜也許比貴重珍奇的食品更有營養。\n\n朱柏廬透過這篇短文，循循善誘地教導子女具體的日常生活細節，提出人要安分守己、勤儉持家、杜絕浪費，亦須講究衞生、注意飲食，由生活出發，認真對待每個生活細節，以儉樸作為做人處世、修身養性的基本。",
+      "order": 3
+    }
+  ]
+}

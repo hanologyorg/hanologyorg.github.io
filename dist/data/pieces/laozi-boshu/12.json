@@ -1,0 +1,353 @@
+{
+  "bookId": "laozi-boshu",
+  "num": 12,
+  "title": "第十二章（為腹）",
+  "author": "老子",
+  "authorId": "Laozi",
+  "dynasty": "周",
+  "era": "周",
+  "genre": "prose",
+  "verses": [
+    {
+      "text": "五色使人目盲 馳騁田臘使人心發狂 難得之貨使人之行妨 五味使人之口爽 五音使人之耳聾"
+    },
+    {
+      "text": "是以聖人之治也 為腹不為目 故去彼取此"
+    }
+  ],
+  "sections": {},
+  "annotations": [],
+  "layers": {
+    "heshanggong": [
+      {
+        "id": "heshanggong-1",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 42
+        },
+        "kind": "commentary",
+        "text": "貪淫好色，則傷精失明也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-2",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 42
+        },
+        "kind": "commentary",
+        "text": "好聽五音，則和氣去心，不能聽無聲之聲。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-3",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 42
+        },
+        "kind": "commentary",
+        "text": "爽，亡也。人嗜於五味於口，則口亡，言失於道也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-4",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 42
+        },
+        "kind": "commentary",
+        "text": "人精神好安靜，馳騁呼吸，精神散亡，故發狂也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-5",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 42
+        },
+        "kind": "commentary",
+        "text": "妨，傷也。難得之貨，謂金銀珠玉，心貪意欲，不知饜足，則行傷身辱也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-6",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 42
+        },
+        "kind": "commentary",
+        "text": "守五性，去六情，節志氣，養神明。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-7",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 10,
+          "end": 11
+        },
+        "kind": "commentary",
+        "text": "目不妄視，妄視洩精於外。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-8",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 14,
+          "end": 15
+        },
+        "kind": "commentary",
+        "text": "去彼目之妄視，取此腹之養性。",
+        "source": "cham"
+      }
+    ],
+    "wangbi": [
+      {
+        "id": "wangbi-1",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 42
+        },
+        "kind": "commentary",
+        "text": "爽，差失也，失口之用，故謂之爽。夫耳目口心，皆順其性也，不以順性命，反以傷自然，故曰盲、聾、爽、狂也。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-2",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 42
+        },
+        "kind": "commentary",
+        "text": "難得之貨，塞人正路，故令人行妨也。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-3",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 42
+        },
+        "kind": "commentary",
+        "text": "為腹者以物養己，為目者以物役己，故聖人不為目也。",
+        "source": "cham"
+      }
+    ]
+  },
+  "annotationLayers": [
+    {
+      "id": "default",
+      "label": "原文",
+      "shortLabel": "文",
+      "contributor": "Laozi",
+      "role": "author",
+      "nature": "annotation",
+      "displayOrder": 0,
+      "enabled": true,
+      "annotations": []
+    },
+    {
+      "id": "heshanggong",
+      "label": "河上公註",
+      "shortLabel": "河",
+      "contributor": "C002",
+      "role": "commentator",
+      "nature": "commentary",
+      "displayOrder": 1,
+      "enabled": true,
+      "annotations": [
+        {
+          "id": "heshanggong-1",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 42
+          },
+          "kind": "commentary",
+          "text": "貪淫好色，則傷精失明也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-2",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 42
+          },
+          "kind": "commentary",
+          "text": "好聽五音，則和氣去心，不能聽無聲之聲。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-3",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 42
+          },
+          "kind": "commentary",
+          "text": "爽，亡也。人嗜於五味於口，則口亡，言失於道也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-4",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 42
+          },
+          "kind": "commentary",
+          "text": "人精神好安靜，馳騁呼吸，精神散亡，故發狂也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-5",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 42
+          },
+          "kind": "commentary",
+          "text": "妨，傷也。難得之貨，謂金銀珠玉，心貪意欲，不知饜足，則行傷身辱也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-6",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 42
+          },
+          "kind": "commentary",
+          "text": "守五性，去六情，節志氣，養神明。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-7",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 1,
+            "start": 10,
+            "end": 11
+          },
+          "kind": "commentary",
+          "text": "目不妄視，妄視洩精於外。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-8",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 1,
+            "start": 14,
+            "end": 15
+          },
+          "kind": "commentary",
+          "text": "去彼目之妄視，取此腹之養性。",
+          "source": "cham"
+        }
+      ]
+    },
+    {
+      "id": "wangbi",
+      "label": "王弼註",
+      "shortLabel": "王",
+      "contributor": "C001",
+      "role": "commentator",
+      "nature": "commentary",
+      "displayOrder": 2,
+      "enabled": true,
+      "annotations": [
+        {
+          "id": "wangbi-1",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 42
+          },
+          "kind": "commentary",
+          "text": "爽，差失也，失口之用，故謂之爽。夫耳目口心，皆順其性也，不以順性命，反以傷自然，故曰盲、聾、爽、狂也。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-2",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 42
+          },
+          "kind": "commentary",
+          "text": "難得之貨，塞人正路，故令人行妨也。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-3",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 42
+          },
+          "kind": "commentary",
+          "text": "為腹者以物養己，為目者以物役己，故聖人不為目也。",
+          "source": "cham"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "textRef": "laozi-boshu",
+    "relation": "section"
+  }
+}

@@ -1,0 +1,569 @@
+{
+  "bookId": "laozi-heshanggong-wiki",
+  "num": 16,
+  "title": "第十六章（歸根）",
+  "author": "老子",
+  "authorId": "Laozi",
+  "dynasty": "周",
+  "era": "周",
+  "genre": "prose",
+  "verses": [
+    {
+      "text": "致虛極，"
+    },
+    {
+      "text": "守靜篤，"
+    },
+    {
+      "text": "萬物並作，"
+    },
+    {
+      "text": "吾以觀其復。"
+    },
+    {
+      "text": "夫物芸芸，"
+    },
+    {
+      "text": "各復歸其根，"
+    },
+    {
+      "text": "歸根曰靜，"
+    },
+    {
+      "text": "是謂覆命。"
+    },
+    {
+      "text": "覆命曰常。"
+    },
+    {
+      "text": "知常曰明；"
+    },
+    {
+      "text": "不知常，妄作凶。"
+    },
+    {
+      "text": "知常容，"
+    },
+    {
+      "text": "容乃公，"
+    },
+    {
+      "text": "公乃王，"
+    },
+    {
+      "text": "王乃天，"
+    },
+    {
+      "text": "天乃道，"
+    },
+    {
+      "text": "道乃久。"
+    },
+    {
+      "text": "沒身不殆。"
+    }
+  ],
+  "sections": {},
+  "annotations": [],
+  "layers": {
+    "heshanggong": [
+      {
+        "id": "heshanggong-1",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 4
+        },
+        "kind": "commentary",
+        "text": "得道之人，捐情去欲，五內清靜，至於虛極。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-2",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 0,
+          "end": 4
+        },
+        "kind": "commentary",
+        "text": "守清靜，行篤厚。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-3",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 2,
+          "start": 0,
+          "end": 5
+        },
+        "kind": "commentary",
+        "text": "作，生也。萬物並生也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-4",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 3,
+          "start": 0,
+          "end": 6
+        },
+        "kind": "commentary",
+        "text": "言吾以觀見萬物無不皆歸其本也。人當念重其本也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-5",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 4,
+          "start": 0,
+          "end": 5
+        },
+        "kind": "commentary",
+        "text": "芸芸者，華葉盛也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-6",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 5,
+          "start": 0,
+          "end": 6
+        },
+        "kind": "commentary",
+        "text": "言萬物無不枯落，各復反其根而更生也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-7",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 6,
+          "start": 0,
+          "end": 5
+        },
+        "kind": "commentary",
+        "text": "靜謂根也。根安靜柔弱，謙卑處下，故不復死也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-8",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 7,
+          "start": 0,
+          "end": 5
+        },
+        "kind": "commentary",
+        "text": "言安靜者是為復還性命，使不死也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-9",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 8,
+          "start": 0,
+          "end": 5
+        },
+        "kind": "commentary",
+        "text": "覆命使不死，乃道之所常行也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-10",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 9,
+          "start": 0,
+          "end": 5
+        },
+        "kind": "commentary",
+        "text": "能知道之所常行，則為明。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-11",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 10,
+          "start": 0,
+          "end": 8
+        },
+        "kind": "commentary",
+        "text": "不知道之所常行，妄作巧詐，則失神明，故凶也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-12",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 11,
+          "start": 0,
+          "end": 4
+        },
+        "kind": "commentary",
+        "text": "能知道之所常行，去情忘欲，無所不包容也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-13",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 12,
+          "start": 0,
+          "end": 4
+        },
+        "kind": "commentary",
+        "text": "無所不包容，則公正無私，眾邪莫當。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-14",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 13,
+          "start": 0,
+          "end": 4
+        },
+        "kind": "commentary",
+        "text": "公正無私，可以為天下王。治身正則形一，神明千萬，共湊其躬也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-15",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 14,
+          "start": 0,
+          "end": 4
+        },
+        "kind": "commentary",
+        "text": "能王，德合神明，乃與天通。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-16",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 15,
+          "start": 0,
+          "end": 4
+        },
+        "kind": "commentary",
+        "text": "德與天通，則與道合同也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-17",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 16,
+          "start": 0,
+          "end": 4
+        },
+        "kind": "commentary",
+        "text": "與道合同，乃能長久。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-18",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 17,
+          "start": 0,
+          "end": 5
+        },
+        "kind": "commentary",
+        "text": "能公能王，通天合道，四者純備，道德弘遠，無殃無咎，乃與天地俱沒，不危殆也。",
+        "source": "cham"
+      }
+    ]
+  },
+  "annotationLayers": [
+    {
+      "id": "default",
+      "label": "原文",
+      "shortLabel": "文",
+      "contributor": "Laozi",
+      "role": "author",
+      "nature": "annotation",
+      "displayOrder": 0,
+      "enabled": true,
+      "annotations": []
+    },
+    {
+      "id": "heshanggong",
+      "label": "河上公註",
+      "shortLabel": "河",
+      "contributor": "C002",
+      "role": "commentator",
+      "nature": "commentary",
+      "displayOrder": 1,
+      "enabled": true,
+      "annotations": [
+        {
+          "id": "heshanggong-1",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 4
+          },
+          "kind": "commentary",
+          "text": "得道之人，捐情去欲，五內清靜，至於虛極。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-2",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 1,
+            "start": 0,
+            "end": 4
+          },
+          "kind": "commentary",
+          "text": "守清靜，行篤厚。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-3",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 2,
+            "start": 0,
+            "end": 5
+          },
+          "kind": "commentary",
+          "text": "作，生也。萬物並生也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-4",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 3,
+            "start": 0,
+            "end": 6
+          },
+          "kind": "commentary",
+          "text": "言吾以觀見萬物無不皆歸其本也。人當念重其本也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-5",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 4,
+            "start": 0,
+            "end": 5
+          },
+          "kind": "commentary",
+          "text": "芸芸者，華葉盛也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-6",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 5,
+            "start": 0,
+            "end": 6
+          },
+          "kind": "commentary",
+          "text": "言萬物無不枯落，各復反其根而更生也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-7",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 6,
+            "start": 0,
+            "end": 5
+          },
+          "kind": "commentary",
+          "text": "靜謂根也。根安靜柔弱，謙卑處下，故不復死也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-8",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 7,
+            "start": 0,
+            "end": 5
+          },
+          "kind": "commentary",
+          "text": "言安靜者是為復還性命，使不死也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-9",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 8,
+            "start": 0,
+            "end": 5
+          },
+          "kind": "commentary",
+          "text": "覆命使不死，乃道之所常行也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-10",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 9,
+            "start": 0,
+            "end": 5
+          },
+          "kind": "commentary",
+          "text": "能知道之所常行，則為明。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-11",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 10,
+            "start": 0,
+            "end": 8
+          },
+          "kind": "commentary",
+          "text": "不知道之所常行，妄作巧詐，則失神明，故凶也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-12",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 11,
+            "start": 0,
+            "end": 4
+          },
+          "kind": "commentary",
+          "text": "能知道之所常行，去情忘欲，無所不包容也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-13",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 12,
+            "start": 0,
+            "end": 4
+          },
+          "kind": "commentary",
+          "text": "無所不包容，則公正無私，眾邪莫當。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-14",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 13,
+            "start": 0,
+            "end": 4
+          },
+          "kind": "commentary",
+          "text": "公正無私，可以為天下王。治身正則形一，神明千萬，共湊其躬也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-15",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 14,
+            "start": 0,
+            "end": 4
+          },
+          "kind": "commentary",
+          "text": "能王，德合神明，乃與天通。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-16",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 15,
+            "start": 0,
+            "end": 4
+          },
+          "kind": "commentary",
+          "text": "德與天通，則與道合同也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-17",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 16,
+            "start": 0,
+            "end": 4
+          },
+          "kind": "commentary",
+          "text": "與道合同，乃能長久。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-18",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 17,
+            "start": 0,
+            "end": 5
+          },
+          "kind": "commentary",
+          "text": "能公能王，通天合道，四者純備，道德弘遠，無殃無咎，乃與天地俱沒，不危殆也。",
+          "source": "cham"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "textRef": "laozi-heshanggong-wiki",
+    "relation": "section"
+  }
+}

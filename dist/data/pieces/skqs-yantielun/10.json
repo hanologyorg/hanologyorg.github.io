@@ -1,0 +1,732 @@
+{
+  "bookId": "skqs-yantielun",
+  "num": 10,
+  "title": "刑徳第五十五",
+  "author": "桓寬",
+  "authorId": "桓寬",
+  "dynasty": "漢",
+  "era": "漢",
+  "eraCode": "07",
+  "genre": "prose",
+  "verses": [
+    {
+      "text": "大夫曰令者所以教民也法者所以督姦也令嚴而民慎法設而姦禁網疏則獸失法疏則罪漏罪漏則民放佚而輕犯禁故禁下必法夫徼倖誅誡蹠蹻不犯是以古者作五刑刻肌膚而民不踰矩"
+    },
+    {
+      "text": "文學曰道徳衆人不知所由法令衆人不知所辟故王者之制法昭乎如日月故民不迷曠乎若大路故民不惑幽隠逺方折手知足室女童婦咸知所辟是以法令不犯而獄犴不用也昔秦法繁於秋荼而網密於凝脂然而上下相遁姦偽萌生有司法之若救爛撲焦不能禁非網疏而罪漏禮義廢而刑罰任也方今律令百有餘篇文章繁罪名重郡國用之疑惑或淺或深自吏明習者不知所處而况愚民乎此斷獄所以滋衆而民犯禁也詩云宜犴宜獄握粟出卜自何能榖刺刑法繁也親服之屬甚衆上附下附而服不過五五刑之屬三千上殺下殺而罪不過五故治民之道務篤其教而已"
+    },
+    {
+      "text": "大夫曰文學言王者立法曠若大路今馳道不小也而民公犯之以其罰罪之輕也千仞之髙人不輕凌千鈞之重人不輕舉商君刑棄灰於道而秦民治故盗馬者死盗牛者加所以重本而絶輕疾之資也武兵名食所以佐邉而重武備也盗傷與殺同罪所以累其心而責其意也猶魯以楚師伐齊而春秋惡之故輕之為重淺之為深有縁而然法之㣲者固非衆人之所知也"
+    },
+    {
+      "text": "文學曰詩云周道如砥其直如矢言其易也君子所履小人所視言其明也故徳明而易從法約而易行今馳道經營陵陸紆周天下是以萬里為民穽也罻羅張而縣其谷辟䧟設而當其蹊繳弋飾而加其上能勿離乎聚其所欲開其所利仁義陵遲能勿踰乎故其末途至於攻城入邑損府庫之金盗宗廟之器豈特千仞之髙千鈞之重哉管子曰四維不張雖臯陶不能為士故徳教廢而詐偽行禮義壊而姦邪興言無仁義也仁者愛之效也義者事之宜也故君子愛人以及物治近以及逺傳曰凡生之物莫貴於人人主之所貴莫重於人故天之生萬物以奉人也主愛人以順天也聞以六畜禽獸養人未聞以所養害人者也魯廐焚孔子罷朝問人不問馬賤畜而重人也今盗馬者罪死盗牛者加乘車馬馳行道中吏舉苛而不止以為盗馬而罪亦死今傷人持其刀劒而亡亦可謂盗武庫兵而殺之乎人主立法而民犯之亦可以為逆面輕主約乎深之可以死輕之可以免非法禁之意也法者緣人情而制非設罪以陷人也故春秋之治獄論心定罪志善而違於法者免志惡而合於法者誅念傷民未有所害志不甚惡而合於法者謂盗而傷人者耶将執法者過耶何於人心不厭也古者傷人有創者刑盗有贓者罰殺人者死今取人兵刃以傷人罪與殺人同得無非其至意與大夫俛仰未應對"
+    },
+    {
+      "text": "御史大夫曰執法者國之轡銜刑罰者國之維檝故轡銜不飭雖王良不能以致逺維檝不設雖良工不能以絶水韓子曰疾有國者不能明其法勢御其臣下富國彊兵以制敵禦難惑於愚儒之文詞以疑賢士之謀舉浮淫之蠧加之功實之上而欲國之治猶釋階而欲登髙無銜橛而禦駻馬也今刑法設備而民猶犯之况無法乎其亂必也"
+    },
+    {
+      "text": "文學曰轡銜者御之具也得良工而調法勢者治之具也得賢人而化執轡非其人則馬奔馳執舳非其人則舩覆傷昔吴使宰嚭持舳而破其舩秦使趙髙執轡而覆其車今廢仁義之術而任刑名之徒則復吴秦之事也夫為君者法三王為相者法周公為術者法孔子此百世不易之道也韓非非先王而不遵舍正令而不從卒蹈陷穽身幽囚客死於秦本夫不通大道而小辯斯足以害其身而已"
+    },
+    {
+      "text": "鹽鐡論卷十一"
+    },
+    {
+      "text": "<子部,儒家類,鹽鐵論>"
+    }
+  ],
+  "sections": {},
+  "annotations": [],
+  "layers": {
+    "commentary": [
+      {
+        "id": "commentary-1",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 46
+        },
+        "kind": "semantic",
+        "text": "音逸",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-2",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 46,
+          "end": 56
+        },
+        "kind": "semantic",
+        "text": "音扶",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-3",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 56,
+          "end": 57
+        },
+        "kind": "semantic",
+        "text": "音交",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-4",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 57,
+          "end": 61
+        },
+        "kind": "semantic",
+        "text": "音質",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-5",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 61,
+          "end": 62
+        },
+        "kind": "semantic",
+        "text": "音脚",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-6",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 62,
+          "end": 76
+        },
+        "kind": "semantic",
+        "text": "公孫鞅曰行刑重其輕者輕者不至重者不來是謂以刑去刑也韓宣子曰董安于為趙上地守行石阜山見深澗峭如墻深百仭問其鄉左右曰人嘗有入此者乎曰無有有嬰兒狂聾人入此乎曰無有有牛馬犬彘入此乎曰無有安于嘆曰吾能治矣使吾法之無改猶入澗之必死則民莫之犯也",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-7",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 0,
+          "end": 22
+        },
+        "kind": "semantic",
+        "text": "音避",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-8",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 22,
+          "end": 62
+        },
+        "kind": "semantic",
+        "text": "音避",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-9",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 62,
+          "end": 71
+        },
+        "kind": "semantic",
+        "text": "音寒",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-10",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 71,
+          "end": 123
+        },
+        "kind": "semantic",
+        "text": "刑法志曰秦用商鞅連相坐之法造參夷之誅増加肉刑大辟有鑿顛抽脅鑊亨之刑至於秦始皇兼吞戰國遂毁先王之法滅禮誼之官専任刑罰躬操文墨晝斷獄夜理書自程决事日縣石之一而姦邪並生赭衣塞路囹圄成市天下愁怨潰而叛之泰族訓曰張瑟者小弦急而大弦緩立事者賤者勞而貴者逸舜為天子彈五弦之琴歌南風之詩而天下治周公殽臑不撤於前鐘鼓不解於懸而四夷服趙政晝决獄而夜理書御史冠盖接於郡縣覆稽趨畱戍五嶺以備越築修城以守胡然姦邪萌生盗賊羣居事愈煩而亂愈生故法者治之具也而非所以為治也而猶弓矢中之具而非所以中也",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-11",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 123,
+          "end": 173
+        },
+        "kind": "semantic",
+        "text": "刑法志曰孝武即位外事四夷之功内盛耳目之好徴發煩數百姓貧耗窮民犯法酷吏擊斷姦軌不勝於是招進張湯趙禹之屬條定法令作見知故縱監臨部主之法緩深故之罪急縱出之誅其後姦軌巧法轉相比况禁罔寖密律令凡三百五十九章大辟四百九條千八百八十二事死罪决事比萬三千四百七十二事文書盈於几閣典者不能徧睹是以郡國承用者駮或罪同而論異姦吏因縁為市所欲活則傅生議所欲陷則予死比議者咸寃傷之漢元帝曰夫法令者所以抑暴扶弱欲其難犯而易避也今律令煩多而不約自典文者不能分明而欲羅元元之不逮斯豈刑中之意哉漢成帝曰甫刑云五刑之屬三千大辟之罰其屬二百今大辟之刑千有餘條律令煩多百有餘萬言竒請他比日以益滋自明習者不知所由欲以曉喻衆庻不亦難乎於以羅元元之民夭絶亡辜豈不哀哉泰族訓曰不言而信不施而仁不怒而威是以天心動化者也施而仁言而信怒而威是以精誠感之者也施而不仁言而不信怒而不威是以外貌為之者也故有道以統之法雖少足以化矣無道以行之法雖衆足以亂矣",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-12",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 173,
+          "end": 177
+        },
+        "kind": "semantic",
+        "text": "音寒",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-13",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 177,
+          "end": 207
+        },
+        "kind": "semantic",
+        "text": "五服謂斬衰齊衰大功小功緦麻也",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-14",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 207,
+          "end": 222
+        },
+        "kind": "semantic",
+        "text": "五刑謂墨劓剕宫大辟也",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-15",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 222,
+          "end": 230
+        },
+        "kind": "semantic",
+        "text": "泰族訓曰有其性無其養不能遵道繭之性為絲然非得工女煮以熱湯而抽其統紀則不能成絲卵之化為雛非慈雌嘔煖覆伏累日積久則不能為雛人之性有仁義之資非聖王為之法度而教導之則不可使鄉方主術訓曰刑罰不足以移風殺戮不足以禁奸唯師化為貴至精為神塊然保真抱徳推誠天下從之如響之應聲景之像形不施而仁不言而信不求而得不為而成弗招而自来不麾而自往窈窈㝠㝠不知為之者誰而功自成矣",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-16",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 2,
+          "start": 0,
+          "end": 62
+        },
+        "kind": "semantic",
+        "text": "韓非子曰殷之法刑棄灰於道者子貢以為重問之仲尼仲尼曰知治之道也夫棄灰于街必掩人掩人人必怒怒則闘闘必三族相殘也此殘三族之道也雖刑之可也且夫重罪者人之所惡也而無棄灰人之所易也使人行之所易而無離所惡此治之道也又曰公孫鞅之法也重輕罪者人之所難犯也而小過者人之所易去也使人去其所易無離其所難此治之道夫小過不生大罪不至是人無罪而亂不生也李斯曰商君之法刑棄灰於道者夫棄灰薄罪也而被刑重罰也故唯明主為能深督輕罪夫罪輕且督深而况有重罪乎故民不敢犯也",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-17",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 2,
+          "start": 62,
+          "end": 122
+        },
+        "kind": "semantic",
+        "text": "音汙",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-18",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 2,
+          "start": 122,
+          "end": 123
+        },
+        "kind": "semantic",
+        "text": "春秋曰公以楚師伐齊取榖左傳曰凡師能左右之曰以寘桓公子雍於榖易牙奉之以為魯援楚申公叔侯戍之桓公之子七人為七大夫於楚榖梁傳曰以者不以者也民者君之本也使民以其死非其正也",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-19",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 3,
+          "start": 0,
+          "end": 43
+        },
+        "kind": "semantic",
+        "text": "韓嬰曰詩云俾民不迷昔之君子道其百姓不使迷是以威厲而刑措不用也故形其仁義謹其教道使民目晰焉而見之使民耳晰焉而聞之使民心晰焉而知之則道不迷而民志不惑矣詩曰示我顯徳行故道義不易民不由也禮樂不明民不見也詩曰周道如砥其直如矢言其易也君子所履小人所視言其明也睠言顧之澘焉出涕哀其不聞禮教而就刑誅也泰族訓曰治大者道不可以小地廣者制不可以狹位髙者事不可以煩民衆者教不可以苟夫事碎難治也法煩難行也求多難贍也寸而度之至丈必差銖而稱之至石必過石秤丈量徑而寡失簡絲數米煩而不察故大較易為智曲辯難為慧故無益於治而有益於煩者聖人不為無益於用而有益於費者智者弗行也故功不猒約事不猒省求不猒寡功約易成也事省易治也求寡易贍也衆易之於以任人易矣",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-20",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 3,
+          "start": 43,
+          "end": 51
+        },
+        "kind": "semantic",
+        "text": "音于",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-21",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 3,
+          "start": 51,
+          "end": 61
+        },
+        "kind": "semantic",
+        "text": "音阱",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-22",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 3,
+          "start": 61,
+          "end": 63
+        },
+        "kind": "semantic",
+        "text": "音尉",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-23",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 3,
+          "start": 63,
+          "end": 67
+        },
+        "kind": "semantic",
+        "text": "音懸",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-24",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 3,
+          "start": 67,
+          "end": 77
+        },
+        "kind": "semantic",
+        "text": "音勺",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-25",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 3,
+          "start": 77,
+          "end": 86
+        },
+        "kind": "semantic",
+        "text": "去聲",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-26",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 3,
+          "start": 86,
+          "end": 103
+        },
+        "kind": "semantic",
+        "text": "孔子曰上陣之教而先服之則百姓從風矣躬行不從而後俟之以刑則民知罪矣夫一仞之牆民不能踰百仞之山童子升而遊焉陵遲故也今是仁義之陵遲乆矣能謂民勿踰乎",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-27",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 3,
+          "start": 103,
+          "end": 168
+        },
+        "kind": "semantic",
+        "text": "管子曰國有四維一維絶則傾二維絶則危三維絶則覆四維絶則滅傾可正也危可安也覆可起也滅不可復錯也何謂四維一曰禮二曰義三曰亷四曰耻禮不踰節義不自進亷不蔽惡恥不從枉故不踰節則上位安不自進則民無巧詐不蔽惡則行自全不從枉則邪事不生故曰四維不張國乃滅亡主術訓曰臯陶喑而為大理天下無虐刑有貴于言者也師曠瞽而為大宰晉無亂政有貴于見者也不言之令不視之見此伏羲神農之所以為師也故民之化也不從其所言而從所行又曰國之所以存者仁義是也人之所以生者行善是也國無仁義雖大必亡人無善志雖勇必傷",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-28",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 3,
+          "start": 168,
+          "end": 194
+        },
+        "kind": "semantic",
+        "text": "去聲",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-29",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 3,
+          "start": 194,
+          "end": 253
+        },
+        "kind": "semantic",
+        "text": "音潮",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-30",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 3,
+          "start": 253,
+          "end": 264
+        },
+        "kind": "semantic",
+        "text": "董仲舒曰人受命於天固超然異於羣生五榖以食之桑麻以衣之六畜以養之服牛乘馬圈豹檻虎是其得天之靈貴於物也故孔子曰天地之性人為貴吕氏春秋曰仁於他物不仁於人不得為仁不仁於他物獨仁於人猶若為仁仁也者仁乎其類者也故仁人之於民也可以便之無不行也",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-31",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 3,
+          "start": 264,
+          "end": 315
+        },
+        "kind": "semantic",
+        "text": "三輔黄圖云武庫在未央宫蕭何造以藏兵器者也",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-32",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 3,
+          "start": 315,
+          "end": 389
+        },
+        "kind": "semantic",
+        "text": "范甯曰孔子因魯史修春秋舉得失以彰黜陟明成敗以著勸戒一字之褒寵踰華衮之贈片言之貶辱過市朝之撻徳之所助雖賤必申義之所抑雖貴必屈故附勢匿非者無所逃其罪潜徳獨運者無所隠其名信不易之宏規百王之通典也春秋元命包曰古者樹棘槐聽訟於其下棘赤心有刺槐之為言歸也言治人者原其心不失赤實事所以刺人真情令各歸實也荀子曰相形不如論心論心不如擇術形不勝心心不勝術形相惡而心術善無害為君子也形相善而心術惡無害為小人也",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-33",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 3,
+          "start": 389,
+          "end": 431
+        },
+        "kind": "semantic",
+        "text": "音瘡",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-34",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 3,
+          "start": 431,
+          "end": 465
+        },
+        "kind": "semantic",
+        "text": "音免",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-35",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 4,
+          "start": 0,
+          "end": 22
+        },
+        "kind": "semantic",
+        "text": "音接",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-36",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 4,
+          "start": 22,
+          "end": 47
+        },
+        "kind": "fanqie",
+        "text": "主術訓曰法律度量者人主之所以執下釋之而不用是猶無轡銜而馳也羣臣百姓反弄其上是故有術則制人無術則制於人吞舟之魚蕩而失水則制於螻蟻離其居也猨狖失木而擒於狐狸非其處也許慎曰王良晉大夫御無恤子良也謂御良也一名孫無政為趙簡子御死而託精於天駟星天文有王良星是也",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-37",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 4,
+          "start": 47,
+          "end": 73
+        },
+        "kind": "semantic",
+        "text": "去聲",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-38",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 4,
+          "start": 73,
+          "end": 91
+        },
+        "kind": "semantic",
+        "text": "音妬",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-39",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 4,
+          "start": 91,
+          "end": 112
+        },
+        "kind": "semantic",
+        "text": "音蹶",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-40",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 4,
+          "start": 112,
+          "end": 117
+        },
+        "kind": "semantic",
+        "text": "銜馬勒也橛車鉤心也",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-41",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 4,
+          "start": 117,
+          "end": 132
+        },
+        "kind": "semantic",
+        "text": "刑法志曰教笞不可廢於家刑罰不可捐於國誅罰不可偃于天下用之有巧拙行之有逆順耳",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-42",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 5,
+          "start": 0,
+          "end": 30
+        },
+        "kind": "semantic",
+        "text": "泰族訓曰禹以夏王桀以夏亡湯以殷王紂以殷亡非法度不存也紀綱不張風俗壊也三代之法不亡而世不治者無三代之智也六律具存而莫能聽者無師曠之耳也故法雖在必待聖而後治律雖具必待耳而後聽故國之所以存者非以有法也以有賢人也其所以亡者非以無法也以無聖人也故臧武以其智存魯而天下莫能亡也蘧伯玉以其仁寧衞而天下莫能危也張敞曰懇懇用刑不如行恩孳孳求姦未若禮賢舜舉臯陶不仁者逺隨會為政晉盗奔秦虞芮入境讓心自生化人在徳不在用刑",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-43",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 5,
+          "start": 30,
+          "end": 41
+        },
+        "kind": "semantic",
+        "text": "音逐",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-44",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 5,
+          "start": 41,
+          "end": 46
+        },
+        "kind": "semantic",
+        "text": "音船",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-45",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 5,
+          "start": 46,
+          "end": 53
+        },
+        "kind": "semantic",
+        "text": "披上聲",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-46",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 5,
+          "start": 53,
+          "end": 55
+        },
+        "kind": "semantic",
+        "text": "音逐",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-47",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 5,
+          "start": 55,
+          "end": 59
+        },
+        "kind": "semantic",
+        "text": "音船",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-48",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 5,
+          "start": 59,
+          "end": 69
+        },
+        "kind": "semantic",
+        "text": "越絶書曰太宰者官號嚭者名也伯州之孫伯州為楚臣以過誅嚭以困奔於吴是時吴王闔廬伐楚悉召楚仇而近之嚭為人覽聞辯見目達耳通諸事無所不知因其時自納于吴言伐楚之利闔廬用之伐楚令子胥孫武與嚭将師入郢有大功還吴王以嚭為太宰位髙權盛専邦之枋未久闔廬卒嚭見夫差内無柱石之堅外無斷割之勢䛕心自納操獨斷之利夫差終以從焉而忠臣籥口不得一言嚭知徃而不知来夫差至死悔不早誅傳曰見清知濁見曲知直人君選士各象其徳夫差淺短以是與嚭専權伍胥為之惑是之謂也陳琳曰曩者彊秦弱主趙髙執柄専制朝權威福由已時人廹脅莫敢正言終有望夷之敗秦紀曰秦二世夢白虎嚙其左驂馬殺之問占夢涇水為祟二世乃齋望夷宫欲祠涇水使使責讓趙髙以盗事髙懼乃隂與其女壻咸陽令閻樂數二世二世自殺鄒陽曰偏聽生姦獨任成亂",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-49",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 5,
+          "start": 69,
+          "end": 89
+        },
+        "kind": "semantic",
+        "text": "音扶",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-50",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 5,
+          "start": 89,
+          "end": 97
+        },
+        "kind": "semantic",
+        "text": "去聲",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-51",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 5,
+          "start": 97,
+          "end": 142
+        },
+        "kind": "semantic",
+        "text": "音扶",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-52",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 5,
+          "start": 142,
+          "end": 154
+        },
+        "kind": "semantic",
+        "text": "韓非傳曰韓非者韓之諸公子也喜刑名法術之學而其歸本於黄老非為人口吃不能道說而善著書見韓之削弱數以書諫韓王韓王不能用故作孤憤五蠧内外儲說林說難十餘萬言人或傳其書至秦秦王見孤憤五蠧之書曰嗟乎寡人得見此人與之游死不恨矣李斯曰此韓非之所為書也秦因急攻韓韓王始不用非及急廼遣非使秦秦王恱之未信用李斯姚賈害之毁之曰韓非韓之諸公子也今王欲并諸侯非終為韓不為秦此人之情也今王不用乆留而歸之此自遺患也不如以過法誅之秦王以為然下吏治非李斯使人遺非藥使自殺韓非欲自陳不得見秦王後悔之使人赦之非已死矣",
+        "source": "cham"
+      }
+    ]
+  },
+  "annotationLayers": [
+    {
+      "id": "default",
+      "label": "原文",
+      "shortLabel": "文",
+      "contributor": "桓寬",
+      "role": "author",
+      "nature": "annotation",
+      "displayOrder": 0,
+      "enabled": true,
+      "annotations": []
+    }
+  ]
+}

@@ -1,0 +1,244 @@
+{
+  "bookId": "laozi",
+  "num": 20,
+  "title": "第二十章",
+  "author": "老子",
+  "authorId": "Laozi",
+  "dynasty": "周",
+  "era": "周",
+  "genre": "prose",
+  "verses": [
+    {
+      "text": "絕學無憂。唯之與阿，相去幾何？善之與惡，相去若何？"
+    },
+    {
+      "text": "人之所畏，不可不畏。荒兮其未央哉！"
+    },
+    {
+      "text": "眾人熙熙，如享太牢，如春登臺。"
+    },
+    {
+      "text": "我獨泊兮其未兆，如嬰兒之未孩。"
+    },
+    {
+      "text": "儽儽兮若無所歸。眾人皆有餘，而我獨若遺。"
+    },
+    {
+      "text": "我愚人之心也哉！沌沌兮！"
+    },
+    {
+      "text": "俗人昭昭，我獨昏昏；俗人察察，我獨悶悶。"
+    },
+    {
+      "text": "澹兮其若海，飂兮若無止。眾人皆有以，而我獨頑且鄙。"
+    },
+    {
+      "text": "我獨異於人，而貴食母。"
+    }
+  ],
+  "sections": {},
+  "annotations": [],
+  "layers": {
+    "hesonggong": [
+      {
+        "id": "hesonggong-1",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 25
+        },
+        "kind": "semantic",
+        "text": "絕學無憂。唯之與阿，善之與惡，其相去幾何？人之所畏，不可不畏。荒兮其未央哉！",
+        "source": "cham"
+      },
+      {
+        "id": "hesonggong-2",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 2,
+          "start": 0,
+          "end": 15
+        },
+        "kind": "semantic",
+        "text": "眾人熙熙，如享太牢，如春登臺。我獨泊兮其未兆，如嬰兒之未孩。儽儽兮若無所歸。眾人皆有餘，而我獨若遺。我愚人之心也哉！沌沌兮！",
+        "source": "cham"
+      },
+      {
+        "id": "hesonggong-3",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 6,
+          "start": 0,
+          "end": 20
+        },
+        "kind": "semantic",
+        "text": "俗人昭昭，我獨昏昏。俗人察察，我獨悶悶。澹兮其若海，飂兮若無止。眾人皆有以，而我獨頑且鄙。我獨異於人，而貴食母。",
+        "source": "cham"
+      }
+    ],
+    "wangbi": [
+      {
+        "id": "wangbi-1",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 25
+        },
+        "kind": "semantic",
+        "text": "絕學無憂，唯與阿、善與惡，皆相去不遠。人之所畏，不可不畏，荒兮未央。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-2",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 2,
+          "start": 0,
+          "end": 15
+        },
+        "kind": "semantic",
+        "text": "眾人熙熙如享太牢、登春臺，我獨泊兮其未兆，如嬰兒未孩。儽儽若無所歸，眾人有餘，我獨若遺。我愚人之心，沌沌然。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-3",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 6,
+          "start": 0,
+          "end": 20
+        },
+        "kind": "semantic",
+        "text": "俗人昭昭，我獨昏昏。俗人察察，我獨悶悶。澹兮若海，飂兮若無止。眾人皆有以，我獨頑且鄙。我獨異於人，而貴食母。",
+        "source": "cham"
+      }
+    ]
+  },
+  "annotationLayers": [
+    {
+      "id": "default",
+      "label": "原文",
+      "shortLabel": "文",
+      "contributor": "Laozi",
+      "role": "author",
+      "nature": "annotation",
+      "displayOrder": 0,
+      "enabled": true,
+      "annotations": []
+    },
+    {
+      "id": "wangbi",
+      "label": "王弼註",
+      "shortLabel": "王",
+      "contributor": "C001",
+      "role": "commentator",
+      "nature": "commentary",
+      "displayOrder": 1,
+      "enabled": true,
+      "annotations": [
+        {
+          "id": "wangbi-1",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 25
+          },
+          "kind": "semantic",
+          "text": "絕學無憂，唯與阿、善與惡，皆相去不遠。人之所畏，不可不畏，荒兮未央。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-2",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 2,
+            "start": 0,
+            "end": 15
+          },
+          "kind": "semantic",
+          "text": "眾人熙熙如享太牢、登春臺，我獨泊兮其未兆，如嬰兒未孩。儽儽若無所歸，眾人有餘，我獨若遺。我愚人之心，沌沌然。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-3",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 6,
+            "start": 0,
+            "end": 20
+          },
+          "kind": "semantic",
+          "text": "俗人昭昭，我獨昏昏。俗人察察，我獨悶悶。澹兮若海，飂兮若無止。眾人皆有以，我獨頑且鄙。我獨異於人，而貴食母。",
+          "source": "cham"
+        }
+      ]
+    },
+    {
+      "id": "hesonggong",
+      "label": "河上公註",
+      "shortLabel": "河",
+      "contributor": "C002",
+      "role": "commentator",
+      "nature": "commentary",
+      "displayOrder": 2,
+      "enabled": true,
+      "annotations": [
+        {
+          "id": "hesonggong-1",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 25
+          },
+          "kind": "semantic",
+          "text": "絕學無憂。唯之與阿，善之與惡，其相去幾何？人之所畏，不可不畏。荒兮其未央哉！",
+          "source": "cham"
+        },
+        {
+          "id": "hesonggong-2",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 2,
+            "start": 0,
+            "end": 15
+          },
+          "kind": "semantic",
+          "text": "眾人熙熙，如享太牢，如春登臺。我獨泊兮其未兆，如嬰兒之未孩。儽儽兮若無所歸。眾人皆有餘，而我獨若遺。我愚人之心也哉！沌沌兮！",
+          "source": "cham"
+        },
+        {
+          "id": "hesonggong-3",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 6,
+            "start": 0,
+            "end": 20
+          },
+          "kind": "semantic",
+          "text": "俗人昭昭，我獨昏昏。俗人察察，我獨悶悶。澹兮其若海，飂兮若無止。眾人皆有以，而我獨頑且鄙。我獨異於人，而貴食母。",
+          "source": "cham"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "textRef": "laozi",
+    "relation": "section"
+  }
+}

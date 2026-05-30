@@ -1,0 +1,682 @@
+{
+  "bookId": "skqs-yantielun",
+  "num": 37,
+  "title": "鹽鐵論卷六",
+  "author": "桓寬",
+  "authorId": "桓寬",
+  "dynasty": "漢",
+  "era": "漢",
+  "eraCode": "07",
+  "genre": "prose",
+  "verses": [
+    {
+      "text": "漢　桓　寛　撰"
+    },
+    {
+      "text": "明　張之象　註"
+    },
+    {
+      "text": "殊路第二十一"
+    },
+    {
+      "text": "大夫曰七十子躬受聖人之術有名列於孔子之門皆諸侯卿相之才可南面者數人可政事者冉有季路言語宰我子貢宰我秉事有寵於齊田常作難道不行身死庭中簡公殺於檀臺子路仕衛孔悝作亂不能救君出亡身葅於衛子貢子臯遁逃不能死其難食人之重祿不能更處人尊官不能存何其厚於己而薄於君㢤同門共業自以為知古今之義明君臣之禮或死或亡二三子殊路何道之悖也"
+    },
+    {
+      "text": "文學曰宋襄公知孔父之賢而不早任故身死魯莊知季友之賢授之政晚而亂衞君近佞逺賢子路居蒲孔悝為政簡公不聽宰我而漏其謀是以二君身被放殺而禍及忠臣二子者有事而不與其謀故可以死可以生去止其義一也晏嬰不死崔慶之難不可謂不義㣲子去殷之亂可謂不仁乎"
+    },
+    {
+      "text": "大夫曰至美素璞物莫能飾也至賢保眞偽文莫能增也故金玉不琢美珠不畫今仲由冉求無檀柘之材隋和之璞而强文之譬若彫朽木而礪鈆刀飾嫫母畫土人也被以五色斐然成章及遭行潦流波則沮矣夫重懷古道枕籍詩書危不䏻安亂不能治郵里逐雞難亦無黨也"
+    },
+    {
+      "text": "文學曰非學無以治身非禮無以輔徳和氏之璞天下之美寶也待鑑識之工而後明毛嬙天下之姣人也待香澤脂粉而後容周公天下之至聖人也待賢師學問而後通今齊世庸士之人不好學問專以巳之愚而負荷巨任若無檝舳濟江海而遭大風漂沒於百仞之淵東流無崖之川安得沮而止乎"
+    },
+    {
+      "text": "大夫曰性有剛柔形有好惡聖人能因而不能改孔子外變二三子之服而不能革其心故子路解長劍去危冠屈節於夫子之門然攝齊師友行行爾鄙心猶存宰予晝寢欲損三年之喪孔子曰糞土之墻不可杇也若由不得其死然故内無其質而外學其文雖有賢師良友若畫脂鏤氷費日損功故良師不能飾戚施香澤不能化嫫母也{/37}"
+    },
+    {
+      "text": "文學曰蒙以不潔鄙夫掩鼻惡人盛飾可以宗祀上帝使二人不涉聖人之門不免為窮夫安得卿大夫之名故砥所以致於刃學所以盡其才也孔子曰觚不觚觚哉觚哉故事人加則為宗廟器否則厮養之舋才于越之鋌不礪匹夫賤之工人施巧人主服而朝也夫醜者自以為姣故不飾愚者自以為知故不學觀笑在已而不自知不好用人自是之過也"
+    }
+  ],
+  "sections": {},
+  "annotations": [],
+  "layers": {
+    "commentary": [
+      {
+        "id": "commentary-1",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 3,
+          "start": 0,
+          "end": 28
+        },
+        "kind": "semantic",
+        "text": "去聲",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-2",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 3,
+          "start": 28,
+          "end": 36
+        },
+        "kind": "semantic",
+        "text": "雜言曰楚昭王召孔子将使執政而封以書社七百里子西謂楚王曰王之臣用兵有如子路者乎使諸侯有如宰予者乎長官五官有如子貢者乎昔文王處酆武王處鎬酆鎬之間百乘之地伐上殺主立為天子世皆曰聖王今以孔子之賢而有書社七百里之地而三子佐之非楚之利也楚王遂止",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-3",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 3,
+          "start": 36,
+          "end": 62
+        },
+        "kind": "semantic",
+        "text": "去聲",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-4",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 3,
+          "start": 62,
+          "end": 75
+        },
+        "kind": "semantic",
+        "text": "人間訓曰諸御鞅復於簡公曰陳成常宰予二子二子者甚相憎也臣恐其搆難而危國也君不如去一人簡公不聽居無㡬何陳成常果攻宰予於庭中而弑簡公於朝此不知敬小之所生也指武篇曰田成子常與宰我争宰我夜伏卒將以攻田成子令於卒中曰不見旌節母起䲭夷子皮聞之告田成子田成子因為旌莭以起宰我之卒以攻之遂殘之也",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-5",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 3,
+          "start": 75,
+          "end": 81
+        },
+        "kind": "semantic",
+        "text": "音恢",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-6",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 3,
+          "start": 81,
+          "end": 104
+        },
+        "kind": "semantic",
+        "text": "去聲檀弓曰孔子哭子路於中庭有人弔者而夫子拜之既哭進使者而問故使者曰醢之矣遂命覆醢盗跖曰子以甘言說子路而使従之使子路去其危冠解其長劔而受教於子天下皆曰孔丘能止𭧂禁非其卒之也子路欲殺衞君而事不成是子教之不至也至公萹曰子羔為衞政刖人之足衞之君臣亂子羔走郭門郭門閉刖者守門曰於彼有缺子羔曰君子不踰曰於彼有竇子羔曰君子不遂曰於此有室子羔入追者罷子羔將去謂刖者曰吾不能虧損主之法令而親刖子之足吾在難中此乃子之報怨時也何故逃我刖者曰㫁足固我罪也無可奈何君之治臣也傾側法令先後臣以法欲臣之免於法也臣知之獄决罪定臨當論刑君愀然不樂見於顔色臣又知之君豈私臣哉天生仁人之心其固然也此臣之所以脫君也孔子聞之曰善為吏者樹徳不善為吏者□怨公行之也其子羔之謂歟",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-7",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 4,
+          "start": 0,
+          "end": 12
+        },
+        "kind": "semantic",
+        "text": "音甫",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-8",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 4,
+          "start": 12,
+          "end": 34
+        },
+        "kind": "semantic",
+        "text": "尊賢篇曰國家之任賢而吉任不肖而凶案往世而視已事其必然也如合符此為人君者不可以不慎也國公惛亂而良臣見魯國大亂季友之賢見僖公即位而任季子魯國安寕外内無憂行政二十一年季子之卒後邾擊其南齊伐其北魯不勝其患將乞師於楚以取全耳故傳曰患之起必自此始也公子買不可使成衞公遂不聽君命而擅之晋内侵於臣下外困於兵亂弱之患也僖公之性非前二十一年常賢而後乃漸變為不肖也此季子存之所益亡之所損也夫得賢失賢其損益之騐如此而人主急於所用甚可疾痛也夫智不足以見賢無可奈何矣若智能見之而強不能决猶豫不用而大者死亡小者亂傾此甚可悲哀也以宋殤公而不知孔父之賢乎安知孔父死已必死趨而救之趨而救之者是知其賢也以魯荘公不知季子之賢乎安知疾将死召季子而授之國政授之國政者是知其賢也此二君知能見賢而皆不能用故宋殤公以殺死魯荘公以賊嗣使宋殤蚤任孔父将靖鄰國而况自存乎",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-9",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 4,
+          "start": 34,
+          "end": 39
+        },
+        "kind": "semantic",
+        "text": "去聲",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-10",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 4,
+          "start": 39,
+          "end": 46
+        },
+        "kind": "semantic",
+        "text": "音恢",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-11",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 4,
+          "start": 46,
+          "end": 71
+        },
+        "kind": "semantic",
+        "text": "仲由傳曰子路為蒲大夫方孔悝作亂子路在外聞之而馳往遇子羔出衞城門謂子路曰出公去矣而門已閉子可還矣毋空受其禍子路曰食其食者不避其難子羔卒去有使者入城城門開子路隨而入造蕢瞶蕢瞶與孔悝登臺子路曰君焉用孔悝請得而殺之蕢聵弗聴扵是子路欲燔臺蕢瞶懼乃下石乞壺黶攻子路撃㫁子路之纓子路曰君子死而冠不免遂結纓而死正諫萹曰齊簡公有臣曰諸御鞅諌簡公曰田常與宰予此二人者甚相憎也臣恐其相攻相攻雖叛而危之不可願君去一人簡公曰非細人之所敢議也居無㡬何田常果攻宰予於庭賊簡公於朝簡公喟焉太息曰余不用鞅之言以至此患也故忠臣之言不可不察也",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-12",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 4,
+          "start": 71,
+          "end": 79
+        },
+        "kind": "semantic",
+        "text": "音預",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-13",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 4,
+          "start": 79,
+          "end": 94
+        },
+        "kind": "semantic",
+        "text": "泰族訓曰舜許由異行而皆聖伊尹伯夷異道而皆仁箕子比干異趨而皆賢范縝曰丘旦殊姿湯文異狀聖同於心器形不必同也猶馬殊色而齊逸玉異色而均美是以晋棘荆和等價連城驊騮駃驪俱致千里",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-14",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 4,
+          "start": 94,
+          "end": 102
+        },
+        "kind": "semantic",
+        "text": "去聲",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-15",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 4,
+          "start": 102,
+          "end": 115
+        },
+        "kind": "fanqie",
+        "text": "雜事萹曰齊侯問於晏子曰忠臣之事君也何若對曰有難不死出亡不送君曰列地而與之疏爵而貴之君有難不死出亡不送可謂忠乎對曰言而見用終身無難臣奚死焉諌而見従終身不亡臣奚送焉若言不見用有難而死是妄死也諫不見従出亡而送是詐為也故忠臣也者能盡善與君而不能與䧟於難義勇萹曰崔杼弑莊公令士大夫盟者皆脫劒而入言不疾指不至血者死所殺十人次及晏子晏子奉桮血仰天歎曰惡乎崔子将為無道殺其君盟者皆視之崔杼謂晏子曰子與我我與子分國子不吾與吾将殺子直兵將推之曲兵将勾之唯子圖之晏子曰嬰聞囘以利而背其君者非仁也刼以刄而失其志者非勇也詩云愷悌君子求福不囘嬰可謂不囘矣直兵推之曲兵鈎之嬰不之囘也崔子舍之晏子趍出授綏而垂其僕将馳晏子拊其手曰虎豹在山林其命在庖厨馳不益生緩不益死按之成節然後去之詩云彼其之子舎命不渝晏子之謂也宋世家曰紂殺王子比干刳視其心㣲子曰父子有骨肉而臣主以義屬故父有過子三諌不聽則隨而號之人臣三諫不聽則其義可以去矣於是太師少師乃勸㣲子去遂行周武王伐紂克殷㣲子乃持其祭器造於軍門肉袒面縛左牽羊右把茅膝行而前以告於是武王乃釋㣲子復其位如故論語比考䜟曰殷惑妲己玉馬走宋均曰女妲己有美色也王馬喻賢臣奔去也劉毅曰三仁殊途而同歸四子異行而均義風俗通曰易記出處語黙書美九徳咸事同歸殊途一致百慮不期相反各有云尚而已是故伯夷譲國以採薇展禽不去於所生孔丘周流以應聘長沮隐居而耦耕墨翟摩頂以放踵楊朱一毛而不為干木息偃以藩魏包胥重璽而存郢夷吾朱紘以三歸平仲辭邑而濯纓惠施従車以百乘于扈徒步而裸形𡩋戚商歌以干祿顔闔踰墻而遁榮髙柴趣門以避難季路求入而隕零端木結駟以貨殖顔囘屢空而弗營孟獻髙宇以美室原憲蓬門而株楹傳曰人心不同有如其面古今行事是則然矣",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-16",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 5,
+          "start": 0,
+          "end": 34
+        },
+        "kind": "fanqie",
+        "text": "音與壞同反質萹曰孔子卦得賁喟然仰而嘆息意不平子張進舉手而問曰師聞賁者吉卦而嘆之乎孔子曰賁非正色也是以歎之吾思也質素白當正白黑當正黑文質又何也吾亦聞之丹漆不文白玉不雕寶珠不飾何也質有餘者不受飾也",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-17",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 5,
+          "start": 34,
+          "end": 60
+        },
+        "kind": "semantic",
+        "text": "音沿",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-18",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 5,
+          "start": 60,
+          "end": 63
+        },
+        "kind": "semantic",
+        "text": "音模",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-19",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 5,
+          "start": 63,
+          "end": 65
+        },
+        "kind": "semantic",
+        "text": "音壞",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-20",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 5,
+          "start": 65,
+          "end": 85
+        },
+        "kind": "fanqie",
+        "text": "皇甫謐曰嫫母黄帝次妃許慎曰古之醜女班固曰詠雲門者難為音觀隋和者難為珍王褒曰毛嬙西施善毁者不能蔽其好嫫姆倭傀善譽者不䏻掩其醜孟嘗君客曰臣之来也過於淄水上見一土偶人方與木梗人語木梗謂土偶人曰子先土也持子以為耦人遇天大雨水潦並至子必沮壞土偶人應曰我沮乃反吾眞耳今子東園之桃也刻子以為梗遇天大雨水潦並至必浮子泛泛乎不知所止",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-21",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 5,
+          "start": 85,
+          "end": 86
+        },
+        "kind": "semantic",
+        "text": "音扶",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-22",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 6,
+          "start": 0,
+          "end": 18
+        },
+        "kind": "semantic",
+        "text": "冉有曰雖有美玉不刻鏤不成器雖有美質不學則不成君子傳曰玉不琢不成器人不學不成行家有千金之玉不知治猶之貧也良工宰之則富及子孫君子謀之則為國用故動則安百姓議則延民命又曰水淵深廣則龍魚生之山林茂盛則禽獸歸之禮義修明則君子懷之故禮及身而行修禮及國而政明䏻以禮持身則貴名自揚天下順焉令行禁止而王者之事畢矣詩曰有覺徳行四國順之夫此之謂矣",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-23",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 6,
+          "start": 18,
+          "end": 38
+        },
+        "kind": "semantic",
+        "text": "音墻",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-24",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 6,
+          "start": 38,
+          "end": 42
+        },
+        "kind": "semantic",
+        "text": "音交",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-25",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 6,
+          "start": 42,
+          "end": 69
+        },
+        "kind": "semantic",
+        "text": "莊子曰毛嬙西施人之所美也魚見之深入鳥見之髙飛莊小疏曰毛嬙越王嬖妾姣美也香澤者人髮恒枯悴以此濡澤之也韓非子曰善毛嬙西施之美無益吾面用脂澤粉黛則倍其初子夏曰黄帝學乎大墳顓頊學乎祿圖帝嚳學乎赤松子堯學乎務成子附舜學乎尹夀禹學乎西王國湯學乎貸子相文王學乎錫疇子斯武王學乎太公周公學乎虢叔仲尼學乎老𥅆此十一聖人未遭此師則功業不䏻著乎天下名號不䏻傳乎後世者也詩曰不愆不忘率由舊章",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-26",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 6,
+          "start": 69,
+          "end": 78
+        },
+        "kind": "semantic",
+        "text": "去聲",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-27",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 6,
+          "start": 78,
+          "end": 88
+        },
+        "kind": "semantic",
+        "text": "音賀",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-28",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 6,
+          "start": 88,
+          "end": 93
+        },
+        "kind": "semantic",
+        "text": "音接",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-29",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 6,
+          "start": 93,
+          "end": 94
+        },
+        "kind": "semantic",
+        "text": "音逐",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-30",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 7,
+          "start": 0,
+          "end": 56
+        },
+        "kind": "semantic",
+        "text": "音咨",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-31",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 7,
+          "start": 56,
+          "end": 60
+        },
+        "kind": "semantic",
+        "text": "音沆",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-32",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 7,
+          "start": 60,
+          "end": 65
+        },
+        "kind": "semantic",
+        "text": "行行剛健貎仲尼弟子列傳曰子路性鄙好勇力志伉直冠雄雞佩猳豚陵𭧂孔子孔子設禮稍誘子路子路後儒服委質因門人請為弟子建本萹曰孔子謂子路曰汝何好子路曰好長劔孔子曰非此之問也請以汝之所能加之以學豈可及哉子路曰學亦有益乎孔子曰夫人君無諫臣則失政士無教交則失徳狂馬不釋其䇿操弓不返於檠木受䋲則直人受諌則聖受學重問孰不順成毁仁惡士且近於刑君子不可以不學子路曰南山有竹弗揉自直斬而射之通於犀革又何學為乎孔子曰括而羽之鏃而砥礪之其入不益深乎子路拜曰敬受教哉貴徳萹曰子路持劎孔子問曰由安用此子路曰善古者固以善之不善古者固以自衞孔子曰君子以忠為質以仁為衞不出環堵之内而聞千里之外不善以忠化冦𭧂以仁圍何必持劍乎子路曰由也請攝齊以事先生矣",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-33",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 7,
+          "start": 65,
+          "end": 69
+        },
+        "kind": "semantic",
+        "text": "論語筆解作畫寢謂以五色畫其寢室也",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-34",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 7,
+          "start": 69,
+          "end": 111
+        },
+        "kind": "semantic",
+        "text": "音壞",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-35",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 7,
+          "start": 111,
+          "end": 113
+        },
+        "kind": "semantic",
+        "text": "音陋",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-36",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 7,
+          "start": 113,
+          "end": 132
+        },
+        "kind": "semantic",
+        "text": "音模",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-37",
+        "range": {
+          "type": "range",
+          "scope": "title",
+          "start": 0,
+          "end": 1
+        },
+        "kind": "semantic",
+        "text": "修務訓曰曼頬皓齒形夸骨佳不待脂粉芳澤而性可恱者西施陽文也啳𦝢哆噅籧蒢戚施雖粉白黛黑弗能為美者嫫母仳倠也",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-38",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 8,
+          "start": 0,
+          "end": 24
+        },
+        "kind": "semantic",
+        "text": "孟子曰西子蒙不潔則人皆掩鼻而過之雖有惡人齋戒沐浴則可以祀上帝修務訓曰毛嬙西施天下之美人也若使美人銜腐䑕蒙蝟皮衣豹裘帶死蛇則布衣韋帶之人過者莫不左右睥睨而掩鼻嘗試使之施芳澤正蛾眉設笄珥衣阿錫曳齊紈粉白黛黑佩玉環揄步雜芝若籠蒙目視冶由笑目流眺口曾撓竒牙出靨䩉揺則雖王公大人有嚴志頡頏之行亦無不憚悇癢心而恱其色矣今以中人之才蒙愚惑之智被汙辱之行無本業所修方術所務焉得無有睥面掩鼻之容㢤",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-39",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 8,
+          "start": 24,
+          "end": 59
+        },
+        "kind": "semantic",
+        "text": "子思曰學所以益才也礪所以致刃也吾嘗幽處而深思不若學之速吾嘗跂而望不若登髙之博見孟子曰人皆知以食愈飢莫知以學愈愚夫學者崇名立身之本也儀狀齊等而飾貌者好質性同倫而學問者智是故砥礪琢磨非金也而可以利金詩書辟立非我也而可以厲心韓嬰曰劒雖利不厲不㫁材雖美不學不髙雖有旨酒嘉殽不嘗不知其旨雖有善道不學不達其功",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-40",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 8,
+          "start": 59,
+          "end": 84
+        },
+        "kind": "semantic",
+        "text": "音問",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-41",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 8,
+          "start": 84,
+          "end": 85
+        },
+        "kind": "semantic",
+        "text": "張耳傳曰厮養卒厮者養馬之役也韋昭曰析薪為厮炊烹為養",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-42",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 8,
+          "start": 85,
+          "end": 89
+        },
+        "kind": "semantic",
+        "text": "音定",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-43",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 8,
+          "start": 89,
+          "end": 91
+        },
+        "kind": "semantic",
+        "text": "舋器破而未離者也鋌箭足入槀中者也",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-44",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 8,
+          "start": 91,
+          "end": 104
+        },
+        "kind": "semantic",
+        "text": "音潮",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-45",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 8,
+          "start": 104,
+          "end": 106
+        },
+        "kind": "semantic",
+        "text": "音扶",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-46",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 8,
+          "start": 106,
+          "end": 112
+        },
+        "kind": "semantic",
+        "text": "音交",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-47",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 8,
+          "start": 112,
+          "end": 121
+        },
+        "kind": "semantic",
+        "text": "去聲",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-48",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 8,
+          "start": 121,
+          "end": 134
+        },
+        "kind": "semantic",
+        "text": "去聲",
+        "source": "cham"
+      }
+    ]
+  },
+  "annotationLayers": [
+    {
+      "id": "default",
+      "label": "原文",
+      "shortLabel": "文",
+      "contributor": "桓寬",
+      "role": "author",
+      "nature": "annotation",
+      "displayOrder": 0,
+      "enabled": true,
+      "annotations": []
+    }
+  ]
+}

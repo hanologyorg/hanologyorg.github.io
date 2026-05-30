@@ -1,0 +1,886 @@
+{
+  "bookId": "skqs-difan",
+  "num": 14,
+  "title": "崇文第十二",
+  "author": "李世民",
+  "authorId": "唐太宗",
+  "dynasty": "唐",
+  "era": "唐",
+  "eraCode": "24",
+  "genre": "prose",
+  "verses": [
+    {
+      "text": ""
+    },
+    {
+      "text": "夫功成設樂治定制禮禮樂之興以儒為本宏風��俗莫尚於文敷教訓人莫善於學因文而隆道假學以光身不臨深谿不知地之厚不㳺文翰不識智之源然則質藴吳竿非筈羽不美性懷辨慧非積學不成是以建明堂立辟雍博覽百家精研六藝端拱而知天下無為而鑒古今飛英聲騰茂實光於不朽者其唯學乎此文術也斯二者逓為國用至若長氣亘地成敗定乎鋒端巨浪滔天興亡决乎一陣當此之際則貴干戈而賤庠序及乎海嶽既晏波塵已清偃七徳之餘威敷九功之大化當此之際則輕甲胄而重詩書是知文武二途捨一不可與時優劣各有其宜武士儒人焉可廢也"
+    },
+    {
+      "text": "此十二條者帝王之大綱也安危興廢咸在兹焉古人有云非知之難惟行之不易行之可勉惟終實難是以暴亂之君非獨明於惡路聖哲之主非獨見於善途良由大道逺而難遵邪徑近而易踐小人俯從其易不得力行其難故禍敗及之君子勞處其難不能力居其易故福慶流之故知禍福無門惟人所召欲悔非於既徃惟慎禍於將来當擇哲主為師母以吾為前鑒取法於上僅得為中取法於中故為其下自非上徳不可效焉吾在位以来所制多矣竒麗服翫錦繡珠玉不絶於前此非防欲也雕楹刻桷髙臺深池每興其役此非儉志也犬馬鷹鶻無逺必致此非節心也數有行幸以亟勞人此非屈己也斯事者吾之深過勿以兹為是而後法焉但我濟育蒼生其益多平定寰宇其功大益多損少人不怨功大過微徳未虧然猶之盡美之蹤於焉多媿盡善之道顧此懷慚况汝無纎毫之功直縁基而履慶若崇善以廣徳則業泰身安若肆情以從非則業傾身䘮且成遲敗速者國基也失易得難者天位也可不惜哉"
+    }
+  ],
+  "sections": {},
+  "annotations": [],
+  "layers": {
+    "commentary": [
+      {
+        "id": "commentary-1",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 0
+        },
+        "kind": "fanqie",
+        "text": "崇尊也重也左傳曰經緯天地曰文夫天以文而化地以文而生人以文而㑹國以文而建王以文而治天下以文而安反是則不得其正矣盖文者乃三才事物中和之氣也以孝悌忠信仁義禮智廣充之天理存焉非絺章繡句華浮藻麗之文而已如其崇重絺章繡句華浮藻麗之文是為晉成帝梁武帝李後主矣",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-2",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 0,
+          "end": 8
+        },
+        "kind": "semantic",
+        "text": "春秋晉文公敗楚於城濮傳曰振旅愷以入於晉周禮大司樂曰王師大獻則令奏凱樂注云大獻㨗於祖凱樂以軍之功成之樂故獻於祖也　樂音岳",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-3",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 8,
+          "end": 12
+        },
+        "kind": "semantic",
+        "text": "天下草昧未及於制禮天下既平非禮則不服記曰禮者可服天下也漢髙祖得天下命叔孫通定朝儀之禮禮成自諸侯王以下莫不震恐肅敬於是髙帝曰吾乃今日知為皇帝之貴也又記曰王者功成設樂治定制禮",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-4",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 12,
+          "end": 20
+        },
+        "kind": "semantic",
+        "text": "儒柔也司馬相如傳注有道術曰儒孔子曰女為君子儒無為小人儒又通天地人三才曰儒夫禮與樂固從儒士之所興也惟君子儒可興禮樂矣何謂君子儒真儒是已左傳曰用真儒則無敵於天下豈唯興禮樂哉",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-5",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 20,
+          "end": 29
+        },
+        "kind": "semantic",
+        "text": "尚加也宏廣風化𨗳引習俗無加於文術學記曰君子欲化民成俗其必由學乎",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-6",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 29,
+          "end": 37
+        },
+        "kind": "semantic",
+        "text": "善大也敷宣政教訓誨人民無大於學校學記曰雖有至道弗學不知其善",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-7",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 37,
+          "end": 47
+        },
+        "kind": "semantic",
+        "text": "因由也假藉也由以文術可興隆道徳藉以學習可光顯身名劉子曰未有不因學以鑒道不假學以光身者也言不藉於學習何以得光顯其身耳",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-8",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 47,
+          "end": 65
+        },
+        "kind": "semantic",
+        "text": "荀子曰君子博學而日三省乎己則知明而行無過矣故不登髙山不知天之髙也不臨深谿不知地之厚也不聞先王之遺言不知學問之大也即此義也源謂本源也",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-9",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 65,
+          "end": 76
+        },
+        "kind": "collation",
+        "text": "質形也藴積也吳國名竿竹也言吳地有竹形端直堪作矢然無藉筈翎焉足成用筈是著弦處子華子曰疾如箭之脫䒷又劉子曰故吳竿質勁非筈羽而不美即此謂也　筈音䇢○按筈無䇢音",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-10",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 76,
+          "end": 85
+        },
+        "kind": "fanqie",
+        "text": "董仲舒曰性者生之質也天之理也懷藴也辨明也慧解也言人雖藴懷明辨慧解之靈性無學終不能大成劉子曰人性譞慧非積學而不成其義一耳譞呼元切辨也",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-11",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 85,
+          "end": 90
+        },
+        "kind": "semantic",
+        "text": "禮含文嘉曰明堂所以通神靈感天地正四時出教令崇有徳章有道也",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-12",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 90,
+          "end": 93
+        },
+        "kind": "semantic",
+        "text": "辟明也雍和也以明和為名化道天下之人使之成士又辟者圓璧也雍之以水圓而象天於陽徳之施行取流無極使學者進徳而不已亦所以明和政教之至也又五經通義曰天子立辟雍者何所以行禮樂宣徳化教𨗳天下之人使為士天子養三老事五更與諸侯行禮之處也",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-13",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 93,
+          "end": 97
+        },
+        "kind": "semantic",
+        "text": "謂諸子百家之書",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-14",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 97,
+          "end": 101
+        },
+        "kind": "semantic",
+        "text": "精至也研窮也六藝謂禮樂射御書數",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-15",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 101,
+          "end": 113
+        },
+        "kind": "semantic",
+        "text": "端拱謂端嚴而拱斂其手無為謂無所營治天下自安矣此用文之致也",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-16",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 113,
+          "end": 128
+        },
+        "kind": "semantic",
+        "text": "封禪文云俾萬世得激清流揚微波蜚英聲騰茂實前聖所以永保鴻名而常為稱首者也蜚與飛同揚也騰傳也言能飛揚英美之聲名騰傳茂實之徳光曜無盡者惟學聖人之道耳",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-17",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 128,
+          "end": 132
+        },
+        "kind": "semantic",
+        "text": "此乃是文藝儒術之道也",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-18",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 132,
+          "end": 139
+        },
+        "kind": "fanqie",
+        "text": "斯二者文武之事也逓更也猶言更相為國家之切用",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-19",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 139,
+          "end": 151
+        },
+        "kind": "fanqie",
+        "text": "言兵妖之長氣徧地也　亘古鄧反遍也",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-20",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 151,
+          "end": 161
+        },
+        "kind": "semantic",
+        "text": "滔漫也滔天猶言漫天也臣浪言天下鼎沸大亂臣大也",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-21",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 161,
+          "end": 169
+        },
+        "kind": "semantic",
+        "text": "書曰敿乃干鍜乃戈又曰稱爾戈比爾干干盾也方言云自闗而東或謂之瞂或謂之干闗西謂之盾郭璞曰干杆也戈平頭㦸也",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-22",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 169,
+          "end": 173
+        },
+        "kind": "semantic",
+        "text": "禮記曰古之教者家有塾黨有庠術有序國有學又庠者有虞氏之學名養老之宫也大學為上庠小學為下庠庠言養也所以養賢徳也序者夏后氏之學名大學為東序小學為西序序次也以次序先王之道而學之也",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-23",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 173,
+          "end": 183
+        },
+        "kind": "semantic",
+        "text": "天下既定則海水不波兵塵不起故云清晏",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-24",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 183,
+          "end": 189
+        },
+        "kind": "semantic",
+        "text": "左傳曰武有七徳一曰禁暴二曰戢兵三曰保人四曰定功五曰安民六曰和衆七曰豐財偃者息也卧也天下既定示不用也",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-25",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 189,
+          "end": 195
+        },
+        "kind": "semantic",
+        "text": "書曰九功惟叙九叙惟歌注云六府三事之功有次序皆可歌樂乃徳政之致六府謂水火金木土榖三事謂正徳利用厚生正徳以率下利用以阜財厚生以養民也",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-26",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 195,
+          "end": 203
+        },
+        "kind": "semantic",
+        "text": "在身曰甲在頭曰胄",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-27",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 203,
+          "end": 207
+        },
+        "kind": "semantic",
+        "text": "詩謂雅頌之詩非尋章摘句之詩也書謂上古聖賢所遺之書非勾抹繕寫之書也",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-28",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 207,
+          "end": 217
+        },
+        "kind": "semantic",
+        "text": "非文不治非武不定故定之以武守之以文夫文徳者帝王之利器威武者文徳之輔助也文之所加者深武之所服者大故闕一不可",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-29",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 217,
+          "end": 225
+        },
+        "kind": "semantic",
+        "text": "時亂則尚武時平則尚文文武之任各要合其時事之宜",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-30",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 225,
+          "end": 229
+        },
+        "kind": "semantic",
+        "text": "武藝忠勇之士儒學賢徳之人",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-31",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 229,
+          "end": 230
+        },
+        "kind": "semantic",
+        "text": "二者不可偏廢也",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-32",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 2,
+          "start": 0,
+          "end": 14
+        },
+        "kind": "semantic",
+        "text": "書曰若網在綱綱者網之總也言上項十二事者是為帝王大畧之綱領",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-33",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 2,
+          "start": 14,
+          "end": 22
+        },
+        "kind": "semantic",
+        "text": "咸總也言安平危亂興起廢墜總在於此",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-34",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 2,
+          "start": 22,
+          "end": 43
+        },
+        "kind": "semantic",
+        "text": "此商書說命之辭也說拜稽首曰非知之艱行之惟艱言知之易行之難以勉勸髙宗克終於善道也",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-35",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 2,
+          "start": 43,
+          "end": 55
+        },
+        "kind": "semantic",
+        "text": "言暴虐荒亂之君不是獨知行惡之人也",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-36",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 2,
+          "start": 55,
+          "end": 65
+        },
+        "kind": "semantic",
+        "text": "言聖明哲智之主不是獨見行善之途也",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-37",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 2,
+          "start": 65,
+          "end": 73
+        },
+        "kind": "semantic",
+        "text": "孟子曰夫道若大路然豈難知哉人病不求耳子歸而求之有餘師以此思之何逺之有遵循行也",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-38",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 2,
+          "start": 73,
+          "end": 79
+        },
+        "kind": "semantic",
+        "text": "老子曰大道甚夷而人好逕逕者小路也故云易踐履也",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-39",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 2,
+          "start": 79,
+          "end": 96
+        },
+        "kind": "semantic",
+        "text": "東莱先生曰始遇其易即以易為常以易為常禍之門也",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-40",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 2,
+          "start": 96,
+          "end": 113
+        },
+        "kind": "semantic",
+        "text": "東莱先生曰先遇其難必以難為常以難為常福之階也",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-41",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 2,
+          "start": 113,
+          "end": 123
+        },
+        "kind": "semantic",
+        "text": "左傳閔子馬曰禍福無門惟人所召又易曰積善之家必有餘慶積不善之家必有餘殃此豈非人自召乎",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-42",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 2,
+          "start": 123,
+          "end": 129
+        },
+        "kind": "semantic",
+        "text": "孔子曰既徃不咎又國䇿有曰見兎顧犬非以為晚也亡羊補裷非以為遲也以徃非違之事雖悔何及是不可悔也",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-43",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 2,
+          "start": 129,
+          "end": 135
+        },
+        "kind": "semantic",
+        "text": "易之坤初六曰履霜堅冰至象曰履霜堅冰隂始凝也馴致其道至堅冰也此聖人防漸慮微慎終於始之大戒也故君子治未病不治已病治未亂不治已亂也將来未来也",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-44",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 2,
+          "start": 135,
+          "end": 147
+        },
+        "kind": "semantic",
+        "text": "蜀志先主語其子曰勿以惡小而為之勿以善小而不為惟賢惟徳可以服人汝父徳薄不可效也是以太宗得此義故以自貶抑而諭太子汝當可選上古聖哲之主為師範勿用我之所行以為鑒戒　毋音無禁止之辭",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-45",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 2,
+          "start": 147,
+          "end": 163
+        },
+        "kind": "semantic",
+        "text": "孔子曰取法於天而則之斯為其上顔孟取法於孔子而近之纔得其中後儒取於顔孟而逺之則為其下矣既為其下何足法乎為儒者當取法孔子顔子孟子為君者當取法於堯舜文王",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-46",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 2,
+          "start": 163,
+          "end": 171
+        },
+        "kind": "semantic",
+        "text": "非有髙上大徳之君不足慕耳",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-47",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 2,
+          "start": 171,
+          "end": 180
+        },
+        "kind": "semantic",
+        "text": "言我自登君位以来從前至今制作多矣",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-48",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 2,
+          "start": 180,
+          "end": 197
+        },
+        "kind": "semantic",
+        "text": "自貶其奢也防戒也",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-49",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 2,
+          "start": 197,
+          "end": 201
+        },
+        "kind": "semantic",
+        "text": "春秋莊公二十三年秋丹桓宫楹二十四年春刻桓宫桷左傳曰皆非禮也御孫諫曰臣聞之儉徳之共也侈惡之大也先君有共徳而君納諸大惡無乃不可乎楹柱也桷椽也字林曰齊魯謂榱為桷",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-50",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 2,
+          "start": 201,
+          "end": 209
+        },
+        "kind": "semantic",
+        "text": "役謂工役役煩其民也",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-51",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 2,
+          "start": 209,
+          "end": 214
+        },
+        "kind": "semantic",
+        "text": "自貶其侈也",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-52",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 2,
+          "start": 214,
+          "end": 227
+        },
+        "kind": "semantic",
+        "text": "自貶其荒也節制也",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-53",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 2,
+          "start": 227,
+          "end": 240
+        },
+        "kind": "fanqie",
+        "text": "自貶其游田也屈曲也又抑也　數所角切言頻煩也",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-54",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 2,
+          "start": 240,
+          "end": 247
+        },
+        "kind": "semantic",
+        "text": "此等之事乃我平日之大過錯",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-55",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 2,
+          "start": 247,
+          "end": 256
+        },
+        "kind": "semantic",
+        "text": "毋以此等之事以為後之法度從而效之耳",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-56",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 2,
+          "start": 256,
+          "end": 265
+        },
+        "kind": "semantic",
+        "text": "蒼生謂萬物蒼蒼然之生又庶衆小民也濟救也育養也益利也言我除隋之荒亂救濟育養利益人民甚衆",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-57",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 2,
+          "start": 265,
+          "end": 272
+        },
+        "kind": "semantic",
+        "text": "言我平治定安天下為民除害其功勞甚大",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-58",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 2,
+          "start": 272,
+          "end": 279
+        },
+        "kind": "semantic",
+        "text": "怨咎也",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-59",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 2,
+          "start": 279,
+          "end": 286
+        },
+        "kind": "semantic",
+        "text": "虧妨也",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-60",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 2,
+          "start": 286,
+          "end": 305
+        },
+        "kind": "semantic",
+        "text": "魯論曰子謂韶盡美矣又盡善也謂武盡美矣未盡善也言我雖平定寰宇治育蒼生有功於天下亦有竒麗服玩行幸盤游之好不能盡善盡美每回顧此等之事甚慚愧於心也",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-61",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 2,
+          "start": 305,
+          "end": 312
+        },
+        "kind": "semantic",
+        "text": "此謂髙宗言何况汝並無纎細毫末之功勣也",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-62",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 2,
+          "start": 312,
+          "end": 318
+        },
+        "kind": "semantic",
+        "text": "徑因父祖基業而登履慶位直徑也縁因也",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-63",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 2,
+          "start": 318,
+          "end": 329
+        },
+        "kind": "semantic",
+        "text": "如能崇尚善道以充廣其徳庶得基業康泰身位平安",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-64",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 2,
+          "start": 329,
+          "end": 340
+        },
+        "kind": "semantic",
+        "text": "如放肆情欲以嗜邪滛必是基業傾危身位䘮敗",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-65",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 2,
+          "start": 340,
+          "end": 358
+        },
+        "kind": "fanqie",
+        "text": "商書伊尹申誥于太甲曰嗚呼惟天無親克敬惟親民罔常懷懷于有仁鬼神無常享享于克誠天位艱哉徳惟治否徳亂與治同道罔不興與亂同事罔不亡終始慎厥與惟明明后誠哉斯言此伊尹當阿衡之任曰天位艱哉一句其激切之至也於此太宗深得此理惟憂惟懼故發成遲敗速失易得難之痛誡也為人君者念哉鑒哉不可忽也艱即難也",
+        "source": "cham"
+      }
+    ]
+  },
+  "annotationLayers": [
+    {
+      "id": "default",
+      "label": "原文",
+      "shortLabel": "文",
+      "contributor": "唐太宗",
+      "role": "author",
+      "nature": "annotation",
+      "displayOrder": 0,
+      "enabled": true,
+      "annotations": []
+    }
+  ]
+}

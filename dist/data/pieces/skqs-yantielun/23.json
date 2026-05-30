@@ -1,0 +1,18 @@
+{
+  "bookId": "skqs-yantielun",
+  "num": 23,
+  "title": "鹽鐡論卷二",
+  "author": "桓寬",
+  "authorId": "桓寬",
+  "dynasty": "漢",
+  "era": "漢",
+  "eraCode": "07",
+  "genre": "prose",
+  "verses": [
+    {
+      "text": "<子部,儒家類,鹽鐵論>"
+    }
+  ],
+  "sections": {},
+  "annotations": []
+}

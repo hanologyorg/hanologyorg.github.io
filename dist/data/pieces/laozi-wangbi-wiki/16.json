@@ -1,0 +1,366 @@
+{
+  "bookId": "laozi-wangbi-wiki",
+  "num": 16,
+  "title": "第十六章",
+  "author": "老子",
+  "authorId": "Laozi",
+  "dynasty": "周",
+  "era": "周",
+  "genre": "prose",
+  "verses": [
+    {
+      "text": "致虛極，守靜篤。"
+    },
+    {
+      "text": "萬物並作，吾以觀復。"
+    },
+    {
+      "text": "夫物芸芸，各復歸其根。歸根曰靜，是謂復命。復命曰常，"
+    },
+    {
+      "text": "知常曰明。不知常，妄作凶。"
+    },
+    {
+      "text": "知常容，"
+    },
+    {
+      "text": "容乃公，"
+    },
+    {
+      "text": "公乃全，"
+    },
+    {
+      "text": "全乃天，"
+    },
+    {
+      "text": "天乃道，"
+    },
+    {
+      "text": "道乃久，"
+    },
+    {
+      "text": "沒身不殆。"
+    }
+  ],
+  "sections": {},
+  "annotations": [],
+  "layers": {
+    "wangbi": [
+      {
+        "id": "wangbi-1",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 8
+        },
+        "kind": "commentary",
+        "text": "言致虛物之極，篤守靜物之真正也。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-2",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 0,
+          "end": 10
+        },
+        "kind": "commentary",
+        "text": "以虛靜觀其反復。凡有起於虛，動起於靜，故萬物雖並動作，卒復歸於虛靜，是物之極篤也。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-3",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 2,
+          "start": 0,
+          "end": 26
+        },
+        "kind": "commentary",
+        "text": "歸根則靜，故曰靜。靜則復命，故曰復命也。復命則得性命之常，故曰常也。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-4",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 3,
+          "start": 0,
+          "end": 13
+        },
+        "kind": "commentary",
+        "text": "常之為物，不偏不彰，無皦昧之狀，溫涼之象，故曰知常曰明也。唯此復，乃能包通萬物，無所不容，失此以往，則邪入乎分，則物離其分，故曰不知常，則妄作凶也。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-5",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 4,
+          "start": 0,
+          "end": 4
+        },
+        "kind": "commentary",
+        "text": "無所不包通也。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-6",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 5,
+          "start": 0,
+          "end": 4
+        },
+        "kind": "commentary",
+        "text": "無所不包通，則乃至於蕩然公平也。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-7",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 6,
+          "start": 0,
+          "end": 4
+        },
+        "kind": "commentary",
+        "text": "蕩然公平，則乃至於無所不周普也。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-8",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 7,
+          "start": 0,
+          "end": 4
+        },
+        "kind": "commentary",
+        "text": "無所不周普，則乃至於同乎天也。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-9",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 8,
+          "start": 0,
+          "end": 4
+        },
+        "kind": "commentary",
+        "text": "與天合德，體道大通，則乃至於極虛無也。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-10",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 9,
+          "start": 0,
+          "end": 4
+        },
+        "kind": "commentary",
+        "text": "窮極虛無，得道之常，則乃至於不窮極也。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-11",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 10,
+          "start": 0,
+          "end": 5
+        },
+        "kind": "commentary",
+        "text": "無之為物，水火不能害，金石不能殘。用之於心則虎兕無所投其齒角，兵戈無所容其鋒刃，何危殆之有乎。",
+        "source": "cham"
+      }
+    ]
+  },
+  "annotationLayers": [
+    {
+      "id": "default",
+      "label": "原文",
+      "shortLabel": "文",
+      "contributor": "Laozi",
+      "role": "author",
+      "nature": "annotation",
+      "displayOrder": 0,
+      "enabled": true,
+      "annotations": []
+    },
+    {
+      "id": "wangbi",
+      "label": "王弼註",
+      "shortLabel": "王",
+      "contributor": "C001",
+      "role": "commentator",
+      "nature": "commentary",
+      "displayOrder": 1,
+      "enabled": true,
+      "annotations": [
+        {
+          "id": "wangbi-1",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 8
+          },
+          "kind": "commentary",
+          "text": "言致虛物之極，篤守靜物之真正也。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-2",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 1,
+            "start": 0,
+            "end": 10
+          },
+          "kind": "commentary",
+          "text": "以虛靜觀其反復。凡有起於虛，動起於靜，故萬物雖並動作，卒復歸於虛靜，是物之極篤也。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-3",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 2,
+            "start": 0,
+            "end": 26
+          },
+          "kind": "commentary",
+          "text": "歸根則靜，故曰靜。靜則復命，故曰復命也。復命則得性命之常，故曰常也。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-4",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 3,
+            "start": 0,
+            "end": 13
+          },
+          "kind": "commentary",
+          "text": "常之為物，不偏不彰，無皦昧之狀，溫涼之象，故曰知常曰明也。唯此復，乃能包通萬物，無所不容，失此以往，則邪入乎分，則物離其分，故曰不知常，則妄作凶也。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-5",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 4,
+            "start": 0,
+            "end": 4
+          },
+          "kind": "commentary",
+          "text": "無所不包通也。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-6",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 5,
+            "start": 0,
+            "end": 4
+          },
+          "kind": "commentary",
+          "text": "無所不包通，則乃至於蕩然公平也。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-7",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 6,
+            "start": 0,
+            "end": 4
+          },
+          "kind": "commentary",
+          "text": "蕩然公平，則乃至於無所不周普也。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-8",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 7,
+            "start": 0,
+            "end": 4
+          },
+          "kind": "commentary",
+          "text": "無所不周普，則乃至於同乎天也。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-9",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 8,
+            "start": 0,
+            "end": 4
+          },
+          "kind": "commentary",
+          "text": "與天合德，體道大通，則乃至於極虛無也。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-10",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 9,
+            "start": 0,
+            "end": 4
+          },
+          "kind": "commentary",
+          "text": "窮極虛無，得道之常，則乃至於不窮極也。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-11",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 10,
+            "start": 0,
+            "end": 5
+          },
+          "kind": "commentary",
+          "text": "無之為物，水火不能害，金石不能殘。用之於心則虎兕無所投其齒角，兵戈無所容其鋒刃，何危殆之有乎。",
+          "source": "cham"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "textRef": "laozi-wangbi-wiki",
+    "relation": "section"
+  }
+}

@@ -1,0 +1,250 @@
+{
+  "bookId": "laozi-wangbi-wiki",
+  "num": 30,
+  "title": "第三十章",
+  "author": "老子",
+  "authorId": "Laozi",
+  "dynasty": "周",
+  "era": "周",
+  "genre": "prose",
+  "verses": [
+    {
+      "text": "以道佐人主者，不以兵強天下。"
+    },
+    {
+      "text": "其事好還。"
+    },
+    {
+      "text": "師之所處，荊棘生焉。大軍之後，必有凶年。"
+    },
+    {
+      "text": "善有果而已，不敢以取強。"
+    },
+    {
+      "text": "果而勿矜，果而勿伐，果而勿驕。"
+    },
+    {
+      "text": "果而不得已，果而勿強。"
+    },
+    {
+      "text": "物壯則老，是謂不道，不道早已。"
+    }
+  ],
+  "sections": {},
+  "annotations": [],
+  "layers": {
+    "wangbi": [
+      {
+        "id": "wangbi-1",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 14
+        },
+        "kind": "commentary",
+        "text": "以道佐人主，尚不可以兵强於天下，況人主躬於道者乎。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-2",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 0,
+          "end": 5
+        },
+        "kind": "commentary",
+        "text": "為始者務欲立功生事，而有道者務欲還反無為，故云，其事好還也。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-3",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 2,
+          "start": 0,
+          "end": 20
+        },
+        "kind": "commentary",
+        "text": "言師凶害之物也。無有所濟，必有所傷，賊害人民，殘荒田畝，故曰荊棘生焉。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-4",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 3,
+          "start": 0,
+          "end": 12
+        },
+        "kind": "commentary",
+        "text": "果猶濟也。言善用師者，趣以濟難而已矣，不以兵力取强於天下也。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-5",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 4,
+          "start": 0,
+          "end": 15
+        },
+        "kind": "commentary",
+        "text": "吾不以師道為尚，不得已而用，何矜驕之有也。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-6",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 5,
+          "start": 0,
+          "end": 11
+        },
+        "kind": "commentary",
+        "text": "言用兵雖趣功果濟難，然時故不得已，當復用者，但當以除暴亂，不遂用果以為强也。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-7",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 6,
+          "start": 0,
+          "end": 15
+        },
+        "kind": "commentary",
+        "text": "壯，武力暴興，喻以兵强於天下者也。飄風不終朝，驟雨不終日，故暴興必不道早已也。",
+        "source": "cham"
+      }
+    ]
+  },
+  "annotationLayers": [
+    {
+      "id": "default",
+      "label": "原文",
+      "shortLabel": "文",
+      "contributor": "Laozi",
+      "role": "author",
+      "nature": "annotation",
+      "displayOrder": 0,
+      "enabled": true,
+      "annotations": []
+    },
+    {
+      "id": "wangbi",
+      "label": "王弼註",
+      "shortLabel": "王",
+      "contributor": "C001",
+      "role": "commentator",
+      "nature": "commentary",
+      "displayOrder": 1,
+      "enabled": true,
+      "annotations": [
+        {
+          "id": "wangbi-1",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 14
+          },
+          "kind": "commentary",
+          "text": "以道佐人主，尚不可以兵强於天下，況人主躬於道者乎。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-2",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 1,
+            "start": 0,
+            "end": 5
+          },
+          "kind": "commentary",
+          "text": "為始者務欲立功生事，而有道者務欲還反無為，故云，其事好還也。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-3",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 2,
+            "start": 0,
+            "end": 20
+          },
+          "kind": "commentary",
+          "text": "言師凶害之物也。無有所濟，必有所傷，賊害人民，殘荒田畝，故曰荊棘生焉。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-4",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 3,
+            "start": 0,
+            "end": 12
+          },
+          "kind": "commentary",
+          "text": "果猶濟也。言善用師者，趣以濟難而已矣，不以兵力取强於天下也。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-5",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 4,
+            "start": 0,
+            "end": 15
+          },
+          "kind": "commentary",
+          "text": "吾不以師道為尚，不得已而用，何矜驕之有也。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-6",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 5,
+            "start": 0,
+            "end": 11
+          },
+          "kind": "commentary",
+          "text": "言用兵雖趣功果濟難，然時故不得已，當復用者，但當以除暴亂，不遂用果以為强也。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-7",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 6,
+            "start": 0,
+            "end": 15
+          },
+          "kind": "commentary",
+          "text": "壯，武力暴興，喻以兵强於天下者也。飄風不終朝，驟雨不終日，故暴興必不道早已也。",
+          "source": "cham"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "textRef": "laozi-wangbi-wiki",
+    "relation": "section"
+  }
+}

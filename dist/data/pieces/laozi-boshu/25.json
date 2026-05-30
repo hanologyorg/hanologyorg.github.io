@@ -1,0 +1,810 @@
+{
+  "bookId": "laozi-boshu",
+  "num": 25,
+  "title": "第二十五章（昆成）",
+  "author": "老子",
+  "authorId": "Laozi",
+  "dynasty": "周",
+  "era": "周",
+  "genre": "prose",
+  "verses": [
+    {
+      "text": "有物昆成 先天地生"
+    },
+    {
+      "text": "繡呵繆呵 獨立而不改 可以為天地母"
+    },
+    {
+      "text": "吾未知亓名 字之曰道 吾強為之名曰大"
+    },
+    {
+      "text": "大曰筮 筮曰遠 遠曰反"
+    },
+    {
+      "text": "道大 天大 地大 王亦大"
+    },
+    {
+      "text": "國中有四大 而王居一焉"
+    },
+    {
+      "text": "人法地 地法天 天法道 道法自然"
+    }
+  ],
+  "sections": {},
+  "annotations": [],
+  "layers": {
+    "heshanggong": [
+      {
+        "id": "heshanggong-1",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 9
+        },
+        "kind": "commentary",
+        "text": "謂道無形，混沌而成萬物，乃在天地之前。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-2",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 9
+        },
+        "kind": "commentary",
+        "text": "寂者，無音聲。寥者，空無形。獨立者，無匹雙。不改者，化有常。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-3",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 9
+        },
+        "kind": "commentary",
+        "text": "道通行天地，無所不入，在陽不焦，託蔭不腐，無不貫穿，而不危怠也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-4",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 9
+        },
+        "kind": "commentary",
+        "text": "道育養萬物精氣，如母之養子。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-5",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 9
+        },
+        "kind": "commentary",
+        "text": "我不見道之形容，不知當何以名之，見萬物皆從道所生，故字之曰道。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-6",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 2,
+          "start": 12,
+          "end": 13
+        },
+        "kind": "commentary",
+        "text": "不知其名，強曰大者，高而無上，羅而無外，無不包容，故曰大也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-7",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 2,
+          "start": 0,
+          "end": 18
+        },
+        "kind": "commentary",
+        "text": "其為大，非若天常在上，非若地常在下，乃復逝去，無常處所也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-8",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 2,
+          "start": 0,
+          "end": 18
+        },
+        "kind": "commentary",
+        "text": "言遠者，窮乎無窮，布氣天地，無所不通也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-9",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 3,
+          "start": 8,
+          "end": 9
+        },
+        "kind": "commentary",
+        "text": "言其遠不越絕，乃復反在人身也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-10",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 3,
+          "start": 0,
+          "end": 11
+        },
+        "kind": "commentary",
+        "text": "道大者，包羅天地，無所不容也。天大者，無所不蓋也。地大者，無所不載也。王大者，無所不制也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-11",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 4,
+          "start": 0,
+          "end": 12
+        },
+        "kind": "commentary",
+        "text": "四大，道、天、地、王也。凡有稱有名，則非其極也。言道則有所由，有所由然後謂之為道，然則是道稱中之大也，不若無稱之大也，無稱不可而得為名，曰域也。天地王皆在乎無稱之內也，故曰域中有四大者也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-12",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 5,
+          "start": 0,
+          "end": 11
+        },
+        "kind": "commentary",
+        "text": "八極之內有四大，王居其一也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-13",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 6,
+          "start": 0,
+          "end": 1
+        },
+        "kind": "commentary",
+        "text": "人當法地安靜和柔也，種之得五穀，掘之得甘泉，勞而不怨也，有功而不置也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-14",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 6,
+          "start": 4,
+          "end": 5
+        },
+        "kind": "commentary",
+        "text": "天澹泊不動，施而不求報，生長萬物，無所收取。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-15",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 6,
+          "start": 8,
+          "end": 9
+        },
+        "kind": "commentary",
+        "text": "道清靜不言，陰行精氣，萬物自成也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-16",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 6,
+          "start": 12,
+          "end": 13
+        },
+        "kind": "commentary",
+        "text": "道性自然，無所法也。",
+        "source": "cham"
+      }
+    ],
+    "wangbi": [
+      {
+        "id": "wangbi-1",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 9
+        },
+        "kind": "commentary",
+        "text": "混然不可得而知，而萬物由之以成，故曰混成也。不知其誰之子，故先天地生。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-2",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 9
+        },
+        "kind": "commentary",
+        "text": "寂寥，無形體也。無物之匹，故曰獨立也。返化終始，不失其常，故曰不改也。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-3",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 9
+        },
+        "kind": "commentary",
+        "text": "周行無所不至而免殆，能生全大形也，故可以為天下母也。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-4",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 9
+        },
+        "kind": "commentary",
+        "text": "名以定形，混成無形，不可得而定，故曰，不知其名也。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-5",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 2,
+          "start": 6,
+          "end": 7
+        },
+        "kind": "commentary",
+        "text": "夫名以定形，字以稱可言，道取於無物而不由也。是混成之中，可言之稱最大也。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-6",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 2,
+          "start": 12,
+          "end": 13
+        },
+        "kind": "commentary",
+        "text": "吾所以字之曰道者，取其可言之稱最大也。責其字定之所由，則繫於大，大有繫，則必有分，有分則失其極矣。故曰，强為之名曰大。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-7",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 2,
+          "start": 0,
+          "end": 18
+        },
+        "kind": "commentary",
+        "text": "逝，行也。不守一大體而已。周行無所不至，故曰逝也。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-8",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 2,
+          "start": 0,
+          "end": 18
+        },
+        "kind": "commentary",
+        "text": "遠，極也。周無所不窮極，不偏於一逝，故曰遠也。不隨於所適，其體獨立，故曰反也。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-9",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 3,
+          "start": 0,
+          "end": 11
+        },
+        "kind": "commentary",
+        "text": "天地之性，人為貴，而王是人之主也。雖不職大亦復為大與三匹，故曰，王亦大也。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-10",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 4,
+          "start": 0,
+          "end": 12
+        },
+        "kind": "commentary",
+        "text": "四大，道、天、地、王也。凡物有稱有名，則非其極也，言道則有所由，有所由然後謂之為道，然則是道，稱中之大也，不若無稱之大也。無稱不可得而名曰域也，道天地王皆在乎無稱之內，故曰，域中有四大者也。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-11",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 5,
+          "start": 0,
+          "end": 11
+        },
+        "kind": "commentary",
+        "text": "處人主之大也。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-12",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 6,
+          "start": 0,
+          "end": 16
+        },
+        "kind": "commentary",
+        "text": "法，謂法則也。人不違地，乃得全安，法地也。地不違天，乃得全載，法天也。天不違道，乃得全覆，法道也。道不違自然，乃得其性，法自然者。在方而法 方，在圓而法圓，於自然無所違也。自然者，無稱之言，窮極之辭也。用智不及無知，而形魄不及精象，精象不及無形，有儀不及無儀，故轉相法也。道順自然，天故資焉。天法於道，地故則焉。地法於天，人故象焉。所以為主其一之者，主也。",
+        "source": "cham"
+      }
+    ]
+  },
+  "annotationLayers": [
+    {
+      "id": "default",
+      "label": "原文",
+      "shortLabel": "文",
+      "contributor": "Laozi",
+      "role": "author",
+      "nature": "annotation",
+      "displayOrder": 0,
+      "enabled": true,
+      "annotations": []
+    },
+    {
+      "id": "heshanggong",
+      "label": "河上公註",
+      "shortLabel": "河",
+      "contributor": "C002",
+      "role": "commentator",
+      "nature": "commentary",
+      "displayOrder": 1,
+      "enabled": true,
+      "annotations": [
+        {
+          "id": "heshanggong-1",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 9
+          },
+          "kind": "commentary",
+          "text": "謂道無形，混沌而成萬物，乃在天地之前。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-2",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 9
+          },
+          "kind": "commentary",
+          "text": "寂者，無音聲。寥者，空無形。獨立者，無匹雙。不改者，化有常。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-3",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 9
+          },
+          "kind": "commentary",
+          "text": "道通行天地，無所不入，在陽不焦，託蔭不腐，無不貫穿，而不危怠也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-4",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 9
+          },
+          "kind": "commentary",
+          "text": "道育養萬物精氣，如母之養子。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-5",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 9
+          },
+          "kind": "commentary",
+          "text": "我不見道之形容，不知當何以名之，見萬物皆從道所生，故字之曰道。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-6",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 2,
+            "start": 12,
+            "end": 13
+          },
+          "kind": "commentary",
+          "text": "不知其名，強曰大者，高而無上，羅而無外，無不包容，故曰大也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-7",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 2,
+            "start": 0,
+            "end": 18
+          },
+          "kind": "commentary",
+          "text": "其為大，非若天常在上，非若地常在下，乃復逝去，無常處所也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-8",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 2,
+            "start": 0,
+            "end": 18
+          },
+          "kind": "commentary",
+          "text": "言遠者，窮乎無窮，布氣天地，無所不通也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-9",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 3,
+            "start": 8,
+            "end": 9
+          },
+          "kind": "commentary",
+          "text": "言其遠不越絕，乃復反在人身也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-10",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 3,
+            "start": 0,
+            "end": 11
+          },
+          "kind": "commentary",
+          "text": "道大者，包羅天地，無所不容也。天大者，無所不蓋也。地大者，無所不載也。王大者，無所不制也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-11",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 4,
+            "start": 0,
+            "end": 12
+          },
+          "kind": "commentary",
+          "text": "四大，道、天、地、王也。凡有稱有名，則非其極也。言道則有所由，有所由然後謂之為道，然則是道稱中之大也，不若無稱之大也，無稱不可而得為名，曰域也。天地王皆在乎無稱之內也，故曰域中有四大者也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-12",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 5,
+            "start": 0,
+            "end": 11
+          },
+          "kind": "commentary",
+          "text": "八極之內有四大，王居其一也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-13",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 6,
+            "start": 0,
+            "end": 1
+          },
+          "kind": "commentary",
+          "text": "人當法地安靜和柔也，種之得五穀，掘之得甘泉，勞而不怨也，有功而不置也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-14",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 6,
+            "start": 4,
+            "end": 5
+          },
+          "kind": "commentary",
+          "text": "天澹泊不動，施而不求報，生長萬物，無所收取。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-15",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 6,
+            "start": 8,
+            "end": 9
+          },
+          "kind": "commentary",
+          "text": "道清靜不言，陰行精氣，萬物自成也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-16",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 6,
+            "start": 12,
+            "end": 13
+          },
+          "kind": "commentary",
+          "text": "道性自然，無所法也。",
+          "source": "cham"
+        }
+      ]
+    },
+    {
+      "id": "wangbi",
+      "label": "王弼註",
+      "shortLabel": "王",
+      "contributor": "C001",
+      "role": "commentator",
+      "nature": "commentary",
+      "displayOrder": 2,
+      "enabled": true,
+      "annotations": [
+        {
+          "id": "wangbi-1",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 9
+          },
+          "kind": "commentary",
+          "text": "混然不可得而知，而萬物由之以成，故曰混成也。不知其誰之子，故先天地生。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-2",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 9
+          },
+          "kind": "commentary",
+          "text": "寂寥，無形體也。無物之匹，故曰獨立也。返化終始，不失其常，故曰不改也。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-3",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 9
+          },
+          "kind": "commentary",
+          "text": "周行無所不至而免殆，能生全大形也，故可以為天下母也。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-4",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 9
+          },
+          "kind": "commentary",
+          "text": "名以定形，混成無形，不可得而定，故曰，不知其名也。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-5",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 2,
+            "start": 6,
+            "end": 7
+          },
+          "kind": "commentary",
+          "text": "夫名以定形，字以稱可言，道取於無物而不由也。是混成之中，可言之稱最大也。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-6",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 2,
+            "start": 12,
+            "end": 13
+          },
+          "kind": "commentary",
+          "text": "吾所以字之曰道者，取其可言之稱最大也。責其字定之所由，則繫於大，大有繫，則必有分，有分則失其極矣。故曰，强為之名曰大。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-7",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 2,
+            "start": 0,
+            "end": 18
+          },
+          "kind": "commentary",
+          "text": "逝，行也。不守一大體而已。周行無所不至，故曰逝也。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-8",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 2,
+            "start": 0,
+            "end": 18
+          },
+          "kind": "commentary",
+          "text": "遠，極也。周無所不窮極，不偏於一逝，故曰遠也。不隨於所適，其體獨立，故曰反也。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-9",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 3,
+            "start": 0,
+            "end": 11
+          },
+          "kind": "commentary",
+          "text": "天地之性，人為貴，而王是人之主也。雖不職大亦復為大與三匹，故曰，王亦大也。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-10",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 4,
+            "start": 0,
+            "end": 12
+          },
+          "kind": "commentary",
+          "text": "四大，道、天、地、王也。凡物有稱有名，則非其極也，言道則有所由，有所由然後謂之為道，然則是道，稱中之大也，不若無稱之大也。無稱不可得而名曰域也，道天地王皆在乎無稱之內，故曰，域中有四大者也。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-11",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 5,
+            "start": 0,
+            "end": 11
+          },
+          "kind": "commentary",
+          "text": "處人主之大也。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-12",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 6,
+            "start": 0,
+            "end": 16
+          },
+          "kind": "commentary",
+          "text": "法，謂法則也。人不違地，乃得全安，法地也。地不違天，乃得全載，法天也。天不違道，乃得全覆，法道也。道不違自然，乃得其性，法自然者。在方而法 方，在圓而法圓，於自然無所違也。自然者，無稱之言，窮極之辭也。用智不及無知，而形魄不及精象，精象不及無形，有儀不及無儀，故轉相法也。道順自然，天故資焉。天法於道，地故則焉。地法於天，人故象焉。所以為主其一之者，主也。",
+          "source": "cham"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "textRef": "laozi-boshu",
+    "relation": "section"
+  }
+}

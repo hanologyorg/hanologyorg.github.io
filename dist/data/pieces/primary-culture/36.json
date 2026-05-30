@@ -1,0 +1,137 @@
+{
+  "bookId": "primary-culture",
+  "num": 36,
+  "title": "九月九日憶山東兄弟",
+  "author": "王維",
+  "authorId": "A016",
+  "dynasty": "唐",
+  "era": "唐",
+  "eraCode": "24",
+  "genre": "poetry",
+  "verses": [
+    {
+      "text": "獨在異鄉為異客，每逢佳節倍思親。遙知兄弟登高處，遍插茱萸少一人。"
+    }
+  ],
+  "sections": {
+    "analysis": "古人聚族務農，以農立國，安土重遷，重視血緣親情、家族倫理，追求和睦、團圓，每逢過時過節，一家人總會聚在一起，參與節慶活動。重陽節有登高的風俗，家人一起登高，佩戴茱萸於頭、臂或放茱萸於香袋中，據說可以消災、避禍、招吉祥。\n\n王維十七歲作客長安，孤身一人，遇上重陽佳節，不免遙想家中兄弟聚集在一起，在重陽登高，遍插茱萸時，卻沒有自己的份兒，念及昔日家人兄弟聚首一堂的情境，自是無限惆悵。「每逢佳節倍思親」一句流傳千古，固是作者對家鄉親人懷念的表達，更是無數身處異鄉中國人的情感體驗，展現了我們重視親情，渴望與家人團聚的文化底蘊。",
+    "annotations": "1.異鄉：他鄉。因為蒲州是王維的故鄉，長安對他來說便是「異鄉」。\n2.異客：在他鄉作客的人。\n3.佳節：美好的節日。\n4.倍：加倍，更加。\n5.遙知：遠遠地想像。\n6.茱萸：○粵朱魚；dzy1jy4；○普zhūyú。一種有濃烈香氣的植物。古時人們習慣在重陽節把茱萸插在頭上，據說可以祛邪增壽。"
+  },
+  "annotations": [
+    {
+      "id": "36-1",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 2,
+        "end": 4
+      },
+      "kind": "semantic",
+      "text": "他鄉。因為蒲州是王維的故鄉，長安對他來說便是「異鄉」。",
+      "source": "cham"
+    },
+    {
+      "id": "36-2",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 5,
+        "end": 7
+      },
+      "kind": "semantic",
+      "text": "在他鄉作客的人。",
+      "source": "cham"
+    },
+    {
+      "id": "36-3",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 10,
+        "end": 12
+      },
+      "kind": "semantic",
+      "text": "美好的節日。",
+      "source": "cham"
+    },
+    {
+      "id": "36-4",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 12,
+        "end": 13
+      },
+      "kind": "semantic",
+      "text": "加倍，更加。",
+      "source": "cham"
+    },
+    {
+      "id": "36-5",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 16,
+        "end": 18
+      },
+      "kind": "semantic",
+      "text": "遠遠地想像。",
+      "source": "cham"
+    },
+    {
+      "id": "36-6",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 26,
+        "end": 28
+      },
+      "kind": "pronunciation",
+      "lang": "yue",
+      "text": "朱魚；dzy1jy4",
+      "source": "cham"
+    },
+    {
+      "id": "36-7",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 26,
+        "end": 28
+      },
+      "kind": "pronunciation",
+      "lang": "cmn",
+      "text": "zhūyú",
+      "source": "cham"
+    },
+    {
+      "id": "36-8",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 26,
+        "end": 28
+      },
+      "kind": "semantic",
+      "text": "一種有濃烈香氣的植物。古時人們習慣在重陽節把茱萸插在頭上，據說可以祛邪增壽。",
+      "source": "cham"
+    }
+  ],
+  "structuredSections": [
+    {
+      "key": "analysis",
+      "title": "賞析",
+      "filename": "analysis.md",
+      "body": "古人聚族務農，以農立國，安土重遷，重視血緣親情、家族倫理，追求和睦、團圓，每逢過時過節，一家人總會聚在一起，參與節慶活動。重陽節有登高的風俗，家人一起登高，佩戴茱萸於頭、臂或放茱萸於香袋中，據說可以消災、避禍、招吉祥。\n\n王維十七歲作客長安，孤身一人，遇上重陽佳節，不免遙想家中兄弟聚集在一起，在重陽登高，遍插茱萸時，卻沒有自己的份兒，念及昔日家人兄弟聚首一堂的情境，自是無限惆悵。「每逢佳節倍思親」一句流傳千古，固是作者對家鄉親人懷念的表達，更是無數身處異鄉中國人的情感體驗，展現了我們重視親情，渴望與家人團聚的文化底蘊。",
+      "order": 3
+    }
+  ]
+}

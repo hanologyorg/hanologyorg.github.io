@@ -1,0 +1,109 @@
+{
+  "bookId": "primary-culture",
+  "num": 16,
+  "title": "己亥雜詩",
+  "author": "龔自珍",
+  "authorId": "A141",
+  "dynasty": "清",
+  "era": "清",
+  "eraCode": "37",
+  "genre": "poetry",
+  "verses": [
+    {
+      "text": "九州生氣恃風雷，萬馬齊喑究可哀。我勸天公重抖擻，不拘一格降人材。"
+    }
+  ],
+  "sections": {
+    "analysis": "《己亥雜詩》是龔自珍抒發情懷的名篇，由多首七言絕句組成。\n\n「九州生氣恃風雷」是《己亥雜詩》中第一百二十五首，本詩借題發揮，論述人才問題。詩歌表面上寫祭神活動，實是龔自珍提出的理想：若要國家恢復生機，就要人盡其才。\n\n龔自珍亟望改革現狀，他謂「我勸天公重抖擻，不拘一格降人材」，暗示執政者應重新振作、不要拘泥於一種標準，好讓人材提出意見，百花齊放，這樣國家才會基業穩固。\n\n龔自珍關心社會、政事，積極提出革新的主張，敢於提出與人不同的意見，對國家的感情鮮明深刻，展現了傳統知識份子以天下為己任的理想。",
+    "annotations": "1.九州：傳說古代中國劃分的九個大區，泛指整個國家。\n2.生氣：生機。\n3.風雷：風和雷，比喻社會變革的力量。\n4.萬馬齊喑：所有的馬都沉默不語，比喻社會沉悶、沒有生氣。喑，沉默不語。\n5.重抖擻：重新振作。抖擻，振作。\n6.不拘一格：不要拘泥於一種規格、方式、標準。"
+  },
+  "annotations": [
+    {
+      "id": "16-1",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 0,
+        "end": 2
+      },
+      "kind": "semantic",
+      "text": "傳說古代中國劃分的九個大區，泛指整個國家。",
+      "source": "cham"
+    },
+    {
+      "id": "16-2",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 2,
+        "end": 4
+      },
+      "kind": "semantic",
+      "text": "生機。",
+      "source": "cham"
+    },
+    {
+      "id": "16-3",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 5,
+        "end": 7
+      },
+      "kind": "semantic",
+      "text": "風和雷，比喻社會變革的力量。",
+      "source": "cham"
+    },
+    {
+      "id": "16-4",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 8,
+        "end": 12
+      },
+      "kind": "semantic",
+      "text": "所有的馬都沉默不語，比喻社會沉悶、沒有生氣。喑，沉默不語。",
+      "source": "cham"
+    },
+    {
+      "id": "16-5",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 20,
+        "end": 23
+      },
+      "kind": "semantic",
+      "text": "重新振作。抖擻，振作。",
+      "source": "cham"
+    },
+    {
+      "id": "16-6",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 24,
+        "end": 28
+      },
+      "kind": "semantic",
+      "text": "不要拘泥於一種規格、方式、標準。",
+      "source": "cham"
+    }
+  ],
+  "structuredSections": [
+    {
+      "key": "analysis",
+      "title": "賞析",
+      "filename": "analysis.md",
+      "body": "《己亥雜詩》是龔自珍抒發情懷的名篇，由多首七言絕句組成。\n\n「九州生氣恃風雷」是《己亥雜詩》中第一百二十五首，本詩借題發揮，論述人才問題。詩歌表面上寫祭神活動，實是龔自珍提出的理想：若要國家恢復生機，就要人盡其才。\n\n龔自珍亟望改革現狀，他謂「我勸天公重抖擻，不拘一格降人材」，暗示執政者應重新振作、不要拘泥於一種標準，好讓人材提出意見，百花齊放，這樣國家才會基業穩固。\n\n龔自珍關心社會、政事，積極提出革新的主張，敢於提出與人不同的意見，對國家的感情鮮明深刻，展現了傳統知識份子以天下為己任的理想。",
+      "order": 3
+    }
+  ]
+}

@@ -1,0 +1,263 @@
+{
+  "bookId": "primary",
+  "num": 9,
+  "title": "雜詩（其一）",
+  "author": "陶淵明",
+  "authorId": "A006",
+  "dynasty": "東晉",
+  "era": "東晉",
+  "eraCode": "13",
+  "genre": "poetry",
+  "verses": [
+    {
+      "text": "人生無根蒂，飄如陌上塵。分散逐風轉，此已非常身"
+    },
+    {
+      "text": "。落地為兄弟，何必骨肉親！得歡當作樂，斗酒聚比"
+    },
+    {
+      "text": "鄰。盛年不重來，一日難再晨，及時當勉勵，歲月不待"
+    },
+    {
+      "text": "人。"
+    }
+  ],
+  "sections": {
+    "analysis": "這是一首慨歎時光易逝、人生無常的詩。詩人說：人生在世，就好像植物脫離了本根，又仿如路上被風吹起的塵土，沒有依傍，飄蕩不定。人生聚散離合就像塵土隨風飄轉，每個人受着命運的擺佈四處飄泊流離，經歷了種種變故，已不是原來的模樣了。既然如此，人一生下來就該把其他也視作兄弟姐妹，不必一定要是親生骨肉，才可以相親相愛的呢！遇上開心的時候，就應盡情歡樂，招集附近的鄰居一起飲酒。人生非常短暫，壯年過了就不會再來，就像一天不會有兩次早晨。因此，我們應該勉勵自己，抓緊時機，因為匆匆的時光從來不會停下來等待人的啊！\n\n詩人所處的時代，社會動盪，禍福無常。他經歷過世事滄桑之後，在晚年自然對人生會有一種深刻的體驗。作者首先感到人生不可把握，飄忽不定，聚散離合總是身不由己。在這裏，作者連用「無根蒂」、「陌上塵」、「隨風轉」作比喻，寫盡世事的變幻。起筆似是調子比較低沉，但接着四句，筆鋒一轉，帶出了「四海之內皆兄弟」的博愛精神。人生縱然多苦，能活下來卻也不易，又何必狹隘固執。只要志趣相投，感情相合，即可相聚相親，及時行樂。最後四句，順着及時行樂的話鋒一轉，轉到及時自勉的主題上來。作者用了一個形象的比喻：人一生中年富力強的美好時光就像一天中的早晨，充滿活力，但年輕只得一次，就像一天之中不會有第二個早晨。因為生命短暫，所以不要讓時光白白溜走。這是詩人的自我警勉，也是對世人的勸誡。\n\n全詩分成三層，層層深入，渾然一體。由第一層的「低沉」，翻出第二層的「樂觀」，但詩意不只停留於此，而是更上一層樓，由「樂觀」轉向第三層的「積極」，要「及時當勉勵」。構思出人意表，也令人驚喜。",
+    "background": "陶淵明的《雜詩》共十二首。前八首內容多歎息家貧年老，並有力圖自我開解、自我勉勵之意，應是他晚年所作。後四首多寫旅途奔波之苦，大概是他壯年時期出仕時所作。本詩是《雜詩》中的第一首。",
+    "preparation": "1. 聆聽誦讀錄音，投入感情朗讀本詩。 https://www.edb.gov.hk/attachment/tc/curriculum-development/kla/chi-edu/resources/primary/lang/jilei/009_jilei_shi(cantonese).mp3\n\n2. 請以詩歌最後兩句，創作一個故事，並與同學分享、交流。",
+    "think_questions": "1. 同學們一起讀書，應該彼此相親相愛，好好珍惜共聚的時光。如果你們發生了誤會，你會怎樣化解呢？\n\n2. 回想你曾讀過勸人珍惜時光或友誼的詩歌或諺言，跟同學說一說，看看誰說得多，說得好。",
+    "annotations": "1.蒂：○粵帝；dai3；○普dì。即花或瓜果跟枝莖相連的部分。\n2.陌：田間小路，南北向的叫阡，東西向的叫陌。這裏泛指道路。\n3.逐：追隨。\n4.轉：○粵囀；zyun2；○普zhuɑ̌n\n5.此已非常身：身體已經不是原來年青力壯的模樣了。\n常：永恒不變。\n6.常：永恒不變。\n7.落地為兄弟：《論語‧顏淵》有「四海之內皆兄弟也」之語，本句用\n了這個意思。\n落地：降生，一生下來。\n8.落地：降生，一生下來。\n9.斗酒：杯酒。\n斗：一種酒器。\n10.斗：一種酒器。\n11.聚：聚集，招集。\n12.盛年：壯年，這裏指年富力強的美好時光。"
+  },
+  "annotations": [
+    {
+      "id": "9-1",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 4,
+        "end": 5
+      },
+      "kind": "pronunciation",
+      "lang": "yue",
+      "text": "帝；dai3",
+      "source": "cham"
+    },
+    {
+      "id": "9-2",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 4,
+        "end": 5
+      },
+      "kind": "pronunciation",
+      "lang": "cmn",
+      "text": "dì",
+      "source": "cham"
+    },
+    {
+      "id": "9-3",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 4,
+        "end": 5
+      },
+      "kind": "semantic",
+      "text": "即花或瓜果跟枝莖相連的部分。",
+      "source": "cham"
+    },
+    {
+      "id": "9-4",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 8,
+        "end": 9
+      },
+      "kind": "semantic",
+      "text": "田間小路，南北向的叫阡，東西向的叫陌。這裏泛指道路。",
+      "source": "cham"
+    },
+    {
+      "id": "9-5",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 14,
+        "end": 15
+      },
+      "kind": "semantic",
+      "text": "追隨。",
+      "source": "cham"
+    },
+    {
+      "id": "9-6",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 16,
+        "end": 17
+      },
+      "kind": "pronunciation",
+      "lang": "yue",
+      "text": "囀；zyun2",
+      "source": "cham"
+    },
+    {
+      "id": "9-7",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 16,
+        "end": 17
+      },
+      "kind": "pronunciation",
+      "lang": "cmn",
+      "text": "zhuɑ̌n",
+      "source": "cham"
+    },
+    {
+      "id": "9-8",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 18,
+        "end": 23
+      },
+      "kind": "semantic",
+      "text": "身體已經不是原來年青力壯的模樣了。\n常：永恒不變。",
+      "source": "cham"
+    },
+    {
+      "id": "9-9",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 21,
+        "end": 22
+      },
+      "kind": "semantic",
+      "text": "永恒不變。",
+      "source": "cham"
+    },
+    {
+      "id": "9-10",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 1,
+        "start": 1,
+        "end": 6
+      },
+      "kind": "semantic",
+      "text": "《論語‧顏淵》有「四海之內皆兄弟也」之語，本句用\n了這個意思。\n落地：降生，一生下來。",
+      "source": "cham"
+    },
+    {
+      "id": "9-11",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 1,
+        "start": 1,
+        "end": 3
+      },
+      "kind": "semantic",
+      "text": "降生，一生下來。",
+      "source": "cham"
+    },
+    {
+      "id": "9-12",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 1,
+        "start": 19,
+        "end": 21
+      },
+      "kind": "semantic",
+      "text": "杯酒。\n斗：一種酒器。",
+      "source": "cham"
+    },
+    {
+      "id": "9-13",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 1,
+        "start": 19,
+        "end": 20
+      },
+      "kind": "semantic",
+      "text": "一種酒器。",
+      "source": "cham"
+    },
+    {
+      "id": "9-14",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 1,
+        "start": 21,
+        "end": 22
+      },
+      "kind": "semantic",
+      "text": "聚集，招集。",
+      "source": "cham"
+    },
+    {
+      "id": "9-15",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 2,
+        "start": 2,
+        "end": 4
+      },
+      "kind": "semantic",
+      "text": "壯年，這裏指年富力強的美好時光。",
+      "source": "cham"
+    }
+  ],
+  "structuredSections": [
+    {
+      "key": "background",
+      "title": "背景資料",
+      "filename": "background.md",
+      "body": "陶淵明的《雜詩》共十二首。前八首內容多歎息家貧年老，並有力圖自我開解、自我勉勵之意，應是他晚年所作。後四首多寫旅途奔波之苦，大概是他壯年時期出仕時所作。本詩是《雜詩》中的第一首。",
+      "order": 2
+    },
+    {
+      "key": "analysis",
+      "title": "賞析",
+      "filename": "analysis.md",
+      "body": "這是一首慨歎時光易逝、人生無常的詩。詩人說：人生在世，就好像植物脫離了本根，又仿如路上被風吹起的塵土，沒有依傍，飄蕩不定。人生聚散離合就像塵土隨風飄轉，每個人受着命運的擺佈四處飄泊流離，經歷了種種變故，已不是原來的模樣了。既然如此，人一生下來就該把其他也視作兄弟姐妹，不必一定要是親生骨肉，才可以相親相愛的呢！遇上開心的時候，就應盡情歡樂，招集附近的鄰居一起飲酒。人生非常短暫，壯年過了就不會再來，就像一天不會有兩次早晨。因此，我們應該勉勵自己，抓緊時機，因為匆匆的時光從來不會停下來等待人的啊！\n\n詩人所處的時代，社會動盪，禍福無常。他經歷過世事滄桑之後，在晚年自然對人生會有一種深刻的體驗。作者首先感到人生不可把握，飄忽不定，聚散離合總是身不由己。在這裏，作者連用「無根蒂」、「陌上塵」、「隨風轉」作比喻，寫盡世事的變幻。起筆似是調子比較低沉，但接着四句，筆鋒一轉，帶出了「四海之內皆兄弟」的博愛精神。人生縱然多苦，能活下來卻也不易，又何必狹隘固執。只要志趣相投，感情相合，即可相聚相親，及時行樂。最後四句，順着及時行樂的話鋒一轉，轉到及時自勉的主題上來。作者用了一個形象的比喻：人一生中年富力強的美好時光就像一天中的早晨，充滿活力，但年輕只得一次，就像一天之中不會有第二個早晨。因為生命短暫，所以不要讓時光白白溜走。這是詩人的自我警勉，也是對世人的勸誡。\n\n全詩分成三層，層層深入，渾然一體。由第一層的「低沉」，翻出第二層的「樂觀」，但詩意不只停留於此，而是更上一層樓，由「樂觀」轉向第三層的「積極」，要「及時當勉勵」。構思出人意表，也令人驚喜。",
+      "order": 3
+    },
+    {
+      "key": "think_questions",
+      "title": "思考問題",
+      "filename": "think-questions.md",
+      "body": "1. 同學們一起讀書，應該彼此相親相愛，好好珍惜共聚的時光。如果你們發生了誤會，你會怎樣化解呢？\n\n2. 回想你曾讀過勸人珍惜時光或友誼的詩歌或諺言，跟同學說一說，看看誰說得多，說得好。",
+      "order": 5
+    },
+    {
+      "key": "preparation",
+      "title": "教學準備",
+      "filename": "preparation.md",
+      "body": "1. 聆聽誦讀錄音，投入感情朗讀本詩。 https://www.edb.gov.hk/attachment/tc/curriculum-development/kla/chi-edu/resources/primary/lang/jilei/009_jilei_shi(cantonese).mp3\n\n2. 請以詩歌最後兩句，創作一個故事，並與同學分享、交流。",
+      "order": 6
+    }
+  ]
+}

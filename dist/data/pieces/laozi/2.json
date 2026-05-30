@@ -1,0 +1,287 @@
+{
+  "bookId": "laozi",
+  "num": 2,
+  "title": "第二章",
+  "author": "老子",
+  "authorId": "Laozi",
+  "dynasty": "周",
+  "era": "周",
+  "genre": "prose",
+  "verses": [
+    {
+      "text": "天下皆知美之為美，惡已。"
+    },
+    {
+      "text": "皆知善之為善，斯不善已。"
+    },
+    {
+      "text": "有無之相生也，難易之相成也，長短之相刑也，高下之相盈也，音聲之相和也，前後之相隨也，恆也。"
+    },
+    {
+      "text": "是以聖人居無為之事，行不言之教。"
+    },
+    {
+      "text": "萬物作而弗始也，為而弗恃也，成功而弗居也。"
+    },
+    {
+      "text": "夫唯弗居，是以不去。"
+    }
+  ],
+  "sections": {},
+  "annotations": [],
+  "layers": {
+    "hesonggong": [
+      {
+        "id": "hesonggong-1",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 12
+        },
+        "kind": "semantic",
+        "text": "陰陽相生，善惡相成。",
+        "source": "cham"
+      },
+      {
+        "id": "hesonggong-2",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 2,
+          "start": 0,
+          "end": 45
+        },
+        "kind": "semantic",
+        "text": "有中有無，無中有有。難中有易，易中有難。如此則長短相形，高下相傾，音聲相和，前後相隨，皆相因而有。",
+        "source": "cham"
+      },
+      {
+        "id": "hesonggong-3",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 3,
+          "start": 0,
+          "end": 16
+        },
+        "kind": "semantic",
+        "text": "聖人法道無為，不造作，不施為。萬物自生，不名其主。",
+        "source": "cham"
+      },
+      {
+        "id": "hesonggong-4",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 5,
+          "start": 0,
+          "end": 10
+        },
+        "kind": "semantic",
+        "text": "不自居功，故功成不去。",
+        "source": "cham"
+      }
+    ],
+    "wangbi": [
+      {
+        "id": "wangbi-1",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 12
+        },
+        "kind": "semantic",
+        "text": "美之所以為美者，惡也。善之所以為善者，不善也。若無惡，則美不可知；若無不善，則善不可知。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-2",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 2,
+          "start": 0,
+          "end": 45
+        },
+        "kind": "semantic",
+        "text": "此六者，皆相因而有，相待而成。故聖人處無為之事，行不言之教。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-3",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 3,
+          "start": 0,
+          "end": 16
+        },
+        "kind": "semantic",
+        "text": "聖人體道，無為而無不為。不言之教，寂然而莫不應。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-4",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 5,
+          "start": 0,
+          "end": 10
+        },
+        "kind": "semantic",
+        "text": "不居其功，功成而不處，故其功不去。",
+        "source": "cham"
+      }
+    ]
+  },
+  "annotationLayers": [
+    {
+      "id": "default",
+      "label": "原文",
+      "shortLabel": "文",
+      "contributor": "Laozi",
+      "role": "author",
+      "nature": "annotation",
+      "displayOrder": 0,
+      "enabled": true,
+      "annotations": []
+    },
+    {
+      "id": "wangbi",
+      "label": "王弼註",
+      "shortLabel": "王",
+      "contributor": "C001",
+      "role": "commentator",
+      "nature": "commentary",
+      "displayOrder": 1,
+      "enabled": true,
+      "annotations": [
+        {
+          "id": "wangbi-1",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 12
+          },
+          "kind": "semantic",
+          "text": "美之所以為美者，惡也。善之所以為善者，不善也。若無惡，則美不可知；若無不善，則善不可知。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-2",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 2,
+            "start": 0,
+            "end": 45
+          },
+          "kind": "semantic",
+          "text": "此六者，皆相因而有，相待而成。故聖人處無為之事，行不言之教。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-3",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 3,
+            "start": 0,
+            "end": 16
+          },
+          "kind": "semantic",
+          "text": "聖人體道，無為而無不為。不言之教，寂然而莫不應。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-4",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 5,
+            "start": 0,
+            "end": 10
+          },
+          "kind": "semantic",
+          "text": "不居其功，功成而不處，故其功不去。",
+          "source": "cham"
+        }
+      ]
+    },
+    {
+      "id": "hesonggong",
+      "label": "河上公註",
+      "shortLabel": "河",
+      "contributor": "C002",
+      "role": "commentator",
+      "nature": "commentary",
+      "displayOrder": 2,
+      "enabled": true,
+      "annotations": [
+        {
+          "id": "hesonggong-1",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 12
+          },
+          "kind": "semantic",
+          "text": "陰陽相生，善惡相成。",
+          "source": "cham"
+        },
+        {
+          "id": "hesonggong-2",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 2,
+            "start": 0,
+            "end": 45
+          },
+          "kind": "semantic",
+          "text": "有中有無，無中有有。難中有易，易中有難。如此則長短相形，高下相傾，音聲相和，前後相隨，皆相因而有。",
+          "source": "cham"
+        },
+        {
+          "id": "hesonggong-3",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 3,
+            "start": 0,
+            "end": 16
+          },
+          "kind": "semantic",
+          "text": "聖人法道無為，不造作，不施為。萬物自生，不名其主。",
+          "source": "cham"
+        },
+        {
+          "id": "hesonggong-4",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 5,
+            "start": 0,
+            "end": 10
+          },
+          "kind": "semantic",
+          "text": "不自居功，故功成不去。",
+          "source": "cham"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "textRef": "laozi",
+    "relation": "section"
+  }
+}

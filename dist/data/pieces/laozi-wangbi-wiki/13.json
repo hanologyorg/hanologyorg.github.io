@@ -1,0 +1,221 @@
+{
+  "bookId": "laozi-wangbi-wiki",
+  "num": 13,
+  "title": "第十三章",
+  "author": "老子",
+  "authorId": "Laozi",
+  "dynasty": "周",
+  "era": "周",
+  "genre": "prose",
+  "verses": [
+    {
+      "text": "寵辱若驚，貴大患若身。何謂寵辱若驚？寵為下，得之若驚，失之若驚，是謂寵辱若驚。"
+    },
+    {
+      "text": "何謂貴大患若身？"
+    },
+    {
+      "text": "吾所以有大患者，為吾有身，"
+    },
+    {
+      "text": "及吾無身，"
+    },
+    {
+      "text": "吾有何患？故貴以身為天下，若可寄天下；"
+    },
+    {
+      "text": "愛以身為天下，若可託天下。"
+    }
+  ],
+  "sections": {},
+  "annotations": [],
+  "layers": {
+    "wangbi": [
+      {
+        "id": "wangbi-1",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 39
+        },
+        "kind": "commentary",
+        "text": "寵必有辱，榮必有患，驚辱等、榮患同也。為下得寵辱榮患若驚，則不足以亂天下也。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-2",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 0,
+          "end": 8
+        },
+        "kind": "commentary",
+        "text": "大患，榮寵之屬也。生之厚，必入死之地，故謂之大患也。人迷之於榮寵，返之於身，故曰大患若身也。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-3",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 2,
+          "start": 0,
+          "end": 13
+        },
+        "kind": "commentary",
+        "text": "由有其身也。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-4",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 3,
+          "start": 0,
+          "end": 5
+        },
+        "kind": "commentary",
+        "text": "歸之自然也。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-5",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 4,
+          "start": 0,
+          "end": 19
+        },
+        "kind": "commentary",
+        "text": "無以易其身，故曰貴也。如此乃可以託天下也。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-6",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 5,
+          "start": 0,
+          "end": 13
+        },
+        "kind": "commentary",
+        "text": "無物可以損其身，故曰愛也。如此乃可以寄天下也。不以寵辱榮患損易其身，然後乃可以天下付之也。",
+        "source": "cham"
+      }
+    ]
+  },
+  "annotationLayers": [
+    {
+      "id": "default",
+      "label": "原文",
+      "shortLabel": "文",
+      "contributor": "Laozi",
+      "role": "author",
+      "nature": "annotation",
+      "displayOrder": 0,
+      "enabled": true,
+      "annotations": []
+    },
+    {
+      "id": "wangbi",
+      "label": "王弼註",
+      "shortLabel": "王",
+      "contributor": "C001",
+      "role": "commentator",
+      "nature": "commentary",
+      "displayOrder": 1,
+      "enabled": true,
+      "annotations": [
+        {
+          "id": "wangbi-1",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 39
+          },
+          "kind": "commentary",
+          "text": "寵必有辱，榮必有患，驚辱等、榮患同也。為下得寵辱榮患若驚，則不足以亂天下也。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-2",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 1,
+            "start": 0,
+            "end": 8
+          },
+          "kind": "commentary",
+          "text": "大患，榮寵之屬也。生之厚，必入死之地，故謂之大患也。人迷之於榮寵，返之於身，故曰大患若身也。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-3",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 2,
+            "start": 0,
+            "end": 13
+          },
+          "kind": "commentary",
+          "text": "由有其身也。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-4",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 3,
+            "start": 0,
+            "end": 5
+          },
+          "kind": "commentary",
+          "text": "歸之自然也。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-5",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 4,
+            "start": 0,
+            "end": 19
+          },
+          "kind": "commentary",
+          "text": "無以易其身，故曰貴也。如此乃可以託天下也。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-6",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 5,
+            "start": 0,
+            "end": 13
+          },
+          "kind": "commentary",
+          "text": "無物可以損其身，故曰愛也。如此乃可以寄天下也。不以寵辱榮患損易其身，然後乃可以天下付之也。",
+          "source": "cham"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "textRef": "laozi-wangbi-wiki",
+    "relation": "section"
+  }
+}

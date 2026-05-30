@@ -1,0 +1,15 @@
+{
+  "id": "shengui",
+  "title": "臣軌",
+  "subtitle": "唐·武則天",
+  "publisher": "早稲田大学図書館",
+  "genre": "prose",
+  "count": 13,
+  "layers": [
+    {
+      "id": "commentary",
+      "label": "注",
+      "contributor": "C011"
+    }
+  ]
+}

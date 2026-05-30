@@ -1,0 +1,333 @@
+{
+  "bookId": "primary-culture",
+  "num": 1,
+  "title": "論語四則",
+  "author": "孔子",
+  "authorId": "A148",
+  "dynasty": "春秋",
+  "era": "春秋",
+  "genre": "prose",
+  "verses": [
+    {
+      "text": "子曰：「學而時習之，不亦說乎？有朋自遠方來，不亦樂乎？人不知而不愠，不亦君子乎？」"
+    },
+    {
+      "text": "子曰：「學而不思則罔，思而不學則殆。」"
+    },
+    {
+      "text": "子曰：「温故而知新，可以為師矣。」"
+    },
+    {
+      "text": "子曰：「三人行，必有我師焉，擇其善者而從之，其不善者而改之。」"
+    }
+  ],
+  "sections": {
+    "analysis": "《論語》是儒家的經典著作，記載孔子及弟子的言行，集中反映孔子的思想，是研究儒家學說的重要典籍，對傳統文化影響深遠。\n\n傳統向來重視學習，認為讀書在明理，在養德，以學習做人的道理為要，其次是世間事物的道理，故俗語有云「萬般皆下品，惟有讀書高」。不過，要怎樣求學問才有樂趣？怎樣學習才有所得？孔子早在春秋時代已把竅門傳授學生。他提出學到知識後，反覆温習，在生活中實踐所學道理，可得到樂趣；待人方面，有朋友從遠方來探訪，自然感到高興；個人修養方面，即使遇到不瞭解自己的人也不抱怨，可以稱得上是君子。這些都是讀書人在獲得知識後，進德修業的表現，是「入道之門，積德之基，學者之先務」。\n\n第二則提出學習的另一重要態度，是「學」和「思」並重，不可偏廢。只顧埋頭讀書而不思考，就不能透徹理解道理，只空想而不讀書，會產生疑惑。第三則提出比「學而時習之」更進一層的想法，強調温習的重要，即使重温學過的知識，亦每有新體會，人若能不斷更新知識，就可以當起老師來。\n\n第四則再進一步提出，我們不單要從書本中學習，也要向身邊的人學習。幾個人走在一起，總可以在別人身上學習到他的長處，也可以從別人的錯誤中汲取教訓。\n\n孔子提出認真的學習態度和方法，時至今天，仍是我們應該努力的方向，也是我們該好好傳承下去的優良傳統。",
+    "annotations": "1.子：古時對男子的尊稱，此處指孔子。\n2.時：按時。\n3.習：有温習和實習兩解。前者指書本知識的複習；後者則偏重禮、樂、射、御各種本領的演習。這裏兩種意思兼而有之。\n4.不亦說乎：○粵悅；jyt9；○普yuè。不也很快樂嗎？「不亦……乎」，表示反問的句式。說：「快樂」的意思，後來寫作「悅」。\n5.有朋：一作「友朋」。朋：同門曰朋，同志曰友。朋可兼同門及同志二者，本章俱談及學習有關的問題，故此句朋字宜解作「志趣相投的同窗好友」。\n6.愠：○粵蘊；wɐn3；○普yùn。生氣、埋怨。\n7.君子：道德高尚而有學問的人。\n8.罔：○粵網；mɔŋ5；○普wăng。通「惘」，迷惑的樣子。一解為「（被）欺騙」。對書本的學問不能徹底理解。\n9.殆：○粵怠；tɔi5；○普dài。疑惑。對所思的問題感到迷惑無法解決。\n10.温故：故：舊的，指學過的東西。\n11.三人：這裏是幾個人的意思，「無三不成幾」不是定指三個人，「三」是虛數。\n12.焉：在這中間。\n13.善：優勝的地方。\n14.從：跟從。"
+  },
+  "annotations": [
+    {
+      "id": "1-1",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 0,
+        "end": 1
+      },
+      "kind": "semantic",
+      "text": "古時對男子的尊稱，此處指孔子。",
+      "source": "cham"
+    },
+    {
+      "id": "1-2",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 6,
+        "end": 7
+      },
+      "kind": "semantic",
+      "text": "按時。",
+      "source": "cham"
+    },
+    {
+      "id": "1-3",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 7,
+        "end": 8
+      },
+      "kind": "semantic",
+      "text": "有温習和實習兩解。前者指書本知識的複習；後者則偏重禮、樂、射、御各種本領的演習。這裏兩種意思兼而有之。",
+      "source": "cham"
+    },
+    {
+      "id": "1-4",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 10,
+        "end": 14
+      },
+      "kind": "pronunciation",
+      "lang": "yue",
+      "text": "悅；jyt9",
+      "source": "cham"
+    },
+    {
+      "id": "1-5",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 10,
+        "end": 14
+      },
+      "kind": "pronunciation",
+      "lang": "cmn",
+      "text": "yuè",
+      "source": "cham"
+    },
+    {
+      "id": "1-6",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 10,
+        "end": 14
+      },
+      "kind": "semantic",
+      "text": "不也很快樂嗎？「不亦……乎」，表示反問的句式。說：「快樂」的意思，後來寫作「悅」。",
+      "source": "cham"
+    },
+    {
+      "id": "1-7",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 15,
+        "end": 17
+      },
+      "kind": "semantic",
+      "text": "一作「友朋」。朋：同門曰朋，同志曰友。朋可兼同門及同志二者，本章俱談及學習有關的問題，故此句朋字宜解作「志趣相投的同窗好友」。",
+      "source": "cham"
+    },
+    {
+      "id": "1-8",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 32,
+        "end": 33
+      },
+      "kind": "pronunciation",
+      "lang": "yue",
+      "text": "蘊；wɐn3",
+      "source": "cham"
+    },
+    {
+      "id": "1-9",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 32,
+        "end": 33
+      },
+      "kind": "pronunciation",
+      "lang": "cmn",
+      "text": "yùn",
+      "source": "cham"
+    },
+    {
+      "id": "1-10",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 32,
+        "end": 33
+      },
+      "kind": "semantic",
+      "text": "生氣、埋怨。",
+      "source": "cham"
+    },
+    {
+      "id": "1-11",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 36,
+        "end": 38
+      },
+      "kind": "semantic",
+      "text": "道德高尚而有學問的人。",
+      "source": "cham"
+    },
+    {
+      "id": "1-12",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 1,
+        "start": 9,
+        "end": 10
+      },
+      "kind": "pronunciation",
+      "lang": "yue",
+      "text": "網；mɔŋ5",
+      "source": "cham"
+    },
+    {
+      "id": "1-13",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 1,
+        "start": 9,
+        "end": 10
+      },
+      "kind": "pronunciation",
+      "lang": "cmn",
+      "text": "wăng",
+      "source": "cham"
+    },
+    {
+      "id": "1-14",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 1,
+        "start": 9,
+        "end": 10
+      },
+      "kind": "semantic",
+      "text": "通「惘」，迷惑的樣子。一解為「（被）欺騙」。對書本的學問不能徹底理解。",
+      "source": "cham"
+    },
+    {
+      "id": "1-15",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 1,
+        "start": 16,
+        "end": 17
+      },
+      "kind": "pronunciation",
+      "lang": "yue",
+      "text": "怠；tɔi5",
+      "source": "cham"
+    },
+    {
+      "id": "1-16",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 1,
+        "start": 16,
+        "end": 17
+      },
+      "kind": "pronunciation",
+      "lang": "cmn",
+      "text": "dài",
+      "source": "cham"
+    },
+    {
+      "id": "1-17",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 1,
+        "start": 16,
+        "end": 17
+      },
+      "kind": "semantic",
+      "text": "疑惑。對所思的問題感到迷惑無法解決。",
+      "source": "cham"
+    },
+    {
+      "id": "1-18",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 2,
+        "start": 4,
+        "end": 6
+      },
+      "kind": "semantic",
+      "text": "故：舊的，指學過的東西。",
+      "source": "cham"
+    },
+    {
+      "id": "1-19",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 3,
+        "start": 4,
+        "end": 6
+      },
+      "kind": "semantic",
+      "text": "這裏是幾個人的意思，「無三不成幾」不是定指三個人，「三」是虛數。",
+      "source": "cham"
+    },
+    {
+      "id": "1-20",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 3,
+        "start": 12,
+        "end": 13
+      },
+      "kind": "semantic",
+      "text": "在這中間。",
+      "source": "cham"
+    },
+    {
+      "id": "1-21",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 3,
+        "start": 16,
+        "end": 17
+      },
+      "kind": "semantic",
+      "text": "優勝的地方。",
+      "source": "cham"
+    },
+    {
+      "id": "1-22",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 3,
+        "start": 19,
+        "end": 20
+      },
+      "kind": "semantic",
+      "text": "跟從。",
+      "source": "cham"
+    }
+  ],
+  "structuredSections": [
+    {
+      "key": "analysis",
+      "title": "賞析",
+      "filename": "analysis.md",
+      "body": "《論語》是儒家的經典著作，記載孔子及弟子的言行，集中反映孔子的思想，是研究儒家學說的重要典籍，對傳統文化影響深遠。\n\n傳統向來重視學習，認為讀書在明理，在養德，以學習做人的道理為要，其次是世間事物的道理，故俗語有云「萬般皆下品，惟有讀書高」。不過，要怎樣求學問才有樂趣？怎樣學習才有所得？孔子早在春秋時代已把竅門傳授學生。他提出學到知識後，反覆温習，在生活中實踐所學道理，可得到樂趣；待人方面，有朋友從遠方來探訪，自然感到高興；個人修養方面，即使遇到不瞭解自己的人也不抱怨，可以稱得上是君子。這些都是讀書人在獲得知識後，進德修業的表現，是「入道之門，積德之基，學者之先務」。\n\n第二則提出學習的另一重要態度，是「學」和「思」並重，不可偏廢。只顧埋頭讀書而不思考，就不能透徹理解道理，只空想而不讀書，會產生疑惑。第三則提出比「學而時習之」更進一層的想法，強調温習的重要，即使重温學過的知識，亦每有新體會，人若能不斷更新知識，就可以當起老師來。\n\n第四則再進一步提出，我們不單要從書本中學習，也要向身邊的人學習。幾個人走在一起，總可以在別人身上學習到他的長處，也可以從別人的錯誤中汲取教訓。\n\n孔子提出認真的學習態度和方法，時至今天，仍是我們應該努力的方向，也是我們該好好傳承下去的優良傳統。",
+      "order": 3
+    }
+  ]
+}

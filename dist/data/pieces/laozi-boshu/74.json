@@ -1,0 +1,281 @@
+{
+  "bookId": "laozi-boshu",
+  "num": 74,
+  "title": "第七十四章（司殺）",
+  "author": "老子",
+  "authorId": "Laozi",
+  "dynasty": "周",
+  "era": "周",
+  "genre": "prose",
+  "verses": [
+    {
+      "text": "若民恆且不畏死 奈何以殺懼之也"
+    },
+    {
+      "text": "若民恆是畏死 則而為者 吾得而殺之 夫孰敢矣"
+    },
+    {
+      "text": "若民恆且必畏死 則恆有司殺者"
+    },
+    {
+      "text": "夫代司殺者殺 是代大匠斵也 夫代大匠斵者 則希不傷亓手矣"
+    }
+  ],
+  "sections": {},
+  "annotations": [],
+  "layers": {
+    "heshanggong": [
+      {
+        "id": "heshanggong-1",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 15
+        },
+        "kind": "commentary",
+        "text": "治國者刑罰酷深，民不聊生，故不畏死也。治身者嗜欲傷神，貪財殺身，民不知畏之也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-2",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 15
+        },
+        "kind": "commentary",
+        "text": "人君不寬刑罰，教民去情欲，奈何設刑法以死懼之？若使民常畏死，當除己之所殘剋，教民去利欲也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-3",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 15
+        },
+        "kind": "commentary",
+        "text": "以道教化而民不從，反為奇巧，乃應王法執而殺之，誰敢有犯者？老子傷時王不先道德化之，而先刑罰也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-4",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 2,
+          "start": 9,
+          "end": 10
+        },
+        "kind": "commentary",
+        "text": "司殺者謂天，居高臨下，司察人過。天網恢恢，疏而不失也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-5",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 2,
+          "start": 0,
+          "end": 14
+        },
+        "kind": "commentary",
+        "text": "天道至明，司殺有常，猶春生夏長，秋收冬藏，斗杓運移，以節度行之。人君欲代殺之，是猶拙夫代大匠斲木，勞而無功也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-6",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 3,
+          "start": 0,
+          "end": 28
+        },
+        "kind": "commentary",
+        "text": "人君行刑罰，猶拙夫代大匠斲，則方圓不得其理，還自傷。代天殺者，失紀綱，不得其紀綱還受其殃也。",
+        "source": "cham"
+      }
+    ],
+    "wangbi": [
+      {
+        "id": "wangbi-1",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 15
+        },
+        "kind": "commentary",
+        "text": "詭異亂群謂之奇也。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-2",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 15
+        },
+        "kind": "commentary",
+        "text": "為逆順者之所惡忿也，不仁者人之所疾也。故曰，常有司殺也。",
+        "source": "cham"
+      }
+    ]
+  },
+  "annotationLayers": [
+    {
+      "id": "default",
+      "label": "原文",
+      "shortLabel": "文",
+      "contributor": "Laozi",
+      "role": "author",
+      "nature": "annotation",
+      "displayOrder": 0,
+      "enabled": true,
+      "annotations": []
+    },
+    {
+      "id": "heshanggong",
+      "label": "河上公註",
+      "shortLabel": "河",
+      "contributor": "C002",
+      "role": "commentator",
+      "nature": "commentary",
+      "displayOrder": 1,
+      "enabled": true,
+      "annotations": [
+        {
+          "id": "heshanggong-1",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 15
+          },
+          "kind": "commentary",
+          "text": "治國者刑罰酷深，民不聊生，故不畏死也。治身者嗜欲傷神，貪財殺身，民不知畏之也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-2",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 15
+          },
+          "kind": "commentary",
+          "text": "人君不寬刑罰，教民去情欲，奈何設刑法以死懼之？若使民常畏死，當除己之所殘剋，教民去利欲也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-3",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 15
+          },
+          "kind": "commentary",
+          "text": "以道教化而民不從，反為奇巧，乃應王法執而殺之，誰敢有犯者？老子傷時王不先道德化之，而先刑罰也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-4",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 2,
+            "start": 9,
+            "end": 10
+          },
+          "kind": "commentary",
+          "text": "司殺者謂天，居高臨下，司察人過。天網恢恢，疏而不失也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-5",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 2,
+            "start": 0,
+            "end": 14
+          },
+          "kind": "commentary",
+          "text": "天道至明，司殺有常，猶春生夏長，秋收冬藏，斗杓運移，以節度行之。人君欲代殺之，是猶拙夫代大匠斲木，勞而無功也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-6",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 3,
+            "start": 0,
+            "end": 28
+          },
+          "kind": "commentary",
+          "text": "人君行刑罰，猶拙夫代大匠斲，則方圓不得其理，還自傷。代天殺者，失紀綱，不得其紀綱還受其殃也。",
+          "source": "cham"
+        }
+      ]
+    },
+    {
+      "id": "wangbi",
+      "label": "王弼註",
+      "shortLabel": "王",
+      "contributor": "C001",
+      "role": "commentator",
+      "nature": "commentary",
+      "displayOrder": 2,
+      "enabled": true,
+      "annotations": [
+        {
+          "id": "wangbi-1",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 15
+          },
+          "kind": "commentary",
+          "text": "詭異亂群謂之奇也。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-2",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 15
+          },
+          "kind": "commentary",
+          "text": "為逆順者之所惡忿也，不仁者人之所疾也。故曰，常有司殺也。",
+          "source": "cham"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "textRef": "laozi-boshu",
+    "relation": "section"
+  }
+}

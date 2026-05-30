@@ -1,0 +1,382 @@
+{
+  "bookId": "laozi-boshu",
+  "num": 17,
+  "title": "第十七章（知有）",
+  "author": "老子",
+  "authorId": "Laozi",
+  "dynasty": "周",
+  "era": "周",
+  "genre": "prose",
+  "verses": [
+    {
+      "text": "太上 下知有之 亓次親譽之 亓次畏之 亓下侮之"
+    },
+    {
+      "text": "信不足 案有不信 猶呵 亓貴言也"
+    },
+    {
+      "text": "成功遂事 而百姓謂我自然"
+    }
+  ],
+  "sections": {},
+  "annotations": [],
+  "layers": {
+    "heshanggong": [
+      {
+        "id": "heshanggong-1",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 23
+        },
+        "kind": "commentary",
+        "text": "其德可見，恩惠可稱，故親愛而譽之。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-2",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 14,
+          "end": 15
+        },
+        "kind": "commentary",
+        "text": "設刑法以治之。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-3",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 23
+        },
+        "kind": "commentary",
+        "text": "禁多令煩，不可歸誠，故欺侮之。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-4",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 23
+        },
+        "kind": "commentary",
+        "text": "君信不足於下，下則應之以不信，而欺其君也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-5",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 23
+        },
+        "kind": "commentary",
+        "text": "說太上之君，舉事猶，貴重於言，恐離道失自然也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-6",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 0,
+          "end": 16
+        },
+        "kind": "commentary",
+        "text": "謂天下太平也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-7",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 2,
+          "start": 0,
+          "end": 12
+        },
+        "kind": "commentary",
+        "text": "百姓不知君上之德淳厚，反以為己自當然也。",
+        "source": "cham"
+      }
+    ],
+    "wangbi": [
+      {
+        "id": "wangbi-1",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 23
+        },
+        "kind": "commentary",
+        "text": "不能以無為居事，不言為教，立善行施，使下得親而譽之也。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-2",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 14,
+          "end": 15
+        },
+        "kind": "commentary",
+        "text": "不復能以恩仁令物，而賴威權也。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-3",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 23
+        },
+        "kind": "commentary",
+        "text": "不能法以正齊民，而以智治國，下知避之，其令不從，故曰，侮之也。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-4",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 23
+        },
+        "kind": "commentary",
+        "text": "夫御體失性，則疾病生；輔物失真，則疵釁作。信不足焉，則有不信，此自然之道也。已處不足，非智之所齊也。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-5",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 0,
+          "end": 16
+        },
+        "kind": "commentary",
+        "text": "自然，其端兆不可得而見也，其意趣不可得而覩也，無物可以易其言，言必有應，故曰悠兮其貴言也。居無為之事，行不言之教，不以形立物，故功成事遂，而百姓不知其所以然也。",
+        "source": "cham"
+      }
+    ]
+  },
+  "annotationLayers": [
+    {
+      "id": "default",
+      "label": "原文",
+      "shortLabel": "文",
+      "contributor": "Laozi",
+      "role": "author",
+      "nature": "annotation",
+      "displayOrder": 0,
+      "enabled": true,
+      "annotations": []
+    },
+    {
+      "id": "heshanggong",
+      "label": "河上公註",
+      "shortLabel": "河",
+      "contributor": "C002",
+      "role": "commentator",
+      "nature": "commentary",
+      "displayOrder": 1,
+      "enabled": true,
+      "annotations": [
+        {
+          "id": "heshanggong-1",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 23
+          },
+          "kind": "commentary",
+          "text": "其德可見，恩惠可稱，故親愛而譽之。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-2",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 14,
+            "end": 15
+          },
+          "kind": "commentary",
+          "text": "設刑法以治之。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-3",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 23
+          },
+          "kind": "commentary",
+          "text": "禁多令煩，不可歸誠，故欺侮之。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-4",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 23
+          },
+          "kind": "commentary",
+          "text": "君信不足於下，下則應之以不信，而欺其君也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-5",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 23
+          },
+          "kind": "commentary",
+          "text": "說太上之君，舉事猶，貴重於言，恐離道失自然也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-6",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 1,
+            "start": 0,
+            "end": 16
+          },
+          "kind": "commentary",
+          "text": "謂天下太平也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-7",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 2,
+            "start": 0,
+            "end": 12
+          },
+          "kind": "commentary",
+          "text": "百姓不知君上之德淳厚，反以為己自當然也。",
+          "source": "cham"
+        }
+      ]
+    },
+    {
+      "id": "wangbi",
+      "label": "王弼註",
+      "shortLabel": "王",
+      "contributor": "C001",
+      "role": "commentator",
+      "nature": "commentary",
+      "displayOrder": 2,
+      "enabled": true,
+      "annotations": [
+        {
+          "id": "wangbi-1",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 23
+          },
+          "kind": "commentary",
+          "text": "不能以無為居事，不言為教，立善行施，使下得親而譽之也。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-2",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 14,
+            "end": 15
+          },
+          "kind": "commentary",
+          "text": "不復能以恩仁令物，而賴威權也。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-3",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 23
+          },
+          "kind": "commentary",
+          "text": "不能法以正齊民，而以智治國，下知避之，其令不從，故曰，侮之也。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-4",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 23
+          },
+          "kind": "commentary",
+          "text": "夫御體失性，則疾病生；輔物失真，則疵釁作。信不足焉，則有不信，此自然之道也。已處不足，非智之所齊也。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-5",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 1,
+            "start": 0,
+            "end": 16
+          },
+          "kind": "commentary",
+          "text": "自然，其端兆不可得而見也，其意趣不可得而覩也，無物可以易其言，言必有應，故曰悠兮其貴言也。居無為之事，行不言之教，不以形立物，故功成事遂，而百姓不知其所以然也。",
+          "source": "cham"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "textRef": "laozi-boshu",
+    "relation": "section"
+  }
+}

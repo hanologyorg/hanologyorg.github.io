@@ -1,0 +1,135 @@
+{
+  "bookId": "shengui",
+  "num": 10,
+  "title": "章第九·良將",
+  "author": "武曌",
+  "authorId": "C004",
+  "dynasty": "唐",
+  "era": "唐",
+  "eraCode": "24",
+  "genre": "prose",
+  "verses": [
+    {
+      "text": "夫良將者，國之柱石也。三軍之命，懸於一人。是以良將之德，在乎智、信、仁、勇、嚴五者兼備。"
+    },
+    {
+      "text": "昔孫武教戰於吳，斬美人以立威；"
+    },
+    {
+      "text": "吳起為將，與士卒同甘苦，為卒吮瘡。"
+    },
+    {
+      "text": "此皆良將之典範也。"
+    },
+    {
+      "text": "夫將者，民之司命，國家安危之主也。故孫子曰：「將者，智、信、仁、勇、嚴也。」"
+    },
+    {
+      "text": "智以料敵，信以賞罰，仁以愛卒，勇以決勝，嚴以立威。五者缺一，不可為將。"
+    },
+    {
+      "text": "故李廣為將，與士卒共饑渴，故士卒樂為之死。此仁勇之效也。"
+    },
+    {
+      "text": "夫良將之道，在乎知己知彼。不知己而知彼，一勝一負。知己知彼，百戰不殆。"
+    }
+  ],
+  "sections": {
+    "annotations": "1.孫武：孫武，春秋時齊國人，仕吳。著有《孫子兵法》，被譽為「兵聖」。\n2.吳：春秋時吳國，在今江蘇蘇州一帶。\n3.吳起：吳起（？—前381），衛國人，戰國名將。與士卒同甘共苦。見《史記·吳起列傳》。\n4.孫子：《孫子兵法·計篇》。孫武著，中國最古兵書。\n5.李廣：李廣（？—前119），隴西成紀人。西漢名將，號「飛將軍」。見《史記·李將軍列傳》。"
+  },
+  "annotations": [
+    {
+      "id": "10-1",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 1,
+        "start": 1,
+        "end": 3
+      },
+      "kind": "person",
+      "text": "孫武，春秋時齊國人，仕吳。著有《孫子兵法》，被譽為「兵聖」。",
+      "source": "cham"
+    },
+    {
+      "id": "10-2",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 1,
+        "start": 6,
+        "end": 7
+      },
+      "kind": "place",
+      "text": "春秋時吳國，在今江蘇蘇州一帶。",
+      "source": "cham"
+    },
+    {
+      "id": "10-3",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 2,
+        "start": 0,
+        "end": 2
+      },
+      "kind": "person",
+      "text": "吳起（？—前381），衛國人，戰國名將。與士卒同甘共苦。見《史記·吳起列傳》。",
+      "source": "cham"
+    },
+    {
+      "id": "10-4",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 4,
+        "start": 18,
+        "end": 20
+      },
+      "kind": "allusion",
+      "text": "《孫子兵法·計篇》。孫武著，中國最古兵書。",
+      "source": "cham"
+    },
+    {
+      "id": "10-5",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 6,
+        "start": 1,
+        "end": 3
+      },
+      "kind": "person",
+      "text": "李廣（？—前119），隴西成紀人。西漢名將，號「飛將軍」。見《史記·李將軍列傳》。",
+      "source": "cham"
+    }
+  ],
+  "annotationLayers": [
+    {
+      "id": "default",
+      "label": "原文",
+      "shortLabel": "文",
+      "contributor": "C004",
+      "role": "author",
+      "nature": "annotation",
+      "displayOrder": 0,
+      "enabled": true,
+      "annotations": []
+    },
+    {
+      "id": "commentary",
+      "label": "注",
+      "shortLabel": "注",
+      "contributor": "C011",
+      "role": "commentator",
+      "nature": "commentary",
+      "displayOrder": 1,
+      "enabled": true,
+      "annotations": []
+    }
+  ],
+  "source": {
+    "textRef": "shengui",
+    "relation": "section"
+  }
+}

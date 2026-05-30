@@ -1,0 +1,395 @@
+{
+  "bookId": "laozi-heshanggong-wiki",
+  "num": 28,
+  "title": "第二十八章（反朴）",
+  "author": "老子",
+  "authorId": "Laozi",
+  "dynasty": "周",
+  "era": "周",
+  "genre": "prose",
+  "verses": [
+    {
+      "text": "知其雄，守其雌，為天下谿。"
+    },
+    {
+      "text": "為天下谿，常德不離，"
+    },
+    {
+      "text": "復歸於嬰兒。"
+    },
+    {
+      "text": "知其白守其黑，為天下式。"
+    },
+    {
+      "text": "為天下式，常德不忒，"
+    },
+    {
+      "text": "復歸於無極。"
+    },
+    {
+      "text": "知其榮，守其辱，為天下谷。"
+    },
+    {
+      "text": "為天下谷，常德乃足。"
+    },
+    {
+      "text": "復歸於樸。"
+    },
+    {
+      "text": "樸散則為器，"
+    },
+    {
+      "text": "聖人用之則為官長。"
+    },
+    {
+      "text": "故大制不割。"
+    }
+  ],
+  "sections": {},
+  "annotations": [],
+  "layers": {
+    "heshanggong": [
+      {
+        "id": "heshanggong-1",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 13
+        },
+        "kind": "commentary",
+        "text": "雄以喻尊，雌以喻卑。人雖自知其尊顯，當復守之以卑微，去雄之強梁，就雌之柔和，如是則天下歸之，如水流入深谿也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-2",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 0,
+          "end": 10
+        },
+        "kind": "commentary",
+        "text": "人能謙下如深谿，則德常在，不復離於己。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-3",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 2,
+          "start": 0,
+          "end": 6
+        },
+        "kind": "commentary",
+        "text": "當復歸志於嬰兒，惷然而無所知也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-4",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 3,
+          "start": 0,
+          "end": 12
+        },
+        "kind": "commentary",
+        "text": "白以喻昭昭，黑以喻默默。人雖自知昭昭，明白當復守之以默默，如闇昧無所見，如是則可為天下法式，則德常在。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-5",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 4,
+          "start": 0,
+          "end": 10
+        },
+        "kind": "commentary",
+        "text": "人能為天下法式，則德常在於己，不復差忒。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-6",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 5,
+          "start": 0,
+          "end": 6
+        },
+        "kind": "commentary",
+        "text": "德不差忒，則常生久壽，歸身於無窮極也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-7",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 6,
+          "start": 0,
+          "end": 13
+        },
+        "kind": "commentary",
+        "text": "榮以喻尊貴，辱以喻污濁。人能知己之有榮貴，當復守之以污濁，如是則天下歸之，如水流入深谷也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-8",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 7,
+          "start": 0,
+          "end": 10
+        },
+        "kind": "commentary",
+        "text": "足，止也。人能為天下谷，則德乃常止於己。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-9",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 8,
+          "start": 0,
+          "end": 5
+        },
+        "kind": "commentary",
+        "text": "復當歸身於質樸，不復為文飾。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-10",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 9,
+          "start": 0,
+          "end": 6
+        },
+        "kind": "commentary",
+        "text": "器，用也。萬物之樸散則為器用也。若道散則為神明，流為日月，分為五行也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-11",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 10,
+          "start": 0,
+          "end": 9
+        },
+        "kind": "commentary",
+        "text": "聖人升用則為百官之元長也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-12",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 11,
+          "start": 0,
+          "end": 6
+        },
+        "kind": "commentary",
+        "text": "聖人用之則以大道制御天下，無所傷割，治身則以大道制御情欲，不害精神也。",
+        "source": "cham"
+      }
+    ]
+  },
+  "annotationLayers": [
+    {
+      "id": "default",
+      "label": "原文",
+      "shortLabel": "文",
+      "contributor": "Laozi",
+      "role": "author",
+      "nature": "annotation",
+      "displayOrder": 0,
+      "enabled": true,
+      "annotations": []
+    },
+    {
+      "id": "heshanggong",
+      "label": "河上公註",
+      "shortLabel": "河",
+      "contributor": "C002",
+      "role": "commentator",
+      "nature": "commentary",
+      "displayOrder": 1,
+      "enabled": true,
+      "annotations": [
+        {
+          "id": "heshanggong-1",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 13
+          },
+          "kind": "commentary",
+          "text": "雄以喻尊，雌以喻卑。人雖自知其尊顯，當復守之以卑微，去雄之強梁，就雌之柔和，如是則天下歸之，如水流入深谿也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-2",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 1,
+            "start": 0,
+            "end": 10
+          },
+          "kind": "commentary",
+          "text": "人能謙下如深谿，則德常在，不復離於己。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-3",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 2,
+            "start": 0,
+            "end": 6
+          },
+          "kind": "commentary",
+          "text": "當復歸志於嬰兒，惷然而無所知也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-4",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 3,
+            "start": 0,
+            "end": 12
+          },
+          "kind": "commentary",
+          "text": "白以喻昭昭，黑以喻默默。人雖自知昭昭，明白當復守之以默默，如闇昧無所見，如是則可為天下法式，則德常在。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-5",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 4,
+            "start": 0,
+            "end": 10
+          },
+          "kind": "commentary",
+          "text": "人能為天下法式，則德常在於己，不復差忒。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-6",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 5,
+            "start": 0,
+            "end": 6
+          },
+          "kind": "commentary",
+          "text": "德不差忒，則常生久壽，歸身於無窮極也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-7",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 6,
+            "start": 0,
+            "end": 13
+          },
+          "kind": "commentary",
+          "text": "榮以喻尊貴，辱以喻污濁。人能知己之有榮貴，當復守之以污濁，如是則天下歸之，如水流入深谷也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-8",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 7,
+            "start": 0,
+            "end": 10
+          },
+          "kind": "commentary",
+          "text": "足，止也。人能為天下谷，則德乃常止於己。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-9",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 8,
+            "start": 0,
+            "end": 5
+          },
+          "kind": "commentary",
+          "text": "復當歸身於質樸，不復為文飾。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-10",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 9,
+            "start": 0,
+            "end": 6
+          },
+          "kind": "commentary",
+          "text": "器，用也。萬物之樸散則為器用也。若道散則為神明，流為日月，分為五行也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-11",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 10,
+            "start": 0,
+            "end": 9
+          },
+          "kind": "commentary",
+          "text": "聖人升用則為百官之元長也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-12",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 11,
+            "start": 0,
+            "end": 6
+          },
+          "kind": "commentary",
+          "text": "聖人用之則以大道制御天下，無所傷割，治身則以大道制御情欲，不害精神也。",
+          "source": "cham"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "textRef": "laozi-heshanggong-wiki",
+    "relation": "section"
+  }
+}

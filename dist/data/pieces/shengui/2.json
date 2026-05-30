@@ -1,0 +1,343 @@
+{
+  "bookId": "shengui",
+  "num": 2,
+  "title": "章第一·同體",
+  "author": "武曌",
+  "authorId": "C004",
+  "dynasty": "唐",
+  "era": "唐",
+  "eraCode": "24",
+  "genre": "prose",
+  "verses": [
+    {
+      "text": "夫人臣之於君也，猶四肢之載元首，耳目之為心使也。"
+    },
+    {
+      "text": "相須而後成體，"
+    },
+    {
+      "text": "相得而後成用。"
+    },
+    {
+      "text": "故臣之事君，猶子之事父。"
+    },
+    {
+      "text": "父子雖至親，猶未若君臣之同體也。"
+    },
+    {
+      "text": "故《虞書》曰：「臣作朕股肱耳目，"
+    },
+    {
+      "text": "余欲左右有人，汝翼；"
+    },
+    {
+      "text": "余欲宣力四方，汝為。」"
+    },
+    {
+      "text": "故知臣以君為心，君以臣為體。"
+    },
+    {
+      "text": "心安則體安，君泰則臣泰。未有心瘁於中，而體悅於外，君憂於上，而臣樂於下。"
+    },
+    {
+      "text": "古人所謂「共其安危，同其休戚」者，豈不信歟！夫欲構大廈者，必藉眾材。雖楹柱棟梁、栱櫨榱桷，長短方圓，所用各異，自非眾材同體，則不能成其構。"
+    },
+    {
+      "text": "為國者亦猶是焉。"
+    },
+    {
+      "text": "雖人之才能天性殊稟，或仁或智、或武或文，然非群臣同體，則不能興其業。"
+    },
+    {
+      "text": "故《周書》稱殷紂有億兆夷人，離心離德，"
+    },
+    {
+      "text": "此其所以亡也；"
+    },
+    {
+      "text": "周武有亂臣十人，同心同德，"
+    },
+    {
+      "text": "此其所以興也。"
+    },
+    {
+      "text": "謂舜求賢，使代己視聽於四方也。昔屠蒯亦云：「汝為君目，將司明也。"
+    },
+    {
+      "text": "汝為君耳，將司聽也。」"
+    },
+    {
+      "text": "軒轅氏有四臣，以察四方，故《屍子》云：「黃帝四目。」"
+    },
+    {
+      "text": "是知君位尊高，九重奧絕，"
+    },
+    {
+      "text": "萬方之事，不可獨臨，故置群官，以備爪牙耳目，"
+    },
+    {
+      "text": "各盡其能，則天下自化。"
+    },
+    {
+      "text": "故冕旒垂拱無為於上者，人君之任也；"
+    },
+    {
+      "text": "憂國恤人竭力於下者，人臣之職也。"
+    },
+    {
+      "text": "忠臣之獻直於君者，非願觸鱗犯上也，良由與君同體，憂患者深，志欲君之安也。」"
+    },
+    {
+      "text": "陸景《典語》曰：「國之所以有臣，臣之所以事上，非但欲備員而已。"
+    },
+    {
+      "text": "天下至廣，庶事至繁，非一人之身所能周也。"
+    },
+    {
+      "text": "故分官列職，各守其位，"
+    },
+    {
+      "text": "處其任者，必荷其憂。"
+    },
+    {
+      "text": "臣之與主，同體合用。主之任臣，既如身之信手；臣之事主，亦如手之係身。上下協心，以理國事。"
+    },
+    {
+      "text": "不俟命而自勤，"
+    },
+    {
+      "text": "不求容而自親，"
+    },
+    {
+      "text": "則君臣之道著也。」"
+    }
+  ],
+  "sections": {
+    "annotations": "1.元首：頭腦。喻君主。語出《尚書·益稷》。\n2.虞書：《尚書》之一部分，記虞舜之事。引文見《益稷》篇。\n3.股肱：大腿與上臂。喻左右輔佐之臣。\n4.休戚：歡樂與憂愁。喻同甘共苦。\n5.周書：《尚書》之一部分。引文見《泰誓》。\n6.殷紂：商紂王（？—前1046），商朝末代君主，以殘暴亡國。\n7.周武：周武王姬發，伐紂建周。\n8.亂臣十人：周武王十位輔臣。見《論語·泰伯》。\n9.舜：帝舜，上古聖王。\n10.屠蒯：春秋時晉國樂師，曾以樂諫。見《左傳·昭公九年》。\n11.軒轅氏：黃帝，姓公孫，名軒轅。傳說中華人文初祖。\n12.屍子：戰國時屍佼所著。原書已佚，有輯本。\n13.九重：宮禁深處。古代天子所居九重門。\n14.陸景：三國吳人，著有《典語》。\n15.典語：三國吳陸景所著政論。"
+  },
+  "annotations": [
+    {
+      "id": "2-1",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 13,
+        "end": 15
+      },
+      "kind": "semantic",
+      "text": "頭腦。喻君主。語出《尚書·益稷》。",
+      "source": "cham"
+    },
+    {
+      "id": "2-2",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 5,
+        "start": 2,
+        "end": 4
+      },
+      "kind": "allusion",
+      "text": "《尚書》之一部分，記虞舜之事。引文見《益稷》篇。",
+      "source": "cham"
+    },
+    {
+      "id": "2-3",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 5,
+        "start": 11,
+        "end": 13
+      },
+      "kind": "semantic",
+      "text": "大腿與上臂。喻左右輔佐之臣。",
+      "source": "cham"
+    },
+    {
+      "id": "2-4",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 10,
+        "start": 12,
+        "end": 14
+      },
+      "kind": "semantic",
+      "text": "歡樂與憂愁。喻同甘共苦。",
+      "source": "cham"
+    },
+    {
+      "id": "2-5",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 13,
+        "start": 2,
+        "end": 4
+      },
+      "kind": "allusion",
+      "text": "《尚書》之一部分。引文見《泰誓》。",
+      "source": "cham"
+    },
+    {
+      "id": "2-6",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 13,
+        "start": 6,
+        "end": 8
+      },
+      "kind": "person",
+      "text": "商紂王（？—前1046），商朝末代君主，以殘暴亡國。",
+      "source": "cham"
+    },
+    {
+      "id": "2-7",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 15,
+        "start": 0,
+        "end": 2
+      },
+      "kind": "person",
+      "text": "周武王姬發，伐紂建周。",
+      "source": "cham"
+    },
+    {
+      "id": "2-8",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 15,
+        "start": 3,
+        "end": 7
+      },
+      "kind": "event",
+      "text": "周武王十位輔臣。見《論語·泰伯》。",
+      "source": "cham"
+    },
+    {
+      "id": "2-9",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 17,
+        "start": 1,
+        "end": 2
+      },
+      "kind": "person",
+      "text": "帝舜，上古聖王。",
+      "source": "cham"
+    },
+    {
+      "id": "2-10",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 17,
+        "start": 16,
+        "end": 18
+      },
+      "kind": "person",
+      "text": "春秋時晉國樂師，曾以樂諫。見《左傳·昭公九年》。",
+      "source": "cham"
+    },
+    {
+      "id": "2-11",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 19,
+        "start": 0,
+        "end": 3
+      },
+      "kind": "person",
+      "text": "黃帝，姓公孫，名軒轅。傳說中華人文初祖。",
+      "source": "cham"
+    },
+    {
+      "id": "2-12",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 19,
+        "start": 14,
+        "end": 16
+      },
+      "kind": "allusion",
+      "text": "戰國時屍佼所著。原書已佚，有輯本。",
+      "source": "cham"
+    },
+    {
+      "id": "2-13",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 20,
+        "start": 7,
+        "end": 9
+      },
+      "kind": "semantic",
+      "text": "宮禁深處。古代天子所居九重門。",
+      "source": "cham"
+    },
+    {
+      "id": "2-14",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 26,
+        "start": 0,
+        "end": 2
+      },
+      "kind": "person",
+      "text": "三國吳人，著有《典語》。",
+      "source": "cham"
+    },
+    {
+      "id": "2-15",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 26,
+        "start": 3,
+        "end": 5
+      },
+      "kind": "allusion",
+      "text": "三國吳陸景所著政論。",
+      "source": "cham"
+    }
+  ],
+  "annotationLayers": [
+    {
+      "id": "default",
+      "label": "原文",
+      "shortLabel": "文",
+      "contributor": "C004",
+      "role": "author",
+      "nature": "annotation",
+      "displayOrder": 0,
+      "enabled": true,
+      "annotations": []
+    },
+    {
+      "id": "commentary",
+      "label": "注",
+      "shortLabel": "注",
+      "contributor": "C011",
+      "role": "commentator",
+      "nature": "commentary",
+      "displayOrder": 1,
+      "enabled": true,
+      "annotations": []
+    }
+  ],
+  "source": {
+    "textRef": "shengui",
+    "relation": "section"
+  }
+}

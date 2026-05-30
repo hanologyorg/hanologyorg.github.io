@@ -1,0 +1,279 @@
+{
+  "bookId": "heshanggong-laozi",
+  "num": 11,
+  "title": "第十一章（無用）",
+  "author": "老子",
+  "authorId": "Laozi",
+  "dynasty": "周",
+  "era": "周",
+  "genre": "prose",
+  "verses": [
+    {
+      "text": "三十輻共一轂，"
+    },
+    {
+      "text": "當其無，有車之用。"
+    },
+    {
+      "text": "埏埴以為器，"
+    },
+    {
+      "text": "當其無，有器之用。"
+    },
+    {
+      "text": "鑿戶牖以為室，"
+    },
+    {
+      "text": "當其無有室之用。"
+    },
+    {
+      "text": "故有之以為利，"
+    },
+    {
+      "text": "無之以為用。"
+    }
+  ],
+  "sections": {},
+  "annotations": [],
+  "layers": {
+    "heshanggong": [
+      {
+        "id": "heshanggong-1",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 7
+        },
+        "kind": "commentary",
+        "text": "古者車三十輻，法月數也。 共一轂者，轂中有孔，故眾輻共湊之。 治身者當除情去欲，使五藏空虛，神乃歸之。 治國者寡能，摠眾弱共使強也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-2",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 0,
+          "end": 9
+        },
+        "kind": "commentary",
+        "text": "無，謂空虛。 轂中空虛，輪得轉行，轝中空虛，人得載其上也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-3",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 2,
+          "start": 0,
+          "end": 6
+        },
+        "kind": "commentary",
+        "text": "埏，和也。埴，土也。 和土以為飲食之器。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-4",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 3,
+          "start": 0,
+          "end": 9
+        },
+        "kind": "commentary",
+        "text": "器中空虛，故得有所盛受。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-5",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 4,
+          "start": 0,
+          "end": 7
+        },
+        "kind": "commentary",
+        "text": "謂作屋室。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-6",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 5,
+          "start": 0,
+          "end": 8
+        },
+        "kind": "commentary",
+        "text": "言戶牖空虛，人得以出入觀視；室中空虛，人得以居處，是其用。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-7",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 6,
+          "start": 0,
+          "end": 7
+        },
+        "kind": "commentary",
+        "text": "利，物也，利於形用。 器中有物，室中有人，恐其屋破壞，腹中有神，畏其形亡也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-8",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 7,
+          "start": 0,
+          "end": 6
+        },
+        "kind": "commentary",
+        "text": "言虛空者乃可用盛受萬物，故曰虛無能制有形。道者空也。",
+        "source": "cham"
+      }
+    ]
+  },
+  "annotationLayers": [
+    {
+      "id": "default",
+      "label": "原文",
+      "shortLabel": "文",
+      "contributor": "Laozi",
+      "role": "author",
+      "nature": "annotation",
+      "displayOrder": 0,
+      "enabled": true,
+      "annotations": []
+    },
+    {
+      "id": "heshanggong",
+      "label": "河上公註",
+      "shortLabel": "河",
+      "contributor": "C002",
+      "role": "commentator",
+      "nature": "commentary",
+      "displayOrder": 1,
+      "enabled": true,
+      "annotations": [
+        {
+          "id": "heshanggong-1",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 7
+          },
+          "kind": "commentary",
+          "text": "古者車三十輻，法月數也。 共一轂者，轂中有孔，故眾輻共湊之。 治身者當除情去欲，使五藏空虛，神乃歸之。 治國者寡能，摠眾弱共使強也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-2",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 1,
+            "start": 0,
+            "end": 9
+          },
+          "kind": "commentary",
+          "text": "無，謂空虛。 轂中空虛，輪得轉行，轝中空虛，人得載其上也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-3",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 2,
+            "start": 0,
+            "end": 6
+          },
+          "kind": "commentary",
+          "text": "埏，和也。埴，土也。 和土以為飲食之器。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-4",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 3,
+            "start": 0,
+            "end": 9
+          },
+          "kind": "commentary",
+          "text": "器中空虛，故得有所盛受。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-5",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 4,
+            "start": 0,
+            "end": 7
+          },
+          "kind": "commentary",
+          "text": "謂作屋室。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-6",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 5,
+            "start": 0,
+            "end": 8
+          },
+          "kind": "commentary",
+          "text": "言戶牖空虛，人得以出入觀視；室中空虛，人得以居處，是其用。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-7",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 6,
+            "start": 0,
+            "end": 7
+          },
+          "kind": "commentary",
+          "text": "利，物也，利於形用。 器中有物，室中有人，恐其屋破壞，腹中有神，畏其形亡也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-8",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 7,
+            "start": 0,
+            "end": 6
+          },
+          "kind": "commentary",
+          "text": "言虛空者乃可用盛受萬物，故曰虛無能制有形。道者空也。",
+          "source": "cham"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "textRef": "heshanggong-laozi",
+    "relation": "section"
+  }
+}

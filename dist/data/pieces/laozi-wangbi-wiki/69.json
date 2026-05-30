@@ -1,0 +1,163 @@
+{
+  "bookId": "laozi-wangbi-wiki",
+  "num": 69,
+  "title": "第六十九章",
+  "author": "老子",
+  "authorId": "Laozi",
+  "dynasty": "周",
+  "era": "周",
+  "genre": "prose",
+  "verses": [
+    {
+      "text": "用兵有言﹕「吾不敢為主而為客，不敢進寸而退尺。」是謂行無行，"
+    },
+    {
+      "text": "攘無臂，扔無敵，"
+    },
+    {
+      "text": "執無兵。禍莫大於輕敵，輕敵幾喪吾寶。"
+    },
+    {
+      "text": "故抗兵相加，哀者勝矣。"
+    }
+  ],
+  "sections": {},
+  "annotations": [],
+  "layers": {
+    "wangbi": [
+      {
+        "id": "wangbi-1",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 30
+        },
+        "kind": "commentary",
+        "text": "彼遂不止。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-2",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 0,
+          "end": 8
+        },
+        "kind": "commentary",
+        "text": "行，謂行陳也，言以謙退哀慈，不敢為物先，用戰猶行無行，攘無臂，執無兵，扔無敵也，言無有與之抗也。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-3",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 2,
+          "start": 0,
+          "end": 18
+        },
+        "kind": "commentary",
+        "text": "言吾哀慈謙退，非欲以取强，無敵於天下也。不得已而卒至於無敵，斯乃吾之所以為大禍也。寶，三寶也，故曰，幾亡吾寶。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-4",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 3,
+          "start": 0,
+          "end": 11
+        },
+        "kind": "commentary",
+        "text": "抗，舉也；加，當也。哀者，必相惜而不趣利避害，故必勝。",
+        "source": "cham"
+      }
+    ]
+  },
+  "annotationLayers": [
+    {
+      "id": "default",
+      "label": "原文",
+      "shortLabel": "文",
+      "contributor": "Laozi",
+      "role": "author",
+      "nature": "annotation",
+      "displayOrder": 0,
+      "enabled": true,
+      "annotations": []
+    },
+    {
+      "id": "wangbi",
+      "label": "王弼註",
+      "shortLabel": "王",
+      "contributor": "C001",
+      "role": "commentator",
+      "nature": "commentary",
+      "displayOrder": 1,
+      "enabled": true,
+      "annotations": [
+        {
+          "id": "wangbi-1",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 30
+          },
+          "kind": "commentary",
+          "text": "彼遂不止。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-2",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 1,
+            "start": 0,
+            "end": 8
+          },
+          "kind": "commentary",
+          "text": "行，謂行陳也，言以謙退哀慈，不敢為物先，用戰猶行無行，攘無臂，執無兵，扔無敵也，言無有與之抗也。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-3",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 2,
+            "start": 0,
+            "end": 18
+          },
+          "kind": "commentary",
+          "text": "言吾哀慈謙退，非欲以取强，無敵於天下也。不得已而卒至於無敵，斯乃吾之所以為大禍也。寶，三寶也，故曰，幾亡吾寶。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-4",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 3,
+            "start": 0,
+            "end": 11
+          },
+          "kind": "commentary",
+          "text": "抗，舉也；加，當也。哀者，必相惜而不趣利避害，故必勝。",
+          "source": "cham"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "textRef": "laozi-wangbi-wiki",
+    "relation": "section"
+  }
+}

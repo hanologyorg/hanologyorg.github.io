@@ -1,0 +1,221 @@
+{
+  "bookId": "laozi-wangbi-wiki",
+  "num": 15,
+  "title": "第十五章",
+  "author": "老子",
+  "authorId": "Laozi",
+  "dynasty": "周",
+  "era": "周",
+  "genre": "prose",
+  "verses": [
+    {
+      "text": "古之善為士者，微妙玄通，深不可識。夫唯不可識，故強為之容。豫焉若冬涉川，"
+    },
+    {
+      "text": "猶兮若畏四鄰，"
+    },
+    {
+      "text": "儼兮其若容，渙兮若冰之將釋，敦兮其若樸，曠兮其若谷，混兮其若濁。"
+    },
+    {
+      "text": "孰能濁以靜之徐清？孰能安以久動之徐生？"
+    },
+    {
+      "text": "保此道者不欲盈，"
+    },
+    {
+      "text": "夫唯不盈，故能蔽不新成。"
+    }
+  ],
+  "sections": {},
+  "annotations": [],
+  "layers": {
+    "wangbi": [
+      {
+        "id": "wangbi-1",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 36
+        },
+        "kind": "commentary",
+        "text": "冬之涉川，豫然若欲度、若不欲度，其情不可得見之貌也。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-2",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 0,
+          "end": 7
+        },
+        "kind": "commentary",
+        "text": "四鄰合攻中央之主，猶然不知所趣向者也。上德之人，其端兆不可覩，德趣不可見，亦猶此也。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-3",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 2,
+          "start": 0,
+          "end": 32
+        },
+        "kind": "commentary",
+        "text": "凡此諸若，皆言其容象不可得而形名也。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-4",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 3,
+          "start": 0,
+          "end": 19
+        },
+        "kind": "commentary",
+        "text": "夫晦以理物則得明，濁以靜物則得清，安以動物則得生，此自然之道也。孰能者，言其難也。徐者，詳慎也。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-5",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 4,
+          "start": 0,
+          "end": 8
+        },
+        "kind": "commentary",
+        "text": "盈必溢也。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-6",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 5,
+          "start": 0,
+          "end": 12
+        },
+        "kind": "commentary",
+        "text": "蔽，覆蓋也。",
+        "source": "cham"
+      }
+    ]
+  },
+  "annotationLayers": [
+    {
+      "id": "default",
+      "label": "原文",
+      "shortLabel": "文",
+      "contributor": "Laozi",
+      "role": "author",
+      "nature": "annotation",
+      "displayOrder": 0,
+      "enabled": true,
+      "annotations": []
+    },
+    {
+      "id": "wangbi",
+      "label": "王弼註",
+      "shortLabel": "王",
+      "contributor": "C001",
+      "role": "commentator",
+      "nature": "commentary",
+      "displayOrder": 1,
+      "enabled": true,
+      "annotations": [
+        {
+          "id": "wangbi-1",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 36
+          },
+          "kind": "commentary",
+          "text": "冬之涉川，豫然若欲度、若不欲度，其情不可得見之貌也。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-2",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 1,
+            "start": 0,
+            "end": 7
+          },
+          "kind": "commentary",
+          "text": "四鄰合攻中央之主，猶然不知所趣向者也。上德之人，其端兆不可覩，德趣不可見，亦猶此也。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-3",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 2,
+            "start": 0,
+            "end": 32
+          },
+          "kind": "commentary",
+          "text": "凡此諸若，皆言其容象不可得而形名也。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-4",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 3,
+            "start": 0,
+            "end": 19
+          },
+          "kind": "commentary",
+          "text": "夫晦以理物則得明，濁以靜物則得清，安以動物則得生，此自然之道也。孰能者，言其難也。徐者，詳慎也。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-5",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 4,
+            "start": 0,
+            "end": 8
+          },
+          "kind": "commentary",
+          "text": "盈必溢也。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-6",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 5,
+            "start": 0,
+            "end": 12
+          },
+          "kind": "commentary",
+          "text": "蔽，覆蓋也。",
+          "source": "cham"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "textRef": "laozi-wangbi-wiki",
+    "relation": "section"
+  }
+}

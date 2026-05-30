@@ -1,0 +1,859 @@
+{
+  "bookId": "heshanggong-laozi",
+  "num": 38,
+  "title": "第三十八章（論德）",
+  "author": "老子",
+  "authorId": "Laozi",
+  "dynasty": "周",
+  "era": "周",
+  "genre": "prose",
+  "verses": [
+    {
+      "text": "上德不德，"
+    },
+    {
+      "text": "是以有德。"
+    },
+    {
+      "text": "下德不失德，"
+    },
+    {
+      "text": "是以無德。"
+    },
+    {
+      "text": "上德無為"
+    },
+    {
+      "text": "而無以為，"
+    },
+    {
+      "text": "下德為之"
+    },
+    {
+      "text": "而有以為。"
+    },
+    {
+      "text": "上仁為之"
+    },
+    {
+      "text": "而無以為，"
+    },
+    {
+      "text": "上義為之"
+    },
+    {
+      "text": "而有以為。"
+    },
+    {
+      "text": "上禮為之"
+    },
+    {
+      "text": "而莫之應，"
+    },
+    {
+      "text": "則攘臂而扔之。"
+    },
+    {
+      "text": "故失道而後德，"
+    },
+    {
+      "text": "失德而後仁，"
+    },
+    {
+      "text": "失仁而後義，"
+    },
+    {
+      "text": "失義而後禮。"
+    },
+    {
+      "text": "夫禮者，忠信之薄"
+    },
+    {
+      "text": "而亂之首。"
+    },
+    {
+      "text": "前識者，道之華"
+    },
+    {
+      "text": "而愚之始。"
+    },
+    {
+      "text": "是以大丈夫處其厚，"
+    },
+    {
+      "text": "不居其薄，"
+    },
+    {
+      "text": "處其實，"
+    },
+    {
+      "text": "不居其華。"
+    },
+    {
+      "text": "故去彼取此。"
+    }
+  ],
+  "sections": {},
+  "annotations": [],
+  "layers": {
+    "heshanggong": [
+      {
+        "id": "heshanggong-1",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 5
+        },
+        "kind": "commentary",
+        "text": "上德，謂太古無名號之君，德大無上，故言上德也。不德者，言其不以德教民，因循自然，養人性命，其德不見，故言不德也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-2",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 0,
+          "end": 5
+        },
+        "kind": "commentary",
+        "text": "言其德合於天地，和氣流行，民德以全也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-3",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 2,
+          "start": 0,
+          "end": 6
+        },
+        "kind": "commentary",
+        "text": "下德，謂號謚之君，德不及上德，故言下德也。不失德者，其德可見，其功可稱也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-4",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 3,
+          "start": 0,
+          "end": 5
+        },
+        "kind": "commentary",
+        "text": "以有名號及其身故。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-5",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 4,
+          "start": 0,
+          "end": 4
+        },
+        "kind": "commentary",
+        "text": "謂法道安靜，無所施為也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-6",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 5,
+          "start": 0,
+          "end": 5
+        },
+        "kind": "commentary",
+        "text": "言無以名號為也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-7",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 6,
+          "start": 0,
+          "end": 4
+        },
+        "kind": "commentary",
+        "text": "言為教令，施政事也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-8",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 7,
+          "start": 0,
+          "end": 5
+        },
+        "kind": "commentary",
+        "text": "言以為己取名號也",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-9",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 8,
+          "start": 0,
+          "end": 4
+        },
+        "kind": "commentary",
+        "text": "上仁謂行仁之君，其仁無上，故言上仁。為之者，為人恩也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-10",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 9,
+          "start": 0,
+          "end": 5
+        },
+        "kind": "commentary",
+        "text": "功成事立，無以執為。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-11",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 10,
+          "start": 0,
+          "end": 4
+        },
+        "kind": "commentary",
+        "text": "為義以斷割也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-12",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 11,
+          "start": 0,
+          "end": 5
+        },
+        "kind": "commentary",
+        "text": "動作以為己，殺人以成威，賊下以自奉也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-13",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 12,
+          "start": 0,
+          "end": 4
+        },
+        "kind": "commentary",
+        "text": "謂上禮之君，其禮無上，故言上禮。為之者，言為禮制度，序威儀也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-14",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 13,
+          "start": 0,
+          "end": 5
+        },
+        "kind": "commentary",
+        "text": "言禮華盛實衰，飾偽煩多，動則離道，不可應也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-15",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 14,
+          "start": 0,
+          "end": 7
+        },
+        "kind": "commentary",
+        "text": "言禮煩多不可應，上下忿爭，故攘臂相仍引。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-16",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 15,
+          "start": 0,
+          "end": 7
+        },
+        "kind": "commentary",
+        "text": "言道衰而德化生也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-17",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 16,
+          "start": 0,
+          "end": 6
+        },
+        "kind": "commentary",
+        "text": "言德衰而仁愛見也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-18",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 17,
+          "start": 0,
+          "end": 6
+        },
+        "kind": "commentary",
+        "text": "言仁衰而分義明也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-19",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 18,
+          "start": 0,
+          "end": 6
+        },
+        "kind": "commentary",
+        "text": "言義衰則失禮聘，行玉帛也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-20",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 19,
+          "start": 0,
+          "end": 8
+        },
+        "kind": "commentary",
+        "text": "言禮廢本治末，忠信日以衰薄。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-21",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 20,
+          "start": 0,
+          "end": 5
+        },
+        "kind": "commentary",
+        "text": "禮者賤質而貴文，故正直日以少，邪亂日以生。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-22",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 21,
+          "start": 0,
+          "end": 7
+        },
+        "kind": "commentary",
+        "text": "不知而言知為前識，此人失道之時，得道之華。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-23",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 22,
+          "start": 0,
+          "end": 5
+        },
+        "kind": "commentary",
+        "text": "言前識之人，愚闇之倡始也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-24",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 23,
+          "start": 0,
+          "end": 9
+        },
+        "kind": "commentary",
+        "text": "大丈夫謂得道之君也。處其厚者，謂處身於敦樸。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-25",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 24,
+          "start": 0,
+          "end": 5
+        },
+        "kind": "commentary",
+        "text": "不處身違道，為世煩亂也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-26",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 25,
+          "start": 0,
+          "end": 4
+        },
+        "kind": "commentary",
+        "text": "處忠信也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-27",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 26,
+          "start": 0,
+          "end": 5
+        },
+        "kind": "commentary",
+        "text": "不尚華言也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-28",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 27,
+          "start": 0,
+          "end": 6
+        },
+        "kind": "commentary",
+        "text": "去彼華薄，取此厚實。",
+        "source": "cham"
+      }
+    ]
+  },
+  "annotationLayers": [
+    {
+      "id": "default",
+      "label": "原文",
+      "shortLabel": "文",
+      "contributor": "Laozi",
+      "role": "author",
+      "nature": "annotation",
+      "displayOrder": 0,
+      "enabled": true,
+      "annotations": []
+    },
+    {
+      "id": "heshanggong",
+      "label": "河上公註",
+      "shortLabel": "河",
+      "contributor": "C002",
+      "role": "commentator",
+      "nature": "commentary",
+      "displayOrder": 1,
+      "enabled": true,
+      "annotations": [
+        {
+          "id": "heshanggong-1",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 5
+          },
+          "kind": "commentary",
+          "text": "上德，謂太古無名號之君，德大無上，故言上德也。不德者，言其不以德教民，因循自然，養人性命，其德不見，故言不德也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-2",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 1,
+            "start": 0,
+            "end": 5
+          },
+          "kind": "commentary",
+          "text": "言其德合於天地，和氣流行，民德以全也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-3",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 2,
+            "start": 0,
+            "end": 6
+          },
+          "kind": "commentary",
+          "text": "下德，謂號謚之君，德不及上德，故言下德也。不失德者，其德可見，其功可稱也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-4",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 3,
+            "start": 0,
+            "end": 5
+          },
+          "kind": "commentary",
+          "text": "以有名號及其身故。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-5",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 4,
+            "start": 0,
+            "end": 4
+          },
+          "kind": "commentary",
+          "text": "謂法道安靜，無所施為也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-6",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 5,
+            "start": 0,
+            "end": 5
+          },
+          "kind": "commentary",
+          "text": "言無以名號為也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-7",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 6,
+            "start": 0,
+            "end": 4
+          },
+          "kind": "commentary",
+          "text": "言為教令，施政事也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-8",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 7,
+            "start": 0,
+            "end": 5
+          },
+          "kind": "commentary",
+          "text": "言以為己取名號也",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-9",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 8,
+            "start": 0,
+            "end": 4
+          },
+          "kind": "commentary",
+          "text": "上仁謂行仁之君，其仁無上，故言上仁。為之者，為人恩也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-10",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 9,
+            "start": 0,
+            "end": 5
+          },
+          "kind": "commentary",
+          "text": "功成事立，無以執為。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-11",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 10,
+            "start": 0,
+            "end": 4
+          },
+          "kind": "commentary",
+          "text": "為義以斷割也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-12",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 11,
+            "start": 0,
+            "end": 5
+          },
+          "kind": "commentary",
+          "text": "動作以為己，殺人以成威，賊下以自奉也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-13",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 12,
+            "start": 0,
+            "end": 4
+          },
+          "kind": "commentary",
+          "text": "謂上禮之君，其禮無上，故言上禮。為之者，言為禮制度，序威儀也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-14",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 13,
+            "start": 0,
+            "end": 5
+          },
+          "kind": "commentary",
+          "text": "言禮華盛實衰，飾偽煩多，動則離道，不可應也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-15",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 14,
+            "start": 0,
+            "end": 7
+          },
+          "kind": "commentary",
+          "text": "言禮煩多不可應，上下忿爭，故攘臂相仍引。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-16",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 15,
+            "start": 0,
+            "end": 7
+          },
+          "kind": "commentary",
+          "text": "言道衰而德化生也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-17",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 16,
+            "start": 0,
+            "end": 6
+          },
+          "kind": "commentary",
+          "text": "言德衰而仁愛見也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-18",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 17,
+            "start": 0,
+            "end": 6
+          },
+          "kind": "commentary",
+          "text": "言仁衰而分義明也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-19",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 18,
+            "start": 0,
+            "end": 6
+          },
+          "kind": "commentary",
+          "text": "言義衰則失禮聘，行玉帛也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-20",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 19,
+            "start": 0,
+            "end": 8
+          },
+          "kind": "commentary",
+          "text": "言禮廢本治末，忠信日以衰薄。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-21",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 20,
+            "start": 0,
+            "end": 5
+          },
+          "kind": "commentary",
+          "text": "禮者賤質而貴文，故正直日以少，邪亂日以生。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-22",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 21,
+            "start": 0,
+            "end": 7
+          },
+          "kind": "commentary",
+          "text": "不知而言知為前識，此人失道之時，得道之華。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-23",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 22,
+            "start": 0,
+            "end": 5
+          },
+          "kind": "commentary",
+          "text": "言前識之人，愚闇之倡始也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-24",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 23,
+            "start": 0,
+            "end": 9
+          },
+          "kind": "commentary",
+          "text": "大丈夫謂得道之君也。處其厚者，謂處身於敦樸。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-25",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 24,
+            "start": 0,
+            "end": 5
+          },
+          "kind": "commentary",
+          "text": "不處身違道，為世煩亂也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-26",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 25,
+            "start": 0,
+            "end": 4
+          },
+          "kind": "commentary",
+          "text": "處忠信也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-27",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 26,
+            "start": 0,
+            "end": 5
+          },
+          "kind": "commentary",
+          "text": "不尚華言也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-28",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 27,
+            "start": 0,
+            "end": 6
+          },
+          "kind": "commentary",
+          "text": "去彼華薄，取此厚實。",
+          "source": "cham"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "textRef": "heshanggong-laozi",
+    "relation": "section"
+  }
+}

@@ -1,0 +1,265 @@
+{
+  "bookId": "primary",
+  "num": 25,
+  "title": "送別",
+  "author": "王維",
+  "authorId": "A016",
+  "dynasty": "唐",
+  "era": "唐",
+  "eraCode": "24",
+  "genre": "poetry",
+  "verses": [
+    {
+      "text": "下馬飲君酒，問君何所之？"
+    },
+    {
+      "text": "君言不得意，歸臥南山陲。"
+    },
+    {
+      "text": "但去莫復問，白雲無盡時。"
+    }
+  ],
+  "sections": {
+    "analysis": "此詩的主題是送友人歸隱。友人將要起行，詩人匆匆趕去餞別，一下馬立即為友人設宴餞行，頻頻勸他喝酒。席間詩人急切地向友人探問打算前往何處，友人表示因為不得志，要到終南山去歸隱。詩人感慨地說：「您只管去吧，我不會再追問您歸隱的因由。悠悠白雲將永遠伴隨着您！」\n\n這首詩用的是問答法，首句點題，次句提問，第三、四句回答，五、六句抒發感慨。第一句的「下馬」寫出詩人匆匆趕來送行，也暗示事出突然，不知詳情，為下句「問君」預設鋪墊。第二句設問，表示對友人的關切，同時借此引出下文。三、四兩句，道出友人歸隱的原因。友人心中的苦澀一言難盡，所有的不平、辛酸和委屈全都包容在「不得意」三個字裏面。最後兩句寫詩人對友人的勸慰。友人歸隱南山，詩人未加勸阻，只道「但去莫復問，白雲無盡時」，意味深長。「但去」，表明詩人的同情和支持。「莫復問」，弦外之音是一切都已了解，無須再多問，流露出詩人對現實的憤懣和無奈。「白雲」一句，含意較隱晦。天上的白雲是永無窮盡的，就如世上的是非得失沒完沒了，友人因此放棄塵世追逐的功名利祿，詩人自然對此深為理解，故而不必再說。世道人心如此，叫人能有甚麼辦法可以分辨是非呢？\n\n全詩環環緊扣，層層遞進，貌似平淡無奇，實則詞淺意深，言外含有不盡之意。",
+    "follow_up": "1. 聆聽誦讀錄音，投入感情朗讀詩歌，並由同學互評。 https://www.edb.gov.hk/attachment/tc/curriculum-development/kla/chi-edu/resources/primary/lang/jilei/025_jilei_shi(cantonese).mp3\n\n2. 聆聽由藝術家李叔同作詞的歌曲《送別》，細味歌詞中所表達的送別之情。\n\n3. 蒐集有關「送別」的詩歌（如李白的《贈汪倫》、白居易的《賦得古原草送別》），跟同學說說與本詩的相同或相異之處。",
+    "think_questions": "1. 送別親朋好友時，你會跟他們說些甚麼？\n\n2. 和朋友分隔兩地，你會用甚麼方法來維繫大家的感情？\n\n3. 朋友受到委屈或感到無可奈何時，你會如何安慰及鼓勵他呢？",
+    "annotations": "1.飲君酒：○粵蔭；jam3；○普yìn。請您飲酒。\n飲：使（別人）飲。讀去聲，自飲才讀上聲；。\n2.飲：使（別人）飲。讀去聲，自飲才讀上聲；。\n3.何所之：前往何處。\n之：往。\n4.之：往。\n5.不得意：不如意。\n6.歸臥：歸隱。\n7.陲：○粵垂；seoi4；○普chuí。旁邊、邊緣。\n8.但去：只管去吧。\n9.莫：不要。\n10.復：再。\n11.白雲：白雲可以遮蔽陽光，故隱喻讒言中傷君子的小人。例如「浮雲蔽\n白日，遊子不顧返」。又如「苦為浮雲蔽白日，長安不見使人愁。」王\n維的友人在官場被人中傷，故用此比喻。\n12.無盡：沒有盡頭。比喻讒言中傷是說不完的，毋庸介懷。"
+  },
+  "annotations": [
+    {
+      "id": "25-1",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 2,
+        "end": 5
+      },
+      "kind": "pronunciation",
+      "lang": "yue",
+      "text": "蔭；jam3",
+      "source": "cham"
+    },
+    {
+      "id": "25-2",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 2,
+        "end": 5
+      },
+      "kind": "pronunciation",
+      "lang": "cmn",
+      "text": "yìn",
+      "source": "cham"
+    },
+    {
+      "id": "25-3",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 2,
+        "end": 5
+      },
+      "kind": "semantic",
+      "text": "請您飲酒。\n飲：使（別人）飲。讀去聲，自飲才讀上聲；。",
+      "source": "cham"
+    },
+    {
+      "id": "25-4",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 2,
+        "end": 3
+      },
+      "kind": "semantic",
+      "text": "使（別人）飲。讀去聲，自飲才讀上聲；。",
+      "source": "cham"
+    },
+    {
+      "id": "25-5",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 8,
+        "end": 11
+      },
+      "kind": "semantic",
+      "text": "前往何處。\n之：往。",
+      "source": "cham"
+    },
+    {
+      "id": "25-6",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 10,
+        "end": 11
+      },
+      "kind": "semantic",
+      "text": "往。",
+      "source": "cham"
+    },
+    {
+      "id": "25-7",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 1,
+        "start": 2,
+        "end": 5
+      },
+      "kind": "semantic",
+      "text": "不如意。",
+      "source": "cham"
+    },
+    {
+      "id": "25-8",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 1,
+        "start": 6,
+        "end": 8
+      },
+      "kind": "semantic",
+      "text": "歸隱。",
+      "source": "cham"
+    },
+    {
+      "id": "25-9",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 1,
+        "start": 10,
+        "end": 11
+      },
+      "kind": "pronunciation",
+      "lang": "yue",
+      "text": "垂；seoi4",
+      "source": "cham"
+    },
+    {
+      "id": "25-10",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 1,
+        "start": 10,
+        "end": 11
+      },
+      "kind": "pronunciation",
+      "lang": "cmn",
+      "text": "chuí",
+      "source": "cham"
+    },
+    {
+      "id": "25-11",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 1,
+        "start": 10,
+        "end": 11
+      },
+      "kind": "semantic",
+      "text": "旁邊、邊緣。",
+      "source": "cham"
+    },
+    {
+      "id": "25-12",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 2,
+        "start": 0,
+        "end": 2
+      },
+      "kind": "semantic",
+      "text": "只管去吧。",
+      "source": "cham"
+    },
+    {
+      "id": "25-13",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 2,
+        "start": 2,
+        "end": 3
+      },
+      "kind": "semantic",
+      "text": "不要。",
+      "source": "cham"
+    },
+    {
+      "id": "25-14",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 2,
+        "start": 3,
+        "end": 4
+      },
+      "kind": "semantic",
+      "text": "再。",
+      "source": "cham"
+    },
+    {
+      "id": "25-15",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 2,
+        "start": 6,
+        "end": 8
+      },
+      "kind": "semantic",
+      "text": "白雲可以遮蔽陽光，故隱喻讒言中傷君子的小人。例如「浮雲蔽\n白日，遊子不顧返」。又如「苦為浮雲蔽白日，長安不見使人愁。」王\n維的友人在官場被人中傷，故用此比喻。",
+      "source": "cham"
+    },
+    {
+      "id": "25-16",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 2,
+        "start": 8,
+        "end": 10
+      },
+      "kind": "semantic",
+      "text": "沒有盡頭。比喻讒言中傷是說不完的，毋庸介懷。",
+      "source": "cham"
+    }
+  ],
+  "structuredSections": [
+    {
+      "key": "analysis",
+      "title": "賞析",
+      "filename": "analysis.md",
+      "body": "此詩的主題是送友人歸隱。友人將要起行，詩人匆匆趕去餞別，一下馬立即為友人設宴餞行，頻頻勸他喝酒。席間詩人急切地向友人探問打算前往何處，友人表示因為不得志，要到終南山去歸隱。詩人感慨地說：「您只管去吧，我不會再追問您歸隱的因由。悠悠白雲將永遠伴隨着您！」\n\n這首詩用的是問答法，首句點題，次句提問，第三、四句回答，五、六句抒發感慨。第一句的「下馬」寫出詩人匆匆趕來送行，也暗示事出突然，不知詳情，為下句「問君」預設鋪墊。第二句設問，表示對友人的關切，同時借此引出下文。三、四兩句，道出友人歸隱的原因。友人心中的苦澀一言難盡，所有的不平、辛酸和委屈全都包容在「不得意」三個字裏面。最後兩句寫詩人對友人的勸慰。友人歸隱南山，詩人未加勸阻，只道「但去莫復問，白雲無盡時」，意味深長。「但去」，表明詩人的同情和支持。「莫復問」，弦外之音是一切都已了解，無須再多問，流露出詩人對現實的憤懣和無奈。「白雲」一句，含意較隱晦。天上的白雲是永無窮盡的，就如世上的是非得失沒完沒了，友人因此放棄塵世追逐的功名利祿，詩人自然對此深為理解，故而不必再說。世道人心如此，叫人能有甚麼辦法可以分辨是非呢？\n\n全詩環環緊扣，層層遞進，貌似平淡無奇，實則詞淺意深，言外含有不盡之意。",
+      "order": 3
+    },
+    {
+      "key": "follow_up",
+      "title": "延伸活動",
+      "filename": "follow-up.md",
+      "body": "1. 聆聽誦讀錄音，投入感情朗讀詩歌，並由同學互評。 https://www.edb.gov.hk/attachment/tc/curriculum-development/kla/chi-edu/resources/primary/lang/jilei/025_jilei_shi(cantonese).mp3\n\n2. 聆聽由藝術家李叔同作詞的歌曲《送別》，細味歌詞中所表達的送別之情。\n\n3. 蒐集有關「送別」的詩歌（如李白的《贈汪倫》、白居易的《賦得古原草送別》），跟同學說說與本詩的相同或相異之處。",
+      "order": 4
+    },
+    {
+      "key": "think_questions",
+      "title": "思考問題",
+      "filename": "think-questions.md",
+      "body": "1. 送別親朋好友時，你會跟他們說些甚麼？\n\n2. 和朋友分隔兩地，你會用甚麼方法來維繫大家的感情？\n\n3. 朋友受到委屈或感到無可奈何時，你會如何安慰及鼓勵他呢？",
+      "order": 5
+    }
+  ]
+}

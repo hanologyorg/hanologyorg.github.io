@@ -1,0 +1,291 @@
+{
+  "bookId": "skqs-yantielun",
+  "num": 46,
+  "title": "救匱第三十",
+  "author": "桓寬",
+  "authorId": "桓寬",
+  "dynasty": "漢",
+  "era": "漢",
+  "eraCode": "07",
+  "genre": "prose",
+  "verses": [
+    {
+      "text": "丞相史曰治聚不足奈何"
+    },
+    {
+      "text": "賢良曰蓋橈枉者過直救文者以質昔者晏子相齊一狐裘三十載故民奢示之以儉民儉示之以禮方今公卿大夫子孫誠能節車輿適衣服躬親節儉率以敦朴罷園池損田宅内無事乎市列外無事乎山澤農夫有所施其功女紅有所粥其業如是則氣脉和平無聚不足之病矣"
+    },
+    {
+      "text": "大夫曰孤子語孝躄者語杖貧者語仁賤者語治議不在巳者易稱從旁議者易是其當局則亂故公孫𢎞布被倪寛練袍衣若僕妾食若庸夫淮南逆於内蠻夷暴於外盗賊不為禁奢侈不為節若疫嵗之巫徒能鼓口耳何㪚不足之能治乎"
+    },
+    {
+      "text": "賢良曰高皇帝之時蕭曹為公滕灌之屬為卿濟濟然斯則賢矣文景之際建元之始大臣尚有爭引守正之義自此之後多承意從欲少敢直言面議而正刺因公而狥私故武安丞相訟園田爭曲直人主之前夫九層之臺一傾公輸子不能正夲朝一邪伊望不能復故公孫丞相倪大夫側身行道分禄以養賢卑已以下士功業顯立日力不足無行人子産之繼而葛繹澎侯之等隳壊其緒紕亂其紀毁其客館議堂以為馬廐婦舍無養士之禮而尚驕矜之色亷耻陵遲而爭於利矣故良田廣宅民無所之不耻為利者滿朝市列田畜者彌郡國横暴掣頓大第巨舍之旁道路且不通此固難醫而不可為工大夫勃然作色黙而不應"
+    }
+  ],
+  "sections": {},
+  "annotations": [],
+  "layers": {
+    "commentary": [
+      {
+        "id": "commentary-1",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 5
+        },
+        "kind": "semantic",
+        "text": "去聲",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-2",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 0,
+          "end": 8
+        },
+        "kind": "semantic",
+        "text": "音閙",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-3",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 8,
+          "end": 12
+        },
+        "kind": "semantic",
+        "text": "橈通作撓屈也",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-4",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 12,
+          "end": 22
+        },
+        "kind": "semantic",
+        "text": "去聲",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-5",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 22,
+          "end": 42
+        },
+        "kind": "fanqie",
+        "text": "曽子曰晏子可謂知禮也已恭敬之有焉有若曰晏子一狐裘三十年遣車一乗及墓而反國君七个遣車七乘大夫五个遣車五乗晏子焉知禮曾子曰國無道君子耻盈禮焉國奢則示之以儉國儉則示之以禮",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-6",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 42,
+          "end": 93
+        },
+        "kind": "semantic",
+        "text": "音工",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-7",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 93,
+          "end": 109
+        },
+        "kind": "semantic",
+        "text": "反質篇曰齊桓公謂管仲曰吾國甚小而財用甚少而羣臣衣服輿馬甚汰吾欲禁之可乎管仲曰臣聞之君嘗之臣食之君好之臣服之今君之食也必桂之漿衣練紫之衣狐白之裘此羣臣之所奢大也詩云不躬不親庻民不信君欲禁之胡不自親乎桓公曰善於是更制練帛之衣大帛之冠朝一年而齊國儉也",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-8",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 2,
+          "start": 0,
+          "end": 11
+        },
+        "kind": "semantic",
+        "text": "音璧",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-9",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 2,
+          "start": 11,
+          "end": 29
+        },
+        "kind": "semantic",
+        "text": "去聲",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-10",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 3,
+          "start": 0,
+          "end": 41
+        },
+        "kind": "semantic",
+        "text": "去聲",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-11",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 3,
+          "start": 41,
+          "end": 74
+        },
+        "kind": "semantic",
+        "text": "田蚡也",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-12",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 3,
+          "start": 74,
+          "end": 85
+        },
+        "kind": "semantic",
+        "text": "音扶",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-13",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 3,
+          "start": 85,
+          "end": 99
+        },
+        "kind": "semantic",
+        "text": "音潮",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-14",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 3,
+          "start": 99,
+          "end": 147
+        },
+        "kind": "semantic",
+        "text": "音彭",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-15",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 3,
+          "start": 147,
+          "end": 150
+        },
+        "kind": "semantic",
+        "text": "傳曰公孫賀為丞相封葛繹侯劉屈𣯛為左丞相封澎侯",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-16",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 3,
+          "start": 150,
+          "end": 155
+        },
+        "kind": "semantic",
+        "text": "音避",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-17",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 3,
+          "start": 155,
+          "end": 190
+        },
+        "kind": "semantic",
+        "text": "西京雜記曰平津侯自布衣為宰相乃開東閣營客館以招天下之士其一曰欽賢館以待大賢次曰翹材館以待大材次曰接士館以待國士其有徳任毗賛佐理隂陽者處欽賢之館其有才堪九列將軍二千石者居翹材之館其有一介之善一方之藝居接士之館而躬自菲薄所得俸禄以奉待之公孫𢎞傳曰時上方興功業屢舉賢良𢎞自見為舉首起徒步數年至宰相封侯於是起客館開東閣以延賢人與參謀議𢎞身食一肉脱粟飯故人賔客仰衣食奉禄皆以給之家無所餘凡為丞相御史六嵗年八十終丞相位其後李蔡嚴青瞿趙石慶公孫賀劉屈𣯛繼踵為丞相自蔡至慶丞相館舍丘虚而已至賀屈𣯛時壊以為馬廐車庫奴婢室矣",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-18",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 3,
+          "start": 190,
+          "end": 206
+        },
+        "kind": "semantic",
+        "text": "音潮",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-19",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 3,
+          "start": 206,
+          "end": 217
+        },
+        "kind": "semantic",
+        "text": "音徹",
+        "source": "cham"
+      }
+    ]
+  },
+  "annotationLayers": [
+    {
+      "id": "default",
+      "label": "原文",
+      "shortLabel": "文",
+      "contributor": "桓寬",
+      "role": "author",
+      "nature": "annotation",
+      "displayOrder": 0,
+      "enabled": true,
+      "annotations": []
+    }
+  ]
+}

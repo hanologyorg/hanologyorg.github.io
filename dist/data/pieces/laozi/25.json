@@ -1,0 +1,180 @@
+{
+  "bookId": "laozi",
+  "num": 25,
+  "title": "第二十五章",
+  "author": "老子",
+  "authorId": "Laozi",
+  "dynasty": "周",
+  "era": "周",
+  "genre": "prose",
+  "verses": [
+    {
+      "text": "有物混成，先天地生。寂兮寥兮，獨立不改，周行而不殆，可以為天下母。"
+    },
+    {
+      "text": "吾不知其名，字之曰道，強為之名曰大。"
+    },
+    {
+      "text": "大曰逝，逝曰遠，遠曰反。"
+    },
+    {
+      "text": "故道大，天大，地大，王亦大。域中有四大，而王居其一焉。"
+    },
+    {
+      "text": "人法地，地法天，天法道，道法自然。"
+    }
+  ],
+  "sections": {},
+  "annotations": [],
+  "layers": {
+    "hesonggong": [
+      {
+        "id": "hesonggong-1",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 33
+        },
+        "kind": "semantic",
+        "text": "有物混成，先天地生。寂兮寥兮，獨立不改，周行而不殆，可以為天下母。吾不知其名，字之曰道，強為之名曰大。",
+        "source": "cham"
+      },
+      {
+        "id": "hesonggong-2",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 2,
+          "start": 0,
+          "end": 12
+        },
+        "kind": "semantic",
+        "text": "大曰逝，逝曰遠，遠曰反。故道大，天大，地大，王亦大。域中有四大，而王居其一焉。人法地，地法天，天法道，道法自然。",
+        "source": "cham"
+      }
+    ],
+    "wangbi": [
+      {
+        "id": "wangbi-1",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 33
+        },
+        "kind": "semantic",
+        "text": "道先天地生，寂寥獨立，周行不殆，為天下母。強名曰道，字之曰大。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-2",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 2,
+          "start": 0,
+          "end": 12
+        },
+        "kind": "semantic",
+        "text": "大曰逝，逝曰遠，遠曰反。道大天大地大人大，域中四大。人法地，地法天，天法道，道法自然。",
+        "source": "cham"
+      }
+    ]
+  },
+  "annotationLayers": [
+    {
+      "id": "default",
+      "label": "原文",
+      "shortLabel": "文",
+      "contributor": "Laozi",
+      "role": "author",
+      "nature": "annotation",
+      "displayOrder": 0,
+      "enabled": true,
+      "annotations": []
+    },
+    {
+      "id": "wangbi",
+      "label": "王弼註",
+      "shortLabel": "王",
+      "contributor": "C001",
+      "role": "commentator",
+      "nature": "commentary",
+      "displayOrder": 1,
+      "enabled": true,
+      "annotations": [
+        {
+          "id": "wangbi-1",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 33
+          },
+          "kind": "semantic",
+          "text": "道先天地生，寂寥獨立，周行不殆，為天下母。強名曰道，字之曰大。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-2",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 2,
+            "start": 0,
+            "end": 12
+          },
+          "kind": "semantic",
+          "text": "大曰逝，逝曰遠，遠曰反。道大天大地大人大，域中四大。人法地，地法天，天法道，道法自然。",
+          "source": "cham"
+        }
+      ]
+    },
+    {
+      "id": "hesonggong",
+      "label": "河上公註",
+      "shortLabel": "河",
+      "contributor": "C002",
+      "role": "commentator",
+      "nature": "commentary",
+      "displayOrder": 2,
+      "enabled": true,
+      "annotations": [
+        {
+          "id": "hesonggong-1",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 33
+          },
+          "kind": "semantic",
+          "text": "有物混成，先天地生。寂兮寥兮，獨立不改，周行而不殆，可以為天下母。吾不知其名，字之曰道，強為之名曰大。",
+          "source": "cham"
+        },
+        {
+          "id": "hesonggong-2",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 2,
+            "start": 0,
+            "end": 12
+          },
+          "kind": "semantic",
+          "text": "大曰逝，逝曰遠，遠曰反。故道大，天大，地大，王亦大。域中有四大，而王居其一焉。人法地，地法天，天法道，道法自然。",
+          "source": "cham"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "textRef": "laozi",
+    "relation": "section"
+  }
+}

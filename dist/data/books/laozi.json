@@ -1,0 +1,5360 @@
+{
+  "meta": {
+    "id": "laozi",
+    "title": "帛書老子 甲本",
+    "publisher": "早稲田大学図書館",
+    "genre": "prose",
+    "count": 26,
+    "layers": [
+      {
+        "id": "wangbi",
+        "label": "王弼註",
+        "shortLabel": "王",
+        "annotator": "王弼",
+        "contributor": "C001",
+        "role": "commentator",
+        "nature": "commentary",
+        "displayOrder": 1
+      },
+      {
+        "id": "hesonggong",
+        "label": "河上公註",
+        "shortLabel": "河",
+        "annotator": "河上公",
+        "contributor": "C002",
+        "role": "commentator",
+        "nature": "commentary",
+        "displayOrder": 2
+      }
+    ],
+    "annotation": {
+      "defaultLabel": "原文",
+      "defaultShortLabel": "文"
+    }
+  },
+  "pieces": [
+    {
+      "bookId": "laozi",
+      "num": 1,
+      "title": "第一章",
+      "author": "老子",
+      "authorId": "Laozi",
+      "dynasty": "周",
+      "era": "周",
+      "genre": "prose",
+      "verses": [
+        {
+          "text": "道，可道也，非恆道也。"
+        },
+        {
+          "text": "名，可名也，非恆名也。"
+        },
+        {
+          "text": "無名萬物之始也，有名萬物之母也。"
+        },
+        {
+          "text": "故：恆無欲也，以觀其眇；恆有欲也，以觀其徼。"
+        },
+        {
+          "text": "两者同出，異名同謂。"
+        },
+        {
+          "text": "玄之又玄，眾妙之門。"
+        }
+      ],
+      "sections": {},
+      "annotations": [],
+      "layers": {
+        "hesonggong": [
+          {
+            "id": "hesonggong-1",
+            "range": {
+              "type": "range",
+              "scope": "verse",
+              "verseIndex": 0,
+              "start": 0,
+              "end": 11
+            },
+            "kind": "semantic",
+            "text": "人能常行道，即合於道。能常名道，即得道意。",
+            "source": "cham"
+          },
+          {
+            "id": "hesonggong-2",
+            "range": {
+              "type": "range",
+              "scope": "verse",
+              "verseIndex": 2,
+              "start": 0,
+              "end": 16
+            },
+            "kind": "semantic",
+            "text": "無名，謂道未生萬物時。有名，謂道生萬物後。",
+            "source": "cham"
+          },
+          {
+            "id": "hesonggong-3",
+            "range": {
+              "type": "range",
+              "scope": "verse",
+              "verseIndex": 3,
+              "start": 0,
+              "end": 22
+            },
+            "kind": "semantic",
+            "text": "常無欲，則知道之微妙。常有欲，則知物之所起。",
+            "source": "cham"
+          },
+          {
+            "id": "hesonggong-4",
+            "range": {
+              "type": "range",
+              "scope": "verse",
+              "verseIndex": 4,
+              "start": 0,
+              "end": 10
+            },
+            "kind": "semantic",
+            "text": "玄，天也。天中復有天焉。玄者，深遠也。言道深遠無窮極，妙本在一，一數之始也。",
+            "source": "cham"
+          }
+        ],
+        "wangbi": [
+          {
+            "id": "wangbi-1",
+            "range": {
+              "type": "range",
+              "scope": "verse",
+              "verseIndex": 0,
+              "start": 0,
+              "end": 11
+            },
+            "kind": "semantic",
+            "text": "可道之道，可名之名，指事造形，非其常也。故不可道，不可名也。",
+            "source": "cham"
+          },
+          {
+            "id": "wangbi-2",
+            "range": {
+              "type": "range",
+              "scope": "verse",
+              "verseIndex": 2,
+              "start": 0,
+              "end": 16
+            },
+            "kind": "semantic",
+            "text": "無名，則物之始也；有名，則物之母也。始，所以未形。母，所以既形。",
+            "source": "cham"
+          },
+          {
+            "id": "wangbi-3",
+            "range": {
+              "type": "range",
+              "scope": "verse",
+              "verseIndex": 3,
+              "start": 0,
+              "end": 22
+            },
+            "kind": "semantic",
+            "text": "滌除玄鑒，涉有名之境，即觀其所徼；以無名之妙，即觀其所眇。",
+            "source": "cham"
+          },
+          {
+            "id": "wangbi-4",
+            "range": {
+              "type": "range",
+              "scope": "verse",
+              "verseIndex": 4,
+              "start": 0,
+              "end": 10
+            },
+            "kind": "semantic",
+            "text": "同出者，同出於道也。異名者，有無之名異也。同謂者，同謂之為道也。",
+            "source": "cham"
+          }
+        ]
+      },
+      "annotationLayers": [
+        {
+          "id": "default",
+          "label": "原文",
+          "shortLabel": "文",
+          "contributor": "Laozi",
+          "role": "author",
+          "nature": "annotation",
+          "displayOrder": 0,
+          "enabled": true,
+          "annotations": []
+        },
+        {
+          "id": "wangbi",
+          "label": "王弼註",
+          "shortLabel": "王",
+          "contributor": "C001",
+          "role": "commentator",
+          "nature": "commentary",
+          "displayOrder": 1,
+          "enabled": true,
+          "annotations": [
+            {
+              "id": "wangbi-1",
+              "range": {
+                "type": "range",
+                "scope": "verse",
+                "verseIndex": 0,
+                "start": 0,
+                "end": 11
+              },
+              "kind": "semantic",
+              "text": "可道之道，可名之名，指事造形，非其常也。故不可道，不可名也。",
+              "source": "cham"
+            },
+            {
+              "id": "wangbi-2",
+              "range": {
+                "type": "range",
+                "scope": "verse",
+                "verseIndex": 2,
+                "start": 0,
+                "end": 16
+              },
+              "kind": "semantic",
+              "text": "無名，則物之始也；有名，則物之母也。始，所以未形。母，所以既形。",
+              "source": "cham"
+            },
+            {
+              "id": "wangbi-3",
+              "range": {
+                "type": "range",
+                "scope": "verse",
+                "verseIndex": 3,
+                "start": 0,
+                "end": 22
+              },
+              "kind": "semantic",
+              "text": "滌除玄鑒，涉有名之境，即觀其所徼；以無名之妙，即觀其所眇。",
+              "source": "cham"
+            },
+            {
+              "id": "wangbi-4",
+              "range": {
+                "type": "range",
+                "scope": "verse",
+                "verseIndex": 4,
+                "start": 0,
+                "end": 10
+              },
+              "kind": "semantic",
+              "text": "同出者，同出於道也。異名者，有無之名異也。同謂者，同謂之為道也。",
+              "source": "cham"
+            }
+          ]
+        },
+        {
+          "id": "hesonggong",
+          "label": "河上公註",
+          "shortLabel": "河",
+          "contributor": "C002",
+          "role": "commentator",
+          "nature": "commentary",
+          "displayOrder": 2,
+          "enabled": true,
+          "annotations": [
+            {
+              "id": "hesonggong-1",
+              "range": {
+                "type": "range",
+                "scope": "verse",
+                "verseIndex": 0,
+                "start": 0,
+                "end": 11
+              },
+              "kind": "semantic",
+              "text": "人能常行道，即合於道。能常名道，即得道意。",
+              "source": "cham"
+            },
+            {
+              "id": "hesonggong-2",
+              "range": {
+                "type": "range",
+                "scope": "verse",
+                "verseIndex": 2,
+                "start": 0,
+                "end": 16
+              },
+              "kind": "semantic",
+              "text": "無名，謂道未生萬物時。有名，謂道生萬物後。",
+              "source": "cham"
+            },
+            {
+              "id": "hesonggong-3",
+              "range": {
+                "type": "range",
+                "scope": "verse",
+                "verseIndex": 3,
+                "start": 0,
+                "end": 22
+              },
+              "kind": "semantic",
+              "text": "常無欲，則知道之微妙。常有欲，則知物之所起。",
+              "source": "cham"
+            },
+            {
+              "id": "hesonggong-4",
+              "range": {
+                "type": "range",
+                "scope": "verse",
+                "verseIndex": 4,
+                "start": 0,
+                "end": 10
+              },
+              "kind": "semantic",
+              "text": "玄，天也。天中復有天焉。玄者，深遠也。言道深遠無窮極，妙本在一，一數之始也。",
+              "source": "cham"
+            }
+          ]
+        }
+      ],
+      "source": {
+        "textRef": "laozi",
+        "relation": "section"
+      }
+    },
+    {
+      "bookId": "laozi",
+      "num": 2,
+      "title": "第二章",
+      "author": "老子",
+      "authorId": "Laozi",
+      "dynasty": "周",
+      "era": "周",
+      "genre": "prose",
+      "verses": [
+        {
+          "text": "天下皆知美之為美，惡已。"
+        },
+        {
+          "text": "皆知善之為善，斯不善已。"
+        },
+        {
+          "text": "有無之相生也，難易之相成也，長短之相刑也，高下之相盈也，音聲之相和也，前後之相隨也，恆也。"
+        },
+        {
+          "text": "是以聖人居無為之事，行不言之教。"
+        },
+        {
+          "text": "萬物作而弗始也，為而弗恃也，成功而弗居也。"
+        },
+        {
+          "text": "夫唯弗居，是以不去。"
+        }
+      ],
+      "sections": {},
+      "annotations": [],
+      "layers": {
+        "hesonggong": [
+          {
+            "id": "hesonggong-1",
+            "range": {
+              "type": "range",
+              "scope": "verse",
+              "verseIndex": 0,
+              "start": 0,
+              "end": 12
+            },
+            "kind": "semantic",
+            "text": "陰陽相生，善惡相成。",
+            "source": "cham"
+          },
+          {
+            "id": "hesonggong-2",
+            "range": {
+              "type": "range",
+              "scope": "verse",
+              "verseIndex": 2,
+              "start": 0,
+              "end": 45
+            },
+            "kind": "semantic",
+            "text": "有中有無，無中有有。難中有易，易中有難。如此則長短相形，高下相傾，音聲相和，前後相隨，皆相因而有。",
+            "source": "cham"
+          },
+          {
+            "id": "hesonggong-3",
+            "range": {
+              "type": "range",
+              "scope": "verse",
+              "verseIndex": 3,
+              "start": 0,
+              "end": 16
+            },
+            "kind": "semantic",
+            "text": "聖人法道無為，不造作，不施為。萬物自生，不名其主。",
+            "source": "cham"
+          },
+          {
+            "id": "hesonggong-4",
+            "range": {
+              "type": "range",
+              "scope": "verse",
+              "verseIndex": 5,
+              "start": 0,
+              "end": 10
+            },
+            "kind": "semantic",
+            "text": "不自居功，故功成不去。",
+            "source": "cham"
+          }
+        ],
+        "wangbi": [
+          {
+            "id": "wangbi-1",
+            "range": {
+              "type": "range",
+              "scope": "verse",
+              "verseIndex": 0,
+              "start": 0,
+              "end": 12
+            },
+            "kind": "semantic",
+            "text": "美之所以為美者，惡也。善之所以為善者，不善也。若無惡，則美不可知；若無不善，則善不可知。",
+            "source": "cham"
+          },
+          {
+            "id": "wangbi-2",
+            "range": {
+              "type": "range",
+              "scope": "verse",
+              "verseIndex": 2,
+              "start": 0,
+              "end": 45
+            },
+            "kind": "semantic",
+            "text": "此六者，皆相因而有，相待而成。故聖人處無為之事，行不言之教。",
+            "source": "cham"
+          },
+          {
+            "id": "wangbi-3",
+            "range": {
+              "type": "range",
+              "scope": "verse",
+              "verseIndex": 3,
+              "start": 0,
+              "end": 16
+            },
+            "kind": "semantic",
+            "text": "聖人體道，無為而無不為。不言之教，寂然而莫不應。",
+            "source": "cham"
+          },
+          {
+            "id": "wangbi-4",
+            "range": {
+              "type": "range",
+              "scope": "verse",
+              "verseIndex": 5,
+              "start": 0,
+              "end": 10
+            },
+            "kind": "semantic",
+            "text": "不居其功，功成而不處，故其功不去。",
+            "source": "cham"
+          }
+        ]
+      },
+      "annotationLayers": [
+        {
+          "id": "default",
+          "label": "原文",
+          "shortLabel": "文",
+          "contributor": "Laozi",
+          "role": "author",
+          "nature": "annotation",
+          "displayOrder": 0,
+          "enabled": true,
+          "annotations": []
+        },
+        {
+          "id": "wangbi",
+          "label": "王弼註",
+          "shortLabel": "王",
+          "contributor": "C001",
+          "role": "commentator",
+          "nature": "commentary",
+          "displayOrder": 1,
+          "enabled": true,
+          "annotations": [
+            {
+              "id": "wangbi-1",
+              "range": {
+                "type": "range",
+                "scope": "verse",
+                "verseIndex": 0,
+                "start": 0,
+                "end": 12
+              },
+              "kind": "semantic",
+              "text": "美之所以為美者，惡也。善之所以為善者，不善也。若無惡，則美不可知；若無不善，則善不可知。",
+              "source": "cham"
+            },
+            {
+              "id": "wangbi-2",
+              "range": {
+                "type": "range",
+                "scope": "verse",
+                "verseIndex": 2,
+                "start": 0,
+                "end": 45
+              },
+              "kind": "semantic",
+              "text": "此六者，皆相因而有，相待而成。故聖人處無為之事，行不言之教。",
+              "source": "cham"
+            },
+            {
+              "id": "wangbi-3",
+              "range": {
+                "type": "range",
+                "scope": "verse",
+                "verseIndex": 3,
+                "start": 0,
+                "end": 16
+              },
+              "kind": "semantic",
+              "text": "聖人體道，無為而無不為。不言之教，寂然而莫不應。",
+              "source": "cham"
+            },
+            {
+              "id": "wangbi-4",
+              "range": {
+                "type": "range",
+                "scope": "verse",
+                "verseIndex": 5,
+                "start": 0,
+                "end": 10
+              },
+              "kind": "semantic",
+              "text": "不居其功，功成而不處，故其功不去。",
+              "source": "cham"
+            }
+          ]
+        },
+        {
+          "id": "hesonggong",
+          "label": "河上公註",
+          "shortLabel": "河",
+          "contributor": "C002",
+          "role": "commentator",
+          "nature": "commentary",
+          "displayOrder": 2,
+          "enabled": true,
+          "annotations": [
+            {
+              "id": "hesonggong-1",
+              "range": {
+                "type": "range",
+                "scope": "verse",
+                "verseIndex": 0,
+                "start": 0,
+                "end": 12
+              },
+              "kind": "semantic",
+              "text": "陰陽相生，善惡相成。",
+              "source": "cham"
+            },
+            {
+              "id": "hesonggong-2",
+              "range": {
+                "type": "range",
+                "scope": "verse",
+                "verseIndex": 2,
+                "start": 0,
+                "end": 45
+              },
+              "kind": "semantic",
+              "text": "有中有無，無中有有。難中有易，易中有難。如此則長短相形，高下相傾，音聲相和，前後相隨，皆相因而有。",
+              "source": "cham"
+            },
+            {
+              "id": "hesonggong-3",
+              "range": {
+                "type": "range",
+                "scope": "verse",
+                "verseIndex": 3,
+                "start": 0,
+                "end": 16
+              },
+              "kind": "semantic",
+              "text": "聖人法道無為，不造作，不施為。萬物自生，不名其主。",
+              "source": "cham"
+            },
+            {
+              "id": "hesonggong-4",
+              "range": {
+                "type": "range",
+                "scope": "verse",
+                "verseIndex": 5,
+                "start": 0,
+                "end": 10
+              },
+              "kind": "semantic",
+              "text": "不自居功，故功成不去。",
+              "source": "cham"
+            }
+          ]
+        }
+      ],
+      "source": {
+        "textRef": "laozi",
+        "relation": "section"
+      }
+    },
+    {
+      "bookId": "laozi",
+      "num": 3,
+      "title": "第三章",
+      "author": "老子",
+      "authorId": "Laozi",
+      "dynasty": "周",
+      "era": "周",
+      "genre": "prose",
+      "verses": [
+        {
+          "text": "不上賢，使民不爭。"
+        },
+        {
+          "text": "不貴難得之貨，使民不為盜。"
+        },
+        {
+          "text": "不見可欲，使民心不亂。"
+        },
+        {
+          "text": "是以聖人之治也，虛其心，實其腹，弱其志，強其骨，"
+        },
+        {
+          "text": "恆使民無知無欲也。"
+        },
+        {
+          "text": "使夫知不敢弗為而已，則無不治矣。"
+        }
+      ],
+      "sections": {},
+      "annotations": [],
+      "layers": {
+        "hesonggong": [
+          {
+            "id": "hesonggong-1",
+            "range": {
+              "type": "range",
+              "scope": "verse",
+              "verseIndex": 0,
+              "start": 0,
+              "end": 9
+            },
+            "kind": "semantic",
+            "text": "不尚賢，不貴奇，不見異物，民則安於本分，不爭、不盜、不亂。",
+            "source": "cham"
+          },
+          {
+            "id": "hesonggong-2",
+            "range": {
+              "type": "range",
+              "scope": "verse",
+              "verseIndex": 3,
+              "start": 0,
+              "end": 24
+            },
+            "kind": "semantic",
+            "text": "聖人治國，使民虛心實腹，弱志強骨，常使民無知無欲。",
+            "source": "cham"
+          },
+          {
+            "id": "hesonggong-3",
+            "range": {
+              "type": "range",
+              "scope": "verse",
+              "verseIndex": 5,
+              "start": 0,
+              "end": 16
+            },
+            "kind": "semantic",
+            "text": "使智者不敢為非，則天下無不治矣。",
+            "source": "cham"
+          }
+        ],
+        "wangbi": [
+          {
+            "id": "wangbi-1",
+            "range": {
+              "type": "range",
+              "scope": "verse",
+              "verseIndex": 0,
+              "start": 0,
+              "end": 9
+            },
+            "kind": "semantic",
+            "text": "不上賢，則民不爭。不貴難得之貨，則民不為盜。不見可欲之物，則民心不亂。",
+            "source": "cham"
+          },
+          {
+            "id": "wangbi-2",
+            "range": {
+              "type": "range",
+              "scope": "verse",
+              "verseIndex": 3,
+              "start": 0,
+              "end": 24
+            },
+            "kind": "semantic",
+            "text": "聖人治國，使民各安其分，不以智慧相勝，不以欲望相殘。",
+            "source": "cham"
+          },
+          {
+            "id": "wangbi-3",
+            "range": {
+              "type": "range",
+              "scope": "verse",
+              "verseIndex": 5,
+              "start": 0,
+              "end": 16
+            },
+            "kind": "semantic",
+            "text": "使知者不敢為，則無不治也。",
+            "source": "cham"
+          }
+        ]
+      },
+      "annotationLayers": [
+        {
+          "id": "default",
+          "label": "原文",
+          "shortLabel": "文",
+          "contributor": "Laozi",
+          "role": "author",
+          "nature": "annotation",
+          "displayOrder": 0,
+          "enabled": true,
+          "annotations": []
+        },
+        {
+          "id": "wangbi",
+          "label": "王弼註",
+          "shortLabel": "王",
+          "contributor": "C001",
+          "role": "commentator",
+          "nature": "commentary",
+          "displayOrder": 1,
+          "enabled": true,
+          "annotations": [
+            {
+              "id": "wangbi-1",
+              "range": {
+                "type": "range",
+                "scope": "verse",
+                "verseIndex": 0,
+                "start": 0,
+                "end": 9
+              },
+              "kind": "semantic",
+              "text": "不上賢，則民不爭。不貴難得之貨，則民不為盜。不見可欲之物，則民心不亂。",
+              "source": "cham"
+            },
+            {
+              "id": "wangbi-2",
+              "range": {
+                "type": "range",
+                "scope": "verse",
+                "verseIndex": 3,
+                "start": 0,
+                "end": 24
+              },
+              "kind": "semantic",
+              "text": "聖人治國，使民各安其分，不以智慧相勝，不以欲望相殘。",
+              "source": "cham"
+            },
+            {
+              "id": "wangbi-3",
+              "range": {
+                "type": "range",
+                "scope": "verse",
+                "verseIndex": 5,
+                "start": 0,
+                "end": 16
+              },
+              "kind": "semantic",
+              "text": "使知者不敢為，則無不治也。",
+              "source": "cham"
+            }
+          ]
+        },
+        {
+          "id": "hesonggong",
+          "label": "河上公註",
+          "shortLabel": "河",
+          "contributor": "C002",
+          "role": "commentator",
+          "nature": "commentary",
+          "displayOrder": 2,
+          "enabled": true,
+          "annotations": [
+            {
+              "id": "hesonggong-1",
+              "range": {
+                "type": "range",
+                "scope": "verse",
+                "verseIndex": 0,
+                "start": 0,
+                "end": 9
+              },
+              "kind": "semantic",
+              "text": "不尚賢，不貴奇，不見異物，民則安於本分，不爭、不盜、不亂。",
+              "source": "cham"
+            },
+            {
+              "id": "hesonggong-2",
+              "range": {
+                "type": "range",
+                "scope": "verse",
+                "verseIndex": 3,
+                "start": 0,
+                "end": 24
+              },
+              "kind": "semantic",
+              "text": "聖人治國，使民虛心實腹，弱志強骨，常使民無知無欲。",
+              "source": "cham"
+            },
+            {
+              "id": "hesonggong-3",
+              "range": {
+                "type": "range",
+                "scope": "verse",
+                "verseIndex": 5,
+                "start": 0,
+                "end": 16
+              },
+              "kind": "semantic",
+              "text": "使智者不敢為非，則天下無不治矣。",
+              "source": "cham"
+            }
+          ]
+        }
+      ],
+      "source": {
+        "textRef": "laozi",
+        "relation": "section"
+      }
+    },
+    {
+      "bookId": "laozi",
+      "num": 4,
+      "title": "第四章",
+      "author": "老子",
+      "authorId": "Laozi",
+      "dynasty": "周",
+      "era": "周",
+      "genre": "prose",
+      "verses": [
+        {
+          "text": "道沖，而用之有弗盈也。"
+        },
+        {
+          "text": "淵呵！似萬物之宗。"
+        },
+        {
+          "text": "銼其銳，解其紛，和其光，同其塵。"
+        },
+        {
+          "text": "湛呵！似或存。"
+        },
+        {
+          "text": "吾不知誰之子，象帝之先。"
+        }
+      ],
+      "sections": {},
+      "annotations": [],
+      "layers": {
+        "hesonggong": [
+          {
+            "id": "hesonggong-1",
+            "range": {
+              "type": "range",
+              "scope": "verse",
+              "verseIndex": 0,
+              "start": 0,
+              "end": 11
+            },
+            "kind": "semantic",
+            "text": "道德沖融，應用不窮。淵深不可測量，為萬物之宗祖。",
+            "source": "cham"
+          },
+          {
+            "id": "hesonggong-2",
+            "range": {
+              "type": "range",
+              "scope": "verse",
+              "verseIndex": 2,
+              "start": 0,
+              "end": 16
+            },
+            "kind": "semantic",
+            "text": "挫銳解紛，和光同塵，皆謙退藏密之義。",
+            "source": "cham"
+          },
+          {
+            "id": "hesonggong-3",
+            "range": {
+              "type": "range",
+              "scope": "verse",
+              "verseIndex": 3,
+              "start": 0,
+              "end": 7
+            },
+            "kind": "semantic",
+            "text": "湛然常存，不知其誰之子，乃在天帝之先而生。",
+            "source": "cham"
+          }
+        ],
+        "wangbi": [
+          {
+            "id": "wangbi-1",
+            "range": {
+              "type": "range",
+              "scope": "verse",
+              "verseIndex": 0,
+              "start": 0,
+              "end": 11
+            },
+            "kind": "semantic",
+            "text": "道體沖虛，應用無窮，淵深不可測，為萬物之宗主。",
+            "source": "cham"
+          },
+          {
+            "id": "wangbi-2",
+            "range": {
+              "type": "range",
+              "scope": "verse",
+              "verseIndex": 2,
+              "start": 0,
+              "end": 16
+            },
+            "kind": "semantic",
+            "text": "挫其鋒芒，解其紛亂，和其光耀，同其塵垢。",
+            "source": "cham"
+          },
+          {
+            "id": "wangbi-3",
+            "range": {
+              "type": "range",
+              "scope": "verse",
+              "verseIndex": 3,
+              "start": 0,
+              "end": 7
+            },
+            "kind": "semantic",
+            "text": "湛然常存，不知其所從來，乃在天帝之先。",
+            "source": "cham"
+          }
+        ]
+      },
+      "annotationLayers": [
+        {
+          "id": "default",
+          "label": "原文",
+          "shortLabel": "文",
+          "contributor": "Laozi",
+          "role": "author",
+          "nature": "annotation",
+          "displayOrder": 0,
+          "enabled": true,
+          "annotations": []
+        },
+        {
+          "id": "wangbi",
+          "label": "王弼註",
+          "shortLabel": "王",
+          "contributor": "C001",
+          "role": "commentator",
+          "nature": "commentary",
+          "displayOrder": 1,
+          "enabled": true,
+          "annotations": [
+            {
+              "id": "wangbi-1",
+              "range": {
+                "type": "range",
+                "scope": "verse",
+                "verseIndex": 0,
+                "start": 0,
+                "end": 11
+              },
+              "kind": "semantic",
+              "text": "道體沖虛，應用無窮，淵深不可測，為萬物之宗主。",
+              "source": "cham"
+            },
+            {
+              "id": "wangbi-2",
+              "range": {
+                "type": "range",
+                "scope": "verse",
+                "verseIndex": 2,
+                "start": 0,
+                "end": 16
+              },
+              "kind": "semantic",
+              "text": "挫其鋒芒，解其紛亂，和其光耀，同其塵垢。",
+              "source": "cham"
+            },
+            {
+              "id": "wangbi-3",
+              "range": {
+                "type": "range",
+                "scope": "verse",
+                "verseIndex": 3,
+                "start": 0,
+                "end": 7
+              },
+              "kind": "semantic",
+              "text": "湛然常存，不知其所從來，乃在天帝之先。",
+              "source": "cham"
+            }
+          ]
+        },
+        {
+          "id": "hesonggong",
+          "label": "河上公註",
+          "shortLabel": "河",
+          "contributor": "C002",
+          "role": "commentator",
+          "nature": "commentary",
+          "displayOrder": 2,
+          "enabled": true,
+          "annotations": [
+            {
+              "id": "hesonggong-1",
+              "range": {
+                "type": "range",
+                "scope": "verse",
+                "verseIndex": 0,
+                "start": 0,
+                "end": 11
+              },
+              "kind": "semantic",
+              "text": "道德沖融，應用不窮。淵深不可測量，為萬物之宗祖。",
+              "source": "cham"
+            },
+            {
+              "id": "hesonggong-2",
+              "range": {
+                "type": "range",
+                "scope": "verse",
+                "verseIndex": 2,
+                "start": 0,
+                "end": 16
+              },
+              "kind": "semantic",
+              "text": "挫銳解紛，和光同塵，皆謙退藏密之義。",
+              "source": "cham"
+            },
+            {
+              "id": "hesonggong-3",
+              "range": {
+                "type": "range",
+                "scope": "verse",
+                "verseIndex": 3,
+                "start": 0,
+                "end": 7
+              },
+              "kind": "semantic",
+              "text": "湛然常存，不知其誰之子，乃在天帝之先而生。",
+              "source": "cham"
+            }
+          ]
+        }
+      ],
+      "source": {
+        "textRef": "laozi",
+        "relation": "section"
+      }
+    },
+    {
+      "bookId": "laozi",
+      "num": 5,
+      "title": "第五章",
+      "author": "老子",
+      "authorId": "Laozi",
+      "dynasty": "周",
+      "era": "周",
+      "genre": "prose",
+      "verses": [
+        {
+          "text": "天地不仁，以萬物為芻狗。"
+        },
+        {
+          "text": "聖人不仁，以百姓為芻狗。"
+        },
+        {
+          "text": "天地之間，其猶橐籥與？"
+        },
+        {
+          "text": "虛而不屈，動而愈出。"
+        },
+        {
+          "text": "多言數窮，不如守中。"
+        }
+      ],
+      "sections": {},
+      "annotations": [],
+      "layers": {
+        "hesonggong": [
+          {
+            "id": "hesonggong-1",
+            "range": {
+              "type": "range",
+              "scope": "verse",
+              "verseIndex": 0,
+              "start": 0,
+              "end": 12
+            },
+            "kind": "semantic",
+            "text": "天地生養萬物，不以仁恩，任自然。聖人法天地，不以仁恩教民，任自然。",
+            "source": "cham"
+          },
+          {
+            "id": "hesonggong-2",
+            "range": {
+              "type": "range",
+              "scope": "verse",
+              "verseIndex": 2,
+              "start": 0,
+              "end": 11
+            },
+            "kind": "semantic",
+            "text": "天地之間，空虛不屈，動而愈出，如橐籥之鼓風。",
+            "source": "cham"
+          },
+          {
+            "id": "hesonggong-3",
+            "range": {
+              "type": "range",
+              "scope": "verse",
+              "verseIndex": 4,
+              "start": 0,
+              "end": 10
+            },
+            "kind": "semantic",
+            "text": "多言數窮，不如守中和。",
+            "source": "cham"
+          }
+        ],
+        "wangbi": [
+          {
+            "id": "wangbi-1",
+            "range": {
+              "type": "range",
+              "scope": "verse",
+              "verseIndex": 0,
+              "start": 0,
+              "end": 12
+            },
+            "kind": "semantic",
+            "text": "天地無心，任自然而養萬物。聖人法天地，無所偏愛，以百姓為芻狗。",
+            "source": "cham"
+          },
+          {
+            "id": "wangbi-2",
+            "range": {
+              "type": "range",
+              "scope": "verse",
+              "verseIndex": 2,
+              "start": 0,
+              "end": 11
+            },
+            "kind": "semantic",
+            "text": "天地之間，空虛而不屈，運動而愈出，如橐籥鼓風。",
+            "source": "cham"
+          },
+          {
+            "id": "wangbi-3",
+            "range": {
+              "type": "range",
+              "scope": "verse",
+              "verseIndex": 4,
+              "start": 0,
+              "end": 10
+            },
+            "kind": "semantic",
+            "text": "多言數窮理，不如守中和。",
+            "source": "cham"
+          }
+        ]
+      },
+      "annotationLayers": [
+        {
+          "id": "default",
+          "label": "原文",
+          "shortLabel": "文",
+          "contributor": "Laozi",
+          "role": "author",
+          "nature": "annotation",
+          "displayOrder": 0,
+          "enabled": true,
+          "annotations": []
+        },
+        {
+          "id": "wangbi",
+          "label": "王弼註",
+          "shortLabel": "王",
+          "contributor": "C001",
+          "role": "commentator",
+          "nature": "commentary",
+          "displayOrder": 1,
+          "enabled": true,
+          "annotations": [
+            {
+              "id": "wangbi-1",
+              "range": {
+                "type": "range",
+                "scope": "verse",
+                "verseIndex": 0,
+                "start": 0,
+                "end": 12
+              },
+              "kind": "semantic",
+              "text": "天地無心，任自然而養萬物。聖人法天地，無所偏愛，以百姓為芻狗。",
+              "source": "cham"
+            },
+            {
+              "id": "wangbi-2",
+              "range": {
+                "type": "range",
+                "scope": "verse",
+                "verseIndex": 2,
+                "start": 0,
+                "end": 11
+              },
+              "kind": "semantic",
+              "text": "天地之間，空虛而不屈，運動而愈出，如橐籥鼓風。",
+              "source": "cham"
+            },
+            {
+              "id": "wangbi-3",
+              "range": {
+                "type": "range",
+                "scope": "verse",
+                "verseIndex": 4,
+                "start": 0,
+                "end": 10
+              },
+              "kind": "semantic",
+              "text": "多言數窮理，不如守中和。",
+              "source": "cham"
+            }
+          ]
+        },
+        {
+          "id": "hesonggong",
+          "label": "河上公註",
+          "shortLabel": "河",
+          "contributor": "C002",
+          "role": "commentator",
+          "nature": "commentary",
+          "displayOrder": 2,
+          "enabled": true,
+          "annotations": [
+            {
+              "id": "hesonggong-1",
+              "range": {
+                "type": "range",
+                "scope": "verse",
+                "verseIndex": 0,
+                "start": 0,
+                "end": 12
+              },
+              "kind": "semantic",
+              "text": "天地生養萬物，不以仁恩，任自然。聖人法天地，不以仁恩教民，任自然。",
+              "source": "cham"
+            },
+            {
+              "id": "hesonggong-2",
+              "range": {
+                "type": "range",
+                "scope": "verse",
+                "verseIndex": 2,
+                "start": 0,
+                "end": 11
+              },
+              "kind": "semantic",
+              "text": "天地之間，空虛不屈，動而愈出，如橐籥之鼓風。",
+              "source": "cham"
+            },
+            {
+              "id": "hesonggong-3",
+              "range": {
+                "type": "range",
+                "scope": "verse",
+                "verseIndex": 4,
+                "start": 0,
+                "end": 10
+              },
+              "kind": "semantic",
+              "text": "多言數窮，不如守中和。",
+              "source": "cham"
+            }
+          ]
+        }
+      ],
+      "source": {
+        "textRef": "laozi",
+        "relation": "section"
+      }
+    },
+    {
+      "bookId": "laozi",
+      "num": 6,
+      "title": "第六章",
+      "author": "老子",
+      "authorId": "Laozi",
+      "dynasty": "周",
+      "era": "周",
+      "genre": "prose",
+      "verses": [
+        {
+          "text": "谷神不死，是謂玄牝。"
+        },
+        {
+          "text": "玄牝之門，是謂天地根。"
+        },
+        {
+          "text": "綿綿呵若存，用之不勤。"
+        }
+      ],
+      "sections": {},
+      "annotations": [],
+      "layers": {
+        "hesonggong": [
+          {
+            "id": "hesonggong-1",
+            "range": {
+              "type": "range",
+              "scope": "verse",
+              "verseIndex": 0,
+              "start": 0,
+              "end": 10
+            },
+            "kind": "semantic",
+            "text": "谷神，谷中之神也。玄牝，天地之門户，無形無影，故謂之玄。",
+            "source": "cham"
+          },
+          {
+            "id": "hesonggong-2",
+            "range": {
+              "type": "range",
+              "scope": "verse",
+              "verseIndex": 2,
+              "start": 0,
+              "end": 11
+            },
+            "kind": "semantic",
+            "text": "綿綿若存，用之不勤，言道綿綿若存，用之不勤勞。",
+            "source": "cham"
+          }
+        ],
+        "wangbi": [
+          {
+            "id": "wangbi-1",
+            "range": {
+              "type": "range",
+              "scope": "verse",
+              "verseIndex": 0,
+              "start": 0,
+              "end": 10
+            },
+            "kind": "semantic",
+            "text": "谷神，即道也。玄牝，謂天地之根源，生育萬物之門戶。",
+            "source": "cham"
+          },
+          {
+            "id": "wangbi-2",
+            "range": {
+              "type": "range",
+              "scope": "verse",
+              "verseIndex": 2,
+              "start": 0,
+              "end": 11
+            },
+            "kind": "semantic",
+            "text": "綿綿若存，用之不竭。",
+            "source": "cham"
+          }
+        ]
+      },
+      "annotationLayers": [
+        {
+          "id": "default",
+          "label": "原文",
+          "shortLabel": "文",
+          "contributor": "Laozi",
+          "role": "author",
+          "nature": "annotation",
+          "displayOrder": 0,
+          "enabled": true,
+          "annotations": []
+        },
+        {
+          "id": "wangbi",
+          "label": "王弼註",
+          "shortLabel": "王",
+          "contributor": "C001",
+          "role": "commentator",
+          "nature": "commentary",
+          "displayOrder": 1,
+          "enabled": true,
+          "annotations": [
+            {
+              "id": "wangbi-1",
+              "range": {
+                "type": "range",
+                "scope": "verse",
+                "verseIndex": 0,
+                "start": 0,
+                "end": 10
+              },
+              "kind": "semantic",
+              "text": "谷神，即道也。玄牝，謂天地之根源，生育萬物之門戶。",
+              "source": "cham"
+            },
+            {
+              "id": "wangbi-2",
+              "range": {
+                "type": "range",
+                "scope": "verse",
+                "verseIndex": 2,
+                "start": 0,
+                "end": 11
+              },
+              "kind": "semantic",
+              "text": "綿綿若存，用之不竭。",
+              "source": "cham"
+            }
+          ]
+        },
+        {
+          "id": "hesonggong",
+          "label": "河上公註",
+          "shortLabel": "河",
+          "contributor": "C002",
+          "role": "commentator",
+          "nature": "commentary",
+          "displayOrder": 2,
+          "enabled": true,
+          "annotations": [
+            {
+              "id": "hesonggong-1",
+              "range": {
+                "type": "range",
+                "scope": "verse",
+                "verseIndex": 0,
+                "start": 0,
+                "end": 10
+              },
+              "kind": "semantic",
+              "text": "谷神，谷中之神也。玄牝，天地之門户，無形無影，故謂之玄。",
+              "source": "cham"
+            },
+            {
+              "id": "hesonggong-2",
+              "range": {
+                "type": "range",
+                "scope": "verse",
+                "verseIndex": 2,
+                "start": 0,
+                "end": 11
+              },
+              "kind": "semantic",
+              "text": "綿綿若存，用之不勤，言道綿綿若存，用之不勤勞。",
+              "source": "cham"
+            }
+          ]
+        }
+      ],
+      "source": {
+        "textRef": "laozi",
+        "relation": "section"
+      }
+    },
+    {
+      "bookId": "laozi",
+      "num": 7,
+      "title": "第七章",
+      "author": "老子",
+      "authorId": "Laozi",
+      "dynasty": "周",
+      "era": "周",
+      "genre": "prose",
+      "verses": [
+        {
+          "text": "天長地久。"
+        },
+        {
+          "text": "天地所以能長且久者，以其不自生也，故能長生。"
+        },
+        {
+          "text": "是以聖人後其身而身先，外其身而身存。"
+        },
+        {
+          "text": "不以其無私與，故能成其私。"
+        }
+      ],
+      "sections": {},
+      "annotations": [],
+      "layers": {
+        "hesonggong": [
+          {
+            "id": "hesonggong-1",
+            "range": {
+              "type": "range",
+              "scope": "verse",
+              "verseIndex": 0,
+              "start": 0,
+              "end": 5
+            },
+            "kind": "semantic",
+            "text": "天長地久，以其不自生，不自贵，化生萬物，故能長久。",
+            "source": "cham"
+          },
+          {
+            "id": "hesonggong-2",
+            "range": {
+              "type": "range",
+              "scope": "verse",
+              "verseIndex": 2,
+              "start": 0,
+              "end": 18
+            },
+            "kind": "semantic",
+            "text": "聖人法天地，不自生，後其身而身先，外其身而身存。不以其私，故能成其私。",
+            "source": "cham"
+          }
+        ],
+        "wangbi": [
+          {
+            "id": "wangbi-1",
+            "range": {
+              "type": "range",
+              "scope": "verse",
+              "verseIndex": 0,
+              "start": 0,
+              "end": 5
+            },
+            "kind": "semantic",
+            "text": "天地長久，以其不自生，不以自為主，故能長久。",
+            "source": "cham"
+          },
+          {
+            "id": "wangbi-2",
+            "range": {
+              "type": "range",
+              "scope": "verse",
+              "verseIndex": 2,
+              "start": 0,
+              "end": 18
+            },
+            "kind": "semantic",
+            "text": "聖人法天地，後己先人，外己存人，無私而成其私。",
+            "source": "cham"
+          }
+        ]
+      },
+      "annotationLayers": [
+        {
+          "id": "default",
+          "label": "原文",
+          "shortLabel": "文",
+          "contributor": "Laozi",
+          "role": "author",
+          "nature": "annotation",
+          "displayOrder": 0,
+          "enabled": true,
+          "annotations": []
+        },
+        {
+          "id": "wangbi",
+          "label": "王弼註",
+          "shortLabel": "王",
+          "contributor": "C001",
+          "role": "commentator",
+          "nature": "commentary",
+          "displayOrder": 1,
+          "enabled": true,
+          "annotations": [
+            {
+              "id": "wangbi-1",
+              "range": {
+                "type": "range",
+                "scope": "verse",
+                "verseIndex": 0,
+                "start": 0,
+                "end": 5
+              },
+              "kind": "semantic",
+              "text": "天地長久，以其不自生，不以自為主，故能長久。",
+              "source": "cham"
+            },
+            {
+              "id": "wangbi-2",
+              "range": {
+                "type": "range",
+                "scope": "verse",
+                "verseIndex": 2,
+                "start": 0,
+                "end": 18
+              },
+              "kind": "semantic",
+              "text": "聖人法天地，後己先人，外己存人，無私而成其私。",
+              "source": "cham"
+            }
+          ]
+        },
+        {
+          "id": "hesonggong",
+          "label": "河上公註",
+          "shortLabel": "河",
+          "contributor": "C002",
+          "role": "commentator",
+          "nature": "commentary",
+          "displayOrder": 2,
+          "enabled": true,
+          "annotations": [
+            {
+              "id": "hesonggong-1",
+              "range": {
+                "type": "range",
+                "scope": "verse",
+                "verseIndex": 0,
+                "start": 0,
+                "end": 5
+              },
+              "kind": "semantic",
+              "text": "天長地久，以其不自生，不自贵，化生萬物，故能長久。",
+              "source": "cham"
+            },
+            {
+              "id": "hesonggong-2",
+              "range": {
+                "type": "range",
+                "scope": "verse",
+                "verseIndex": 2,
+                "start": 0,
+                "end": 18
+              },
+              "kind": "semantic",
+              "text": "聖人法天地，不自生，後其身而身先，外其身而身存。不以其私，故能成其私。",
+              "source": "cham"
+            }
+          ]
+        }
+      ],
+      "source": {
+        "textRef": "laozi",
+        "relation": "section"
+      }
+    },
+    {
+      "bookId": "laozi",
+      "num": 8,
+      "title": "第八章",
+      "author": "老子",
+      "authorId": "Laozi",
+      "dynasty": "周",
+      "era": "周",
+      "genre": "prose",
+      "verses": [
+        {
+          "text": "上善若水。水善利萬物而不爭，處眾人之所惡，故幾於道。"
+        },
+        {
+          "text": "居善地，心善淵，與善仁，言善信，正善治，事善能，動善時。"
+        },
+        {
+          "text": "夫唯不爭，故無尤。"
+        }
+      ],
+      "sections": {},
+      "annotations": [],
+      "layers": {
+        "hesonggong": [
+          {
+            "id": "hesonggong-1",
+            "range": {
+              "type": "range",
+              "scope": "verse",
+              "verseIndex": 0,
+              "start": 0,
+              "end": 26
+            },
+            "kind": "semantic",
+            "text": "上善之人如水，善利萬物而不爭，處眾人之所惡，故幾於道。",
+            "source": "cham"
+          },
+          {
+            "id": "hesonggong-2",
+            "range": {
+              "type": "range",
+              "scope": "verse",
+              "verseIndex": 1,
+              "start": 0,
+              "end": 28
+            },
+            "kind": "semantic",
+            "text": "居善地，心善淵，與善仁，言善信，正善治，事善能，動善時。皆法水而為善。",
+            "source": "cham"
+          },
+          {
+            "id": "hesonggong-3",
+            "range": {
+              "type": "range",
+              "scope": "verse",
+              "verseIndex": 2,
+              "start": 0,
+              "end": 9
+            },
+            "kind": "semantic",
+            "text": "夫唯不爭，故天下無尤咎己者。",
+            "source": "cham"
+          }
+        ],
+        "wangbi": [
+          {
+            "id": "wangbi-1",
+            "range": {
+              "type": "range",
+              "scope": "verse",
+              "verseIndex": 0,
+              "start": 0,
+              "end": 26
+            },
+            "kind": "semantic",
+            "text": "上善之人如水，利物而不爭，處卑下而近道。",
+            "source": "cham"
+          },
+          {
+            "id": "wangbi-2",
+            "range": {
+              "type": "range",
+              "scope": "verse",
+              "verseIndex": 1,
+              "start": 0,
+              "end": 28
+            },
+            "kind": "semantic",
+            "text": "善者當如水，處地低下，心靜深淵，施惠及人，言合信實，政教治正，事得其能，舉動合時。",
+            "source": "cham"
+          },
+          {
+            "id": "wangbi-3",
+            "range": {
+              "type": "range",
+              "scope": "verse",
+              "verseIndex": 2,
+              "start": 0,
+              "end": 9
+            },
+            "kind": "semantic",
+            "text": "不與物爭，故無過失。",
+            "source": "cham"
+          }
+        ]
+      },
+      "annotationLayers": [
+        {
+          "id": "default",
+          "label": "原文",
+          "shortLabel": "文",
+          "contributor": "Laozi",
+          "role": "author",
+          "nature": "annotation",
+          "displayOrder": 0,
+          "enabled": true,
+          "annotations": []
+        },
+        {
+          "id": "wangbi",
+          "label": "王弼註",
+          "shortLabel": "王",
+          "contributor": "C001",
+          "role": "commentator",
+          "nature": "commentary",
+          "displayOrder": 1,
+          "enabled": true,
+          "annotations": [
+            {
+              "id": "wangbi-1",
+              "range": {
+                "type": "range",
+                "scope": "verse",
+                "verseIndex": 0,
+                "start": 0,
+                "end": 26
+              },
+              "kind": "semantic",
+              "text": "上善之人如水，利物而不爭，處卑下而近道。",
+              "source": "cham"
+            },
+            {
+              "id": "wangbi-2",
+              "range": {
+                "type": "range",
+                "scope": "verse",
+                "verseIndex": 1,
+                "start": 0,
+                "end": 28
+              },
+              "kind": "semantic",
+              "text": "善者當如水，處地低下，心靜深淵，施惠及人，言合信實，政教治正，事得其能，舉動合時。",
+              "source": "cham"
+            },
+            {
+              "id": "wangbi-3",
+              "range": {
+                "type": "range",
+                "scope": "verse",
+                "verseIndex": 2,
+                "start": 0,
+                "end": 9
+              },
+              "kind": "semantic",
+              "text": "不與物爭，故無過失。",
+              "source": "cham"
+            }
+          ]
+        },
+        {
+          "id": "hesonggong",
+          "label": "河上公註",
+          "shortLabel": "河",
+          "contributor": "C002",
+          "role": "commentator",
+          "nature": "commentary",
+          "displayOrder": 2,
+          "enabled": true,
+          "annotations": [
+            {
+              "id": "hesonggong-1",
+              "range": {
+                "type": "range",
+                "scope": "verse",
+                "verseIndex": 0,
+                "start": 0,
+                "end": 26
+              },
+              "kind": "semantic",
+              "text": "上善之人如水，善利萬物而不爭，處眾人之所惡，故幾於道。",
+              "source": "cham"
+            },
+            {
+              "id": "hesonggong-2",
+              "range": {
+                "type": "range",
+                "scope": "verse",
+                "verseIndex": 1,
+                "start": 0,
+                "end": 28
+              },
+              "kind": "semantic",
+              "text": "居善地，心善淵，與善仁，言善信，正善治，事善能，動善時。皆法水而為善。",
+              "source": "cham"
+            },
+            {
+              "id": "hesonggong-3",
+              "range": {
+                "type": "range",
+                "scope": "verse",
+                "verseIndex": 2,
+                "start": 0,
+                "end": 9
+              },
+              "kind": "semantic",
+              "text": "夫唯不爭，故天下無尤咎己者。",
+              "source": "cham"
+            }
+          ]
+        }
+      ],
+      "source": {
+        "textRef": "laozi",
+        "relation": "section"
+      }
+    },
+    {
+      "bookId": "laozi",
+      "num": 9,
+      "title": "第九章",
+      "author": "老子",
+      "authorId": "Laozi",
+      "dynasty": "周",
+      "era": "周",
+      "genre": "prose",
+      "verses": [
+        {
+          "text": "持而盈之，不如其已。"
+        },
+        {
+          "text": "揣而銳之，不可長保。"
+        },
+        {
+          "text": "金玉滿堂，莫之能守。"
+        },
+        {
+          "text": "富貴而驕，自遺其咎。"
+        },
+        {
+          "text": "功遂身退，天之道也。"
+        }
+      ],
+      "sections": {},
+      "annotations": [],
+      "layers": {
+        "hesonggong": [
+          {
+            "id": "hesonggong-1",
+            "range": {
+              "type": "range",
+              "scope": "verse",
+              "verseIndex": 0,
+              "start": 0,
+              "end": 10
+            },
+            "kind": "semantic",
+            "text": "持滿則溢，揣銳則傷。不如其已，守中也。",
+            "source": "cham"
+          },
+          {
+            "id": "hesonggong-2",
+            "range": {
+              "type": "range",
+              "scope": "verse",
+              "verseIndex": 2,
+              "start": 0,
+              "end": 10
+            },
+            "kind": "semantic",
+            "text": "金玉滿堂，不可長保。富貴而驕，必遺其咎。",
+            "source": "cham"
+          },
+          {
+            "id": "hesonggong-3",
+            "range": {
+              "type": "range",
+              "scope": "verse",
+              "verseIndex": 4,
+              "start": 0,
+              "end": 10
+            },
+            "kind": "semantic",
+            "text": "功成名遂，身退居下，合乎天道。",
+            "source": "cham"
+          }
+        ],
+        "wangbi": [
+          {
+            "id": "wangbi-1",
+            "range": {
+              "type": "range",
+              "scope": "verse",
+              "verseIndex": 0,
+              "start": 0,
+              "end": 10
+            },
+            "kind": "semantic",
+            "text": "持滿則溢，揣銳則折，不如適可而止。",
+            "source": "cham"
+          },
+          {
+            "id": "wangbi-2",
+            "range": {
+              "type": "range",
+              "scope": "verse",
+              "verseIndex": 2,
+              "start": 0,
+              "end": 10
+            },
+            "kind": "semantic",
+            "text": "財寶滿盈，必生禍患。富貴驕奢，必遺其咎。",
+            "source": "cham"
+          },
+          {
+            "id": "wangbi-3",
+            "range": {
+              "type": "range",
+              "scope": "verse",
+              "verseIndex": 4,
+              "start": 0,
+              "end": 10
+            },
+            "kind": "semantic",
+            "text": "功成名遂，急流勇退，合乎天道。",
+            "source": "cham"
+          }
+        ]
+      },
+      "annotationLayers": [
+        {
+          "id": "default",
+          "label": "原文",
+          "shortLabel": "文",
+          "contributor": "Laozi",
+          "role": "author",
+          "nature": "annotation",
+          "displayOrder": 0,
+          "enabled": true,
+          "annotations": []
+        },
+        {
+          "id": "wangbi",
+          "label": "王弼註",
+          "shortLabel": "王",
+          "contributor": "C001",
+          "role": "commentator",
+          "nature": "commentary",
+          "displayOrder": 1,
+          "enabled": true,
+          "annotations": [
+            {
+              "id": "wangbi-1",
+              "range": {
+                "type": "range",
+                "scope": "verse",
+                "verseIndex": 0,
+                "start": 0,
+                "end": 10
+              },
+              "kind": "semantic",
+              "text": "持滿則溢，揣銳則折，不如適可而止。",
+              "source": "cham"
+            },
+            {
+              "id": "wangbi-2",
+              "range": {
+                "type": "range",
+                "scope": "verse",
+                "verseIndex": 2,
+                "start": 0,
+                "end": 10
+              },
+              "kind": "semantic",
+              "text": "財寶滿盈，必生禍患。富貴驕奢，必遺其咎。",
+              "source": "cham"
+            },
+            {
+              "id": "wangbi-3",
+              "range": {
+                "type": "range",
+                "scope": "verse",
+                "verseIndex": 4,
+                "start": 0,
+                "end": 10
+              },
+              "kind": "semantic",
+              "text": "功成名遂，急流勇退，合乎天道。",
+              "source": "cham"
+            }
+          ]
+        },
+        {
+          "id": "hesonggong",
+          "label": "河上公註",
+          "shortLabel": "河",
+          "contributor": "C002",
+          "role": "commentator",
+          "nature": "commentary",
+          "displayOrder": 2,
+          "enabled": true,
+          "annotations": [
+            {
+              "id": "hesonggong-1",
+              "range": {
+                "type": "range",
+                "scope": "verse",
+                "verseIndex": 0,
+                "start": 0,
+                "end": 10
+              },
+              "kind": "semantic",
+              "text": "持滿則溢，揣銳則傷。不如其已，守中也。",
+              "source": "cham"
+            },
+            {
+              "id": "hesonggong-2",
+              "range": {
+                "type": "range",
+                "scope": "verse",
+                "verseIndex": 2,
+                "start": 0,
+                "end": 10
+              },
+              "kind": "semantic",
+              "text": "金玉滿堂，不可長保。富貴而驕，必遺其咎。",
+              "source": "cham"
+            },
+            {
+              "id": "hesonggong-3",
+              "range": {
+                "type": "range",
+                "scope": "verse",
+                "verseIndex": 4,
+                "start": 0,
+                "end": 10
+              },
+              "kind": "semantic",
+              "text": "功成名遂，身退居下，合乎天道。",
+              "source": "cham"
+            }
+          ]
+        }
+      ],
+      "source": {
+        "textRef": "laozi",
+        "relation": "section"
+      }
+    },
+    {
+      "bookId": "laozi",
+      "num": 10,
+      "title": "第十章",
+      "author": "老子",
+      "authorId": "Laozi",
+      "dynasty": "周",
+      "era": "周",
+      "genre": "prose",
+      "verses": [
+        {
+          "text": "載營魄抱一，能無離乎？"
+        },
+        {
+          "text": "專氣致柔，能嬰兒乎？"
+        },
+        {
+          "text": "滌除玄覽，能無疵乎？"
+        },
+        {
+          "text": "愛民治國，能無為乎？"
+        },
+        {
+          "text": "天門開闔，能為雌乎？"
+        },
+        {
+          "text": "明白四達，能無知乎？"
+        }
+      ],
+      "sections": {},
+      "annotations": [],
+      "layers": {
+        "hesonggong": [
+          {
+            "id": "hesonggong-1",
+            "range": {
+              "type": "range",
+              "scope": "verse",
+              "verseIndex": 0,
+              "start": 0,
+              "end": 11
+            },
+            "kind": "semantic",
+            "text": "載營魄抱一，專氣致柔，能如嬰兒乎？",
+            "source": "cham"
+          },
+          {
+            "id": "hesonggong-2",
+            "range": {
+              "type": "range",
+              "scope": "verse",
+              "verseIndex": 2,
+              "start": 0,
+              "end": 10
+            },
+            "kind": "semantic",
+            "text": "滌除玄覽，能無疵乎？愛民治國，能無為乎？",
+            "source": "cham"
+          },
+          {
+            "id": "hesonggong-3",
+            "range": {
+              "type": "range",
+              "scope": "verse",
+              "verseIndex": 4,
+              "start": 0,
+              "end": 10
+            },
+            "kind": "semantic",
+            "text": "天門開闔，能為雌乎？明白四達，能無知乎？",
+            "source": "cham"
+          }
+        ],
+        "wangbi": [
+          {
+            "id": "wangbi-1",
+            "range": {
+              "type": "range",
+              "scope": "verse",
+              "verseIndex": 0,
+              "start": 0,
+              "end": 11
+            },
+            "kind": "semantic",
+            "text": "載營魄抱一，專氣致柔，如嬰兒之純一無離。",
+            "source": "cham"
+          },
+          {
+            "id": "wangbi-2",
+            "range": {
+              "type": "range",
+              "scope": "verse",
+              "verseIndex": 2,
+              "start": 0,
+              "end": 10
+            },
+            "kind": "semantic",
+            "text": "滌除妄想，玄覽物情，愛民治國，能無為而治乎？",
+            "source": "cham"
+          },
+          {
+            "id": "wangbi-3",
+            "range": {
+              "type": "range",
+              "scope": "verse",
+              "verseIndex": 4,
+              "start": 0,
+              "end": 10
+            },
+            "kind": "semantic",
+            "text": "天門開闔，能為雌守，明白四達，能無知無欲乎？",
+            "source": "cham"
+          }
+        ]
+      },
+      "annotationLayers": [
+        {
+          "id": "default",
+          "label": "原文",
+          "shortLabel": "文",
+          "contributor": "Laozi",
+          "role": "author",
+          "nature": "annotation",
+          "displayOrder": 0,
+          "enabled": true,
+          "annotations": []
+        },
+        {
+          "id": "wangbi",
+          "label": "王弼註",
+          "shortLabel": "王",
+          "contributor": "C001",
+          "role": "commentator",
+          "nature": "commentary",
+          "displayOrder": 1,
+          "enabled": true,
+          "annotations": [
+            {
+              "id": "wangbi-1",
+              "range": {
+                "type": "range",
+                "scope": "verse",
+                "verseIndex": 0,
+                "start": 0,
+                "end": 11
+              },
+              "kind": "semantic",
+              "text": "載營魄抱一，專氣致柔，如嬰兒之純一無離。",
+              "source": "cham"
+            },
+            {
+              "id": "wangbi-2",
+              "range": {
+                "type": "range",
+                "scope": "verse",
+                "verseIndex": 2,
+                "start": 0,
+                "end": 10
+              },
+              "kind": "semantic",
+              "text": "滌除妄想，玄覽物情，愛民治國，能無為而治乎？",
+              "source": "cham"
+            },
+            {
+              "id": "wangbi-3",
+              "range": {
+                "type": "range",
+                "scope": "verse",
+                "verseIndex": 4,
+                "start": 0,
+                "end": 10
+              },
+              "kind": "semantic",
+              "text": "天門開闔，能為雌守，明白四達，能無知無欲乎？",
+              "source": "cham"
+            }
+          ]
+        },
+        {
+          "id": "hesonggong",
+          "label": "河上公註",
+          "shortLabel": "河",
+          "contributor": "C002",
+          "role": "commentator",
+          "nature": "commentary",
+          "displayOrder": 2,
+          "enabled": true,
+          "annotations": [
+            {
+              "id": "hesonggong-1",
+              "range": {
+                "type": "range",
+                "scope": "verse",
+                "verseIndex": 0,
+                "start": 0,
+                "end": 11
+              },
+              "kind": "semantic",
+              "text": "載營魄抱一，專氣致柔，能如嬰兒乎？",
+              "source": "cham"
+            },
+            {
+              "id": "hesonggong-2",
+              "range": {
+                "type": "range",
+                "scope": "verse",
+                "verseIndex": 2,
+                "start": 0,
+                "end": 10
+              },
+              "kind": "semantic",
+              "text": "滌除玄覽，能無疵乎？愛民治國，能無為乎？",
+              "source": "cham"
+            },
+            {
+              "id": "hesonggong-3",
+              "range": {
+                "type": "range",
+                "scope": "verse",
+                "verseIndex": 4,
+                "start": 0,
+                "end": 10
+              },
+              "kind": "semantic",
+              "text": "天門開闔，能為雌乎？明白四達，能無知乎？",
+              "source": "cham"
+            }
+          ]
+        }
+      ],
+      "source": {
+        "textRef": "laozi",
+        "relation": "section"
+      }
+    },
+    {
+      "bookId": "laozi",
+      "num": 11,
+      "title": "第十一章",
+      "author": "老子",
+      "authorId": "Laozi",
+      "dynasty": "周",
+      "era": "周",
+      "genre": "prose",
+      "verses": [
+        {
+          "text": "三十輻共一轂，當其無，有車之用。"
+        },
+        {
+          "text": "埏埴以為器，當其無，有器之用。"
+        },
+        {
+          "text": "鑿戶牖以為室，當其無，有室之用。"
+        },
+        {
+          "text": "故有之以為利，無之以為用。"
+        }
+      ],
+      "sections": {},
+      "annotations": [],
+      "layers": {
+        "hesonggong": [
+          {
+            "id": "hesonggong-1",
+            "range": {
+              "type": "range",
+              "scope": "verse",
+              "verseIndex": 0,
+              "start": 0,
+              "end": 16
+            },
+            "kind": "semantic",
+            "text": "三十輻共一轂，器以土為之，室以空為用，皆取其無有相成之義。",
+            "source": "cham"
+          },
+          {
+            "id": "hesonggong-2",
+            "range": {
+              "type": "range",
+              "scope": "verse",
+              "verseIndex": 3,
+              "start": 0,
+              "end": 13
+            },
+            "kind": "semantic",
+            "text": "有形者以為利，無形者以為用，有無相須，然後成器。",
+            "source": "cham"
+          }
+        ],
+        "wangbi": [
+          {
+            "id": "wangbi-1",
+            "range": {
+              "type": "range",
+              "scope": "verse",
+              "verseIndex": 0,
+              "start": 0,
+              "end": 16
+            },
+            "kind": "semantic",
+            "text": "有無相成，虛實相用。車、器、室皆因無而有用，無乃所以為用。",
+            "source": "cham"
+          },
+          {
+            "id": "wangbi-2",
+            "range": {
+              "type": "range",
+              "scope": "verse",
+              "verseIndex": 3,
+              "start": 0,
+              "end": 13
+            },
+            "kind": "semantic",
+            "text": "有無相須，形用相待，有以為利，無以為用。",
+            "source": "cham"
+          }
+        ]
+      },
+      "annotationLayers": [
+        {
+          "id": "default",
+          "label": "原文",
+          "shortLabel": "文",
+          "contributor": "Laozi",
+          "role": "author",
+          "nature": "annotation",
+          "displayOrder": 0,
+          "enabled": true,
+          "annotations": []
+        },
+        {
+          "id": "wangbi",
+          "label": "王弼註",
+          "shortLabel": "王",
+          "contributor": "C001",
+          "role": "commentator",
+          "nature": "commentary",
+          "displayOrder": 1,
+          "enabled": true,
+          "annotations": [
+            {
+              "id": "wangbi-1",
+              "range": {
+                "type": "range",
+                "scope": "verse",
+                "verseIndex": 0,
+                "start": 0,
+                "end": 16
+              },
+              "kind": "semantic",
+              "text": "有無相成，虛實相用。車、器、室皆因無而有用，無乃所以為用。",
+              "source": "cham"
+            },
+            {
+              "id": "wangbi-2",
+              "range": {
+                "type": "range",
+                "scope": "verse",
+                "verseIndex": 3,
+                "start": 0,
+                "end": 13
+              },
+              "kind": "semantic",
+              "text": "有無相須，形用相待，有以為利，無以為用。",
+              "source": "cham"
+            }
+          ]
+        },
+        {
+          "id": "hesonggong",
+          "label": "河上公註",
+          "shortLabel": "河",
+          "contributor": "C002",
+          "role": "commentator",
+          "nature": "commentary",
+          "displayOrder": 2,
+          "enabled": true,
+          "annotations": [
+            {
+              "id": "hesonggong-1",
+              "range": {
+                "type": "range",
+                "scope": "verse",
+                "verseIndex": 0,
+                "start": 0,
+                "end": 16
+              },
+              "kind": "semantic",
+              "text": "三十輻共一轂，器以土為之，室以空為用，皆取其無有相成之義。",
+              "source": "cham"
+            },
+            {
+              "id": "hesonggong-2",
+              "range": {
+                "type": "range",
+                "scope": "verse",
+                "verseIndex": 3,
+                "start": 0,
+                "end": 13
+              },
+              "kind": "semantic",
+              "text": "有形者以為利，無形者以為用，有無相須，然後成器。",
+              "source": "cham"
+            }
+          ]
+        }
+      ],
+      "source": {
+        "textRef": "laozi",
+        "relation": "section"
+      }
+    },
+    {
+      "bookId": "laozi",
+      "num": 12,
+      "title": "第十二章",
+      "author": "老子",
+      "authorId": "Laozi",
+      "dynasty": "周",
+      "era": "周",
+      "genre": "prose",
+      "verses": [
+        {
+          "text": "五色令人目盲，五音令人耳聾，五味令人口爽，"
+        },
+        {
+          "text": "馳騁畋獵令人心發狂，難得之貨令人行妨。"
+        },
+        {
+          "text": "是以聖人為腹不為目，故去彼取此。"
+        }
+      ],
+      "sections": {},
+      "annotations": [],
+      "layers": {
+        "hesonggong": [
+          {
+            "id": "hesonggong-1",
+            "range": {
+              "type": "range",
+              "scope": "verse",
+              "verseIndex": 0,
+              "start": 0,
+              "end": 21
+            },
+            "kind": "semantic",
+            "text": "五色亂目，五音亂耳，五味亂口，馳騁畋獵發狂心，難得之貨妨人道行。",
+            "source": "cham"
+          },
+          {
+            "id": "hesonggong-2",
+            "range": {
+              "type": "range",
+              "scope": "verse",
+              "verseIndex": 2,
+              "start": 0,
+              "end": 16
+            },
+            "kind": "semantic",
+            "text": "聖人為腹實不為目視，故去彼五者，取此道德。",
+            "source": "cham"
+          }
+        ],
+        "wangbi": [
+          {
+            "id": "wangbi-1",
+            "range": {
+              "type": "range",
+              "scope": "verse",
+              "verseIndex": 0,
+              "start": 0,
+              "end": 21
+            },
+            "kind": "semantic",
+            "text": "五色、五音、五味、馳騁畋獵、難得之貨皆能使人迷惑失性。",
+            "source": "cham"
+          },
+          {
+            "id": "wangbi-2",
+            "range": {
+              "type": "range",
+              "scope": "verse",
+              "verseIndex": 2,
+              "start": 0,
+              "end": 16
+            },
+            "kind": "semantic",
+            "text": "聖人為腹不為目，去彼欲望，取此道德。",
+            "source": "cham"
+          }
+        ]
+      },
+      "annotationLayers": [
+        {
+          "id": "default",
+          "label": "原文",
+          "shortLabel": "文",
+          "contributor": "Laozi",
+          "role": "author",
+          "nature": "annotation",
+          "displayOrder": 0,
+          "enabled": true,
+          "annotations": []
+        },
+        {
+          "id": "wangbi",
+          "label": "王弼註",
+          "shortLabel": "王",
+          "contributor": "C001",
+          "role": "commentator",
+          "nature": "commentary",
+          "displayOrder": 1,
+          "enabled": true,
+          "annotations": [
+            {
+              "id": "wangbi-1",
+              "range": {
+                "type": "range",
+                "scope": "verse",
+                "verseIndex": 0,
+                "start": 0,
+                "end": 21
+              },
+              "kind": "semantic",
+              "text": "五色、五音、五味、馳騁畋獵、難得之貨皆能使人迷惑失性。",
+              "source": "cham"
+            },
+            {
+              "id": "wangbi-2",
+              "range": {
+                "type": "range",
+                "scope": "verse",
+                "verseIndex": 2,
+                "start": 0,
+                "end": 16
+              },
+              "kind": "semantic",
+              "text": "聖人為腹不為目，去彼欲望，取此道德。",
+              "source": "cham"
+            }
+          ]
+        },
+        {
+          "id": "hesonggong",
+          "label": "河上公註",
+          "shortLabel": "河",
+          "contributor": "C002",
+          "role": "commentator",
+          "nature": "commentary",
+          "displayOrder": 2,
+          "enabled": true,
+          "annotations": [
+            {
+              "id": "hesonggong-1",
+              "range": {
+                "type": "range",
+                "scope": "verse",
+                "verseIndex": 0,
+                "start": 0,
+                "end": 21
+              },
+              "kind": "semantic",
+              "text": "五色亂目，五音亂耳，五味亂口，馳騁畋獵發狂心，難得之貨妨人道行。",
+              "source": "cham"
+            },
+            {
+              "id": "hesonggong-2",
+              "range": {
+                "type": "range",
+                "scope": "verse",
+                "verseIndex": 2,
+                "start": 0,
+                "end": 16
+              },
+              "kind": "semantic",
+              "text": "聖人為腹實不為目視，故去彼五者，取此道德。",
+              "source": "cham"
+            }
+          ]
+        }
+      ],
+      "source": {
+        "textRef": "laozi",
+        "relation": "section"
+      }
+    },
+    {
+      "bookId": "laozi",
+      "num": 13,
+      "title": "第十三章",
+      "author": "老子",
+      "authorId": "Laozi",
+      "dynasty": "周",
+      "era": "周",
+      "genre": "prose",
+      "verses": [
+        {
+          "text": "寵辱若驚，貴大患若身。"
+        },
+        {
+          "text": "何謂寵辱若驚？寵為下，得之若驚，失之若驚，是謂寵辱若驚。"
+        },
+        {
+          "text": "何謂貴大患若身？吾所以有大患者，為吾有身；及吾無身，吾有何患？"
+        },
+        {
+          "text": "故貴以身為天下，若可寄天下。愛以身為天下，若可託天下。"
+        }
+      ],
+      "sections": {},
+      "annotations": [],
+      "layers": {
+        "hesonggong": [
+          {
+            "id": "hesonggong-1",
+            "range": {
+              "type": "range",
+              "scope": "verse",
+              "verseIndex": 0,
+              "start": 0,
+              "end": 11
+            },
+            "kind": "semantic",
+            "text": "寵辱若驚，言不可以寵故驕，不可以辱故憂，當自知者。",
+            "source": "cham"
+          },
+          {
+            "id": "hesonggong-2",
+            "range": {
+              "type": "range",
+              "scope": "verse",
+              "verseIndex": 2,
+              "start": 0,
+              "end": 31
+            },
+            "kind": "semantic",
+            "text": "貴大患若身，言身為患本，當貴而重之，不可以穢辱。",
+            "source": "cham"
+          },
+          {
+            "id": "hesonggong-3",
+            "range": {
+              "type": "range",
+              "scope": "verse",
+              "verseIndex": 3,
+              "start": 0,
+              "end": 27
+            },
+            "kind": "semantic",
+            "text": "貴身愛身，可以寄託天下，為天下主。",
+            "source": "cham"
+          }
+        ],
+        "wangbi": [
+          {
+            "id": "wangbi-1",
+            "range": {
+              "type": "range",
+              "scope": "verse",
+              "verseIndex": 0,
+              "start": 0,
+              "end": 11
+            },
+            "kind": "semantic",
+            "text": "寵辱皆當若驚，不可以喜寵而驕，不可以辱而憂。",
+            "source": "cham"
+          },
+          {
+            "id": "wangbi-2",
+            "range": {
+              "type": "range",
+              "scope": "verse",
+              "verseIndex": 2,
+              "start": 0,
+              "end": 31
+            },
+            "kind": "semantic",
+            "text": "貴身若大患，身為患本，無身則無患。",
+            "source": "cham"
+          },
+          {
+            "id": "wangbi-3",
+            "range": {
+              "type": "range",
+              "scope": "verse",
+              "verseIndex": 3,
+              "start": 0,
+              "end": 27
+            },
+            "kind": "semantic",
+            "text": "以身為天下，可以寄託天下。",
+            "source": "cham"
+          }
+        ]
+      },
+      "annotationLayers": [
+        {
+          "id": "default",
+          "label": "原文",
+          "shortLabel": "文",
+          "contributor": "Laozi",
+          "role": "author",
+          "nature": "annotation",
+          "displayOrder": 0,
+          "enabled": true,
+          "annotations": []
+        },
+        {
+          "id": "wangbi",
+          "label": "王弼註",
+          "shortLabel": "王",
+          "contributor": "C001",
+          "role": "commentator",
+          "nature": "commentary",
+          "displayOrder": 1,
+          "enabled": true,
+          "annotations": [
+            {
+              "id": "wangbi-1",
+              "range": {
+                "type": "range",
+                "scope": "verse",
+                "verseIndex": 0,
+                "start": 0,
+                "end": 11
+              },
+              "kind": "semantic",
+              "text": "寵辱皆當若驚，不可以喜寵而驕，不可以辱而憂。",
+              "source": "cham"
+            },
+            {
+              "id": "wangbi-2",
+              "range": {
+                "type": "range",
+                "scope": "verse",
+                "verseIndex": 2,
+                "start": 0,
+                "end": 31
+              },
+              "kind": "semantic",
+              "text": "貴身若大患，身為患本，無身則無患。",
+              "source": "cham"
+            },
+            {
+              "id": "wangbi-3",
+              "range": {
+                "type": "range",
+                "scope": "verse",
+                "verseIndex": 3,
+                "start": 0,
+                "end": 27
+              },
+              "kind": "semantic",
+              "text": "以身為天下，可以寄託天下。",
+              "source": "cham"
+            }
+          ]
+        },
+        {
+          "id": "hesonggong",
+          "label": "河上公註",
+          "shortLabel": "河",
+          "contributor": "C002",
+          "role": "commentator",
+          "nature": "commentary",
+          "displayOrder": 2,
+          "enabled": true,
+          "annotations": [
+            {
+              "id": "hesonggong-1",
+              "range": {
+                "type": "range",
+                "scope": "verse",
+                "verseIndex": 0,
+                "start": 0,
+                "end": 11
+              },
+              "kind": "semantic",
+              "text": "寵辱若驚，言不可以寵故驕，不可以辱故憂，當自知者。",
+              "source": "cham"
+            },
+            {
+              "id": "hesonggong-2",
+              "range": {
+                "type": "range",
+                "scope": "verse",
+                "verseIndex": 2,
+                "start": 0,
+                "end": 31
+              },
+              "kind": "semantic",
+              "text": "貴大患若身，言身為患本，當貴而重之，不可以穢辱。",
+              "source": "cham"
+            },
+            {
+              "id": "hesonggong-3",
+              "range": {
+                "type": "range",
+                "scope": "verse",
+                "verseIndex": 3,
+                "start": 0,
+                "end": 27
+              },
+              "kind": "semantic",
+              "text": "貴身愛身，可以寄託天下，為天下主。",
+              "source": "cham"
+            }
+          ]
+        }
+      ],
+      "source": {
+        "textRef": "laozi",
+        "relation": "section"
+      }
+    },
+    {
+      "bookId": "laozi",
+      "num": 14,
+      "title": "第十四章",
+      "author": "老子",
+      "authorId": "Laozi",
+      "dynasty": "周",
+      "era": "周",
+      "genre": "prose",
+      "verses": [
+        {
+          "text": "視之不見名曰夷，聽之不聞名曰希，搏之不得名曰微。"
+        },
+        {
+          "text": "此三者不可致詰，故混而為一。"
+        },
+        {
+          "text": "其上不皦，其下不昧。繩繩不可名，復歸於無物。"
+        },
+        {
+          "text": "是謂無狀之狀，無物之象，是謂惚恍。"
+        },
+        {
+          "text": "迎之不見其首，隨之不見其後。"
+        }
+      ],
+      "sections": {},
+      "annotations": [],
+      "layers": {
+        "hesonggong": [
+          {
+            "id": "hesonggong-1",
+            "range": {
+              "type": "range",
+              "scope": "verse",
+              "verseIndex": 0,
+              "start": 0,
+              "end": 24
+            },
+            "kind": "semantic",
+            "text": "道非色故不可見，非聲故不可聞，非形故不可扪握。此三者微妙無形，故不可致詰，混合為一。",
+            "source": "cham"
+          },
+          {
+            "id": "hesonggong-2",
+            "range": {
+              "type": "range",
+              "scope": "verse",
+              "verseIndex": 2,
+              "start": 0,
+              "end": 22
+            },
+            "kind": "semantic",
+            "text": "道上不明，下不昧，延長無窮，不可名字，復歸於無形無物。是謂無狀之狀，無物之象，是謂惚恍。",
+            "source": "cham"
+          },
+          {
+            "id": "hesonggong-3",
+            "range": {
+              "type": "range",
+              "scope": "verse",
+              "verseIndex": 4,
+              "start": 0,
+              "end": 14
+            },
+            "kind": "semantic",
+            "text": "迎之不見其首，隨之不見其後，言道無端無末也。",
+            "source": "cham"
+          }
+        ],
+        "wangbi": [
+          {
+            "id": "wangbi-1",
+            "range": {
+              "type": "range",
+              "scope": "verse",
+              "verseIndex": 0,
+              "start": 0,
+              "end": 24
+            },
+            "kind": "semantic",
+            "text": "道之微妙，不可見聞觸知，混而為一，不可分別。",
+            "source": "cham"
+          },
+          {
+            "id": "wangbi-2",
+            "range": {
+              "type": "range",
+              "scope": "verse",
+              "verseIndex": 2,
+              "start": 0,
+              "end": 22
+            },
+            "kind": "semantic",
+            "text": "道體玄妙，上不明，下不昧，無狀無象，惚恍難名。",
+            "source": "cham"
+          },
+          {
+            "id": "wangbi-3",
+            "range": {
+              "type": "range",
+              "scope": "verse",
+              "verseIndex": 4,
+              "start": 0,
+              "end": 14
+            },
+            "kind": "semantic",
+            "text": "道無始無終，故迎之不見首，隨之不見後。",
+            "source": "cham"
+          }
+        ]
+      },
+      "annotationLayers": [
+        {
+          "id": "default",
+          "label": "原文",
+          "shortLabel": "文",
+          "contributor": "Laozi",
+          "role": "author",
+          "nature": "annotation",
+          "displayOrder": 0,
+          "enabled": true,
+          "annotations": []
+        },
+        {
+          "id": "wangbi",
+          "label": "王弼註",
+          "shortLabel": "王",
+          "contributor": "C001",
+          "role": "commentator",
+          "nature": "commentary",
+          "displayOrder": 1,
+          "enabled": true,
+          "annotations": [
+            {
+              "id": "wangbi-1",
+              "range": {
+                "type": "range",
+                "scope": "verse",
+                "verseIndex": 0,
+                "start": 0,
+                "end": 24
+              },
+              "kind": "semantic",
+              "text": "道之微妙，不可見聞觸知，混而為一，不可分別。",
+              "source": "cham"
+            },
+            {
+              "id": "wangbi-2",
+              "range": {
+                "type": "range",
+                "scope": "verse",
+                "verseIndex": 2,
+                "start": 0,
+                "end": 22
+              },
+              "kind": "semantic",
+              "text": "道體玄妙，上不明，下不昧，無狀無象，惚恍難名。",
+              "source": "cham"
+            },
+            {
+              "id": "wangbi-3",
+              "range": {
+                "type": "range",
+                "scope": "verse",
+                "verseIndex": 4,
+                "start": 0,
+                "end": 14
+              },
+              "kind": "semantic",
+              "text": "道無始無終，故迎之不見首，隨之不見後。",
+              "source": "cham"
+            }
+          ]
+        },
+        {
+          "id": "hesonggong",
+          "label": "河上公註",
+          "shortLabel": "河",
+          "contributor": "C002",
+          "role": "commentator",
+          "nature": "commentary",
+          "displayOrder": 2,
+          "enabled": true,
+          "annotations": [
+            {
+              "id": "hesonggong-1",
+              "range": {
+                "type": "range",
+                "scope": "verse",
+                "verseIndex": 0,
+                "start": 0,
+                "end": 24
+              },
+              "kind": "semantic",
+              "text": "道非色故不可見，非聲故不可聞，非形故不可扪握。此三者微妙無形，故不可致詰，混合為一。",
+              "source": "cham"
+            },
+            {
+              "id": "hesonggong-2",
+              "range": {
+                "type": "range",
+                "scope": "verse",
+                "verseIndex": 2,
+                "start": 0,
+                "end": 22
+              },
+              "kind": "semantic",
+              "text": "道上不明，下不昧，延長無窮，不可名字，復歸於無形無物。是謂無狀之狀，無物之象，是謂惚恍。",
+              "source": "cham"
+            },
+            {
+              "id": "hesonggong-3",
+              "range": {
+                "type": "range",
+                "scope": "verse",
+                "verseIndex": 4,
+                "start": 0,
+                "end": 14
+              },
+              "kind": "semantic",
+              "text": "迎之不見其首，隨之不見其後，言道無端無末也。",
+              "source": "cham"
+            }
+          ]
+        }
+      ],
+      "source": {
+        "textRef": "laozi",
+        "relation": "section"
+      }
+    },
+    {
+      "bookId": "laozi",
+      "num": 15,
+      "title": "第十五章",
+      "author": "老子",
+      "authorId": "Laozi",
+      "dynasty": "周",
+      "era": "周",
+      "genre": "prose",
+      "verses": [
+        {
+          "text": "古之善為士者，微妙玄通，深不可識。"
+        },
+        {
+          "text": "夫唯不可識，故強為之容。豫焉若冬涉川；"
+        },
+        {
+          "text": "猶兮若畏四鄰；儼兮其若客；"
+        },
+        {
+          "text": "渙兮若冰之將釋；敦兮其若樸；"
+        },
+        {
+          "text": "曠兮其若谷；混兮其若濁。"
+        },
+        {
+          "text": "孰能濁以靜之徐清？孰能安以久動之徐生？"
+        },
+        {
+          "text": "保此道者不欲盈。夫唯不盈，故能蔽不新成。"
+        }
+      ],
+      "sections": {},
+      "annotations": [],
+      "layers": {
+        "hesonggong": [
+          {
+            "id": "hesonggong-1",
+            "range": {
+              "type": "range",
+              "scope": "verse",
+              "verseIndex": 0,
+              "start": 0,
+              "end": 17
+            },
+            "kind": "semantic",
+            "text": "古之善為士者，微妙玄通，深不可識。故強為之容，豫若冬涉川，猶若畏四鄰，儼若為客。",
+            "source": "cham"
+          },
+          {
+            "id": "hesonggong-2",
+            "range": {
+              "type": "range",
+              "scope": "verse",
+              "verseIndex": 3,
+              "start": 0,
+              "end": 14
+            },
+            "kind": "semantic",
+            "text": "渙若冰之將釋，敦若樸，曠若谷，混若濁。皆喻道士之德。",
+            "source": "cham"
+          },
+          {
+            "id": "hesonggong-3",
+            "range": {
+              "type": "range",
+              "scope": "verse",
+              "verseIndex": 5,
+              "start": 0,
+              "end": 19
+            },
+            "kind": "semantic",
+            "text": "孰能濁以靜之徐清？孰能安以久動之徐生？保此道者不欲盈，夫唯不盈，故能蔽不新成。言道士能藏光祿德，不為新成。",
+            "source": "cham"
+          }
+        ],
+        "wangbi": [
+          {
+            "id": "wangbi-1",
+            "range": {
+              "type": "range",
+              "scope": "verse",
+              "verseIndex": 0,
+              "start": 0,
+              "end": 17
+            },
+            "kind": "semantic",
+            "text": "古之善為士者，深不可識，故其容貌若豫若猶若儼，如冬涉川，如畏四鄰，如客自持。",
+            "source": "cham"
+          },
+          {
+            "id": "wangbi-2",
+            "range": {
+              "type": "range",
+              "scope": "verse",
+              "verseIndex": 3,
+              "start": 0,
+              "end": 14
+            },
+            "kind": "semantic",
+            "text": "渙若冰釋，敦若樸素，曠若空谷，混若濁水。",
+            "source": "cham"
+          },
+          {
+            "id": "wangbi-3",
+            "range": {
+              "type": "range",
+              "scope": "verse",
+              "verseIndex": 5,
+              "start": 0,
+              "end": 19
+            },
+            "kind": "semantic",
+            "text": "能使濁者清，安者動，保此道者不欲盈滿，故能蔽不新成。",
+            "source": "cham"
+          }
+        ]
+      },
+      "annotationLayers": [
+        {
+          "id": "default",
+          "label": "原文",
+          "shortLabel": "文",
+          "contributor": "Laozi",
+          "role": "author",
+          "nature": "annotation",
+          "displayOrder": 0,
+          "enabled": true,
+          "annotations": []
+        },
+        {
+          "id": "wangbi",
+          "label": "王弼註",
+          "shortLabel": "王",
+          "contributor": "C001",
+          "role": "commentator",
+          "nature": "commentary",
+          "displayOrder": 1,
+          "enabled": true,
+          "annotations": [
+            {
+              "id": "wangbi-1",
+              "range": {
+                "type": "range",
+                "scope": "verse",
+                "verseIndex": 0,
+                "start": 0,
+                "end": 17
+              },
+              "kind": "semantic",
+              "text": "古之善為士者，深不可識，故其容貌若豫若猶若儼，如冬涉川，如畏四鄰，如客自持。",
+              "source": "cham"
+            },
+            {
+              "id": "wangbi-2",
+              "range": {
+                "type": "range",
+                "scope": "verse",
+                "verseIndex": 3,
+                "start": 0,
+                "end": 14
+              },
+              "kind": "semantic",
+              "text": "渙若冰釋，敦若樸素，曠若空谷，混若濁水。",
+              "source": "cham"
+            },
+            {
+              "id": "wangbi-3",
+              "range": {
+                "type": "range",
+                "scope": "verse",
+                "verseIndex": 5,
+                "start": 0,
+                "end": 19
+              },
+              "kind": "semantic",
+              "text": "能使濁者清，安者動，保此道者不欲盈滿，故能蔽不新成。",
+              "source": "cham"
+            }
+          ]
+        },
+        {
+          "id": "hesonggong",
+          "label": "河上公註",
+          "shortLabel": "河",
+          "contributor": "C002",
+          "role": "commentator",
+          "nature": "commentary",
+          "displayOrder": 2,
+          "enabled": true,
+          "annotations": [
+            {
+              "id": "hesonggong-1",
+              "range": {
+                "type": "range",
+                "scope": "verse",
+                "verseIndex": 0,
+                "start": 0,
+                "end": 17
+              },
+              "kind": "semantic",
+              "text": "古之善為士者，微妙玄通，深不可識。故強為之容，豫若冬涉川，猶若畏四鄰，儼若為客。",
+              "source": "cham"
+            },
+            {
+              "id": "hesonggong-2",
+              "range": {
+                "type": "range",
+                "scope": "verse",
+                "verseIndex": 3,
+                "start": 0,
+                "end": 14
+              },
+              "kind": "semantic",
+              "text": "渙若冰之將釋，敦若樸，曠若谷，混若濁。皆喻道士之德。",
+              "source": "cham"
+            },
+            {
+              "id": "hesonggong-3",
+              "range": {
+                "type": "range",
+                "scope": "verse",
+                "verseIndex": 5,
+                "start": 0,
+                "end": 19
+              },
+              "kind": "semantic",
+              "text": "孰能濁以靜之徐清？孰能安以久動之徐生？保此道者不欲盈，夫唯不盈，故能蔽不新成。言道士能藏光祿德，不為新成。",
+              "source": "cham"
+            }
+          ]
+        }
+      ],
+      "source": {
+        "textRef": "laozi",
+        "relation": "section"
+      }
+    },
+    {
+      "bookId": "laozi",
+      "num": 16,
+      "title": "第十六章",
+      "author": "老子",
+      "authorId": "Laozi",
+      "dynasty": "周",
+      "era": "周",
+      "genre": "prose",
+      "verses": [
+        {
+          "text": "致虛極，守靜篤。萬物並作，吾以觀復。"
+        },
+        {
+          "text": "夫物芸芸，各復歸其根。歸根曰靜，是謂復命。"
+        },
+        {
+          "text": "復命曰常，知常曰明。不知常，妄作凶。"
+        },
+        {
+          "text": "知常容，容乃公，公乃王，王乃天，天乃道，道乃久，沒身不殆。"
+        }
+      ],
+      "sections": {},
+      "annotations": [],
+      "layers": {
+        "hesonggong": [
+          {
+            "id": "hesonggong-1",
+            "range": {
+              "type": "range",
+              "scope": "verse",
+              "verseIndex": 0,
+              "start": 0,
+              "end": 18
+            },
+            "kind": "semantic",
+            "text": "致虛極，守靜篤，萬物並作，吾以觀其復。物芸芸，各復歸其根，靜者道之尊。",
+            "source": "cham"
+          },
+          {
+            "id": "hesonggong-2",
+            "range": {
+              "type": "range",
+              "scope": "verse",
+              "verseIndex": 2,
+              "start": 0,
+              "end": 18
+            },
+            "kind": "semantic",
+            "text": "復命曰常，知常曰明。不知常，妄作凶。知常容，容乃公，公乃王，王乃天，天乃道，道乃久，沒身不殆。",
+            "source": "cham"
+          }
+        ],
+        "wangbi": [
+          {
+            "id": "wangbi-1",
+            "range": {
+              "type": "range",
+              "scope": "verse",
+              "verseIndex": 0,
+              "start": 0,
+              "end": 18
+            },
+            "kind": "semantic",
+            "text": "致虛守靜，觀物變化，皆復歸根。歸根復命，乃得常道。",
+            "source": "cham"
+          },
+          {
+            "id": "wangbi-2",
+            "range": {
+              "type": "range",
+              "scope": "verse",
+              "verseIndex": 2,
+              "start": 0,
+              "end": 18
+            },
+            "kind": "semantic",
+            "text": "知常則明，不知常則妄作凶。知常容乃至道，與天地同久，終身不殆。",
+            "source": "cham"
+          }
+        ]
+      },
+      "annotationLayers": [
+        {
+          "id": "default",
+          "label": "原文",
+          "shortLabel": "文",
+          "contributor": "Laozi",
+          "role": "author",
+          "nature": "annotation",
+          "displayOrder": 0,
+          "enabled": true,
+          "annotations": []
+        },
+        {
+          "id": "wangbi",
+          "label": "王弼註",
+          "shortLabel": "王",
+          "contributor": "C001",
+          "role": "commentator",
+          "nature": "commentary",
+          "displayOrder": 1,
+          "enabled": true,
+          "annotations": [
+            {
+              "id": "wangbi-1",
+              "range": {
+                "type": "range",
+                "scope": "verse",
+                "verseIndex": 0,
+                "start": 0,
+                "end": 18
+              },
+              "kind": "semantic",
+              "text": "致虛守靜，觀物變化，皆復歸根。歸根復命，乃得常道。",
+              "source": "cham"
+            },
+            {
+              "id": "wangbi-2",
+              "range": {
+                "type": "range",
+                "scope": "verse",
+                "verseIndex": 2,
+                "start": 0,
+                "end": 18
+              },
+              "kind": "semantic",
+              "text": "知常則明，不知常則妄作凶。知常容乃至道，與天地同久，終身不殆。",
+              "source": "cham"
+            }
+          ]
+        },
+        {
+          "id": "hesonggong",
+          "label": "河上公註",
+          "shortLabel": "河",
+          "contributor": "C002",
+          "role": "commentator",
+          "nature": "commentary",
+          "displayOrder": 2,
+          "enabled": true,
+          "annotations": [
+            {
+              "id": "hesonggong-1",
+              "range": {
+                "type": "range",
+                "scope": "verse",
+                "verseIndex": 0,
+                "start": 0,
+                "end": 18
+              },
+              "kind": "semantic",
+              "text": "致虛極，守靜篤，萬物並作，吾以觀其復。物芸芸，各復歸其根，靜者道之尊。",
+              "source": "cham"
+            },
+            {
+              "id": "hesonggong-2",
+              "range": {
+                "type": "range",
+                "scope": "verse",
+                "verseIndex": 2,
+                "start": 0,
+                "end": 18
+              },
+              "kind": "semantic",
+              "text": "復命曰常，知常曰明。不知常，妄作凶。知常容，容乃公，公乃王，王乃天，天乃道，道乃久，沒身不殆。",
+              "source": "cham"
+            }
+          ]
+        }
+      ],
+      "source": {
+        "textRef": "laozi",
+        "relation": "section"
+      }
+    },
+    {
+      "bookId": "laozi",
+      "num": 17,
+      "title": "第十七章",
+      "author": "老子",
+      "authorId": "Laozi",
+      "dynasty": "周",
+      "era": "周",
+      "genre": "prose",
+      "verses": [
+        {
+          "text": "太上，下知有之；其次，親而譽之；其次，畏之；其次，侮之。"
+        },
+        {
+          "text": "信不足焉，有不信焉。悠兮其貴言。"
+        },
+        {
+          "text": "功成事遂，百姓皆謂我自然。"
+        }
+      ],
+      "sections": {},
+      "annotations": [],
+      "layers": {
+        "hesonggong": [
+          {
+            "id": "hesonggong-1",
+            "range": {
+              "type": "range",
+              "scope": "verse",
+              "verseIndex": 0,
+              "start": 0,
+              "end": 28
+            },
+            "kind": "semantic",
+            "text": "太上治國，百姓日用而不知。其次，親之譽之。其次，畏之。其次，侮之。",
+            "source": "cham"
+          },
+          {
+            "id": "hesonggong-2",
+            "range": {
+              "type": "range",
+              "scope": "verse",
+              "verseIndex": 1,
+              "start": 0,
+              "end": 16
+            },
+            "kind": "semantic",
+            "text": "信不足，有不信。君子貴言。功成事遂，百姓皆謂我自然，不知君上之功。",
+            "source": "cham"
+          }
+        ],
+        "wangbi": [
+          {
+            "id": "wangbi-1",
+            "range": {
+              "type": "range",
+              "scope": "verse",
+              "verseIndex": 0,
+              "start": 0,
+              "end": 28
+            },
+            "kind": "semantic",
+            "text": "太上之治，民僅知有之。其次，親之譽之。再次，畏之。更次，侮之。",
+            "source": "cham"
+          },
+          {
+            "id": "wangbi-2",
+            "range": {
+              "type": "range",
+              "scope": "verse",
+              "verseIndex": 1,
+              "start": 0,
+              "end": 16
+            },
+            "kind": "semantic",
+            "text": "信不足，則有不信。貴言者，功成事遂，百姓皆以為自然。",
+            "source": "cham"
+          }
+        ]
+      },
+      "annotationLayers": [
+        {
+          "id": "default",
+          "label": "原文",
+          "shortLabel": "文",
+          "contributor": "Laozi",
+          "role": "author",
+          "nature": "annotation",
+          "displayOrder": 0,
+          "enabled": true,
+          "annotations": []
+        },
+        {
+          "id": "wangbi",
+          "label": "王弼註",
+          "shortLabel": "王",
+          "contributor": "C001",
+          "role": "commentator",
+          "nature": "commentary",
+          "displayOrder": 1,
+          "enabled": true,
+          "annotations": [
+            {
+              "id": "wangbi-1",
+              "range": {
+                "type": "range",
+                "scope": "verse",
+                "verseIndex": 0,
+                "start": 0,
+                "end": 28
+              },
+              "kind": "semantic",
+              "text": "太上之治，民僅知有之。其次，親之譽之。再次，畏之。更次，侮之。",
+              "source": "cham"
+            },
+            {
+              "id": "wangbi-2",
+              "range": {
+                "type": "range",
+                "scope": "verse",
+                "verseIndex": 1,
+                "start": 0,
+                "end": 16
+              },
+              "kind": "semantic",
+              "text": "信不足，則有不信。貴言者，功成事遂，百姓皆以為自然。",
+              "source": "cham"
+            }
+          ]
+        },
+        {
+          "id": "hesonggong",
+          "label": "河上公註",
+          "shortLabel": "河",
+          "contributor": "C002",
+          "role": "commentator",
+          "nature": "commentary",
+          "displayOrder": 2,
+          "enabled": true,
+          "annotations": [
+            {
+              "id": "hesonggong-1",
+              "range": {
+                "type": "range",
+                "scope": "verse",
+                "verseIndex": 0,
+                "start": 0,
+                "end": 28
+              },
+              "kind": "semantic",
+              "text": "太上治國，百姓日用而不知。其次，親之譽之。其次，畏之。其次，侮之。",
+              "source": "cham"
+            },
+            {
+              "id": "hesonggong-2",
+              "range": {
+                "type": "range",
+                "scope": "verse",
+                "verseIndex": 1,
+                "start": 0,
+                "end": 16
+              },
+              "kind": "semantic",
+              "text": "信不足，有不信。君子貴言。功成事遂，百姓皆謂我自然，不知君上之功。",
+              "source": "cham"
+            }
+          ]
+        }
+      ],
+      "source": {
+        "textRef": "laozi",
+        "relation": "section"
+      }
+    },
+    {
+      "bookId": "laozi",
+      "num": 18,
+      "title": "第十八章",
+      "author": "老子",
+      "authorId": "Laozi",
+      "dynasty": "周",
+      "era": "周",
+      "genre": "prose",
+      "verses": [
+        {
+          "text": "大道廢，有仁義；智慧出，有大偽；"
+        },
+        {
+          "text": "六親不和，有孝慈；國家昏亂，有忠臣。"
+        }
+      ],
+      "sections": {},
+      "annotations": [],
+      "layers": {
+        "hesonggong": [
+          {
+            "id": "hesonggong-1",
+            "range": {
+              "type": "range",
+              "scope": "verse",
+              "verseIndex": 0,
+              "start": 0,
+              "end": 16
+            },
+            "kind": "semantic",
+            "text": "大道廢，案：大道在無為。有仁義，案：謂人為巧詐。智慧出，案：智慧多令人無質樸。有大偽，案：詐偽生。六親不和，案：謂父子兄弟夫婦。有孝慈，案：孝慈生。國家昏亂，案：謂君臣不明。有忠臣，案：忠臣生。",
+            "source": "cham"
+          }
+        ],
+        "wangbi": [
+          {
+            "id": "wangbi-1",
+            "range": {
+              "type": "range",
+              "scope": "verse",
+              "verseIndex": 0,
+              "start": 0,
+              "end": 16
+            },
+            "kind": "semantic",
+            "text": "大道廢棄，則有仁義。智慧顯露，則有大偽。六親不和，則有孝慈。國家昏亂，則有忠臣。皆非自然之道。",
+            "source": "cham"
+          }
+        ]
+      },
+      "annotationLayers": [
+        {
+          "id": "default",
+          "label": "原文",
+          "shortLabel": "文",
+          "contributor": "Laozi",
+          "role": "author",
+          "nature": "annotation",
+          "displayOrder": 0,
+          "enabled": true,
+          "annotations": []
+        },
+        {
+          "id": "wangbi",
+          "label": "王弼註",
+          "shortLabel": "王",
+          "contributor": "C001",
+          "role": "commentator",
+          "nature": "commentary",
+          "displayOrder": 1,
+          "enabled": true,
+          "annotations": [
+            {
+              "id": "wangbi-1",
+              "range": {
+                "type": "range",
+                "scope": "verse",
+                "verseIndex": 0,
+                "start": 0,
+                "end": 16
+              },
+              "kind": "semantic",
+              "text": "大道廢棄，則有仁義。智慧顯露，則有大偽。六親不和，則有孝慈。國家昏亂，則有忠臣。皆非自然之道。",
+              "source": "cham"
+            }
+          ]
+        },
+        {
+          "id": "hesonggong",
+          "label": "河上公註",
+          "shortLabel": "河",
+          "contributor": "C002",
+          "role": "commentator",
+          "nature": "commentary",
+          "displayOrder": 2,
+          "enabled": true,
+          "annotations": [
+            {
+              "id": "hesonggong-1",
+              "range": {
+                "type": "range",
+                "scope": "verse",
+                "verseIndex": 0,
+                "start": 0,
+                "end": 16
+              },
+              "kind": "semantic",
+              "text": "大道廢，案：大道在無為。有仁義，案：謂人為巧詐。智慧出，案：智慧多令人無質樸。有大偽，案：詐偽生。六親不和，案：謂父子兄弟夫婦。有孝慈，案：孝慈生。國家昏亂，案：謂君臣不明。有忠臣，案：忠臣生。",
+              "source": "cham"
+            }
+          ]
+        }
+      ],
+      "source": {
+        "textRef": "laozi",
+        "relation": "section"
+      }
+    },
+    {
+      "bookId": "laozi",
+      "num": 19,
+      "title": "第十九章",
+      "author": "老子",
+      "authorId": "Laozi",
+      "dynasty": "周",
+      "era": "周",
+      "genre": "prose",
+      "verses": [
+        {
+          "text": "絕聖棄智，民利百倍；絕仁棄義，民復孝慈；"
+        },
+        {
+          "text": "絕巧棄利，盜賊無有。此三者以為文不足，"
+        },
+        {
+          "text": "故令有所屬。見素抱樸，少私寡欲。"
+        }
+      ],
+      "sections": {},
+      "annotations": [],
+      "layers": {
+        "hesonggong": [
+          {
+            "id": "hesonggong-1",
+            "range": {
+              "type": "range",
+              "scope": "verse",
+              "verseIndex": 0,
+              "start": 0,
+              "end": 20
+            },
+            "kind": "semantic",
+            "text": "絕聖棄智，民利百倍。絕仁棄義，民復孝慈。絕巧棄利，盜賊無有。此三者，聖智仁義巧利也。以為文不足。",
+            "source": "cham"
+          },
+          {
+            "id": "hesonggong-2",
+            "range": {
+              "type": "range",
+              "scope": "verse",
+              "verseIndex": 2,
+              "start": 0,
+              "end": 16
+            },
+            "kind": "semantic",
+            "text": "見素抱樸，少私寡欲。案：素樸，真也。少私寡欲，則民樸實。",
+            "source": "cham"
+          }
+        ],
+        "wangbi": [
+          {
+            "id": "wangbi-1",
+            "range": {
+              "type": "range",
+              "scope": "verse",
+              "verseIndex": 0,
+              "start": 0,
+              "end": 20
+            },
+            "kind": "semantic",
+            "text": "絕聖棄智，民自利百倍。絕仁棄義，民自復孝慈。絕巧棄利，盜賊自無。此三者為文飾不足。",
+            "source": "cham"
+          },
+          {
+            "id": "wangbi-2",
+            "range": {
+              "type": "range",
+              "scope": "verse",
+              "verseIndex": 2,
+              "start": 0,
+              "end": 16
+            },
+            "kind": "semantic",
+            "text": "見素抱樸，少私寡欲，則民自歸於自然。",
+            "source": "cham"
+          }
+        ]
+      },
+      "annotationLayers": [
+        {
+          "id": "default",
+          "label": "原文",
+          "shortLabel": "文",
+          "contributor": "Laozi",
+          "role": "author",
+          "nature": "annotation",
+          "displayOrder": 0,
+          "enabled": true,
+          "annotations": []
+        },
+        {
+          "id": "wangbi",
+          "label": "王弼註",
+          "shortLabel": "王",
+          "contributor": "C001",
+          "role": "commentator",
+          "nature": "commentary",
+          "displayOrder": 1,
+          "enabled": true,
+          "annotations": [
+            {
+              "id": "wangbi-1",
+              "range": {
+                "type": "range",
+                "scope": "verse",
+                "verseIndex": 0,
+                "start": 0,
+                "end": 20
+              },
+              "kind": "semantic",
+              "text": "絕聖棄智，民自利百倍。絕仁棄義，民自復孝慈。絕巧棄利，盜賊自無。此三者為文飾不足。",
+              "source": "cham"
+            },
+            {
+              "id": "wangbi-2",
+              "range": {
+                "type": "range",
+                "scope": "verse",
+                "verseIndex": 2,
+                "start": 0,
+                "end": 16
+              },
+              "kind": "semantic",
+              "text": "見素抱樸，少私寡欲，則民自歸於自然。",
+              "source": "cham"
+            }
+          ]
+        },
+        {
+          "id": "hesonggong",
+          "label": "河上公註",
+          "shortLabel": "河",
+          "contributor": "C002",
+          "role": "commentator",
+          "nature": "commentary",
+          "displayOrder": 2,
+          "enabled": true,
+          "annotations": [
+            {
+              "id": "hesonggong-1",
+              "range": {
+                "type": "range",
+                "scope": "verse",
+                "verseIndex": 0,
+                "start": 0,
+                "end": 20
+              },
+              "kind": "semantic",
+              "text": "絕聖棄智，民利百倍。絕仁棄義，民復孝慈。絕巧棄利，盜賊無有。此三者，聖智仁義巧利也。以為文不足。",
+              "source": "cham"
+            },
+            {
+              "id": "hesonggong-2",
+              "range": {
+                "type": "range",
+                "scope": "verse",
+                "verseIndex": 2,
+                "start": 0,
+                "end": 16
+              },
+              "kind": "semantic",
+              "text": "見素抱樸，少私寡欲。案：素樸，真也。少私寡欲，則民樸實。",
+              "source": "cham"
+            }
+          ]
+        }
+      ],
+      "source": {
+        "textRef": "laozi",
+        "relation": "section"
+      }
+    },
+    {
+      "bookId": "laozi",
+      "num": 20,
+      "title": "第二十章",
+      "author": "老子",
+      "authorId": "Laozi",
+      "dynasty": "周",
+      "era": "周",
+      "genre": "prose",
+      "verses": [
+        {
+          "text": "絕學無憂。唯之與阿，相去幾何？善之與惡，相去若何？"
+        },
+        {
+          "text": "人之所畏，不可不畏。荒兮其未央哉！"
+        },
+        {
+          "text": "眾人熙熙，如享太牢，如春登臺。"
+        },
+        {
+          "text": "我獨泊兮其未兆，如嬰兒之未孩。"
+        },
+        {
+          "text": "儽儽兮若無所歸。眾人皆有餘，而我獨若遺。"
+        },
+        {
+          "text": "我愚人之心也哉！沌沌兮！"
+        },
+        {
+          "text": "俗人昭昭，我獨昏昏；俗人察察，我獨悶悶。"
+        },
+        {
+          "text": "澹兮其若海，飂兮若無止。眾人皆有以，而我獨頑且鄙。"
+        },
+        {
+          "text": "我獨異於人，而貴食母。"
+        }
+      ],
+      "sections": {},
+      "annotations": [],
+      "layers": {
+        "hesonggong": [
+          {
+            "id": "hesonggong-1",
+            "range": {
+              "type": "range",
+              "scope": "verse",
+              "verseIndex": 0,
+              "start": 0,
+              "end": 25
+            },
+            "kind": "semantic",
+            "text": "絕學無憂。唯之與阿，善之與惡，其相去幾何？人之所畏，不可不畏。荒兮其未央哉！",
+            "source": "cham"
+          },
+          {
+            "id": "hesonggong-2",
+            "range": {
+              "type": "range",
+              "scope": "verse",
+              "verseIndex": 2,
+              "start": 0,
+              "end": 15
+            },
+            "kind": "semantic",
+            "text": "眾人熙熙，如享太牢，如春登臺。我獨泊兮其未兆，如嬰兒之未孩。儽儽兮若無所歸。眾人皆有餘，而我獨若遺。我愚人之心也哉！沌沌兮！",
+            "source": "cham"
+          },
+          {
+            "id": "hesonggong-3",
+            "range": {
+              "type": "range",
+              "scope": "verse",
+              "verseIndex": 6,
+              "start": 0,
+              "end": 20
+            },
+            "kind": "semantic",
+            "text": "俗人昭昭，我獨昏昏。俗人察察，我獨悶悶。澹兮其若海，飂兮若無止。眾人皆有以，而我獨頑且鄙。我獨異於人，而貴食母。",
+            "source": "cham"
+          }
+        ],
+        "wangbi": [
+          {
+            "id": "wangbi-1",
+            "range": {
+              "type": "range",
+              "scope": "verse",
+              "verseIndex": 0,
+              "start": 0,
+              "end": 25
+            },
+            "kind": "semantic",
+            "text": "絕學無憂，唯與阿、善與惡，皆相去不遠。人之所畏，不可不畏，荒兮未央。",
+            "source": "cham"
+          },
+          {
+            "id": "wangbi-2",
+            "range": {
+              "type": "range",
+              "scope": "verse",
+              "verseIndex": 2,
+              "start": 0,
+              "end": 15
+            },
+            "kind": "semantic",
+            "text": "眾人熙熙如享太牢、登春臺，我獨泊兮其未兆，如嬰兒未孩。儽儽若無所歸，眾人有餘，我獨若遺。我愚人之心，沌沌然。",
+            "source": "cham"
+          },
+          {
+            "id": "wangbi-3",
+            "range": {
+              "type": "range",
+              "scope": "verse",
+              "verseIndex": 6,
+              "start": 0,
+              "end": 20
+            },
+            "kind": "semantic",
+            "text": "俗人昭昭，我獨昏昏。俗人察察，我獨悶悶。澹兮若海，飂兮若無止。眾人皆有以，我獨頑且鄙。我獨異於人，而貴食母。",
+            "source": "cham"
+          }
+        ]
+      },
+      "annotationLayers": [
+        {
+          "id": "default",
+          "label": "原文",
+          "shortLabel": "文",
+          "contributor": "Laozi",
+          "role": "author",
+          "nature": "annotation",
+          "displayOrder": 0,
+          "enabled": true,
+          "annotations": []
+        },
+        {
+          "id": "wangbi",
+          "label": "王弼註",
+          "shortLabel": "王",
+          "contributor": "C001",
+          "role": "commentator",
+          "nature": "commentary",
+          "displayOrder": 1,
+          "enabled": true,
+          "annotations": [
+            {
+              "id": "wangbi-1",
+              "range": {
+                "type": "range",
+                "scope": "verse",
+                "verseIndex": 0,
+                "start": 0,
+                "end": 25
+              },
+              "kind": "semantic",
+              "text": "絕學無憂，唯與阿、善與惡，皆相去不遠。人之所畏，不可不畏，荒兮未央。",
+              "source": "cham"
+            },
+            {
+              "id": "wangbi-2",
+              "range": {
+                "type": "range",
+                "scope": "verse",
+                "verseIndex": 2,
+                "start": 0,
+                "end": 15
+              },
+              "kind": "semantic",
+              "text": "眾人熙熙如享太牢、登春臺，我獨泊兮其未兆，如嬰兒未孩。儽儽若無所歸，眾人有餘，我獨若遺。我愚人之心，沌沌然。",
+              "source": "cham"
+            },
+            {
+              "id": "wangbi-3",
+              "range": {
+                "type": "range",
+                "scope": "verse",
+                "verseIndex": 6,
+                "start": 0,
+                "end": 20
+              },
+              "kind": "semantic",
+              "text": "俗人昭昭，我獨昏昏。俗人察察，我獨悶悶。澹兮若海，飂兮若無止。眾人皆有以，我獨頑且鄙。我獨異於人，而貴食母。",
+              "source": "cham"
+            }
+          ]
+        },
+        {
+          "id": "hesonggong",
+          "label": "河上公註",
+          "shortLabel": "河",
+          "contributor": "C002",
+          "role": "commentator",
+          "nature": "commentary",
+          "displayOrder": 2,
+          "enabled": true,
+          "annotations": [
+            {
+              "id": "hesonggong-1",
+              "range": {
+                "type": "range",
+                "scope": "verse",
+                "verseIndex": 0,
+                "start": 0,
+                "end": 25
+              },
+              "kind": "semantic",
+              "text": "絕學無憂。唯之與阿，善之與惡，其相去幾何？人之所畏，不可不畏。荒兮其未央哉！",
+              "source": "cham"
+            },
+            {
+              "id": "hesonggong-2",
+              "range": {
+                "type": "range",
+                "scope": "verse",
+                "verseIndex": 2,
+                "start": 0,
+                "end": 15
+              },
+              "kind": "semantic",
+              "text": "眾人熙熙，如享太牢，如春登臺。我獨泊兮其未兆，如嬰兒之未孩。儽儽兮若無所歸。眾人皆有餘，而我獨若遺。我愚人之心也哉！沌沌兮！",
+              "source": "cham"
+            },
+            {
+              "id": "hesonggong-3",
+              "range": {
+                "type": "range",
+                "scope": "verse",
+                "verseIndex": 6,
+                "start": 0,
+                "end": 20
+              },
+              "kind": "semantic",
+              "text": "俗人昭昭，我獨昏昏。俗人察察，我獨悶悶。澹兮其若海，飂兮若無止。眾人皆有以，而我獨頑且鄙。我獨異於人，而貴食母。",
+              "source": "cham"
+            }
+          ]
+        }
+      ],
+      "source": {
+        "textRef": "laozi",
+        "relation": "section"
+      }
+    },
+    {
+      "bookId": "laozi",
+      "num": 21,
+      "title": "第二十一章",
+      "author": "老子",
+      "authorId": "Laozi",
+      "dynasty": "周",
+      "era": "周",
+      "genre": "prose",
+      "verses": [
+        {
+          "text": "孔德之容，惟道是從。"
+        },
+        {
+          "text": "道之為物，惟恍惟惚。惚兮恍兮，其中有象；恍兮惚兮，其中有物。"
+        },
+        {
+          "text": "窈兮冥兮，其中有精；其精甚真，其中有信。"
+        },
+        {
+          "text": "自古及今，其名不去，以閱眾甫。"
+        },
+        {
+          "text": "吾何以知眾甫之狀哉？以此。"
+        }
+      ],
+      "sections": {},
+      "annotations": [],
+      "layers": {
+        "hesonggong": [
+          {
+            "id": "hesonggong-1",
+            "range": {
+              "type": "range",
+              "scope": "verse",
+              "verseIndex": 0,
+              "start": 0,
+              "end": 10
+            },
+            "kind": "semantic",
+            "text": "孔德之容，惟道是從。道之為物，惟恍惟惚。惚兮恍兮，其中有象。恍兮惚兮，其中有物。",
+            "source": "cham"
+          },
+          {
+            "id": "hesonggong-2",
+            "range": {
+              "type": "range",
+              "scope": "verse",
+              "verseIndex": 2,
+              "start": 0,
+              "end": 20
+            },
+            "kind": "semantic",
+            "text": "窈兮冥兮，其中有精。其精甚真，其中有信。自古及今，其名不去，以閱眾甫。吾何以知眾甫之狀哉？以此。",
+            "source": "cham"
+          }
+        ],
+        "wangbi": [
+          {
+            "id": "wangbi-1",
+            "range": {
+              "type": "range",
+              "scope": "verse",
+              "verseIndex": 0,
+              "start": 0,
+              "end": 10
+            },
+            "kind": "semantic",
+            "text": "孔德之容，惟道是從。道之為物，恍惚難名，其中有象有物。",
+            "source": "cham"
+          },
+          {
+            "id": "wangbi-2",
+            "range": {
+              "type": "range",
+              "scope": "verse",
+              "verseIndex": 2,
+              "start": 0,
+              "end": 20
+            },
+            "kind": "semantic",
+            "text": "窈冥之中有精，其精甚真，其中有信。自古及今，其名不去，以閱眾甫。以此知眾甫之狀。",
+            "source": "cham"
+          }
+        ]
+      },
+      "annotationLayers": [
+        {
+          "id": "default",
+          "label": "原文",
+          "shortLabel": "文",
+          "contributor": "Laozi",
+          "role": "author",
+          "nature": "annotation",
+          "displayOrder": 0,
+          "enabled": true,
+          "annotations": []
+        },
+        {
+          "id": "wangbi",
+          "label": "王弼註",
+          "shortLabel": "王",
+          "contributor": "C001",
+          "role": "commentator",
+          "nature": "commentary",
+          "displayOrder": 1,
+          "enabled": true,
+          "annotations": [
+            {
+              "id": "wangbi-1",
+              "range": {
+                "type": "range",
+                "scope": "verse",
+                "verseIndex": 0,
+                "start": 0,
+                "end": 10
+              },
+              "kind": "semantic",
+              "text": "孔德之容，惟道是從。道之為物，恍惚難名，其中有象有物。",
+              "source": "cham"
+            },
+            {
+              "id": "wangbi-2",
+              "range": {
+                "type": "range",
+                "scope": "verse",
+                "verseIndex": 2,
+                "start": 0,
+                "end": 20
+              },
+              "kind": "semantic",
+              "text": "窈冥之中有精，其精甚真，其中有信。自古及今，其名不去，以閱眾甫。以此知眾甫之狀。",
+              "source": "cham"
+            }
+          ]
+        },
+        {
+          "id": "hesonggong",
+          "label": "河上公註",
+          "shortLabel": "河",
+          "contributor": "C002",
+          "role": "commentator",
+          "nature": "commentary",
+          "displayOrder": 2,
+          "enabled": true,
+          "annotations": [
+            {
+              "id": "hesonggong-1",
+              "range": {
+                "type": "range",
+                "scope": "verse",
+                "verseIndex": 0,
+                "start": 0,
+                "end": 10
+              },
+              "kind": "semantic",
+              "text": "孔德之容，惟道是從。道之為物，惟恍惟惚。惚兮恍兮，其中有象。恍兮惚兮，其中有物。",
+              "source": "cham"
+            },
+            {
+              "id": "hesonggong-2",
+              "range": {
+                "type": "range",
+                "scope": "verse",
+                "verseIndex": 2,
+                "start": 0,
+                "end": 20
+              },
+              "kind": "semantic",
+              "text": "窈兮冥兮，其中有精。其精甚真，其中有信。自古及今，其名不去，以閱眾甫。吾何以知眾甫之狀哉？以此。",
+              "source": "cham"
+            }
+          ]
+        }
+      ],
+      "source": {
+        "textRef": "laozi",
+        "relation": "section"
+      }
+    },
+    {
+      "bookId": "laozi",
+      "num": 22,
+      "title": "第二十二章",
+      "author": "老子",
+      "authorId": "Laozi",
+      "dynasty": "周",
+      "era": "周",
+      "genre": "prose",
+      "verses": [
+        {
+          "text": "曲則全，枉則直，窪則盈，敝則新，少則得，多則惑。"
+        },
+        {
+          "text": "是以聖人抱一為天下式。"
+        },
+        {
+          "text": "不自見故明，不自是故彰，不自伐故有功，不自矜故長。"
+        },
+        {
+          "text": "夫唯不爭，故天下莫能與之爭。"
+        },
+        {
+          "text": "古之所謂曲則全者，豈虛言哉！誠全而歸之。"
+        }
+      ],
+      "sections": {},
+      "annotations": [],
+      "layers": {
+        "hesonggong": [
+          {
+            "id": "hesonggong-1",
+            "range": {
+              "type": "range",
+              "scope": "verse",
+              "verseIndex": 0,
+              "start": 0,
+              "end": 24
+            },
+            "kind": "semantic",
+            "text": "曲則全，枉則直，窪則盈，敝則新，少則得，多則惑。是以聖人抱一為天下式。",
+            "source": "cham"
+          },
+          {
+            "id": "hesonggong-2",
+            "range": {
+              "type": "range",
+              "scope": "verse",
+              "verseIndex": 2,
+              "start": 0,
+              "end": 25
+            },
+            "kind": "semantic",
+            "text": "不自見故明，不自是故彰，不自伐故有功，不自矜故長。夫唯不爭，故天下莫能與之爭。古之所謂曲則全者，豈虛言哉！誠全而歸之。",
+            "source": "cham"
+          }
+        ],
+        "wangbi": [
+          {
+            "id": "wangbi-1",
+            "range": {
+              "type": "range",
+              "scope": "verse",
+              "verseIndex": 0,
+              "start": 0,
+              "end": 24
+            },
+            "kind": "semantic",
+            "text": "曲全枉直，窪盈敝新，少得多惑，皆相反相成。聖人抱一為天下式。",
+            "source": "cham"
+          },
+          {
+            "id": "wangbi-2",
+            "range": {
+              "type": "range",
+              "scope": "verse",
+              "verseIndex": 2,
+              "start": 0,
+              "end": 25
+            },
+            "kind": "semantic",
+            "text": "不自見故明，不自是故彰，不自伐故有功，不自矜故長。不爭故天下莫能與之爭。古之所謂曲則全者非虛言，誠能全而歸之。",
+            "source": "cham"
+          }
+        ]
+      },
+      "annotationLayers": [
+        {
+          "id": "default",
+          "label": "原文",
+          "shortLabel": "文",
+          "contributor": "Laozi",
+          "role": "author",
+          "nature": "annotation",
+          "displayOrder": 0,
+          "enabled": true,
+          "annotations": []
+        },
+        {
+          "id": "wangbi",
+          "label": "王弼註",
+          "shortLabel": "王",
+          "contributor": "C001",
+          "role": "commentator",
+          "nature": "commentary",
+          "displayOrder": 1,
+          "enabled": true,
+          "annotations": [
+            {
+              "id": "wangbi-1",
+              "range": {
+                "type": "range",
+                "scope": "verse",
+                "verseIndex": 0,
+                "start": 0,
+                "end": 24
+              },
+              "kind": "semantic",
+              "text": "曲全枉直，窪盈敝新，少得多惑，皆相反相成。聖人抱一為天下式。",
+              "source": "cham"
+            },
+            {
+              "id": "wangbi-2",
+              "range": {
+                "type": "range",
+                "scope": "verse",
+                "verseIndex": 2,
+                "start": 0,
+                "end": 25
+              },
+              "kind": "semantic",
+              "text": "不自見故明，不自是故彰，不自伐故有功，不自矜故長。不爭故天下莫能與之爭。古之所謂曲則全者非虛言，誠能全而歸之。",
+              "source": "cham"
+            }
+          ]
+        },
+        {
+          "id": "hesonggong",
+          "label": "河上公註",
+          "shortLabel": "河",
+          "contributor": "C002",
+          "role": "commentator",
+          "nature": "commentary",
+          "displayOrder": 2,
+          "enabled": true,
+          "annotations": [
+            {
+              "id": "hesonggong-1",
+              "range": {
+                "type": "range",
+                "scope": "verse",
+                "verseIndex": 0,
+                "start": 0,
+                "end": 24
+              },
+              "kind": "semantic",
+              "text": "曲則全，枉則直，窪則盈，敝則新，少則得，多則惑。是以聖人抱一為天下式。",
+              "source": "cham"
+            },
+            {
+              "id": "hesonggong-2",
+              "range": {
+                "type": "range",
+                "scope": "verse",
+                "verseIndex": 2,
+                "start": 0,
+                "end": 25
+              },
+              "kind": "semantic",
+              "text": "不自見故明，不自是故彰，不自伐故有功，不自矜故長。夫唯不爭，故天下莫能與之爭。古之所謂曲則全者，豈虛言哉！誠全而歸之。",
+              "source": "cham"
+            }
+          ]
+        }
+      ],
+      "source": {
+        "textRef": "laozi",
+        "relation": "section"
+      }
+    },
+    {
+      "bookId": "laozi",
+      "num": 23,
+      "title": "第二十三章",
+      "author": "老子",
+      "authorId": "Laozi",
+      "dynasty": "周",
+      "era": "周",
+      "genre": "prose",
+      "verses": [
+        {
+          "text": "希言自然。故飄風不終朝，驟雨不終日。"
+        },
+        {
+          "text": "孰為此者？天地。天地尚不能久，而況於人乎？"
+        },
+        {
+          "text": "故從事於道者，道者同於道，德者同於德，失者同於失。"
+        },
+        {
+          "text": "同於道者，道亦樂得之；同於德者，德亦樂得之；同於失者，失亦樂得之。"
+        },
+        {
+          "text": "信不足焉，有不信焉。"
+        }
+      ],
+      "sections": {},
+      "annotations": [],
+      "layers": {
+        "hesonggong": [
+          {
+            "id": "hesonggong-1",
+            "range": {
+              "type": "range",
+              "scope": "verse",
+              "verseIndex": 0,
+              "start": 0,
+              "end": 18
+            },
+            "kind": "semantic",
+            "text": "希言自然。故飄風不終朝，驟雨不終日。孰為此者？天地。天地尚不能久，而況於人乎？",
+            "source": "cham"
+          },
+          {
+            "id": "hesonggong-2",
+            "range": {
+              "type": "range",
+              "scope": "verse",
+              "verseIndex": 2,
+              "start": 0,
+              "end": 25
+            },
+            "kind": "semantic",
+            "text": "故從事於道者，道者同於道，德者同於德，失者同於失。同於道者，道亦樂得之；同於德者，德亦樂得之；同於失者，失亦樂得之。信不足焉，有不信焉。",
+            "source": "cham"
+          }
+        ],
+        "wangbi": [
+          {
+            "id": "wangbi-1",
+            "range": {
+              "type": "range",
+              "scope": "verse",
+              "verseIndex": 0,
+              "start": 0,
+              "end": 18
+            },
+            "kind": "semantic",
+            "text": "希言自然，順乎自然。飄風驟雨尚不能久，況人乎？",
+            "source": "cham"
+          },
+          {
+            "id": "wangbi-2",
+            "range": {
+              "type": "range",
+              "scope": "verse",
+              "verseIndex": 2,
+              "start": 0,
+              "end": 25
+            },
+            "kind": "semantic",
+            "text": "從事於道者，與道同。德者與德同，失者與失同。道德樂得同者，失亦樂得同者。信不足，則有不信。",
+            "source": "cham"
+          }
+        ]
+      },
+      "annotationLayers": [
+        {
+          "id": "default",
+          "label": "原文",
+          "shortLabel": "文",
+          "contributor": "Laozi",
+          "role": "author",
+          "nature": "annotation",
+          "displayOrder": 0,
+          "enabled": true,
+          "annotations": []
+        },
+        {
+          "id": "wangbi",
+          "label": "王弼註",
+          "shortLabel": "王",
+          "contributor": "C001",
+          "role": "commentator",
+          "nature": "commentary",
+          "displayOrder": 1,
+          "enabled": true,
+          "annotations": [
+            {
+              "id": "wangbi-1",
+              "range": {
+                "type": "range",
+                "scope": "verse",
+                "verseIndex": 0,
+                "start": 0,
+                "end": 18
+              },
+              "kind": "semantic",
+              "text": "希言自然，順乎自然。飄風驟雨尚不能久，況人乎？",
+              "source": "cham"
+            },
+            {
+              "id": "wangbi-2",
+              "range": {
+                "type": "range",
+                "scope": "verse",
+                "verseIndex": 2,
+                "start": 0,
+                "end": 25
+              },
+              "kind": "semantic",
+              "text": "從事於道者，與道同。德者與德同，失者與失同。道德樂得同者，失亦樂得同者。信不足，則有不信。",
+              "source": "cham"
+            }
+          ]
+        },
+        {
+          "id": "hesonggong",
+          "label": "河上公註",
+          "shortLabel": "河",
+          "contributor": "C002",
+          "role": "commentator",
+          "nature": "commentary",
+          "displayOrder": 2,
+          "enabled": true,
+          "annotations": [
+            {
+              "id": "hesonggong-1",
+              "range": {
+                "type": "range",
+                "scope": "verse",
+                "verseIndex": 0,
+                "start": 0,
+                "end": 18
+              },
+              "kind": "semantic",
+              "text": "希言自然。故飄風不終朝，驟雨不終日。孰為此者？天地。天地尚不能久，而況於人乎？",
+              "source": "cham"
+            },
+            {
+              "id": "hesonggong-2",
+              "range": {
+                "type": "range",
+                "scope": "verse",
+                "verseIndex": 2,
+                "start": 0,
+                "end": 25
+              },
+              "kind": "semantic",
+              "text": "故從事於道者，道者同於道，德者同於德，失者同於失。同於道者，道亦樂得之；同於德者，德亦樂得之；同於失者，失亦樂得之。信不足焉，有不信焉。",
+              "source": "cham"
+            }
+          ]
+        }
+      ],
+      "source": {
+        "textRef": "laozi",
+        "relation": "section"
+      }
+    },
+    {
+      "bookId": "laozi",
+      "num": 24,
+      "title": "第二十四章",
+      "author": "老子",
+      "authorId": "Laozi",
+      "dynasty": "周",
+      "era": "周",
+      "genre": "prose",
+      "verses": [
+        {
+          "text": "企者不立，跨者不行。自見者不明，自是者不彰。"
+        },
+        {
+          "text": "自伐者無功，自矜者不長。其在道也，曰餘食贅行。"
+        },
+        {
+          "text": "物或惡之，故有道者不處。"
+        }
+      ],
+      "sections": {},
+      "annotations": [],
+      "layers": {
+        "hesonggong": [
+          {
+            "id": "hesonggong-1",
+            "range": {
+              "type": "range",
+              "scope": "verse",
+              "verseIndex": 0,
+              "start": 0,
+              "end": 22
+            },
+            "kind": "semantic",
+            "text": "企者不立，跨者不行。自見者不明，自是者不彰。自伐者無功，自矜者不長。其在道也，曰餘食贅行。",
+            "source": "cham"
+          },
+          {
+            "id": "hesonggong-2",
+            "range": {
+              "type": "range",
+              "scope": "verse",
+              "verseIndex": 2,
+              "start": 0,
+              "end": 12
+            },
+            "kind": "semantic",
+            "text": "物或惡之，故有道者不處。",
+            "source": "cham"
+          }
+        ],
+        "wangbi": [
+          {
+            "id": "wangbi-1",
+            "range": {
+              "type": "range",
+              "scope": "verse",
+              "verseIndex": 0,
+              "start": 0,
+              "end": 22
+            },
+            "kind": "semantic",
+            "text": "企跨者不能立行，自見自是者不明不彰，自伐自矜者無功不長。在道者視之如餘食贅行。",
+            "source": "cham"
+          },
+          {
+            "id": "wangbi-2",
+            "range": {
+              "type": "range",
+              "scope": "verse",
+              "verseIndex": 2,
+              "start": 0,
+              "end": 12
+            },
+            "kind": "semantic",
+            "text": "物或惡之，故有道者不處此。",
+            "source": "cham"
+          }
+        ]
+      },
+      "annotationLayers": [
+        {
+          "id": "default",
+          "label": "原文",
+          "shortLabel": "文",
+          "contributor": "Laozi",
+          "role": "author",
+          "nature": "annotation",
+          "displayOrder": 0,
+          "enabled": true,
+          "annotations": []
+        },
+        {
+          "id": "wangbi",
+          "label": "王弼註",
+          "shortLabel": "王",
+          "contributor": "C001",
+          "role": "commentator",
+          "nature": "commentary",
+          "displayOrder": 1,
+          "enabled": true,
+          "annotations": [
+            {
+              "id": "wangbi-1",
+              "range": {
+                "type": "range",
+                "scope": "verse",
+                "verseIndex": 0,
+                "start": 0,
+                "end": 22
+              },
+              "kind": "semantic",
+              "text": "企跨者不能立行，自見自是者不明不彰，自伐自矜者無功不長。在道者視之如餘食贅行。",
+              "source": "cham"
+            },
+            {
+              "id": "wangbi-2",
+              "range": {
+                "type": "range",
+                "scope": "verse",
+                "verseIndex": 2,
+                "start": 0,
+                "end": 12
+              },
+              "kind": "semantic",
+              "text": "物或惡之，故有道者不處此。",
+              "source": "cham"
+            }
+          ]
+        },
+        {
+          "id": "hesonggong",
+          "label": "河上公註",
+          "shortLabel": "河",
+          "contributor": "C002",
+          "role": "commentator",
+          "nature": "commentary",
+          "displayOrder": 2,
+          "enabled": true,
+          "annotations": [
+            {
+              "id": "hesonggong-1",
+              "range": {
+                "type": "range",
+                "scope": "verse",
+                "verseIndex": 0,
+                "start": 0,
+                "end": 22
+              },
+              "kind": "semantic",
+              "text": "企者不立，跨者不行。自見者不明，自是者不彰。自伐者無功，自矜者不長。其在道也，曰餘食贅行。",
+              "source": "cham"
+            },
+            {
+              "id": "hesonggong-2",
+              "range": {
+                "type": "range",
+                "scope": "verse",
+                "verseIndex": 2,
+                "start": 0,
+                "end": 12
+              },
+              "kind": "semantic",
+              "text": "物或惡之，故有道者不處。",
+              "source": "cham"
+            }
+          ]
+        }
+      ],
+      "source": {
+        "textRef": "laozi",
+        "relation": "section"
+      }
+    },
+    {
+      "bookId": "laozi",
+      "num": 25,
+      "title": "第二十五章",
+      "author": "老子",
+      "authorId": "Laozi",
+      "dynasty": "周",
+      "era": "周",
+      "genre": "prose",
+      "verses": [
+        {
+          "text": "有物混成，先天地生。寂兮寥兮，獨立不改，周行而不殆，可以為天下母。"
+        },
+        {
+          "text": "吾不知其名，字之曰道，強為之名曰大。"
+        },
+        {
+          "text": "大曰逝，逝曰遠，遠曰反。"
+        },
+        {
+          "text": "故道大，天大，地大，王亦大。域中有四大，而王居其一焉。"
+        },
+        {
+          "text": "人法地，地法天，天法道，道法自然。"
+        }
+      ],
+      "sections": {},
+      "annotations": [],
+      "layers": {
+        "hesonggong": [
+          {
+            "id": "hesonggong-1",
+            "range": {
+              "type": "range",
+              "scope": "verse",
+              "verseIndex": 0,
+              "start": 0,
+              "end": 33
+            },
+            "kind": "semantic",
+            "text": "有物混成，先天地生。寂兮寥兮，獨立不改，周行而不殆，可以為天下母。吾不知其名，字之曰道，強為之名曰大。",
+            "source": "cham"
+          },
+          {
+            "id": "hesonggong-2",
+            "range": {
+              "type": "range",
+              "scope": "verse",
+              "verseIndex": 2,
+              "start": 0,
+              "end": 12
+            },
+            "kind": "semantic",
+            "text": "大曰逝，逝曰遠，遠曰反。故道大，天大，地大，王亦大。域中有四大，而王居其一焉。人法地，地法天，天法道，道法自然。",
+            "source": "cham"
+          }
+        ],
+        "wangbi": [
+          {
+            "id": "wangbi-1",
+            "range": {
+              "type": "range",
+              "scope": "verse",
+              "verseIndex": 0,
+              "start": 0,
+              "end": 33
+            },
+            "kind": "semantic",
+            "text": "道先天地生，寂寥獨立，周行不殆，為天下母。強名曰道，字之曰大。",
+            "source": "cham"
+          },
+          {
+            "id": "wangbi-2",
+            "range": {
+              "type": "range",
+              "scope": "verse",
+              "verseIndex": 2,
+              "start": 0,
+              "end": 12
+            },
+            "kind": "semantic",
+            "text": "大曰逝，逝曰遠，遠曰反。道大天大地大人大，域中四大。人法地，地法天，天法道，道法自然。",
+            "source": "cham"
+          }
+        ]
+      },
+      "annotationLayers": [
+        {
+          "id": "default",
+          "label": "原文",
+          "shortLabel": "文",
+          "contributor": "Laozi",
+          "role": "author",
+          "nature": "annotation",
+          "displayOrder": 0,
+          "enabled": true,
+          "annotations": []
+        },
+        {
+          "id": "wangbi",
+          "label": "王弼註",
+          "shortLabel": "王",
+          "contributor": "C001",
+          "role": "commentator",
+          "nature": "commentary",
+          "displayOrder": 1,
+          "enabled": true,
+          "annotations": [
+            {
+              "id": "wangbi-1",
+              "range": {
+                "type": "range",
+                "scope": "verse",
+                "verseIndex": 0,
+                "start": 0,
+                "end": 33
+              },
+              "kind": "semantic",
+              "text": "道先天地生，寂寥獨立，周行不殆，為天下母。強名曰道，字之曰大。",
+              "source": "cham"
+            },
+            {
+              "id": "wangbi-2",
+              "range": {
+                "type": "range",
+                "scope": "verse",
+                "verseIndex": 2,
+                "start": 0,
+                "end": 12
+              },
+              "kind": "semantic",
+              "text": "大曰逝，逝曰遠，遠曰反。道大天大地大人大，域中四大。人法地，地法天，天法道，道法自然。",
+              "source": "cham"
+            }
+          ]
+        },
+        {
+          "id": "hesonggong",
+          "label": "河上公註",
+          "shortLabel": "河",
+          "contributor": "C002",
+          "role": "commentator",
+          "nature": "commentary",
+          "displayOrder": 2,
+          "enabled": true,
+          "annotations": [
+            {
+              "id": "hesonggong-1",
+              "range": {
+                "type": "range",
+                "scope": "verse",
+                "verseIndex": 0,
+                "start": 0,
+                "end": 33
+              },
+              "kind": "semantic",
+              "text": "有物混成，先天地生。寂兮寥兮，獨立不改，周行而不殆，可以為天下母。吾不知其名，字之曰道，強為之名曰大。",
+              "source": "cham"
+            },
+            {
+              "id": "hesonggong-2",
+              "range": {
+                "type": "range",
+                "scope": "verse",
+                "verseIndex": 2,
+                "start": 0,
+                "end": 12
+              },
+              "kind": "semantic",
+              "text": "大曰逝，逝曰遠，遠曰反。故道大，天大，地大，王亦大。域中有四大，而王居其一焉。人法地，地法天，天法道，道法自然。",
+              "source": "cham"
+            }
+          ]
+        }
+      ],
+      "source": {
+        "textRef": "laozi",
+        "relation": "section"
+      }
+    },
+    {
+      "bookId": "laozi",
+      "num": 26,
+      "title": "第二十六章",
+      "author": "老子",
+      "authorId": "Laozi",
+      "dynasty": "周",
+      "era": "周",
+      "genre": "prose",
+      "verses": [
+        {
+          "text": "重為輕根，靜為躁君。是以聖人終日行不離輜重。"
+        },
+        {
+          "text": "雖有榮觀，燕處超然。奈何萬乘之主，而以身輕天下？"
+        },
+        {
+          "text": "輕則失本，躁則失君。"
+        }
+      ],
+      "sections": {},
+      "annotations": [],
+      "layers": {
+        "hesonggong": [
+          {
+            "id": "hesonggong-1",
+            "range": {
+              "type": "range",
+              "scope": "verse",
+              "verseIndex": 0,
+              "start": 0,
+              "end": 22
+            },
+            "kind": "semantic",
+            "text": "重為輕根，靜為躁君。是以聖人終日行不離輜重。雖有榮觀，燕處超然。奈何萬乘之主，而以身輕天下？",
+            "source": "cham"
+          },
+          {
+            "id": "hesonggong-2",
+            "range": {
+              "type": "range",
+              "scope": "verse",
+              "verseIndex": 2,
+              "start": 0,
+              "end": 10
+            },
+            "kind": "semantic",
+            "text": "輕則失本，躁則失君。",
+            "source": "cham"
+          }
+        ],
+        "wangbi": [
+          {
+            "id": "wangbi-1",
+            "range": {
+              "type": "range",
+              "scope": "verse",
+              "verseIndex": 0,
+              "start": 0,
+              "end": 22
+            },
+            "kind": "semantic",
+            "text": "重為輕根，靜為躁君。聖人行不離輜重，雖有榮觀，燕處超然。萬乘之主不可輕天下。",
+            "source": "cham"
+          },
+          {
+            "id": "wangbi-2",
+            "range": {
+              "type": "range",
+              "scope": "verse",
+              "verseIndex": 2,
+              "start": 0,
+              "end": 10
+            },
+            "kind": "semantic",
+            "text": "輕則失根本，躁則失君主。",
+            "source": "cham"
+          }
+        ]
+      },
+      "annotationLayers": [
+        {
+          "id": "default",
+          "label": "原文",
+          "shortLabel": "文",
+          "contributor": "Laozi",
+          "role": "author",
+          "nature": "annotation",
+          "displayOrder": 0,
+          "enabled": true,
+          "annotations": []
+        },
+        {
+          "id": "wangbi",
+          "label": "王弼註",
+          "shortLabel": "王",
+          "contributor": "C001",
+          "role": "commentator",
+          "nature": "commentary",
+          "displayOrder": 1,
+          "enabled": true,
+          "annotations": [
+            {
+              "id": "wangbi-1",
+              "range": {
+                "type": "range",
+                "scope": "verse",
+                "verseIndex": 0,
+                "start": 0,
+                "end": 22
+              },
+              "kind": "semantic",
+              "text": "重為輕根，靜為躁君。聖人行不離輜重，雖有榮觀，燕處超然。萬乘之主不可輕天下。",
+              "source": "cham"
+            },
+            {
+              "id": "wangbi-2",
+              "range": {
+                "type": "range",
+                "scope": "verse",
+                "verseIndex": 2,
+                "start": 0,
+                "end": 10
+              },
+              "kind": "semantic",
+              "text": "輕則失根本，躁則失君主。",
+              "source": "cham"
+            }
+          ]
+        },
+        {
+          "id": "hesonggong",
+          "label": "河上公註",
+          "shortLabel": "河",
+          "contributor": "C002",
+          "role": "commentator",
+          "nature": "commentary",
+          "displayOrder": 2,
+          "enabled": true,
+          "annotations": [
+            {
+              "id": "hesonggong-1",
+              "range": {
+                "type": "range",
+                "scope": "verse",
+                "verseIndex": 0,
+                "start": 0,
+                "end": 22
+              },
+              "kind": "semantic",
+              "text": "重為輕根，靜為躁君。是以聖人終日行不離輜重。雖有榮觀，燕處超然。奈何萬乘之主，而以身輕天下？",
+              "source": "cham"
+            },
+            {
+              "id": "hesonggong-2",
+              "range": {
+                "type": "range",
+                "scope": "verse",
+                "verseIndex": 2,
+                "start": 0,
+                "end": 10
+              },
+              "kind": "semantic",
+              "text": "輕則失本，躁則失君。",
+              "source": "cham"
+            }
+          ]
+        }
+      ],
+      "source": {
+        "textRef": "laozi",
+        "relation": "section"
+      }
+    }
+  ]
+}

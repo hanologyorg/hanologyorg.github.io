@@ -1,0 +1,296 @@
+{
+  "bookId": "primary-culture",
+  "num": 21,
+  "title": "落花生",
+  "author": "許地山",
+  "authorId": "A170",
+  "dynasty": "近代",
+  "era": "近代",
+  "genre": "prose",
+  "verses": [
+    {
+      "text": "我們屋後有半畝隙地，母親說：「讓他荒蕪着怪可惜，既然你們那麼愛吃花生，就闢來做花生園罷。」"
+    },
+    {
+      "text": "我們幾姊弟和幾個小丫頭都很喜歡──買種底買種，動土底動土，灌園底灌園；過不了幾個月，居然收穫了！"
+    },
+    {
+      "text": "媽媽說：「今晚我們可以做一個收穫節，也請你們爹爹來嘗嘗我們底新花生，如何？」"
+    },
+    {
+      "text": "我們都答應了，母親把花生做成好幾樣底食品，還吩咐這節期要在園裏底茅亭舉行。"
+    },
+    {
+      "text": "那晚上底天色不大好，可是爹爹也到來，實在很難得！爹爹說：「你們愛吃花生麼？」"
+    },
+    {
+      "text": "我們都爭着答應，「愛！」"
+    },
+    {
+      "text": "「誰能把花生底好處說出來？」"
+    },
+    {
+      "text": "姊姊說：「花生底氣味很美。」"
+    },
+    {
+      "text": "哥哥說：「花生可以製油。」"
+    },
+    {
+      "text": "我說：「無論何等人都可以用賤價買他來吃；都喜歡吃他，這就是他底好處。」"
+    },
+    {
+      "text": "爹爹說：「花生底用處固然很多，但有一樣是很可貴的。這小小的豆不像那好看的蘋果，桃子，石榴，把他們底果實懸在枝上，鮮紅嫩綠的顏色，令人一望而發生羨慕底心。他只把果子埋在地底，等到成熟，才容人把他挖出來，你們偶然看見一棵花生瑟縮地長在地上，不能立刻辨出他有沒有果實，非得等到你接觸他才能知道。」"
+    },
+    {
+      "text": "我們都說：「是的。」母親也點點頭。"
+    },
+    {
+      "text": "爹爹接下去說：「所以你們要像花生，因為他是有用的，不是偉大，好看的東西。」"
+    },
+    {
+      "text": "我說：「那麼，人要做有用的人，不要做偉大，體面的人了。」"
+    },
+    {
+      "text": "爹爹說：「這是我對於你們底希望。」"
+    },
+    {
+      "text": "我們談到夜闌才散，所有花生食品雖然沒有了，然而父親底話現在還印在我心版上。"
+    }
+  ],
+  "sections": {
+    "analysis": "實事求是，講究實際，不好爭妍鬥麗，鄙視華而不實，這些都是從農耕社會一直流傳下來的傳統價值觀。\n\n本文借平凡樸實的落花生說明做人的道理：「要做有用的人，不要做偉大，體面的人」，就像花生雖然「不是偉大，好看的東西」，可是很有用。默默地埋頭苦幹，不圖虛名，實事實幹，做於人有益的事，就已經能成就一個人的價值。不需要像桃子、石榴那樣，把鮮紅嫩綠的果實高高地懸在枝頭上，炫耀自己的優點、功績。\n\n落花生的特點讓我們聯想到穩重、踏實、含蓄、謙遜等美德，這些都是儒家推許的君子之風，備受讀書人頌揚的理想人格。",
+    "annotations": "1.隙地：空着的地。\n2.荒蕪：田地長滿野草，無人耕種。\n3.闢：開墾。\n4.罷：語氣詞，同「吧」。\n5.丫頭：舊時指年輕的使女。\n6.底：同「的」，結構助詞。\n7.灌園：澆灌菜園。\n8.爹爹：父親。\n9.吩咐：囑咐、命令。\n10.茅亭：用茅草搭成的亭子。\n11.賤價：低廉的價錢。\n12.懸：掛。\n13.羨慕：看到別人的長處、好處而希望自己也能擁有。\n14.瑟縮：因寒冷而蜷縮的樣子，此處形容花生矮小地貼近地面生長。\n15.體面：好看、體面。\n16.夜闌：夜深。\n17.心版：心頭、內心深處。"
+  },
+  "annotations": [
+    {
+      "id": "21-1",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 7,
+        "end": 9
+      },
+      "kind": "semantic",
+      "text": "空着的地。",
+      "source": "cham"
+    },
+    {
+      "id": "21-2",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 17,
+        "end": 19
+      },
+      "kind": "semantic",
+      "text": "田地長滿野草，無人耕種。",
+      "source": "cham"
+    },
+    {
+      "id": "21-3",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 36,
+        "end": 37
+      },
+      "kind": "semantic",
+      "text": "開墾。",
+      "source": "cham"
+    },
+    {
+      "id": "21-4",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 42,
+        "end": 43
+      },
+      "kind": "semantic",
+      "text": "語氣詞，同「吧」。",
+      "source": "cham"
+    },
+    {
+      "id": "21-5",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 1,
+        "start": 9,
+        "end": 11
+      },
+      "kind": "semantic",
+      "text": "舊時指年輕的使女。",
+      "source": "cham"
+    },
+    {
+      "id": "21-6",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 1,
+        "start": 19,
+        "end": 20
+      },
+      "kind": "semantic",
+      "text": "同「的」，結構助詞。",
+      "source": "cham"
+    },
+    {
+      "id": "21-7",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 1,
+        "start": 29,
+        "end": 31
+      },
+      "kind": "semantic",
+      "text": "澆灌菜園。",
+      "source": "cham"
+    },
+    {
+      "id": "21-8",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 2,
+        "start": 22,
+        "end": 24
+      },
+      "kind": "semantic",
+      "text": "父親。",
+      "source": "cham"
+    },
+    {
+      "id": "21-9",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 3,
+        "start": 22,
+        "end": 24
+      },
+      "kind": "semantic",
+      "text": "囑咐、命令。",
+      "source": "cham"
+    },
+    {
+      "id": "21-10",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 3,
+        "start": 32,
+        "end": 34
+      },
+      "kind": "semantic",
+      "text": "用茅草搭成的亭子。",
+      "source": "cham"
+    },
+    {
+      "id": "21-11",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 9,
+        "start": 13,
+        "end": 15
+      },
+      "kind": "semantic",
+      "text": "低廉的價錢。",
+      "source": "cham"
+    },
+    {
+      "id": "21-12",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 10,
+        "start": 51,
+        "end": 52
+      },
+      "kind": "semantic",
+      "text": "掛。",
+      "source": "cham"
+    },
+    {
+      "id": "21-13",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 10,
+        "start": 71,
+        "end": 73
+      },
+      "kind": "semantic",
+      "text": "看到別人的長處、好處而希望自己也能擁有。",
+      "source": "cham"
+    },
+    {
+      "id": "21-14",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 10,
+        "start": 110,
+        "end": 112
+      },
+      "kind": "semantic",
+      "text": "因寒冷而蜷縮的樣子，此處形容花生矮小地貼近地面生長。",
+      "source": "cham"
+    },
+    {
+      "id": "21-15",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 13,
+        "start": 21,
+        "end": 23
+      },
+      "kind": "semantic",
+      "text": "好看、體面。",
+      "source": "cham"
+    },
+    {
+      "id": "21-16",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 15,
+        "start": 4,
+        "end": 6
+      },
+      "kind": "semantic",
+      "text": "夜深。",
+      "source": "cham"
+    },
+    {
+      "id": "21-17",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 15,
+        "start": 33,
+        "end": 35
+      },
+      "kind": "semantic",
+      "text": "心頭、內心深處。",
+      "source": "cham"
+    }
+  ],
+  "structuredSections": [
+    {
+      "key": "analysis",
+      "title": "賞析",
+      "filename": "analysis.md",
+      "body": "實事求是，講究實際，不好爭妍鬥麗，鄙視華而不實，這些都是從農耕社會一直流傳下來的傳統價值觀。\n\n本文借平凡樸實的落花生說明做人的道理：「要做有用的人，不要做偉大，體面的人」，就像花生雖然「不是偉大，好看的東西」，可是很有用。默默地埋頭苦幹，不圖虛名，實事實幹，做於人有益的事，就已經能成就一個人的價值。不需要像桃子、石榴那樣，把鮮紅嫩綠的果實高高地懸在枝頭上，炫耀自己的優點、功績。\n\n落花生的特點讓我們聯想到穩重、踏實、含蓄、謙遜等美德，這些都是儒家推許的君子之風，備受讀書人頌揚的理想人格。",
+      "order": 3
+    }
+  ]
+}

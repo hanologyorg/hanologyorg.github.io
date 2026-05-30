@@ -1,0 +1,408 @@
+{
+  "bookId": "laozi-boshu",
+  "num": 72,
+  "title": "第七十二章（畏畏）",
+  "author": "老子",
+  "authorId": "Laozi",
+  "dynasty": "周",
+  "era": "周",
+  "genre": "prose",
+  "verses": [
+    {
+      "text": "民之不畏畏 則大畏將至矣"
+    },
+    {
+      "text": "毋閘亓所居 毋猒亓所生 夫唯弗猒 是以不猒"
+    },
+    {
+      "text": "是以聖人 自知而不自見也 自愛而不自貴也 故去彼取此"
+    }
+  ],
+  "sections": {},
+  "annotations": [],
+  "layers": {
+    "heshanggong": [
+      {
+        "id": "heshanggong-1",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 12
+        },
+        "kind": "commentary",
+        "text": "威，害也。人不畏小害則大害至。大害者，謂死亡也。畏之者當愛精神，承天順地也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-2",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 12
+        },
+        "kind": "commentary",
+        "text": "謂心居神，當寬柔，不當急狹也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-3",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 12
+        },
+        "kind": "commentary",
+        "text": "人所以生者，以有精神。託空虛，喜清靜，飲食不節，忽道念色，邪僻滿腹，為伐本厭神也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-4",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 12
+        },
+        "kind": "commentary",
+        "text": "夫唯獨不厭精神之人，洗心濯垢，恬泊無欲，則精神居之不厭也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-5",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 12
+        },
+        "kind": "commentary",
+        "text": "自知己之得失，不自顯見德美於外，藏之於內。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-6",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 12
+        },
+        "kind": "commentary",
+        "text": "自愛其身以保精氣，不自貴高榮名於世。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-7",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 2,
+          "start": 21,
+          "end": 22
+        },
+        "kind": "commentary",
+        "text": "去彼自見、自貴，取此自知、自愛。",
+        "source": "cham"
+      }
+    ],
+    "wangbi": [
+      {
+        "id": "wangbi-1",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 12
+        },
+        "kind": "commentary",
+        "text": "清靜無為謂之居，謙後不盈謂之生，離其清淨，行其躁欲，棄其謙後，任其威權，則物擾而民僻，威不能復制民，民不能堪其威，則上下大潰矣，天誅將至。故曰，民不畏威，則大威至。無狎其所居，無厭其所生，言威力不可任也。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-2",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 12
+        },
+        "kind": "commentary",
+        "text": "不自厭也。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-3",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 12
+        },
+        "kind": "commentary",
+        "text": "不自厭，是以天下莫之厭。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-4",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 12
+        },
+        "kind": "commentary",
+        "text": "不自見其所知，以光耀行威也。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-5",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 12
+        },
+        "kind": "commentary",
+        "text": "自貴則物狎厭居生。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-6",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 2,
+          "start": 21,
+          "end": 22
+        },
+        "kind": "commentary",
+        "text": "",
+        "source": "cham"
+      }
+    ]
+  },
+  "annotationLayers": [
+    {
+      "id": "default",
+      "label": "原文",
+      "shortLabel": "文",
+      "contributor": "Laozi",
+      "role": "author",
+      "nature": "annotation",
+      "displayOrder": 0,
+      "enabled": true,
+      "annotations": []
+    },
+    {
+      "id": "heshanggong",
+      "label": "河上公註",
+      "shortLabel": "河",
+      "contributor": "C002",
+      "role": "commentator",
+      "nature": "commentary",
+      "displayOrder": 1,
+      "enabled": true,
+      "annotations": [
+        {
+          "id": "heshanggong-1",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 12
+          },
+          "kind": "commentary",
+          "text": "威，害也。人不畏小害則大害至。大害者，謂死亡也。畏之者當愛精神，承天順地也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-2",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 12
+          },
+          "kind": "commentary",
+          "text": "謂心居神，當寬柔，不當急狹也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-3",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 12
+          },
+          "kind": "commentary",
+          "text": "人所以生者，以有精神。託空虛，喜清靜，飲食不節，忽道念色，邪僻滿腹，為伐本厭神也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-4",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 12
+          },
+          "kind": "commentary",
+          "text": "夫唯獨不厭精神之人，洗心濯垢，恬泊無欲，則精神居之不厭也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-5",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 12
+          },
+          "kind": "commentary",
+          "text": "自知己之得失，不自顯見德美於外，藏之於內。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-6",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 12
+          },
+          "kind": "commentary",
+          "text": "自愛其身以保精氣，不自貴高榮名於世。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-7",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 2,
+            "start": 21,
+            "end": 22
+          },
+          "kind": "commentary",
+          "text": "去彼自見、自貴，取此自知、自愛。",
+          "source": "cham"
+        }
+      ]
+    },
+    {
+      "id": "wangbi",
+      "label": "王弼註",
+      "shortLabel": "王",
+      "contributor": "C001",
+      "role": "commentator",
+      "nature": "commentary",
+      "displayOrder": 2,
+      "enabled": true,
+      "annotations": [
+        {
+          "id": "wangbi-1",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 12
+          },
+          "kind": "commentary",
+          "text": "清靜無為謂之居，謙後不盈謂之生，離其清淨，行其躁欲，棄其謙後，任其威權，則物擾而民僻，威不能復制民，民不能堪其威，則上下大潰矣，天誅將至。故曰，民不畏威，則大威至。無狎其所居，無厭其所生，言威力不可任也。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-2",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 12
+          },
+          "kind": "commentary",
+          "text": "不自厭也。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-3",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 12
+          },
+          "kind": "commentary",
+          "text": "不自厭，是以天下莫之厭。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-4",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 12
+          },
+          "kind": "commentary",
+          "text": "不自見其所知，以光耀行威也。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-5",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 12
+          },
+          "kind": "commentary",
+          "text": "自貴則物狎厭居生。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-6",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 2,
+            "start": 21,
+            "end": 22
+          },
+          "kind": "commentary",
+          "text": "",
+          "source": "cham"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "textRef": "laozi-boshu",
+    "relation": "section"
+  }
+}

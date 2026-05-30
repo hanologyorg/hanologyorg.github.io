@@ -1,0 +1,105 @@
+{
+  "bookId": "laozi-wangbi-wiki",
+  "num": 74,
+  "title": "第七十四章",
+  "author": "老子",
+  "authorId": "Laozi",
+  "dynasty": "周",
+  "era": "周",
+  "genre": "prose",
+  "verses": [
+    {
+      "text": "民不畏死，奈何以死懼之？若使民常畏死，而為奇者，吾得執而殺之，孰敢？"
+    },
+    {
+      "text": "常有司殺者殺，夫代司殺者殺，是謂代大匠斲。夫代大匠斲者，希有不傷其手矣。"
+    }
+  ],
+  "sections": {},
+  "annotations": [],
+  "layers": {
+    "wangbi": [
+      {
+        "id": "wangbi-1",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 34
+        },
+        "kind": "commentary",
+        "text": "詭異亂群謂之奇也。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-2",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 0,
+          "end": 36
+        },
+        "kind": "commentary",
+        "text": "為逆順者之所惡忿也，不仁者人之所疾也。故曰，常有司殺也。",
+        "source": "cham"
+      }
+    ]
+  },
+  "annotationLayers": [
+    {
+      "id": "default",
+      "label": "原文",
+      "shortLabel": "文",
+      "contributor": "Laozi",
+      "role": "author",
+      "nature": "annotation",
+      "displayOrder": 0,
+      "enabled": true,
+      "annotations": []
+    },
+    {
+      "id": "wangbi",
+      "label": "王弼註",
+      "shortLabel": "王",
+      "contributor": "C001",
+      "role": "commentator",
+      "nature": "commentary",
+      "displayOrder": 1,
+      "enabled": true,
+      "annotations": [
+        {
+          "id": "wangbi-1",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 34
+          },
+          "kind": "commentary",
+          "text": "詭異亂群謂之奇也。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-2",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 1,
+            "start": 0,
+            "end": 36
+          },
+          "kind": "commentary",
+          "text": "為逆順者之所惡忿也，不仁者人之所疾也。故曰，常有司殺也。",
+          "source": "cham"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "textRef": "laozi-wangbi-wiki",
+    "relation": "section"
+  }
+}

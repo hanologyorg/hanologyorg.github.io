@@ -1,0 +1,2544 @@
+{
+  "scale": "library",
+  "books": [
+    {
+      "id": "difan",
+      "title": "帝範",
+      "subtitle": "唐·太宗",
+      "publisher": "早稲田大学図書館",
+      "genre": "prose",
+      "count": 17
+    },
+    {
+      "id": "heshanggong-laozi",
+      "title": "老子河上公章句",
+      "publisher": "ctext.org (四部叢刊初編本)",
+      "genre": "prose",
+      "count": 81,
+      "layers": [
+        {
+          "id": "heshanggong",
+          "label": "河上公註",
+          "shortLabel": "河",
+          "annotator": "河上公",
+          "contributor": "C002",
+          "role": "commentator",
+          "nature": "commentary",
+          "displayOrder": 1
+        }
+      ],
+      "annotation": {
+        "defaultLabel": "原文",
+        "defaultShortLabel": "文"
+      }
+    },
+    {
+      "id": "laozi",
+      "title": "帛書老子 甲本",
+      "publisher": "早稲田大学図書館",
+      "genre": "prose",
+      "count": 26,
+      "layers": [
+        {
+          "id": "wangbi",
+          "label": "王弼註",
+          "shortLabel": "王",
+          "annotator": "王弼",
+          "contributor": "C001",
+          "role": "commentator",
+          "nature": "commentary",
+          "displayOrder": 1
+        },
+        {
+          "id": "hesonggong",
+          "label": "河上公註",
+          "shortLabel": "河",
+          "annotator": "河上公",
+          "contributor": "C002",
+          "role": "commentator",
+          "nature": "commentary",
+          "displayOrder": 2
+        }
+      ],
+      "annotation": {
+        "defaultLabel": "原文",
+        "defaultShortLabel": "文"
+      }
+    },
+    {
+      "id": "laozi-boshu",
+      "title": "老子（帛書校勘版）",
+      "publisher": "Wikisource",
+      "genre": "prose",
+      "count": 81,
+      "layers": [
+        {
+          "id": "heshanggong",
+          "label": "河上公註",
+          "shortLabel": "河",
+          "annotator": "河上公",
+          "contributor": "C002",
+          "role": "commentator",
+          "nature": "commentary",
+          "displayOrder": 1
+        },
+        {
+          "id": "wangbi",
+          "label": "王弼註",
+          "shortLabel": "王",
+          "annotator": "王弼",
+          "contributor": "C001",
+          "role": "commentator",
+          "nature": "commentary",
+          "displayOrder": 2
+        }
+      ],
+      "annotation": {
+        "defaultLabel": "原文",
+        "defaultShortLabel": "文"
+      }
+    },
+    {
+      "id": "laozi-heshanggong-wiki",
+      "title": "老子河上公章句",
+      "publisher": "Wikisource",
+      "genre": "prose",
+      "count": 81,
+      "layers": [
+        {
+          "id": "heshanggong",
+          "label": "河上公註",
+          "shortLabel": "河",
+          "annotator": "河上公",
+          "contributor": "C002",
+          "role": "commentator",
+          "nature": "commentary",
+          "displayOrder": 1
+        }
+      ],
+      "annotation": {
+        "defaultLabel": "原文",
+        "defaultShortLabel": "文"
+      }
+    },
+    {
+      "id": "laozi-wangbi-wiki",
+      "title": "道德經（王弼本）",
+      "publisher": "Wikisource",
+      "genre": "prose",
+      "count": 81,
+      "layers": [
+        {
+          "id": "wangbi",
+          "label": "王弼註",
+          "shortLabel": "王",
+          "annotator": "王弼",
+          "contributor": "C001",
+          "role": "commentator",
+          "nature": "commentary",
+          "displayOrder": 1
+        }
+      ],
+      "annotation": {
+        "defaultLabel": "原文",
+        "defaultShortLabel": "文"
+      }
+    },
+    {
+      "id": "nss",
+      "title": "NSS 指定文言經典學習材料",
+      "subtitle": "新高中中國語文課程",
+      "publisher": "教育局課程發展處 · 中國語文教育",
+      "genre": "mixed",
+      "count": 16,
+      "hero": [
+        "{count} 篇指定經典",
+        "{authorCount} 位作者"
+      ]
+    },
+    {
+      "id": "primary",
+      "title": "積累與感興",
+      "subtitle": "小學古詩文誦讀材料選編（修訂）",
+      "publisher": "教育局課程發展處 · 中國語文教育",
+      "genre": "poetry",
+      "count": 100,
+      "hero": [
+        "{count} 篇詩文",
+        "{authorCount} 位作者",
+        "跨越千年·秦至清"
+      ]
+    },
+    {
+      "id": "primary-culture",
+      "title": "郁文華章",
+      "subtitle": "小學中華經典文化學習材料",
+      "publisher": "教育局課程發展處 · 中國語文教育",
+      "genre": "mixed",
+      "count": 31,
+      "hero": [
+        "{count} 篇詩文",
+        "{authorCount} 位作者"
+      ]
+    },
+    {
+      "id": "secondary",
+      "title": "積學與涵泳",
+      "subtitle": "中學古詩文誦讀材料選編",
+      "publisher": "教育局課程發展處 · 中國語文教育",
+      "genre": "mixed",
+      "count": 150,
+      "hero": [
+        "{count} 篇詩文",
+        "{authorCount} 位作者",
+        "跨越千年·詩經至清"
+      ]
+    },
+    {
+      "id": "shengui",
+      "title": "臣軌",
+      "subtitle": "唐·武則天",
+      "publisher": "早稲田大学図書館",
+      "genre": "prose",
+      "count": 13,
+      "layers": [
+        {
+          "id": "commentary",
+          "label": "注",
+          "contributor": "C011"
+        }
+      ]
+    },
+    {
+      "id": "skqs-difan",
+      "title": "帝範",
+      "subtitle": "四庫全書本",
+      "genre": "prose",
+      "count": 14
+    },
+    {
+      "id": "skqs-dixue",
+      "title": "帝學",
+      "subtitle": "四庫全書本",
+      "genre": "prose",
+      "count": 21
+    },
+    {
+      "id": "skqs-guiguzi",
+      "title": "鬼谷子",
+      "subtitle": "四庫全書本",
+      "genre": "prose",
+      "count": 1
+    },
+    {
+      "id": "skqs-mengzi-zhushu",
+      "title": "孟子注疏",
+      "subtitle": "四庫全書本",
+      "genre": "prose",
+      "count": 76
+    },
+    {
+      "id": "skqs-wenzi",
+      "title": "文子",
+      "subtitle": "四庫全書本",
+      "genre": "prose",
+      "count": 23
+    },
+    {
+      "id": "skqs-yantielun",
+      "title": "鹽鐵論",
+      "subtitle": "四庫全書本",
+      "genre": "prose",
+      "count": 63
+    },
+    {
+      "id": "skqs-yinwenzi",
+      "title": "尹文子",
+      "subtitle": "四庫全書本",
+      "genre": "prose",
+      "count": 2
+    }
+  ],
+  "crossRefs": [
+    {
+      "focusedBookId": "difan",
+      "focusedNum": 0,
+      "fullBookId": "difan",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "difan",
+      "focusedNum": 1,
+      "fullBookId": "difan",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "difan",
+      "focusedNum": 2,
+      "fullBookId": "difan",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "difan",
+      "focusedNum": 3,
+      "fullBookId": "difan",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "difan",
+      "focusedNum": 4,
+      "fullBookId": "difan",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "difan",
+      "focusedNum": 5,
+      "fullBookId": "difan",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "difan",
+      "focusedNum": 6,
+      "fullBookId": "difan",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "difan",
+      "focusedNum": 7,
+      "fullBookId": "difan",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "difan",
+      "focusedNum": 8,
+      "fullBookId": "difan",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "difan",
+      "focusedNum": 9,
+      "fullBookId": "difan",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "difan",
+      "focusedNum": 10,
+      "fullBookId": "difan",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "difan",
+      "focusedNum": 11,
+      "fullBookId": "difan",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "difan",
+      "focusedNum": 12,
+      "fullBookId": "difan",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "difan",
+      "focusedNum": 13,
+      "fullBookId": "difan",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "difan",
+      "focusedNum": 14,
+      "fullBookId": "difan",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "difan",
+      "focusedNum": 15,
+      "fullBookId": "difan",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "difan",
+      "focusedNum": 16,
+      "fullBookId": "difan",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "heshanggong-laozi",
+      "focusedNum": 1,
+      "fullBookId": "heshanggong-laozi",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "heshanggong-laozi",
+      "focusedNum": 2,
+      "fullBookId": "heshanggong-laozi",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "heshanggong-laozi",
+      "focusedNum": 3,
+      "fullBookId": "heshanggong-laozi",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "heshanggong-laozi",
+      "focusedNum": 4,
+      "fullBookId": "heshanggong-laozi",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "heshanggong-laozi",
+      "focusedNum": 5,
+      "fullBookId": "heshanggong-laozi",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "heshanggong-laozi",
+      "focusedNum": 6,
+      "fullBookId": "heshanggong-laozi",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "heshanggong-laozi",
+      "focusedNum": 7,
+      "fullBookId": "heshanggong-laozi",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "heshanggong-laozi",
+      "focusedNum": 8,
+      "fullBookId": "heshanggong-laozi",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "heshanggong-laozi",
+      "focusedNum": 9,
+      "fullBookId": "heshanggong-laozi",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "heshanggong-laozi",
+      "focusedNum": 10,
+      "fullBookId": "heshanggong-laozi",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "heshanggong-laozi",
+      "focusedNum": 11,
+      "fullBookId": "heshanggong-laozi",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "heshanggong-laozi",
+      "focusedNum": 12,
+      "fullBookId": "heshanggong-laozi",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "heshanggong-laozi",
+      "focusedNum": 13,
+      "fullBookId": "heshanggong-laozi",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "heshanggong-laozi",
+      "focusedNum": 14,
+      "fullBookId": "heshanggong-laozi",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "heshanggong-laozi",
+      "focusedNum": 15,
+      "fullBookId": "heshanggong-laozi",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "heshanggong-laozi",
+      "focusedNum": 16,
+      "fullBookId": "heshanggong-laozi",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "heshanggong-laozi",
+      "focusedNum": 17,
+      "fullBookId": "heshanggong-laozi",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "heshanggong-laozi",
+      "focusedNum": 18,
+      "fullBookId": "heshanggong-laozi",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "heshanggong-laozi",
+      "focusedNum": 19,
+      "fullBookId": "heshanggong-laozi",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "heshanggong-laozi",
+      "focusedNum": 20,
+      "fullBookId": "heshanggong-laozi",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "heshanggong-laozi",
+      "focusedNum": 21,
+      "fullBookId": "heshanggong-laozi",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "heshanggong-laozi",
+      "focusedNum": 22,
+      "fullBookId": "heshanggong-laozi",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "heshanggong-laozi",
+      "focusedNum": 23,
+      "fullBookId": "heshanggong-laozi",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "heshanggong-laozi",
+      "focusedNum": 24,
+      "fullBookId": "heshanggong-laozi",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "heshanggong-laozi",
+      "focusedNum": 25,
+      "fullBookId": "heshanggong-laozi",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "heshanggong-laozi",
+      "focusedNum": 26,
+      "fullBookId": "heshanggong-laozi",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "heshanggong-laozi",
+      "focusedNum": 27,
+      "fullBookId": "heshanggong-laozi",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "heshanggong-laozi",
+      "focusedNum": 28,
+      "fullBookId": "heshanggong-laozi",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "heshanggong-laozi",
+      "focusedNum": 29,
+      "fullBookId": "heshanggong-laozi",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "heshanggong-laozi",
+      "focusedNum": 30,
+      "fullBookId": "heshanggong-laozi",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "heshanggong-laozi",
+      "focusedNum": 31,
+      "fullBookId": "heshanggong-laozi",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "heshanggong-laozi",
+      "focusedNum": 32,
+      "fullBookId": "heshanggong-laozi",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "heshanggong-laozi",
+      "focusedNum": 33,
+      "fullBookId": "heshanggong-laozi",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "heshanggong-laozi",
+      "focusedNum": 34,
+      "fullBookId": "heshanggong-laozi",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "heshanggong-laozi",
+      "focusedNum": 35,
+      "fullBookId": "heshanggong-laozi",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "heshanggong-laozi",
+      "focusedNum": 36,
+      "fullBookId": "heshanggong-laozi",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "heshanggong-laozi",
+      "focusedNum": 37,
+      "fullBookId": "heshanggong-laozi",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "heshanggong-laozi",
+      "focusedNum": 38,
+      "fullBookId": "heshanggong-laozi",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "heshanggong-laozi",
+      "focusedNum": 39,
+      "fullBookId": "heshanggong-laozi",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "heshanggong-laozi",
+      "focusedNum": 40,
+      "fullBookId": "heshanggong-laozi",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "heshanggong-laozi",
+      "focusedNum": 41,
+      "fullBookId": "heshanggong-laozi",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "heshanggong-laozi",
+      "focusedNum": 42,
+      "fullBookId": "heshanggong-laozi",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "heshanggong-laozi",
+      "focusedNum": 43,
+      "fullBookId": "heshanggong-laozi",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "heshanggong-laozi",
+      "focusedNum": 44,
+      "fullBookId": "heshanggong-laozi",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "heshanggong-laozi",
+      "focusedNum": 45,
+      "fullBookId": "heshanggong-laozi",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "heshanggong-laozi",
+      "focusedNum": 46,
+      "fullBookId": "heshanggong-laozi",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "heshanggong-laozi",
+      "focusedNum": 47,
+      "fullBookId": "heshanggong-laozi",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "heshanggong-laozi",
+      "focusedNum": 48,
+      "fullBookId": "heshanggong-laozi",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "heshanggong-laozi",
+      "focusedNum": 49,
+      "fullBookId": "heshanggong-laozi",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "heshanggong-laozi",
+      "focusedNum": 50,
+      "fullBookId": "heshanggong-laozi",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "heshanggong-laozi",
+      "focusedNum": 51,
+      "fullBookId": "heshanggong-laozi",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "heshanggong-laozi",
+      "focusedNum": 52,
+      "fullBookId": "heshanggong-laozi",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "heshanggong-laozi",
+      "focusedNum": 53,
+      "fullBookId": "heshanggong-laozi",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "heshanggong-laozi",
+      "focusedNum": 54,
+      "fullBookId": "heshanggong-laozi",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "heshanggong-laozi",
+      "focusedNum": 55,
+      "fullBookId": "heshanggong-laozi",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "heshanggong-laozi",
+      "focusedNum": 56,
+      "fullBookId": "heshanggong-laozi",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "heshanggong-laozi",
+      "focusedNum": 57,
+      "fullBookId": "heshanggong-laozi",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "heshanggong-laozi",
+      "focusedNum": 58,
+      "fullBookId": "heshanggong-laozi",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "heshanggong-laozi",
+      "focusedNum": 59,
+      "fullBookId": "heshanggong-laozi",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "heshanggong-laozi",
+      "focusedNum": 60,
+      "fullBookId": "heshanggong-laozi",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "heshanggong-laozi",
+      "focusedNum": 61,
+      "fullBookId": "heshanggong-laozi",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "heshanggong-laozi",
+      "focusedNum": 62,
+      "fullBookId": "heshanggong-laozi",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "heshanggong-laozi",
+      "focusedNum": 63,
+      "fullBookId": "heshanggong-laozi",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "heshanggong-laozi",
+      "focusedNum": 64,
+      "fullBookId": "heshanggong-laozi",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "heshanggong-laozi",
+      "focusedNum": 65,
+      "fullBookId": "heshanggong-laozi",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "heshanggong-laozi",
+      "focusedNum": 66,
+      "fullBookId": "heshanggong-laozi",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "heshanggong-laozi",
+      "focusedNum": 67,
+      "fullBookId": "heshanggong-laozi",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "heshanggong-laozi",
+      "focusedNum": 68,
+      "fullBookId": "heshanggong-laozi",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "heshanggong-laozi",
+      "focusedNum": 69,
+      "fullBookId": "heshanggong-laozi",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "heshanggong-laozi",
+      "focusedNum": 70,
+      "fullBookId": "heshanggong-laozi",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "heshanggong-laozi",
+      "focusedNum": 71,
+      "fullBookId": "heshanggong-laozi",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "heshanggong-laozi",
+      "focusedNum": 72,
+      "fullBookId": "heshanggong-laozi",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "heshanggong-laozi",
+      "focusedNum": 73,
+      "fullBookId": "heshanggong-laozi",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "heshanggong-laozi",
+      "focusedNum": 74,
+      "fullBookId": "heshanggong-laozi",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "heshanggong-laozi",
+      "focusedNum": 75,
+      "fullBookId": "heshanggong-laozi",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "heshanggong-laozi",
+      "focusedNum": 76,
+      "fullBookId": "heshanggong-laozi",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "heshanggong-laozi",
+      "focusedNum": 77,
+      "fullBookId": "heshanggong-laozi",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "heshanggong-laozi",
+      "focusedNum": 78,
+      "fullBookId": "heshanggong-laozi",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "heshanggong-laozi",
+      "focusedNum": 79,
+      "fullBookId": "heshanggong-laozi",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "heshanggong-laozi",
+      "focusedNum": 80,
+      "fullBookId": "heshanggong-laozi",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "heshanggong-laozi",
+      "focusedNum": 81,
+      "fullBookId": "heshanggong-laozi",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi",
+      "focusedNum": 1,
+      "fullBookId": "laozi",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi",
+      "focusedNum": 2,
+      "fullBookId": "laozi",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi",
+      "focusedNum": 3,
+      "fullBookId": "laozi",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi",
+      "focusedNum": 4,
+      "fullBookId": "laozi",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi",
+      "focusedNum": 5,
+      "fullBookId": "laozi",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi",
+      "focusedNum": 6,
+      "fullBookId": "laozi",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi",
+      "focusedNum": 7,
+      "fullBookId": "laozi",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi",
+      "focusedNum": 8,
+      "fullBookId": "laozi",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi",
+      "focusedNum": 9,
+      "fullBookId": "laozi",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi",
+      "focusedNum": 10,
+      "fullBookId": "laozi",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi",
+      "focusedNum": 11,
+      "fullBookId": "laozi",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi",
+      "focusedNum": 12,
+      "fullBookId": "laozi",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi",
+      "focusedNum": 13,
+      "fullBookId": "laozi",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi",
+      "focusedNum": 14,
+      "fullBookId": "laozi",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi",
+      "focusedNum": 15,
+      "fullBookId": "laozi",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi",
+      "focusedNum": 16,
+      "fullBookId": "laozi",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi",
+      "focusedNum": 17,
+      "fullBookId": "laozi",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi",
+      "focusedNum": 18,
+      "fullBookId": "laozi",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi",
+      "focusedNum": 19,
+      "fullBookId": "laozi",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi",
+      "focusedNum": 20,
+      "fullBookId": "laozi",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi",
+      "focusedNum": 21,
+      "fullBookId": "laozi",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi",
+      "focusedNum": 22,
+      "fullBookId": "laozi",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi",
+      "focusedNum": 23,
+      "fullBookId": "laozi",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi",
+      "focusedNum": 24,
+      "fullBookId": "laozi",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi",
+      "focusedNum": 25,
+      "fullBookId": "laozi",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi",
+      "focusedNum": 26,
+      "fullBookId": "laozi",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-boshu",
+      "focusedNum": 1,
+      "fullBookId": "laozi-boshu",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-boshu",
+      "focusedNum": 2,
+      "fullBookId": "laozi-boshu",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-boshu",
+      "focusedNum": 3,
+      "fullBookId": "laozi-boshu",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-boshu",
+      "focusedNum": 4,
+      "fullBookId": "laozi-boshu",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-boshu",
+      "focusedNum": 5,
+      "fullBookId": "laozi-boshu",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-boshu",
+      "focusedNum": 6,
+      "fullBookId": "laozi-boshu",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-boshu",
+      "focusedNum": 7,
+      "fullBookId": "laozi-boshu",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-boshu",
+      "focusedNum": 8,
+      "fullBookId": "laozi-boshu",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-boshu",
+      "focusedNum": 9,
+      "fullBookId": "laozi-boshu",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-boshu",
+      "focusedNum": 10,
+      "fullBookId": "laozi-boshu",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-boshu",
+      "focusedNum": 11,
+      "fullBookId": "laozi-boshu",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-boshu",
+      "focusedNum": 12,
+      "fullBookId": "laozi-boshu",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-boshu",
+      "focusedNum": 13,
+      "fullBookId": "laozi-boshu",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-boshu",
+      "focusedNum": 14,
+      "fullBookId": "laozi-boshu",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-boshu",
+      "focusedNum": 15,
+      "fullBookId": "laozi-boshu",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-boshu",
+      "focusedNum": 16,
+      "fullBookId": "laozi-boshu",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-boshu",
+      "focusedNum": 17,
+      "fullBookId": "laozi-boshu",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-boshu",
+      "focusedNum": 18,
+      "fullBookId": "laozi-boshu",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-boshu",
+      "focusedNum": 19,
+      "fullBookId": "laozi-boshu",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-boshu",
+      "focusedNum": 20,
+      "fullBookId": "laozi-boshu",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-boshu",
+      "focusedNum": 21,
+      "fullBookId": "laozi-boshu",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-boshu",
+      "focusedNum": 22,
+      "fullBookId": "laozi-boshu",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-boshu",
+      "focusedNum": 23,
+      "fullBookId": "laozi-boshu",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-boshu",
+      "focusedNum": 24,
+      "fullBookId": "laozi-boshu",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-boshu",
+      "focusedNum": 25,
+      "fullBookId": "laozi-boshu",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-boshu",
+      "focusedNum": 26,
+      "fullBookId": "laozi-boshu",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-boshu",
+      "focusedNum": 27,
+      "fullBookId": "laozi-boshu",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-boshu",
+      "focusedNum": 28,
+      "fullBookId": "laozi-boshu",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-boshu",
+      "focusedNum": 29,
+      "fullBookId": "laozi-boshu",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-boshu",
+      "focusedNum": 30,
+      "fullBookId": "laozi-boshu",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-boshu",
+      "focusedNum": 31,
+      "fullBookId": "laozi-boshu",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-boshu",
+      "focusedNum": 32,
+      "fullBookId": "laozi-boshu",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-boshu",
+      "focusedNum": 33,
+      "fullBookId": "laozi-boshu",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-boshu",
+      "focusedNum": 34,
+      "fullBookId": "laozi-boshu",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-boshu",
+      "focusedNum": 35,
+      "fullBookId": "laozi-boshu",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-boshu",
+      "focusedNum": 36,
+      "fullBookId": "laozi-boshu",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-boshu",
+      "focusedNum": 37,
+      "fullBookId": "laozi-boshu",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-boshu",
+      "focusedNum": 38,
+      "fullBookId": "laozi-boshu",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-boshu",
+      "focusedNum": 39,
+      "fullBookId": "laozi-boshu",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-boshu",
+      "focusedNum": 40,
+      "fullBookId": "laozi-boshu",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-boshu",
+      "focusedNum": 41,
+      "fullBookId": "laozi-boshu",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-boshu",
+      "focusedNum": 42,
+      "fullBookId": "laozi-boshu",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-boshu",
+      "focusedNum": 43,
+      "fullBookId": "laozi-boshu",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-boshu",
+      "focusedNum": 44,
+      "fullBookId": "laozi-boshu",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-boshu",
+      "focusedNum": 45,
+      "fullBookId": "laozi-boshu",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-boshu",
+      "focusedNum": 46,
+      "fullBookId": "laozi-boshu",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-boshu",
+      "focusedNum": 47,
+      "fullBookId": "laozi-boshu",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-boshu",
+      "focusedNum": 48,
+      "fullBookId": "laozi-boshu",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-boshu",
+      "focusedNum": 49,
+      "fullBookId": "laozi-boshu",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-boshu",
+      "focusedNum": 50,
+      "fullBookId": "laozi-boshu",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-boshu",
+      "focusedNum": 51,
+      "fullBookId": "laozi-boshu",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-boshu",
+      "focusedNum": 52,
+      "fullBookId": "laozi-boshu",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-boshu",
+      "focusedNum": 53,
+      "fullBookId": "laozi-boshu",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-boshu",
+      "focusedNum": 54,
+      "fullBookId": "laozi-boshu",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-boshu",
+      "focusedNum": 55,
+      "fullBookId": "laozi-boshu",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-boshu",
+      "focusedNum": 56,
+      "fullBookId": "laozi-boshu",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-boshu",
+      "focusedNum": 57,
+      "fullBookId": "laozi-boshu",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-boshu",
+      "focusedNum": 58,
+      "fullBookId": "laozi-boshu",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-boshu",
+      "focusedNum": 59,
+      "fullBookId": "laozi-boshu",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-boshu",
+      "focusedNum": 60,
+      "fullBookId": "laozi-boshu",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-boshu",
+      "focusedNum": 61,
+      "fullBookId": "laozi-boshu",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-boshu",
+      "focusedNum": 62,
+      "fullBookId": "laozi-boshu",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-boshu",
+      "focusedNum": 63,
+      "fullBookId": "laozi-boshu",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-boshu",
+      "focusedNum": 64,
+      "fullBookId": "laozi-boshu",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-boshu",
+      "focusedNum": 65,
+      "fullBookId": "laozi-boshu",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-boshu",
+      "focusedNum": 66,
+      "fullBookId": "laozi-boshu",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-boshu",
+      "focusedNum": 67,
+      "fullBookId": "laozi-boshu",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-boshu",
+      "focusedNum": 68,
+      "fullBookId": "laozi-boshu",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-boshu",
+      "focusedNum": 69,
+      "fullBookId": "laozi-boshu",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-boshu",
+      "focusedNum": 70,
+      "fullBookId": "laozi-boshu",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-boshu",
+      "focusedNum": 71,
+      "fullBookId": "laozi-boshu",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-boshu",
+      "focusedNum": 72,
+      "fullBookId": "laozi-boshu",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-boshu",
+      "focusedNum": 73,
+      "fullBookId": "laozi-boshu",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-boshu",
+      "focusedNum": 74,
+      "fullBookId": "laozi-boshu",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-boshu",
+      "focusedNum": 75,
+      "fullBookId": "laozi-boshu",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-boshu",
+      "focusedNum": 76,
+      "fullBookId": "laozi-boshu",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-boshu",
+      "focusedNum": 77,
+      "fullBookId": "laozi-boshu",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-boshu",
+      "focusedNum": 78,
+      "fullBookId": "laozi-boshu",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-boshu",
+      "focusedNum": 79,
+      "fullBookId": "laozi-boshu",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-boshu",
+      "focusedNum": 80,
+      "fullBookId": "laozi-boshu",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-boshu",
+      "focusedNum": 81,
+      "fullBookId": "laozi-boshu",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-heshanggong-wiki",
+      "focusedNum": 1,
+      "fullBookId": "laozi-heshanggong-wiki",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-heshanggong-wiki",
+      "focusedNum": 2,
+      "fullBookId": "laozi-heshanggong-wiki",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-heshanggong-wiki",
+      "focusedNum": 3,
+      "fullBookId": "laozi-heshanggong-wiki",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-heshanggong-wiki",
+      "focusedNum": 4,
+      "fullBookId": "laozi-heshanggong-wiki",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-heshanggong-wiki",
+      "focusedNum": 5,
+      "fullBookId": "laozi-heshanggong-wiki",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-heshanggong-wiki",
+      "focusedNum": 6,
+      "fullBookId": "laozi-heshanggong-wiki",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-heshanggong-wiki",
+      "focusedNum": 7,
+      "fullBookId": "laozi-heshanggong-wiki",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-heshanggong-wiki",
+      "focusedNum": 8,
+      "fullBookId": "laozi-heshanggong-wiki",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-heshanggong-wiki",
+      "focusedNum": 9,
+      "fullBookId": "laozi-heshanggong-wiki",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-heshanggong-wiki",
+      "focusedNum": 10,
+      "fullBookId": "laozi-heshanggong-wiki",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-heshanggong-wiki",
+      "focusedNum": 11,
+      "fullBookId": "laozi-heshanggong-wiki",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-heshanggong-wiki",
+      "focusedNum": 12,
+      "fullBookId": "laozi-heshanggong-wiki",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-heshanggong-wiki",
+      "focusedNum": 13,
+      "fullBookId": "laozi-heshanggong-wiki",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-heshanggong-wiki",
+      "focusedNum": 14,
+      "fullBookId": "laozi-heshanggong-wiki",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-heshanggong-wiki",
+      "focusedNum": 15,
+      "fullBookId": "laozi-heshanggong-wiki",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-heshanggong-wiki",
+      "focusedNum": 16,
+      "fullBookId": "laozi-heshanggong-wiki",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-heshanggong-wiki",
+      "focusedNum": 17,
+      "fullBookId": "laozi-heshanggong-wiki",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-heshanggong-wiki",
+      "focusedNum": 18,
+      "fullBookId": "laozi-heshanggong-wiki",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-heshanggong-wiki",
+      "focusedNum": 19,
+      "fullBookId": "laozi-heshanggong-wiki",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-heshanggong-wiki",
+      "focusedNum": 20,
+      "fullBookId": "laozi-heshanggong-wiki",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-heshanggong-wiki",
+      "focusedNum": 21,
+      "fullBookId": "laozi-heshanggong-wiki",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-heshanggong-wiki",
+      "focusedNum": 22,
+      "fullBookId": "laozi-heshanggong-wiki",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-heshanggong-wiki",
+      "focusedNum": 23,
+      "fullBookId": "laozi-heshanggong-wiki",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-heshanggong-wiki",
+      "focusedNum": 24,
+      "fullBookId": "laozi-heshanggong-wiki",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-heshanggong-wiki",
+      "focusedNum": 25,
+      "fullBookId": "laozi-heshanggong-wiki",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-heshanggong-wiki",
+      "focusedNum": 26,
+      "fullBookId": "laozi-heshanggong-wiki",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-heshanggong-wiki",
+      "focusedNum": 27,
+      "fullBookId": "laozi-heshanggong-wiki",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-heshanggong-wiki",
+      "focusedNum": 28,
+      "fullBookId": "laozi-heshanggong-wiki",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-heshanggong-wiki",
+      "focusedNum": 29,
+      "fullBookId": "laozi-heshanggong-wiki",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-heshanggong-wiki",
+      "focusedNum": 30,
+      "fullBookId": "laozi-heshanggong-wiki",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-heshanggong-wiki",
+      "focusedNum": 31,
+      "fullBookId": "laozi-heshanggong-wiki",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-heshanggong-wiki",
+      "focusedNum": 32,
+      "fullBookId": "laozi-heshanggong-wiki",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-heshanggong-wiki",
+      "focusedNum": 33,
+      "fullBookId": "laozi-heshanggong-wiki",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-heshanggong-wiki",
+      "focusedNum": 34,
+      "fullBookId": "laozi-heshanggong-wiki",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-heshanggong-wiki",
+      "focusedNum": 35,
+      "fullBookId": "laozi-heshanggong-wiki",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-heshanggong-wiki",
+      "focusedNum": 36,
+      "fullBookId": "laozi-heshanggong-wiki",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-heshanggong-wiki",
+      "focusedNum": 37,
+      "fullBookId": "laozi-heshanggong-wiki",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-heshanggong-wiki",
+      "focusedNum": 38,
+      "fullBookId": "laozi-heshanggong-wiki",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-heshanggong-wiki",
+      "focusedNum": 39,
+      "fullBookId": "laozi-heshanggong-wiki",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-heshanggong-wiki",
+      "focusedNum": 40,
+      "fullBookId": "laozi-heshanggong-wiki",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-heshanggong-wiki",
+      "focusedNum": 41,
+      "fullBookId": "laozi-heshanggong-wiki",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-heshanggong-wiki",
+      "focusedNum": 42,
+      "fullBookId": "laozi-heshanggong-wiki",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-heshanggong-wiki",
+      "focusedNum": 43,
+      "fullBookId": "laozi-heshanggong-wiki",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-heshanggong-wiki",
+      "focusedNum": 44,
+      "fullBookId": "laozi-heshanggong-wiki",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-heshanggong-wiki",
+      "focusedNum": 45,
+      "fullBookId": "laozi-heshanggong-wiki",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-heshanggong-wiki",
+      "focusedNum": 46,
+      "fullBookId": "laozi-heshanggong-wiki",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-heshanggong-wiki",
+      "focusedNum": 47,
+      "fullBookId": "laozi-heshanggong-wiki",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-heshanggong-wiki",
+      "focusedNum": 48,
+      "fullBookId": "laozi-heshanggong-wiki",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-heshanggong-wiki",
+      "focusedNum": 49,
+      "fullBookId": "laozi-heshanggong-wiki",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-heshanggong-wiki",
+      "focusedNum": 50,
+      "fullBookId": "laozi-heshanggong-wiki",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-heshanggong-wiki",
+      "focusedNum": 51,
+      "fullBookId": "laozi-heshanggong-wiki",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-heshanggong-wiki",
+      "focusedNum": 52,
+      "fullBookId": "laozi-heshanggong-wiki",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-heshanggong-wiki",
+      "focusedNum": 53,
+      "fullBookId": "laozi-heshanggong-wiki",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-heshanggong-wiki",
+      "focusedNum": 54,
+      "fullBookId": "laozi-heshanggong-wiki",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-heshanggong-wiki",
+      "focusedNum": 55,
+      "fullBookId": "laozi-heshanggong-wiki",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-heshanggong-wiki",
+      "focusedNum": 56,
+      "fullBookId": "laozi-heshanggong-wiki",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-heshanggong-wiki",
+      "focusedNum": 57,
+      "fullBookId": "laozi-heshanggong-wiki",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-heshanggong-wiki",
+      "focusedNum": 58,
+      "fullBookId": "laozi-heshanggong-wiki",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-heshanggong-wiki",
+      "focusedNum": 59,
+      "fullBookId": "laozi-heshanggong-wiki",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-heshanggong-wiki",
+      "focusedNum": 60,
+      "fullBookId": "laozi-heshanggong-wiki",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-heshanggong-wiki",
+      "focusedNum": 61,
+      "fullBookId": "laozi-heshanggong-wiki",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-heshanggong-wiki",
+      "focusedNum": 62,
+      "fullBookId": "laozi-heshanggong-wiki",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-heshanggong-wiki",
+      "focusedNum": 63,
+      "fullBookId": "laozi-heshanggong-wiki",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-heshanggong-wiki",
+      "focusedNum": 64,
+      "fullBookId": "laozi-heshanggong-wiki",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-heshanggong-wiki",
+      "focusedNum": 65,
+      "fullBookId": "laozi-heshanggong-wiki",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-heshanggong-wiki",
+      "focusedNum": 66,
+      "fullBookId": "laozi-heshanggong-wiki",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-heshanggong-wiki",
+      "focusedNum": 67,
+      "fullBookId": "laozi-heshanggong-wiki",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-heshanggong-wiki",
+      "focusedNum": 68,
+      "fullBookId": "laozi-heshanggong-wiki",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-heshanggong-wiki",
+      "focusedNum": 69,
+      "fullBookId": "laozi-heshanggong-wiki",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-heshanggong-wiki",
+      "focusedNum": 70,
+      "fullBookId": "laozi-heshanggong-wiki",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-heshanggong-wiki",
+      "focusedNum": 71,
+      "fullBookId": "laozi-heshanggong-wiki",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-heshanggong-wiki",
+      "focusedNum": 72,
+      "fullBookId": "laozi-heshanggong-wiki",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-heshanggong-wiki",
+      "focusedNum": 73,
+      "fullBookId": "laozi-heshanggong-wiki",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-heshanggong-wiki",
+      "focusedNum": 74,
+      "fullBookId": "laozi-heshanggong-wiki",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-heshanggong-wiki",
+      "focusedNum": 75,
+      "fullBookId": "laozi-heshanggong-wiki",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-heshanggong-wiki",
+      "focusedNum": 76,
+      "fullBookId": "laozi-heshanggong-wiki",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-heshanggong-wiki",
+      "focusedNum": 77,
+      "fullBookId": "laozi-heshanggong-wiki",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-heshanggong-wiki",
+      "focusedNum": 78,
+      "fullBookId": "laozi-heshanggong-wiki",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-heshanggong-wiki",
+      "focusedNum": 79,
+      "fullBookId": "laozi-heshanggong-wiki",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-heshanggong-wiki",
+      "focusedNum": 80,
+      "fullBookId": "laozi-heshanggong-wiki",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-heshanggong-wiki",
+      "focusedNum": 81,
+      "fullBookId": "laozi-heshanggong-wiki",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-wangbi-wiki",
+      "focusedNum": 1,
+      "fullBookId": "laozi-wangbi-wiki",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-wangbi-wiki",
+      "focusedNum": 2,
+      "fullBookId": "laozi-wangbi-wiki",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-wangbi-wiki",
+      "focusedNum": 3,
+      "fullBookId": "laozi-wangbi-wiki",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-wangbi-wiki",
+      "focusedNum": 4,
+      "fullBookId": "laozi-wangbi-wiki",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-wangbi-wiki",
+      "focusedNum": 5,
+      "fullBookId": "laozi-wangbi-wiki",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-wangbi-wiki",
+      "focusedNum": 6,
+      "fullBookId": "laozi-wangbi-wiki",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-wangbi-wiki",
+      "focusedNum": 7,
+      "fullBookId": "laozi-wangbi-wiki",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-wangbi-wiki",
+      "focusedNum": 8,
+      "fullBookId": "laozi-wangbi-wiki",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-wangbi-wiki",
+      "focusedNum": 9,
+      "fullBookId": "laozi-wangbi-wiki",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-wangbi-wiki",
+      "focusedNum": 10,
+      "fullBookId": "laozi-wangbi-wiki",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-wangbi-wiki",
+      "focusedNum": 11,
+      "fullBookId": "laozi-wangbi-wiki",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-wangbi-wiki",
+      "focusedNum": 12,
+      "fullBookId": "laozi-wangbi-wiki",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-wangbi-wiki",
+      "focusedNum": 13,
+      "fullBookId": "laozi-wangbi-wiki",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-wangbi-wiki",
+      "focusedNum": 14,
+      "fullBookId": "laozi-wangbi-wiki",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-wangbi-wiki",
+      "focusedNum": 15,
+      "fullBookId": "laozi-wangbi-wiki",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-wangbi-wiki",
+      "focusedNum": 16,
+      "fullBookId": "laozi-wangbi-wiki",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-wangbi-wiki",
+      "focusedNum": 17,
+      "fullBookId": "laozi-wangbi-wiki",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-wangbi-wiki",
+      "focusedNum": 18,
+      "fullBookId": "laozi-wangbi-wiki",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-wangbi-wiki",
+      "focusedNum": 19,
+      "fullBookId": "laozi-wangbi-wiki",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-wangbi-wiki",
+      "focusedNum": 20,
+      "fullBookId": "laozi-wangbi-wiki",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-wangbi-wiki",
+      "focusedNum": 21,
+      "fullBookId": "laozi-wangbi-wiki",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-wangbi-wiki",
+      "focusedNum": 22,
+      "fullBookId": "laozi-wangbi-wiki",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-wangbi-wiki",
+      "focusedNum": 23,
+      "fullBookId": "laozi-wangbi-wiki",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-wangbi-wiki",
+      "focusedNum": 24,
+      "fullBookId": "laozi-wangbi-wiki",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-wangbi-wiki",
+      "focusedNum": 25,
+      "fullBookId": "laozi-wangbi-wiki",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-wangbi-wiki",
+      "focusedNum": 26,
+      "fullBookId": "laozi-wangbi-wiki",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-wangbi-wiki",
+      "focusedNum": 27,
+      "fullBookId": "laozi-wangbi-wiki",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-wangbi-wiki",
+      "focusedNum": 28,
+      "fullBookId": "laozi-wangbi-wiki",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-wangbi-wiki",
+      "focusedNum": 29,
+      "fullBookId": "laozi-wangbi-wiki",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-wangbi-wiki",
+      "focusedNum": 30,
+      "fullBookId": "laozi-wangbi-wiki",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-wangbi-wiki",
+      "focusedNum": 31,
+      "fullBookId": "laozi-wangbi-wiki",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-wangbi-wiki",
+      "focusedNum": 32,
+      "fullBookId": "laozi-wangbi-wiki",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-wangbi-wiki",
+      "focusedNum": 33,
+      "fullBookId": "laozi-wangbi-wiki",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-wangbi-wiki",
+      "focusedNum": 34,
+      "fullBookId": "laozi-wangbi-wiki",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-wangbi-wiki",
+      "focusedNum": 35,
+      "fullBookId": "laozi-wangbi-wiki",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-wangbi-wiki",
+      "focusedNum": 36,
+      "fullBookId": "laozi-wangbi-wiki",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-wangbi-wiki",
+      "focusedNum": 37,
+      "fullBookId": "laozi-wangbi-wiki",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-wangbi-wiki",
+      "focusedNum": 38,
+      "fullBookId": "laozi-wangbi-wiki",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-wangbi-wiki",
+      "focusedNum": 39,
+      "fullBookId": "laozi-wangbi-wiki",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-wangbi-wiki",
+      "focusedNum": 40,
+      "fullBookId": "laozi-wangbi-wiki",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-wangbi-wiki",
+      "focusedNum": 41,
+      "fullBookId": "laozi-wangbi-wiki",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-wangbi-wiki",
+      "focusedNum": 42,
+      "fullBookId": "laozi-wangbi-wiki",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-wangbi-wiki",
+      "focusedNum": 43,
+      "fullBookId": "laozi-wangbi-wiki",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-wangbi-wiki",
+      "focusedNum": 44,
+      "fullBookId": "laozi-wangbi-wiki",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-wangbi-wiki",
+      "focusedNum": 45,
+      "fullBookId": "laozi-wangbi-wiki",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-wangbi-wiki",
+      "focusedNum": 46,
+      "fullBookId": "laozi-wangbi-wiki",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-wangbi-wiki",
+      "focusedNum": 47,
+      "fullBookId": "laozi-wangbi-wiki",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-wangbi-wiki",
+      "focusedNum": 48,
+      "fullBookId": "laozi-wangbi-wiki",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-wangbi-wiki",
+      "focusedNum": 49,
+      "fullBookId": "laozi-wangbi-wiki",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-wangbi-wiki",
+      "focusedNum": 50,
+      "fullBookId": "laozi-wangbi-wiki",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-wangbi-wiki",
+      "focusedNum": 51,
+      "fullBookId": "laozi-wangbi-wiki",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-wangbi-wiki",
+      "focusedNum": 52,
+      "fullBookId": "laozi-wangbi-wiki",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-wangbi-wiki",
+      "focusedNum": 53,
+      "fullBookId": "laozi-wangbi-wiki",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-wangbi-wiki",
+      "focusedNum": 54,
+      "fullBookId": "laozi-wangbi-wiki",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-wangbi-wiki",
+      "focusedNum": 55,
+      "fullBookId": "laozi-wangbi-wiki",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-wangbi-wiki",
+      "focusedNum": 56,
+      "fullBookId": "laozi-wangbi-wiki",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-wangbi-wiki",
+      "focusedNum": 57,
+      "fullBookId": "laozi-wangbi-wiki",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-wangbi-wiki",
+      "focusedNum": 58,
+      "fullBookId": "laozi-wangbi-wiki",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-wangbi-wiki",
+      "focusedNum": 59,
+      "fullBookId": "laozi-wangbi-wiki",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-wangbi-wiki",
+      "focusedNum": 60,
+      "fullBookId": "laozi-wangbi-wiki",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-wangbi-wiki",
+      "focusedNum": 61,
+      "fullBookId": "laozi-wangbi-wiki",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-wangbi-wiki",
+      "focusedNum": 62,
+      "fullBookId": "laozi-wangbi-wiki",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-wangbi-wiki",
+      "focusedNum": 63,
+      "fullBookId": "laozi-wangbi-wiki",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-wangbi-wiki",
+      "focusedNum": 64,
+      "fullBookId": "laozi-wangbi-wiki",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-wangbi-wiki",
+      "focusedNum": 65,
+      "fullBookId": "laozi-wangbi-wiki",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-wangbi-wiki",
+      "focusedNum": 66,
+      "fullBookId": "laozi-wangbi-wiki",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-wangbi-wiki",
+      "focusedNum": 67,
+      "fullBookId": "laozi-wangbi-wiki",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-wangbi-wiki",
+      "focusedNum": 68,
+      "fullBookId": "laozi-wangbi-wiki",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-wangbi-wiki",
+      "focusedNum": 69,
+      "fullBookId": "laozi-wangbi-wiki",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-wangbi-wiki",
+      "focusedNum": 70,
+      "fullBookId": "laozi-wangbi-wiki",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-wangbi-wiki",
+      "focusedNum": 71,
+      "fullBookId": "laozi-wangbi-wiki",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-wangbi-wiki",
+      "focusedNum": 72,
+      "fullBookId": "laozi-wangbi-wiki",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-wangbi-wiki",
+      "focusedNum": 73,
+      "fullBookId": "laozi-wangbi-wiki",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-wangbi-wiki",
+      "focusedNum": 74,
+      "fullBookId": "laozi-wangbi-wiki",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-wangbi-wiki",
+      "focusedNum": 75,
+      "fullBookId": "laozi-wangbi-wiki",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-wangbi-wiki",
+      "focusedNum": 76,
+      "fullBookId": "laozi-wangbi-wiki",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-wangbi-wiki",
+      "focusedNum": 77,
+      "fullBookId": "laozi-wangbi-wiki",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-wangbi-wiki",
+      "focusedNum": 78,
+      "fullBookId": "laozi-wangbi-wiki",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-wangbi-wiki",
+      "focusedNum": 79,
+      "fullBookId": "laozi-wangbi-wiki",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-wangbi-wiki",
+      "focusedNum": 80,
+      "fullBookId": "laozi-wangbi-wiki",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "laozi-wangbi-wiki",
+      "focusedNum": 81,
+      "fullBookId": "laozi-wangbi-wiki",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "shengui",
+      "focusedNum": 0,
+      "fullBookId": "shengui",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "shengui",
+      "focusedNum": 1,
+      "fullBookId": "shengui",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "shengui",
+      "focusedNum": 2,
+      "fullBookId": "shengui",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "shengui",
+      "focusedNum": 3,
+      "fullBookId": "shengui",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "shengui",
+      "focusedNum": 4,
+      "fullBookId": "shengui",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "shengui",
+      "focusedNum": 5,
+      "fullBookId": "shengui",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "shengui",
+      "focusedNum": 6,
+      "fullBookId": "shengui",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "shengui",
+      "focusedNum": 7,
+      "fullBookId": "shengui",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "shengui",
+      "focusedNum": 8,
+      "fullBookId": "shengui",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "shengui",
+      "focusedNum": 9,
+      "fullBookId": "shengui",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "shengui",
+      "focusedNum": 10,
+      "fullBookId": "shengui",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "shengui",
+      "focusedNum": 11,
+      "fullBookId": "shengui",
+      "relation": "section"
+    },
+    {
+      "focusedBookId": "shengui",
+      "focusedNum": 12,
+      "fullBookId": "shengui",
+      "relation": "section"
+    }
+  ]
+}

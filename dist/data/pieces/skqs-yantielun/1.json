@@ -1,0 +1,106 @@
+{
+  "bookId": "skqs-yantielun",
+  "num": 1,
+  "title": "提要",
+  "author": "桓寬",
+  "authorId": "桓寬",
+  "dynasty": "漢",
+  "era": "漢",
+  "eraCode": "07",
+  "genre": "prose",
+  "verses": [
+    {
+      "text": "等謹案鹽鐡論十二卷漢桓寛撰寛字次公汝南人宣帝時舉為郎官至廬江太守丞昭帝始元六年詔郡國舉賢良文學之士問以民所疾苦皆請罷鹽鐡𣙜酤與御史大夫桑宏羊等建議相詰難寛集其所論為書凡六十篇篇各標目實則反覆問答諸篇皆首尾相屬後罷𣙜酤而鹽鐡則如舊故寛作是書惟以鹽鐡為名葢惜其議不盡行也書末襍論一篇述汝南朱子伯之言記賢良茂陵唐生文學魯萬生等六十餘人而最推中山劉子雍九江祝生於桑宏羊車千秋深著微詞葢其著書之大㫖所論雖食貨之事而言皆述先王稱六經故諸史皆列之儒家黄虞稷千頃堂書目改𨽻史部食貨類中循名而失其實矣明嘉靖癸丑華亭張之象為之註雖無所發明然事實亦粗具梗槩今並錄之以備考核焉乾隆四十三年六月恭校上"
+    },
+    {
+      "text": "總纂官紀昀陸錫熊孫士毅"
+    },
+    {
+      "text": "總　校　官陸　費　墀"
+    }
+  ],
+  "sections": {},
+  "annotations": [],
+  "layers": {
+    "commentary": [
+      {
+        "id": "commentary-1",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 3
+        },
+        "kind": "semantic",
+        "text": "臣",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-2",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 0,
+          "end": 6
+        },
+        "kind": "semantic",
+        "text": "臣",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-3",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 6,
+          "end": 8
+        },
+        "kind": "semantic",
+        "text": "臣",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-4",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 8,
+          "end": 11
+        },
+        "kind": "semantic",
+        "text": "臣",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-5",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 2,
+          "start": 0,
+          "end": 8
+        },
+        "kind": "semantic",
+        "text": "臣",
+        "source": "cham"
+      }
+    ]
+  },
+  "annotationLayers": [
+    {
+      "id": "default",
+      "label": "原文",
+      "shortLabel": "文",
+      "contributor": "桓寬",
+      "role": "author",
+      "nature": "annotation",
+      "displayOrder": 0,
+      "enabled": true,
+      "annotations": []
+    }
+  ]
+}

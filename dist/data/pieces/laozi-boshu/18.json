@@ -1,0 +1,255 @@
+{
+  "bookId": "laozi-boshu",
+  "num": 18,
+  "title": "第十八章（四有）",
+  "author": "老子",
+  "authorId": "Laozi",
+  "dynasty": "周",
+  "era": "周",
+  "genre": "prose",
+  "verses": [
+    {
+      "text": "故大道廢 安有仁義"
+    },
+    {
+      "text": "知慧出 安有大僞"
+    },
+    {
+      "text": "六親不和 安有孝茲"
+    },
+    {
+      "text": "邦家昏亂 安有正臣"
+    }
+  ],
+  "sections": {},
+  "annotations": [],
+  "layers": {
+    "heshanggong": [
+      {
+        "id": "heshanggong-1",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 9
+        },
+        "kind": "commentary",
+        "text": "大道之時，家有孝子，戶有忠信，仁義不見也。大道廢不用，惡逆生，乃有仁義可傳道。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-2",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 9
+        },
+        "kind": "commentary",
+        "text": "智慧之君賤德而貴言，賤質而貴文，下則應之以為大偽姦詐。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-3",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 9
+        },
+        "kind": "commentary",
+        "text": "六紀絕，親戚不合，乃有孝慈相牧養也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-4",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 9
+        },
+        "kind": "commentary",
+        "text": "政令不明，上下相怨，邪僻爭權，乃有忠臣匡正其君也。此言天下太平不知仁，人盡無欲不知廉，各自潔己不知貞。大道之世，仁義沒，孝慈滅，猶日中盛明，眾星失光。",
+        "source": "cham"
+      }
+    ],
+    "wangbi": [
+      {
+        "id": "wangbi-1",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 9
+        },
+        "kind": "commentary",
+        "text": "失無為之事，更以施慧立善道，進物也。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-2",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 9
+        },
+        "kind": "commentary",
+        "text": "行術用明，以察姦偽；趣覩形見，物知避之。故智慧出則大偽生也。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-3",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 9
+        },
+        "kind": "commentary",
+        "text": "甚美之名生於大惡，所謂美惡同門。六親，父子兄弟夫婦也。若六親自和，國家自治，則孝慈忠臣不知其所在矣。魚相忘於江湖之道，則相濡之德生也。",
+        "source": "cham"
+      }
+    ]
+  },
+  "annotationLayers": [
+    {
+      "id": "default",
+      "label": "原文",
+      "shortLabel": "文",
+      "contributor": "Laozi",
+      "role": "author",
+      "nature": "annotation",
+      "displayOrder": 0,
+      "enabled": true,
+      "annotations": []
+    },
+    {
+      "id": "heshanggong",
+      "label": "河上公註",
+      "shortLabel": "河",
+      "contributor": "C002",
+      "role": "commentator",
+      "nature": "commentary",
+      "displayOrder": 1,
+      "enabled": true,
+      "annotations": [
+        {
+          "id": "heshanggong-1",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 9
+          },
+          "kind": "commentary",
+          "text": "大道之時，家有孝子，戶有忠信，仁義不見也。大道廢不用，惡逆生，乃有仁義可傳道。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-2",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 9
+          },
+          "kind": "commentary",
+          "text": "智慧之君賤德而貴言，賤質而貴文，下則應之以為大偽姦詐。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-3",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 9
+          },
+          "kind": "commentary",
+          "text": "六紀絕，親戚不合，乃有孝慈相牧養也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-4",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 9
+          },
+          "kind": "commentary",
+          "text": "政令不明，上下相怨，邪僻爭權，乃有忠臣匡正其君也。此言天下太平不知仁，人盡無欲不知廉，各自潔己不知貞。大道之世，仁義沒，孝慈滅，猶日中盛明，眾星失光。",
+          "source": "cham"
+        }
+      ]
+    },
+    {
+      "id": "wangbi",
+      "label": "王弼註",
+      "shortLabel": "王",
+      "contributor": "C001",
+      "role": "commentator",
+      "nature": "commentary",
+      "displayOrder": 2,
+      "enabled": true,
+      "annotations": [
+        {
+          "id": "wangbi-1",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 9
+          },
+          "kind": "commentary",
+          "text": "失無為之事，更以施慧立善道，進物也。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-2",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 9
+          },
+          "kind": "commentary",
+          "text": "行術用明，以察姦偽；趣覩形見，物知避之。故智慧出則大偽生也。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-3",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 9
+          },
+          "kind": "commentary",
+          "text": "甚美之名生於大惡，所謂美惡同門。六親，父子兄弟夫婦也。若六親自和，國家自治，則孝慈忠臣不知其所在矣。魚相忘於江湖之道，則相濡之德生也。",
+          "source": "cham"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "textRef": "laozi-boshu",
+    "relation": "section"
+  }
+}

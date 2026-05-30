@@ -1,0 +1,19 @@
+{
+  "id": "A027",
+  "name": "劉禹錫",
+  "era": "唐",
+  "eraCode": "24",
+  "workCount": 3,
+  "names": [],
+  "bio": "劉禹錫（公元772—842），字夢得，唐代洛陽（今河南省洛陽市）人。貞元年間進士，因參加了王叔文的政治改革，失敗後被貶。他是中唐時著名詩人，與柳宗元、白居易齊名。他的詩通俗清新，學習民歌所創作的《竹枝詞》、《楊柳枝詞》等，新鮮活潑，非常接近口語，為唐詩中別開生面之作。",
+  "bioSource": "",
+  "ctext": 320053,
+  "wikidata": "Q706837",
+  "wikipediaZh": "https://zh.wikipedia.org/wiki/%E5%88%98%E7%A6%B9%E9%94%A1",
+  "wikipediaEn": "https://en.wikipedia.org/wiki/Liu_Yuxi",
+  "works": [
+    "primary/51",
+    "primary/52",
+    "primary-culture/19"
+  ]
+}

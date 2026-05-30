@@ -1,0 +1,192 @@
+{
+  "bookId": "heshanggong-laozi",
+  "num": 6,
+  "title": "第六章（成象）",
+  "author": "老子",
+  "authorId": "Laozi",
+  "dynasty": "周",
+  "era": "周",
+  "genre": "prose",
+  "verses": [
+    {
+      "text": "谷神不死，"
+    },
+    {
+      "text": "是謂玄牝。"
+    },
+    {
+      "text": "玄牝之門，是謂天地根。"
+    },
+    {
+      "text": "綿綿若存，"
+    },
+    {
+      "text": "用之不勤。"
+    }
+  ],
+  "sections": {},
+  "annotations": [],
+  "layers": {
+    "heshanggong": [
+      {
+        "id": "heshanggong-1",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 5
+        },
+        "kind": "commentary",
+        "text": "谷，養也。 人能養神則不死也。 神，謂五臟之神也。 肝藏魂，肺藏魄，心藏神，腎藏精，脾藏志，五藏盡傷，則五神去矣。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-2",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 0,
+          "end": 5
+        },
+        "kind": "commentary",
+        "text": "言不死之有，在於玄牝。 玄，天也，於人為鼻。牝，地也，於人為口。 天食人以五氣，從鼻入藏於心。五氣輕微，為精、神、聰、明、音聲五性。其鬼曰魂，魂者雄也，主出入於人鼻，與天通，故鼻為玄也。 地食人以五味，從口入藏於胃。五味濁辱，為形、骸、骨、肉、血、脈六情。其鬼曰魄，魄者雌也，主出入於人口，與地通，故口為牝也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-3",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 2,
+          "start": 0,
+          "end": 11
+        },
+        "kind": "commentary",
+        "text": "根，元也。 言鼻口之門，是乃通天地之元氣所從往來也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-4",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 3,
+          "start": 0,
+          "end": 5
+        },
+        "kind": "commentary",
+        "text": "鼻口呼噏喘息，當綿綿微妙，若可存，復若無有。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-5",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 4,
+          "start": 0,
+          "end": 5
+        },
+        "kind": "commentary",
+        "text": "用氣當寬舒，不當急疾懃勞也。",
+        "source": "cham"
+      }
+    ]
+  },
+  "annotationLayers": [
+    {
+      "id": "default",
+      "label": "原文",
+      "shortLabel": "文",
+      "contributor": "Laozi",
+      "role": "author",
+      "nature": "annotation",
+      "displayOrder": 0,
+      "enabled": true,
+      "annotations": []
+    },
+    {
+      "id": "heshanggong",
+      "label": "河上公註",
+      "shortLabel": "河",
+      "contributor": "C002",
+      "role": "commentator",
+      "nature": "commentary",
+      "displayOrder": 1,
+      "enabled": true,
+      "annotations": [
+        {
+          "id": "heshanggong-1",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 5
+          },
+          "kind": "commentary",
+          "text": "谷，養也。 人能養神則不死也。 神，謂五臟之神也。 肝藏魂，肺藏魄，心藏神，腎藏精，脾藏志，五藏盡傷，則五神去矣。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-2",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 1,
+            "start": 0,
+            "end": 5
+          },
+          "kind": "commentary",
+          "text": "言不死之有，在於玄牝。 玄，天也，於人為鼻。牝，地也，於人為口。 天食人以五氣，從鼻入藏於心。五氣輕微，為精、神、聰、明、音聲五性。其鬼曰魂，魂者雄也，主出入於人鼻，與天通，故鼻為玄也。 地食人以五味，從口入藏於胃。五味濁辱，為形、骸、骨、肉、血、脈六情。其鬼曰魄，魄者雌也，主出入於人口，與地通，故口為牝也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-3",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 2,
+            "start": 0,
+            "end": 11
+          },
+          "kind": "commentary",
+          "text": "根，元也。 言鼻口之門，是乃通天地之元氣所從往來也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-4",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 3,
+            "start": 0,
+            "end": 5
+          },
+          "kind": "commentary",
+          "text": "鼻口呼噏喘息，當綿綿微妙，若可存，復若無有。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-5",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 4,
+            "start": 0,
+            "end": 5
+          },
+          "kind": "commentary",
+          "text": "用氣當寬舒，不當急疾懃勞也。",
+          "source": "cham"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "textRef": "heshanggong-laozi",
+    "relation": "section"
+  }
+}

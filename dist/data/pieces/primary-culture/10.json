@@ -1,0 +1,421 @@
+{
+  "bookId": "primary-culture",
+  "num": 10,
+  "title": "閔子騫童年",
+  "author": "佚名",
+  "authorId": "A102",
+  "dynasty": "漢",
+  "era": "漢",
+  "eraCode": "07",
+  "genre": "prose",
+  "verses": [
+    {
+      "text": "閔子騫，名損，魯人也。父取後妻，生二子，騫供養父母，孝敬無怠。後母嫉之，所生親子，衣加棉絮，子騫與蘆花絮衣。其父不知，冬月，遣子御車，騫不堪甚，騫手凍，數失繮靷，父乃責之，騫終不自理。父密察之，知騫有寒色，父以手撫之，見衣甚薄，毀而觀之，始知非絮。後妻二子，純衣以綿。父乃悲歎，遂遣其妻。子騫雨淚前白父曰：「母在一子寒，母去三子單，願大人思之。」父慚而止。後母悔過，遂以三子均平，衣食如一，得成慈母。孝子聞於天下。"
+    }
+  ],
+  "sections": {
+    "analysis": "所謂「百行孝為先」，以孝立身，才能齊家、治國、平天下。本文主角閔子騫上孝父母、下愛兄弟，是傳統孝子的典範。\n\n「騫供養父母，孝敬無怠」是整個故事的主題，「孝」不僅侍養父母長輩，更要尊敬父母，尊重他們的意願和需要。文中的閔子騫不管受了多少委屈，依然愛護那不喜歡自己的繼母，並顧念同父異母的弟弟，懂得易地而處，寧願「母在一子寒」，也不願見到「母去三子單」的處境。終於他的孝行感動了父母。\n\n作為子女，得到父母寵愛，以孝順回敬雙親，固然值得欣賞；閔子騫面對委屈，深受不公平對待，心內卻沒半點怨懟，依然盡孝心，守孝道，肩負為人子和為人兄的責任，那純粹而直接的愛，更值得欣賞。無怪乎這故事在民間傳頌甚廣，深深感動了無數人的心靈。",
+    "annotations": "1.閔子騫：○粵吻；mɐn5；○普mĭn；○粵牽；hin1；○普qiān。春秋時魯國人，孔子弟子。生性孝順，以德行與顏淵並稱。閔子騫：「閔」音注如上。騫：\n2.取：○粵娶；tsœy3；○普qŭ。同「娶」。\n3.孝敬無怠：怠慢，輕慢。\n4.衣加棉絮：在衣物裏鋪上棉花。\n5.與：給予。\n6.蘆花絮：蘆花的纖維，雖有點像棉花，但遠不及棉花保暖。\n7.御：通「禦」，駕駛。\n8.車：○粵居；gœy1\n9.不堪：承受。\n10.繮：○粵薑；gœŋ1；○普jiāng。同「韁」，拴牲口的繩子。\n11.靷：○粵引；jɐn5；○普yĭn。引車前行的皮帶。\n12.自理：自己說明道理，申辯。\n13.密察：秘密觀察。\n14.毀：撕破衣服。\n15.遣其妻：遣送妻子回家，意思是休妻。遣：遣送。\n16.雨淚：○粵預；jy6；○普yù。流淚。雨：這裏作動詞，流下。\n17.單：孤單無依。"
+  },
+  "annotations": [
+    {
+      "id": "10-1",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 0,
+        "end": 3
+      },
+      "kind": "pronunciation",
+      "lang": "yue",
+      "text": "吻；mɐn5",
+      "source": "cham"
+    },
+    {
+      "id": "10-2",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 0,
+        "end": 3
+      },
+      "kind": "pronunciation",
+      "lang": "cmn",
+      "text": "mĭn",
+      "source": "cham"
+    },
+    {
+      "id": "10-3",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 0,
+        "end": 3
+      },
+      "kind": "pronunciation",
+      "lang": "yue",
+      "text": "牽；hin1",
+      "source": "cham"
+    },
+    {
+      "id": "10-4",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 0,
+        "end": 3
+      },
+      "kind": "pronunciation",
+      "lang": "cmn",
+      "text": "qiān",
+      "source": "cham"
+    },
+    {
+      "id": "10-5",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 0,
+        "end": 3
+      },
+      "kind": "semantic",
+      "text": "春秋時魯國人，孔子弟子。生性孝順，以德行與顏淵並稱。閔子騫：「閔」音注如上。騫：",
+      "source": "cham"
+    },
+    {
+      "id": "10-6",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 12,
+        "end": 13
+      },
+      "kind": "pronunciation",
+      "lang": "yue",
+      "text": "娶；tsœy3",
+      "source": "cham"
+    },
+    {
+      "id": "10-7",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 12,
+        "end": 13
+      },
+      "kind": "pronunciation",
+      "lang": "cmn",
+      "text": "qŭ",
+      "source": "cham"
+    },
+    {
+      "id": "10-8",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 12,
+        "end": 13
+      },
+      "kind": "semantic",
+      "text": "同「娶」。",
+      "source": "cham"
+    },
+    {
+      "id": "10-9",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 26,
+        "end": 30
+      },
+      "kind": "semantic",
+      "text": "怠慢，輕慢。",
+      "source": "cham"
+    },
+    {
+      "id": "10-10",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 41,
+        "end": 45
+      },
+      "kind": "semantic",
+      "text": "在衣物裏鋪上棉花。",
+      "source": "cham"
+    },
+    {
+      "id": "10-11",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 48,
+        "end": 49
+      },
+      "kind": "semantic",
+      "text": "給予。",
+      "source": "cham"
+    },
+    {
+      "id": "10-12",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 49,
+        "end": 52
+      },
+      "kind": "semantic",
+      "text": "蘆花的纖維，雖有點像棉花，但遠不及棉花保暖。",
+      "source": "cham"
+    },
+    {
+      "id": "10-13",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 64,
+        "end": 65
+      },
+      "kind": "semantic",
+      "text": "通「禦」，駕駛。",
+      "source": "cham"
+    },
+    {
+      "id": "10-14",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 65,
+        "end": 66
+      },
+      "kind": "pronunciation",
+      "lang": "yue",
+      "text": "居；gœy1",
+      "source": "cham"
+    },
+    {
+      "id": "10-15",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 68,
+        "end": 70
+      },
+      "kind": "semantic",
+      "text": "承受。",
+      "source": "cham"
+    },
+    {
+      "id": "10-16",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 78,
+        "end": 79
+      },
+      "kind": "pronunciation",
+      "lang": "yue",
+      "text": "薑；gœŋ1",
+      "source": "cham"
+    },
+    {
+      "id": "10-17",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 78,
+        "end": 79
+      },
+      "kind": "pronunciation",
+      "lang": "cmn",
+      "text": "jiāng",
+      "source": "cham"
+    },
+    {
+      "id": "10-18",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 78,
+        "end": 79
+      },
+      "kind": "semantic",
+      "text": "同「韁」，拴牲口的繩子。",
+      "source": "cham"
+    },
+    {
+      "id": "10-19",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 79,
+        "end": 80
+      },
+      "kind": "pronunciation",
+      "lang": "yue",
+      "text": "引；jɐn5",
+      "source": "cham"
+    },
+    {
+      "id": "10-20",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 79,
+        "end": 80
+      },
+      "kind": "pronunciation",
+      "lang": "cmn",
+      "text": "yĭn",
+      "source": "cham"
+    },
+    {
+      "id": "10-21",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 79,
+        "end": 80
+      },
+      "kind": "semantic",
+      "text": "引車前行的皮帶。",
+      "source": "cham"
+    },
+    {
+      "id": "10-22",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 89,
+        "end": 91
+      },
+      "kind": "semantic",
+      "text": "自己說明道理，申辯。",
+      "source": "cham"
+    },
+    {
+      "id": "10-23",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 93,
+        "end": 95
+      },
+      "kind": "semantic",
+      "text": "秘密觀察。",
+      "source": "cham"
+    },
+    {
+      "id": "10-24",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 114,
+        "end": 115
+      },
+      "kind": "semantic",
+      "text": "撕破衣服。",
+      "source": "cham"
+    },
+    {
+      "id": "10-25",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 140,
+        "end": 143
+      },
+      "kind": "semantic",
+      "text": "遣送妻子回家，意思是休妻。遣：遣送。",
+      "source": "cham"
+    },
+    {
+      "id": "10-26",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 146,
+        "end": 148
+      },
+      "kind": "pronunciation",
+      "lang": "yue",
+      "text": "預；jy6",
+      "source": "cham"
+    },
+    {
+      "id": "10-27",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 146,
+        "end": 148
+      },
+      "kind": "pronunciation",
+      "lang": "cmn",
+      "text": "yù",
+      "source": "cham"
+    },
+    {
+      "id": "10-28",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 146,
+        "end": 148
+      },
+      "kind": "semantic",
+      "text": "流淚。雨：這裏作動詞，流下。",
+      "source": "cham"
+    },
+    {
+      "id": "10-29",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 164,
+        "end": 165
+      },
+      "kind": "semantic",
+      "text": "孤單無依。",
+      "source": "cham"
+    }
+  ],
+  "structuredSections": [
+    {
+      "key": "analysis",
+      "title": "賞析",
+      "filename": "analysis.md",
+      "body": "所謂「百行孝為先」，以孝立身，才能齊家、治國、平天下。本文主角閔子騫上孝父母、下愛兄弟，是傳統孝子的典範。\n\n「騫供養父母，孝敬無怠」是整個故事的主題，「孝」不僅侍養父母長輩，更要尊敬父母，尊重他們的意願和需要。文中的閔子騫不管受了多少委屈，依然愛護那不喜歡自己的繼母，並顧念同父異母的弟弟，懂得易地而處，寧願「母在一子寒」，也不願見到「母去三子單」的處境。終於他的孝行感動了父母。\n\n作為子女，得到父母寵愛，以孝順回敬雙親，固然值得欣賞；閔子騫面對委屈，深受不公平對待，心內卻沒半點怨懟，依然盡孝心，守孝道，肩負為人子和為人兄的責任，那純粹而直接的愛，更值得欣賞。無怪乎這故事在民間傳頌甚廣，深深感動了無數人的心靈。",
+      "order": 3
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "bookId": "primary",
+  "num": 96,
+  "title": "石灰吟",
+  "author": "于謙",
+  "authorId": "A051",
+  "dynasty": "明",
+  "era": "明",
+  "eraCode": "36",
+  "genre": "poetry",
+  "verses": [
+    {
+      "text": "千錘萬擊出深山，"
+    },
+    {
+      "text": "烈火焚燒若等閑。"
+    },
+    {
+      "text": "粉骨碎身全不怕，"
+    },
+    {
+      "text": "要留清白在人間。"
+    }
+  ],
+  "sections": {
+    "analysis": "這是一首藉吟詠石灰來抒發胸懷的詩作。石灰原是來自深山，採石工人歷經千辛萬苦，才能開鑿出來。經過窯爐中熊熊烈火的焚燒，最後變成顏色潔白的粉末，以後無論被用到甚麼地方，都是以清白的面目示人。\n\n詩的前兩句描寫石灰的開採燒製過程。詩人用這個過程來比喻一個人的鍛煉和成長。「若等閑」，把石灰人格化，是詩人不畏艱險的寫照。後兩句讚頌石灰的犧牲精神，石灰供人使用的時候，必須給壓成粉末，說得形象一點，便是「粉骨碎身」了；石灰的顏色潔白，所以給使用後，就把自己潔白的顏色留在人間。詩人藉此抒發自己的心懷，希望在世間留下清白的好名聲。「粉骨碎身」和「清白」，既寫石灰又寫人，作者運用了雙關的手法，巧妙地把石灰的特點和功用跟自己的意志和品格交融在一起。\n\n全詩句句詠物，又句句詠懷，明白如話而又詩味雋永，是于謙的代表作之一。",
+    "background": "這首詩寫於永樂十二年（公元1414），于謙當時十六歲。他借石灰作比喻，說明自己忠誠為國，不怕犧牲的抱負。從于謙一生的言行來看，這首詩成了他的真實寫照。",
+    "follow_up": "1.尋找資料，認識石灰的燒製過程；結合本詩詩句，說說你的感受。\n\n2.閱讀「土木堡之變」的歷史故事，瞭解詩人的品格和情操。\n\n3.理解本詩，聆聽誦讀錄音，投入感情誦讀詩歌，並由同學互評。https://www.edb.gov.hk/attachment/tc/curriculum-development/kla/chi-edu/resources/primary/lang/jilei/096_jilei_shi(cantonese).mp3",
+    "think_questions": "1.閱讀《竹石》或其他借物言志的詩歌，與同學分享兩首詩的異同。\n\n2.如果要你選一件物品來表達自己的志向，你會選甚麼？為甚麼？\n\n3.你最崇敬哪一位歷史人物？你在他/她身上學到甚麼？",
+    "annotations": "1.石：此處指石灰石，可燒製成粉狀的生石灰或熟石灰，廣泛用於建築、\n農業和醫藥等方面。\n2.千錘萬擊：○粵槌；ceoi4；○普chuí。無數次錘打敲擊。\n3.等閑：尋常，平常。閑：通「閒」。\n4.清白：純潔，沒有污點。"
+  },
+  "annotations": [
+    {
+      "id": "96-1",
+      "range": {
+        "type": "range",
+        "scope": "title",
+        "start": 0,
+        "end": 1
+      },
+      "kind": "semantic",
+      "text": "此處指石灰石，可燒製成粉狀的生石灰或熟石灰，廣泛用於建築、\n農業和醫藥等方面。",
+      "source": "cham"
+    },
+    {
+      "id": "96-2",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 0,
+        "end": 4
+      },
+      "kind": "pronunciation",
+      "lang": "yue",
+      "text": "槌；ceoi4",
+      "source": "cham"
+    },
+    {
+      "id": "96-3",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 0,
+        "end": 4
+      },
+      "kind": "pronunciation",
+      "lang": "cmn",
+      "text": "chuí",
+      "source": "cham"
+    },
+    {
+      "id": "96-4",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 0,
+        "end": 4
+      },
+      "kind": "semantic",
+      "text": "無數次錘打敲擊。",
+      "source": "cham"
+    },
+    {
+      "id": "96-5",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 1,
+        "start": 5,
+        "end": 7
+      },
+      "kind": "semantic",
+      "text": "尋常，平常。閑：通「閒」。",
+      "source": "cham"
+    },
+    {
+      "id": "96-6",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 3,
+        "start": 2,
+        "end": 4
+      },
+      "kind": "semantic",
+      "text": "純潔，沒有污點。",
+      "source": "cham"
+    }
+  ],
+  "structuredSections": [
+    {
+      "key": "background",
+      "title": "背景資料",
+      "filename": "background.md",
+      "body": "這首詩寫於永樂十二年（公元1414），于謙當時十六歲。他借石灰作比喻，說明自己忠誠為國，不怕犧牲的抱負。從于謙一生的言行來看，這首詩成了他的真實寫照。",
+      "order": 2
+    },
+    {
+      "key": "analysis",
+      "title": "賞析",
+      "filename": "analysis.md",
+      "body": "這是一首藉吟詠石灰來抒發胸懷的詩作。石灰原是來自深山，採石工人歷經千辛萬苦，才能開鑿出來。經過窯爐中熊熊烈火的焚燒，最後變成顏色潔白的粉末，以後無論被用到甚麼地方，都是以清白的面目示人。\n\n詩的前兩句描寫石灰的開採燒製過程。詩人用這個過程來比喻一個人的鍛煉和成長。「若等閑」，把石灰人格化，是詩人不畏艱險的寫照。後兩句讚頌石灰的犧牲精神，石灰供人使用的時候，必須給壓成粉末，說得形象一點，便是「粉骨碎身」了；石灰的顏色潔白，所以給使用後，就把自己潔白的顏色留在人間。詩人藉此抒發自己的心懷，希望在世間留下清白的好名聲。「粉骨碎身」和「清白」，既寫石灰又寫人，作者運用了雙關的手法，巧妙地把石灰的特點和功用跟自己的意志和品格交融在一起。\n\n全詩句句詠物，又句句詠懷，明白如話而又詩味雋永，是于謙的代表作之一。",
+      "order": 3
+    },
+    {
+      "key": "follow_up",
+      "title": "延伸活動",
+      "filename": "follow-up.md",
+      "body": "1.尋找資料，認識石灰的燒製過程；結合本詩詩句，說說你的感受。\n\n2.閱讀「土木堡之變」的歷史故事，瞭解詩人的品格和情操。\n\n3.理解本詩，聆聽誦讀錄音，投入感情誦讀詩歌，並由同學互評。https://www.edb.gov.hk/attachment/tc/curriculum-development/kla/chi-edu/resources/primary/lang/jilei/096_jilei_shi(cantonese).mp3",
+      "order": 4
+    },
+    {
+      "key": "think_questions",
+      "title": "思考問題",
+      "filename": "think-questions.md",
+      "body": "1.閱讀《竹石》或其他借物言志的詩歌，與同學分享兩首詩的異同。\n\n2.如果要你選一件物品來表達自己的志向，你會選甚麼？為甚麼？\n\n3.你最崇敬哪一位歷史人物？你在他/她身上學到甚麼？",
+      "order": 5
+    }
+  ]
+}

@@ -1,0 +1,350 @@
+{
+  "bookId": "primary-culture",
+  "num": 2,
+  "title": "二子學弈",
+  "author": "孟子",
+  "authorId": "A166",
+  "dynasty": "戰國",
+  "era": "戰國",
+  "genre": "prose",
+  "verses": [
+    {
+      "text": "弈秋，通國之善弈者也。使弈秋誨二人弈，其一人專心致志，惟弈秋之為聽。一人雖聽之，一心以為有鴻鵠將至，思援弓繳而射之，雖與之俱學，弗若之矣。為是其智弗若與與？曰：「非然也。」"
+    }
+  ],
+  "sections": {
+    "analysis": "弈秋是著名的棋手，他教兩個弟子下棋，二人智力相若，其中一個專心聽從弈秋教導，另一個心裏總是想着外面有天鵝飛過時，如何彎弓射牠，結果不專心學習的學生一事無成。本文通過弈秋兩名學生學習下棋一事，說明求學之道在於專心致志，否則只會惘然不知所學，即使有名師指導，也是徒然的。學習態度決定成敗，比天賦資質更重要；人若願意投入全副精神於學習之中，終會學有所成。\n\n求學問之道，正如《孟子‧告子上》所指：「不專心致志，則不得也」，又如《三字經》所言：「貴以專」，王充亦在《論衡》中，記述碩儒董仲舒小時候為專心鑽研《春秋》的精妙處，終日躲在家中埋頭埋腦地沉浸於書海中，而致「三年不窺園」。儒家稱許「專心致志」的學習態度，認為是學習的必要條件。",
+    "annotations": "1.弈秋：一位名叫「秋」的棋藝高手。中國古代稱名有一種習慣，掌握某些技藝的人在名字之前往往冠以其職業名稱。\n2.通國：全國。\n3.弈：○粵亦；jik9；○普yì。下棋。\n4.誨：教導。\n5.專心致志：集中意志。\n6.惟弈秋之為聽：只聽弈秋的話。「惟……之為聽」：「只聽……」，這是古代漢語強調賓語時所用的一種句式。\n7.鴻鵠：○粵酷；huk9；○普hú。鴻鵠：俗稱天鵝。鵠的注音如上。\n8.思援：以手牽引、握持。\n9.弓繳：○粵酌；dzœk8；○普zhuó。弓箭的意思。繳：有絲線繫在杆尾的箭，射鳥用。箭杆上因有絲繩，飛出時絲繩會作圓周擺動，能纏繞飛鳥，以便捕捉。\n10.俱：共同、一起。\n11.弗若之：不如他。之：代詞，「他」的意思，指那個專心致志的人。\n12.為：因為。\n13.是：指示代詞，「這」的意思。\n14.與：○粵余；jyu4；○普yú。通「歟」，疑問語氣詞，相當於「嗎」。\n15.曰：答道。以下「非然也」三字，是作者自問自答的話。\n16.非然：不是這樣。"
+  },
+  "annotations": [
+    {
+      "id": "2-1",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 0,
+        "end": 2
+      },
+      "kind": "semantic",
+      "text": "一位名叫「秋」的棋藝高手。中國古代稱名有一種習慣，掌握某些技藝的人在名字之前往往冠以其職業名稱。",
+      "source": "cham"
+    },
+    {
+      "id": "2-2",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 3,
+        "end": 5
+      },
+      "kind": "semantic",
+      "text": "全國。",
+      "source": "cham"
+    },
+    {
+      "id": "2-3",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 7,
+        "end": 8
+      },
+      "kind": "pronunciation",
+      "lang": "yue",
+      "text": "亦；jik9",
+      "source": "cham"
+    },
+    {
+      "id": "2-4",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 7,
+        "end": 8
+      },
+      "kind": "pronunciation",
+      "lang": "cmn",
+      "text": "yì",
+      "source": "cham"
+    },
+    {
+      "id": "2-5",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 7,
+        "end": 8
+      },
+      "kind": "semantic",
+      "text": "下棋。",
+      "source": "cham"
+    },
+    {
+      "id": "2-6",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 14,
+        "end": 15
+      },
+      "kind": "semantic",
+      "text": "教導。",
+      "source": "cham"
+    },
+    {
+      "id": "2-7",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 22,
+        "end": 26
+      },
+      "kind": "semantic",
+      "text": "集中意志。",
+      "source": "cham"
+    },
+    {
+      "id": "2-8",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 27,
+        "end": 33
+      },
+      "kind": "semantic",
+      "text": "只聽弈秋的話。「惟……之為聽」：「只聽……」，這是古代漢語強調賓語時所用的一種句式。",
+      "source": "cham"
+    },
+    {
+      "id": "2-9",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 45,
+        "end": 47
+      },
+      "kind": "pronunciation",
+      "lang": "yue",
+      "text": "酷；huk9",
+      "source": "cham"
+    },
+    {
+      "id": "2-10",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 45,
+        "end": 47
+      },
+      "kind": "pronunciation",
+      "lang": "cmn",
+      "text": "hú",
+      "source": "cham"
+    },
+    {
+      "id": "2-11",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 45,
+        "end": 47
+      },
+      "kind": "semantic",
+      "text": "鴻鵠：俗稱天鵝。鵠的注音如上。",
+      "source": "cham"
+    },
+    {
+      "id": "2-12",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 50,
+        "end": 52
+      },
+      "kind": "semantic",
+      "text": "以手牽引、握持。",
+      "source": "cham"
+    },
+    {
+      "id": "2-13",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 52,
+        "end": 54
+      },
+      "kind": "pronunciation",
+      "lang": "yue",
+      "text": "酌；dzœk8",
+      "source": "cham"
+    },
+    {
+      "id": "2-14",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 52,
+        "end": 54
+      },
+      "kind": "pronunciation",
+      "lang": "cmn",
+      "text": "zhuó",
+      "source": "cham"
+    },
+    {
+      "id": "2-15",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 52,
+        "end": 54
+      },
+      "kind": "semantic",
+      "text": "弓箭的意思。繳：有絲線繫在杆尾的箭，射鳥用。箭杆上因有絲繩，飛出時絲繩會作圓周擺動，能纏繞飛鳥，以便捕捉。",
+      "source": "cham"
+    },
+    {
+      "id": "2-16",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 61,
+        "end": 62
+      },
+      "kind": "semantic",
+      "text": "共同、一起。",
+      "source": "cham"
+    },
+    {
+      "id": "2-17",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 64,
+        "end": 67
+      },
+      "kind": "semantic",
+      "text": "不如他。之：代詞，「他」的意思，指那個專心致志的人。",
+      "source": "cham"
+    },
+    {
+      "id": "2-18",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 69,
+        "end": 70
+      },
+      "kind": "semantic",
+      "text": "因為。",
+      "source": "cham"
+    },
+    {
+      "id": "2-19",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 70,
+        "end": 71
+      },
+      "kind": "semantic",
+      "text": "指示代詞，「這」的意思。",
+      "source": "cham"
+    },
+    {
+      "id": "2-20",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 76,
+        "end": 77
+      },
+      "kind": "pronunciation",
+      "lang": "yue",
+      "text": "余；jyu4",
+      "source": "cham"
+    },
+    {
+      "id": "2-21",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 76,
+        "end": 77
+      },
+      "kind": "pronunciation",
+      "lang": "cmn",
+      "text": "yú",
+      "source": "cham"
+    },
+    {
+      "id": "2-22",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 76,
+        "end": 77
+      },
+      "kind": "semantic",
+      "text": "通「歟」，疑問語氣詞，相當於「嗎」。",
+      "source": "cham"
+    },
+    {
+      "id": "2-23",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 78,
+        "end": 79
+      },
+      "kind": "semantic",
+      "text": "答道。以下「非然也」三字，是作者自問自答的話。",
+      "source": "cham"
+    },
+    {
+      "id": "2-24",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 81,
+        "end": 83
+      },
+      "kind": "semantic",
+      "text": "不是這樣。",
+      "source": "cham"
+    }
+  ],
+  "structuredSections": [
+    {
+      "key": "analysis",
+      "title": "賞析",
+      "filename": "analysis.md",
+      "body": "弈秋是著名的棋手，他教兩個弟子下棋，二人智力相若，其中一個專心聽從弈秋教導，另一個心裏總是想着外面有天鵝飛過時，如何彎弓射牠，結果不專心學習的學生一事無成。本文通過弈秋兩名學生學習下棋一事，說明求學之道在於專心致志，否則只會惘然不知所學，即使有名師指導，也是徒然的。學習態度決定成敗，比天賦資質更重要；人若願意投入全副精神於學習之中，終會學有所成。\n\n求學問之道，正如《孟子‧告子上》所指：「不專心致志，則不得也」，又如《三字經》所言：「貴以專」，王充亦在《論衡》中，記述碩儒董仲舒小時候為專心鑽研《春秋》的精妙處，終日躲在家中埋頭埋腦地沉浸於書海中，而致「三年不窺園」。儒家稱許「專心致志」的學習態度，認為是學習的必要條件。",
+      "order": 3
+    }
+  ]
+}

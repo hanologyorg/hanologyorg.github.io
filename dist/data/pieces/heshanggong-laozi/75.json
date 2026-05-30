@@ -1,0 +1,192 @@
+{
+  "bookId": "heshanggong-laozi",
+  "num": 75,
+  "title": "第七十五章（貪損）",
+  "author": "老子",
+  "authorId": "Laozi",
+  "dynasty": "周",
+  "era": "周",
+  "genre": "prose",
+  "verses": [
+    {
+      "text": "民之饑，以其上食稅之多，是以飢。"
+    },
+    {
+      "text": "民之難治，以其上之有為，是以難治。"
+    },
+    {
+      "text": "民之輕死，以其上求生之厚，"
+    },
+    {
+      "text": "是以輕死。"
+    },
+    {
+      "text": "夫為無以生為者，是賢於貴生。"
+    }
+  ],
+  "sections": {},
+  "annotations": [],
+  "layers": {
+    "heshanggong": [
+      {
+        "id": "heshanggong-1",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 16
+        },
+        "kind": "commentary",
+        "text": "人民所以饑寒者，以其君上稅食下太多，民皆化上為貪，叛道違德，故饑。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-2",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 0,
+          "end": 17
+        },
+        "kind": "commentary",
+        "text": "民之不可治者，以其君上多欲，好有為也。是以其民化上有為，情偽難治。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-3",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 2,
+          "start": 0,
+          "end": 13
+        },
+        "kind": "commentary",
+        "text": "人民所以侵犯死者，以其求生活之道太厚，貪利以自危。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-4",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 3,
+          "start": 0,
+          "end": 5
+        },
+        "kind": "commentary",
+        "text": "以求生太厚之故，輕入死地也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-5",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 4,
+          "start": 0,
+          "end": 14
+        },
+        "kind": "commentary",
+        "text": "夫唯獨無以生為務者，爵祿不干於意，財利不入於身，天子不得臣，諸侯不得使，則賢於貴生也。",
+        "source": "cham"
+      }
+    ]
+  },
+  "annotationLayers": [
+    {
+      "id": "default",
+      "label": "原文",
+      "shortLabel": "文",
+      "contributor": "Laozi",
+      "role": "author",
+      "nature": "annotation",
+      "displayOrder": 0,
+      "enabled": true,
+      "annotations": []
+    },
+    {
+      "id": "heshanggong",
+      "label": "河上公註",
+      "shortLabel": "河",
+      "contributor": "C002",
+      "role": "commentator",
+      "nature": "commentary",
+      "displayOrder": 1,
+      "enabled": true,
+      "annotations": [
+        {
+          "id": "heshanggong-1",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 16
+          },
+          "kind": "commentary",
+          "text": "人民所以饑寒者，以其君上稅食下太多，民皆化上為貪，叛道違德，故饑。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-2",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 1,
+            "start": 0,
+            "end": 17
+          },
+          "kind": "commentary",
+          "text": "民之不可治者，以其君上多欲，好有為也。是以其民化上有為，情偽難治。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-3",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 2,
+            "start": 0,
+            "end": 13
+          },
+          "kind": "commentary",
+          "text": "人民所以侵犯死者，以其求生活之道太厚，貪利以自危。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-4",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 3,
+            "start": 0,
+            "end": 5
+          },
+          "kind": "commentary",
+          "text": "以求生太厚之故，輕入死地也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-5",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 4,
+            "start": 0,
+            "end": 14
+          },
+          "kind": "commentary",
+          "text": "夫唯獨無以生為務者，爵祿不干於意，財利不入於身，天子不得臣，諸侯不得使，則賢於貴生也。",
+          "source": "cham"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "textRef": "heshanggong-laozi",
+    "relation": "section"
+  }
+}

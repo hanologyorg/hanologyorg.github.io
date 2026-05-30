@@ -1,0 +1,164 @@
+{
+  "bookId": "primary",
+  "num": 47,
+  "title": "滁州西澗",
+  "author": "韋應物",
+  "authorId": "A023",
+  "dynasty": "唐",
+  "era": "唐",
+  "eraCode": "24",
+  "genre": "poetry",
+  "verses": [
+    {
+      "text": "獨憐幽草澗邊生，上有黃鸝深樹鳴。"
+    },
+    {
+      "text": "春潮帶雨晚來急，野渡無人舟自橫。"
+    }
+  ],
+  "sections": {
+    "analysis": "這首詩詠寫西澗在春天傍晚時雨中的景致，從中透露出詩人閒適自得的心情。\n\n春天的時候，詩人來到西澗邊，一眼望去，那些生長在山澗兩邊的綠草如茵，特別惹人喜愛。側耳傾聽，從茂林之中傳來黃鸝的歌聲，鶯聲婉轉，悅耳動聽。黃昏時分，澗水因剛下過一場春雨而漲得更滿，流得更急，繫在渡口的小舟，隨風擺動，忽橫忽直，在水中蕩漾……\n\n全詩最明顯的藝術特點是能從動中見靜。全詩四句，每句分寫一物——「草」、「鳥」、「雨」、「船」，而句句均寫動景：野草在「澗邊生」，是成長狀態；黃鸝在「深樹鳴」是放聲歌唱；春雨「晚來急」，這是風雨飄灑的樣子；渡口「舟自橫」，這是小船在隨風移動。可是這些動景所構成的卻是一片「靜」的意境，這正好反映出作者恬靜閒適的心境。\n\n畫面上一切，都使人感到大自然在春天裏充滿了生命的活力。詩人把美麗的景致發掘出來之前，沒有人去注意它，所以詩一開始用「獨憐」二字。不過詩人不再作更多的抒情，他只是描繪，而最後一句的「自」字尤為點睛之筆。詩人所「憐」的正是自生的幽草，自鳴的黃鸝，自來的春雨，自橫的小舟，這些都是超越人為力量的自然美。沒有恬靜閒適的心境，又怎會留意到這些「無人」注意的景物。詩人通過他描繪的畫面，把他嚮往自然的思想感情反映得淋漓盡致。\n\n本詩語言平易、明快，描寫景物自然之美，形象鮮明，又能表現詩人超逸脫俗的情趣，詩味雋永，是韋應物的山水詩代表作之一。",
+    "background": "這首詩是作者在滁州刺史任上所寫。滁州在今安徽省滁縣。西澗，俗名上馬河，在滁縣城西。",
+    "follow_up": "1. 聆聽誦讀錄音，投入感情朗讀詩歌，並嘗試畫圖畫一幅。 https://edb.gov.hk/attachment/tc/curriculum-development/kla/chi-edu/resources/primary/lang/jilei/047_jilei_shi(cantonese).mp3\n\n2. 網上小遊戲：《古文知多少‧滁州西澗》 https://game.hkedcity.net/chigame/index.php?game_id=5d3fa0584d57677b048ee481&type=ccancient&level=S&scheme=Phase3\n\n3. 大自然是多麼的可愛和美妙。請以「保護或珍惜大自然」為主題，設計標語。",
+    "think_questions": "1. 如果身處詩歌所寫的環境裏，你最想做甚麼？先看看小草，還是鳥兒？為甚麼？\n\n2. 想像你現坐在校園或公園一角，嘗試描述四周的環境，包括看到的和聽到的。\n\n3. 保護環境，人人有責。你有甚麼建議和行動？",
+    "annotations": "1.獨憐：特別憐愛。\n2.黃鸝：○粵籬；lei4；○普lí。黃鶯。\n鸝：。\n3.深樹：樹叢深處。將「樹深」二字倒置是照應上句「澗邊」的平仄互換。\n凡詩的奇句與偶句第二、第四及第六字平仄相反，以取節奏的變化可供\n琅琅上口。\n4.春潮：二三月間河水上漲，稱為春潮。\n5.野渡：無人管理的渡口。\n6.橫：用作動詞，意思是使物體橫向擺放。"
+  },
+  "annotations": [
+    {
+      "id": "47-1",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 0,
+        "end": 2
+      },
+      "kind": "semantic",
+      "text": "特別憐愛。",
+      "source": "cham"
+    },
+    {
+      "id": "47-2",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 10,
+        "end": 12
+      },
+      "kind": "pronunciation",
+      "lang": "yue",
+      "text": "籬；lei4",
+      "source": "cham"
+    },
+    {
+      "id": "47-3",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 10,
+        "end": 12
+      },
+      "kind": "pronunciation",
+      "lang": "cmn",
+      "text": "lí",
+      "source": "cham"
+    },
+    {
+      "id": "47-4",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 10,
+        "end": 12
+      },
+      "kind": "semantic",
+      "text": "黃鶯。\n鸝：。",
+      "source": "cham"
+    },
+    {
+      "id": "47-5",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 12,
+        "end": 14
+      },
+      "kind": "semantic",
+      "text": "樹叢深處。將「樹深」二字倒置是照應上句「澗邊」的平仄互換。\n凡詩的奇句與偶句第二、第四及第六字平仄相反，以取節奏的變化可供\n琅琅上口。",
+      "source": "cham"
+    },
+    {
+      "id": "47-6",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 1,
+        "start": 0,
+        "end": 2
+      },
+      "kind": "semantic",
+      "text": "二三月間河水上漲，稱為春潮。",
+      "source": "cham"
+    },
+    {
+      "id": "47-7",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 1,
+        "start": 8,
+        "end": 10
+      },
+      "kind": "semantic",
+      "text": "無人管理的渡口。",
+      "source": "cham"
+    },
+    {
+      "id": "47-8",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 1,
+        "start": 14,
+        "end": 15
+      },
+      "kind": "semantic",
+      "text": "用作動詞，意思是使物體橫向擺放。",
+      "source": "cham"
+    }
+  ],
+  "structuredSections": [
+    {
+      "key": "background",
+      "title": "背景資料",
+      "filename": "background.md",
+      "body": "這首詩是作者在滁州刺史任上所寫。滁州在今安徽省滁縣。西澗，俗名上馬河，在滁縣城西。",
+      "order": 2
+    },
+    {
+      "key": "analysis",
+      "title": "賞析",
+      "filename": "analysis.md",
+      "body": "這首詩詠寫西澗在春天傍晚時雨中的景致，從中透露出詩人閒適自得的心情。\n\n春天的時候，詩人來到西澗邊，一眼望去，那些生長在山澗兩邊的綠草如茵，特別惹人喜愛。側耳傾聽，從茂林之中傳來黃鸝的歌聲，鶯聲婉轉，悅耳動聽。黃昏時分，澗水因剛下過一場春雨而漲得更滿，流得更急，繫在渡口的小舟，隨風擺動，忽橫忽直，在水中蕩漾……\n\n全詩最明顯的藝術特點是能從動中見靜。全詩四句，每句分寫一物——「草」、「鳥」、「雨」、「船」，而句句均寫動景：野草在「澗邊生」，是成長狀態；黃鸝在「深樹鳴」是放聲歌唱；春雨「晚來急」，這是風雨飄灑的樣子；渡口「舟自橫」，這是小船在隨風移動。可是這些動景所構成的卻是一片「靜」的意境，這正好反映出作者恬靜閒適的心境。\n\n畫面上一切，都使人感到大自然在春天裏充滿了生命的活力。詩人把美麗的景致發掘出來之前，沒有人去注意它，所以詩一開始用「獨憐」二字。不過詩人不再作更多的抒情，他只是描繪，而最後一句的「自」字尤為點睛之筆。詩人所「憐」的正是自生的幽草，自鳴的黃鸝，自來的春雨，自橫的小舟，這些都是超越人為力量的自然美。沒有恬靜閒適的心境，又怎會留意到這些「無人」注意的景物。詩人通過他描繪的畫面，把他嚮往自然的思想感情反映得淋漓盡致。\n\n本詩語言平易、明快，描寫景物自然之美，形象鮮明，又能表現詩人超逸脫俗的情趣，詩味雋永，是韋應物的山水詩代表作之一。",
+      "order": 3
+    },
+    {
+      "key": "follow_up",
+      "title": "延伸活動",
+      "filename": "follow-up.md",
+      "body": "1. 聆聽誦讀錄音，投入感情朗讀詩歌，並嘗試畫圖畫一幅。 https://edb.gov.hk/attachment/tc/curriculum-development/kla/chi-edu/resources/primary/lang/jilei/047_jilei_shi(cantonese).mp3\n\n2. 網上小遊戲：《古文知多少‧滁州西澗》 https://game.hkedcity.net/chigame/index.php?game_id=5d3fa0584d57677b048ee481&type=ccancient&level=S&scheme=Phase3\n\n3. 大自然是多麼的可愛和美妙。請以「保護或珍惜大自然」為主題，設計標語。",
+      "order": 4
+    },
+    {
+      "key": "think_questions",
+      "title": "思考問題",
+      "filename": "think-questions.md",
+      "body": "1. 如果身處詩歌所寫的環境裏，你最想做甚麼？先看看小草，還是鳥兒？為甚麼？\n\n2. 想像你現坐在校園或公園一角，嘗試描述四周的環境，包括看到的和聽到的。\n\n3. 保護環境，人人有責。你有甚麼建議和行動？",
+      "order": 5
+    }
+  ]
+}

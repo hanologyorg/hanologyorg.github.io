@@ -1,0 +1,143 @@
+{
+  "bookId": "primary",
+  "num": 49,
+  "title": "小松",
+  "author": "杜荀鶴",
+  "authorId": "A025",
+  "dynasty": "唐",
+  "era": "唐",
+  "eraCode": "24",
+  "genre": "poetry",
+  "verses": [
+    {
+      "text": "小松初數尺，未有直生枝。"
+    },
+    {
+      "text": "閑即傍邊立，看多長卻遲。"
+    }
+  ],
+  "sections": {
+    "analysis": "這首詠物詩主要描寫小松的生長狀況。小松最初生長的時候，只有幾尺的高度，還沒有長出枝條。詩人閒來喜歡在旁仔細的觀察它。看得多了，心裏老覺得它長得過於緩慢。其實小松一直在努力生長，只是作者的期待過於急切，常常察看，反而產生錯覺，以為小松生長得太緩慢了。\n\n詩以「小松」為題，立意十分獨特。歷來吟詠松樹的詩歌，多着重寫它耐寒的精神和氣節。本詩獨出心裁，寫小松還沒有成形，詩人就盼它快快長高，於是時常去觀察它，無奈小松還是老樣子。其實這是常見的一種心理現象，也寫出了作者在特定情況下的真實感受，包含了對小松成長的期待。\n\n全詩以一種平淡的語言平實道來，簡括爽利，卻把一種人們常有的心理細緻地描繪出來。詩人寫小松生長的「慢」，其實也是從另一個角度來寫松樹根基穩固、堅毅挺拔的精神。",
+    "preparation": "1. 聆聽誦讀錄音，朗讀本詩。 https://www.edb.gov.hk/attachment/tc/curriculum-development/kla/chi-edu/resources/primary/lang/jilei/049_jilei_shi(cantonese).mp3\n\n2. 試種植綠豆苗，細心觀察它的生長過程，可寫簡單觀察日記，或拍照片作記錄。",
+    "think_questions": "1. 作者有空便細細觀看小松，總覺得它沒有長高。這與父母養育子女，有沒有相似的地方？\n\n2. 作為子女，你要怎樣做才令身體健康成長，以報答父母養育之恩呢？\n\n3. 跟組內同學分享你栽種植物的經驗、心得和啟示。",
+    "annotations": "1.初：剛開始，最初。\n2.直生枝：伸出來的枝條。\n3.閑：通「閒」，表示有空。\n4.傍：一作「旁」。依傍，謂站立一旁。\n5.長：○粵掌；zoeng2；○普zhɑ̌nɡ。生長，。"
+  },
+  "annotations": [
+    {
+      "id": "49-1",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 2,
+        "end": 3
+      },
+      "kind": "semantic",
+      "text": "剛開始，最初。",
+      "source": "cham"
+    },
+    {
+      "id": "49-2",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 8,
+        "end": 11
+      },
+      "kind": "semantic",
+      "text": "伸出來的枝條。",
+      "source": "cham"
+    },
+    {
+      "id": "49-3",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 1,
+        "start": 0,
+        "end": 1
+      },
+      "kind": "semantic",
+      "text": "通「閒」，表示有空。",
+      "source": "cham"
+    },
+    {
+      "id": "49-4",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 1,
+        "start": 2,
+        "end": 3
+      },
+      "kind": "semantic",
+      "text": "一作「旁」。依傍，謂站立一旁。",
+      "source": "cham"
+    },
+    {
+      "id": "49-5",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 1,
+        "start": 8,
+        "end": 9
+      },
+      "kind": "pronunciation",
+      "lang": "yue",
+      "text": "掌；zoeng2",
+      "source": "cham"
+    },
+    {
+      "id": "49-6",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 1,
+        "start": 8,
+        "end": 9
+      },
+      "kind": "pronunciation",
+      "lang": "cmn",
+      "text": "zhɑ̌nɡ",
+      "source": "cham"
+    },
+    {
+      "id": "49-7",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 1,
+        "start": 8,
+        "end": 9
+      },
+      "kind": "semantic",
+      "text": "生長，。",
+      "source": "cham"
+    }
+  ],
+  "structuredSections": [
+    {
+      "key": "analysis",
+      "title": "賞析",
+      "filename": "analysis.md",
+      "body": "這首詠物詩主要描寫小松的生長狀況。小松最初生長的時候，只有幾尺的高度，還沒有長出枝條。詩人閒來喜歡在旁仔細的觀察它。看得多了，心裏老覺得它長得過於緩慢。其實小松一直在努力生長，只是作者的期待過於急切，常常察看，反而產生錯覺，以為小松生長得太緩慢了。\n\n詩以「小松」為題，立意十分獨特。歷來吟詠松樹的詩歌，多着重寫它耐寒的精神和氣節。本詩獨出心裁，寫小松還沒有成形，詩人就盼它快快長高，於是時常去觀察它，無奈小松還是老樣子。其實這是常見的一種心理現象，也寫出了作者在特定情況下的真實感受，包含了對小松成長的期待。\n\n全詩以一種平淡的語言平實道來，簡括爽利，卻把一種人們常有的心理細緻地描繪出來。詩人寫小松生長的「慢」，其實也是從另一個角度來寫松樹根基穩固、堅毅挺拔的精神。",
+      "order": 3
+    },
+    {
+      "key": "think_questions",
+      "title": "思考問題",
+      "filename": "think-questions.md",
+      "body": "1. 作者有空便細細觀看小松，總覺得它沒有長高。這與父母養育子女，有沒有相似的地方？\n\n2. 作為子女，你要怎樣做才令身體健康成長，以報答父母養育之恩呢？\n\n3. 跟組內同學分享你栽種植物的經驗、心得和啟示。",
+      "order": 5
+    },
+    {
+      "key": "preparation",
+      "title": "教學準備",
+      "filename": "preparation.md",
+      "body": "1. 聆聽誦讀錄音，朗讀本詩。 https://www.edb.gov.hk/attachment/tc/curriculum-development/kla/chi-edu/resources/primary/lang/jilei/049_jilei_shi(cantonese).mp3\n\n2. 試種植綠豆苗，細心觀察它的生長過程，可寫簡單觀察日記，或拍照片作記錄。",
+      "order": 6
+    }
+  ]
+}

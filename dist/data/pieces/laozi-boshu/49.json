@@ -1,0 +1,515 @@
+{
+  "bookId": "laozi-boshu",
+  "num": 49,
+  "title": "第四十九章（德善）",
+  "author": "老子",
+  "authorId": "Laozi",
+  "dynasty": "周",
+  "era": "周",
+  "genre": "prose",
+  "verses": [
+    {
+      "text": "聖人恆无心 以百姓之心為心"
+    },
+    {
+      "text": "善者善之 不善者亦善之 德善也"
+    },
+    {
+      "text": "信者信之 不信者亦信之 德信也"
+    },
+    {
+      "text": "聖人之在天下 歙歙焉 為天下渾心 百姓皆屬耳目焉 聖人皆孩之"
+    }
+  ],
+  "sections": {},
+  "annotations": [],
+  "layers": {
+    "heshanggong": [
+      {
+        "id": "heshanggong-1",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 13
+        },
+        "kind": "commentary",
+        "text": "聖人重改更，貴因循，若自無心。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-2",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 13
+        },
+        "kind": "commentary",
+        "text": "百姓心之所便，聖人因而從之。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-3",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 13
+        },
+        "kind": "commentary",
+        "text": "百姓為善，聖人因而善之。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-4",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 13
+        },
+        "kind": "commentary",
+        "text": "百姓雖有不善者，聖人化之使善也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-5",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 12,
+          "end": 13
+        },
+        "kind": "commentary",
+        "text": "百姓德化，聖人為善。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-6",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 0,
+          "end": 15
+        },
+        "kind": "commentary",
+        "text": "百姓為信，聖人因而信之。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-7",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 0,
+          "end": 15
+        },
+        "kind": "commentary",
+        "text": "百姓為不信，聖人化之為信者也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-8",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 2,
+          "start": 12,
+          "end": 13
+        },
+        "kind": "commentary",
+        "text": "百姓德化，聖人以為信。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-9",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 2,
+          "start": 0,
+          "end": 15
+        },
+        "kind": "commentary",
+        "text": "聖人在天下怵怵常恐怖，富貴不敢驕奢。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-10",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 2,
+          "start": 0,
+          "end": 15
+        },
+        "kind": "commentary",
+        "text": "言聖人為天下百姓混濁其心，若愚闇不通也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-11",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 2,
+          "start": 0,
+          "end": 15
+        },
+        "kind": "commentary",
+        "text": "注，用也。百姓皆用其耳目為聖人視聽也。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-12",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 3,
+          "start": 25,
+          "end": 26
+        },
+        "kind": "commentary",
+        "text": "聖人愛念百姓如嬰孩赤子，長養之而不責望其報。",
+        "source": "cham"
+      }
+    ],
+    "wangbi": [
+      {
+        "id": "wangbi-1",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 13
+        },
+        "kind": "commentary",
+        "text": "動常因也。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-2",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 13
+        },
+        "kind": "commentary",
+        "text": "各因其用則善不失也。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-3",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 12,
+          "end": 13
+        },
+        "kind": "commentary",
+        "text": "無棄人也。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-4",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 0,
+          "end": 15
+        },
+        "kind": "commentary",
+        "text": "各用聰明。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-5",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 3,
+          "start": 0,
+          "end": 30
+        },
+        "kind": "commentary",
+        "text": "皆使和而無欲，如嬰兒也。夫天地設位，聖人成能，人謀鬼謀，百姓與能者，能者與之，資者取之，能大則大，資貴則貴，物有其宗，事有其主，如此則可冕旒充目而不懼於欺，黈纊塞耳而無戚於慢，又何為勞一身之聰明，以察百姓之情哉。夫以明察物，物亦競以其明應之，以不信察物，物亦競以其不信應之。夫天下之 心，不必同其所應，不敢異則莫肯用其情矣，甚矣害之大也，莫大於用其明矣。夫在智則人與之訟，在力則人與之爭。智不出於人而立乎訟地則窮矣；力不出於人而立乎爭地則危矣。未有能使人無用其智力乎己者也，如此則己以一敵人，而人以千萬敵己也。若乃多其法網，煩其刑罰，塞其徑路，攻其幽宅，則萬物失其自然，百姓喪其手足，鳥亂於上，魚亂於下。是以聖人之於天下歙歙焉，心無所主也，為天下渾心焉，意無所適莫也。無所察焉，百姓何避，無所求焉，百姓何應， 無避無應，則莫不用其情矣。人無為舍其所能，而為其所不能，舍其所長，而為其所短，如此，則言者言其所知，行者行其所能，百姓各皆注其耳目焉，吾皆孩之而已。",
+        "source": "cham"
+      }
+    ]
+  },
+  "annotationLayers": [
+    {
+      "id": "default",
+      "label": "原文",
+      "shortLabel": "文",
+      "contributor": "Laozi",
+      "role": "author",
+      "nature": "annotation",
+      "displayOrder": 0,
+      "enabled": true,
+      "annotations": []
+    },
+    {
+      "id": "heshanggong",
+      "label": "河上公註",
+      "shortLabel": "河",
+      "contributor": "C002",
+      "role": "commentator",
+      "nature": "commentary",
+      "displayOrder": 1,
+      "enabled": true,
+      "annotations": [
+        {
+          "id": "heshanggong-1",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 13
+          },
+          "kind": "commentary",
+          "text": "聖人重改更，貴因循，若自無心。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-2",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 13
+          },
+          "kind": "commentary",
+          "text": "百姓心之所便，聖人因而從之。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-3",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 13
+          },
+          "kind": "commentary",
+          "text": "百姓為善，聖人因而善之。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-4",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 13
+          },
+          "kind": "commentary",
+          "text": "百姓雖有不善者，聖人化之使善也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-5",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 1,
+            "start": 12,
+            "end": 13
+          },
+          "kind": "commentary",
+          "text": "百姓德化，聖人為善。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-6",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 1,
+            "start": 0,
+            "end": 15
+          },
+          "kind": "commentary",
+          "text": "百姓為信，聖人因而信之。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-7",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 1,
+            "start": 0,
+            "end": 15
+          },
+          "kind": "commentary",
+          "text": "百姓為不信，聖人化之為信者也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-8",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 2,
+            "start": 12,
+            "end": 13
+          },
+          "kind": "commentary",
+          "text": "百姓德化，聖人以為信。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-9",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 2,
+            "start": 0,
+            "end": 15
+          },
+          "kind": "commentary",
+          "text": "聖人在天下怵怵常恐怖，富貴不敢驕奢。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-10",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 2,
+            "start": 0,
+            "end": 15
+          },
+          "kind": "commentary",
+          "text": "言聖人為天下百姓混濁其心，若愚闇不通也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-11",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 2,
+            "start": 0,
+            "end": 15
+          },
+          "kind": "commentary",
+          "text": "注，用也。百姓皆用其耳目為聖人視聽也。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-12",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 3,
+            "start": 25,
+            "end": 26
+          },
+          "kind": "commentary",
+          "text": "聖人愛念百姓如嬰孩赤子，長養之而不責望其報。",
+          "source": "cham"
+        }
+      ]
+    },
+    {
+      "id": "wangbi",
+      "label": "王弼註",
+      "shortLabel": "王",
+      "contributor": "C001",
+      "role": "commentator",
+      "nature": "commentary",
+      "displayOrder": 2,
+      "enabled": true,
+      "annotations": [
+        {
+          "id": "wangbi-1",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 13
+          },
+          "kind": "commentary",
+          "text": "動常因也。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-2",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 13
+          },
+          "kind": "commentary",
+          "text": "各因其用則善不失也。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-3",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 1,
+            "start": 12,
+            "end": 13
+          },
+          "kind": "commentary",
+          "text": "無棄人也。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-4",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 1,
+            "start": 0,
+            "end": 15
+          },
+          "kind": "commentary",
+          "text": "各用聰明。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-5",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 3,
+            "start": 0,
+            "end": 30
+          },
+          "kind": "commentary",
+          "text": "皆使和而無欲，如嬰兒也。夫天地設位，聖人成能，人謀鬼謀，百姓與能者，能者與之，資者取之，能大則大，資貴則貴，物有其宗，事有其主，如此則可冕旒充目而不懼於欺，黈纊塞耳而無戚於慢，又何為勞一身之聰明，以察百姓之情哉。夫以明察物，物亦競以其明應之，以不信察物，物亦競以其不信應之。夫天下之 心，不必同其所應，不敢異則莫肯用其情矣，甚矣害之大也，莫大於用其明矣。夫在智則人與之訟，在力則人與之爭。智不出於人而立乎訟地則窮矣；力不出於人而立乎爭地則危矣。未有能使人無用其智力乎己者也，如此則己以一敵人，而人以千萬敵己也。若乃多其法網，煩其刑罰，塞其徑路，攻其幽宅，則萬物失其自然，百姓喪其手足，鳥亂於上，魚亂於下。是以聖人之於天下歙歙焉，心無所主也，為天下渾心焉，意無所適莫也。無所察焉，百姓何避，無所求焉，百姓何應， 無避無應，則莫不用其情矣。人無為舍其所能，而為其所不能，舍其所長，而為其所短，如此，則言者言其所知，行者行其所能，百姓各皆注其耳目焉，吾皆孩之而已。",
+          "source": "cham"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "textRef": "laozi-boshu",
+    "relation": "section"
+  }
+}

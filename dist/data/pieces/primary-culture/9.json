@@ -1,0 +1,244 @@
+{
+  "bookId": "primary-culture",
+  "num": 9,
+  "title": "在上位不陵下",
+  "author": "禮記",
+  "authorId": "A169",
+  "dynasty": "周",
+  "era": "周",
+  "genre": "prose",
+  "verses": [
+    {
+      "text": "在上位，不陵下；在下位，不援上，正己而不求於人，則無怨；上不怨天，下不尤人，故君子居易以俟命，小人行險以徼幸。子曰：「射有似乎君子，失諸正鵠，反求諸其身。」"
+    }
+  ],
+  "sections": {
+    "analysis": "《中庸》相傳是戰國時子思所作，是儒家人生哲學的名著，傳統讀書人的必讀書。\n\n孔子論君子之行，曾提出「君子求諸己，小人求諸人」。本文進一步指出君子應堅持「正己而不求於人」、「反求其身」的做人宗旨：君子居於上位，不會欺壓在下位的，不恃勢凌人；居於下位的，不會巴結在上位的，也不攀附權貴，謀取己益；凡事反求諸己，不卑不亢，做到上不怨天命，下不怪罪別人，因此，君子可以心胸坦蕩，做合宜的事，一旦出現問題，會檢討失敗原因，反省自身；相反，小人心懷叵測，不願腳踏實地提升自己。《中庸》提出做人做事也當如射箭，君子沒有射中靶子，會自我檢討，而不會歸咎靶子放得不端正。\n\n這段文字雖然只有短短幾句，但已道出做人處世的根本。不媚上，不欺下，不怨天，不尤人，不求於人，反求於己，都已成為傳統的做人準則，激勵一代又一代人民自強自立。",
+    "annotations": "1.陵：同「凌」。凌虐，欺壓。\n2.援：攀附，巴結。\n3.正己：使自己行為端正。\n4.尤：責怪，歸咎。\n5.居易：居心平正坦蕩。一說安心處於自己的位置上。本文「易」與「險」相對，易謂心安理得，險謂立心不良。\n6.俟命：○粵自；dzi6；○普sì。等待天命的安排。俟：等待。\n7.行險：行事立心不良。\n8.徼幸：○粵囂；hiu1；○普jiăo。即僥倖，祈求意外地獲得成功或免除不幸。\n9.失諸正鵠：○粵谷；guk7；○普gŭ。沒有射中靶子。失：這裏指沒有射中。鵠：箭靶子。\n10.反求諸其身：反過來從自己身上尋找原因。求：尋找。其：自己。"
+  },
+  "annotations": [
+    {
+      "id": "9-1",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 5,
+        "end": 6
+      },
+      "kind": "semantic",
+      "text": "同「凌」。凌虐，欺壓。",
+      "source": "cham"
+    },
+    {
+      "id": "9-2",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 13,
+        "end": 14
+      },
+      "kind": "semantic",
+      "text": "攀附，巴結。",
+      "source": "cham"
+    },
+    {
+      "id": "9-3",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 16,
+        "end": 18
+      },
+      "kind": "semantic",
+      "text": "使自己行為端正。",
+      "source": "cham"
+    },
+    {
+      "id": "9-4",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 35,
+        "end": 36
+      },
+      "kind": "semantic",
+      "text": "責怪，歸咎。",
+      "source": "cham"
+    },
+    {
+      "id": "9-5",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 41,
+        "end": 43
+      },
+      "kind": "semantic",
+      "text": "居心平正坦蕩。一說安心處於自己的位置上。本文「易」與「險」相對，易謂心安理得，險謂立心不良。",
+      "source": "cham"
+    },
+    {
+      "id": "9-6",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 44,
+        "end": 46
+      },
+      "kind": "pronunciation",
+      "lang": "yue",
+      "text": "自；dzi6",
+      "source": "cham"
+    },
+    {
+      "id": "9-7",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 44,
+        "end": 46
+      },
+      "kind": "pronunciation",
+      "lang": "cmn",
+      "text": "sì",
+      "source": "cham"
+    },
+    {
+      "id": "9-8",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 44,
+        "end": 46
+      },
+      "kind": "semantic",
+      "text": "等待天命的安排。俟：等待。",
+      "source": "cham"
+    },
+    {
+      "id": "9-9",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 49,
+        "end": 51
+      },
+      "kind": "semantic",
+      "text": "行事立心不良。",
+      "source": "cham"
+    },
+    {
+      "id": "9-10",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 52,
+        "end": 54
+      },
+      "kind": "pronunciation",
+      "lang": "yue",
+      "text": "囂；hiu1",
+      "source": "cham"
+    },
+    {
+      "id": "9-11",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 52,
+        "end": 54
+      },
+      "kind": "pronunciation",
+      "lang": "cmn",
+      "text": "jiăo",
+      "source": "cham"
+    },
+    {
+      "id": "9-12",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 52,
+        "end": 54
+      },
+      "kind": "semantic",
+      "text": "即僥倖，祈求意外地獲得成功或免除不幸。",
+      "source": "cham"
+    },
+    {
+      "id": "9-13",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 66,
+        "end": 70
+      },
+      "kind": "pronunciation",
+      "lang": "yue",
+      "text": "谷；guk7",
+      "source": "cham"
+    },
+    {
+      "id": "9-14",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 66,
+        "end": 70
+      },
+      "kind": "pronunciation",
+      "lang": "cmn",
+      "text": "gŭ",
+      "source": "cham"
+    },
+    {
+      "id": "9-15",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 66,
+        "end": 70
+      },
+      "kind": "semantic",
+      "text": "沒有射中靶子。失：這裏指沒有射中。鵠：箭靶子。",
+      "source": "cham"
+    },
+    {
+      "id": "9-16",
+      "range": {
+        "type": "range",
+        "scope": "verse",
+        "verseIndex": 0,
+        "start": 71,
+        "end": 76
+      },
+      "kind": "semantic",
+      "text": "反過來從自己身上尋找原因。求：尋找。其：自己。",
+      "source": "cham"
+    }
+  ],
+  "structuredSections": [
+    {
+      "key": "analysis",
+      "title": "賞析",
+      "filename": "analysis.md",
+      "body": "《中庸》相傳是戰國時子思所作，是儒家人生哲學的名著，傳統讀書人的必讀書。\n\n孔子論君子之行，曾提出「君子求諸己，小人求諸人」。本文進一步指出君子應堅持「正己而不求於人」、「反求其身」的做人宗旨：君子居於上位，不會欺壓在下位的，不恃勢凌人；居於下位的，不會巴結在上位的，也不攀附權貴，謀取己益；凡事反求諸己，不卑不亢，做到上不怨天命，下不怪罪別人，因此，君子可以心胸坦蕩，做合宜的事，一旦出現問題，會檢討失敗原因，反省自身；相反，小人心懷叵測，不願腳踏實地提升自己。《中庸》提出做人做事也當如射箭，君子沒有射中靶子，會自我檢討，而不會歸咎靶子放得不端正。\n\n這段文字雖然只有短短幾句，但已道出做人處世的根本。不媚上，不欺下，不怨天，不尤人，不求於人，反求於己，都已成為傳統的做人準則，激勵一代又一代人民自強自立。",
+      "order": 3
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "bookId": "laozi-wangbi-wiki",
+  "num": 50,
+  "title": "第五十章",
+  "author": "老子",
+  "authorId": "Laozi",
+  "dynasty": "周",
+  "era": "周",
+  "genre": "prose",
+  "verses": [
+    {
+      "text": "出生入死。"
+    },
+    {
+      "text": "生之徒，十有三；死之徒，十有三；人之生，動之死地，亦十有三。夫何故？以其生生之厚。蓋聞善攝生者，陸行不遇兕虎，入軍不被甲兵；兕無所投其角，虎無所措其爪，兵無所容其刃。夫何故？以其無死地。"
+    }
+  ],
+  "sections": {},
+  "annotations": [],
+  "layers": {
+    "wangbi": [
+      {
+        "id": "wangbi-1",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 0,
+          "end": 5
+        },
+        "kind": "commentary",
+        "text": "出生地，入死地。",
+        "source": "cham"
+      },
+      {
+        "id": "wangbi-2",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 0,
+          "end": 93
+        },
+        "kind": "commentary",
+        "text": "十有三，猶云十分有三分，取其生道，全生之極，十分有三耳。取死之道，全死之極，亦十分有三耳。而民生生之厚，更之無生之地焉，善攝生者無以生為 生，故無死地也。器之害者，莫甚乎兵戈，獸之害者，莫甚乎兕虎，而令兵戈無所容其鋒刃，虎兕無所措其爪角，斯誠不以欲累其身者也，何死地之有乎。夫蚖蟺以 淵為淺，而鑿穴其中，鷹鸇以山為卑，而增巢其上，矰繳不能及，網罟不能到，可謂處於無死地矣，然而卒以甘餌，乃入於無生之地，豈非生生之厚乎，故物茍不以 求離其本，不以欲渝其真，雖入軍而不害，陸行而不可犯也，赤子之可則而貴信矣。",
+        "source": "cham"
+      }
+    ]
+  },
+  "annotationLayers": [
+    {
+      "id": "default",
+      "label": "原文",
+      "shortLabel": "文",
+      "contributor": "Laozi",
+      "role": "author",
+      "nature": "annotation",
+      "displayOrder": 0,
+      "enabled": true,
+      "annotations": []
+    },
+    {
+      "id": "wangbi",
+      "label": "王弼註",
+      "shortLabel": "王",
+      "contributor": "C001",
+      "role": "commentator",
+      "nature": "commentary",
+      "displayOrder": 1,
+      "enabled": true,
+      "annotations": [
+        {
+          "id": "wangbi-1",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 0,
+            "start": 0,
+            "end": 5
+          },
+          "kind": "commentary",
+          "text": "出生地，入死地。",
+          "source": "cham"
+        },
+        {
+          "id": "wangbi-2",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 1,
+            "start": 0,
+            "end": 93
+          },
+          "kind": "commentary",
+          "text": "十有三，猶云十分有三分，取其生道，全生之極，十分有三耳。取死之道，全死之極，亦十分有三耳。而民生生之厚，更之無生之地焉，善攝生者無以生為 生，故無死地也。器之害者，莫甚乎兵戈，獸之害者，莫甚乎兕虎，而令兵戈無所容其鋒刃，虎兕無所措其爪角，斯誠不以欲累其身者也，何死地之有乎。夫蚖蟺以 淵為淺，而鑿穴其中，鷹鸇以山為卑，而增巢其上，矰繳不能及，網罟不能到，可謂處於無死地矣，然而卒以甘餌，乃入於無生之地，豈非生生之厚乎，故物茍不以 求離其本，不以欲渝其真，雖入軍而不害，陸行而不可犯也，赤子之可則而貴信矣。",
+          "source": "cham"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "textRef": "laozi-wangbi-wiki",
+    "relation": "section"
+  }
+}
