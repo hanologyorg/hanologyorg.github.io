@@ -9,10 +9,19 @@
   "genre": "prose",
   "verses": [
     {
-      "text": "知不知 尚矣 不知不知 病矣"
+      "text": "知不知，尚矣。"
     },
     {
-      "text": "是以聖人之不病 以亓病病也 是以不病"
+      "text": "不知不知，病矣。"
+    },
+    {
+      "text": "是以聖人之不病。"
+    },
+    {
+      "text": "以亓病病也，"
+    },
+    {
+      "text": "是以不病。"
     }
   ],
   "sections": {},
@@ -24,9 +33,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 14
+          "verseIndex": 1,
+          "start": 8,
+          "end": 8
         },
         "kind": "commentary",
         "text": "不知道言知，是乃德之病。",
@@ -37,9 +46,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 14
+          "verseIndex": 1,
+          "start": 8,
+          "end": 8
         },
         "kind": "commentary",
         "text": "夫唯能病苦眾人有強知之病，是以不自病也。",
@@ -50,9 +59,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 14
+          "verseIndex": 1,
+          "start": 8,
+          "end": 8
         },
         "kind": "commentary",
         "text": "聖人無此強知之病者，以其常苦眾人有此病。",
@@ -64,8 +73,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 1,
-          "start": 14,
-          "end": 15
+          "start": 16,
+          "end": 17
         },
         "kind": "commentary",
         "text": "以比非人，故不自病。夫聖人懷通達之知，託於不知者，欲使天下質樸忠正，各守純性。小人不知道意，而妄行強知之事以自顯著，內傷精神，減壽消年也。",
@@ -78,9 +87,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 14
+          "verseIndex": 1,
+          "start": 8,
+          "end": 8
         },
         "kind": "commentary",
         "text": "不知知之不足任則病也。",
@@ -91,9 +100,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 14
+          "verseIndex": 4,
+          "start": 5,
+          "end": 5
         },
         "kind": "commentary",
         "text": "",
@@ -128,9 +137,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 14
+            "verseIndex": 1,
+            "start": 8,
+            "end": 8
           },
           "kind": "commentary",
           "text": "不知道言知，是乃德之病。",
@@ -141,9 +150,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 14
+            "verseIndex": 1,
+            "start": 8,
+            "end": 8
           },
           "kind": "commentary",
           "text": "夫唯能病苦眾人有強知之病，是以不自病也。",
@@ -154,9 +163,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 14
+            "verseIndex": 1,
+            "start": 8,
+            "end": 8
           },
           "kind": "commentary",
           "text": "聖人無此強知之病者，以其常苦眾人有此病。",
@@ -168,8 +177,8 @@
             "type": "range",
             "scope": "verse",
             "verseIndex": 1,
-            "start": 14,
-            "end": 15
+            "start": 16,
+            "end": 17
           },
           "kind": "commentary",
           "text": "以比非人，故不自病。夫聖人懷通達之知，託於不知者，欲使天下質樸忠正，各守純性。小人不知道意，而妄行強知之事以自顯著，內傷精神，減壽消年也。",
@@ -192,9 +201,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 14
+            "verseIndex": 1,
+            "start": 8,
+            "end": 8
           },
           "kind": "commentary",
           "text": "不知知之不足任則病也。",
@@ -205,9 +214,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 14
+            "verseIndex": 4,
+            "start": 5,
+            "end": 5
           },
           "kind": "commentary",
           "text": "",

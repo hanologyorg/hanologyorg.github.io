@@ -47,7 +47,7 @@
           "end": 19
         },
         "kind": "commentary",
-        "text": "絕學不真，不合道文。",
+        "text": "同為應對而相去幾何。疾時賤質而貴文。",
         "source": "cham"
       },
       {
@@ -60,7 +60,7 @@
           "end": 19
         },
         "kind": "commentary",
-        "text": "除浮華則無憂患也。",
+        "text": "善者稱譽，惡者諫諍，能相去何如。疾時惡忠直，用邪佞也。",
         "source": "cham"
       },
       {
@@ -68,12 +68,12 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
+          "verseIndex": 1,
           "start": 0,
-          "end": 19
+          "end": 12
         },
         "kind": "commentary",
-        "text": "同為應對而相去幾何。疾時賤質而貴文。",
+        "text": "人謂道人也。人所畏者，畏不絕學之君也。不可不畏，近令色，殺仁賢。",
         "source": "cham"
       },
       {
@@ -81,12 +81,12 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
+          "verseIndex": 2,
           "start": 0,
-          "end": 19
+          "end": 7
         },
         "kind": "commentary",
-        "text": "善者稱譽，惡者諫諍，能相去何如。疾時惡忠直，用邪佞也。",
+        "text": "或言世俗人荒亂，欲進學為文，未央止也。",
         "source": "cham"
       },
       {
@@ -94,12 +94,12 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
+          "verseIndex": 3,
           "start": 0,
-          "end": 19
+          "end": 15
         },
         "kind": "commentary",
-        "text": "人謂道人也。人所畏者，畏不絕學之君也。不可不畏，近令色，殺仁賢。",
+        "text": "熙熙，放淫多情欲也。",
         "source": "cham"
       },
       {
@@ -107,12 +107,12 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
+          "verseIndex": 3,
           "start": 0,
-          "end": 19
+          "end": 15
         },
         "kind": "commentary",
-        "text": "或言世俗人荒亂，欲進學為文，未央止也。",
+        "text": "如飢思太牢之具，意無足時也。",
         "source": "cham"
       },
       {
@@ -120,12 +120,12 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
+          "verseIndex": 3,
           "start": 0,
-          "end": 19
+          "end": 15
         },
         "kind": "commentary",
-        "text": "熙熙，放淫多情欲也。",
+        "text": "春，陰陽交通，萬物感動，登台觀之，意志淫淫然。",
         "source": "cham"
       },
       {
@@ -133,33 +133,7 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 19
-        },
-        "kind": "commentary",
-        "text": "如飢思太牢之具，意無足時也。",
-        "source": "cham"
-      },
-      {
-        "id": "heshanggong-9",
-        "range": {
-          "type": "range",
-          "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 19
-        },
-        "kind": "commentary",
-        "text": "春，陰陽交通，萬物感動，登台觀之，意志淫淫然。",
-        "source": "cham"
-      },
-      {
-        "id": "heshanggong-10",
-        "range": {
-          "type": "range",
-          "scope": "verse",
-          "verseIndex": 0,
+          "verseIndex": 4,
           "start": 0,
           "end": 19
         },
@@ -168,11 +142,11 @@
         "source": "cham"
       },
       {
-        "id": "heshanggong-11",
+        "id": "heshanggong-9",
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
+          "verseIndex": 4,
           "start": 0,
           "end": 19
         },
@@ -181,11 +155,11 @@
         "source": "cham"
       },
       {
-        "id": "heshanggong-12",
+        "id": "heshanggong-10",
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
+          "verseIndex": 4,
           "start": 0,
           "end": 19
         },
@@ -194,7 +168,7 @@
         "source": "cham"
       },
       {
-        "id": "heshanggong-13",
+        "id": "heshanggong-11",
         "range": {
           "type": "range",
           "scope": "verse",
@@ -207,7 +181,7 @@
         "source": "cham"
       },
       {
-        "id": "heshanggong-14",
+        "id": "heshanggong-12",
         "range": {
           "type": "range",
           "scope": "verse",
@@ -220,7 +194,7 @@
         "source": "cham"
       },
       {
-        "id": "heshanggong-15",
+        "id": "heshanggong-13",
         "range": {
           "type": "range",
           "scope": "verse",
@@ -233,7 +207,7 @@
         "source": "cham"
       },
       {
-        "id": "heshanggong-16",
+        "id": "heshanggong-14",
         "range": {
           "type": "range",
           "scope": "verse",
@@ -246,7 +220,7 @@
         "source": "cham"
       },
       {
-        "id": "heshanggong-17",
+        "id": "heshanggong-15",
         "range": {
           "type": "range",
           "scope": "verse",
@@ -259,7 +233,7 @@
         "source": "cham"
       },
       {
-        "id": "heshanggong-18",
+        "id": "heshanggong-16",
         "range": {
           "type": "range",
           "scope": "verse",
@@ -272,7 +246,7 @@
         "source": "cham"
       },
       {
-        "id": "heshanggong-19",
+        "id": "heshanggong-17",
         "range": {
           "type": "range",
           "scope": "verse",
@@ -285,7 +259,7 @@
         "source": "cham"
       },
       {
-        "id": "heshanggong-20",
+        "id": "heshanggong-18",
         "range": {
           "type": "range",
           "scope": "verse",
@@ -298,33 +272,33 @@
         "source": "cham"
       },
       {
-        "id": "heshanggong-21",
+        "id": "heshanggong-19",
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 5,
+          "verseIndex": 6,
           "start": 0,
-          "end": 40
+          "end": 15
         },
         "kind": "commentary",
         "text": "我獨忽忽，如江海之流，莫知其所窮極也。",
         "source": "cham"
       },
       {
-        "id": "heshanggong-22",
+        "id": "heshanggong-20",
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 5,
+          "verseIndex": 6,
           "start": 0,
-          "end": 40
+          "end": 15
         },
         "kind": "commentary",
         "text": "我獨漂漂，若飛若揚，無所止也，志意在神域也。",
         "source": "cham"
       },
       {
-        "id": "heshanggong-23",
+        "id": "heshanggong-21",
         "range": {
           "type": "range",
           "scope": "verse",
@@ -337,7 +311,7 @@
         "source": "cham"
       },
       {
-        "id": "heshanggong-24",
+        "id": "heshanggong-22",
         "range": {
           "type": "range",
           "scope": "verse",
@@ -350,7 +324,7 @@
         "source": "cham"
       },
       {
-        "id": "heshanggong-25",
+        "id": "heshanggong-23",
         "range": {
           "type": "range",
           "scope": "verse",
@@ -363,7 +337,7 @@
         "source": "cham"
       },
       {
-        "id": "heshanggong-26",
+        "id": "heshanggong-24",
         "range": {
           "type": "range",
           "scope": "verse",
@@ -376,7 +350,7 @@
         "source": "cham"
       },
       {
-        "id": "heshanggong-27",
+        "id": "heshanggong-25",
         "range": {
           "type": "range",
           "scope": "verse",
@@ -421,9 +395,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
+          "verseIndex": 3,
           "start": 0,
-          "end": 19
+          "end": 15
         },
         "kind": "commentary",
         "text": "眾人迷於美進，惑於榮利，欲進心競，故熙熙如享太牢，如春登臺也。",
@@ -434,7 +408,7 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
+          "verseIndex": 4,
           "start": 0,
           "end": 19
         },
@@ -447,7 +421,7 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
+          "verseIndex": 4,
           "start": 0,
           "end": 19
         },
@@ -460,9 +434,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
+          "verseIndex": 5,
           "start": 0,
-          "end": 19
+          "end": 40
         },
         "kind": "commentary",
         "text": "眾人無不有懷有志，盈溢胸心，故曰，皆有餘也。我獨廓然無為無欲，若遺失之也。",
@@ -473,9 +447,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
+          "verseIndex": 5,
           "start": 0,
-          "end": 19
+          "end": 40
         },
         "kind": "commentary",
         "text": "絕愚之人，心無所別析，意無所好欲，猶然其情不可覩我頹然若此也。",
@@ -486,9 +460,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
+          "verseIndex": 5,
           "start": 0,
-          "end": 19
+          "end": 40
         },
         "kind": "commentary",
         "text": "無所別析，不可為明。",
@@ -499,9 +473,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
+          "verseIndex": 5,
           "start": 0,
-          "end": 19
+          "end": 40
         },
         "kind": "commentary",
         "text": "耀其光也。",
@@ -512,9 +486,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
+          "verseIndex": 5,
           "start": 0,
-          "end": 19
+          "end": 40
         },
         "kind": "commentary",
         "text": "分別別析也。",
@@ -525,9 +499,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
+          "verseIndex": 5,
           "start": 0,
-          "end": 19
+          "end": 40
         },
         "kind": "commentary",
         "text": "情不可覩。",
@@ -538,9 +512,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
+          "verseIndex": 6,
           "start": 0,
-          "end": 19
+          "end": 15
         },
         "kind": "commentary",
         "text": "無所繫縶。",
@@ -619,7 +593,7 @@
             "end": 19
           },
           "kind": "commentary",
-          "text": "絕學不真，不合道文。",
+          "text": "同為應對而相去幾何。疾時賤質而貴文。",
           "source": "cham"
         },
         {
@@ -632,7 +606,7 @@
             "end": 19
           },
           "kind": "commentary",
-          "text": "除浮華則無憂患也。",
+          "text": "善者稱譽，惡者諫諍，能相去何如。疾時惡忠直，用邪佞也。",
           "source": "cham"
         },
         {
@@ -640,12 +614,12 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
+            "verseIndex": 1,
             "start": 0,
-            "end": 19
+            "end": 12
           },
           "kind": "commentary",
-          "text": "同為應對而相去幾何。疾時賤質而貴文。",
+          "text": "人謂道人也。人所畏者，畏不絕學之君也。不可不畏，近令色，殺仁賢。",
           "source": "cham"
         },
         {
@@ -653,12 +627,12 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
+            "verseIndex": 2,
             "start": 0,
-            "end": 19
+            "end": 7
           },
           "kind": "commentary",
-          "text": "善者稱譽，惡者諫諍，能相去何如。疾時惡忠直，用邪佞也。",
+          "text": "或言世俗人荒亂，欲進學為文，未央止也。",
           "source": "cham"
         },
         {
@@ -666,12 +640,12 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
+            "verseIndex": 3,
             "start": 0,
-            "end": 19
+            "end": 15
           },
           "kind": "commentary",
-          "text": "人謂道人也。人所畏者，畏不絕學之君也。不可不畏，近令色，殺仁賢。",
+          "text": "熙熙，放淫多情欲也。",
           "source": "cham"
         },
         {
@@ -679,12 +653,12 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
+            "verseIndex": 3,
             "start": 0,
-            "end": 19
+            "end": 15
           },
           "kind": "commentary",
-          "text": "或言世俗人荒亂，欲進學為文，未央止也。",
+          "text": "如飢思太牢之具，意無足時也。",
           "source": "cham"
         },
         {
@@ -692,12 +666,12 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
+            "verseIndex": 3,
             "start": 0,
-            "end": 19
+            "end": 15
           },
           "kind": "commentary",
-          "text": "熙熙，放淫多情欲也。",
+          "text": "春，陰陽交通，萬物感動，登台觀之，意志淫淫然。",
           "source": "cham"
         },
         {
@@ -705,33 +679,7 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 19
-          },
-          "kind": "commentary",
-          "text": "如飢思太牢之具，意無足時也。",
-          "source": "cham"
-        },
-        {
-          "id": "heshanggong-9",
-          "range": {
-            "type": "range",
-            "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 19
-          },
-          "kind": "commentary",
-          "text": "春，陰陽交通，萬物感動，登台觀之，意志淫淫然。",
-          "source": "cham"
-        },
-        {
-          "id": "heshanggong-10",
-          "range": {
-            "type": "range",
-            "scope": "verse",
-            "verseIndex": 0,
+            "verseIndex": 4,
             "start": 0,
             "end": 19
           },
@@ -740,11 +688,11 @@
           "source": "cham"
         },
         {
-          "id": "heshanggong-11",
+          "id": "heshanggong-9",
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
+            "verseIndex": 4,
             "start": 0,
             "end": 19
           },
@@ -753,11 +701,11 @@
           "source": "cham"
         },
         {
-          "id": "heshanggong-12",
+          "id": "heshanggong-10",
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
+            "verseIndex": 4,
             "start": 0,
             "end": 19
           },
@@ -766,7 +714,7 @@
           "source": "cham"
         },
         {
-          "id": "heshanggong-13",
+          "id": "heshanggong-11",
           "range": {
             "type": "range",
             "scope": "verse",
@@ -779,7 +727,7 @@
           "source": "cham"
         },
         {
-          "id": "heshanggong-14",
+          "id": "heshanggong-12",
           "range": {
             "type": "range",
             "scope": "verse",
@@ -792,7 +740,7 @@
           "source": "cham"
         },
         {
-          "id": "heshanggong-15",
+          "id": "heshanggong-13",
           "range": {
             "type": "range",
             "scope": "verse",
@@ -805,7 +753,7 @@
           "source": "cham"
         },
         {
-          "id": "heshanggong-16",
+          "id": "heshanggong-14",
           "range": {
             "type": "range",
             "scope": "verse",
@@ -818,7 +766,7 @@
           "source": "cham"
         },
         {
-          "id": "heshanggong-17",
+          "id": "heshanggong-15",
           "range": {
             "type": "range",
             "scope": "verse",
@@ -831,7 +779,7 @@
           "source": "cham"
         },
         {
-          "id": "heshanggong-18",
+          "id": "heshanggong-16",
           "range": {
             "type": "range",
             "scope": "verse",
@@ -844,7 +792,7 @@
           "source": "cham"
         },
         {
-          "id": "heshanggong-19",
+          "id": "heshanggong-17",
           "range": {
             "type": "range",
             "scope": "verse",
@@ -857,7 +805,7 @@
           "source": "cham"
         },
         {
-          "id": "heshanggong-20",
+          "id": "heshanggong-18",
           "range": {
             "type": "range",
             "scope": "verse",
@@ -870,33 +818,33 @@
           "source": "cham"
         },
         {
-          "id": "heshanggong-21",
+          "id": "heshanggong-19",
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 5,
+            "verseIndex": 6,
             "start": 0,
-            "end": 40
+            "end": 15
           },
           "kind": "commentary",
           "text": "我獨忽忽，如江海之流，莫知其所窮極也。",
           "source": "cham"
         },
         {
-          "id": "heshanggong-22",
+          "id": "heshanggong-20",
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 5,
+            "verseIndex": 6,
             "start": 0,
-            "end": 40
+            "end": 15
           },
           "kind": "commentary",
           "text": "我獨漂漂，若飛若揚，無所止也，志意在神域也。",
           "source": "cham"
         },
         {
-          "id": "heshanggong-23",
+          "id": "heshanggong-21",
           "range": {
             "type": "range",
             "scope": "verse",
@@ -909,7 +857,7 @@
           "source": "cham"
         },
         {
-          "id": "heshanggong-24",
+          "id": "heshanggong-22",
           "range": {
             "type": "range",
             "scope": "verse",
@@ -922,7 +870,7 @@
           "source": "cham"
         },
         {
-          "id": "heshanggong-25",
+          "id": "heshanggong-23",
           "range": {
             "type": "range",
             "scope": "verse",
@@ -935,7 +883,7 @@
           "source": "cham"
         },
         {
-          "id": "heshanggong-26",
+          "id": "heshanggong-24",
           "range": {
             "type": "range",
             "scope": "verse",
@@ -948,7 +896,7 @@
           "source": "cham"
         },
         {
-          "id": "heshanggong-27",
+          "id": "heshanggong-25",
           "range": {
             "type": "range",
             "scope": "verse",
@@ -1003,9 +951,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
+            "verseIndex": 3,
             "start": 0,
-            "end": 19
+            "end": 15
           },
           "kind": "commentary",
           "text": "眾人迷於美進，惑於榮利，欲進心競，故熙熙如享太牢，如春登臺也。",
@@ -1016,7 +964,7 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
+            "verseIndex": 4,
             "start": 0,
             "end": 19
           },
@@ -1029,7 +977,7 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
+            "verseIndex": 4,
             "start": 0,
             "end": 19
           },
@@ -1042,9 +990,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
+            "verseIndex": 5,
             "start": 0,
-            "end": 19
+            "end": 40
           },
           "kind": "commentary",
           "text": "眾人無不有懷有志，盈溢胸心，故曰，皆有餘也。我獨廓然無為無欲，若遺失之也。",
@@ -1055,9 +1003,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
+            "verseIndex": 5,
             "start": 0,
-            "end": 19
+            "end": 40
           },
           "kind": "commentary",
           "text": "絕愚之人，心無所別析，意無所好欲，猶然其情不可覩我頹然若此也。",
@@ -1068,9 +1016,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
+            "verseIndex": 5,
             "start": 0,
-            "end": 19
+            "end": 40
           },
           "kind": "commentary",
           "text": "無所別析，不可為明。",
@@ -1081,9 +1029,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
+            "verseIndex": 5,
             "start": 0,
-            "end": 19
+            "end": 40
           },
           "kind": "commentary",
           "text": "耀其光也。",
@@ -1094,9 +1042,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
+            "verseIndex": 5,
             "start": 0,
-            "end": 19
+            "end": 40
           },
           "kind": "commentary",
           "text": "分別別析也。",
@@ -1107,9 +1055,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
+            "verseIndex": 5,
             "start": 0,
-            "end": 19
+            "end": 40
           },
           "kind": "commentary",
           "text": "情不可覩。",
@@ -1120,9 +1068,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
+            "verseIndex": 6,
             "start": 0,
-            "end": 19
+            "end": 15
           },
           "kind": "commentary",
           "text": "無所繫縶。",

@@ -2,11 +2,10 @@
   "bookId": "skqs-difan",
   "num": 13,
   "title": "閱武第十一",
-  "author": "李世民",
-  "authorId": "唐太宗",
-  "dynasty": "唐",
-  "era": "唐",
-  "eraCode": "24",
+  "author": "",
+  "authorId": "",
+  "dynasty": "",
+  "era": "",
   "genre": "prose",
   "verses": [
     {
@@ -143,8 +142,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 1,
-          "start": 85,
-          "end": 89
+          "start": 61,
+          "end": 71
         },
         "kind": "semantic",
         "text": "徐偃王忘失其武備",
@@ -196,7 +195,7 @@
       "id": "default",
       "label": "原文",
       "shortLabel": "文",
-      "contributor": "唐太宗",
+      "contributor": "",
       "role": "author",
       "nature": "annotation",
       "displayOrder": 0,

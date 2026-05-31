@@ -9,19 +9,25 @@
   "genre": "prose",
   "verses": [
     {
-      "text": "將欲取天下而為之 吾見亓弗得已"
+      "text": "將欲取天下而為之，吾見亓弗得已。"
     },
     {
-      "text": "夫天下 神器也 非可為者也"
+      "text": "夫天下，神器也。"
     },
     {
-      "text": "為者敗之 執者失之"
+      "text": "非可為者也。"
     },
     {
-      "text": "物或行或隨 或炅或吹 或強或䂳 或培或橢"
+      "text": "為者，敗之。"
     },
     {
-      "text": "是以聖人去甚 去大 去楮"
+      "text": "執者，失之。"
+    },
+    {
+      "text": "物或行或隨，或炅或吹，或強或䂳，或培或橢。"
+    },
+    {
+      "text": "是以聖人：去甚，去大，去楮。"
     }
   ],
   "sections": {},
@@ -48,7 +54,7 @@
           "scope": "verse",
           "verseIndex": 0,
           "start": 0,
-          "end": 15
+          "end": 16
         },
         "kind": "commentary",
         "text": "我見其不得天道人心已明矣，天道惡煩濁，人心惡多欲。",
@@ -59,9 +65,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 15
+          "verseIndex": 2,
+          "start": 6,
+          "end": 6
         },
         "kind": "commentary",
         "text": "器，物也。人乃天下之神物也，神物好安靜，不可以有為治。",
@@ -86,8 +92,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 2,
-          "start": 5,
-          "end": 6
+          "start": 7,
+          "end": 8
         },
         "kind": "commentary",
         "text": "強執教之，則失其情實，生於詐偽也。",
@@ -98,9 +104,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
+          "verseIndex": 5,
           "start": 0,
-          "end": 9
+          "end": 21
         },
         "kind": "commentary",
         "text": "上所行，下必隨之也。",
@@ -111,9 +117,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 3,
+          "verseIndex": 5,
           "start": 0,
-          "end": 20
+          "end": 21
         },
         "kind": "commentary",
         "text": "呴，溫也。吹，寒也。有所溫必有所寒也。",
@@ -124,9 +130,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 3,
+          "verseIndex": 5,
           "start": 0,
-          "end": 20
+          "end": 21
         },
         "kind": "commentary",
         "text": "有所強大，必有所贏弱也。",
@@ -137,9 +143,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 3,
+          "verseIndex": 5,
           "start": 0,
-          "end": 20
+          "end": 21
         },
         "kind": "commentary",
         "text": "載，安也。隳，危也。有所安必有所危，明人君不可以有為治國與治身也。",
@@ -150,9 +156,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 3,
+          "verseIndex": 6,
           "start": 0,
-          "end": 20
+          "end": 14
         },
         "kind": "commentary",
         "text": "甚謂貪淫聲色。奢謂服飾飲食。泰謂宮室臺榭。去此三者，處中和，行無為，則天下自化。",
@@ -165,9 +171,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 15
+          "verseIndex": 2,
+          "start": 6,
+          "end": 6
         },
         "kind": "commentary",
         "text": "神，無形無方也。器，合成也。無形以合，故謂之神器也。",
@@ -178,9 +184,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 15
+          "verseIndex": 4,
+          "start": 6,
+          "end": 6
         },
         "kind": "commentary",
         "text": "萬物以自然為性，故可因而不可為也。可通而不可執也。物有常性，而造為之，故必敗也。物有往來而執之，故必失矣。",
@@ -191,9 +197,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
+          "verseIndex": 5,
           "start": 0,
-          "end": 15
+          "end": 21
         },
         "kind": "commentary",
         "text": "凡此諸或，言物事逆順反覆，不施為執割也。聖人達自然之至，暢萬物之情，故因而不為，順而不施。除其所以迷，去其所以惑，故心不亂而物性自得之也。",
@@ -243,7 +249,7 @@
             "scope": "verse",
             "verseIndex": 0,
             "start": 0,
-            "end": 15
+            "end": 16
           },
           "kind": "commentary",
           "text": "我見其不得天道人心已明矣，天道惡煩濁，人心惡多欲。",
@@ -254,9 +260,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 15
+            "verseIndex": 2,
+            "start": 6,
+            "end": 6
           },
           "kind": "commentary",
           "text": "器，物也。人乃天下之神物也，神物好安靜，不可以有為治。",
@@ -281,8 +287,8 @@
             "type": "range",
             "scope": "verse",
             "verseIndex": 2,
-            "start": 5,
-            "end": 6
+            "start": 7,
+            "end": 8
           },
           "kind": "commentary",
           "text": "強執教之，則失其情實，生於詐偽也。",
@@ -293,9 +299,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 2,
+            "verseIndex": 5,
             "start": 0,
-            "end": 9
+            "end": 21
           },
           "kind": "commentary",
           "text": "上所行，下必隨之也。",
@@ -306,9 +312,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 3,
+            "verseIndex": 5,
             "start": 0,
-            "end": 20
+            "end": 21
           },
           "kind": "commentary",
           "text": "呴，溫也。吹，寒也。有所溫必有所寒也。",
@@ -319,9 +325,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 3,
+            "verseIndex": 5,
             "start": 0,
-            "end": 20
+            "end": 21
           },
           "kind": "commentary",
           "text": "有所強大，必有所贏弱也。",
@@ -332,9 +338,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 3,
+            "verseIndex": 5,
             "start": 0,
-            "end": 20
+            "end": 21
           },
           "kind": "commentary",
           "text": "載，安也。隳，危也。有所安必有所危，明人君不可以有為治國與治身也。",
@@ -345,9 +351,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 3,
+            "verseIndex": 6,
             "start": 0,
-            "end": 20
+            "end": 14
           },
           "kind": "commentary",
           "text": "甚謂貪淫聲色。奢謂服飾飲食。泰謂宮室臺榭。去此三者，處中和，行無為，則天下自化。",
@@ -370,9 +376,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 15
+            "verseIndex": 2,
+            "start": 6,
+            "end": 6
           },
           "kind": "commentary",
           "text": "神，無形無方也。器，合成也。無形以合，故謂之神器也。",
@@ -383,9 +389,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 15
+            "verseIndex": 4,
+            "start": 6,
+            "end": 6
           },
           "kind": "commentary",
           "text": "萬物以自然為性，故可因而不可為也。可通而不可執也。物有常性，而造為之，故必敗也。物有往來而執之，故必失矣。",
@@ -396,9 +402,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
+            "verseIndex": 5,
             "start": 0,
-            "end": 15
+            "end": 21
           },
           "kind": "commentary",
           "text": "凡此諸或，言物事逆順反覆，不施為執割也。聖人達自然之至，暢萬物之情，故因而不為，順而不施。除其所以迷，去其所以惑，故心不亂而物性自得之也。",

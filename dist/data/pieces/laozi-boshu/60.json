@@ -9,13 +9,22 @@
   "genre": "prose",
   "verses": [
     {
-      "text": "治大國 若烹小鮮"
+      "text": "治大國，若烹小鮮。"
     },
     {
-      "text": "以道蒞天下 亓鬼不神 非亓鬼不神也 亓神不傷人也 非亓神不傷人也 聖人亦弗傷也"
+      "text": "以道蒞天下。"
     },
     {
-      "text": "夫兩不相傷 故德交歸焉"
+      "text": "亓鬼不神，非亓鬼不神也。"
+    },
+    {
+      "text": "亓神不傷人也，非亓神不傷人也。"
+    },
+    {
+      "text": "聖人亦弗傷也。"
+    },
+    {
+      "text": "夫兩不相傷，故德交歸焉。"
     }
   ],
   "sections": {},
@@ -29,7 +38,7 @@
           "scope": "verse",
           "verseIndex": 0,
           "start": 0,
-          "end": 8
+          "end": 9
         },
         "kind": "commentary",
         "text": "鮮，魚。烹小魚不去腸、不去鱗、不敢撓，恐其糜也。治國煩則下亂，治身煩則精散。",
@@ -54,8 +63,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 1,
-          "start": 11,
-          "end": 12
+          "start": 12,
+          "end": 13
         },
         "kind": "commentary",
         "text": "其鬼非無精神也，非不入正，不能傷自然之人。",
@@ -66,9 +75,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 1,
-          "start": 0,
-          "end": 39
+          "verseIndex": 4,
+          "start": 7,
+          "end": 7
         },
         "kind": "commentary",
         "text": "非鬼神不能傷害人。以聖人在位不傷害人，故鬼不敢干之也。",
@@ -109,7 +118,7 @@
           "scope": "verse",
           "verseIndex": 0,
           "start": 0,
-          "end": 8
+          "end": 9
         },
         "kind": "commentary",
         "text": "不擾也，躁則多害，靜則全真，故其國彌大，而其主彌靜，然後乃能廣得眾心矣。",
@@ -120,9 +129,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 8
+          "verseIndex": 4,
+          "start": 7,
+          "end": 7
         },
         "kind": "commentary",
         "text": "治大國則若烹小鮮，以道蒞天下則其鬼不神也。",
@@ -134,8 +143,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 1,
-          "start": 11,
-          "end": 12
+          "start": 12,
+          "end": 13
         },
         "kind": "commentary",
         "text": "神不害自然也，物守自然則神無所加，神無所加則不知神之為神也。",
@@ -146,9 +155,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 1,
-          "start": 0,
-          "end": 39
+          "verseIndex": 4,
+          "start": 7,
+          "end": 7
         },
         "kind": "commentary",
         "text": "道洽則神不傷人，神不傷人則不知神之為神。道洽則聖人亦不傷人，聖人不傷人則不知聖人之為聖也。猶云，不知神之為神，亦不知聖人之為聖也。夫恃威網以使物者，治之衰也。使不知神聖之為神聖，道之極也。",
@@ -159,9 +168,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
+          "verseIndex": 5,
           "start": 0,
-          "end": 11
+          "end": 12
         },
         "kind": "commentary",
         "text": "神不傷人，聖人亦不傷人，聖人不傷人，神亦不傷人。故曰，兩不相傷也。神聖合道，交歸之也。",
@@ -198,7 +207,7 @@
             "scope": "verse",
             "verseIndex": 0,
             "start": 0,
-            "end": 8
+            "end": 9
           },
           "kind": "commentary",
           "text": "鮮，魚。烹小魚不去腸、不去鱗、不敢撓，恐其糜也。治國煩則下亂，治身煩則精散。",
@@ -223,8 +232,8 @@
             "type": "range",
             "scope": "verse",
             "verseIndex": 1,
-            "start": 11,
-            "end": 12
+            "start": 12,
+            "end": 13
           },
           "kind": "commentary",
           "text": "其鬼非無精神也，非不入正，不能傷自然之人。",
@@ -235,9 +244,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 1,
-            "start": 0,
-            "end": 39
+            "verseIndex": 4,
+            "start": 7,
+            "end": 7
           },
           "kind": "commentary",
           "text": "非鬼神不能傷害人。以聖人在位不傷害人，故鬼不敢干之也。",
@@ -288,7 +297,7 @@
             "scope": "verse",
             "verseIndex": 0,
             "start": 0,
-            "end": 8
+            "end": 9
           },
           "kind": "commentary",
           "text": "不擾也，躁則多害，靜則全真，故其國彌大，而其主彌靜，然後乃能廣得眾心矣。",
@@ -299,9 +308,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 8
+            "verseIndex": 4,
+            "start": 7,
+            "end": 7
           },
           "kind": "commentary",
           "text": "治大國則若烹小鮮，以道蒞天下則其鬼不神也。",
@@ -313,8 +322,8 @@
             "type": "range",
             "scope": "verse",
             "verseIndex": 1,
-            "start": 11,
-            "end": 12
+            "start": 12,
+            "end": 13
           },
           "kind": "commentary",
           "text": "神不害自然也，物守自然則神無所加，神無所加則不知神之為神也。",
@@ -325,9 +334,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 1,
-            "start": 0,
-            "end": 39
+            "verseIndex": 4,
+            "start": 7,
+            "end": 7
           },
           "kind": "commentary",
           "text": "道洽則神不傷人，神不傷人則不知神之為神。道洽則聖人亦不傷人，聖人不傷人則不知聖人之為聖也。猶云，不知神之為神，亦不知聖人之為聖也。夫恃威網以使物者，治之衰也。使不知神聖之為神聖，道之極也。",
@@ -338,9 +347,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 2,
+            "verseIndex": 5,
             "start": 0,
-            "end": 11
+            "end": 12
           },
           "kind": "commentary",
           "text": "神不傷人，聖人亦不傷人，聖人不傷人，神亦不傷人。故曰，兩不相傷也。神聖合道，交歸之也。",

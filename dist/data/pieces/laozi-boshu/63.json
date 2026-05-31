@@ -9,22 +9,49 @@
   "genre": "prose",
   "verses": [
     {
-      "text": "為无為 事无事 味无味"
+      "text": "為无為。"
     },
     {
-      "text": "大小多少 報怨以德"
+      "text": "事无事。"
     },
     {
-      "text": "圖難乎亓易也 為大乎亓細也 天下之難作於易 天下之大作於細"
+      "text": "味无味。"
     },
     {
-      "text": "是以聖人終不為大 故能成亓大"
+      "text": "大小多少，報怨以德。"
     },
     {
-      "text": "夫輕諾必寡信 多易必多難"
+      "text": "圖難乎亓易也。"
     },
     {
-      "text": "是以聖人猶難之 故終於无難"
+      "text": "為大乎亓細也。"
+    },
+    {
+      "text": "天下之難作於易。"
+    },
+    {
+      "text": "天下之大作於細。"
+    },
+    {
+      "text": "是以聖人終不為大。"
+    },
+    {
+      "text": "故能成亓大。"
+    },
+    {
+      "text": "夫："
+    },
+    {
+      "text": "輕諾必寡信。"
+    },
+    {
+      "text": "多易必多難。"
+    },
+    {
+      "text": "是以聖人猶難之，"
+    },
+    {
+      "text": "故終於无難。"
     }
   ],
   "sections": {},
@@ -37,8 +64,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 0,
-          "start": 4,
-          "end": 5
+          "start": 5,
+          "end": 6
         },
         "kind": "commentary",
         "text": "預有備，除煩省事也。",
@@ -50,8 +77,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 0,
-          "start": 8,
-          "end": 9
+          "start": 10,
+          "end": 11
         },
         "kind": "commentary",
         "text": "深思遠慮，味道意也。",
@@ -88,9 +115,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 1,
-          "start": 0,
-          "end": 9
+          "verseIndex": 7,
+          "start": 8,
+          "end": 8
         },
         "kind": "commentary",
         "text": "欲圖難事，當於易時，未及成也。",
@@ -101,9 +128,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
-          "start": 0,
-          "end": 29
+          "verseIndex": 7,
+          "start": 8,
+          "end": 8
         },
         "kind": "commentary",
         "text": "欲為大事，必作於小，禍亂從小來也。",
@@ -114,9 +141,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
-          "start": 0,
-          "end": 29
+          "verseIndex": 7,
+          "start": 8,
+          "end": 8
         },
         "kind": "commentary",
         "text": "從易生難，從細生著。",
@@ -127,9 +154,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 3,
-          "start": 0,
-          "end": 14
+          "verseIndex": 9,
+          "start": 6,
+          "end": 6
         },
         "kind": "commentary",
         "text": "處謙虛，天下共歸之也。",
@@ -154,8 +181,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 4,
-          "start": 7,
-          "end": 8
+          "start": 10,
+          "end": 11
         },
         "kind": "commentary",
         "text": "不慎患也。",
@@ -179,9 +206,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 5,
-          "start": 0,
-          "end": 13
+          "verseIndex": 14,
+          "start": 6,
+          "end": 6
         },
         "kind": "commentary",
         "text": "聖人終生無患難之事，猶避害深也。",
@@ -194,9 +221,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 11
+          "verseIndex": 2,
+          "start": 4,
+          "end": 4
         },
         "kind": "commentary",
         "text": "以無為為居，以不言為教，以恬淡為味，治之極也。",
@@ -207,9 +234,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 1,
+          "verseIndex": 3,
           "start": 0,
-          "end": 9
+          "end": 10
         },
         "kind": "commentary",
         "text": "小怨則不足以報，大怨則天下之所欲誅，順天下之所同者，德也。",
@@ -220,9 +247,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 1,
-          "start": 0,
-          "end": 9
+          "verseIndex": 14,
+          "start": 6,
+          "end": 6
         },
         "kind": "commentary",
         "text": "以聖人之才猶尚難於細易，況非聖人之才而欲忽於此乎，故曰，猶難之也。",
@@ -233,9 +260,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 5,
-          "start": 0,
-          "end": 13
+          "verseIndex": 14,
+          "start": 6,
+          "end": 6
         },
         "kind": "commentary",
         "text": "",
@@ -271,8 +298,8 @@
             "type": "range",
             "scope": "verse",
             "verseIndex": 0,
-            "start": 4,
-            "end": 5
+            "start": 5,
+            "end": 6
           },
           "kind": "commentary",
           "text": "預有備，除煩省事也。",
@@ -284,8 +311,8 @@
             "type": "range",
             "scope": "verse",
             "verseIndex": 0,
-            "start": 8,
-            "end": 9
+            "start": 10,
+            "end": 11
           },
           "kind": "commentary",
           "text": "深思遠慮，味道意也。",
@@ -322,9 +349,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 1,
-            "start": 0,
-            "end": 9
+            "verseIndex": 7,
+            "start": 8,
+            "end": 8
           },
           "kind": "commentary",
           "text": "欲圖難事，當於易時，未及成也。",
@@ -335,9 +362,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 2,
-            "start": 0,
-            "end": 29
+            "verseIndex": 7,
+            "start": 8,
+            "end": 8
           },
           "kind": "commentary",
           "text": "欲為大事，必作於小，禍亂從小來也。",
@@ -348,9 +375,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 2,
-            "start": 0,
-            "end": 29
+            "verseIndex": 7,
+            "start": 8,
+            "end": 8
           },
           "kind": "commentary",
           "text": "從易生難，從細生著。",
@@ -361,9 +388,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 3,
-            "start": 0,
-            "end": 14
+            "verseIndex": 9,
+            "start": 6,
+            "end": 6
           },
           "kind": "commentary",
           "text": "處謙虛，天下共歸之也。",
@@ -388,8 +415,8 @@
             "type": "range",
             "scope": "verse",
             "verseIndex": 4,
-            "start": 7,
-            "end": 8
+            "start": 10,
+            "end": 11
           },
           "kind": "commentary",
           "text": "不慎患也。",
@@ -413,9 +440,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 5,
-            "start": 0,
-            "end": 13
+            "verseIndex": 14,
+            "start": 6,
+            "end": 6
           },
           "kind": "commentary",
           "text": "聖人終生無患難之事，猶避害深也。",
@@ -438,9 +465,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 11
+            "verseIndex": 2,
+            "start": 4,
+            "end": 4
           },
           "kind": "commentary",
           "text": "以無為為居，以不言為教，以恬淡為味，治之極也。",
@@ -451,9 +478,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 1,
+            "verseIndex": 3,
             "start": 0,
-            "end": 9
+            "end": 10
           },
           "kind": "commentary",
           "text": "小怨則不足以報，大怨則天下之所欲誅，順天下之所同者，德也。",
@@ -464,9 +491,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 1,
-            "start": 0,
-            "end": 9
+            "verseIndex": 14,
+            "start": 6,
+            "end": 6
           },
           "kind": "commentary",
           "text": "以聖人之才猶尚難於細易，況非聖人之才而欲忽於此乎，故曰，猶難之也。",
@@ -477,9 +504,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 5,
-            "start": 0,
-            "end": 13
+            "verseIndex": 14,
+            "start": 6,
+            "end": 6
           },
           "kind": "commentary",
           "text": "",

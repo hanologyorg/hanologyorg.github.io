@@ -9,25 +9,28 @@
   "genre": "prose",
   "verses": [
     {
-      "text": "天下有始 以為天下母"
+      "text": "天下有始，以為天下母。"
     },
     {
-      "text": "既得亓母 以知亓子 復守亓母 沒身不殆"
+      "text": "既得亓母，以知亓子。"
     },
     {
-      "text": "塞亓兌 閉亓門 終身不堇"
+      "text": "復守亓母，沒身不殆。"
     },
     {
-      "text": "啓亓兌 濟亓事 終身不逨"
+      "text": "塞亓兌，閉亓門，終身不堇。"
     },
     {
-      "text": "見小曰明 守柔曰強"
+      "text": "啓亓兌，濟亓事，終身不逨。"
     },
     {
-      "text": "用亓光 復歸亓明"
+      "text": "見小曰：明，守柔曰：強。"
     },
     {
-      "text": "毋遺身殃 是謂襲常"
+      "text": "用亓光，復歸亓明。"
+    },
+    {
+      "text": "毋遺身殃，是謂襲常。"
     }
   ],
   "sections": {},
@@ -52,8 +55,8 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
+          "verseIndex": 2,
+          "start": 10,
           "end": 10
         },
         "kind": "commentary",
@@ -65,8 +68,8 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
+          "verseIndex": 2,
+          "start": 10,
           "end": 10
         },
         "kind": "commentary",
@@ -79,8 +82,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 1,
-          "start": 15,
-          "end": 16
+          "start": 16,
+          "end": 17
         },
         "kind": "commentary",
         "text": "不危殆也。",
@@ -117,9 +120,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
+          "verseIndex": 3,
           "start": 0,
-          "end": 12
+          "end": 13
         },
         "kind": "commentary",
         "text": "人當塞目不妄視，閉口不妄言，則終生不勤苦。",
@@ -130,9 +133,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
+          "verseIndex": 4,
           "start": 0,
-          "end": 12
+          "end": 13
         },
         "kind": "commentary",
         "text": "開目視情欲也。",
@@ -156,9 +159,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 3,
+          "verseIndex": 4,
           "start": 0,
-          "end": 12
+          "end": 13
         },
         "kind": "commentary",
         "text": "禍亂成也。",
@@ -182,9 +185,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 4,
+          "verseIndex": 5,
           "start": 0,
-          "end": 9
+          "end": 12
         },
         "kind": "commentary",
         "text": "守柔弱，日以強大也。",
@@ -221,9 +224,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 5,
+          "verseIndex": 6,
           "start": 0,
-          "end": 8
+          "end": 9
         },
         "kind": "commentary",
         "text": "內視存神，不為漏失。",
@@ -234,9 +237,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 6,
+          "verseIndex": 7,
           "start": 0,
-          "end": 9
+          "end": 10
         },
         "kind": "commentary",
         "text": "人能行此，是謂修習常道。",
@@ -251,7 +254,7 @@
           "scope": "verse",
           "verseIndex": 0,
           "start": 0,
-          "end": 10
+          "end": 11
         },
         "kind": "commentary",
         "text": "善始之則善養畜之矣，故天下有始則可以為天下母矣。(按此段注文原脫，據樓宇烈補。)",
@@ -262,8 +265,8 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
+          "verseIndex": 2,
+          "start": 10,
           "end": 10
         },
         "kind": "commentary",
@@ -288,9 +291,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
+          "verseIndex": 3,
           "start": 0,
-          "end": 12
+          "end": 13
         },
         "kind": "commentary",
         "text": "無事永逸，故終身不勤也。",
@@ -301,9 +304,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 3,
+          "verseIndex": 4,
           "start": 0,
-          "end": 12
+          "end": 13
         },
         "kind": "commentary",
         "text": "不閉其原而濟其事，故雖終身不救。",
@@ -314,9 +317,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 4,
+          "verseIndex": 5,
           "start": 0,
-          "end": 9
+          "end": 12
         },
         "kind": "commentary",
         "text": "為治之功不在大，見大不明，見小乃明。守强不强，守柔乃强也。",
@@ -353,9 +356,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 5,
+          "verseIndex": 6,
           "start": 0,
-          "end": 8
+          "end": 9
         },
         "kind": "commentary",
         "text": "道之常也。",
@@ -403,8 +406,8 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
+            "verseIndex": 2,
+            "start": 10,
             "end": 10
           },
           "kind": "commentary",
@@ -416,8 +419,8 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
+            "verseIndex": 2,
+            "start": 10,
             "end": 10
           },
           "kind": "commentary",
@@ -430,8 +433,8 @@
             "type": "range",
             "scope": "verse",
             "verseIndex": 1,
-            "start": 15,
-            "end": 16
+            "start": 16,
+            "end": 17
           },
           "kind": "commentary",
           "text": "不危殆也。",
@@ -468,9 +471,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 2,
+            "verseIndex": 3,
             "start": 0,
-            "end": 12
+            "end": 13
           },
           "kind": "commentary",
           "text": "人當塞目不妄視，閉口不妄言，則終生不勤苦。",
@@ -481,9 +484,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 2,
+            "verseIndex": 4,
             "start": 0,
-            "end": 12
+            "end": 13
           },
           "kind": "commentary",
           "text": "開目視情欲也。",
@@ -507,9 +510,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 3,
+            "verseIndex": 4,
             "start": 0,
-            "end": 12
+            "end": 13
           },
           "kind": "commentary",
           "text": "禍亂成也。",
@@ -533,9 +536,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 4,
+            "verseIndex": 5,
             "start": 0,
-            "end": 9
+            "end": 12
           },
           "kind": "commentary",
           "text": "守柔弱，日以強大也。",
@@ -572,9 +575,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 5,
+            "verseIndex": 6,
             "start": 0,
-            "end": 8
+            "end": 9
           },
           "kind": "commentary",
           "text": "內視存神，不為漏失。",
@@ -585,9 +588,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 6,
+            "verseIndex": 7,
             "start": 0,
-            "end": 9
+            "end": 10
           },
           "kind": "commentary",
           "text": "人能行此，是謂修習常道。",
@@ -612,7 +615,7 @@
             "scope": "verse",
             "verseIndex": 0,
             "start": 0,
-            "end": 10
+            "end": 11
           },
           "kind": "commentary",
           "text": "善始之則善養畜之矣，故天下有始則可以為天下母矣。(按此段注文原脫，據樓宇烈補。)",
@@ -623,8 +626,8 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
+            "verseIndex": 2,
+            "start": 10,
             "end": 10
           },
           "kind": "commentary",
@@ -649,9 +652,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 2,
+            "verseIndex": 3,
             "start": 0,
-            "end": 12
+            "end": 13
           },
           "kind": "commentary",
           "text": "無事永逸，故終身不勤也。",
@@ -662,9 +665,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 3,
+            "verseIndex": 4,
             "start": 0,
-            "end": 12
+            "end": 13
           },
           "kind": "commentary",
           "text": "不閉其原而濟其事，故雖終身不救。",
@@ -675,9 +678,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 4,
+            "verseIndex": 5,
             "start": 0,
-            "end": 9
+            "end": 12
           },
           "kind": "commentary",
           "text": "為治之功不在大，見大不明，見小乃明。守强不强，守柔乃强也。",
@@ -714,9 +717,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 5,
+            "verseIndex": 6,
             "start": 0,
-            "end": 8
+            "end": 9
           },
           "kind": "commentary",
           "text": "道之常也。",

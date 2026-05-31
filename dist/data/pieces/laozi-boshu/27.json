@@ -9,16 +9,43 @@
   "genre": "prose",
   "verses": [
     {
-      "text": "善行者无轍迹 善言者无瑕適 善數者不用檮策 善閉者无關籥而不可啟也 善結者无纆約而不可解也"
+      "text": "善行者，无轍迹。"
     },
     {
-      "text": "是以聖人恆善救人 而无棄人 物无棄財 是謂曳明"
+      "text": "善言者，无瑕適。"
     },
     {
-      "text": "故善人 善人之師 不善人 善人之齎也"
+      "text": "善數者不用檮策。"
     },
     {
-      "text": "不貴亓師 不愛亓齎 唯知乎大眯 是謂眇要"
+      "text": "善閉者，无關籥而不可啟也。"
+    },
+    {
+      "text": "善結者，无纆約而不可解也。"
+    },
+    {
+      "text": "是以："
+    },
+    {
+      "text": "聖人恆善救人，而无棄人。"
+    },
+    {
+      "text": "物无棄財，是謂曳明。"
+    },
+    {
+      "text": "故"
+    },
+    {
+      "text": "善人，善人之師。"
+    },
+    {
+      "text": "不善人，善人之齎也。"
+    },
+    {
+      "text": "不貴亓師，不愛亓齎。"
+    },
+    {
+      "text": "唯知乎大眯，是謂眇要。"
     }
   ],
   "sections": {},
@@ -30,9 +57,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 45
+          "verseIndex": 4,
+          "start": 13,
+          "end": 13
         },
         "kind": "commentary",
         "text": "善行道者求之於身，不下堂，不出門，故無轍跡。",
@@ -43,9 +70,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 45
+          "verseIndex": 4,
+          "start": 13,
+          "end": 13
         },
         "kind": "commentary",
         "text": "善言謂擇言而出之，則無瑕疵讁過於天下。",
@@ -56,9 +83,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 45
+          "verseIndex": 4,
+          "start": 13,
+          "end": 13
         },
         "kind": "commentary",
         "text": "善以道計事者，則守一不移，所計不多，則不用籌策而可知也。",
@@ -69,9 +96,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 45
+          "verseIndex": 4,
+          "start": 13,
+          "end": 13
         },
         "kind": "commentary",
         "text": "善以道閉情欲、守精神者，不如門戶有關楗可得開。",
@@ -82,9 +109,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 45
+          "verseIndex": 4,
+          "start": 13,
+          "end": 13
         },
         "kind": "commentary",
         "text": "善以道結事者，乃可結其心，不如繩索可得解也。",
@@ -108,9 +135,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 1,
-          "start": 0,
-          "end": 23
+          "verseIndex": 7,
+          "start": 10,
+          "end": 10
         },
         "kind": "commentary",
         "text": "使貴賤各得其所也。",
@@ -121,9 +148,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 1,
-          "start": 0,
-          "end": 23
+          "verseIndex": 7,
+          "start": 10,
+          "end": 10
         },
         "kind": "commentary",
         "text": "聖人所以常教民順四時者，欲以救萬物之殘傷。",
@@ -134,9 +161,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 1,
-          "start": 0,
-          "end": 23
+          "verseIndex": 7,
+          "start": 10,
+          "end": 10
         },
         "kind": "commentary",
         "text": "聖人不賤名而貴玉視之如一。",
@@ -147,9 +174,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 1,
-          "start": 0,
-          "end": 23
+          "verseIndex": 7,
+          "start": 10,
+          "end": 10
         },
         "kind": "commentary",
         "text": "聖人善救人物，是謂襲明大道。",
@@ -160,9 +187,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 1,
-          "start": 0,
-          "end": 23
+          "verseIndex": 10,
+          "start": 10,
+          "end": 10
         },
         "kind": "commentary",
         "text": "人之行善者，聖人即以為人師。",
@@ -173,9 +200,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
-          "start": 0,
-          "end": 18
+          "verseIndex": 10,
+          "start": 10,
+          "end": 10
         },
         "kind": "commentary",
         "text": "資，用也。人行不善者，聖人猶教導使為善，得以給用也。",
@@ -199,9 +226,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 3,
-          "start": 0,
-          "end": 20
+          "verseIndex": 12,
+          "start": 11,
+          "end": 11
         },
         "kind": "commentary",
         "text": "無所使也。",
@@ -212,9 +239,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 3,
-          "start": 0,
-          "end": 20
+          "verseIndex": 12,
+          "start": 11,
+          "end": 11
         },
         "kind": "commentary",
         "text": "雖自以為智。言此人乃大迷惑。",
@@ -225,9 +252,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 3,
-          "start": 0,
-          "end": 20
+          "verseIndex": 12,
+          "start": 11,
+          "end": 11
         },
         "kind": "commentary",
         "text": "能通此意，是謂知微妙要道也。",
@@ -240,9 +267,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 45
+          "verseIndex": 4,
+          "start": 13,
+          "end": 13
         },
         "kind": "commentary",
         "text": "順自然而行，不造不始，故物得至而無轍迹也。",
@@ -253,9 +280,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 45
+          "verseIndex": 4,
+          "start": 13,
+          "end": 13
         },
         "kind": "commentary",
         "text": "順物之性，不別不析，故無瑕讁可得其門也。",
@@ -266,9 +293,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 45
+          "verseIndex": 4,
+          "start": 13,
+          "end": 13
         },
         "kind": "commentary",
         "text": "因物之數，不假形也。",
@@ -279,9 +306,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 45
+          "verseIndex": 4,
+          "start": 13,
+          "end": 13
         },
         "kind": "commentary",
         "text": "因物自然，不設不施，故不用關楗繩約而不可開解也。此五者皆言不造不施，因物之性，不以形制物也。",
@@ -292,9 +319,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 45
+          "verseIndex": 7,
+          "start": 10,
+          "end": 10
         },
         "kind": "commentary",
         "text": "聖人不立形名以檢於物，不造進向以殊棄不肖，輔萬物之自然而不為始，故曰無棄人也。不尚賢能，則民不爭，不貴難得之貨，則民不為盜，不見可欲，則民心不亂。常使民心無欲無惑，則無棄人矣。",
@@ -305,9 +332,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 45
+          "verseIndex": 10,
+          "start": 10,
+          "end": 10
         },
         "kind": "commentary",
         "text": "舉善以師不善，故謂之師矣。",
@@ -318,9 +345,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 45
+          "verseIndex": 10,
+          "start": 10,
+          "end": 10
         },
         "kind": "commentary",
         "text": "資，取也。善人以善齊不善，以善棄不善也。故不善人，善人之所取也。",
@@ -331,9 +358,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 45
+          "verseIndex": 12,
+          "start": 11,
+          "end": 11
         },
         "kind": "commentary",
         "text": "雖有其智，自任其智，不因物，於其道必失。故曰，雖智大迷。",
@@ -344,9 +371,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 45
+          "verseIndex": 4,
+          "start": 13,
+          "end": 13
         },
         "kind": "commentary",
         "text": "",
@@ -381,9 +408,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 45
+            "verseIndex": 4,
+            "start": 13,
+            "end": 13
           },
           "kind": "commentary",
           "text": "善行道者求之於身，不下堂，不出門，故無轍跡。",
@@ -394,9 +421,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 45
+            "verseIndex": 4,
+            "start": 13,
+            "end": 13
           },
           "kind": "commentary",
           "text": "善言謂擇言而出之，則無瑕疵讁過於天下。",
@@ -407,9 +434,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 45
+            "verseIndex": 4,
+            "start": 13,
+            "end": 13
           },
           "kind": "commentary",
           "text": "善以道計事者，則守一不移，所計不多，則不用籌策而可知也。",
@@ -420,9 +447,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 45
+            "verseIndex": 4,
+            "start": 13,
+            "end": 13
           },
           "kind": "commentary",
           "text": "善以道閉情欲、守精神者，不如門戶有關楗可得開。",
@@ -433,9 +460,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 45
+            "verseIndex": 4,
+            "start": 13,
+            "end": 13
           },
           "kind": "commentary",
           "text": "善以道結事者，乃可結其心，不如繩索可得解也。",
@@ -459,9 +486,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 1,
-            "start": 0,
-            "end": 23
+            "verseIndex": 7,
+            "start": 10,
+            "end": 10
           },
           "kind": "commentary",
           "text": "使貴賤各得其所也。",
@@ -472,9 +499,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 1,
-            "start": 0,
-            "end": 23
+            "verseIndex": 7,
+            "start": 10,
+            "end": 10
           },
           "kind": "commentary",
           "text": "聖人所以常教民順四時者，欲以救萬物之殘傷。",
@@ -485,9 +512,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 1,
-            "start": 0,
-            "end": 23
+            "verseIndex": 7,
+            "start": 10,
+            "end": 10
           },
           "kind": "commentary",
           "text": "聖人不賤名而貴玉視之如一。",
@@ -498,9 +525,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 1,
-            "start": 0,
-            "end": 23
+            "verseIndex": 7,
+            "start": 10,
+            "end": 10
           },
           "kind": "commentary",
           "text": "聖人善救人物，是謂襲明大道。",
@@ -511,9 +538,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 1,
-            "start": 0,
-            "end": 23
+            "verseIndex": 10,
+            "start": 10,
+            "end": 10
           },
           "kind": "commentary",
           "text": "人之行善者，聖人即以為人師。",
@@ -524,9 +551,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 2,
-            "start": 0,
-            "end": 18
+            "verseIndex": 10,
+            "start": 10,
+            "end": 10
           },
           "kind": "commentary",
           "text": "資，用也。人行不善者，聖人猶教導使為善，得以給用也。",
@@ -550,9 +577,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 3,
-            "start": 0,
-            "end": 20
+            "verseIndex": 12,
+            "start": 11,
+            "end": 11
           },
           "kind": "commentary",
           "text": "無所使也。",
@@ -563,9 +590,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 3,
-            "start": 0,
-            "end": 20
+            "verseIndex": 12,
+            "start": 11,
+            "end": 11
           },
           "kind": "commentary",
           "text": "雖自以為智。言此人乃大迷惑。",
@@ -576,9 +603,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 3,
-            "start": 0,
-            "end": 20
+            "verseIndex": 12,
+            "start": 11,
+            "end": 11
           },
           "kind": "commentary",
           "text": "能通此意，是謂知微妙要道也。",
@@ -601,9 +628,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 45
+            "verseIndex": 4,
+            "start": 13,
+            "end": 13
           },
           "kind": "commentary",
           "text": "順自然而行，不造不始，故物得至而無轍迹也。",
@@ -614,9 +641,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 45
+            "verseIndex": 4,
+            "start": 13,
+            "end": 13
           },
           "kind": "commentary",
           "text": "順物之性，不別不析，故無瑕讁可得其門也。",
@@ -627,9 +654,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 45
+            "verseIndex": 4,
+            "start": 13,
+            "end": 13
           },
           "kind": "commentary",
           "text": "因物之數，不假形也。",
@@ -640,9 +667,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 45
+            "verseIndex": 4,
+            "start": 13,
+            "end": 13
           },
           "kind": "commentary",
           "text": "因物自然，不設不施，故不用關楗繩約而不可開解也。此五者皆言不造不施，因物之性，不以形制物也。",
@@ -653,9 +680,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 45
+            "verseIndex": 7,
+            "start": 10,
+            "end": 10
           },
           "kind": "commentary",
           "text": "聖人不立形名以檢於物，不造進向以殊棄不肖，輔萬物之自然而不為始，故曰無棄人也。不尚賢能，則民不爭，不貴難得之貨，則民不為盜，不見可欲，則民心不亂。常使民心無欲無惑，則無棄人矣。",
@@ -666,9 +693,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 45
+            "verseIndex": 10,
+            "start": 10,
+            "end": 10
           },
           "kind": "commentary",
           "text": "舉善以師不善，故謂之師矣。",
@@ -679,9 +706,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 45
+            "verseIndex": 10,
+            "start": 10,
+            "end": 10
           },
           "kind": "commentary",
           "text": "資，取也。善人以善齊不善，以善棄不善也。故不善人，善人之所取也。",
@@ -692,9 +719,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 45
+            "verseIndex": 12,
+            "start": 11,
+            "end": 11
           },
           "kind": "commentary",
           "text": "雖有其智，自任其智，不因物，於其道必失。故曰，雖智大迷。",
@@ -705,9 +732,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 45
+            "verseIndex": 4,
+            "start": 13,
+            "end": 13
           },
           "kind": "commentary",
           "text": "",

@@ -1,40 +1,39 @@
 {
   "bookId": "skqs-yantielun",
   "num": 34,
-  "title": "鹽鐡論卷五",
-  "author": "桓寬",
-  "authorId": "桓寬",
+  "title": "孝養第二十五",
+  "author": "",
+  "authorId": "",
   "dynasty": "漢",
   "era": "漢",
-  "eraCode": "07",
   "genre": "prose",
   "verses": [
     {
-      "text": "漢　桓　寛　撰"
+      "text": "丞相史曰葢聞士之居世也衣服足以勝身食飲足以供親内足以相䘏外不求於人故身修然後可以理家家治然後可以治官故飯䓸糲者不可以言孝妻子饑寒者不可以言慈緒業不備者不可以言理居斯世行斯身而有此三累者斯亦足以黙矣"
     },
     {
-      "text": "眀　張之象　註"
+      "text": "文學曰善養者不必芻豢也善供服者不必錦繡也以已之所有盡事其親孝之至也故匹夫勤勞猶足以順禮歠菽飲水足以致其敬孔子曰今之孝者是謂能養不敬何以别乎故上孝養志其次養色其次養體貴其禮不貪其養禮順心和養雖不備可也易曰東鄰殺牛不如西鄰之禴祭也故富貴而無禮不如貧賤之孝悌閨門之内盡孝焉閨門之外盡悌焉朋友之道盡信焉三者孝之至也居家理者非謂積財也事親孝者非謂鮮肴也亦和顔色承意盡禮義而已矣"
     },
     {
-      "text": "毁學第十八"
+      "text": "丞相史曰八十曰耋七十曰耄耄食非肉不飽衣非帛不暖故孝子日甘毳以養口輕暖以養體曽子養曽晳必有酒肉無端絻雖公西赤不能以為容無肴膳雖閔曽不能以卒養禮無虚加故必有其實然後為之父子與其禮有餘而養不足寧養有餘而禮不足夫洗爵以盛水升降而進糲禮雖備然非其貴者也"
     },
     {
-      "text": "大夫曰夫懐枉而言正自託扵無欲而實不從此非士之情也昔李斯與包丘子俱事荀卿既而李斯入秦遂取三公據萬乘以制海内功侔伊望名巨太山而包丘子不免扵甕牖蒿廬如潦嵗之鼃口非不衆也然卒死扵溝壑而已今内無以養外無以稱貧賤而好義雖言好義亦不足貴者也"
+      "text": "文學曰周襄王之母非無酒肉也衣食非不如曽晳也然而被不孝之名以其不能事其父母也君子重其禮小人貪其養夫嗟来而招之投而與之乞者猶不取也君子苟無其禮雖美不食焉故禮主人不親饋則客不祭是饋輕而禮重也"
     },
     {
-      "text": "文學曰方李斯之相秦也始皇任之人臣無二然而荀卿為之不食覩其罹不測之禍也包丘子飯麻蓬藜修道白屋之下樂其志安之扵廣厦芻豢無赫赫之勢亦無戚戚之憂夫晉獻垂棘非不美也宫之竒見之而歎知荀息之圖之也知伯富有三晉非不盛也然不知襄子之謀之也季孫之狐貉非不麗也然不知魯君之患之也故晋獻以寶馬釣虞虢襄子以城壊誘知伯身禽扵趙而虞虢卒并扵晉以其務得不顧其後貪土地而利寶馬也孔子曰人無逺慮必有近憂今之在位者見利不虞害貪得不顧耻以利易身以財易死無仁義之徳而有富貴之祿若䧟坎穽食扵縣門之下此李斯之所以具五刑也南方有鳥名鵷雛非竹實不食非醴泉不飲飛過太山太山之鴟俛啄腐鼠見鵷鶵而嚇今公卿以其富貴笑儒者為之常行得無若太山鴟嚇鵷鶵乎"
+      "text": "丞相史曰孝莫大以天下一國養次祿養下以力故王公人君上也卿大夫次也夫以家人言之有賢子者當路於世者髙堂𮟏宇安車大馬衣輕暖食甘毳無厭者褐衣皮冠窮居陋巷有旦無暮食䓸糲者葷茹膢臘而後見肉審老親之腹非唐園唯菜是盛夫䓸糲乞者所不取而子以養親雖欲以禮非其貴也"
     },
     {
-      "text": "大夫曰學者所以坊固辭禮者所以文鄙行也故學以輔徳禮以文質言思可道行思可樂惡言不出扵口邪行不及扵已動作應禮從容中道故禮以　之孫以出之是以終日言無口過終身行無寃尤今人主張官立朝以治民疏爵分禄以褒賢而曰縣門腐䑕何辭之鄙倍而悖扵所聞也"
+      "text": "文學曰無其能而竊其位無其功而有其祿雖有富貴由蹠蹻之養也髙臺極望食案方丈而不可謂孝老親之腹非盗囊也何故常盛不道之物夫取非有非職財入而患從之身且死禍殃安得膢臘而食肉曽参閔子無卿相之養而有孝子之名周襄王富有天下而有不能事父母之累故禮菲而養豐非孝也凉囷而以養非孝也"
     },
     {
-      "text": "文學曰聖主設官以授任能者處之分祿以養賢䏻者受之義貴無髙義取無多故舜受堯之天下太公不避周之三公苟非其人簞食豆羮猶為頼民也故徳薄而位髙力小而任重鮮不及矣夫太山鴟啄腐鼠扵窮澤幽谷之中非有害於人也今之有司盗主財而食之扵刑法之旁不知機之是發又以嚇人其患惡得若太山之鴟乎"
+      "text": "丞相史曰上孝養色其次安親其次全身徃者陳餘背漢斬於泜水伍被邪逆而夷三族近世主父偃行不軌而誅滅吕步舒弄口而見戮行身不謹誅及無罪之親由此觀之虗禮無益於已也文實配行禮養俱施然後可以言孝孝在扵質實不在扵飾貌全身在扵謹慎不在於馳語也"
     },
     {
-      "text": "大夫曰司馬子言天下穰穰皆為利徃趙女不擇醜好鄭嫗不擇逺近商人不醜耻辱戎士不為死力士不在親事君不避其難皆為利禄也儒墨内貪外矜徃来㳺說栖栖然亦未為得也故尊榮者士之願也富貴者士之期也方李斯在荀卿之門闒茸與之齊軫及其奮翼髙舉龍昇驥騖過九軼二翺翔萬仞鴻鵠驊騮且同侣况跛牂燕雀之属乎席天下之權御宇内之衆後車百乘食祿萬鍾而拘儒布褐不完糟糠不飽非甘菽藿而卑廣厦亦不䏻得已雖欲嚇人其何已乎"
+      "text": "文學曰言而不誠期而不信臨難不勇事君不忠不孝之大者也孟子曰今之士今之大夫皆罪人也皆逢其意以順其惡今子不忠不信巧言以亂政導䛕以求合若此者不容於世春秋曰士守一不移循理不外援共其職而已故卑位而言髙者罪也言不及而言者傲也有詔公卿與斯議而空戰口也"
     },
     {
-      "text": "文學曰君子懐徳小人懐土賢士殉名貪夫死利李斯貪其所欲致其所惡孫叔敖早見扵未萌三去相而不悔非樂卑賤而惡重祿也慮逺而避害謹也夫郊祭之牛食養朞年衣之文繡以入廟堂太宰執其鸞刀以啟其毛方此之時願任重而止峻坂不可得也商鞅困扵彭池吳起之伏王尸願被布褐而處窮鄙之蒿廬李斯相秦席天下之勢志小萬乘及其囚扵囹圄車制扵雲陽之市亦願負薪入鴻門行上蔡曲街徑不可得也蘇秦吳起以權勢自殺商鞅李斯以尊重自滅皆貪禄慕榮以𣳚其身從車百乘曽不足以載其禍也"
+      "text": "鹽鐵論卷六"
     }
   ],
   "sections": {},
@@ -46,12 +45,12 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 3,
+          "verseIndex": 0,
           "start": 0,
-          "end": 7
+          "end": 5
         },
         "kind": "semantic",
-        "text": "音扶",
+        "text": "去聲",
         "source": "cham"
       },
       {
@@ -59,12 +58,12 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 3,
-          "start": 7,
-          "end": 51
+          "verseIndex": 0,
+          "start": 5,
+          "end": 55
         },
         "kind": "semantic",
-        "text": "去聲",
+        "text": "上聲",
         "source": "cham"
       },
       {
@@ -72,12 +71,12 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 3,
-          "start": 51,
-          "end": 59
+          "verseIndex": 0,
+          "start": 55,
+          "end": 56
         },
         "kind": "semantic",
-        "text": "謂伊尹太公望也",
+        "text": "音奸",
         "source": "cham"
       },
       {
@@ -85,12 +84,12 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 3,
-          "start": 59,
-          "end": 79
+          "verseIndex": 0,
+          "start": 56,
+          "end": 57
         },
         "kind": "semantic",
-        "text": "音蛙",
+        "text": "音辣",
         "source": "cham"
       },
       {
@@ -98,12 +97,12 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 3,
-          "start": 79,
-          "end": 105
+          "verseIndex": 0,
+          "start": 57,
+          "end": 63
         },
         "kind": "semantic",
-        "text": "去聲",
+        "text": "䓸蔬菜也孟康曰糲粗米也張晏曰一斗粟七升米為糲",
         "source": "cham"
       },
       {
@@ -111,12 +110,12 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 3,
-          "start": 105,
-          "end": 109
+          "verseIndex": 0,
+          "start": 63,
+          "end": 98
         },
         "kind": "semantic",
-        "text": "去聲",
+        "text": "韓嬰曰曽子仕於莒得粟三秉方是之時曽子重其祿而輕其身親沒之後齊迎以相楚迎以令尹晋迎以上卿方是之時曽子重其身而輕其祿懐其寶而迷其國者不可以語仁窘其身而約其親者不可與語孝任重道逺者不擇地而息家貧親老者不擇官而仕故君子釋褐趨時當務為急傳云不逢時而仕任事而敦其慮為之使而不入其謀貧焉故也詩曰夙夜在公實命不同",
         "source": "cham"
       },
       {
@@ -124,9 +123,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 4,
+          "verseIndex": 1,
           "start": 0,
-          "end": 11
+          "end": 8
         },
         "kind": "semantic",
         "text": "去聲",
@@ -137,12 +136,12 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 4,
-          "start": 11,
-          "end": 37
+          "verseIndex": 1,
+          "start": 8,
+          "end": 23
         },
         "kind": "semantic",
-        "text": "李斯傳曰斯長男由為三川守諸男皆尚秦公主女悉嫁秦諸公子三川守李由吿歸咸陽置酒扵家百官長皆前為夀門庭車騎以千數李斯喟然而歎曰嗟乎吾聞之荀卿曰物禁太盛夫斯乃上蔡布衣閭巷之黔首上不知其駑下遂擢至此當今人臣之位無居臣上者可謂富貴極矣物極則衰吾未知所稅駕也申屠剛曰損益之際孔父攸歎持滿之戒老氏所慎蓋功葢天下者不安威震人主者不全",
+        "text": "韓非子曰糟糠不飽者不務粱肉裋褐不𡧗者不待文繡",
         "source": "cham"
       },
       {
@@ -150,12 +149,12 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 4,
-          "start": 37,
-          "end": 51
+          "verseIndex": 1,
+          "start": 23,
+          "end": 47
         },
         "kind": "semantic",
-        "text": "音洛",
+        "text": "音轍",
         "source": "cham"
       },
       {
@@ -163,12 +162,12 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 4,
-          "start": 51,
-          "end": 71
+          "verseIndex": 1,
+          "start": 47,
+          "end": 55
         },
         "kind": "semantic",
-        "text": "陸雲曰富貴者人之所欲也而古之逸民輕天下細萬物而欲專一丘之歡擅一壑之美豈不以身重扵宇宙而恬貴扵芬華哉天地不易其樂萬物不干其志然後可以妙有生之極固無疆之休",
+        "text": "子路曰傷哉貧也生無以為養死無以為禮也孔子曰啜菽飲水盡其歡斯之謂孝歛首足形還葬而無椁稱其財斯謂之禮",
         "source": "cham"
       },
       {
@@ -176,12 +175,12 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 4,
-          "start": 71,
-          "end": 72
+          "verseIndex": 1,
+          "start": 55,
+          "end": 66
         },
         "kind": "semantic",
-        "text": "音扶",
+        "text": "去聲",
         "source": "cham"
       },
       {
@@ -189,9 +188,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 4,
-          "start": 72,
-          "end": 95
+          "verseIndex": 1,
+          "start": 66,
+          "end": 76
         },
         "kind": "semantic",
         "text": "去聲",
@@ -202,12 +201,12 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 4,
-          "start": 95,
-          "end": 131
+          "verseIndex": 1,
+          "start": 76,
+          "end": 80
         },
-        "kind": "fanqie",
-        "text": "人間訓曰晉獻公欲假道扵虞以伐虢遺虞垂棘之璧與屈産之乘虞公惑扵璧與馬而欲與之道宫之竒諫曰不可夫虞之與虢若車之有輪輪依扵車車亦依輪虞之與虢相恃為勢也若假之道虢朝亡而虞夕從之矣虞公弗聽遂假之道荀息伐虢遂克之還反伐虞又㧞之趙世家曰襄子立四年智伯與趙韓魏盡分其范中行故地智伯益驕請地韓魏韓魏與之請地趙趙不與以其圍鄭之辱智伯怒遂率韓魏攻趙趙襄子懼乃奔保晉陽三國攻晉陽嵗餘引汾灌其城城不浸者三版城中懸釜而炊易子而食襄子懼乃夜使張孟同私於韓魏韓魏與合謀三國反滅智伯共分其地魯世家曰哀公患三桓将欲因諸侯以刼之三桓亦患公作難故君臣多間泰族訓曰晉獻公之伐驪得其女非不善也然而史蘇歎之見其四世之被禍也吴王夫差破齊艾陵勝晉黄池非不捷也而子胥憂之見其必擒扵越也小白奔莒重耳奔曹非不困也而鮑叔咎犯隨而輔之知其可與至扵覇也勾踐棲扵㑹稽修政不殆謨慮不休知禍之為福也襄子再勝而有憂色畏福之為禍也故齊桓亡汶陽之田而覇智伯兼三晉之地而亡聖人見禍福扵重閉之内而慮患扵九拂之外者也",
+        "kind": "semantic",
+        "text": "去聲",
         "source": "cham"
       },
       {
@@ -215,9 +214,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 4,
-          "start": 131,
-          "end": 147
+          "verseIndex": 1,
+          "start": 80,
+          "end": 84
         },
         "kind": "semantic",
         "text": "去聲",
@@ -228,12 +227,12 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 4,
-          "start": 147,
-          "end": 150
+          "verseIndex": 1,
+          "start": 84,
+          "end": 97
         },
         "kind": "semantic",
-        "text": "通作擒",
+        "text": "去聲",
         "source": "cham"
       },
       {
@@ -241,12 +240,12 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 4,
-          "start": 150,
-          "end": 175
+          "verseIndex": 1,
+          "start": 97,
+          "end": 102
         },
         "kind": "semantic",
-        "text": "申旗曰昔者六晉之時智氏最強滅破范中行又帥韓魏以圍趙襄子扵晉陽決晉水以灌晉陽城不沉者三版耳智伯出行水韓康子御魏桓子驂乘智伯曰始吾不知水之可亡人之國也乃今知之汾水利以灌安邑絳水利以灌平陽魏桓子肘韓康子康子履魏桓子躡其踵肘足接扵車上而智氏分矣身死國亡為天下笑繆稱訓曰無勇者非先懾也難至而失其守也貪婪者非先欲也見利而忘其害也虞公見垂棘之璧而不知虢禍之及己也",
+        "text": "曾子曰孝有三大孝尊親其次弗辱其下能養公明儀問於曽子曰夫子可以為孝乎曽子曰是何言與是何言與君子之所謂孝者先意承志諭父母於道参直養者也安能為孝乎",
         "source": "cham"
       },
       {
@@ -254,12 +253,12 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 4,
-          "start": 175,
-          "end": 224
+          "verseIndex": 1,
+          "start": 102,
+          "end": 116
         },
         "kind": "semantic",
-        "text": "音淨",
+        "text": "反質萹曰信鬼神者失謀信日者失時何以知其然夫賢聖周知能不時日而事利敬法令貲功勞不卜筮而身吉謹仁義順道理不禱祠而福故卜數擇日㓗齊盛肥犧牲飾珪璧精祠祀而終不能除悖逆之祸以神明有知而事之乃欲背道妄行而以祠祀求福神明必違之矣天子祭天地五嶽四瀆諸侯祭社稷大夫祭五祀士祭門户庶人祭其先祖聖王承天心制禮分也凡古之卜日者将以輔道稽疑示有所先而不敢自專也非欲以顛倒之惡而幸安全之孔子曰非其鬼而祭之諂也是以泰山終不享季氏之旅易稱東鄰殺牛不如西鄰之禴祭葢重禮不貴牲也敬實而不貴華誠有其徳而推之則安徃而不可是以聖人見人之文必考其質",
         "source": "cham"
       },
       {
@@ -267,12 +266,12 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 4,
-          "start": 224,
-          "end": 227
+          "verseIndex": 1,
+          "start": 116,
+          "end": 183
         },
         "kind": "semantic",
-        "text": "音懸",
+        "text": "曲禮曰貧者不以貨財為禮老者不以筋力為禮祭義曰孝子之有深愛者必有和氣有和氣者必有愉色有愉色者必有婉容孝子如執玉如奉盈洞洞屬屬然如弗勝如將失之嚴威儼恪非所以事親也成人之道也",
         "source": "cham"
       },
       {
@@ -280,12 +279,12 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 4,
-          "start": 227,
-          "end": 240
+          "verseIndex": 2,
+          "start": 0,
+          "end": 5
         },
         "kind": "semantic",
-        "text": "傳曰李斯楚上蔡人也從荀卿學帝王之術入秦秦卒用其計二十餘年竟并天下以斯為丞相二世立以郎中趙髙之譖乃具斯五刑腰斬咸陽",
+        "text": "去聲",
         "source": "cham"
       },
       {
@@ -293,12 +292,12 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 4,
-          "start": 240,
-          "end": 266
+          "verseIndex": 2,
+          "start": 5,
+          "end": 32
         },
-        "kind": "semantic",
-        "text": "音免",
+        "kind": "tone",
+        "text": "去聲",
         "source": "cham"
       },
       {
@@ -306,12 +305,12 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 4,
-          "start": 266,
-          "end": 274
+          "verseIndex": 2,
+          "start": 32,
+          "end": 34
         },
         "kind": "semantic",
-        "text": "音黒",
+        "text": "去聲",
         "source": "cham"
       },
       {
@@ -319,12 +318,12 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 4,
-          "start": 274,
-          "end": 295
+          "verseIndex": 2,
+          "start": 34,
+          "end": 39
         },
         "kind": "semantic",
-        "text": "音黒",
+        "text": "去聲",
         "source": "cham"
       },
       {
@@ -332,12 +331,12 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 4,
-          "start": 295,
-          "end": 295
+          "verseIndex": 2,
+          "start": 39,
+          "end": 43
         },
         "kind": "semantic",
-        "text": "南華經曰恵子相梁荘子往見之或謂恵子曰荘子来欲代子相扵是恵子恐搜扵國中三日三夜莊子徃見之曰南方有鳥其名鵷鶵子知之乎夫鵷鶵發扵南海而飛扵北海非梧桐不棲非竹實不食非醴泉不飲扵是鴟得腐䑕鵷鶵過之仰而視之曰嚇今子欲以子之梁國而嚇我耶",
+        "text": "去聲",
         "source": "cham"
       },
       {
@@ -345,12 +344,12 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 5,
-          "start": 0,
-          "end": 11
+          "verseIndex": 2,
+          "start": 43,
+          "end": 52
         },
         "kind": "semantic",
-        "text": "古防字",
+        "text": "音問",
         "source": "cham"
       },
       {
@@ -358,9 +357,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 5,
-          "start": 11,
-          "end": 20
+          "verseIndex": 2,
+          "start": 52,
+          "end": 72
         },
         "kind": "semantic",
         "text": "去聲",
@@ -371,12 +370,12 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 5,
-          "start": 20,
-          "end": 38
+          "verseIndex": 2,
+          "start": 72,
+          "end": 94
         },
         "kind": "semantic",
-        "text": "音洛",
+        "text": "去聲",
         "source": "cham"
       },
       {
@@ -384,9 +383,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 5,
-          "start": 38,
-          "end": 46
+          "verseIndex": 2,
+          "start": 94,
+          "end": 98
         },
         "kind": "semantic",
         "text": "去聲",
@@ -397,12 +396,12 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 5,
-          "start": 46,
-          "end": 57
+          "verseIndex": 2,
+          "start": 98,
+          "end": 105
         },
         "kind": "semantic",
-        "text": "去聲",
+        "text": "音扶",
         "source": "cham"
       },
       {
@@ -410,12 +409,12 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 5,
-          "start": 57,
-          "end": 64
+          "verseIndex": 2,
+          "start": 105,
+          "end": 115
         },
         "kind": "semantic",
-        "text": "音遜",
+        "text": "音辣",
         "source": "cham"
       },
       {
@@ -423,12 +422,12 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 5,
-          "start": 64,
-          "end": 88
+          "verseIndex": 3,
+          "start": 0,
+          "end": 40
         },
         "kind": "semantic",
-        "text": "音潮",
+        "text": "春秋曰天王出居於鄭左傳曰冬王使来告難曰不榖不徳得罪于母弟之寵子帶鄙在鄭地氾敢吿叔父臧文仲對曰天子蒙塵于外敢不奔問官守王使簡師父告于晋使左鄢父吿于秦天子無出書曰天王出居于鄭辟母弟之難也天子凶服降名禮也鄭伯與孔将鉏石甲父侯宣多省視官具于氾而後聼其私政禮也公羊傳曰王者無外此其言出何不能乎母也曽子曰是王也不能乎母者其諸此之謂與",
         "source": "cham"
       },
       {
@@ -436,12 +435,12 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 5,
-          "start": 88,
-          "end": 101
+          "verseIndex": 3,
+          "start": 40,
+          "end": 50
         },
         "kind": "semantic",
-        "text": "音懸",
+        "text": "去聲",
         "source": "cham"
       },
       {
@@ -449,12 +448,12 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 5,
-          "start": 101,
-          "end": 112
+          "verseIndex": 3,
+          "start": 50,
+          "end": 51
         },
-        "kind": "fanqie",
-        "text": "人間訓曰虞氏梁之大富人也家充盈殷富金錢無量財貨無貲升髙樓臨大路設樂陳酒積博其上游侠相隨而行樓下博上者射朋張中反兩而笑飛鳶適墮其腐䑕而中㳺侠㳺侠相與言曰虞世審樂之日久矣而常有輕易人之志吾不敢侵犯而乃辱我以腐䑕如此不報無以立務扵天下請與公僇力一志悉率徒属而必以滅其家",
+        "kind": "semantic",
+        "text": "音扶",
         "source": "cham"
       },
       {
@@ -462,12 +461,12 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 6,
-          "start": 0,
-          "end": 26
+          "verseIndex": 3,
+          "start": 51,
+          "end": 66
         },
         "kind": "semantic",
-        "text": "說命曰官不及私昵惟其䏻爵罔及惡徳惟其賢",
+        "text": "雜事萹曰齊大饑黔敖為食於路以待餓者而食之有餓者蒙袂輯屨貿貿然来黔敖左奉食右執飲曰嗟来食餓者揚 --（『昜』上『旦』之『日』與『一』相連）其目而視之曰予唯不食嗟来之食以至於此也従而謝焉終不食而死曽子聞之曰㣲與其嗟也可去其謝也可食",
         "source": "cham"
       },
       {
@@ -475,12 +474,12 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 6,
-          "start": 26,
-          "end": 49
+          "verseIndex": 3,
+          "start": 66,
+          "end": 92
         },
-        "kind": "fanqie",
-        "text": "馮忌曰昔者堯見舜扵草茅之中席隴畝而庇桑隂隂移而天下傳尚書中𠉀曰文王至田扵溪水畔吕尚釣扵崖王下拜曰切望公七年乃今見光景于斯尚立變名答曰望釣得玉璜刻曰姬受命吕佐旌徳合昌来提撰爾雒鈴報在齊尊賢篇曰堯舜相見不違桑隂文王舉太公不以日久故賢聖之接也不待久而親䏻者之相見也不待試而知矣",
+        "kind": "semantic",
+        "text": "坊記曰子云敬則用祭器故君子不以菲廢禮不以美沒禮故食禮主人親饋則客祭主人不親饋則客不祭故君子苟無禮雖美不食焉易曰東鄰殺牛不如西鄰之禴祭寔受其福詩云既醉以酒既飽以徳以此示民民猶争利而忘義齊俗訓曰禮豐不足以效愛而誠心可以懷逺故公西華之養親也若與朋友處曽参之養親也若事嚴主烈君其於養一也",
         "source": "cham"
       },
       {
@@ -488,12 +487,12 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 6,
-          "start": 49,
-          "end": 55
+          "verseIndex": 4,
+          "start": 0,
+          "end": 5
         },
         "kind": "semantic",
-        "text": "音嗣",
+        "text": "去聲",
         "source": "cham"
       },
       {
@@ -501,12 +500,12 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 6,
-          "start": 55,
-          "end": 62
+          "verseIndex": 4,
+          "start": 5,
+          "end": 16
         },
         "kind": "semantic",
-        "text": "頼幸也",
+        "text": "去聲",
         "source": "cham"
       },
       {
@@ -514,12 +513,12 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 6,
-          "start": 62,
-          "end": 74
+          "verseIndex": 4,
+          "start": 16,
+          "end": 19
         },
         "kind": "semantic",
-        "text": "上聲",
+        "text": "去聲",
         "source": "cham"
       },
       {
@@ -527,12 +526,12 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 6,
-          "start": 74,
-          "end": 77
+          "verseIndex": 4,
+          "start": 19,
+          "end": 35
         },
         "kind": "semantic",
-        "text": "易曰鼎折足覆公餗其形渥凶子曰徳薄而位尊智小而謀大力小而任重鮮不及矣說林訓曰短綆不可以汲深器小不可以盛大非其任也陸子曰任重於力才盡則困用廣其器應博則凶是以物勝權而衡殆形過鏡則照窮故明主程才以効業貞臣底力而辭豐",
+        "text": "音扶",
         "source": "cham"
       },
       {
@@ -540,12 +539,12 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 6,
-          "start": 77,
-          "end": 78
+          "verseIndex": 4,
+          "start": 35,
+          "end": 53
         },
         "kind": "semantic",
-        "text": "音扶",
+        "text": "音遂",
         "source": "cham"
       },
       {
@@ -553,12 +552,12 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 6,
-          "start": 78,
-          "end": 121
+          "verseIndex": 4,
+          "start": 53,
+          "end": 59
         },
         "kind": "semantic",
-        "text": "音黒",
+        "text": "去聲",
         "source": "cham"
       },
       {
@@ -566,12 +565,12 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 6,
-          "start": 121,
-          "end": 125
+          "verseIndex": 4,
+          "start": 59,
+          "end": 64
         },
-        "kind": "semantic",
-        "text": "音烏",
+        "kind": "tone",
+        "text": "去聲",
         "source": "cham"
       },
       {
@@ -579,12 +578,12 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 7,
-          "start": 0,
-          "end": 18
+          "verseIndex": 4,
+          "start": 64,
+          "end": 81
         },
         "kind": "semantic",
-        "text": "貨殖傳曰天下熈熙皆為利来天下穰穰皆為利徃",
+        "text": "音奸",
         "source": "cham"
       },
       {
@@ -592,12 +591,12 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 7,
-          "start": 18,
-          "end": 26
+          "verseIndex": 4,
+          "start": 81,
+          "end": 82
         },
         "kind": "semantic",
-        "text": "音預",
+        "text": "音辣",
         "source": "cham"
       },
       {
@@ -605,12 +604,12 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 7,
-          "start": 26,
-          "end": 52
+          "verseIndex": 4,
+          "start": 82,
+          "end": 86
         },
         "kind": "semantic",
-        "text": "去聲",
+        "text": "音婁又音劉",
         "source": "cham"
       },
       {
@@ -618,12 +617,12 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 7,
-          "start": 52,
-          "end": 67
+          "verseIndex": 4,
+          "start": 86,
+          "end": 91
         },
         "kind": "semantic",
-        "text": "音稅",
+        "text": "漢儀注立秋貙膢蘇林曰貙虎屬常以立秋日祭獸王者亦以此日出獵還以祭宗廟故有貙膢之祭也蔡邕獨㫁曰臘者嵗終大祭縦吏民宴飲風俗通曰按韓子書山居谷汲者膢臘而買水楚俗常以十二月祭飲食也又曰嘗新始殺也食新曰膒膢按禮傳夏曰嘉平殷曰清祀周曰大蜡漢改為臘臘者獵也言田獵取獸以祭祀其先祖也或曰臘者接也新故交接故大祭以報功也漢家火行衰於戌故曰臘也",
         "source": "cham"
       },
       {
@@ -631,12 +630,12 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 7,
-          "start": 67,
-          "end": 99
+          "verseIndex": 4,
+          "start": 91,
+          "end": 103
         },
         "kind": "semantic",
-        "text": "音達",
+        "text": "音成",
         "source": "cham"
       },
       {
@@ -644,12 +643,12 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 7,
-          "start": 99,
-          "end": 100
+          "verseIndex": 4,
+          "start": 103,
+          "end": 104
         },
         "kind": "semantic",
-        "text": "音戎",
+        "text": "音扶",
         "source": "cham"
       },
       {
@@ -657,12 +656,12 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 7,
-          "start": 100,
-          "end": 131
+          "verseIndex": 4,
+          "start": 104,
+          "end": 105
         },
         "kind": "semantic",
-        "text": "音避",
+        "text": "音奸",
         "source": "cham"
       },
       {
@@ -670,12 +669,12 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 7,
-          "start": 131,
-          "end": 132
+          "verseIndex": 4,
+          "start": 105,
+          "end": 106
         },
         "kind": "semantic",
-        "text": "音戕牝羊也",
+        "text": "音辣",
         "source": "cham"
       },
       {
@@ -683,12 +682,12 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 7,
-          "start": 132,
-          "end": 142
+          "verseIndex": 4,
+          "start": 106,
+          "end": 115
         },
         "kind": "semantic",
-        "text": "席猶因也若人之坐扵席也",
+        "text": "去聲",
         "source": "cham"
       },
       {
@@ -696,12 +695,12 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 7,
-          "start": 142,
-          "end": 151
+          "verseIndex": 5,
+          "start": 0,
+          "end": 25
         },
         "kind": "semantic",
-        "text": "去聲",
+        "text": "通作猶",
         "source": "cham"
       },
       {
@@ -709,12 +708,12 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 7,
-          "start": 151,
-          "end": 182
+          "verseIndex": 5,
+          "start": 25,
+          "end": 26
         },
         "kind": "semantic",
-        "text": "音黒",
+        "text": "音卒",
         "source": "cham"
       },
       {
@@ -722,12 +721,12 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 7,
-          "start": 182,
-          "end": 184
+          "verseIndex": 5,
+          "start": 26,
+          "end": 27
         },
         "kind": "semantic",
-        "text": "傳曰夫鳳凰之初起也翾翾十歩之雀喔咿而笑之及其升扵髙一屈一伸展而雲間藩木之雀超然自知不及逺矣士褐衣緼著未嘗完也糲藿之食未嘗飽也世俗之士即以為羞耳及其出則安百議用則延民命世俗之士超然自知不及逺矣",
+        "text": "音脚",
         "source": "cham"
       },
       {
@@ -735,12 +734,12 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 8,
-          "start": 0,
-          "end": 22
+          "verseIndex": 5,
+          "start": 27,
+          "end": 55
         },
         "kind": "semantic",
-        "text": "駢拇篇曰小人則以身殉利士則以身殉名伯夷死名扵首陽之下盗跖死利扵東陵之上野語曰衆人重利廉士重名賢士尚志聖人貴精叢談曰衆人以毁形為耻君子以毁義為辱衆人重利㢘士重名",
+        "text": "音成",
         "source": "cham"
       },
       {
@@ -748,12 +747,12 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 8,
-          "start": 22,
-          "end": 32
+          "verseIndex": 5,
+          "start": 55,
+          "end": 59
         },
         "kind": "semantic",
-        "text": "音汙范睢曰欲而不知止失其所以欲有而不知足失其所以有",
+        "text": "詩傳曰田子為相三年歸休得金百鎰奉其母母曰子安得此金對曰所受俸祿也母曰為相三年不食乎治官如此非吾所欲也孝子之事親也盡力致誠不義之物不入於館為人子不可不孝也子其去之田子愧慙走出造朝還金退請就獄王賢其母說其義即舍田子罪令復為相以金賜其母詩云宜爾子孫䋲䋲兮",
         "source": "cham"
       },
       {
@@ -761,12 +760,12 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 8,
-          "start": 32,
-          "end": 43
+          "verseIndex": 5,
+          "start": 59,
+          "end": 60
         },
         "kind": "semantic",
-        "text": "去聲",
+        "text": "音扶",
         "source": "cham"
       },
       {
@@ -774,12 +773,12 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 8,
-          "start": 43,
-          "end": 46
+          "verseIndex": 5,
+          "start": 60,
+          "end": 79
         },
         "kind": "semantic",
-        "text": "南華經曰肩吾問扵孫叔敖曰子三為令尹而不榮華三去之而無憂色吾始也疑子今視子之鼻間栩栩然子之用心獨奈何孫叔敖曰吾何以過人哉吾以其来不可却也其去不可止也吾以為得失之非我也而無憂色矣吾何以過人哉且不知其在彼乎其在我乎其在彼耶忘乎我在我耶忘乎彼方将躊躇方将四顧何暇至乎人貴人賤哉",
+        "text": "音婁",
         "source": "cham"
       },
       {
@@ -787,12 +786,12 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 8,
-          "start": 46,
-          "end": 48
+          "verseIndex": 5,
+          "start": 79,
+          "end": 90
         },
         "kind": "semantic",
-        "text": "音洛",
+        "text": "去聲",
         "source": "cham"
       },
       {
@@ -800,12 +799,12 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 8,
-          "start": 48,
-          "end": 52
+          "verseIndex": 5,
+          "start": 90,
+          "end": 92
         },
         "kind": "semantic",
-        "text": "音汙",
+        "text": "去聲",
         "source": "cham"
       },
       {
@@ -813,12 +812,12 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 8,
-          "start": 52,
-          "end": 62
+          "verseIndex": 5,
+          "start": 92,
+          "end": 98
         },
         "kind": "semantic",
-        "text": "傅亮曰昔之君子同名爵扵香餌故傾危不及思憂患而豫防則針石無用洪流壅扵㳙㳙合拱挫扵纖蘖介焉是式色斯而舉悟髙鳥以風逝鑑醴酒而投紱夫豈敝著而後謀通患結而後思復哉故詩曰謹爾侯度用戒不虞言防萌也",
+        "text": "尸子曰曽子每讀喪禮泣下霑襟常以一夕五起視衣之厚薄枕之髙卑曽子曰往而不可還者親也故子欲養而親不待是故椎牛而祭不如雞豚之逮親存也初吾為吏祿不及釜尚欣欣而喜者非以為多也樂其逮親也既沒之後吾嘗南逰於楚得尊官焉堂髙九尺車嘗百乗然猶北嚮而泣涕者非為賤也悲不逮吾親也故家貧親老不擇官而仕姚賈曰曽参孝其親天下願以為子子胥忠於君天下願以為臣劉向曰閔子騫兄弟二人母死其父更娶復有二子子騫為其父御車失轡父持其手衣甚單父則歸呼其後母児持其手衣甚厚温即謂其婦曰吾所以娶汝乃為吾子今汝欺我去無留子騫前曰母在一子單母去四子寒其父黙然故曰孝哉閔子騫一言其母還再言三子温",
         "source": "cham"
       },
       {
@@ -826,12 +825,12 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 8,
-          "start": 62,
-          "end": 63
+          "verseIndex": 5,
+          "start": 98,
+          "end": 114
         },
         "kind": "semantic",
-        "text": "音扶",
+        "text": "夏侯勝曰五辟之屬莫大不孝周襄王不能事母春秋曰天王出居于鄭繇不孝出之絶之於天下也",
         "source": "cham"
       },
       {
@@ -839,9 +838,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 8,
-          "start": 63,
-          "end": 72
+          "verseIndex": 5,
+          "start": 114,
+          "end": 119
         },
         "kind": "semantic",
         "text": "去聲",
@@ -852,12 +851,12 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 8,
-          "start": 72,
-          "end": 104
+          "verseIndex": 5,
+          "start": 119,
+          "end": 125
         },
         "kind": "semantic",
-        "text": "南華經曰楚威王聞荘周賢使使厚幣迎之許以為相荘周笑謂楚使者曰千金重利卿相尊位也子獨不見郊祭之犧牛乎養食之數嵗衣以文繡以入太廟當是之時雖欲為孤豚豈可得乎",
+        "text": "丘倫反",
         "source": "cham"
       },
       {
@@ -865,9 +864,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 8,
-          "start": 104,
-          "end": 130
+          "verseIndex": 5,
+          "start": 125,
+          "end": 128
         },
         "kind": "semantic",
         "text": "去聲",
@@ -878,12 +877,12 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 8,
-          "start": 130,
-          "end": 140
+          "verseIndex": 5,
+          "start": 128,
+          "end": 128
         },
         "kind": "semantic",
-        "text": "去聲",
+        "text": "曽子曰亨孰羶薌嘗而薦之非孝也養也君子之所謂孝也者國人稱願之曰幸哉有子如此所謂孝也已衆之夲教曰孝其行曰養養可䏻也敬為難敬可䏻也安為難安可䏻也卒為難父母既沒慎行其身不遺父母惡名可謂䏻終矣",
         "source": "cham"
       },
       {
@@ -891,12 +890,12 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 8,
-          "start": 140,
-          "end": 145
+          "verseIndex": 6,
+          "start": 0,
+          "end": 5
         },
         "kind": "semantic",
-        "text": "音零",
+        "text": "去聲",
         "source": "cham"
       },
       {
@@ -904,12 +903,12 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 8,
-          "start": 145,
-          "end": 146
+          "verseIndex": 6,
+          "start": 5,
+          "end": 10
         },
         "kind": "semantic",
-        "text": "音語",
+        "text": "去聲",
         "source": "cham"
       },
       {
@@ -917,12 +916,12 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 8,
-          "start": 146,
-          "end": 170
+          "verseIndex": 6,
+          "start": 10,
+          "end": 28
         },
         "kind": "semantic",
-        "text": "商鞅傳曰商君既入秦走商邑與其徒属發邑兵北出擊鄭秦發兵攻商君殺之扵鄭黽池徐廣曰黽或作彭吳起傳曰諸侯患楚之強故楚之貴戚盡欲害吳起及悼王死宗室大臣作亂而攻吳起吳起走之王尸而伏之擊起之徒因射刺吳起并中悼王李斯傳曰二世二年具斯五刑論腰斬咸陽市斯出獄與其中子俱執顧謂其中子曰吾欲與若牽黄犬俱出上蔡東門逐狡兎豈可得哉",
+        "text": "音止",
         "source": "cham"
       },
       {
@@ -930,12 +929,12 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 8,
-          "start": 170,
-          "end": 199
+          "verseIndex": 6,
+          "start": 10,
+          "end": 28
         },
         "kind": "semantic",
-        "text": "去聲",
+        "text": "陳餘傳曰漢二年東擊楚使告趙欲與俱餘曰漢殺張耳乃従於是漢求人類耳者斬其頭遺餘餘乃遣兵助漢漢敗於彭城西餘亦聞耳詐死即背漢漢遣耳與韓信擊破趙井陘斬餘泜水上伍被傳曰伍被為淮南王安畫謀反計後事發覺被詣吏自吿與淮南王謀反蹤跡如此天子以伍被雅辭多引漢美欲弗誅張湯進曰被首為王畫反計罪無赦逐誅被主父偃傳曰元朔中上拜偃為齊相至齊乃使人以王與姊奸事動王王以為終不得脫恐效燕王論死乃自殺上聞大怒廼徴下吏治偃服受諸侯金實不刼王令自殺上欲勿誅公孫𢎞爭曰齊王自殺無後國除為郡入漢偃本首惡非誅偃無以謝天下乃遂族偃董仲舒傳曰吕步舒者仲舒弟子也",
         "source": "cham"
       },
       {
@@ -943,9 +942,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 8,
-          "start": 199,
-          "end": 202
+          "verseIndex": 6,
+          "start": 56,
+          "end": 83
         },
         "kind": "semantic",
         "text": "去聲",
@@ -956,12 +955,38 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 8,
-          "start": 202,
-          "end": 207
+          "verseIndex": 7,
+          "start": 0,
+          "end": 16
         },
-        "kind": "fanqie",
-        "text": "傳曰夫利為害夲而福為禍先惟不求利者為無害不求福者為無禍詩曰不忮不求何用不臧傅亮曰夫四道好謙三才忌滿祥萃虚室鬼瞰髙屋豐屋有蔀家之災鼎食無百年之貴然而狥欲厚生者忽而不戒知進忘退者曽莫之懲前車已摧後鑾不息乘危以庶安行險以徼幸扵是有顛墜覆亡之禍殘生夭命之釁其故何哉流溺忘反而以身輕扵物也",
+        "kind": "semantic",
+        "text": "去聲",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-72",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 7,
+          "start": 16,
+          "end": 28
+        },
+        "kind": "semantic",
+        "text": "曽子曰身也者父母之遺體也行父母之遺體敢不敬乎居處不莊非孝也事君不忠非孝也蒞官不敬非孝也朋友不信非孝也戰陳無勇非孝也五者不遂烖及於親敢不敬乎",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-73",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 7,
+          "start": 28,
+          "end": 87
+        },
+        "kind": "semantic",
+        "text": "音供",
         "source": "cham"
       }
     ]
@@ -971,7 +996,7 @@
       "id": "default",
       "label": "原文",
       "shortLabel": "文",
-      "contributor": "桓寬",
+      "contributor": "",
       "role": "author",
       "nature": "annotation",
       "displayOrder": 0,

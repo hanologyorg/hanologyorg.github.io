@@ -9,19 +9,19 @@
   "genre": "prose",
   "verses": [
     {
-      "text": "重為巠根 清為趮君"
+      "text": "重為巠根，清為趮君。"
     },
     {
-      "text": "是以君子眾日行 不離亓甾重"
+      "text": "是以君子眾日行，不離亓甾重。"
     },
     {
-      "text": "唯有環官 燕處則昭"
+      "text": "唯有環官，燕處則昭。"
     },
     {
-      "text": "若若何萬乘之王 而以身巠於天下"
+      "text": "若若何萬乘之王，而以身巠於天下。"
     },
     {
-      "text": "巠則失本 趮則失君"
+      "text": "巠則失本，趮則失君。"
     }
   ],
   "sections": {},
@@ -35,7 +35,7 @@
           "scope": "verse",
           "verseIndex": 0,
           "start": 0,
-          "end": 9
+          "end": 10
         },
         "kind": "commentary",
         "text": "人君不重則不尊，治身不重則失神，草木之花葉輕，故零落，根重故長存也。",
@@ -48,7 +48,7 @@
           "scope": "verse",
           "verseIndex": 0,
           "start": 0,
-          "end": 9
+          "end": 10
         },
         "kind": "commentary",
         "text": "人君不靜則失威，治身不靜則身危，龍靜故能變化，虎躁故夭虧也。",
@@ -59,9 +59,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
+          "verseIndex": 1,
           "start": 0,
-          "end": 9
+          "end": 14
         },
         "kind": "commentary",
         "text": "輜，靜也。聖人終日行道，不離其靜與重也。",
@@ -72,9 +72,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
+          "verseIndex": 2,
           "start": 0,
-          "end": 9
+          "end": 10
         },
         "kind": "commentary",
         "text": "榮觀，謂宮闕。燕處，后妃所居也。超然，遠避而不處也。",
@@ -85,9 +85,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
+          "verseIndex": 3,
           "start": 0,
-          "end": 9
+          "end": 16
         },
         "kind": "commentary",
         "text": "奈何者，疾時主傷痛之辭。萬乘之主謂王。",
@@ -98,9 +98,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
+          "verseIndex": 3,
           "start": 0,
-          "end": 9
+          "end": 16
         },
         "kind": "commentary",
         "text": "王者至尊，而以其身行輕躁乎。疾時王奢恣輕淫也。",
@@ -111,9 +111,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
+          "verseIndex": 4,
           "start": 0,
-          "end": 9
+          "end": 10
         },
         "kind": "commentary",
         "text": "王者輕淫則失其臣，治身輕淫則失其精。",
@@ -124,9 +124,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
+          "verseIndex": 4,
           "start": 0,
-          "end": 9
+          "end": 10
         },
         "kind": "commentary",
         "text": "王者行躁疾則失其君位，治身躁疾則失其精神也。",
@@ -141,7 +141,7 @@
           "scope": "verse",
           "verseIndex": 0,
           "start": 0,
-          "end": 9
+          "end": 10
         },
         "kind": "commentary",
         "text": "凡物輕不能載重，小不能鎮大。不行者使行，不動者制動，是以重必為輕根，靜必為躁君也。",
@@ -152,9 +152,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
+          "verseIndex": 1,
           "start": 0,
-          "end": 9
+          "end": 14
         },
         "kind": "commentary",
         "text": "以重為本，故不離。",
@@ -165,9 +165,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
+          "verseIndex": 2,
           "start": 0,
-          "end": 9
+          "end": 10
         },
         "kind": "commentary",
         "text": "不以經心也。",
@@ -178,9 +178,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
+          "verseIndex": 4,
           "start": 0,
-          "end": 9
+          "end": 10
         },
         "kind": "commentary",
         "text": "輕，不鎮重也，失本，為喪身也，失君，為失君位也。",
@@ -217,7 +217,7 @@
             "scope": "verse",
             "verseIndex": 0,
             "start": 0,
-            "end": 9
+            "end": 10
           },
           "kind": "commentary",
           "text": "人君不重則不尊，治身不重則失神，草木之花葉輕，故零落，根重故長存也。",
@@ -230,7 +230,7 @@
             "scope": "verse",
             "verseIndex": 0,
             "start": 0,
-            "end": 9
+            "end": 10
           },
           "kind": "commentary",
           "text": "人君不靜則失威，治身不靜則身危，龍靜故能變化，虎躁故夭虧也。",
@@ -241,9 +241,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
+            "verseIndex": 1,
             "start": 0,
-            "end": 9
+            "end": 14
           },
           "kind": "commentary",
           "text": "輜，靜也。聖人終日行道，不離其靜與重也。",
@@ -254,9 +254,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
+            "verseIndex": 2,
             "start": 0,
-            "end": 9
+            "end": 10
           },
           "kind": "commentary",
           "text": "榮觀，謂宮闕。燕處，后妃所居也。超然，遠避而不處也。",
@@ -267,9 +267,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
+            "verseIndex": 3,
             "start": 0,
-            "end": 9
+            "end": 16
           },
           "kind": "commentary",
           "text": "奈何者，疾時主傷痛之辭。萬乘之主謂王。",
@@ -280,9 +280,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
+            "verseIndex": 3,
             "start": 0,
-            "end": 9
+            "end": 16
           },
           "kind": "commentary",
           "text": "王者至尊，而以其身行輕躁乎。疾時王奢恣輕淫也。",
@@ -293,9 +293,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
+            "verseIndex": 4,
             "start": 0,
-            "end": 9
+            "end": 10
           },
           "kind": "commentary",
           "text": "王者輕淫則失其臣，治身輕淫則失其精。",
@@ -306,9 +306,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
+            "verseIndex": 4,
             "start": 0,
-            "end": 9
+            "end": 10
           },
           "kind": "commentary",
           "text": "王者行躁疾則失其君位，治身躁疾則失其精神也。",
@@ -333,7 +333,7 @@
             "scope": "verse",
             "verseIndex": 0,
             "start": 0,
-            "end": 9
+            "end": 10
           },
           "kind": "commentary",
           "text": "凡物輕不能載重，小不能鎮大。不行者使行，不動者制動，是以重必為輕根，靜必為躁君也。",
@@ -344,9 +344,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
+            "verseIndex": 1,
             "start": 0,
-            "end": 9
+            "end": 14
           },
           "kind": "commentary",
           "text": "以重為本，故不離。",
@@ -357,9 +357,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
+            "verseIndex": 2,
             "start": 0,
-            "end": 9
+            "end": 10
           },
           "kind": "commentary",
           "text": "不以經心也。",
@@ -370,9 +370,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
+            "verseIndex": 4,
             "start": 0,
-            "end": 9
+            "end": 10
           },
           "kind": "commentary",
           "text": "輕，不鎮重也，失本，為喪身也，失君，為失君位也。",

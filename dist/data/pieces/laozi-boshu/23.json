@@ -9,19 +9,37 @@
   "genre": "prose",
   "verses": [
     {
-      "text": "希言自然"
+      "text": "希言自然。"
     },
     {
-      "text": "飄風不終朝 暴雨不終日"
+      "text": "飄風不終朝。"
     },
     {
-      "text": "孰為此 天地而弗能久 又況於人乎"
+      "text": "暴雨不終日。"
     },
     {
-      "text": "故從事而道者同於道 德者同於德 失者同於失"
+      "text": "孰為此，天地而弗能久。"
     },
     {
-      "text": "同於德者 道亦德之 同於失者 道亦失之"
+      "text": "又況於人乎？"
+    },
+    {
+      "text": "故"
+    },
+    {
+      "text": "從事而道者，同於道。"
+    },
+    {
+      "text": "德者，同於德。"
+    },
+    {
+      "text": "失者，同於失。"
+    },
+    {
+      "text": "同於德者，道亦德之。"
+    },
+    {
+      "text": "同於失者，道亦失之。"
     }
   ],
   "sections": {},
@@ -35,7 +53,7 @@
           "scope": "verse",
           "verseIndex": 0,
           "start": 0,
-          "end": 4
+          "end": 5
         },
         "kind": "commentary",
         "text": "希言者，謂愛言也。愛言者，自然之道。",
@@ -46,9 +64,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 4
+          "verseIndex": 2,
+          "start": 6,
+          "end": 6
         },
         "kind": "commentary",
         "text": "飄風，疾風也。驟雨，暴雨也。言疾不能長，暴不能久也。",
@@ -59,9 +77,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 1,
-          "start": 0,
-          "end": 11
+          "verseIndex": 4,
+          "start": 6,
+          "end": 6
         },
         "kind": "commentary",
         "text": "孰，誰也。誰為此飄風暴雨者乎？天地所為。",
@@ -72,9 +90,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
-          "start": 0,
-          "end": 16
+          "verseIndex": 4,
+          "start": 6,
+          "end": 6
         },
         "kind": "commentary",
         "text": "不能終於朝暮也。",
@@ -85,9 +103,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
-          "start": 0,
-          "end": 16
+          "verseIndex": 4,
+          "start": 6,
+          "end": 6
         },
         "kind": "commentary",
         "text": "天地至神合為飄風暴雨，尚不能使終朝至暮，何況人欲為暴卒乎。",
@@ -98,9 +116,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
-          "start": 0,
-          "end": 16
+          "verseIndex": 4,
+          "start": 6,
+          "end": 6
         },
         "kind": "commentary",
         "text": "從，為也。人為事當如道安靜，不當如飄風驟雨也。",
@@ -112,8 +130,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 3,
-          "start": 4,
-          "end": 5
+          "start": 3,
+          "end": 4
         },
         "kind": "commentary",
         "text": "道者，謂好道人也。同於道者，所謂與道同也。",
@@ -125,8 +143,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 3,
-          "start": 10,
-          "end": 11
+          "start": 11,
+          "end": 12
         },
         "kind": "commentary",
         "text": "德者，謂好德之人也。同於德者，所謂與德同也。",
@@ -138,8 +156,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 3,
-          "start": 16,
-          "end": 17
+          "start": 19,
+          "end": 20
         },
         "kind": "commentary",
         "text": "失，謂任己而失人也。同於失者，所謂與失同也。",
@@ -150,9 +168,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 3,
-          "start": 0,
-          "end": 21
+          "verseIndex": 10,
+          "start": 10,
+          "end": 10
         },
         "kind": "commentary",
         "text": "與道同者，道亦樂得之也。",
@@ -163,9 +181,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 3,
-          "start": 0,
-          "end": 21
+          "verseIndex": 10,
+          "start": 10,
+          "end": 10
         },
         "kind": "commentary",
         "text": "與德同者，德亦樂得之也。",
@@ -176,9 +194,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 4,
-          "start": 0,
-          "end": 19
+          "verseIndex": 10,
+          "start": 10,
+          "end": 10
         },
         "kind": "commentary",
         "text": "與失同者，失亦樂失之也。",
@@ -189,9 +207,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 4,
-          "start": 0,
-          "end": 19
+          "verseIndex": 10,
+          "start": 10,
+          "end": 10
         },
         "kind": "commentary",
         "text": "君信不足於下，下則應君以不信也。",
@@ -202,9 +220,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 4,
-          "start": 0,
-          "end": 19
+          "verseIndex": 10,
+          "start": 10,
+          "end": 10
         },
         "kind": "commentary",
         "text": "此言物類相歸，同聲相應，同氣相求。雲從龍，風從虎，水流濕，火就燥，自然之類也。",
@@ -219,7 +237,7 @@
           "scope": "verse",
           "verseIndex": 0,
           "start": 0,
-          "end": 4
+          "end": 5
         },
         "kind": "commentary",
         "text": "聽之不聞名曰希，下章言，道之出言淡兮其無味也，視之不足見，聽之不足聞，然則無味不足聽之言，乃是自然之至言也。",
@@ -230,9 +248,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 4
+          "verseIndex": 2,
+          "start": 6,
+          "end": 6
         },
         "kind": "commentary",
         "text": "言暴疾美興不長也。",
@@ -243,9 +261,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
-          "start": 0,
-          "end": 16
+          "verseIndex": 8,
+          "start": 7,
+          "end": 7
         },
         "kind": "commentary",
         "text": "從事，謂舉動，從事於道者也。道以無形無為成濟萬物，故從事於道者，以無為為君，不言為教，緜緜若存而物得其真，與道同體，故曰同於道。",
@@ -257,8 +275,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 3,
-          "start": 10,
-          "end": 11
+          "start": 11,
+          "end": 12
         },
         "kind": "commentary",
         "text": "得，少也，少則得，故曰得也。行得則與得同體，故曰，同於得也。",
@@ -270,8 +288,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 3,
-          "start": 16,
-          "end": 17
+          "start": 19,
+          "end": 20
         },
         "kind": "commentary",
         "text": "失，累多也，累多則失，故曰失也。行失則與失同體，故曰，同於失也。",
@@ -282,9 +300,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 3,
-          "start": 0,
-          "end": 21
+          "verseIndex": 10,
+          "start": 10,
+          "end": 10
         },
         "kind": "commentary",
         "text": "言隨行其所，故同而應之。",
@@ -295,9 +313,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 4,
-          "start": 0,
-          "end": 19
+          "verseIndex": 10,
+          "start": 10,
+          "end": 10
         },
         "kind": "commentary",
         "text": "忠信不足於下，焉有不信焉。",
@@ -334,7 +352,7 @@
             "scope": "verse",
             "verseIndex": 0,
             "start": 0,
-            "end": 4
+            "end": 5
           },
           "kind": "commentary",
           "text": "希言者，謂愛言也。愛言者，自然之道。",
@@ -345,9 +363,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 4
+            "verseIndex": 2,
+            "start": 6,
+            "end": 6
           },
           "kind": "commentary",
           "text": "飄風，疾風也。驟雨，暴雨也。言疾不能長，暴不能久也。",
@@ -358,9 +376,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 1,
-            "start": 0,
-            "end": 11
+            "verseIndex": 4,
+            "start": 6,
+            "end": 6
           },
           "kind": "commentary",
           "text": "孰，誰也。誰為此飄風暴雨者乎？天地所為。",
@@ -371,9 +389,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 2,
-            "start": 0,
-            "end": 16
+            "verseIndex": 4,
+            "start": 6,
+            "end": 6
           },
           "kind": "commentary",
           "text": "不能終於朝暮也。",
@@ -384,9 +402,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 2,
-            "start": 0,
-            "end": 16
+            "verseIndex": 4,
+            "start": 6,
+            "end": 6
           },
           "kind": "commentary",
           "text": "天地至神合為飄風暴雨，尚不能使終朝至暮，何況人欲為暴卒乎。",
@@ -397,9 +415,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 2,
-            "start": 0,
-            "end": 16
+            "verseIndex": 4,
+            "start": 6,
+            "end": 6
           },
           "kind": "commentary",
           "text": "從，為也。人為事當如道安靜，不當如飄風驟雨也。",
@@ -411,8 +429,8 @@
             "type": "range",
             "scope": "verse",
             "verseIndex": 3,
-            "start": 4,
-            "end": 5
+            "start": 3,
+            "end": 4
           },
           "kind": "commentary",
           "text": "道者，謂好道人也。同於道者，所謂與道同也。",
@@ -424,8 +442,8 @@
             "type": "range",
             "scope": "verse",
             "verseIndex": 3,
-            "start": 10,
-            "end": 11
+            "start": 11,
+            "end": 12
           },
           "kind": "commentary",
           "text": "德者，謂好德之人也。同於德者，所謂與德同也。",
@@ -437,8 +455,8 @@
             "type": "range",
             "scope": "verse",
             "verseIndex": 3,
-            "start": 16,
-            "end": 17
+            "start": 19,
+            "end": 20
           },
           "kind": "commentary",
           "text": "失，謂任己而失人也。同於失者，所謂與失同也。",
@@ -449,9 +467,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 3,
-            "start": 0,
-            "end": 21
+            "verseIndex": 10,
+            "start": 10,
+            "end": 10
           },
           "kind": "commentary",
           "text": "與道同者，道亦樂得之也。",
@@ -462,9 +480,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 3,
-            "start": 0,
-            "end": 21
+            "verseIndex": 10,
+            "start": 10,
+            "end": 10
           },
           "kind": "commentary",
           "text": "與德同者，德亦樂得之也。",
@@ -475,9 +493,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 4,
-            "start": 0,
-            "end": 19
+            "verseIndex": 10,
+            "start": 10,
+            "end": 10
           },
           "kind": "commentary",
           "text": "與失同者，失亦樂失之也。",
@@ -488,9 +506,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 4,
-            "start": 0,
-            "end": 19
+            "verseIndex": 10,
+            "start": 10,
+            "end": 10
           },
           "kind": "commentary",
           "text": "君信不足於下，下則應君以不信也。",
@@ -501,9 +519,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 4,
-            "start": 0,
-            "end": 19
+            "verseIndex": 10,
+            "start": 10,
+            "end": 10
           },
           "kind": "commentary",
           "text": "此言物類相歸，同聲相應，同氣相求。雲從龍，風從虎，水流濕，火就燥，自然之類也。",
@@ -528,7 +546,7 @@
             "scope": "verse",
             "verseIndex": 0,
             "start": 0,
-            "end": 4
+            "end": 5
           },
           "kind": "commentary",
           "text": "聽之不聞名曰希，下章言，道之出言淡兮其無味也，視之不足見，聽之不足聞，然則無味不足聽之言，乃是自然之至言也。",
@@ -539,9 +557,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 4
+            "verseIndex": 2,
+            "start": 6,
+            "end": 6
           },
           "kind": "commentary",
           "text": "言暴疾美興不長也。",
@@ -552,9 +570,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 2,
-            "start": 0,
-            "end": 16
+            "verseIndex": 8,
+            "start": 7,
+            "end": 7
           },
           "kind": "commentary",
           "text": "從事，謂舉動，從事於道者也。道以無形無為成濟萬物，故從事於道者，以無為為君，不言為教，緜緜若存而物得其真，與道同體，故曰同於道。",
@@ -566,8 +584,8 @@
             "type": "range",
             "scope": "verse",
             "verseIndex": 3,
-            "start": 10,
-            "end": 11
+            "start": 11,
+            "end": 12
           },
           "kind": "commentary",
           "text": "得，少也，少則得，故曰得也。行得則與得同體，故曰，同於得也。",
@@ -579,8 +597,8 @@
             "type": "range",
             "scope": "verse",
             "verseIndex": 3,
-            "start": 16,
-            "end": 17
+            "start": 19,
+            "end": 20
           },
           "kind": "commentary",
           "text": "失，累多也，累多則失，故曰失也。行失則與失同體，故曰，同於失也。",
@@ -591,9 +609,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 3,
-            "start": 0,
-            "end": 21
+            "verseIndex": 10,
+            "start": 10,
+            "end": 10
           },
           "kind": "commentary",
           "text": "言隨行其所，故同而應之。",
@@ -604,9 +622,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 4,
-            "start": 0,
-            "end": 19
+            "verseIndex": 10,
+            "start": 10,
+            "end": 10
           },
           "kind": "commentary",
           "text": "忠信不足於下，焉有不信焉。",

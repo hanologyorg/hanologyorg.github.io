@@ -9,13 +9,22 @@
   "genre": "prose",
   "verses": [
     {
-      "text": "天下有道 卻走馬以糞 天下无道 戎馬生於郊"
+      "text": "天下有道，卻走馬以糞。"
     },
     {
-      "text": "罪莫大於可欲 禍莫大於不知足 咎莫憯於欲得"
+      "text": "天下无道，戎馬生於郊。"
     },
     {
-      "text": "故知足之足 恆足矣"
+      "text": "罪莫大於可欲。"
+    },
+    {
+      "text": "禍莫大於不知足。"
+    },
+    {
+      "text": "咎莫憯於欲得。"
+    },
+    {
+      "text": "故知足之足，恆足矣。"
     }
   ],
   "sections": {},
@@ -41,8 +50,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 0,
-          "start": 11,
-          "end": 12
+          "start": 12,
+          "end": 13
         },
         "kind": "commentary",
         "text": "謂人主無道也。",
@@ -54,8 +63,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 0,
-          "start": 16,
-          "end": 17
+          "start": 17,
+          "end": 18
         },
         "kind": "commentary",
         "text": "戰伐不止，戎馬生於郊境之上，久不還也。",
@@ -80,8 +89,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 1,
-          "start": 7,
-          "end": 8
+          "start": 8,
+          "end": 9
         },
         "kind": "commentary",
         "text": "富貴不能自禁止也。",
@@ -92,9 +101,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 1,
-          "start": 0,
-          "end": 21
+          "verseIndex": 4,
+          "start": 7,
+          "end": 7
         },
         "kind": "commentary",
         "text": "欲得人物，利且貪也。",
@@ -134,8 +143,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 0,
-          "start": 11,
-          "end": 12
+          "start": 12,
+          "end": 13
         },
         "kind": "commentary",
         "text": "貪欲無厭，不修其內，各求於外，故戎馬生於郊也。",
@@ -146,9 +155,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 21
+          "verseIndex": 1,
+          "start": 11,
+          "end": 11
         },
         "kind": "commentary",
         "text": "",
@@ -197,8 +206,8 @@
             "type": "range",
             "scope": "verse",
             "verseIndex": 0,
-            "start": 11,
-            "end": 12
+            "start": 12,
+            "end": 13
           },
           "kind": "commentary",
           "text": "謂人主無道也。",
@@ -210,8 +219,8 @@
             "type": "range",
             "scope": "verse",
             "verseIndex": 0,
-            "start": 16,
-            "end": 17
+            "start": 17,
+            "end": 18
           },
           "kind": "commentary",
           "text": "戰伐不止，戎馬生於郊境之上，久不還也。",
@@ -236,8 +245,8 @@
             "type": "range",
             "scope": "verse",
             "verseIndex": 1,
-            "start": 7,
-            "end": 8
+            "start": 8,
+            "end": 9
           },
           "kind": "commentary",
           "text": "富貴不能自禁止也。",
@@ -248,9 +257,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 1,
-            "start": 0,
-            "end": 21
+            "verseIndex": 4,
+            "start": 7,
+            "end": 7
           },
           "kind": "commentary",
           "text": "欲得人物，利且貪也。",
@@ -300,8 +309,8 @@
             "type": "range",
             "scope": "verse",
             "verseIndex": 0,
-            "start": 11,
-            "end": 12
+            "start": 12,
+            "end": 13
           },
           "kind": "commentary",
           "text": "貪欲無厭，不修其內，各求於外，故戎馬生於郊也。",
@@ -312,9 +321,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 21
+            "verseIndex": 1,
+            "start": 11,
+            "end": 11
           },
           "kind": "commentary",
           "text": "",

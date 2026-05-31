@@ -1,28 +1,24 @@
 {
   "bookId": "skqs-yantielun",
   "num": 42,
-  "title": "鹽鐡論卷七",
-  "author": "桓寬",
-  "authorId": "桓寬",
+  "title": "除狹第三十二",
+  "author": "",
+  "authorId": "",
   "dynasty": "漢",
   "era": "漢",
-  "eraCode": "07",
   "genre": "prose",
   "verses": [
     {
-      "text": "漢　桓　寛　撰"
+      "text": "大夫曰賢者處大林遭風雷而不迷愚者雖處平敞大路猶暗惑焉今守相親剖符贊拜蒞一郡之衆古方伯之位也受命專制宰割千里不御於内善惡在於己已不能故耳道何狹之有哉"
     },
     {
-      "text": "明　張之象　註"
+      "text": "賢良曰古之進士也鄉擇而里選論其才能然後官之勝職任然後爵而禄之故士修之鄉曲升諸朝廷行之幽隱明足顯著疏逺無失士小大無遺功是以賢者進用不肖者簡黜今吏道壅而不選富者以財賈官勇者以死射功戱車鼎躍咸出補吏累功積日或至卿相垂青繩擐銀龜擅殺生之柄專萬民之命弱者猶使羊將狼也其亂必矣强者則是予狂夫利劒也必妄殺生也是以往者郡國黎民相乗而不能理或至鋸頸殺不辜而不能正執綱紀非其道蓋博亂愈甚古者封賢禄能不過百里百里之中而為都疆垂不過五十猶以為一人之身明不能照聦不能逹故立卿大夫士以佐之而政治乃備今守相或無古諸侯之賢而蒞千里之政主一郡之衆施聖主之徳擅生殺之法至重也非仁人不能任非其人不能行一人之身治亂在已千里與之轉化不可不熟擇也故人主有私人以財不私人以官懸賞以待功序爵以俟賢舉善若不足黜惡若仇讐固為其非功而殘百姓也夫傅主徳開臣途在於選賢而器使之擇揀守相然後任之"
     },
     {
-      "text": "刺議第二十六"
+      "text": "鹽鐡論卷七"
     },
     {
-      "text": "丞相史曰山林不讓椒桂以成其崇君子不辭負薪之言以廣其名故多見者博多聞者知距諫者塞專已者孤故謀及下者無失䇿舉及衆者無頓功詩云詢于芻蕘故布衣皆得風議何况公卿之史乎春秋士不載文而書咺者以為宰士也孔子曰雖不吾以吾其與聞諸侯僕雖不敏亦當傾耳下風攝齊勾指受業徑於君子之塗矣使文學言之而是僕之言有何害使文學言之而非雖㣲丞相史孰不非也"
-    },
-    {
-      "text": "文學曰以正輔人謂之忠以邪導人謂之佞夫怫過納善者君之忠臣大夫之直士也孔子曰大夫有爭臣三人雖無道不失其家今子處宰士之列無忠正之心枉不能正邪不能匡順流以容身從風以説上上所言則苟聽上所行則曲從若影之隨形響之於聲終無所是非衣儒衣冠儒冠而不能行其道非真儒也譬若土龍文章首目具而非龍也葶歴似菜而殊味玉石相似而異類子非孔氏執經守道之儒乃公卿面從之儒非吾徒也冉有為季氏宰而附益之孔子曰小子鳴鼓而攻之可也故輔桀者不為知為桀斂者不為仁丞相史黙然不對"
+      "text": "<子部,儒家類,鹽鐵論>"
     }
   ],
   "sections": {},
@@ -34,12 +30,12 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 3,
+          "verseIndex": 0,
           "start": 0,
-          "end": 5
+          "end": 17
         },
         "kind": "semantic",
-        "text": "去聲",
+        "text": "舜典曰納于大麓烈風雷雨弗迷",
         "source": "cham"
       },
       {
@@ -47,12 +43,12 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 3,
-          "start": 5,
-          "end": 38
+          "verseIndex": 0,
+          "start": 17,
+          "end": 23
         },
         "kind": "semantic",
-        "text": "去聲",
+        "text": "音昶",
         "source": "cham"
       },
       {
@@ -60,12 +56,12 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 3,
-          "start": 38,
-          "end": 61
+          "verseIndex": 0,
+          "start": 23,
+          "end": 32
         },
         "kind": "semantic",
-        "text": "頓壊也權謀篇曰聖王之舉事必先諦之於謀慮而後考之於蓍龜白屋之士皆關其謀芻蕘之役咸盡其心故萬舉而無遺籌失策傳曰衆人之智可以測天兼聼獨斷惟在一人此大謀之術也謀有二端上謀知命其次知事知命者預見存亡禍福之原早知盛衰廢興之始防事之未萌避難於無形若此人者居亂世則不害於其身在乎太平之世則必得統下之權彼知事者亦尚矣見事而知得失成敗之分而究其所終極故無敗業廢功東野鄙人曰泰山不讓礫石江海不辭小流所以成其大也詩曰先民有言詢于芻蕘博謀也秦王子嬰曰輕慮者不可以治國獨智者不可以存君",
+        "text": "去聲",
         "source": "cham"
       },
       {
@@ -73,12 +69,12 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 3,
-          "start": 61,
-          "end": 73
+          "verseIndex": 1,
+          "start": 0,
+          "end": 25
         },
         "kind": "semantic",
-        "text": "去聲",
+        "text": "音升",
         "source": "cham"
       },
       {
@@ -86,12 +82,12 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 3,
-          "start": 73,
-          "end": 90
+          "verseIndex": 1,
+          "start": 25,
+          "end": 33
         },
         "kind": "semantic",
-        "text": "暄上聲",
+        "text": "王制曰大樂正論造士之秀者以告于王而升諸司馬曰進士司馬辨論官材論進士之賢者以告於王而定其論論定然後官之任官然後爵之位定然後祿之",
         "source": "cham"
       },
       {
@@ -99,12 +95,12 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 3,
-          "start": 90,
-          "end": 96
+          "verseIndex": 1,
+          "start": 33,
+          "end": 42
         },
         "kind": "semantic",
-        "text": "春秋曰天王使宰咺來歸惠公仲子之賵公羊傳曰宰者何官也咺者何名也曷為以官氏宰士也",
+        "text": "音潮",
         "source": "cham"
       },
       {
@@ -112,12 +108,12 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 3,
-          "start": 96,
-          "end": 106
+          "verseIndex": 1,
+          "start": 42,
+          "end": 72
         },
         "kind": "semantic",
-        "text": "去聲",
+        "text": "傳曰王者之論徳也而不尊無功不官無徳不誅無罪朝無幸位民無幸生故上賢使能而等級不踰折暴禁悍而刑罰不過百姓曉然皆知夫為善於家取賞於朝也為不善於幽而䝉刑於顯夫是之謂定論是王者之徳詩云明昭有周式序在位",
         "source": "cham"
       },
       {
@@ -125,12 +121,12 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 3,
-          "start": 106,
-          "end": 121
+          "verseIndex": 1,
+          "start": 72,
+          "end": 79
         },
         "kind": "semantic",
-        "text": "音咨",
+        "text": "古作通",
         "source": "cham"
       },
       {
@@ -138,12 +134,12 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 3,
-          "start": 121,
-          "end": 156
+          "verseIndex": 1,
+          "start": 79,
+          "end": 84
         },
         "kind": "semantic",
-        "text": "去聲",
+        "text": "音古",
         "source": "cham"
       },
       {
@@ -151,12 +147,12 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 4,
-          "start": 0,
-          "end": 20
+          "verseIndex": 1,
+          "start": 84,
+          "end": 99
         },
         "kind": "semantic",
-        "text": "令尹子西曰為人臣而忠其君者爵禄不足以賞也為人臣而諛其君者刑罰不足以誅也",
+        "text": "衛綰傳曰以戯車為郎顔師古曰若今之弄車之技也",
         "source": "cham"
       },
       {
@@ -164,12 +160,12 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 4,
-          "start": 20,
-          "end": 21
+          "verseIndex": 1,
+          "start": 99,
+          "end": 107
         },
         "kind": "semantic",
-        "text": "音扶",
+        "text": "去聲",
         "source": "cham"
       },
       {
@@ -177,12 +173,12 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 4,
-          "start": 21,
-          "end": 22
+          "verseIndex": 1,
+          "start": 107,
+          "end": 111
         },
         "kind": "semantic",
-        "text": "音勃",
+        "text": "音灌",
         "source": "cham"
       },
       {
@@ -190,12 +186,12 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 4,
-          "start": 22,
-          "end": 43
+          "verseIndex": 1,
+          "start": 111,
+          "end": 150
         },
         "kind": "semantic",
-        "text": "去聲",
+        "text": "酷吏傳曰寧成家居上欲以為郡守御史大夫𢎞曰臣居山東為小吏時寧成為濟南都尉其治如狼牧羊成不可使治民上乃拜成為闗都尉主術訓曰不仁而有勇力果敢則狂而操利劒不知而辨慧懐給則棄𩦸而不式雖有材能其施之不當其處之不宜適足以轉偽餙非伎藝之衆不如其寡也故有野心者不可借便勢有愚質者不可與利器",
         "source": "cham"
       },
       {
@@ -203,12 +199,12 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 4,
-          "start": 43,
-          "end": 53
+          "verseIndex": 1,
+          "start": 150,
+          "end": 304
         },
         "kind": "semantic",
-        "text": "韓嬰曰大夫有争臣三人雖無道不失其家季氏為無道僭天子舞八佾旅泰山以雍徹孔子曰是可忍也孰不可忍也然不亡者以冉有季路為宰臣也",
+        "text": "管子曰堯舜之民非生而治桀紂之民非生而亂故治亂在上商君曰善治者使盗跖可信不能治者使伯夷可疑",
         "source": "cham"
       },
       {
@@ -216,12 +212,12 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 4,
-          "start": 53,
-          "end": 82
+          "verseIndex": 1,
+          "start": 304,
+          "end": 317
         },
         "kind": "semantic",
-        "text": "音悦",
+        "text": "韓嬰曰明主有私人以百金名珠玉而無私以官職事業者何也曰本不利所私也彼不能而主使之是闇主也臣不能而為之是詐臣也主闇於上臣詐於下滅亡無日矣俱害之道也故惟明主能愛其所愛闇主則必危其所愛",
         "source": "cham"
       },
       {
@@ -229,12 +225,12 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 4,
-          "start": 82,
-          "end": 109
+          "verseIndex": 1,
+          "start": 317,
+          "end": 339
         },
         "kind": "semantic",
-        "text": "夏侯𤣥曰夫和羮之美在於合異上下之益在能相濟順從乃安此琴瑟一聲也",
+        "text": "去聲",
         "source": "cham"
       },
       {
@@ -242,12 +238,12 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 4,
-          "start": 109,
-          "end": 110
+          "verseIndex": 1,
+          "start": 339,
+          "end": 348
         },
         "kind": "semantic",
-        "text": "去聲",
+        "text": "音扶",
         "source": "cham"
       },
       {
@@ -255,12 +251,12 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 4,
-          "start": 110,
-          "end": 113
+          "verseIndex": 1,
+          "start": 348,
+          "end": 349
         },
         "kind": "semantic",
-        "text": "去聲",
+        "text": "音輔",
         "source": "cham"
       },
       {
@@ -268,38 +264,12 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 4,
-          "start": 113,
-          "end": 152
+          "verseIndex": 1,
+          "start": 349,
+          "end": 367
         },
         "kind": "semantic",
-        "text": "汜論曰夫亂人者芎藭之與藁本也蛇牀之與𧃲蕪也此皆相似故劒工惑劒之似莫邪者唯歐冶能名其種玉工眩玉之似碧盧者唯猗頓不失其情魏文侯曰夫物多相類而非也幽莠之㓜也似禾驪牛之黄也似虎白骨疑象武夫類玉此皆似之而非者也",
-        "source": "cham"
-      },
-      {
-        "id": "commentary-20",
-        "range": {
-          "type": "range",
-          "scope": "verse",
-          "verseIndex": 4,
-          "start": 152,
-          "end": 202
-        },
-        "kind": "semantic",
-        "text": "去聲",
-        "source": "cham"
-      },
-      {
-        "id": "commentary-21",
-        "range": {
-          "type": "range",
-          "scope": "verse",
-          "verseIndex": 4,
-          "start": 202,
-          "end": 211
-        },
-        "kind": "semantic",
-        "text": "去聲",
+        "text": "樂毅曰賢聖之君不以禄私親其功多者賞之其能當者處之故察能而授官者成功之君也論行而結交者立名之士也韓非子曰夫物者有所宜材者有所施各處其宜故上下無為使雞司夜狸執䑕皆用其能上乃無事泰族訓曰或輕或重或貪或亷此四者相反而不可一無也輕者欲發重者欲止貪者欲取亷者不利非其有故勇者可令進鬭而不可令持牢重者可令埴固而不可令凌敵貪者可令進取而不可令守職亷者可令守分而不可令進取信者可令持約而不可令應變五者相反聖人兼用而財使之夫天地不包一物隂陽不生一類海不讓水潦以成其大山不讓土石以成其高夫守一隅而遺萬方取一物而棄其餘則所得者鮮而所治者淺矣道應訓曰聖人之處世不遺有技能之士老子曰人無棄人物無棄物主術訓曰積力之所舉無不勝也衆智之所為無不成也聾者可令嗺筋而不可使有聞也喑者可令守圉而不可使有言也是故有一形者處一位有一能者服一事力勝其任則舉之者不重也能稱其事則為之者不難也無大小修短各得其宜則天下一齊無以相過也聖人兼而用之故無棄才",
         "source": "cham"
       }
     ]
@@ -309,7 +279,7 @@
       "id": "default",
       "label": "原文",
       "shortLabel": "文",
-      "contributor": "桓寬",
+      "contributor": "",
       "role": "author",
       "nature": "annotation",
       "displayOrder": 0,

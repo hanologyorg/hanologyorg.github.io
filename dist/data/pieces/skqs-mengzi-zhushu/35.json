@@ -1,7 +1,7 @@
 {
   "bookId": "skqs-mengzi-zhushu",
   "num": 35,
-  "title": "卷七",
+  "title": "孟子注疏卷七下考證",
   "author": "趙岐",
   "authorId": "趙岐",
   "dynasty": "漢",
@@ -10,39 +10,9 @@
   "genre": "prose",
   "verses": [
     {
-      "text": "離婁章句上"
+      "text": "<經部,四書類,孟子注疏>"
     }
   ],
   "sections": {},
-  "annotations": [],
-  "layers": {
-    "commentary": [
-      {
-        "id": "commentary-1",
-        "range": {
-          "type": "range",
-          "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 5
-        },
-        "kind": "semantic",
-        "text": "凡二十八章",
-        "source": "cham"
-      }
-    ]
-  },
-  "annotationLayers": [
-    {
-      "id": "default",
-      "label": "原文",
-      "shortLabel": "文",
-      "contributor": "趙岐",
-      "role": "author",
-      "nature": "annotation",
-      "displayOrder": 0,
-      "enabled": true,
-      "annotations": []
-    }
-  ]
+  "annotations": []
 }

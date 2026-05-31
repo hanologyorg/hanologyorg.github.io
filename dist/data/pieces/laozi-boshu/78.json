@@ -9,16 +9,31 @@
   "genre": "prose",
   "verses": [
     {
-      "text": "天下莫柔弱於水 而攻堅強者莫之能胜也 以亓无以易之"
+      "text": "天下莫柔弱於水，"
     },
     {
-      "text": "水之勝剛 弱之勝強 天下莫弗知 而莫能行也"
+      "text": "而攻堅強者莫之能胜也。"
     },
     {
-      "text": "故聖人之言云 曰受邦之詬 是謂社稷之主 受邦之不祥 是謂天下之王"
+      "text": "以亓无以易之。"
     },
     {
-      "text": "正言若反"
+      "text": "水之勝剛，弱之勝強。"
+    },
+    {
+      "text": "天下莫弗知，而莫能行也。"
+    },
+    {
+      "text": "故聖人之言云，曰："
+    },
+    {
+      "text": "受邦之詬，是謂社稷之主"
+    },
+    {
+      "text": "受邦之不祥，是謂天下之王。"
+    },
+    {
+      "text": "正言若反。"
     }
   ],
   "sections": {},
@@ -30,9 +45,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 25
+          "verseIndex": 2,
+          "start": 7,
+          "end": 7
         },
         "kind": "commentary",
         "text": "水能懷山襄陵，磨鐵消銅，莫能勝水而成功也。",
@@ -44,8 +59,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 0,
-          "start": 20,
-          "end": 21
+          "start": 22,
+          "end": 23
         },
         "kind": "commentary",
         "text": "夫攻堅強者，無以易於水。",
@@ -69,9 +84,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 1,
-          "start": 0,
-          "end": 21
+          "verseIndex": 4,
+          "start": 12,
+          "end": 12
         },
         "kind": "commentary",
         "text": "舌柔齒剛，齒先舌亡。",
@@ -82,9 +97,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 1,
-          "start": 0,
-          "end": 21
+          "verseIndex": 4,
+          "start": 12,
+          "end": 12
         },
         "kind": "commentary",
         "text": "知柔弱者久長，剛強者折傷。",
@@ -96,8 +111,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 1,
-          "start": 17,
-          "end": 18
+          "start": 18,
+          "end": 19
         },
         "kind": "commentary",
         "text": "恥謙卑，好強梁。",
@@ -108,9 +123,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 1,
-          "start": 0,
-          "end": 21
+          "verseIndex": 4,
+          "start": 12,
+          "end": 12
         },
         "kind": "commentary",
         "text": "謂下事也。",
@@ -121,9 +136,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 1,
-          "start": 0,
-          "end": 21
+          "verseIndex": 7,
+          "start": 13,
+          "end": 13
         },
         "kind": "commentary",
         "text": "人君能受國之垢濁者，若江海不逆小流，則能長保其社稷，為一國之君主也。",
@@ -134,9 +149,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
-          "start": 0,
-          "end": 32
+          "verseIndex": 7,
+          "start": 13,
+          "end": 13
         },
         "kind": "commentary",
         "text": "人君能引過自與，代民受不祥之殃，則可以王天下。",
@@ -147,9 +162,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 3,
+          "verseIndex": 8,
           "start": 0,
-          "end": 4
+          "end": 5
         },
         "kind": "commentary",
         "text": "此乃正直之言，世人不知，以為反言。",
@@ -162,9 +177,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 25
+          "verseIndex": 2,
+          "start": 7,
+          "end": 7
         },
         "kind": "commentary",
         "text": "以，用也。其，謂水也。言用水之柔弱，無物可以易之也。",
@@ -175,9 +190,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 25
+          "verseIndex": 2,
+          "start": 7,
+          "end": 7
         },
         "kind": "commentary",
         "text": "",
@@ -212,9 +227,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 25
+            "verseIndex": 2,
+            "start": 7,
+            "end": 7
           },
           "kind": "commentary",
           "text": "水能懷山襄陵，磨鐵消銅，莫能勝水而成功也。",
@@ -226,8 +241,8 @@
             "type": "range",
             "scope": "verse",
             "verseIndex": 0,
-            "start": 20,
-            "end": 21
+            "start": 22,
+            "end": 23
           },
           "kind": "commentary",
           "text": "夫攻堅強者，無以易於水。",
@@ -251,9 +266,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 1,
-            "start": 0,
-            "end": 21
+            "verseIndex": 4,
+            "start": 12,
+            "end": 12
           },
           "kind": "commentary",
           "text": "舌柔齒剛，齒先舌亡。",
@@ -264,9 +279,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 1,
-            "start": 0,
-            "end": 21
+            "verseIndex": 4,
+            "start": 12,
+            "end": 12
           },
           "kind": "commentary",
           "text": "知柔弱者久長，剛強者折傷。",
@@ -278,8 +293,8 @@
             "type": "range",
             "scope": "verse",
             "verseIndex": 1,
-            "start": 17,
-            "end": 18
+            "start": 18,
+            "end": 19
           },
           "kind": "commentary",
           "text": "恥謙卑，好強梁。",
@@ -290,9 +305,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 1,
-            "start": 0,
-            "end": 21
+            "verseIndex": 4,
+            "start": 12,
+            "end": 12
           },
           "kind": "commentary",
           "text": "謂下事也。",
@@ -303,9 +318,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 1,
-            "start": 0,
-            "end": 21
+            "verseIndex": 7,
+            "start": 13,
+            "end": 13
           },
           "kind": "commentary",
           "text": "人君能受國之垢濁者，若江海不逆小流，則能長保其社稷，為一國之君主也。",
@@ -316,9 +331,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 2,
-            "start": 0,
-            "end": 32
+            "verseIndex": 7,
+            "start": 13,
+            "end": 13
           },
           "kind": "commentary",
           "text": "人君能引過自與，代民受不祥之殃，則可以王天下。",
@@ -329,9 +344,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 3,
+            "verseIndex": 8,
             "start": 0,
-            "end": 4
+            "end": 5
           },
           "kind": "commentary",
           "text": "此乃正直之言，世人不知，以為反言。",
@@ -354,9 +369,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 25
+            "verseIndex": 2,
+            "start": 7,
+            "end": 7
           },
           "kind": "commentary",
           "text": "以，用也。其，謂水也。言用水之柔弱，無物可以易之也。",
@@ -367,9 +382,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 25
+            "verseIndex": 2,
+            "start": 7,
+            "end": 7
           },
           "kind": "commentary",
           "text": "",

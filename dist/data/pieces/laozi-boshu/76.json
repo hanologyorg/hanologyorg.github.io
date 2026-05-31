@@ -9,16 +9,37 @@
   "genre": "prose",
   "verses": [
     {
-      "text": "人之生也柔弱 亓死也恆仞堅強 萬物草木之生也柔脆 亓死也枯槁"
+      "text": "人之生也柔弱，"
     },
     {
-      "text": "故曰 堅強者 死之徒也 柔弱微細 生之徒也"
+      "text": "亓死也恆仞堅強。"
     },
     {
-      "text": "兵強則不勝 木強則恆"
+      "text": "萬物草木之生也柔脆，"
     },
     {
-      "text": "強大居下 柔弱微細居上"
+      "text": "亓死也枯槁。"
+    },
+    {
+      "text": "故曰："
+    },
+    {
+      "text": "堅強者，死之徒也。"
+    },
+    {
+      "text": "柔弱微細，生之徒也。"
+    },
+    {
+      "text": "兵強則不勝。"
+    },
+    {
+      "text": "木強則恆。"
+    },
+    {
+      "text": "強大居下。"
+    },
+    {
+      "text": "柔弱微細居上。"
     }
   ],
   "sections": {},
@@ -30,9 +51,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 30
+          "verseIndex": 3,
+          "start": 6,
+          "end": 6
         },
         "kind": "commentary",
         "text": "人死和氣竭，精神亡，故堅強也。",
@@ -44,8 +65,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 0,
-          "start": 15,
-          "end": 16
+          "start": 17,
+          "end": 18
         },
         "kind": "commentary",
         "text": "和氣存也。",
@@ -57,8 +78,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 0,
-          "start": 25,
-          "end": 26
+          "start": 28,
+          "end": 29
         },
         "kind": "commentary",
         "text": "和氣去也。",
@@ -69,9 +90,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 30
+          "verseIndex": 6,
+          "start": 10,
+          "end": 10
         },
         "kind": "commentary",
         "text": "以上二事觀之，知堅強者死，柔弱者生也。",
@@ -82,9 +103,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 1,
-          "start": 0,
-          "end": 21
+          "verseIndex": 8,
+          "start": 5,
+          "end": 5
         },
         "kind": "commentary",
         "text": "強大之兵輕戰樂殺，毒流怨結，眾弱為一強，故不勝。",
@@ -95,9 +116,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
-          "start": 0,
-          "end": 10
+          "verseIndex": 8,
+          "start": 5,
+          "end": 5
         },
         "kind": "commentary",
         "text": "本強大則枝葉共生其上。",
@@ -108,9 +129,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
-          "start": 0,
-          "end": 10
+          "verseIndex": 10,
+          "start": 7,
+          "end": 7
         },
         "kind": "commentary",
         "text": "興物造功，大木處下，小物處上。天道抑強扶弱，自然之效。",
@@ -123,9 +144,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 30
+          "verseIndex": 8,
+          "start": 5,
+          "end": 5
         },
         "kind": "commentary",
         "text": "强兵以暴於天下者，物之所惡也，故必不得勝。",
@@ -136,9 +157,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 30
+          "verseIndex": 8,
+          "start": 5,
+          "end": 5
         },
         "kind": "commentary",
         "text": "物所加也。",
@@ -162,9 +183,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 3,
-          "start": 0,
-          "end": 11
+          "verseIndex": 10,
+          "start": 7,
+          "end": 7
         },
         "kind": "commentary",
         "text": "枝條是也。",
@@ -199,9 +220,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 30
+            "verseIndex": 3,
+            "start": 6,
+            "end": 6
           },
           "kind": "commentary",
           "text": "人死和氣竭，精神亡，故堅強也。",
@@ -213,8 +234,8 @@
             "type": "range",
             "scope": "verse",
             "verseIndex": 0,
-            "start": 15,
-            "end": 16
+            "start": 17,
+            "end": 18
           },
           "kind": "commentary",
           "text": "和氣存也。",
@@ -226,8 +247,8 @@
             "type": "range",
             "scope": "verse",
             "verseIndex": 0,
-            "start": 25,
-            "end": 26
+            "start": 28,
+            "end": 29
           },
           "kind": "commentary",
           "text": "和氣去也。",
@@ -238,9 +259,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 30
+            "verseIndex": 6,
+            "start": 10,
+            "end": 10
           },
           "kind": "commentary",
           "text": "以上二事觀之，知堅強者死，柔弱者生也。",
@@ -251,9 +272,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 1,
-            "start": 0,
-            "end": 21
+            "verseIndex": 8,
+            "start": 5,
+            "end": 5
           },
           "kind": "commentary",
           "text": "強大之兵輕戰樂殺，毒流怨結，眾弱為一強，故不勝。",
@@ -264,9 +285,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 2,
-            "start": 0,
-            "end": 10
+            "verseIndex": 8,
+            "start": 5,
+            "end": 5
           },
           "kind": "commentary",
           "text": "本強大則枝葉共生其上。",
@@ -277,9 +298,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 2,
-            "start": 0,
-            "end": 10
+            "verseIndex": 10,
+            "start": 7,
+            "end": 7
           },
           "kind": "commentary",
           "text": "興物造功，大木處下，小物處上。天道抑強扶弱，自然之效。",
@@ -302,9 +323,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 30
+            "verseIndex": 8,
+            "start": 5,
+            "end": 5
           },
           "kind": "commentary",
           "text": "强兵以暴於天下者，物之所惡也，故必不得勝。",
@@ -315,9 +336,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 30
+            "verseIndex": 8,
+            "start": 5,
+            "end": 5
           },
           "kind": "commentary",
           "text": "物所加也。",
@@ -341,9 +362,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 3,
-            "start": 0,
-            "end": 11
+            "verseIndex": 10,
+            "start": 7,
+            "end": 7
           },
           "kind": "commentary",
           "text": "枝條是也。",

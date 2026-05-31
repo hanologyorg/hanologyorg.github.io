@@ -9,28 +9,49 @@
   "genre": "prose",
   "verses": [
     {
-      "text": "夫兵者 不祥之器也 物或惡之 故有欲者弗居"
+      "text": "夫兵者，不祥之器也。"
     },
     {
-      "text": "君子居則貴左 用兵則貴右"
+      "text": "物或惡之。"
     },
     {
-      "text": "故兵者 非君子之器也 兵者 不祥之器也 不得已而用之 銛龐為上"
+      "text": "故有欲者，弗居。"
     },
     {
-      "text": "勿美也 若美之 是樂殺人也"
+      "text": "君子居則貴左，用兵則貴右。"
     },
     {
-      "text": "夫樂殺人 不可以得志於天下矣"
+      "text": "故兵者，非君子之器也。"
     },
     {
-      "text": "是以吉事上左 喪事上右"
+      "text": "兵者，不祥之器也。"
     },
     {
-      "text": "是以偏將軍居左 上將軍居右 言以喪禮居之也"
+      "text": "不得已而用之。"
     },
     {
-      "text": "殺人眾 以悲依立之 戰勝 以喪禮處之"
+      "text": "銛龐為上。"
+    },
+    {
+      "text": "勿美也。若美之，是樂殺人也。"
+    },
+    {
+      "text": "夫樂殺人，不可以得志於天下矣。"
+    },
+    {
+      "text": "是以吉事上左，喪事上右。"
+    },
+    {
+      "text": "是以偏將軍居左，上將軍居右。"
+    },
+    {
+      "text": "言以喪禮居之也。"
+    },
+    {
+      "text": "殺人眾，以悲依立之。"
+    },
+    {
+      "text": "戰勝，以喪禮處之。"
     }
   ],
   "sections": {},
@@ -42,9 +63,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 21
+          "verseIndex": 2,
+          "start": 8,
+          "end": 8
         },
         "kind": "commentary",
         "text": "佳，飾也。祥，善也。兵者，驚精神，濁和氣，不善人之器也，不當修飾之。",
@@ -56,8 +77,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 0,
-          "start": 10,
-          "end": 11
+          "start": 11,
+          "end": 12
         },
         "kind": "commentary",
         "text": "兵動則有所害，故萬物無有不惡之者。",
@@ -68,9 +89,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 21
+          "verseIndex": 2,
+          "start": 8,
+          "end": 8
         },
         "kind": "commentary",
         "text": "有道之人不處其國。",
@@ -134,8 +155,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 2,
-          "start": 20,
-          "end": 21
+          "start": 22,
+          "end": 23
         },
         "kind": "commentary",
         "text": "謂遭衰逆亂禍，欲加萬民，乃用之以自守。",
@@ -146,9 +167,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
-          "start": 0,
-          "end": 31
+          "verseIndex": 7,
+          "start": 5,
+          "end": 5
         },
         "kind": "commentary",
         "text": "不貪土地，利人財寶。",
@@ -159,9 +180,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
-          "start": 0,
-          "end": 31
+          "verseIndex": 7,
+          "start": 5,
+          "end": 5
         },
         "kind": "commentary",
         "text": "雖得勝而不以為利己也。",
@@ -172,9 +193,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
+          "verseIndex": 8,
           "start": 0,
-          "end": 31
+          "end": 14
         },
         "kind": "commentary",
         "text": "美得勝者，是為喜樂殺人者也。",
@@ -185,9 +206,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 3,
+          "verseIndex": 9,
           "start": 0,
-          "end": 13
+          "end": 15
         },
         "kind": "commentary",
         "text": "為人君而樂殺人者，此不可使得志於天下矣，為人主必專制人命，妄行刑誅。",
@@ -211,9 +232,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 5,
+          "verseIndex": 10,
           "start": 0,
-          "end": 11
+          "end": 12
         },
         "kind": "commentary",
         "text": "陰道殺人。",
@@ -251,8 +272,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 6,
-          "start": 14,
-          "end": 15
+          "start": 15,
+          "end": 16
         },
         "kind": "commentary",
         "text": "上將軍居右，喪禮尚右，死人貴陰也。",
@@ -263,9 +284,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 6,
-          "start": 0,
-          "end": 21
+          "verseIndex": 12,
+          "start": 8,
+          "end": 8
         },
         "kind": "commentary",
         "text": "傷己德薄，不能以道化人，而害無辜之民。",
@@ -277,8 +298,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 7,
-          "start": 10,
-          "end": 11
+          "start": 11,
+          "end": 12
         },
         "kind": "commentary",
         "text": "古者戰勝，將軍居喪主禮之位，素服而哭之，明君子貴德而賤兵，不得以而誅不祥，心不樂之，比於喪也，知後世用兵不已故悲痛之。",
@@ -291,9 +312,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 21
+          "verseIndex": 2,
+          "start": 8,
+          "end": 8
         },
         "kind": "commentary",
         "text": "",
@@ -328,9 +349,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 21
+            "verseIndex": 2,
+            "start": 8,
+            "end": 8
           },
           "kind": "commentary",
           "text": "佳，飾也。祥，善也。兵者，驚精神，濁和氣，不善人之器也，不當修飾之。",
@@ -342,8 +363,8 @@
             "type": "range",
             "scope": "verse",
             "verseIndex": 0,
-            "start": 10,
-            "end": 11
+            "start": 11,
+            "end": 12
           },
           "kind": "commentary",
           "text": "兵動則有所害，故萬物無有不惡之者。",
@@ -354,9 +375,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 21
+            "verseIndex": 2,
+            "start": 8,
+            "end": 8
           },
           "kind": "commentary",
           "text": "有道之人不處其國。",
@@ -420,8 +441,8 @@
             "type": "range",
             "scope": "verse",
             "verseIndex": 2,
-            "start": 20,
-            "end": 21
+            "start": 22,
+            "end": 23
           },
           "kind": "commentary",
           "text": "謂遭衰逆亂禍，欲加萬民，乃用之以自守。",
@@ -432,9 +453,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 2,
-            "start": 0,
-            "end": 31
+            "verseIndex": 7,
+            "start": 5,
+            "end": 5
           },
           "kind": "commentary",
           "text": "不貪土地，利人財寶。",
@@ -445,9 +466,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 2,
-            "start": 0,
-            "end": 31
+            "verseIndex": 7,
+            "start": 5,
+            "end": 5
           },
           "kind": "commentary",
           "text": "雖得勝而不以為利己也。",
@@ -458,9 +479,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 2,
+            "verseIndex": 8,
             "start": 0,
-            "end": 31
+            "end": 14
           },
           "kind": "commentary",
           "text": "美得勝者，是為喜樂殺人者也。",
@@ -471,9 +492,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 3,
+            "verseIndex": 9,
             "start": 0,
-            "end": 13
+            "end": 15
           },
           "kind": "commentary",
           "text": "為人君而樂殺人者，此不可使得志於天下矣，為人主必專制人命，妄行刑誅。",
@@ -497,9 +518,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 5,
+            "verseIndex": 10,
             "start": 0,
-            "end": 11
+            "end": 12
           },
           "kind": "commentary",
           "text": "陰道殺人。",
@@ -537,8 +558,8 @@
             "type": "range",
             "scope": "verse",
             "verseIndex": 6,
-            "start": 14,
-            "end": 15
+            "start": 15,
+            "end": 16
           },
           "kind": "commentary",
           "text": "上將軍居右，喪禮尚右，死人貴陰也。",
@@ -549,9 +570,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 6,
-            "start": 0,
-            "end": 21
+            "verseIndex": 12,
+            "start": 8,
+            "end": 8
           },
           "kind": "commentary",
           "text": "傷己德薄，不能以道化人，而害無辜之民。",
@@ -563,8 +584,8 @@
             "type": "range",
             "scope": "verse",
             "verseIndex": 7,
-            "start": 10,
-            "end": 11
+            "start": 11,
+            "end": 12
           },
           "kind": "commentary",
           "text": "古者戰勝，將軍居喪主禮之位，素服而哭之，明君子貴德而賤兵，不得以而誅不祥，心不樂之，比於喪也，知後世用兵不已故悲痛之。",
@@ -587,9 +608,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 21
+            "verseIndex": 2,
+            "start": 8,
+            "end": 8
           },
           "kind": "commentary",
           "text": "",

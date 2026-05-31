@@ -9,13 +9,25 @@
   "genre": "prose",
   "verses": [
     {
-      "text": "不上賢 使民不爭 不貴難得之貨 使民不為盜 不見可欲 使民不亂"
+      "text": "不上賢，使民不爭。"
     },
     {
-      "text": "是以聖人之治也 虛亓心 實亓腹 弱亓志 強亓骨"
+      "text": "不貴難得之貨，使民不為盜。"
     },
     {
-      "text": "恆使民无知无欲也 使夫知不敢 弗為而已 則无不治矣"
+      "text": "不見可欲，使民不亂。"
+    },
+    {
+      "text": "是以聖人之治也："
+    },
+    {
+      "text": "虛亓心，實亓腹，弱亓志，強亓骨。"
+    },
+    {
+      "text": "恆使民无知无欲也，使夫知不敢。"
+    },
+    {
+      "text": "弗為而已，則无不治矣。"
     }
   ],
   "sections": {},
@@ -41,8 +53,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 0,
-          "start": 9,
-          "end": 10
+          "start": 10,
+          "end": 11
         },
         "kind": "commentary",
         "text": "言人君不御好珍寶，黃金棄於山，珠玉捐於淵也。",
@@ -54,8 +66,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 0,
-          "start": 16,
-          "end": 17
+          "start": 17,
+          "end": 18
         },
         "kind": "commentary",
         "text": "上化清靜，下無貪人。",
@@ -67,8 +79,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 0,
-          "start": 22,
-          "end": 23
+          "start": 24,
+          "end": 25
         },
         "kind": "commentary",
         "text": "放鄭聲，遠美人。",
@@ -79,9 +91,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 31
+          "verseIndex": 2,
+          "start": 10,
+          "end": 10
         },
         "kind": "commentary",
         "text": "不邪淫，不惑亂也。",
@@ -106,8 +118,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 1,
-          "start": 8,
-          "end": 9
+          "start": 9,
+          "end": 10
         },
         "kind": "commentary",
         "text": "除嗜欲，去亂煩。",
@@ -119,8 +131,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 1,
-          "start": 12,
-          "end": 13
+          "start": 13,
+          "end": 14
         },
         "kind": "commentary",
         "text": "懷道抱一守，五神也。",
@@ -132,8 +144,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 1,
-          "start": 16,
-          "end": 17
+          "start": 17,
+          "end": 18
         },
         "kind": "commentary",
         "text": "和柔謙讓，不處權也。",
@@ -145,8 +157,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 1,
-          "start": 20,
-          "end": 21
+          "start": 21,
+          "end": 22
         },
         "kind": "commentary",
         "text": "愛精重施，髓滿骨堅。",
@@ -170,9 +182,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
-          "start": 0,
-          "end": 25
+          "verseIndex": 6,
+          "start": 11,
+          "end": 11
         },
         "kind": "commentary",
         "text": "思慮深，不輕言。",
@@ -183,9 +195,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
-          "start": 0,
-          "end": 25
+          "verseIndex": 6,
+          "start": 11,
+          "end": 11
         },
         "kind": "commentary",
         "text": "不造作，動因循。",
@@ -197,8 +209,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 2,
-          "start": 20,
-          "end": 21
+          "start": 21,
+          "end": 22
         },
         "kind": "commentary",
         "text": "德化厚，百姓安。",
@@ -211,9 +223,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 31
+          "verseIndex": 2,
+          "start": 10,
+          "end": 10
         },
         "kind": "commentary",
         "text": "賢，猶能也。尚者，嘉之名也。貴者，隆之稱也。唯能是任，尚也曷為；唯用是施，貴之何為。尚賢顯名，榮過其任，為而常校，能相射貴貨，過用貪者，競趣穿窬探篋，沒命而盜，故可欲不見，則心無所亂也。",
@@ -238,8 +250,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 1,
-          "start": 16,
-          "end": 17
+          "start": 17,
+          "end": 18
         },
         "kind": "commentary",
         "text": "骨無知以幹，志生事以亂，心虛則志弱也。",
@@ -263,9 +275,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
-          "start": 0,
-          "end": 25
+          "verseIndex": 6,
+          "start": 11,
+          "end": 11
         },
         "kind": "commentary",
         "text": "知者謂知為也。",
@@ -276,9 +288,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
-          "start": 0,
-          "end": 25
+          "verseIndex": 6,
+          "start": 11,
+          "end": 11
         },
         "kind": "commentary",
         "text": "",
@@ -327,8 +339,8 @@
             "type": "range",
             "scope": "verse",
             "verseIndex": 0,
-            "start": 9,
-            "end": 10
+            "start": 10,
+            "end": 11
           },
           "kind": "commentary",
           "text": "言人君不御好珍寶，黃金棄於山，珠玉捐於淵也。",
@@ -340,8 +352,8 @@
             "type": "range",
             "scope": "verse",
             "verseIndex": 0,
-            "start": 16,
-            "end": 17
+            "start": 17,
+            "end": 18
           },
           "kind": "commentary",
           "text": "上化清靜，下無貪人。",
@@ -353,8 +365,8 @@
             "type": "range",
             "scope": "verse",
             "verseIndex": 0,
-            "start": 22,
-            "end": 23
+            "start": 24,
+            "end": 25
           },
           "kind": "commentary",
           "text": "放鄭聲，遠美人。",
@@ -365,9 +377,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 31
+            "verseIndex": 2,
+            "start": 10,
+            "end": 10
           },
           "kind": "commentary",
           "text": "不邪淫，不惑亂也。",
@@ -392,8 +404,8 @@
             "type": "range",
             "scope": "verse",
             "verseIndex": 1,
-            "start": 8,
-            "end": 9
+            "start": 9,
+            "end": 10
           },
           "kind": "commentary",
           "text": "除嗜欲，去亂煩。",
@@ -405,8 +417,8 @@
             "type": "range",
             "scope": "verse",
             "verseIndex": 1,
-            "start": 12,
-            "end": 13
+            "start": 13,
+            "end": 14
           },
           "kind": "commentary",
           "text": "懷道抱一守，五神也。",
@@ -418,8 +430,8 @@
             "type": "range",
             "scope": "verse",
             "verseIndex": 1,
-            "start": 16,
-            "end": 17
+            "start": 17,
+            "end": 18
           },
           "kind": "commentary",
           "text": "和柔謙讓，不處權也。",
@@ -431,8 +443,8 @@
             "type": "range",
             "scope": "verse",
             "verseIndex": 1,
-            "start": 20,
-            "end": 21
+            "start": 21,
+            "end": 22
           },
           "kind": "commentary",
           "text": "愛精重施，髓滿骨堅。",
@@ -456,9 +468,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 2,
-            "start": 0,
-            "end": 25
+            "verseIndex": 6,
+            "start": 11,
+            "end": 11
           },
           "kind": "commentary",
           "text": "思慮深，不輕言。",
@@ -469,9 +481,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 2,
-            "start": 0,
-            "end": 25
+            "verseIndex": 6,
+            "start": 11,
+            "end": 11
           },
           "kind": "commentary",
           "text": "不造作，動因循。",
@@ -483,8 +495,8 @@
             "type": "range",
             "scope": "verse",
             "verseIndex": 2,
-            "start": 20,
-            "end": 21
+            "start": 21,
+            "end": 22
           },
           "kind": "commentary",
           "text": "德化厚，百姓安。",
@@ -507,9 +519,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 31
+            "verseIndex": 2,
+            "start": 10,
+            "end": 10
           },
           "kind": "commentary",
           "text": "賢，猶能也。尚者，嘉之名也。貴者，隆之稱也。唯能是任，尚也曷為；唯用是施，貴之何為。尚賢顯名，榮過其任，為而常校，能相射貴貨，過用貪者，競趣穿窬探篋，沒命而盜，故可欲不見，則心無所亂也。",
@@ -534,8 +546,8 @@
             "type": "range",
             "scope": "verse",
             "verseIndex": 1,
-            "start": 16,
-            "end": 17
+            "start": 17,
+            "end": 18
           },
           "kind": "commentary",
           "text": "骨無知以幹，志生事以亂，心虛則志弱也。",
@@ -559,9 +571,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 2,
-            "start": 0,
-            "end": 25
+            "verseIndex": 6,
+            "start": 11,
+            "end": 11
           },
           "kind": "commentary",
           "text": "知者謂知為也。",
@@ -572,9 +584,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 2,
-            "start": 0,
-            "end": 25
+            "verseIndex": 6,
+            "start": 11,
+            "end": 11
           },
           "kind": "commentary",
           "text": "",

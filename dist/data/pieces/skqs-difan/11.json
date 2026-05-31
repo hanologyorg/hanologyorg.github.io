@@ -2,11 +2,10 @@
   "bookId": "skqs-difan",
   "num": 11,
   "title": "賞罰第九",
-  "author": "李世民",
-  "authorId": "唐太宗",
-  "dynasty": "唐",
-  "era": "唐",
-  "eraCode": "24",
+  "author": "",
+  "authorId": "",
+  "dynasty": "",
+  "era": "",
   "genre": "prose",
   "verses": [
     {
@@ -25,9 +24,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 0
+          "verseIndex": 1,
+          "start": 69,
+          "end": 79
         },
         "kind": "collation",
         "text": "酬功曰賞黜罪曰罰周禮曰刑賞以馭其威賞罰國之大柄也左傳曰善為國者賞不僭而刑不濫賞僭則福及滛人刑濫則懼及善人又漢書曰賞及無功無以勸善罰及無罪無以懲惡惟賞與罰不可不當賞一人而天下恱者賞之罰一人而天下懼者罰之賞罰又當必信也有功者雖讎亦必賞有罪者雖親亦必罰故孔子曰治國制民不隠其親此之謂也惟知此則大道之行天下為公矣惟天下之至公其聖王能之○按注末句疑有錯誤",
@@ -104,8 +103,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 1,
-          "start": 43,
-          "end": 52
+          "start": 34,
+          "end": 43
         },
         "kind": "semantic",
         "text": "盖謂人君體天之道以仁愛下施故寒暑調風雨節而民無疾疫饑寒之厄故不至於凋弊也已上言至治之時民不犯法雖有賞罰無所施矣",
@@ -117,8 +116,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 1,
-          "start": 52,
-          "end": 61
+          "start": 43,
+          "end": 52
         },
         "kind": "semantic",
         "text": "孔叢子曰賞罰是非相與曲謬雖十黄帝不能治也言若教令失度政必乖違而刑罰不中則民無所措手足故蹈於不法者多矣如此若非賞罰不能制矣",
@@ -130,8 +129,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 1,
-          "start": 61,
-          "end": 69
+          "start": 52,
+          "end": 61
         },
         "kind": "semantic",
         "text": "防其害源者使民不犯其法開其利本者使民各務其業此為教民之道也或有不遵其教者則有賞罰存焉已下皆言用賞罰也",
@@ -235,7 +234,7 @@
       "id": "default",
       "label": "原文",
       "shortLabel": "文",
-      "contributor": "唐太宗",
+      "contributor": "",
       "role": "author",
       "nature": "annotation",
       "displayOrder": 0,

@@ -9,16 +9,28 @@
   "genre": "prose",
   "verses": [
     {
-      "text": "卅輻同一轂 當亓无 有車之用也"
+      "text": "卅輻同一轂。"
     },
     {
-      "text": "埏埴為器 當亓无 有埴器之用也"
+      "text": "當亓无，有車之用也。"
     },
     {
-      "text": "鑿戶牖 當亓无 有室之用也"
+      "text": "埏埴為器。"
     },
     {
-      "text": "故有之以為利 无之以為用"
+      "text": "當亓无，有埴器之用也。"
+    },
+    {
+      "text": "鑿戶牖。"
+    },
+    {
+      "text": "當亓无，有室之用也。"
+    },
+    {
+      "text": "故有之以為利，"
+    },
+    {
+      "text": "无之以為用。"
     }
   ],
   "sections": {},
@@ -30,9 +42,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 15
+          "verseIndex": 1,
+          "start": 10,
+          "end": 10
         },
         "kind": "commentary",
         "text": "古者車三十輻，法月數也。共一轂者，轂中有孔，故眾輻共湊之。治身者當除情去慾，使五藏空虛，神乃歸之。治國者寡能，摠眾弱共使強也。",
@@ -44,8 +56,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 0,
-          "start": 6,
-          "end": 7
+          "start": 7,
+          "end": 8
         },
         "kind": "commentary",
         "text": "無，謂空虛。轂中空虛，輪得轉行，轝中空虛，人得載其上也。",
@@ -56,9 +68,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 15
+          "verseIndex": 3,
+          "start": 11,
+          "end": 11
         },
         "kind": "commentary",
         "text": "埏，和也。埴，土也。和土以為飲食之器。",
@@ -69,9 +81,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 15
+          "verseIndex": 3,
+          "start": 11,
+          "end": 11
         },
         "kind": "commentary",
         "text": "器中空虛，故得有所盛受。",
@@ -82,9 +94,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 1,
-          "start": 0,
-          "end": 15
+          "verseIndex": 5,
+          "start": 10,
+          "end": 10
         },
         "kind": "commentary",
         "text": "謂作屋室。",
@@ -96,8 +108,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 2,
-          "start": 4,
-          "end": 5
+          "start": 5,
+          "end": 6
         },
         "kind": "commentary",
         "text": "言戶牖空虛，人得以出入觀視；室中空虛，人得以居處，是其用。",
@@ -122,8 +134,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 3,
-          "start": 7,
-          "end": 8
+          "start": 8,
+          "end": 9
         },
         "kind": "commentary",
         "text": "言虛空者乃可用盛受萬物，故曰虛無能制有形。道者空也。",
@@ -136,9 +148,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 15
+          "verseIndex": 1,
+          "start": 10,
+          "end": 10
         },
         "kind": "commentary",
         "text": "轂所以能統三十輻者，無也，以其無能受物之故，故能以實統眾也。",
@@ -149,9 +161,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 15
+          "verseIndex": 1,
+          "start": 10,
+          "end": 10
         },
         "kind": "commentary",
         "text": "木埴壁之所以成三者，而皆以無為用也。言無者，有之所以為利，皆賴無以為用也。",
@@ -186,9 +198,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 15
+            "verseIndex": 1,
+            "start": 10,
+            "end": 10
           },
           "kind": "commentary",
           "text": "古者車三十輻，法月數也。共一轂者，轂中有孔，故眾輻共湊之。治身者當除情去慾，使五藏空虛，神乃歸之。治國者寡能，摠眾弱共使強也。",
@@ -200,8 +212,8 @@
             "type": "range",
             "scope": "verse",
             "verseIndex": 0,
-            "start": 6,
-            "end": 7
+            "start": 7,
+            "end": 8
           },
           "kind": "commentary",
           "text": "無，謂空虛。轂中空虛，輪得轉行，轝中空虛，人得載其上也。",
@@ -212,9 +224,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 15
+            "verseIndex": 3,
+            "start": 11,
+            "end": 11
           },
           "kind": "commentary",
           "text": "埏，和也。埴，土也。和土以為飲食之器。",
@@ -225,9 +237,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 15
+            "verseIndex": 3,
+            "start": 11,
+            "end": 11
           },
           "kind": "commentary",
           "text": "器中空虛，故得有所盛受。",
@@ -238,9 +250,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 1,
-            "start": 0,
-            "end": 15
+            "verseIndex": 5,
+            "start": 10,
+            "end": 10
           },
           "kind": "commentary",
           "text": "謂作屋室。",
@@ -252,8 +264,8 @@
             "type": "range",
             "scope": "verse",
             "verseIndex": 2,
-            "start": 4,
-            "end": 5
+            "start": 5,
+            "end": 6
           },
           "kind": "commentary",
           "text": "言戶牖空虛，人得以出入觀視；室中空虛，人得以居處，是其用。",
@@ -278,8 +290,8 @@
             "type": "range",
             "scope": "verse",
             "verseIndex": 3,
-            "start": 7,
-            "end": 8
+            "start": 8,
+            "end": 9
           },
           "kind": "commentary",
           "text": "言虛空者乃可用盛受萬物，故曰虛無能制有形。道者空也。",
@@ -302,9 +314,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 15
+            "verseIndex": 1,
+            "start": 10,
+            "end": 10
           },
           "kind": "commentary",
           "text": "轂所以能統三十輻者，無也，以其無能受物之故，故能以實統眾也。",
@@ -315,9 +327,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 15
+            "verseIndex": 1,
+            "start": 10,
+            "end": 10
           },
           "kind": "commentary",
           "text": "木埴壁之所以成三者，而皆以無為用也。言無者，有之所以為利，皆賴無以為用也。",

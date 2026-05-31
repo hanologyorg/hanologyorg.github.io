@@ -9,13 +9,31 @@
   "genre": "prose",
   "verses": [
     {
-      "text": "名與身孰親 身與貨孰多 得與亡孰病"
+      "text": "名與身孰親？"
     },
     {
-      "text": "甚愛必大費 多藏必厚亡"
+      "text": "身與貨孰多？"
     },
     {
-      "text": "故知足不辱 知止不殆 可以長久"
+      "text": "得與亡孰病？"
+    },
+    {
+      "text": "甚愛必大費。"
+    },
+    {
+      "text": "多藏必厚亡。"
+    },
+    {
+      "text": "故："
+    },
+    {
+      "text": "知足不辱。"
+    },
+    {
+      "text": "知止不殆。"
+    },
+    {
+      "text": "可以長久。"
     }
   ],
   "sections": {},
@@ -28,8 +46,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 0,
-          "start": 6,
-          "end": 7
+          "start": 7,
+          "end": 8
         },
         "kind": "commentary",
         "text": "財多則害身也。",
@@ -41,8 +59,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 0,
-          "start": 12,
-          "end": 13
+          "start": 14,
+          "end": 15
         },
         "kind": "commentary",
         "text": "好得利則病於行也。",
@@ -67,8 +85,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 1,
-          "start": 6,
-          "end": 7
+          "start": 7,
+          "end": 8
         },
         "kind": "commentary",
         "text": "生多藏於府庫，死多藏於丘墓。生有攻劫之憂，死有掘塚探柩之患。",
@@ -80,8 +98,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 2,
-          "start": 1,
-          "end": 2
+          "start": 3,
+          "end": 4
         },
         "kind": "commentary",
         "text": "知足之人絕利去欲，不辱於身。",
@@ -93,8 +111,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 2,
-          "start": 6,
-          "end": 7
+          "start": 9,
+          "end": 10
         },
         "kind": "commentary",
         "text": "知可止，則財利不累於身，聲色不亂於耳目，則身不危殆也。",
@@ -106,8 +124,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 2,
-          "start": 11,
-          "end": 12
+          "start": 15,
+          "end": 16
         },
         "kind": "commentary",
         "text": "人能知止足則福祿在己，治身者，神不勞；治國者，民不擾，故可長久。",
@@ -121,8 +139,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 0,
-          "start": 6,
-          "end": 7
+          "start": 7,
+          "end": 8
         },
         "kind": "commentary",
         "text": "貪貨無厭，其身必少。",
@@ -134,8 +152,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 0,
-          "start": 12,
-          "end": 13
+          "start": 14,
+          "end": 15
         },
         "kind": "commentary",
         "text": "得多利而亡其身，何者為病也。",
@@ -146,9 +164,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 17
+          "verseIndex": 4,
+          "start": 6,
+          "end": 6
         },
         "kind": "commentary",
         "text": "甚愛不與物通，多藏不與物散，求之者多，攻之者眾，為物所病，故大費厚亡也。",
@@ -160,8 +178,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 2,
-          "start": 1,
-          "end": 2
+          "start": 3,
+          "end": 4
         },
         "kind": "commentary",
         "text": "",
@@ -197,8 +215,8 @@
             "type": "range",
             "scope": "verse",
             "verseIndex": 0,
-            "start": 6,
-            "end": 7
+            "start": 7,
+            "end": 8
           },
           "kind": "commentary",
           "text": "財多則害身也。",
@@ -210,8 +228,8 @@
             "type": "range",
             "scope": "verse",
             "verseIndex": 0,
-            "start": 12,
-            "end": 13
+            "start": 14,
+            "end": 15
           },
           "kind": "commentary",
           "text": "好得利則病於行也。",
@@ -236,8 +254,8 @@
             "type": "range",
             "scope": "verse",
             "verseIndex": 1,
-            "start": 6,
-            "end": 7
+            "start": 7,
+            "end": 8
           },
           "kind": "commentary",
           "text": "生多藏於府庫，死多藏於丘墓。生有攻劫之憂，死有掘塚探柩之患。",
@@ -249,8 +267,8 @@
             "type": "range",
             "scope": "verse",
             "verseIndex": 2,
-            "start": 1,
-            "end": 2
+            "start": 3,
+            "end": 4
           },
           "kind": "commentary",
           "text": "知足之人絕利去欲，不辱於身。",
@@ -262,8 +280,8 @@
             "type": "range",
             "scope": "verse",
             "verseIndex": 2,
-            "start": 6,
-            "end": 7
+            "start": 9,
+            "end": 10
           },
           "kind": "commentary",
           "text": "知可止，則財利不累於身，聲色不亂於耳目，則身不危殆也。",
@@ -275,8 +293,8 @@
             "type": "range",
             "scope": "verse",
             "verseIndex": 2,
-            "start": 11,
-            "end": 12
+            "start": 15,
+            "end": 16
           },
           "kind": "commentary",
           "text": "人能知止足則福祿在己，治身者，神不勞；治國者，民不擾，故可長久。",
@@ -300,8 +318,8 @@
             "type": "range",
             "scope": "verse",
             "verseIndex": 0,
-            "start": 6,
-            "end": 7
+            "start": 7,
+            "end": 8
           },
           "kind": "commentary",
           "text": "貪貨無厭，其身必少。",
@@ -313,8 +331,8 @@
             "type": "range",
             "scope": "verse",
             "verseIndex": 0,
-            "start": 12,
-            "end": 13
+            "start": 14,
+            "end": 15
           },
           "kind": "commentary",
           "text": "得多利而亡其身，何者為病也。",
@@ -325,9 +343,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 17
+            "verseIndex": 4,
+            "start": 6,
+            "end": 6
           },
           "kind": "commentary",
           "text": "甚愛不與物通，多藏不與物散，求之者多，攻之者眾，為物所病，故大費厚亡也。",
@@ -339,8 +357,8 @@
             "type": "range",
             "scope": "verse",
             "verseIndex": 2,
-            "start": 1,
-            "end": 2
+            "start": 3,
+            "end": 4
           },
           "kind": "commentary",
           "text": "",

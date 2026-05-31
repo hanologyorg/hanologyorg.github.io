@@ -9,16 +9,19 @@
   "genre": "prose",
   "verses": [
     {
-      "text": "故大道廢 安有仁義"
+      "text": "故"
     },
     {
-      "text": "知慧出 安有大僞"
+      "text": "大道廢，安有仁義。"
     },
     {
-      "text": "六親不和 安有孝茲"
+      "text": "知慧出，安有大僞。"
     },
     {
-      "text": "邦家昏亂 安有正臣"
+      "text": "六親不和，安有孝茲。"
+    },
+    {
+      "text": "邦家昏亂，安有正臣。"
     }
   ],
   "sections": {},
@@ -30,7 +33,7 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
+          "verseIndex": 1,
           "start": 0,
           "end": 9
         },
@@ -43,7 +46,7 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
+          "verseIndex": 2,
           "start": 0,
           "end": 9
         },
@@ -56,9 +59,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
+          "verseIndex": 3,
           "start": 0,
-          "end": 9
+          "end": 10
         },
         "kind": "commentary",
         "text": "六紀絕，親戚不合，乃有孝慈相牧養也。",
@@ -69,9 +72,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
+          "verseIndex": 4,
           "start": 0,
-          "end": 9
+          "end": 10
         },
         "kind": "commentary",
         "text": "政令不明，上下相怨，邪僻爭權，乃有忠臣匡正其君也。此言天下太平不知仁，人盡無欲不知廉，各自潔己不知貞。大道之世，仁義沒，孝慈滅，猶日中盛明，眾星失光。",
@@ -84,7 +87,7 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
+          "verseIndex": 1,
           "start": 0,
           "end": 9
         },
@@ -97,7 +100,7 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
+          "verseIndex": 2,
           "start": 0,
           "end": 9
         },
@@ -110,7 +113,7 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
+          "verseIndex": 1,
           "start": 0,
           "end": 9
         },
@@ -147,7 +150,7 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
+            "verseIndex": 1,
             "start": 0,
             "end": 9
           },
@@ -160,7 +163,7 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
+            "verseIndex": 2,
             "start": 0,
             "end": 9
           },
@@ -173,9 +176,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
+            "verseIndex": 3,
             "start": 0,
-            "end": 9
+            "end": 10
           },
           "kind": "commentary",
           "text": "六紀絕，親戚不合，乃有孝慈相牧養也。",
@@ -186,9 +189,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
+            "verseIndex": 4,
             "start": 0,
-            "end": 9
+            "end": 10
           },
           "kind": "commentary",
           "text": "政令不明，上下相怨，邪僻爭權，乃有忠臣匡正其君也。此言天下太平不知仁，人盡無欲不知廉，各自潔己不知貞。大道之世，仁義沒，孝慈滅，猶日中盛明，眾星失光。",
@@ -211,7 +214,7 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
+            "verseIndex": 1,
             "start": 0,
             "end": 9
           },
@@ -224,7 +227,7 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
+            "verseIndex": 2,
             "start": 0,
             "end": 9
           },
@@ -237,7 +240,7 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
+            "verseIndex": 1,
             "start": 0,
             "end": 9
           },

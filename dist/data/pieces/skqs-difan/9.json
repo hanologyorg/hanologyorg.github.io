@@ -2,11 +2,10 @@
   "bookId": "skqs-difan",
   "num": 9,
   "title": "誡盈第七",
-  "author": "李世民",
-  "authorId": "唐太宗",
-  "dynasty": "唐",
-  "era": "唐",
-  "eraCode": "24",
+  "author": "",
+  "authorId": "",
+  "dynasty": "",
+  "era": "",
   "genre": "prose",
   "verses": [
     {
@@ -78,8 +77,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 1,
-          "start": 24,
-          "end": 34
+          "start": 0,
+          "end": 10
         },
         "kind": "semantic",
         "text": "孟子曰以佚道使人雖勞不怨謂既不能儉以養性静以脩身則生奢侈之心矣奢侈之心既生則耗用不節耗用不節必重斂於民故人勞下擾而怨起政乖也",
@@ -169,8 +168,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 1,
-          "start": 81,
-          "end": 85
+          "start": 74,
+          "end": 81
         },
         "kind": "semantic",
         "text": "荀子曰雕琢刻鏤黼黻文章以塞其目又非有先生論曰隂奉雕琢刻鏤之好以納其心務快耳目之欲治木治玉石之類也",
@@ -195,8 +194,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 1,
-          "start": 89,
-          "end": 93
+          "start": 85,
+          "end": 89
         },
         "kind": "fanqie",
         "text": "書益稷篇曰予欲觀古人之象日月星辰山龍華蟲作㑹宗𢑴藻火粉米黼黻絺繡注黼如斧形刃白而身黒黻謂兩弓字相背青黒線繡絺展几反謂刺以為繡也又葛之精者曰絺然則綌當作繡字不然綌是葛之麄者非奢侈之物人主何好焉",
@@ -247,8 +246,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 1,
-          "start": 128,
-          "end": 133
+          "start": 124,
+          "end": 128
         },
         "kind": "semantic",
         "text": "緹者丹黄色帛繡謂刺繡五色成文宦者傳論曰狗馬飾雕文土木被緹繡又東方朔曰土木衣綺繡狗馬被繢罽佞倖傳云董賢起大第闕下土木之功窮極伎巧柱檻衣以緹錦土墻木屋也言皆被緹繡之文綵　緹音提恣肆也",
@@ -260,8 +259,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 1,
-          "start": 133,
-          "end": 139
+          "start": 128,
+          "end": 133
         },
         "kind": "semantic",
         "text": "裋褐僕豎之衣也戰國䇿墨子謂楚王曰棄其錦繡之衣而竊人之裋褐言土木復衣其綵繡而人裋褐却不得完全此即以無用而妨有用也",
@@ -339,7 +338,7 @@
       "id": "default",
       "label": "原文",
       "shortLabel": "文",
-      "contributor": "唐太宗",
+      "contributor": "",
       "role": "author",
       "nature": "annotation",
       "displayOrder": 0,

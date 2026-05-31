@@ -9,10 +9,28 @@
   "genre": "prose",
   "verses": [
     {
-      "text": "善為士者不武 善戰者不怒 善勝敵者弗與 善用人者為之下"
+      "text": "善為士者不武。"
     },
     {
-      "text": "是謂不爭之德 是謂用人 是謂天 古之極也"
+      "text": "善戰者不怒。"
+    },
+    {
+      "text": "善勝敵者弗與。"
+    },
+    {
+      "text": "善用人者為之下。"
+    },
+    {
+      "text": "是謂不爭之德。"
+    },
+    {
+      "text": "是謂用人。"
+    },
+    {
+      "text": "是謂天。"
+    },
+    {
+      "text": "古之極也。"
     }
   ],
   "sections": {},
@@ -25,8 +43,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 0,
-          "start": 7,
-          "end": 8
+          "start": 8,
+          "end": 9
         },
         "kind": "commentary",
         "text": "善以道戰者，禁邪於胸心，絕禍於未萌，無所誅怒也。",
@@ -37,9 +55,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 27
+          "verseIndex": 3,
+          "start": 8,
+          "end": 8
         },
         "kind": "commentary",
         "text": "善以道勝敵者，附近以仁，來遠以德，不與敵爭，而敵自服也。",
@@ -51,8 +69,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 0,
-          "start": 20,
-          "end": 21
+          "start": 23,
+          "end": 24
         },
         "kind": "commentary",
         "text": "善用人自輔佐者，常為人執謙下也。",
@@ -76,9 +94,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 1,
-          "start": 0,
-          "end": 20
+          "verseIndex": 7,
+          "start": 5,
+          "end": 5
         },
         "kind": "commentary",
         "text": "能身為人下，是謂用人臣之力也。",
@@ -89,9 +107,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 1,
-          "start": 0,
-          "end": 20
+          "verseIndex": 7,
+          "start": 5,
+          "end": 5
         },
         "kind": "commentary",
         "text": "能行此者，德配天也。是乃古之極要道也。",
@@ -105,8 +123,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 0,
-          "start": 7,
-          "end": 8
+          "start": 8,
+          "end": 9
         },
         "kind": "commentary",
         "text": "後而不先，應而不唱，故不在怒。",
@@ -117,9 +135,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 27
+          "verseIndex": 3,
+          "start": 8,
+          "end": 8
         },
         "kind": "commentary",
         "text": "不與爭也。",
@@ -130,9 +148,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 27
+          "verseIndex": 3,
+          "start": 8,
+          "end": 8
         },
         "kind": "commentary",
         "text": "用人而不為之下，則力不為用也。",
@@ -143,9 +161,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 1,
-          "start": 0,
-          "end": 20
+          "verseIndex": 7,
+          "start": 5,
+          "end": 5
         },
         "kind": "commentary",
         "text": "",
@@ -181,8 +199,8 @@
             "type": "range",
             "scope": "verse",
             "verseIndex": 0,
-            "start": 7,
-            "end": 8
+            "start": 8,
+            "end": 9
           },
           "kind": "commentary",
           "text": "善以道戰者，禁邪於胸心，絕禍於未萌，無所誅怒也。",
@@ -193,9 +211,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 27
+            "verseIndex": 3,
+            "start": 8,
+            "end": 8
           },
           "kind": "commentary",
           "text": "善以道勝敵者，附近以仁，來遠以德，不與敵爭，而敵自服也。",
@@ -207,8 +225,8 @@
             "type": "range",
             "scope": "verse",
             "verseIndex": 0,
-            "start": 20,
-            "end": 21
+            "start": 23,
+            "end": 24
           },
           "kind": "commentary",
           "text": "善用人自輔佐者，常為人執謙下也。",
@@ -232,9 +250,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 1,
-            "start": 0,
-            "end": 20
+            "verseIndex": 7,
+            "start": 5,
+            "end": 5
           },
           "kind": "commentary",
           "text": "能身為人下，是謂用人臣之力也。",
@@ -245,9 +263,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 1,
-            "start": 0,
-            "end": 20
+            "verseIndex": 7,
+            "start": 5,
+            "end": 5
           },
           "kind": "commentary",
           "text": "能行此者，德配天也。是乃古之極要道也。",
@@ -271,8 +289,8 @@
             "type": "range",
             "scope": "verse",
             "verseIndex": 0,
-            "start": 7,
-            "end": 8
+            "start": 8,
+            "end": 9
           },
           "kind": "commentary",
           "text": "後而不先，應而不唱，故不在怒。",
@@ -283,9 +301,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 27
+            "verseIndex": 3,
+            "start": 8,
+            "end": 8
           },
           "kind": "commentary",
           "text": "不與爭也。",
@@ -296,9 +314,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 27
+            "verseIndex": 3,
+            "start": 8,
+            "end": 8
           },
           "kind": "commentary",
           "text": "用人而不為之下，則力不為用也。",
@@ -309,9 +327,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 1,
-            "start": 0,
-            "end": 20
+            "verseIndex": 7,
+            "start": 5,
+            "end": 5
           },
           "kind": "commentary",
           "text": "",

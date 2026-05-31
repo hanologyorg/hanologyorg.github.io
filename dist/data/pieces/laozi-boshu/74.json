@@ -9,16 +9,31 @@
   "genre": "prose",
   "verses": [
     {
-      "text": "若民恆且不畏死 奈何以殺懼之也"
+      "text": "若民恆且不畏死，"
     },
     {
-      "text": "若民恆是畏死 則而為者 吾得而殺之 夫孰敢矣"
+      "text": "奈何以殺懼之也？"
     },
     {
-      "text": "若民恆且必畏死 則恆有司殺者"
+      "text": "若民恆是畏死，"
     },
     {
-      "text": "夫代司殺者殺 是代大匠斵也 夫代大匠斵者 則希不傷亓手矣"
+      "text": "則而為者，吾得而殺之，"
+    },
+    {
+      "text": "夫孰敢矣？"
+    },
+    {
+      "text": "若民恆且必畏死，"
+    },
+    {
+      "text": "則恆有司殺者。"
+    },
+    {
+      "text": "夫代司殺者殺，是代大匠斵也。"
+    },
+    {
+      "text": "夫代大匠斵者，則希不傷亓手矣。"
     }
   ],
   "sections": {},
@@ -30,9 +45,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 15
+          "verseIndex": 1,
+          "start": 8,
+          "end": 8
         },
         "kind": "commentary",
         "text": "治國者刑罰酷深，民不聊生，故不畏死也。治身者嗜欲傷神，貪財殺身，民不知畏之也。",
@@ -43,9 +58,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 15
+          "verseIndex": 1,
+          "start": 8,
+          "end": 8
         },
         "kind": "commentary",
         "text": "人君不寬刑罰，教民去情欲，奈何設刑法以死懼之？若使民常畏死，當除己之所殘剋，教民去利欲也。",
@@ -56,9 +71,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 15
+          "verseIndex": 4,
+          "start": 5,
+          "end": 5
         },
         "kind": "commentary",
         "text": "以道教化而民不從，反為奇巧，乃應王法執而殺之，誰敢有犯者？老子傷時王不先道德化之，而先刑罰也。",
@@ -70,8 +85,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 2,
-          "start": 9,
-          "end": 10
+          "start": 10,
+          "end": 11
         },
         "kind": "commentary",
         "text": "司殺者謂天，居高臨下，司察人過。天網恢恢，疏而不失也。",
@@ -82,9 +97,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
-          "start": 0,
-          "end": 14
+          "verseIndex": 6,
+          "start": 7,
+          "end": 7
         },
         "kind": "commentary",
         "text": "天道至明，司殺有常，猶春生夏長，秋收冬藏，斗杓運移，以節度行之。人君欲代殺之，是猶拙夫代大匠斲木，勞而無功也。",
@@ -95,9 +110,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 3,
-          "start": 0,
-          "end": 28
+          "verseIndex": 8,
+          "start": 15,
+          "end": 15
         },
         "kind": "commentary",
         "text": "人君行刑罰，猶拙夫代大匠斲，則方圓不得其理，還自傷。代天殺者，失紀綱，不得其紀綱還受其殃也。",
@@ -110,9 +125,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 15
+          "verseIndex": 4,
+          "start": 5,
+          "end": 5
         },
         "kind": "commentary",
         "text": "詭異亂群謂之奇也。",
@@ -123,9 +138,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 15
+          "verseIndex": 6,
+          "start": 7,
+          "end": 7
         },
         "kind": "commentary",
         "text": "為逆順者之所惡忿也，不仁者人之所疾也。故曰，常有司殺也。",
@@ -160,9 +175,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 15
+            "verseIndex": 1,
+            "start": 8,
+            "end": 8
           },
           "kind": "commentary",
           "text": "治國者刑罰酷深，民不聊生，故不畏死也。治身者嗜欲傷神，貪財殺身，民不知畏之也。",
@@ -173,9 +188,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 15
+            "verseIndex": 1,
+            "start": 8,
+            "end": 8
           },
           "kind": "commentary",
           "text": "人君不寬刑罰，教民去情欲，奈何設刑法以死懼之？若使民常畏死，當除己之所殘剋，教民去利欲也。",
@@ -186,9 +201,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 15
+            "verseIndex": 4,
+            "start": 5,
+            "end": 5
           },
           "kind": "commentary",
           "text": "以道教化而民不從，反為奇巧，乃應王法執而殺之，誰敢有犯者？老子傷時王不先道德化之，而先刑罰也。",
@@ -200,8 +215,8 @@
             "type": "range",
             "scope": "verse",
             "verseIndex": 2,
-            "start": 9,
-            "end": 10
+            "start": 10,
+            "end": 11
           },
           "kind": "commentary",
           "text": "司殺者謂天，居高臨下，司察人過。天網恢恢，疏而不失也。",
@@ -212,9 +227,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 2,
-            "start": 0,
-            "end": 14
+            "verseIndex": 6,
+            "start": 7,
+            "end": 7
           },
           "kind": "commentary",
           "text": "天道至明，司殺有常，猶春生夏長，秋收冬藏，斗杓運移，以節度行之。人君欲代殺之，是猶拙夫代大匠斲木，勞而無功也。",
@@ -225,9 +240,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 3,
-            "start": 0,
-            "end": 28
+            "verseIndex": 8,
+            "start": 15,
+            "end": 15
           },
           "kind": "commentary",
           "text": "人君行刑罰，猶拙夫代大匠斲，則方圓不得其理，還自傷。代天殺者，失紀綱，不得其紀綱還受其殃也。",
@@ -250,9 +265,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 15
+            "verseIndex": 4,
+            "start": 5,
+            "end": 5
           },
           "kind": "commentary",
           "text": "詭異亂群謂之奇也。",
@@ -263,9 +278,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 15
+            "verseIndex": 6,
+            "start": 7,
+            "end": 7
           },
           "kind": "commentary",
           "text": "為逆順者之所惡忿也，不仁者人之所疾也。故曰，常有司殺也。",

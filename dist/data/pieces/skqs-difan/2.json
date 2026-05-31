@@ -2,11 +2,10 @@
   "bookId": "skqs-difan",
   "num": 2,
   "title": "帝範序",
-  "author": "李世民",
-  "authorId": "唐太宗",
-  "dynasty": "唐",
-  "era": "唐",
-  "eraCode": "24",
+  "author": "",
+  "authorId": "",
+  "dynasty": "",
+  "era": "",
   "genre": "prose",
   "verses": [
     {
@@ -52,8 +51,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 1,
-          "start": 11,
-          "end": 15
+          "start": 5,
+          "end": 11
         },
         "kind": "semantic",
         "text": "易繋辭曰聖人之大寳曰位言聖人大可寳貴者在於位耳寳是重貴之物貴為天子蔑以加矣故稱大寳也",
@@ -117,8 +116,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 1,
-          "start": 43,
-          "end": 47
+          "start": 33,
+          "end": 43
         },
         "kind": "collation",
         "text": "尚書大禹謨曰皇天眷命奄有四海為天下君皇大也毛詩傳曰尊而稱之則稱皇天眷顧念也謂天命歸之也○按注尊而稱之稱當作君",
@@ -130,8 +129,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 1,
-          "start": 47,
-          "end": 51
+          "start": 43,
+          "end": 47
         },
         "kind": "semantic",
         "text": "論語堯曰咨爾舜天之歴數在爾躬歴數天道也言天道在汝身也",
@@ -273,8 +272,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 1,
-          "start": 134,
-          "end": 148
+          "start": 129,
+          "end": 134
         },
         "kind": "collation",
         "text": "斬靈蛇者是借漢祖之事以喻禎祥也案唐諸志籍髙祖未嘗有斬蛇之事啟金鏡者金鏡喻光明之道也考靈曜曰秦失金鏡魚目入珠注云金鏡喻明髙祖當焬帝之賊虐暴陵天下昏暗至甚也髙祖挽天河洗甲兵宇宙妖氛一滌而淨豈非開光明之道哉啓開也亦猶隋失金鏡髙祖得而啓之也謂重開清明之道也天樞天機握天樞猶得天機也握持也○按秦失金鏡二句出尚書帝命驗此作考靈曜似誤",
@@ -299,8 +298,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 1,
-          "start": 154,
-          "end": 158
+          "start": 148,
+          "end": 154
         },
         "kind": "semantic",
         "text": "三光日月星戢曜謂隠而不明",
@@ -312,8 +311,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 1,
-          "start": 158,
-          "end": 162
+          "start": 154,
+          "end": 158
         },
         "kind": "semantic",
         "text": "文子曰所為立君者以禁暴亂也夫養禽獸者必除豺狼也豺狼尚梗謂羣雄相逐更相吞啖為民人害故喻以為豺狼也豺狼能食獸梗害也",
@@ -325,8 +324,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 1,
-          "start": 162,
-          "end": 166
+          "start": 158,
+          "end": 162
         },
         "kind": "semantic",
         "text": "言天下戰爭四邊之風塵未安息耳",
@@ -429,8 +428,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 1,
-          "start": 224,
-          "end": 231
+          "start": 217,
+          "end": 224
         },
         "kind": "fanqie",
         "text": "欃槍星名妖星也八紘淮南子曰九州之外乃有八夤八夤之外乃有八紘言掃除去妖星展廓其入紘也廓展也掃除也欃初咸反槍楚耕反",
@@ -481,8 +480,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 1,
-          "start": 251,
-          "end": 261
+          "start": 239,
+          "end": 251
         },
         "kind": "semantic",
         "text": "詩小雅云戰戰兢兢如臨深淵書五子之歌曰懔乎若朽索之馭六馬言我雖功業如此自即位以来猶常恐懼戒慎如臨淵馭朽耳太宗可謂居安慮危善守成者也",
@@ -611,8 +610,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 1,
-          "start": 326,
-          "end": 335
+          "start": 313,
+          "end": 326
         },
         "kind": "semantic",
         "text": "軒昊者三皇五帝也其詳注見於納諫篇此言上言三五下至于今",
@@ -637,8 +636,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 1,
-          "start": 356,
-          "end": 373
+          "start": 335,
+          "end": 356
         },
         "kind": "fanqie",
         "text": "言我是以開明前古君臣興亡治亂之實跡廣觀經史傳籍採酌其要領可法之格言以為切近之鑒戒者矣○按覽文苑英華作採",
@@ -651,7 +650,7 @@
       "id": "default",
       "label": "原文",
       "shortLabel": "文",
-      "contributor": "唐太宗",
+      "contributor": "",
       "role": "author",
       "nature": "annotation",
       "displayOrder": 0,

@@ -1,7 +1,7 @@
 {
   "bookId": "skqs-mengzi-zhushu",
   "num": 44,
-  "title": "孟子注疏卷十下",
+  "title": "孟子注疏卷九下考證",
   "author": "趙岐",
   "authorId": "趙岐",
   "dynasty": "漢",
@@ -10,7 +10,7 @@
   "genre": "prose",
   "verses": [
     {
-      "text": "漢趙氏注　宋孫奭音義并疏"
+      "text": "<經部,四書類,孟子注疏>"
     }
   ],
   "sections": {},

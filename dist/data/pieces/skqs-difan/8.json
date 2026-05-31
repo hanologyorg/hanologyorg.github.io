@@ -2,11 +2,10 @@
   "bookId": "skqs-difan",
   "num": 8,
   "title": "去䜛第六",
-  "author": "李世民",
-  "authorId": "唐太宗",
-  "dynasty": "唐",
-  "era": "唐",
-  "eraCode": "24",
+  "author": "",
+  "authorId": "",
+  "dynasty": "",
+  "era": "",
   "genre": "prose",
   "verses": [
     {
@@ -159,8 +158,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 1,
-          "start": 75,
-          "end": 83
+          "start": 67,
+          "end": 75
         },
         "kind": "semantic",
         "text": "韓非子曰人主未命而唯唯未使而諾諾先意承㫖觀貎察色以先主心者也言姦佞之賊臣也迎其人主之趣意順其志㫖以求媚恱",
@@ -250,8 +249,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 1,
-          "start": 135,
-          "end": 143
+          "start": 125,
+          "end": 135
         },
         "kind": "semantic",
         "text": "忠臣謂卻宛也孝子謂宋太子痤也言宛之忠痤之孝終被誣誑屠戮甚可為哀泣寃枉矣",
@@ -302,8 +301,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 1,
-          "start": 166,
-          "end": 173
+          "start": 160,
+          "end": 166
         },
         "kind": "semantic",
         "text": "二者指以疎間親父殺其子以邪敗正君族其臣故云斯二者是傾覆國家之夲耳",
@@ -328,8 +327,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 1,
-          "start": 182,
-          "end": 191
+          "start": 173,
+          "end": 182
         },
         "kind": "fanqie",
         "text": "敗壊大徳正理者無過於姦䜛敗徳敗正是對砥躬礪行也不當作两敗字書曰反道敗徳恐其傳冩之訛然上敗字當作反字",
@@ -354,8 +353,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 1,
-          "start": 203,
-          "end": 214
+          "start": 191,
+          "end": 203
         },
         "kind": "semantic",
         "text": "謂以顯然形體見於外者猶不能鑒識何况是非在於𡨋然無形質之間乎",
@@ -446,7 +445,7 @@
       "id": "default",
       "label": "原文",
       "shortLabel": "文",
-      "contributor": "唐太宗",
+      "contributor": "",
       "role": "author",
       "nature": "annotation",
       "displayOrder": 0,

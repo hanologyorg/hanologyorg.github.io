@@ -9,22 +9,28 @@
   "genre": "prose",
   "verses": [
     {
-      "text": "道可道也 非恆道也"
+      "text": "道可道也，非恆道也"
     },
     {
-      "text": "名可名也 非恆名也"
+      "text": "名可名也，非恆名也"
     },
     {
-      "text": "无名萬物之始也"
+      "text": "无名，萬物之始也"
     },
     {
-      "text": "有名萬物之母也"
+      "text": "有名，萬物之母也"
     },
     {
-      "text": "故恆无欲也 以觀亓眇 恆有欲也 以觀亓所徼"
+      "text": "故恆无欲也，以觀亓眇；"
     },
     {
-      "text": "兩者同出 異名同謂 玄之又玄 眾眇之門"
+      "text": "恆有欲也，以觀亓所徼"
+    },
+    {
+      "text": "兩者同出，異名同謂，"
+    },
+    {
+      "text": "玄之又玄，眾眇之門"
     }
   ],
   "sections": {},
@@ -75,9 +81,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 1,
+          "verseIndex": 2,
           "start": 0,
-          "end": 9
+          "end": 8
         },
         "kind": "commentary",
         "text": "無名者謂道，道無形，故不可名也。始者道本也，吐氣布化，出於虛無，為天地本始也。",
@@ -90,7 +96,7 @@
           "scope": "verse",
           "verseIndex": 3,
           "start": 0,
-          "end": 7
+          "end": 8
         },
         "kind": "commentary",
         "text": "有名謂天地。天地有形位、有陰陽、有柔剛，是其有名也。萬物母者，天地含氣生萬物，長大成熟，如母之養子也。",
@@ -114,9 +120,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 4,
-          "start": 0,
-          "end": 21
+          "verseIndex": 5,
+          "start": 10,
+          "end": 10
         },
         "kind": "commentary",
         "text": "徼，歸也。常有欲之人，可以觀世俗之所歸趣也。",
@@ -127,9 +133,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 4,
-          "start": 0,
-          "end": 21
+          "verseIndex": 7,
+          "start": 9,
+          "end": 9
         },
         "kind": "commentary",
         "text": "兩者，謂有欲無欲也。同出者，同出人心也。而異名者，所名各異也。名無欲者長存，名有欲者亡身也。",
@@ -140,9 +146,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 4,
-          "start": 0,
-          "end": 21
+          "verseIndex": 7,
+          "start": 9,
+          "end": 9
         },
         "kind": "commentary",
         "text": "玄，天也。言有欲之人與無欲之人，同受氣於天也。",
@@ -154,8 +160,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 5,
-          "start": 10,
-          "end": 11
+          "start": 11,
+          "end": 12
         },
         "kind": "commentary",
         "text": "天中復有天也。稟氣有厚薄，得中和滋液，則生賢聖，得錯亂污辱，則生貪淫也。",
@@ -167,8 +173,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 5,
-          "start": 15,
-          "end": 16
+          "start": 16,
+          "end": 17
         },
         "kind": "commentary",
         "text": "能知天中復有天，稟氣有厚薄，除情去慾守中和，是謂知道要之門戶也。",
@@ -194,9 +200,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
+          "verseIndex": 2,
           "start": 0,
-          "end": 9
+          "end": 8
         },
         "kind": "commentary",
         "text": "凡有皆始於無，故「未形」「無名」之時，則為萬物之始。及其「有形」「有名」之時，則長之、育之、亭之、毒之，為其母也。道以無形無名始成萬物。以始以成而不知其所以然，玄之又玄也。",
@@ -220,9 +226,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 4,
-          "start": 0,
-          "end": 21
+          "verseIndex": 5,
+          "start": 10,
+          "end": 10
         },
         "kind": "commentary",
         "text": "徼，歸終也。凡有之為利，必以無為用。欲之所本，適道而後濟。故常有欲，可以觀其終物之徼也。",
@@ -233,9 +239,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 4,
-          "start": 0,
-          "end": 21
+          "verseIndex": 5,
+          "start": 10,
+          "end": 10
         },
         "kind": "commentary",
         "text": "兩者，始與母也。同出者，同出於玄也。異名，所施不可同也。在首則謂之始，在終則謂之母。玄者，冥默無有也，始、母之所出也。不可得而名，故不可言同名曰玄。而言謂之玄者，取於不可得而謂之然也。謂之然則不可以定乎一玄而已。若定乎一玄，則是名則失之遠矣。故曰玄之又玄也。眾妙皆從而出，故曰眾妙之門也。",
@@ -309,9 +315,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 1,
+            "verseIndex": 2,
             "start": 0,
-            "end": 9
+            "end": 8
           },
           "kind": "commentary",
           "text": "無名者謂道，道無形，故不可名也。始者道本也，吐氣布化，出於虛無，為天地本始也。",
@@ -324,7 +330,7 @@
             "scope": "verse",
             "verseIndex": 3,
             "start": 0,
-            "end": 7
+            "end": 8
           },
           "kind": "commentary",
           "text": "有名謂天地。天地有形位、有陰陽、有柔剛，是其有名也。萬物母者，天地含氣生萬物，長大成熟，如母之養子也。",
@@ -348,9 +354,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 4,
-            "start": 0,
-            "end": 21
+            "verseIndex": 5,
+            "start": 10,
+            "end": 10
           },
           "kind": "commentary",
           "text": "徼，歸也。常有欲之人，可以觀世俗之所歸趣也。",
@@ -361,9 +367,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 4,
-            "start": 0,
-            "end": 21
+            "verseIndex": 7,
+            "start": 9,
+            "end": 9
           },
           "kind": "commentary",
           "text": "兩者，謂有欲無欲也。同出者，同出人心也。而異名者，所名各異也。名無欲者長存，名有欲者亡身也。",
@@ -374,9 +380,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 4,
-            "start": 0,
-            "end": 21
+            "verseIndex": 7,
+            "start": 9,
+            "end": 9
           },
           "kind": "commentary",
           "text": "玄，天也。言有欲之人與無欲之人，同受氣於天也。",
@@ -388,8 +394,8 @@
             "type": "range",
             "scope": "verse",
             "verseIndex": 5,
-            "start": 10,
-            "end": 11
+            "start": 11,
+            "end": 12
           },
           "kind": "commentary",
           "text": "天中復有天也。稟氣有厚薄，得中和滋液，則生賢聖，得錯亂污辱，則生貪淫也。",
@@ -401,8 +407,8 @@
             "type": "range",
             "scope": "verse",
             "verseIndex": 5,
-            "start": 15,
-            "end": 16
+            "start": 16,
+            "end": 17
           },
           "kind": "commentary",
           "text": "能知天中復有天，稟氣有厚薄，除情去慾守中和，是謂知道要之門戶也。",
@@ -438,9 +444,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
+            "verseIndex": 2,
             "start": 0,
-            "end": 9
+            "end": 8
           },
           "kind": "commentary",
           "text": "凡有皆始於無，故「未形」「無名」之時，則為萬物之始。及其「有形」「有名」之時，則長之、育之、亭之、毒之，為其母也。道以無形無名始成萬物。以始以成而不知其所以然，玄之又玄也。",
@@ -464,9 +470,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 4,
-            "start": 0,
-            "end": 21
+            "verseIndex": 5,
+            "start": 10,
+            "end": 10
           },
           "kind": "commentary",
           "text": "徼，歸終也。凡有之為利，必以無為用。欲之所本，適道而後濟。故常有欲，可以觀其終物之徼也。",
@@ -477,9 +483,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 4,
-            "start": 0,
-            "end": 21
+            "verseIndex": 5,
+            "start": 10,
+            "end": 10
           },
           "kind": "commentary",
           "text": "兩者，始與母也。同出者，同出於玄也。異名，所施不可同也。在首則謂之始，在終則謂之母。玄者，冥默無有也，始、母之所出也。不可得而名，故不可言同名曰玄。而言謂之玄者，取於不可得而謂之然也。謂之然則不可以定乎一玄而已。若定乎一玄，則是名則失之遠矣。故曰玄之又玄也。眾妙皆從而出，故曰眾妙之門也。",

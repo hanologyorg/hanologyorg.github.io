@@ -9,16 +9,67 @@
   "genre": "prose",
   "verses": [
     {
-      "text": "亓安也 易持也 亓未兆也 易謀也 亓脆也 易判也 亓微也 易散也 為之於亓未有也 治之於亓未亂也"
+      "text": "亓安也，易持也。"
     },
     {
-      "text": "合抱之木 生於毫末 九成之臺 作於羸土 百仞之高 始於足下"
+      "text": "亓未兆也，易謀也。"
     },
     {
-      "text": "為之者敗之 執之者失之 是以聖人无為也 故无敗也 无執也 故无失也 民之從事也 恆於亓成而敗之 故慎終若始 則无敗事矣"
+      "text": "亓脆也，易判也。"
     },
     {
-      "text": "是以聖人欲不欲 而不貴難得之貨 學不學 而復眾人之所過 能輔萬物之自然 而弗敢為"
+      "text": "亓微也，易散也。"
+    },
+    {
+      "text": "為之於亓未有也。"
+    },
+    {
+      "text": "治之於亓未亂也。"
+    },
+    {
+      "text": "合抱之木，生於毫末。"
+    },
+    {
+      "text": "九成之臺，作於羸土。"
+    },
+    {
+      "text": "百仞之高，始於足下。"
+    },
+    {
+      "text": "為之者敗之。"
+    },
+    {
+      "text": "執之者失之。"
+    },
+    {
+      "text": "是以聖人无為也。"
+    },
+    {
+      "text": "故无敗也。"
+    },
+    {
+      "text": "无執也。"
+    },
+    {
+      "text": "故无失也。"
+    },
+    {
+      "text": "民之從事也，恆於亓成而敗之。"
+    },
+    {
+      "text": "故慎終若始，則无敗事矣。"
+    },
+    {
+      "text": "是以聖人："
+    },
+    {
+      "text": "欲不欲，而不貴難得之貨。"
+    },
+    {
+      "text": "學不學，而復眾人之所過。"
+    },
+    {
+      "text": "能輔萬物之自然，而弗敢為。"
     }
   ],
   "sections": {},
@@ -31,8 +82,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 0,
-          "start": 8,
-          "end": 9
+          "start": 9,
+          "end": 10
         },
         "kind": "commentary",
         "text": "情欲禍患未有形兆時，易謀止也。",
@@ -43,9 +94,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 48
+          "verseIndex": 5,
+          "start": 8,
+          "end": 8
         },
         "kind": "commentary",
         "text": "禍亂未動於朝，情欲未見於色，如脆弱易破除。",
@@ -57,8 +108,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 0,
-          "start": 25,
-          "end": 26
+          "start": 28,
+          "end": 29
         },
         "kind": "commentary",
         "text": "其未彰著，微小易散去也。",
@@ -69,9 +120,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 48
+          "verseIndex": 5,
+          "start": 8,
+          "end": 8
         },
         "kind": "commentary",
         "text": "欲有所為，當於未有萌芽之時塞其端也。",
@@ -82,9 +133,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 48
+          "verseIndex": 5,
+          "start": 8,
+          "end": 8
         },
         "kind": "commentary",
         "text": "治身治國於未亂之時，當豫閉其門也。",
@@ -108,9 +159,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 1,
-          "start": 0,
-          "end": 29
+          "verseIndex": 8,
+          "start": 10,
+          "end": 10
         },
         "kind": "commentary",
         "text": "從卑立高。",
@@ -121,9 +172,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 1,
-          "start": 0,
-          "end": 29
+          "verseIndex": 8,
+          "start": 10,
+          "end": 10
         },
         "kind": "commentary",
         "text": "從近至遠。",
@@ -134,9 +185,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 1,
-          "start": 0,
-          "end": 29
+          "verseIndex": 16,
+          "start": 12,
+          "end": 12
         },
         "kind": "commentary",
         "text": "有為於事，廢於自然；有為於義，廢於仁；有為於色，廢於精神也。",
@@ -147,9 +198,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 1,
-          "start": 0,
-          "end": 29
+          "verseIndex": 16,
+          "start": 12,
+          "end": 12
         },
         "kind": "commentary",
         "text": "執利遇患，執道全身，堅持不得，推讓反還。",
@@ -161,8 +212,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 2,
-          "start": 12,
-          "end": 13
+          "start": 14,
+          "end": 15
         },
         "kind": "commentary",
         "text": "聖人不為華文，不為色利，不為殘賊，故無壞敗。",
@@ -174,8 +225,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 2,
-          "start": 25,
-          "end": 26
+          "start": 29,
+          "end": 30
         },
         "kind": "commentary",
         "text": "聖人有德以教愚，有財以與貧，無所執藏，故無所失於人也。",
@@ -186,9 +237,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
-          "start": 0,
-          "end": 59
+          "verseIndex": 16,
+          "start": 12,
+          "end": 12
         },
         "kind": "commentary",
         "text": "從，為也。民之為事，常於功德幾成，而貪位好名，奢泰盈滿而自敗之也。",
@@ -199,9 +250,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
-          "start": 0,
-          "end": 59
+          "verseIndex": 16,
+          "start": 12,
+          "end": 12
         },
         "kind": "commentary",
         "text": "終當如始，不當懈怠。",
@@ -226,8 +277,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 3,
-          "start": 9,
-          "end": 10
+          "start": 11,
+          "end": 12
         },
         "kind": "commentary",
         "text": "聖人不眩為服，不賤石而貴玉。",
@@ -239,8 +290,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 3,
-          "start": 16,
-          "end": 17
+          "start": 19,
+          "end": 20
         },
         "kind": "commentary",
         "text": "聖人學人所不能學。人學智詐，聖人學自然；人學治世，聖人學治身；守道真也。",
@@ -252,8 +303,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 3,
-          "start": 21,
-          "end": 22
+          "start": 24,
+          "end": 25
         },
         "kind": "commentary",
         "text": "眾人學問反，過本為末，過實為華。復之者，使反本也。",
@@ -264,9 +315,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 3,
-          "start": 0,
-          "end": 40
+          "verseIndex": 20,
+          "start": 13,
+          "end": 13
         },
         "kind": "commentary",
         "text": "教人反本實者，欲以輔助萬物自然之性也。",
@@ -277,9 +328,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 3,
-          "start": 0,
-          "end": 40
+          "verseIndex": 20,
+          "start": 13,
+          "end": 13
         },
         "kind": "commentary",
         "text": "聖人動作因循，不敢有所造為，恐遠本也。",
@@ -292,9 +343,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 48
+          "verseIndex": 5,
+          "start": 8,
+          "end": 8
         },
         "kind": "commentary",
         "text": "雖失無入有，以其微脆之故，未足以興大功，故易也。此四者，皆說慎終也。不可以無之故而不持，不可以微之故而弗散也。無而弗持則生有焉，微而不散則生大焉。故慮終之患，如始之禍，則無敗事。",
@@ -305,9 +356,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 48
+          "verseIndex": 5,
+          "start": 8,
+          "end": 8
         },
         "kind": "commentary",
         "text": "謂其安未兆也。",
@@ -318,9 +369,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 48
+          "verseIndex": 5,
+          "start": 8,
+          "end": 8
         },
         "kind": "commentary",
         "text": "謂微脆也。",
@@ -331,9 +382,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 48
+          "verseIndex": 5,
+          "start": 8,
+          "end": 8
         },
         "kind": "commentary",
         "text": "當以慎終除微，慎微除亂，而以施為治之，形名執之，反生事原，巧辟滋作，故敗失也。",
@@ -344,9 +395,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
-          "start": 0,
-          "end": 59
+          "verseIndex": 16,
+          "start": 12,
+          "end": 12
         },
         "kind": "commentary",
         "text": "不慎終也。",
@@ -357,9 +408,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
-          "start": 0,
-          "end": 59
+          "verseIndex": 16,
+          "start": 12,
+          "end": 12
         },
         "kind": "commentary",
         "text": "好欲雖微，爭尚為之，興難得之貨雖細，貪盜為之起也。",
@@ -370,9 +421,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 3,
-          "start": 0,
-          "end": 40
+          "verseIndex": 20,
+          "start": 13,
+          "end": 13
         },
         "kind": "commentary",
         "text": "不學而能者，自然也，喻於不學者，過也。故學不學，以復眾人之過。",
@@ -383,9 +434,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 3,
-          "start": 0,
-          "end": 40
+          "verseIndex": 20,
+          "start": 13,
+          "end": 13
         },
         "kind": "commentary",
         "text": "",
@@ -421,8 +472,8 @@
             "type": "range",
             "scope": "verse",
             "verseIndex": 0,
-            "start": 8,
-            "end": 9
+            "start": 9,
+            "end": 10
           },
           "kind": "commentary",
           "text": "情欲禍患未有形兆時，易謀止也。",
@@ -433,9 +484,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 48
+            "verseIndex": 5,
+            "start": 8,
+            "end": 8
           },
           "kind": "commentary",
           "text": "禍亂未動於朝，情欲未見於色，如脆弱易破除。",
@@ -447,8 +498,8 @@
             "type": "range",
             "scope": "verse",
             "verseIndex": 0,
-            "start": 25,
-            "end": 26
+            "start": 28,
+            "end": 29
           },
           "kind": "commentary",
           "text": "其未彰著，微小易散去也。",
@@ -459,9 +510,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 48
+            "verseIndex": 5,
+            "start": 8,
+            "end": 8
           },
           "kind": "commentary",
           "text": "欲有所為，當於未有萌芽之時塞其端也。",
@@ -472,9 +523,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 48
+            "verseIndex": 5,
+            "start": 8,
+            "end": 8
           },
           "kind": "commentary",
           "text": "治身治國於未亂之時，當豫閉其門也。",
@@ -498,9 +549,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 1,
-            "start": 0,
-            "end": 29
+            "verseIndex": 8,
+            "start": 10,
+            "end": 10
           },
           "kind": "commentary",
           "text": "從卑立高。",
@@ -511,9 +562,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 1,
-            "start": 0,
-            "end": 29
+            "verseIndex": 8,
+            "start": 10,
+            "end": 10
           },
           "kind": "commentary",
           "text": "從近至遠。",
@@ -524,9 +575,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 1,
-            "start": 0,
-            "end": 29
+            "verseIndex": 16,
+            "start": 12,
+            "end": 12
           },
           "kind": "commentary",
           "text": "有為於事，廢於自然；有為於義，廢於仁；有為於色，廢於精神也。",
@@ -537,9 +588,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 1,
-            "start": 0,
-            "end": 29
+            "verseIndex": 16,
+            "start": 12,
+            "end": 12
           },
           "kind": "commentary",
           "text": "執利遇患，執道全身，堅持不得，推讓反還。",
@@ -551,8 +602,8 @@
             "type": "range",
             "scope": "verse",
             "verseIndex": 2,
-            "start": 12,
-            "end": 13
+            "start": 14,
+            "end": 15
           },
           "kind": "commentary",
           "text": "聖人不為華文，不為色利，不為殘賊，故無壞敗。",
@@ -564,8 +615,8 @@
             "type": "range",
             "scope": "verse",
             "verseIndex": 2,
-            "start": 25,
-            "end": 26
+            "start": 29,
+            "end": 30
           },
           "kind": "commentary",
           "text": "聖人有德以教愚，有財以與貧，無所執藏，故無所失於人也。",
@@ -576,9 +627,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 2,
-            "start": 0,
-            "end": 59
+            "verseIndex": 16,
+            "start": 12,
+            "end": 12
           },
           "kind": "commentary",
           "text": "從，為也。民之為事，常於功德幾成，而貪位好名，奢泰盈滿而自敗之也。",
@@ -589,9 +640,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 2,
-            "start": 0,
-            "end": 59
+            "verseIndex": 16,
+            "start": 12,
+            "end": 12
           },
           "kind": "commentary",
           "text": "終當如始，不當懈怠。",
@@ -616,8 +667,8 @@
             "type": "range",
             "scope": "verse",
             "verseIndex": 3,
-            "start": 9,
-            "end": 10
+            "start": 11,
+            "end": 12
           },
           "kind": "commentary",
           "text": "聖人不眩為服，不賤石而貴玉。",
@@ -629,8 +680,8 @@
             "type": "range",
             "scope": "verse",
             "verseIndex": 3,
-            "start": 16,
-            "end": 17
+            "start": 19,
+            "end": 20
           },
           "kind": "commentary",
           "text": "聖人學人所不能學。人學智詐，聖人學自然；人學治世，聖人學治身；守道真也。",
@@ -642,8 +693,8 @@
             "type": "range",
             "scope": "verse",
             "verseIndex": 3,
-            "start": 21,
-            "end": 22
+            "start": 24,
+            "end": 25
           },
           "kind": "commentary",
           "text": "眾人學問反，過本為末，過實為華。復之者，使反本也。",
@@ -654,9 +705,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 3,
-            "start": 0,
-            "end": 40
+            "verseIndex": 20,
+            "start": 13,
+            "end": 13
           },
           "kind": "commentary",
           "text": "教人反本實者，欲以輔助萬物自然之性也。",
@@ -667,9 +718,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 3,
-            "start": 0,
-            "end": 40
+            "verseIndex": 20,
+            "start": 13,
+            "end": 13
           },
           "kind": "commentary",
           "text": "聖人動作因循，不敢有所造為，恐遠本也。",
@@ -692,9 +743,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 48
+            "verseIndex": 5,
+            "start": 8,
+            "end": 8
           },
           "kind": "commentary",
           "text": "雖失無入有，以其微脆之故，未足以興大功，故易也。此四者，皆說慎終也。不可以無之故而不持，不可以微之故而弗散也。無而弗持則生有焉，微而不散則生大焉。故慮終之患，如始之禍，則無敗事。",
@@ -705,9 +756,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 48
+            "verseIndex": 5,
+            "start": 8,
+            "end": 8
           },
           "kind": "commentary",
           "text": "謂其安未兆也。",
@@ -718,9 +769,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 48
+            "verseIndex": 5,
+            "start": 8,
+            "end": 8
           },
           "kind": "commentary",
           "text": "謂微脆也。",
@@ -731,9 +782,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 48
+            "verseIndex": 5,
+            "start": 8,
+            "end": 8
           },
           "kind": "commentary",
           "text": "當以慎終除微，慎微除亂，而以施為治之，形名執之，反生事原，巧辟滋作，故敗失也。",
@@ -744,9 +795,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 2,
-            "start": 0,
-            "end": 59
+            "verseIndex": 16,
+            "start": 12,
+            "end": 12
           },
           "kind": "commentary",
           "text": "不慎終也。",
@@ -757,9 +808,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 2,
-            "start": 0,
-            "end": 59
+            "verseIndex": 16,
+            "start": 12,
+            "end": 12
           },
           "kind": "commentary",
           "text": "好欲雖微，爭尚為之，興難得之貨雖細，貪盜為之起也。",
@@ -770,9 +821,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 3,
-            "start": 0,
-            "end": 40
+            "verseIndex": 20,
+            "start": 13,
+            "end": 13
           },
           "kind": "commentary",
           "text": "不學而能者，自然也，喻於不學者，過也。故學不學，以復眾人之過。",
@@ -783,9 +834,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 3,
-            "start": 0,
-            "end": 40
+            "verseIndex": 20,
+            "start": 13,
+            "end": 13
           },
           "kind": "commentary",
           "text": "",

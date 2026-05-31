@@ -2,8 +2,8 @@
   {
     "id": "A001",
     "name": "項羽",
-    "era": "秦",
-    "eraCode": "06",
+    "era": "秦末",
+    "eraCode": "",
     "workCount": 1
   },
   {
@@ -23,15 +23,15 @@
   {
     "id": "A004",
     "name": "曹操",
-    "era": "漢",
-    "eraCode": "07",
+    "era": "漢末",
+    "eraCode": "",
     "workCount": 2
   },
   {
     "id": "A005",
     "name": "曹植",
-    "era": "漢",
-    "eraCode": "07",
+    "era": "漢末",
+    "eraCode": "",
     "workCount": 2
   },
   {
@@ -954,7 +954,7 @@
   {
     "id": "C001",
     "name": "王弼",
-    "era": "曹魏",
+    "era": "魏",
     "eraCode": "09",
     "workCount": 0
   },
@@ -970,7 +970,7 @@
     "name": "李世民",
     "era": "唐",
     "eraCode": "24",
-    "workCount": 15
+    "workCount": 14
   },
   {
     "id": "C004",
@@ -1019,42 +1019,42 @@
     "name": "宋太宗",
     "era": "宋",
     "eraCode": "",
-    "workCount": 21
+    "workCount": 0
   },
   {
     "id": "尹文",
     "name": "尹文",
     "era": "周",
     "eraCode": "",
-    "workCount": 2
+    "workCount": 0
   },
   {
     "id": "文子",
     "name": "文子",
     "era": "周",
     "eraCode": "",
-    "workCount": 23
+    "workCount": 0
   },
   {
     "id": "桓寬",
     "name": "桓寬",
     "era": "漢",
     "eraCode": "07",
-    "workCount": 63
+    "workCount": 0
   },
   {
     "id": "趙岐",
     "name": "趙岐",
     "era": "漢",
     "eraCode": "07",
-    "workCount": 76
+    "workCount": 64
   },
   {
     "id": "鬼谷子",
     "name": "鬼谷子",
     "era": "周",
     "eraCode": "",
-    "workCount": 1
+    "workCount": 0
   },
   {
     "id": "A105",

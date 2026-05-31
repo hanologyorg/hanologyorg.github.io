@@ -9,16 +9,34 @@
   "genre": "prose",
   "verses": [
     {
-      "text": "勇於敢者則殺 勇於不敢者則栝 此兩者或利或害"
+      "text": "勇於敢者則殺。"
     },
     {
-      "text": "天之所惡 孰知亓故"
+      "text": "勇於不敢者則栝。"
     },
     {
-      "text": "天之道 不彈而善勝 不言而善應 不召而自來 彈而善謀"
+      "text": "此兩者或利或害。"
     },
     {
-      "text": "天網恢恢 疏而不失"
+      "text": "天之所惡，孰知亓故。"
+    },
+    {
+      "text": "天之道："
+    },
+    {
+      "text": "不彈而善勝。"
+    },
+    {
+      "text": "不言而善應。"
+    },
+    {
+      "text": "不召而自來。"
+    },
+    {
+      "text": "彈而善謀。"
+    },
+    {
+      "text": "天網恢恢，疏而不失。"
     }
   ],
   "sections": {},
@@ -30,9 +48,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 22
+          "verseIndex": 2,
+          "start": 8,
+          "end": 8
         },
         "kind": "commentary",
         "text": "勇敢有為，則殺其身。",
@@ -43,9 +61,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 22
+          "verseIndex": 2,
+          "start": 8,
+          "end": 8
         },
         "kind": "commentary",
         "text": "勇於不敢有為，則活其身。",
@@ -57,8 +75,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 0,
-          "start": 15,
-          "end": 16
+          "start": 17,
+          "end": 18
         },
         "kind": "commentary",
         "text": "謂敢與不敢也。",
@@ -70,8 +88,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 0,
-          "start": 18,
-          "end": 19
+          "start": 20,
+          "end": 21
         },
         "kind": "commentary",
         "text": "活身為利，殺身為害。",
@@ -108,9 +126,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 1,
+          "verseIndex": 3,
           "start": 0,
-          "end": 9
+          "end": 10
         },
         "kind": "commentary",
         "text": "言聖人之明德猶難於勇敢，況無聖人之德而欲行之乎？",
@@ -121,9 +139,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 1,
-          "start": 0,
-          "end": 9
+          "verseIndex": 8,
+          "start": 5,
+          "end": 5
         },
         "kind": "commentary",
         "text": "天不與人爭貴賤，而人自畏之。",
@@ -135,8 +153,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 2,
-          "start": 10,
-          "end": 11
+          "start": 12,
+          "end": 13
         },
         "kind": "commentary",
         "text": "天不言，萬物自動以應時。",
@@ -148,8 +166,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 2,
-          "start": 16,
-          "end": 17
+          "start": 19,
+          "end": 20
         },
         "kind": "commentary",
         "text": "天不呼召，萬物皆負陰而向陽。",
@@ -160,9 +178,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
-          "start": 0,
-          "end": 26
+          "verseIndex": 8,
+          "start": 5,
+          "end": 5
         },
         "kind": "commentary",
         "text": "繟，寬也。天道雖寬博，善謀慮人事，修善行惡，各蒙其報也。",
@@ -173,9 +191,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
+          "verseIndex": 9,
           "start": 0,
-          "end": 26
+          "end": 10
         },
         "kind": "commentary",
         "text": "天所網羅恢恢甚大，雖疏遠，司察人善惡，無有所失。",
@@ -188,9 +206,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 22
+          "verseIndex": 2,
+          "start": 8,
+          "end": 8
         },
         "kind": "commentary",
         "text": "必不得其死也。",
@@ -201,9 +219,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 22
+          "verseIndex": 2,
+          "start": 8,
+          "end": 8
         },
         "kind": "commentary",
         "text": "必齊命也。",
@@ -215,8 +233,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 0,
-          "start": 15,
-          "end": 16
+          "start": 17,
+          "end": 18
         },
         "kind": "commentary",
         "text": "俱勇而所施者異，利害不同，故曰，或利或害也。",
@@ -227,9 +245,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
+          "verseIndex": 3,
           "start": 0,
-          "end": 22
+          "end": 10
         },
         "kind": "commentary",
         "text": "孰，誰也。言誰能知天下之所惡意故邪？其唯聖人。夫聖人之明，猶難於勇敢，況無聖人之明而欲行之也。故曰，猶難之也。",
@@ -240,9 +258,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 1,
-          "start": 0,
-          "end": 9
+          "verseIndex": 8,
+          "start": 5,
+          "end": 5
         },
         "kind": "commentary",
         "text": "天唯不爭，故天下莫能與之爭。",
@@ -254,8 +272,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 2,
-          "start": 10,
-          "end": 11
+          "start": 12,
+          "end": 13
         },
         "kind": "commentary",
         "text": "順則吉，逆則凶，不言而善應也。",
@@ -267,8 +285,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 2,
-          "start": 16,
-          "end": 17
+          "start": 19,
+          "end": 20
         },
         "kind": "commentary",
         "text": "處下則物自歸。",
@@ -279,9 +297,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
-          "start": 0,
-          "end": 26
+          "verseIndex": 8,
+          "start": 5,
+          "end": 5
         },
         "kind": "commentary",
         "text": "垂象而見吉凶，先事而設誠，安而不忘危，未召而謀之，故曰，繟然而善謀也。",
@@ -292,9 +310,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 3,
+          "verseIndex": 9,
           "start": 0,
-          "end": 9
+          "end": 10
         },
         "kind": "commentary",
         "text": "",
@@ -329,9 +347,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 22
+            "verseIndex": 2,
+            "start": 8,
+            "end": 8
           },
           "kind": "commentary",
           "text": "勇敢有為，則殺其身。",
@@ -342,9 +360,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 22
+            "verseIndex": 2,
+            "start": 8,
+            "end": 8
           },
           "kind": "commentary",
           "text": "勇於不敢有為，則活其身。",
@@ -356,8 +374,8 @@
             "type": "range",
             "scope": "verse",
             "verseIndex": 0,
-            "start": 15,
-            "end": 16
+            "start": 17,
+            "end": 18
           },
           "kind": "commentary",
           "text": "謂敢與不敢也。",
@@ -369,8 +387,8 @@
             "type": "range",
             "scope": "verse",
             "verseIndex": 0,
-            "start": 18,
-            "end": 19
+            "start": 20,
+            "end": 21
           },
           "kind": "commentary",
           "text": "活身為利，殺身為害。",
@@ -407,9 +425,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 1,
+            "verseIndex": 3,
             "start": 0,
-            "end": 9
+            "end": 10
           },
           "kind": "commentary",
           "text": "言聖人之明德猶難於勇敢，況無聖人之德而欲行之乎？",
@@ -420,9 +438,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 1,
-            "start": 0,
-            "end": 9
+            "verseIndex": 8,
+            "start": 5,
+            "end": 5
           },
           "kind": "commentary",
           "text": "天不與人爭貴賤，而人自畏之。",
@@ -434,8 +452,8 @@
             "type": "range",
             "scope": "verse",
             "verseIndex": 2,
-            "start": 10,
-            "end": 11
+            "start": 12,
+            "end": 13
           },
           "kind": "commentary",
           "text": "天不言，萬物自動以應時。",
@@ -447,8 +465,8 @@
             "type": "range",
             "scope": "verse",
             "verseIndex": 2,
-            "start": 16,
-            "end": 17
+            "start": 19,
+            "end": 20
           },
           "kind": "commentary",
           "text": "天不呼召，萬物皆負陰而向陽。",
@@ -459,9 +477,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 2,
-            "start": 0,
-            "end": 26
+            "verseIndex": 8,
+            "start": 5,
+            "end": 5
           },
           "kind": "commentary",
           "text": "繟，寬也。天道雖寬博，善謀慮人事，修善行惡，各蒙其報也。",
@@ -472,9 +490,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 2,
+            "verseIndex": 9,
             "start": 0,
-            "end": 26
+            "end": 10
           },
           "kind": "commentary",
           "text": "天所網羅恢恢甚大，雖疏遠，司察人善惡，無有所失。",
@@ -497,9 +515,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 22
+            "verseIndex": 2,
+            "start": 8,
+            "end": 8
           },
           "kind": "commentary",
           "text": "必不得其死也。",
@@ -510,9 +528,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 22
+            "verseIndex": 2,
+            "start": 8,
+            "end": 8
           },
           "kind": "commentary",
           "text": "必齊命也。",
@@ -524,8 +542,8 @@
             "type": "range",
             "scope": "verse",
             "verseIndex": 0,
-            "start": 15,
-            "end": 16
+            "start": 17,
+            "end": 18
           },
           "kind": "commentary",
           "text": "俱勇而所施者異，利害不同，故曰，或利或害也。",
@@ -536,9 +554,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
+            "verseIndex": 3,
             "start": 0,
-            "end": 22
+            "end": 10
           },
           "kind": "commentary",
           "text": "孰，誰也。言誰能知天下之所惡意故邪？其唯聖人。夫聖人之明，猶難於勇敢，況無聖人之明而欲行之也。故曰，猶難之也。",
@@ -549,9 +567,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 1,
-            "start": 0,
-            "end": 9
+            "verseIndex": 8,
+            "start": 5,
+            "end": 5
           },
           "kind": "commentary",
           "text": "天唯不爭，故天下莫能與之爭。",
@@ -563,8 +581,8 @@
             "type": "range",
             "scope": "verse",
             "verseIndex": 2,
-            "start": 10,
-            "end": 11
+            "start": 12,
+            "end": 13
           },
           "kind": "commentary",
           "text": "順則吉，逆則凶，不言而善應也。",
@@ -576,8 +594,8 @@
             "type": "range",
             "scope": "verse",
             "verseIndex": 2,
-            "start": 16,
-            "end": 17
+            "start": 19,
+            "end": 20
           },
           "kind": "commentary",
           "text": "處下則物自歸。",
@@ -588,9 +606,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 2,
-            "start": 0,
-            "end": 26
+            "verseIndex": 8,
+            "start": 5,
+            "end": 5
           },
           "kind": "commentary",
           "text": "垂象而見吉凶，先事而設誠，安而不忘危，未召而謀之，故曰，繟然而善謀也。",
@@ -601,9 +619,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 3,
+            "verseIndex": 9,
             "start": 0,
-            "end": 9
+            "end": 10
           },
           "kind": "commentary",
           "text": "",

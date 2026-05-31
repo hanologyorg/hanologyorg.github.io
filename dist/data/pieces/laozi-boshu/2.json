@@ -9,16 +9,34 @@
   "genre": "prose",
   "verses": [
     {
-      "text": "天下皆知美 為美惡已 皆知善 訾不善矣"
+      "text": "天下皆知美為美，惡已。"
     },
     {
-      "text": "有无之相生也 難易之相成也 長短之相形也 高下之相盈也 音聲之相和也 先後之相隨 恆也"
+      "text": "皆知善，訾不善矣。"
     },
     {
-      "text": "是以聖人居无為之事 行不言之教"
+      "text": "有无之相生也，"
     },
     {
-      "text": "万物作焉而不辞 生焉而不有 为焉而不恃 功成而不处 夫唯不处 是以不去"
+      "text": "難易之相成也，"
+    },
+    {
+      "text": "長短之相形也，"
+    },
+    {
+      "text": "高下之相盈也，音聲之相和也，"
+    },
+    {
+      "text": "先後之相隨，恆也"
+    },
+    {
+      "text": "是以聖人居无為之事，行不言之教。"
+    },
+    {
+      "text": "万物作焉，而不辞。生焉，而不有。为焉，而不恃。"
+    },
+    {
+      "text": "功成，而不处。夫唯不处，是以不去。"
     }
   ],
   "sections": {},
@@ -30,9 +48,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 19
+          "verseIndex": 1,
+          "start": 9,
+          "end": 9
         },
         "kind": "commentary",
         "text": "自揚己美，使彰顯也。",
@@ -43,9 +61,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 19
+          "verseIndex": 1,
+          "start": 9,
+          "end": 9
         },
         "kind": "commentary",
         "text": "有危亡也。",
@@ -56,9 +74,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 19
+          "verseIndex": 1,
+          "start": 9,
+          "end": 9
         },
         "kind": "commentary",
         "text": "有功名也。",
@@ -69,9 +87,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 19
+          "verseIndex": 1,
+          "start": 9,
+          "end": 9
         },
         "kind": "commentary",
         "text": "人所爭也。",
@@ -82,9 +100,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 19
+          "verseIndex": 6,
+          "start": 8,
+          "end": 8
         },
         "kind": "commentary",
         "text": "見有而為無也。",
@@ -95,9 +113,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 19
+          "verseIndex": 6,
+          "start": 8,
+          "end": 8
         },
         "kind": "commentary",
         "text": "見難而為易也。",
@@ -108,9 +126,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 19
+          "verseIndex": 6,
+          "start": 8,
+          "end": 8
         },
         "kind": "commentary",
         "text": "見短而為長也。",
@@ -121,9 +139,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 19
+          "verseIndex": 6,
+          "start": 8,
+          "end": 8
         },
         "kind": "commentary",
         "text": "見高而為下也。",
@@ -134,9 +152,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 19
+          "verseIndex": 6,
+          "start": 8,
+          "end": 8
         },
         "kind": "commentary",
         "text": "上唱下必和也。",
@@ -147,9 +165,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 19
+          "verseIndex": 6,
+          "start": 8,
+          "end": 8
         },
         "kind": "commentary",
         "text": "上行下必隨也。",
@@ -186,9 +204,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
+          "verseIndex": 7,
           "start": 0,
-          "end": 15
+          "end": 16
         },
         "kind": "commentary",
         "text": "各自動也。",
@@ -200,8 +218,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 3,
-          "start": 4,
-          "end": 5
+          "start": 5,
+          "end": 6
         },
         "kind": "commentary",
         "text": "不辭謝而逆止。",
@@ -212,9 +230,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 3,
-          "start": 0,
-          "end": 35
+          "verseIndex": 9,
+          "start": 17,
+          "end": 17
         },
         "kind": "commentary",
         "text": "元氣生萬物而不有。",
@@ -225,9 +243,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 3,
-          "start": 0,
-          "end": 35
+          "verseIndex": 9,
+          "start": 17,
+          "end": 17
         },
         "kind": "commentary",
         "text": "道所施為，不恃望其報也。",
@@ -238,9 +256,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 3,
-          "start": 0,
-          "end": 35
+          "verseIndex": 9,
+          "start": 17,
+          "end": 17
         },
         "kind": "commentary",
         "text": "功成事就，退避不居其位。",
@@ -251,9 +269,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 3,
-          "start": 0,
-          "end": 35
+          "verseIndex": 9,
+          "start": 17,
+          "end": 17
         },
         "kind": "commentary",
         "text": "夫惟功成不居其位。",
@@ -265,8 +283,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 3,
-          "start": 31,
-          "end": 32
+          "start": 36,
+          "end": 37
         },
         "kind": "commentary",
         "text": "福德常在，不去其身也。此言不行不可隨，不言不可知疾。上六句有高下長短，君開一源，下生百端，百端之變，無不動亂。",
@@ -279,9 +297,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 19
+          "verseIndex": 1,
+          "start": 9,
+          "end": 9
         },
         "kind": "commentary",
         "text": "美者，人心之所進樂也；惡者，人心之所惡疾也。美惡，猶喜怒也；善不善，猶是非也。喜怒同根，是非同門，故不可得偏舉也。此六者皆陳自然不可偏舉之明數也。",
@@ -305,9 +323,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
+          "verseIndex": 7,
           "start": 0,
-          "end": 15
+          "end": 16
         },
         "kind": "commentary",
         "text": "智慧自備，為則偽也。",
@@ -318,9 +336,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 3,
-          "start": 0,
-          "end": 35
+          "verseIndex": 9,
+          "start": 17,
+          "end": 17
         },
         "kind": "commentary",
         "text": "因物而用，功自彼成，故不居也。",
@@ -331,9 +349,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 3,
-          "start": 0,
-          "end": 35
+          "verseIndex": 9,
+          "start": 17,
+          "end": 17
         },
         "kind": "commentary",
         "text": "使功在己，則功不可久也。",
@@ -368,9 +386,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 19
+            "verseIndex": 1,
+            "start": 9,
+            "end": 9
           },
           "kind": "commentary",
           "text": "自揚己美，使彰顯也。",
@@ -381,9 +399,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 19
+            "verseIndex": 1,
+            "start": 9,
+            "end": 9
           },
           "kind": "commentary",
           "text": "有危亡也。",
@@ -394,9 +412,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 19
+            "verseIndex": 1,
+            "start": 9,
+            "end": 9
           },
           "kind": "commentary",
           "text": "有功名也。",
@@ -407,9 +425,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 19
+            "verseIndex": 1,
+            "start": 9,
+            "end": 9
           },
           "kind": "commentary",
           "text": "人所爭也。",
@@ -420,9 +438,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 19
+            "verseIndex": 6,
+            "start": 8,
+            "end": 8
           },
           "kind": "commentary",
           "text": "見有而為無也。",
@@ -433,9 +451,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 19
+            "verseIndex": 6,
+            "start": 8,
+            "end": 8
           },
           "kind": "commentary",
           "text": "見難而為易也。",
@@ -446,9 +464,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 19
+            "verseIndex": 6,
+            "start": 8,
+            "end": 8
           },
           "kind": "commentary",
           "text": "見短而為長也。",
@@ -459,9 +477,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 19
+            "verseIndex": 6,
+            "start": 8,
+            "end": 8
           },
           "kind": "commentary",
           "text": "見高而為下也。",
@@ -472,9 +490,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 19
+            "verseIndex": 6,
+            "start": 8,
+            "end": 8
           },
           "kind": "commentary",
           "text": "上唱下必和也。",
@@ -485,9 +503,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 19
+            "verseIndex": 6,
+            "start": 8,
+            "end": 8
           },
           "kind": "commentary",
           "text": "上行下必隨也。",
@@ -524,9 +542,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 2,
+            "verseIndex": 7,
             "start": 0,
-            "end": 15
+            "end": 16
           },
           "kind": "commentary",
           "text": "各自動也。",
@@ -538,8 +556,8 @@
             "type": "range",
             "scope": "verse",
             "verseIndex": 3,
-            "start": 4,
-            "end": 5
+            "start": 5,
+            "end": 6
           },
           "kind": "commentary",
           "text": "不辭謝而逆止。",
@@ -550,9 +568,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 3,
-            "start": 0,
-            "end": 35
+            "verseIndex": 9,
+            "start": 17,
+            "end": 17
           },
           "kind": "commentary",
           "text": "元氣生萬物而不有。",
@@ -563,9 +581,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 3,
-            "start": 0,
-            "end": 35
+            "verseIndex": 9,
+            "start": 17,
+            "end": 17
           },
           "kind": "commentary",
           "text": "道所施為，不恃望其報也。",
@@ -576,9 +594,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 3,
-            "start": 0,
-            "end": 35
+            "verseIndex": 9,
+            "start": 17,
+            "end": 17
           },
           "kind": "commentary",
           "text": "功成事就，退避不居其位。",
@@ -589,9 +607,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 3,
-            "start": 0,
-            "end": 35
+            "verseIndex": 9,
+            "start": 17,
+            "end": 17
           },
           "kind": "commentary",
           "text": "夫惟功成不居其位。",
@@ -603,8 +621,8 @@
             "type": "range",
             "scope": "verse",
             "verseIndex": 3,
-            "start": 31,
-            "end": 32
+            "start": 36,
+            "end": 37
           },
           "kind": "commentary",
           "text": "福德常在，不去其身也。此言不行不可隨，不言不可知疾。上六句有高下長短，君開一源，下生百端，百端之變，無不動亂。",
@@ -627,9 +645,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 19
+            "verseIndex": 1,
+            "start": 9,
+            "end": 9
           },
           "kind": "commentary",
           "text": "美者，人心之所進樂也；惡者，人心之所惡疾也。美惡，猶喜怒也；善不善，猶是非也。喜怒同根，是非同門，故不可得偏舉也。此六者皆陳自然不可偏舉之明數也。",
@@ -653,9 +671,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 2,
+            "verseIndex": 7,
             "start": 0,
-            "end": 15
+            "end": 16
           },
           "kind": "commentary",
           "text": "智慧自備，為則偽也。",
@@ -666,9 +684,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 3,
-            "start": 0,
-            "end": 35
+            "verseIndex": 9,
+            "start": 17,
+            "end": 17
           },
           "kind": "commentary",
           "text": "因物而用，功自彼成，故不居也。",
@@ -679,9 +697,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 3,
-            "start": 0,
-            "end": 35
+            "verseIndex": 9,
+            "start": 17,
+            "end": 17
           },
           "kind": "commentary",
           "text": "使功在己，則功不可久也。",

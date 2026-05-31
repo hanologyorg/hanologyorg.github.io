@@ -2,11 +2,10 @@
   "bookId": "skqs-yantielun",
   "num": 1,
   "title": "提要",
-  "author": "桓寬",
-  "authorId": "桓寬",
+  "author": "",
+  "authorId": "",
   "dynasty": "漢",
   "era": "漢",
-  "eraCode": "07",
   "genre": "prose",
   "verses": [
     {
@@ -95,7 +94,7 @@
       "id": "default",
       "label": "原文",
       "shortLabel": "文",
-      "contributor": "桓寬",
+      "contributor": "",
       "role": "author",
       "nature": "annotation",
       "displayOrder": 0,

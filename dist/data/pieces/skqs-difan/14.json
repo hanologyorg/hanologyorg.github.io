@@ -2,11 +2,10 @@
   "bookId": "skqs-difan",
   "num": 14,
   "title": "崇文第十二",
-  "author": "李世民",
-  "authorId": "唐太宗",
-  "dynasty": "唐",
-  "era": "唐",
-  "eraCode": "24",
+  "author": "",
+  "authorId": "",
+  "dynasty": "",
+  "era": "",
   "genre": "prose",
   "verses": [
     {
@@ -28,9 +27,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 0
+          "verseIndex": 1,
+          "start": 29,
+          "end": 37
         },
         "kind": "fanqie",
         "text": "崇尊也重也左傳曰經緯天地曰文夫天以文而化地以文而生人以文而㑹國以文而建王以文而治天下以文而安反是則不得其正矣盖文者乃三才事物中和之氣也以孝悌忠信仁義禮智廣充之天理存焉非絺章繡句華浮藻麗之文而已如其崇重絺章繡句華浮藻麗之文是為晉成帝梁武帝李後主矣",
@@ -211,8 +210,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 1,
-          "start": 101,
-          "end": 113
+          "start": 97,
+          "end": 101
         },
         "kind": "semantic",
         "text": "端拱謂端嚴而拱斂其手無為謂無所營治天下自安矣此用文之致也",
@@ -250,8 +249,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 1,
-          "start": 132,
-          "end": 139
+          "start": 128,
+          "end": 132
         },
         "kind": "fanqie",
         "text": "斯二者文武之事也逓更也猶言更相為國家之切用",
@@ -341,8 +340,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 1,
-          "start": 189,
-          "end": 195
+          "start": 183,
+          "end": 189
         },
         "kind": "semantic",
         "text": "書曰九功惟叙九叙惟歌注云六府三事之功有次序皆可歌樂乃徳政之致六府謂水火金木土榖三事謂正徳利用厚生正徳以率下利用以阜財厚生以養民也",
@@ -848,8 +847,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 2,
-          "start": 329,
-          "end": 340
+          "start": 318,
+          "end": 329
         },
         "kind": "semantic",
         "text": "如放肆情欲以嗜邪滛必是基業傾危身位䘮敗",
@@ -875,7 +874,7 @@
       "id": "default",
       "label": "原文",
       "shortLabel": "文",
-      "contributor": "唐太宗",
+      "contributor": "",
       "role": "author",
       "nature": "annotation",
       "displayOrder": 0,

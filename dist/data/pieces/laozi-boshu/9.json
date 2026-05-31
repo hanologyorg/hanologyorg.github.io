@@ -9,19 +9,19 @@
   "genre": "prose",
   "verses": [
     {
-      "text": "持而盈之 不若亓已"
+      "text": "持而盈之，不若亓已。"
     },
     {
-      "text": "揣而銳之 不可常葆之"
+      "text": "揣而銳之，不可常葆之。"
     },
     {
-      "text": "金玉盈室 莫之守也"
+      "text": "金玉盈室，莫之守也。"
     },
     {
-      "text": "貴富而驕 自遺咎也"
+      "text": "貴富而驕，自遺咎也。"
     },
     {
-      "text": "功述身芮 天之道也"
+      "text": "功述身芮，天之道也。"
     }
   ],
   "sections": {},
@@ -35,7 +35,7 @@
           "scope": "verse",
           "verseIndex": 0,
           "start": 0,
-          "end": 9
+          "end": 10
         },
         "kind": "commentary",
         "text": "盈，滿也。已，止也。持滿必傾，不如止也。",
@@ -46,9 +46,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
+          "verseIndex": 1,
           "start": 0,
-          "end": 9
+          "end": 11
         },
         "kind": "commentary",
         "text": "揣，治也。先揣之，後必棄捐。",
@@ -59,9 +59,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
+          "verseIndex": 2,
           "start": 0,
-          "end": 9
+          "end": 10
         },
         "kind": "commentary",
         "text": "嗜慾傷神，財多累身。",
@@ -72,9 +72,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
+          "verseIndex": 3,
           "start": 0,
-          "end": 9
+          "end": 10
         },
         "kind": "commentary",
         "text": "夫富當賑貧，貴當憐賤，而反驕恣，必被禍患也。",
@@ -85,9 +85,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
+          "verseIndex": 4,
           "start": 0,
-          "end": 9
+          "end": 10
         },
         "kind": "commentary",
         "text": "言人所為，功成事立，名蹟稱遂，不退身避位，則遇於害，此乃天之常道也。譬如日中則移，月滿則虧，物盛則衰，樂極則哀。",
@@ -102,7 +102,7 @@
           "scope": "verse",
           "verseIndex": 0,
           "start": 0,
-          "end": 9
+          "end": 10
         },
         "kind": "commentary",
         "text": "持，謂不失德也。既不失其德又盈之，勢必傾危。故不如其已者，謂乃更不如無德無功者也。",
@@ -113,9 +113,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
+          "verseIndex": 1,
           "start": 0,
-          "end": 9
+          "end": 11
         },
         "kind": "commentary",
         "text": "既揣末令尖，又銳之令利，勢必摧衂，故不可長保也。",
@@ -128,7 +128,7 @@
           "scope": "verse",
           "verseIndex": 0,
           "start": 0,
-          "end": 9
+          "end": 10
         },
         "kind": "commentary",
         "text": "不若其已。",
@@ -141,7 +141,7 @@
           "scope": "verse",
           "verseIndex": 0,
           "start": 0,
-          "end": 9
+          "end": 10
         },
         "kind": "commentary",
         "text": "不可長保也。",
@@ -152,9 +152,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
+          "verseIndex": 4,
           "start": 0,
-          "end": 9
+          "end": 10
         },
         "kind": "commentary",
         "text": "四時更運，功成則移。",
@@ -191,7 +191,7 @@
             "scope": "verse",
             "verseIndex": 0,
             "start": 0,
-            "end": 9
+            "end": 10
           },
           "kind": "commentary",
           "text": "盈，滿也。已，止也。持滿必傾，不如止也。",
@@ -202,9 +202,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
+            "verseIndex": 1,
             "start": 0,
-            "end": 9
+            "end": 11
           },
           "kind": "commentary",
           "text": "揣，治也。先揣之，後必棄捐。",
@@ -215,9 +215,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
+            "verseIndex": 2,
             "start": 0,
-            "end": 9
+            "end": 10
           },
           "kind": "commentary",
           "text": "嗜慾傷神，財多累身。",
@@ -228,9 +228,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
+            "verseIndex": 3,
             "start": 0,
-            "end": 9
+            "end": 10
           },
           "kind": "commentary",
           "text": "夫富當賑貧，貴當憐賤，而反驕恣，必被禍患也。",
@@ -241,9 +241,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
+            "verseIndex": 4,
             "start": 0,
-            "end": 9
+            "end": 10
           },
           "kind": "commentary",
           "text": "言人所為，功成事立，名蹟稱遂，不退身避位，則遇於害，此乃天之常道也。譬如日中則移，月滿則虧，物盛則衰，樂極則哀。",
@@ -268,7 +268,7 @@
             "scope": "verse",
             "verseIndex": 0,
             "start": 0,
-            "end": 9
+            "end": 10
           },
           "kind": "commentary",
           "text": "持，謂不失德也。既不失其德又盈之，勢必傾危。故不如其已者，謂乃更不如無德無功者也。",
@@ -279,9 +279,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
+            "verseIndex": 1,
             "start": 0,
-            "end": 9
+            "end": 11
           },
           "kind": "commentary",
           "text": "既揣末令尖，又銳之令利，勢必摧衂，故不可長保也。",
@@ -294,7 +294,7 @@
             "scope": "verse",
             "verseIndex": 0,
             "start": 0,
-            "end": 9
+            "end": 10
           },
           "kind": "commentary",
           "text": "不若其已。",
@@ -307,7 +307,7 @@
             "scope": "verse",
             "verseIndex": 0,
             "start": 0,
-            "end": 9
+            "end": 10
           },
           "kind": "commentary",
           "text": "不可長保也。",
@@ -318,9 +318,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
+            "verseIndex": 4,
             "start": 0,
-            "end": 9
+            "end": 10
           },
           "kind": "commentary",
           "text": "四時更運，功成則移。",

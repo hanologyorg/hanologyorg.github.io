@@ -9,10 +9,16 @@
   "genre": "prose",
   "verses": [
     {
-      "text": "反也者 道之動也 弱也者 道之用也"
+      "text": "反也者，道之動也。"
     },
     {
-      "text": "天下之物生於有 有生於无"
+      "text": "弱也者，道之用也。"
+    },
+    {
+      "text": "天下之物生於有。"
+    },
+    {
+      "text": "有，生於无。"
     }
   ],
   "sections": {},
@@ -25,8 +31,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 0,
-          "start": 9,
-          "end": 10
+          "start": 10,
+          "end": 11
         },
         "kind": "commentary",
         "text": "柔弱者，道之所常用，故能常久。",
@@ -37,9 +43,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 17
+          "verseIndex": 3,
+          "start": 6,
+          "end": 6
         },
         "kind": "commentary",
         "text": "天下萬物皆從天地生，天地有形位，故言生於有也。",
@@ -51,8 +57,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 1,
-          "start": 8,
-          "end": 9
+          "start": 9,
+          "end": 10
         },
         "kind": "commentary",
         "text": "天地神明，蜎飛蠕動，皆從道生。道無形，故言生於無也。此言本勝於華，弱勝於強，謙虛勝盈滿也。",
@@ -66,8 +72,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 0,
-          "start": 9,
-          "end": 10
+          "start": 10,
+          "end": 11
         },
         "kind": "commentary",
         "text": "柔弱同通，不可窮極。",
@@ -78,9 +84,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 17
+          "verseIndex": 3,
+          "start": 6,
+          "end": 6
         },
         "kind": "commentary",
         "text": "天下之物皆以有為生，有之所始，以無為本，將欲全有，必反於無也。",
@@ -116,8 +122,8 @@
             "type": "range",
             "scope": "verse",
             "verseIndex": 0,
-            "start": 9,
-            "end": 10
+            "start": 10,
+            "end": 11
           },
           "kind": "commentary",
           "text": "柔弱者，道之所常用，故能常久。",
@@ -128,9 +134,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 17
+            "verseIndex": 3,
+            "start": 6,
+            "end": 6
           },
           "kind": "commentary",
           "text": "天下萬物皆從天地生，天地有形位，故言生於有也。",
@@ -142,8 +148,8 @@
             "type": "range",
             "scope": "verse",
             "verseIndex": 1,
-            "start": 8,
-            "end": 9
+            "start": 9,
+            "end": 10
           },
           "kind": "commentary",
           "text": "天地神明，蜎飛蠕動，皆從道生。道無形，故言生於無也。此言本勝於華，弱勝於強，謙虛勝盈滿也。",
@@ -167,8 +173,8 @@
             "type": "range",
             "scope": "verse",
             "verseIndex": 0,
-            "start": 9,
-            "end": 10
+            "start": 10,
+            "end": 11
           },
           "kind": "commentary",
           "text": "柔弱同通，不可窮極。",
@@ -179,9 +185,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 17
+            "verseIndex": 3,
+            "start": 6,
+            "end": 6
           },
           "kind": "commentary",
           "text": "天下之物皆以有為生，有之所始，以無為本，將欲全有，必反於無也。",

@@ -9,10 +9,28 @@
   "genre": "prose",
   "verses": [
     {
-      "text": "炊者不立 自視者不彰 自見者不明 自伐者无功 自矜者不長"
+      "text": "炊者不立。"
     },
     {
-      "text": "亓在道也 曰餘食贅行 物或惡之 故有欲者弗居"
+      "text": "自視者不彰。"
+    },
+    {
+      "text": "自見者不明。"
+    },
+    {
+      "text": "自伐者无功。"
+    },
+    {
+      "text": "自矜者不長。"
+    },
+    {
+      "text": "亓在道也。"
+    },
+    {
+      "text": "曰：餘食贅行，物或惡之。"
+    },
+    {
+      "text": "故有欲者，弗居。"
     }
   ],
   "sections": {},
@@ -24,9 +42,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 28
+          "verseIndex": 4,
+          "start": 6,
+          "end": 6
         },
         "kind": "commentary",
         "text": "跂，進也。謂貪權慕名，進取功榮，則不可久立身行道也。",
@@ -37,9 +55,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 28
+          "verseIndex": 4,
+          "start": 6,
+          "end": 6
         },
         "kind": "commentary",
         "text": "自以為貴而跨於人，眾共蔽之，使不得行。",
@@ -51,8 +69,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 0,
-          "start": 11,
-          "end": 12
+          "start": 13,
+          "end": 14
         },
         "kind": "commentary",
         "text": "人自見其形容以為好，自見其所行以為應道，殊不知其形醜，操行之鄙。",
@@ -63,9 +81,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 28
+          "verseIndex": 4,
+          "start": 6,
+          "end": 6
         },
         "kind": "commentary",
         "text": "自以為是而非人，眾共蔽之，使不得彰明。",
@@ -77,8 +95,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 0,
-          "start": 17,
-          "end": 18
+          "start": 20,
+          "end": 21
         },
         "kind": "commentary",
         "text": "所謂輒自伐取其功美，即失有功於人也。",
@@ -90,8 +108,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 0,
-          "start": 23,
-          "end": 24
+          "start": 27,
+          "end": 28
         },
         "kind": "commentary",
         "text": "好自矜大者，不可以長久。",
@@ -116,8 +134,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 1,
-          "start": 11,
-          "end": 12
+          "start": 13,
+          "end": 14
         },
         "kind": "commentary",
         "text": "此人在位，動欲傷害，故物無有不畏惡之者。",
@@ -128,9 +146,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 1,
-          "start": 0,
-          "end": 22
+          "verseIndex": 7,
+          "start": 8,
+          "end": 8
         },
         "kind": "commentary",
         "text": "言有道之人不居其國也。",
@@ -143,9 +161,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 28
+          "verseIndex": 4,
+          "start": 6,
+          "end": 6
         },
         "kind": "commentary",
         "text": "物尚進則失安，故曰，企者不立。",
@@ -156,9 +174,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 28
+          "verseIndex": 7,
+          "start": 8,
+          "end": 8
         },
         "kind": "commentary",
         "text": "其唯於道而論之，若郤至之行，盛饌之餘也。本雖美，更可薉也。本雖有功而自伐之，故更為肬贅者也。",
@@ -169,9 +187,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 28
+          "verseIndex": 4,
+          "start": 6,
+          "end": 6
         },
         "kind": "commentary",
         "text": "",
@@ -206,9 +224,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 28
+            "verseIndex": 4,
+            "start": 6,
+            "end": 6
           },
           "kind": "commentary",
           "text": "跂，進也。謂貪權慕名，進取功榮，則不可久立身行道也。",
@@ -219,9 +237,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 28
+            "verseIndex": 4,
+            "start": 6,
+            "end": 6
           },
           "kind": "commentary",
           "text": "自以為貴而跨於人，眾共蔽之，使不得行。",
@@ -233,8 +251,8 @@
             "type": "range",
             "scope": "verse",
             "verseIndex": 0,
-            "start": 11,
-            "end": 12
+            "start": 13,
+            "end": 14
           },
           "kind": "commentary",
           "text": "人自見其形容以為好，自見其所行以為應道，殊不知其形醜，操行之鄙。",
@@ -245,9 +263,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 28
+            "verseIndex": 4,
+            "start": 6,
+            "end": 6
           },
           "kind": "commentary",
           "text": "自以為是而非人，眾共蔽之，使不得彰明。",
@@ -259,8 +277,8 @@
             "type": "range",
             "scope": "verse",
             "verseIndex": 0,
-            "start": 17,
-            "end": 18
+            "start": 20,
+            "end": 21
           },
           "kind": "commentary",
           "text": "所謂輒自伐取其功美，即失有功於人也。",
@@ -272,8 +290,8 @@
             "type": "range",
             "scope": "verse",
             "verseIndex": 0,
-            "start": 23,
-            "end": 24
+            "start": 27,
+            "end": 28
           },
           "kind": "commentary",
           "text": "好自矜大者，不可以長久。",
@@ -298,8 +316,8 @@
             "type": "range",
             "scope": "verse",
             "verseIndex": 1,
-            "start": 11,
-            "end": 12
+            "start": 13,
+            "end": 14
           },
           "kind": "commentary",
           "text": "此人在位，動欲傷害，故物無有不畏惡之者。",
@@ -310,9 +328,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 1,
-            "start": 0,
-            "end": 22
+            "verseIndex": 7,
+            "start": 8,
+            "end": 8
           },
           "kind": "commentary",
           "text": "言有道之人不居其國也。",
@@ -335,9 +353,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 28
+            "verseIndex": 4,
+            "start": 6,
+            "end": 6
           },
           "kind": "commentary",
           "text": "物尚進則失安，故曰，企者不立。",
@@ -348,9 +366,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 28
+            "verseIndex": 7,
+            "start": 8,
+            "end": 8
           },
           "kind": "commentary",
           "text": "其唯於道而論之，若郤至之行，盛饌之餘也。本雖美，更可薉也。本雖有功而自伐之，故更為肬贅者也。",
@@ -361,9 +379,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 28
+            "verseIndex": 4,
+            "start": 6,
+            "end": 6
           },
           "kind": "commentary",
           "text": "",

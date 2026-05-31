@@ -1,25 +1,30 @@
 {
   "bookId": "skqs-yantielun",
   "num": 46,
-  "title": "救匱第三十",
-  "author": "桓寬",
-  "authorId": "桓寬",
+  "title": "授時第三十五",
+  "author": "",
+  "authorId": "",
   "dynasty": "漢",
   "era": "漢",
-  "eraCode": "07",
   "genre": "prose",
   "verses": [
     {
-      "text": "丞相史曰治聚不足奈何"
+      "text": "大夫曰共其地居是世也非有災害疾疫獨以貧窮非惰則奢也無竒業旁入而猶以富給非儉則力也今曰施惠説爾行刑不樂則是閔無行之人而養惰奢之民也故妄予不為惠惠惡者不為仁"
     },
     {
-      "text": "賢良曰蓋橈枉者過直救文者以質昔者晏子相齊一狐裘三十載故民奢示之以儉民儉示之以禮方今公卿大夫子孫誠能節車輿適衣服躬親節儉率以敦朴罷園池損田宅内無事乎市列外無事乎山澤農夫有所施其功女紅有所粥其業如是則氣脉和平無聚不足之病矣"
+      "text": "賢良曰三代之盛無亂萌教也夏商之季世無順民俗也是以王者設庠序明教化以坊道其民及政教之洽性仁而喻善故禮義立則耕者讓於野禮義壊則君子争於朝人争則亂亂則天下不均故或貧或富富則仁生澹則民爭止昏暮叩人門户求水火貪夫不恡何則所饒也夫為政而使菽粟如水火民安有不仁者乎"
     },
     {
-      "text": "大夫曰孤子語孝躄者語杖貧者語仁賤者語治議不在巳者易稱從旁議者易是其當局則亂故公孫𢎞布被倪寛練袍衣若僕妾食若庸夫淮南逆於内蠻夷暴於外盗賊不為禁奢侈不為節若疫嵗之巫徒能鼓口耳何㪚不足之能治乎"
+      "text": "大夫曰博戯馳逐之徒皆富人子弟非不足者也故民饒則僭侈富則驕奢坐而委蛇起而為非未見其仁也夫居事不力用財不節雖有財如水火窮乏可立而待也有民不畜有司雖助之耕織其能足之乎"
     },
     {
-      "text": "賢良曰高皇帝之時蕭曹為公滕灌之屬為卿濟濟然斯則賢矣文景之際建元之始大臣尚有爭引守正之義自此之後多承意從欲少敢直言面議而正刺因公而狥私故武安丞相訟園田爭曲直人主之前夫九層之臺一傾公輸子不能正夲朝一邪伊望不能復故公孫丞相倪大夫側身行道分禄以養賢卑已以下士功業顯立日力不足無行人子産之繼而葛繹澎侯之等隳壊其緒紕亂其紀毁其客館議堂以為馬廐婦舍無養士之禮而尚驕矜之色亷耻陵遲而爭於利矣故良田廣宅民無所之不耻為利者滿朝市列田畜者彌郡國横暴掣頓大第巨舍之旁道路且不通此固難醫而不可為工大夫勃然作色黙而不應"
+      "text": "賢良曰周公之相成王也百姓饒樂國無乏人非代之耕織也易其田疇薄其税斂則民富矣上以奉君親下無饑寒之憂則教可成也語曰既富矣又何加焉曰教之以徳齊之以禮則民從義而從善莫不入孝出悌夫何奢侈暴慢之有管子曰倉廪實而知禮節百姓足而知榮辱故民易與適禮難與適道"
+    },
+    {
+      "text": "大夫曰縣官之於百姓若慈父之於子也忠焉能勿誨乎愛之能勿勞乎故春親耕以勸農賑貸以澹不足通滀水出輕繫使民務時也䝉恩被澤而至今猶以貧困其難與適道若是夫"
+    },
+    {
+      "text": "賢良曰古者春省耕以補不足秋省歛以助不給民勤於財則貢賦省民勤於力則功業牢為民愛力不奪須臾故召伯聼斷於甘棠之下為妨農業之務也今時雨澍澤種懸而不得播秋稼零落乎野而不得收田疇赤地而停落成市發春而後懸青幡而䇿土牛殆非明主勸耕稼之意而春令之所謂也"
     }
   ],
   "sections": {},
@@ -33,10 +38,10 @@
           "scope": "verse",
           "verseIndex": 0,
           "start": 0,
-          "end": 5
+          "end": 48
         },
         "kind": "semantic",
-        "text": "去聲",
+        "text": "音悦",
         "source": "cham"
       },
       {
@@ -44,12 +49,12 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 1,
-          "start": 0,
-          "end": 8
+          "verseIndex": 0,
+          "start": 48,
+          "end": 53
         },
         "kind": "semantic",
-        "text": "音閙",
+        "text": "音洛",
         "source": "cham"
       },
       {
@@ -57,12 +62,12 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 1,
-          "start": 8,
-          "end": 12
+          "verseIndex": 0,
+          "start": 53,
+          "end": 58
         },
         "kind": "semantic",
-        "text": "橈通作撓屈也",
+        "text": "去聲",
         "source": "cham"
       },
       {
@@ -70,12 +75,12 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 1,
-          "start": 12,
-          "end": 22
+          "verseIndex": 0,
+          "start": 58,
+          "end": 76
         },
         "kind": "semantic",
-        "text": "去聲",
+        "text": "韓非子曰無豐年旁入之利而獨以完給者非力則儉也無饑饉疾疚禍罪之殃獨以貧窮者非侈則惰也侈而惰者貧而力而儉者富今徴斂于富人以布施於貧家是奪力儉而與侈惰也而欲民之力作而節用不可得也",
         "source": "cham"
       },
       {
@@ -84,11 +89,11 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 1,
-          "start": 22,
-          "end": 42
+          "start": 0,
+          "end": 25
         },
-        "kind": "fanqie",
-        "text": "曽子曰晏子可謂知禮也已恭敬之有焉有若曰晏子一狐裘三十年遣車一乗及墓而反國君七个遣車七乘大夫五个遣車五乗晏子焉知禮曾子曰國無道君子耻盈禮焉國奢則示之以儉國儉則示之以禮",
+        "kind": "semantic",
+        "text": "韓非子曰夫堯生在上位雖十桀紂不能亂者勢治也桀紂亦生在上雖有十堯舜而不能治者勢亂也朱穆曰時敦俗美則小人守正利不可誘也時否俗薄雖君子為邪義不能止也楊恪曰堯舜之民可比屋而封桀紂之民可比屋而誅",
         "source": "cham"
       },
       {
@@ -97,11 +102,11 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 1,
-          "start": 42,
-          "end": 93
+          "start": 25,
+          "end": 37
         },
         "kind": "semantic",
-        "text": "音工",
+        "text": "古防字",
         "source": "cham"
       },
       {
@@ -110,11 +115,11 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 1,
-          "start": 93,
-          "end": 109
+          "start": 37,
+          "end": 50
         },
         "kind": "semantic",
-        "text": "反質篇曰齊桓公謂管仲曰吾國甚小而財用甚少而羣臣衣服輿馬甚汰吾欲禁之可乎管仲曰臣聞之君嘗之臣食之君好之臣服之今君之食也必桂之漿衣練紫之衣狐白之裘此羣臣之所奢大也詩云不躬不親庻民不信君欲禁之胡不自親乎桓公曰善於是更制練帛之衣大帛之冠朝一年而齊國儉也",
+        "text": "詩曰皎皎練絲在所染之上智下愚謂之不移中庸之流要在教化儒林傳曰三代之道鄉里有教夏曰校殷曰庠周曰序勸學行禮崇化厲賢以風四方太平之原也",
         "source": "cham"
       },
       {
@@ -122,12 +127,12 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
-          "start": 0,
-          "end": 11
+          "verseIndex": 1,
+          "start": 50,
+          "end": 69
         },
         "kind": "semantic",
-        "text": "音璧",
+        "text": "音潮",
         "source": "cham"
       },
       {
@@ -135,12 +140,12 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
-          "start": 11,
-          "end": 29
+          "verseIndex": 1,
+          "start": 69,
+          "end": 89
         },
         "kind": "semantic",
-        "text": "去聲",
+        "text": "古贍字",
         "source": "cham"
       },
       {
@@ -148,12 +153,12 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 3,
-          "start": 0,
-          "end": 41
+          "verseIndex": 1,
+          "start": 89,
+          "end": 106
         },
         "kind": "semantic",
-        "text": "去聲",
+        "text": "音吝",
         "source": "cham"
       },
       {
@@ -161,12 +166,12 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 3,
-          "start": 41,
-          "end": 74
+          "verseIndex": 1,
+          "start": 106,
+          "end": 112
         },
         "kind": "semantic",
-        "text": "田蚡也",
+        "text": "音扶",
         "source": "cham"
       },
       {
@@ -174,12 +179,12 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 3,
-          "start": 74,
-          "end": 85
+          "verseIndex": 1,
+          "start": 112,
+          "end": 125
         },
         "kind": "semantic",
-        "text": "音扶",
+        "text": "韓非子曰夫山居而谷汲者膢臘而相遺以水澤居苦水者買庸而決竇故饑嵗之春幼弟不饟穰嵗之秋疏客必食非疏骨肉愛過客也多少之實異也是以古人易財也非仁也財多也今之争奪非鄙也財寡也齊俗訓曰夫民有餘即讓不足則争讓則禮義生争則𭧂亂起扣門求水火莫弗與者所饒足也林中不賣薪湖上不鬻魚所有餘也故物豐則欲省求贍則争止秦王之時或人葅子利不足也劉氏持政獨夫收孤財有餘也故世治則小人守政而利不能誘也世亂則君子為姦而法弗能禁也",
         "source": "cham"
       },
       {
@@ -187,12 +192,12 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 3,
-          "start": 85,
-          "end": 99
+          "verseIndex": 2,
+          "start": 0,
+          "end": 35
         },
         "kind": "semantic",
-        "text": "音潮",
+        "text": "音逶",
         "source": "cham"
       },
       {
@@ -200,12 +205,12 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 3,
-          "start": 99,
-          "end": 147
+          "verseIndex": 2,
+          "start": 35,
+          "end": 36
         },
         "kind": "semantic",
-        "text": "音彭",
+        "text": "音迤",
         "source": "cham"
       },
       {
@@ -213,12 +218,12 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 3,
-          "start": 147,
-          "end": 150
+          "verseIndex": 2,
+          "start": 36,
+          "end": 46
         },
         "kind": "semantic",
-        "text": "傳曰公孫賀為丞相封葛繹侯劉屈𣯛為左丞相封澎侯",
+        "text": "音扶",
         "source": "cham"
       },
       {
@@ -227,11 +232,11 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 3,
-          "start": 150,
-          "end": 155
+          "start": 0,
+          "end": 10
         },
         "kind": "semantic",
-        "text": "音避",
+        "text": "去聲",
         "source": "cham"
       },
       {
@@ -240,11 +245,11 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 3,
-          "start": 155,
-          "end": 190
+          "start": 10,
+          "end": 17
         },
         "kind": "semantic",
-        "text": "西京雜記曰平津侯自布衣為宰相乃開東閣營客館以招天下之士其一曰欽賢館以待大賢次曰翹材館以待大材次曰接士館以待國士其有徳任毗賛佐理隂陽者處欽賢之館其有才堪九列將軍二千石者居翹材之館其有一介之善一方之藝居接士之館而躬自菲薄所得俸禄以奉待之公孫𢎞傳曰時上方興功業屢舉賢良𢎞自見為舉首起徒步數年至宰相封侯於是起客館開東閣以延賢人與參謀議𢎞身食一肉脱粟飯故人賔客仰衣食奉禄皆以給之家無所餘凡為丞相御史六嵗年八十終丞相位其後李蔡嚴青瞿趙石慶公孫賀劉屈𣯛繼踵為丞相自蔡至慶丞相館舍丘虚而已至賀屈𣯛時壊以為馬廐車庫奴婢室矣",
+        "text": "音洛",
         "source": "cham"
       },
       {
@@ -253,11 +258,11 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 3,
-          "start": 190,
-          "end": 206
+          "start": 17,
+          "end": 55
         },
         "kind": "semantic",
-        "text": "音潮",
+        "text": "傳曰夫百姓内不乏食外不患寒則可教御以禮義矣",
         "source": "cham"
       },
       {
@@ -266,11 +271,128 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 3,
-          "start": 206,
-          "end": 217
+          "start": 55,
+          "end": 87
         },
         "kind": "semantic",
-        "text": "音徹",
+        "text": "音扶",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-20",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 3,
+          "start": 55,
+          "end": 87
+        },
+        "kind": "semantic",
+        "text": "孔子曰夫民教之以徳齊之以禮則民有格心教之以政齊之以刑則民有遯心故君民者子以愛之則民親之信以結之則民不倍㳟以涖之則民有孫心甫刑曰苖民匪用命制以刑惟作五虐之刑曰法是以民有惡徳而遂絶其世也",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-21",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 4,
+          "start": 0,
+          "end": 42
+        },
+        "kind": "semantic",
+        "text": "古贍字",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-22",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 4,
+          "start": 42,
+          "end": 46
+        },
+        "kind": "semantic",
+        "text": "音畜",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-23",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 4,
+          "start": 46,
+          "end": 71
+        },
+        "kind": "semantic",
+        "text": "音扶",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-24",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 5,
+          "start": 0,
+          "end": 39
+        },
+        "kind": "semantic",
+        "text": "去聲",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-25",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 5,
+          "start": 39,
+          "end": 63
+        },
+        "kind": "semantic",
+        "text": "傳曰昔者周道之盛召伯在朝有司請營邵以居召伯曰嗟以吾一身而勞百姓此非吾先君文王之志也於是出而就蒸庻於阡陌隴畆之間而聼斷焉召伯暴處逺野廬於樹下百姓大悦耕桑者倍力以勸於是嵗大稔民給家足其後在位者驕奢不恤元元税賦繁數百姓困乏耕桑失時於是詩人見召伯之所休息樹下美而歌之詩曰蔽茀甘棠勿剪勿伐召伯所苃此之謂也貴徳篇曰聖人之於天下百姓也其猶赤子乎飢者則食之寒者則衣之將之養之育之長之唯恐其不至於大也詩曰蔽芾甘棠勿剪勿伐召伯所苃傳曰自陜以東者周公主之自陜以西者召公主之召公述職當桑蠶之時不欲變民事故不入邑中舍於甘棠之下而聼斷焉陕間之人皆得其所是故後世思而歌詠之善之故言之言之不足故嗟嘆之嗟嘆之不足故歌詠之夫詩思然後積積然後滿滿然後發發由其道而致其位焉百姓嘆其美而致其敬甘棠之不伐也政教惡乎不行孔子曰吾於甘棠見宗廟之敬也甚尊其人必敬其位順安萬物古聖之道幾哉仁人之徳教也誠惻隐於中悃愊於内不能已於其心故其治天下也如救溺人",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-26",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 5,
+          "start": 63,
+          "end": 67
+        },
+        "kind": "semantic",
+        "text": "音樹",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-27",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 5,
+          "start": 39,
+          "end": 63
+        },
+        "kind": "semantic",
+        "text": "澍時雨生萬物也",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-28",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 5,
+          "start": 68,
+          "end": 100
+        },
+        "kind": "semantic",
+        "text": "音番",
         "source": "cham"
       }
     ]
@@ -280,7 +402,7 @@
       "id": "default",
       "label": "原文",
       "shortLabel": "文",
-      "contributor": "桓寬",
+      "contributor": "",
       "role": "author",
       "nature": "annotation",
       "displayOrder": 0,

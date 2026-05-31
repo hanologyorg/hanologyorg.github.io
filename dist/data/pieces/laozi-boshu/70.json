@@ -9,13 +9,34 @@
   "genre": "prose",
   "verses": [
     {
-      "text": "吾言甚易知也 甚易行也 而人莫之能知也 而莫之能行也"
+      "text": "吾言甚易知也。"
     },
     {
-      "text": "言有君 事有宗 夫唯无知也 是以不我知"
+      "text": "甚易行也。"
     },
     {
-      "text": "知我者希 則我貴矣 是以聖人被褐而懷玉"
+      "text": "而人莫之能知也。"
+    },
+    {
+      "text": "而莫之能行也。"
+    },
+    {
+      "text": "言有君。"
+    },
+    {
+      "text": "事有宗。"
+    },
+    {
+      "text": "夫唯无知也，"
+    },
+    {
+      "text": "是以不我知。"
+    },
+    {
+      "text": "知我者希，則我貴矣。"
+    },
+    {
+      "text": "是以聖人被褐而懷玉。"
     }
   ],
   "sections": {},
@@ -27,9 +48,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 26
+          "verseIndex": 3,
+          "start": 7,
+          "end": 7
         },
         "kind": "commentary",
         "text": "人惡柔弱，好剛強也。",
@@ -40,9 +61,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 26
+          "verseIndex": 7,
+          "start": 6,
+          "end": 6
         },
         "kind": "commentary",
         "text": "我所言有宗祖根本，事有君臣上下，世人不知者，非我之無德，不與我反也。",
@@ -54,8 +75,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 1,
-          "start": 8,
-          "end": 9
+          "start": 10,
+          "end": 11
         },
         "kind": "commentary",
         "text": "夫惟聖人也，是我德之暗，不見於外，窮極微妙，故無知也。",
@@ -66,9 +87,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 1,
-          "start": 0,
-          "end": 19
+          "verseIndex": 9,
+          "start": 10,
+          "end": 10
         },
         "kind": "commentary",
         "text": "希，少也。唯達道者乃能知我，故為貴也。",
@@ -79,9 +100,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
-          "start": 0,
-          "end": 19
+          "verseIndex": 9,
+          "start": 10,
+          "end": 10
         },
         "kind": "commentary",
         "text": "被褐者薄外，懷玉者厚內，匿寶藏德，不以示人也。",
@@ -94,9 +115,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 26
+          "verseIndex": 3,
+          "start": 7,
+          "end": 7
         },
         "kind": "commentary",
         "text": "可不出戶窺牖而知，故曰甚易知也。無為而成，故曰甚易行也。惑於躁欲，故曰，莫之能知也。迷於榮利，故曰，莫之能行也。",
@@ -107,9 +128,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 26
+          "verseIndex": 7,
+          "start": 6,
+          "end": 6
         },
         "kind": "commentary",
         "text": "宗，萬物之宗也。君，萬物之主也。",
@@ -121,8 +142,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 1,
-          "start": 8,
-          "end": 9
+          "start": 10,
+          "end": 11
         },
         "kind": "commentary",
         "text": "以其言有宗、事有君之故，故有知之人不得不知之也。",
@@ -133,9 +154,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 1,
-          "start": 0,
-          "end": 19
+          "verseIndex": 9,
+          "start": 10,
+          "end": 10
         },
         "kind": "commentary",
         "text": "唯深，故知者希也；知我益希，我亦無匹。故曰，知我者希則我者貴也。",
@@ -146,9 +167,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
-          "start": 0,
-          "end": 19
+          "verseIndex": 9,
+          "start": 10,
+          "end": 10
         },
         "kind": "commentary",
         "text": "被褐者，同其塵，懷玉者，寶其真也。聖人之所以難知，以其同塵而不殊，懷玉而不渝，故難知而為貴也。",
@@ -183,9 +204,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 26
+            "verseIndex": 3,
+            "start": 7,
+            "end": 7
           },
           "kind": "commentary",
           "text": "人惡柔弱，好剛強也。",
@@ -196,9 +217,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 26
+            "verseIndex": 7,
+            "start": 6,
+            "end": 6
           },
           "kind": "commentary",
           "text": "我所言有宗祖根本，事有君臣上下，世人不知者，非我之無德，不與我反也。",
@@ -210,8 +231,8 @@
             "type": "range",
             "scope": "verse",
             "verseIndex": 1,
-            "start": 8,
-            "end": 9
+            "start": 10,
+            "end": 11
           },
           "kind": "commentary",
           "text": "夫惟聖人也，是我德之暗，不見於外，窮極微妙，故無知也。",
@@ -222,9 +243,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 1,
-            "start": 0,
-            "end": 19
+            "verseIndex": 9,
+            "start": 10,
+            "end": 10
           },
           "kind": "commentary",
           "text": "希，少也。唯達道者乃能知我，故為貴也。",
@@ -235,9 +256,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 2,
-            "start": 0,
-            "end": 19
+            "verseIndex": 9,
+            "start": 10,
+            "end": 10
           },
           "kind": "commentary",
           "text": "被褐者薄外，懷玉者厚內，匿寶藏德，不以示人也。",
@@ -260,9 +281,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 26
+            "verseIndex": 3,
+            "start": 7,
+            "end": 7
           },
           "kind": "commentary",
           "text": "可不出戶窺牖而知，故曰甚易知也。無為而成，故曰甚易行也。惑於躁欲，故曰，莫之能知也。迷於榮利，故曰，莫之能行也。",
@@ -273,9 +294,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 26
+            "verseIndex": 7,
+            "start": 6,
+            "end": 6
           },
           "kind": "commentary",
           "text": "宗，萬物之宗也。君，萬物之主也。",
@@ -287,8 +308,8 @@
             "type": "range",
             "scope": "verse",
             "verseIndex": 1,
-            "start": 8,
-            "end": 9
+            "start": 10,
+            "end": 11
           },
           "kind": "commentary",
           "text": "以其言有宗、事有君之故，故有知之人不得不知之也。",
@@ -299,9 +320,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 1,
-            "start": 0,
-            "end": 19
+            "verseIndex": 9,
+            "start": 10,
+            "end": 10
           },
           "kind": "commentary",
           "text": "唯深，故知者希也；知我益希，我亦無匹。故曰，知我者希則我者貴也。",
@@ -312,9 +333,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 2,
-            "start": 0,
-            "end": 19
+            "verseIndex": 9,
+            "start": 10,
+            "end": 10
           },
           "kind": "commentary",
           "text": "被褐者，同其塵，懷玉者，寶其真也。聖人之所以難知，以其同塵而不殊，懷玉而不渝，故難知而為貴也。",

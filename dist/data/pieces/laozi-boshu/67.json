@@ -9,19 +9,55 @@
   "genre": "prose",
   "verses": [
     {
-      "text": "天下皆謂我大 不宵 夫唯大 故不宵 若宵 細久矣"
+      "text": "天下皆謂我大不宵。"
     },
     {
-      "text": "我恆有三寶之 一曰茲 二曰檢 三曰不敢為天下先"
+      "text": "夫唯大，故不宵。"
     },
     {
-      "text": "夫茲 故能勇 檢 故能廣 不敢為天下先 故能為成事長"
+      "text": "若宵，細久矣。"
     },
     {
-      "text": "今捨亓茲且勇 捨亓檢且廣 捨亓後且先 則必死矣"
+      "text": "我恆有三寶之："
     },
     {
-      "text": "夫茲 以戰則勝 以守則固 天將建之 如以茲垣之"
+      "text": "一曰：茲。"
+    },
+    {
+      "text": "二曰：檢。"
+    },
+    {
+      "text": "三曰：不敢為天下先。"
+    },
+    {
+      "text": "夫："
+    },
+    {
+      "text": "茲，故能勇。"
+    },
+    {
+      "text": "檢，故能廣。"
+    },
+    {
+      "text": "不敢為天下先，故能為成事長。"
+    },
+    {
+      "text": "今捨亓茲且勇，"
+    },
+    {
+      "text": "捨亓檢且廣，"
+    },
+    {
+      "text": "捨亓後且先。"
+    },
+    {
+      "text": "則必死矣。"
+    },
+    {
+      "text": "夫茲，以戰則勝，以守則固。"
+    },
+    {
+      "text": "天將建之，如以茲垣之。"
     }
   ],
   "sections": {},
@@ -33,9 +69,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 24
+          "verseIndex": 2,
+          "start": 7,
+          "end": 7
         },
         "kind": "commentary",
         "text": "老子言：天下謂我德大，我則佯愚似不肖。",
@@ -46,9 +82,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 24
+          "verseIndex": 2,
+          "start": 7,
+          "end": 7
         },
         "kind": "commentary",
         "text": "唯獨名德大者為身害，故佯愚似若不肖。無所分別，無所割截，不賤人而自貴。",
@@ -59,9 +95,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 24
+          "verseIndex": 2,
+          "start": 7,
+          "end": 7
         },
         "kind": "commentary",
         "text": "肖，善也。謂辨惠也。若大辨惠之人，身高自貴行察察之政所從來久矣。",
@@ -72,9 +108,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 24
+          "verseIndex": 2,
+          "start": 7,
+          "end": 7
         },
         "kind": "commentary",
         "text": "言辨惠者唯如小人，非長者。",
@@ -85,9 +121,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 24
+          "verseIndex": 6,
+          "start": 10,
+          "end": 10
         },
         "kind": "commentary",
         "text": "老子言：我有三寶，抱持而保倚。",
@@ -98,9 +134,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 24
+          "verseIndex": 6,
+          "start": 10,
+          "end": 10
         },
         "kind": "commentary",
         "text": "愛百姓若赤子。",
@@ -111,9 +147,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 24
+          "verseIndex": 6,
+          "start": 10,
+          "end": 10
         },
         "kind": "commentary",
         "text": "賦歛若取之於己也。",
@@ -125,8 +161,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 1,
-          "start": 15,
-          "end": 16
+          "start": 20,
+          "end": 21
         },
         "kind": "commentary",
         "text": "執謙退，不為倡始也。",
@@ -137,9 +173,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 1,
-          "start": 0,
-          "end": 23
+          "verseIndex": 10,
+          "start": 14,
+          "end": 14
         },
         "kind": "commentary",
         "text": "以慈仁，故能勇於忠孝也。",
@@ -150,9 +186,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 1,
-          "start": 0,
-          "end": 23
+          "verseIndex": 10,
+          "start": 14,
+          "end": 14
         },
         "kind": "commentary",
         "text": "天子身能節儉，故民日用廣矣。",
@@ -164,8 +200,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 1,
-          "start": 17,
-          "end": 18
+          "start": 23,
+          "end": 24
         },
         "kind": "commentary",
         "text": "不為天下首先。故能成器長。成器長，謂得道人也。我能為得道人之長也。",
@@ -176,9 +212,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 1,
-          "start": 0,
-          "end": 23
+          "verseIndex": 14,
+          "start": 5,
+          "end": 5
         },
         "kind": "commentary",
         "text": "今世人捨慈仁，但為勇武。",
@@ -189,9 +225,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
-          "start": 0,
-          "end": 26
+          "verseIndex": 14,
+          "start": 5,
+          "end": 5
         },
         "kind": "commentary",
         "text": "捨其儉約，但為奢泰。",
@@ -202,9 +238,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
-          "start": 0,
-          "end": 26
+          "verseIndex": 14,
+          "start": 5,
+          "end": 5
         },
         "kind": "commentary",
         "text": "捨其後己，但為人先。",
@@ -216,8 +252,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 3,
-          "start": 21,
-          "end": 22
+          "start": 24,
+          "end": 25
         },
         "kind": "commentary",
         "text": "所行如此，動入死地。",
@@ -228,9 +264,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 3,
-          "start": 0,
-          "end": 23
+          "verseIndex": 16,
+          "start": 11,
+          "end": 11
         },
         "kind": "commentary",
         "text": "夫慈仁者，百姓親附，並心一意，故以戰則勝敵，以守衛則堅固。",
@@ -241,9 +277,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 4,
-          "start": 0,
-          "end": 23
+          "verseIndex": 16,
+          "start": 11,
+          "end": 11
         },
         "kind": "commentary",
         "text": "天將救助善人，必與慈仁之性，使能自營助也。",
@@ -256,9 +292,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 24
+          "verseIndex": 2,
+          "start": 7,
+          "end": 7
         },
         "kind": "commentary",
         "text": "久矣其細，猶曰其細久矣。肖，則失其所以為大矣。故曰，若肖久矣，其細也夫。",
@@ -269,9 +305,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 24
+          "verseIndex": 10,
+          "start": 14,
+          "end": 14
         },
         "kind": "commentary",
         "text": "夫慈，以陳則勝，以守則固，故能勇也。",
@@ -282,9 +318,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 24
+          "verseIndex": 10,
+          "start": 14,
+          "end": 14
         },
         "kind": "commentary",
         "text": "節儉愛費，天下不匱，故能廣也。",
@@ -295,9 +331,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 24
+          "verseIndex": 10,
+          "start": 14,
+          "end": 14
         },
         "kind": "commentary",
         "text": "唯後外其身，為物所歸，然後乃能立成器為天下利，為物之長也。",
@@ -308,9 +344,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 24
+          "verseIndex": 14,
+          "start": 5,
+          "end": 5
         },
         "kind": "commentary",
         "text": "且，猶取也。",
@@ -321,9 +357,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 24
+          "verseIndex": 16,
+          "start": 11,
+          "end": 11
         },
         "kind": "commentary",
         "text": "相慜而不避於難，故勝也。",
@@ -334,9 +370,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 24
+          "verseIndex": 16,
+          "start": 11,
+          "end": 11
         },
         "kind": "commentary",
         "text": "",
@@ -371,9 +407,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 24
+            "verseIndex": 2,
+            "start": 7,
+            "end": 7
           },
           "kind": "commentary",
           "text": "老子言：天下謂我德大，我則佯愚似不肖。",
@@ -384,9 +420,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 24
+            "verseIndex": 2,
+            "start": 7,
+            "end": 7
           },
           "kind": "commentary",
           "text": "唯獨名德大者為身害，故佯愚似若不肖。無所分別，無所割截，不賤人而自貴。",
@@ -397,9 +433,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 24
+            "verseIndex": 2,
+            "start": 7,
+            "end": 7
           },
           "kind": "commentary",
           "text": "肖，善也。謂辨惠也。若大辨惠之人，身高自貴行察察之政所從來久矣。",
@@ -410,9 +446,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 24
+            "verseIndex": 2,
+            "start": 7,
+            "end": 7
           },
           "kind": "commentary",
           "text": "言辨惠者唯如小人，非長者。",
@@ -423,9 +459,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 24
+            "verseIndex": 6,
+            "start": 10,
+            "end": 10
           },
           "kind": "commentary",
           "text": "老子言：我有三寶，抱持而保倚。",
@@ -436,9 +472,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 24
+            "verseIndex": 6,
+            "start": 10,
+            "end": 10
           },
           "kind": "commentary",
           "text": "愛百姓若赤子。",
@@ -449,9 +485,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 24
+            "verseIndex": 6,
+            "start": 10,
+            "end": 10
           },
           "kind": "commentary",
           "text": "賦歛若取之於己也。",
@@ -463,8 +499,8 @@
             "type": "range",
             "scope": "verse",
             "verseIndex": 1,
-            "start": 15,
-            "end": 16
+            "start": 20,
+            "end": 21
           },
           "kind": "commentary",
           "text": "執謙退，不為倡始也。",
@@ -475,9 +511,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 1,
-            "start": 0,
-            "end": 23
+            "verseIndex": 10,
+            "start": 14,
+            "end": 14
           },
           "kind": "commentary",
           "text": "以慈仁，故能勇於忠孝也。",
@@ -488,9 +524,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 1,
-            "start": 0,
-            "end": 23
+            "verseIndex": 10,
+            "start": 14,
+            "end": 14
           },
           "kind": "commentary",
           "text": "天子身能節儉，故民日用廣矣。",
@@ -502,8 +538,8 @@
             "type": "range",
             "scope": "verse",
             "verseIndex": 1,
-            "start": 17,
-            "end": 18
+            "start": 23,
+            "end": 24
           },
           "kind": "commentary",
           "text": "不為天下首先。故能成器長。成器長，謂得道人也。我能為得道人之長也。",
@@ -514,9 +550,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 1,
-            "start": 0,
-            "end": 23
+            "verseIndex": 14,
+            "start": 5,
+            "end": 5
           },
           "kind": "commentary",
           "text": "今世人捨慈仁，但為勇武。",
@@ -527,9 +563,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 2,
-            "start": 0,
-            "end": 26
+            "verseIndex": 14,
+            "start": 5,
+            "end": 5
           },
           "kind": "commentary",
           "text": "捨其儉約，但為奢泰。",
@@ -540,9 +576,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 2,
-            "start": 0,
-            "end": 26
+            "verseIndex": 14,
+            "start": 5,
+            "end": 5
           },
           "kind": "commentary",
           "text": "捨其後己，但為人先。",
@@ -554,8 +590,8 @@
             "type": "range",
             "scope": "verse",
             "verseIndex": 3,
-            "start": 21,
-            "end": 22
+            "start": 24,
+            "end": 25
           },
           "kind": "commentary",
           "text": "所行如此，動入死地。",
@@ -566,9 +602,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 3,
-            "start": 0,
-            "end": 23
+            "verseIndex": 16,
+            "start": 11,
+            "end": 11
           },
           "kind": "commentary",
           "text": "夫慈仁者，百姓親附，並心一意，故以戰則勝敵，以守衛則堅固。",
@@ -579,9 +615,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 4,
-            "start": 0,
-            "end": 23
+            "verseIndex": 16,
+            "start": 11,
+            "end": 11
           },
           "kind": "commentary",
           "text": "天將救助善人，必與慈仁之性，使能自營助也。",
@@ -604,9 +640,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 24
+            "verseIndex": 2,
+            "start": 7,
+            "end": 7
           },
           "kind": "commentary",
           "text": "久矣其細，猶曰其細久矣。肖，則失其所以為大矣。故曰，若肖久矣，其細也夫。",
@@ -617,9 +653,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 24
+            "verseIndex": 10,
+            "start": 14,
+            "end": 14
           },
           "kind": "commentary",
           "text": "夫慈，以陳則勝，以守則固，故能勇也。",
@@ -630,9 +666,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 24
+            "verseIndex": 10,
+            "start": 14,
+            "end": 14
           },
           "kind": "commentary",
           "text": "節儉愛費，天下不匱，故能廣也。",
@@ -643,9 +679,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 24
+            "verseIndex": 10,
+            "start": 14,
+            "end": 14
           },
           "kind": "commentary",
           "text": "唯後外其身，為物所歸，然後乃能立成器為天下利，為物之長也。",
@@ -656,9 +692,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 24
+            "verseIndex": 14,
+            "start": 5,
+            "end": 5
           },
           "kind": "commentary",
           "text": "且，猶取也。",
@@ -669,9 +705,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 24
+            "verseIndex": 16,
+            "start": 11,
+            "end": 11
           },
           "kind": "commentary",
           "text": "相慜而不避於難，故勝也。",
@@ -682,9 +718,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 24
+            "verseIndex": 16,
+            "start": 11,
+            "end": 11
           },
           "kind": "commentary",
           "text": "",

@@ -9,13 +9,16 @@
   "genre": "prose",
   "verses": [
     {
-      "text": "天下之至柔 馳騁於天下之致堅"
+      "text": "天下之至柔，馳騁於天下之致堅。"
     },
     {
-      "text": "无有入於无間 吾是以知无為之有益"
+      "text": "无有入於无間，吾是以知无為之有益。"
     },
     {
-      "text": "不言之教 无為之益 天下希能及之矣"
+      "text": "不言之教，无為之益。"
+    },
+    {
+      "text": "天下希能及之矣。"
     }
   ],
   "sections": {},
@@ -29,7 +32,7 @@
           "scope": "verse",
           "verseIndex": 0,
           "start": 0,
-          "end": 14
+          "end": 15
         },
         "kind": "commentary",
         "text": "至柔者，水也。至堅者，金石也。水能貫堅入剛，無所不通。",
@@ -40,9 +43,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
+          "verseIndex": 1,
           "start": 0,
-          "end": 14
+          "end": 17
         },
         "kind": "commentary",
         "text": "無有謂道也。道無形質，故能出入無間，通神明濟群生也。",
@@ -92,9 +95,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
-          "start": 0,
-          "end": 17
+          "verseIndex": 3,
+          "start": 8,
+          "end": 8
         },
         "kind": "commentary",
         "text": "天下，人主也。希能有及道無為之治身治國也。",
@@ -109,7 +112,7 @@
           "scope": "verse",
           "verseIndex": 0,
           "start": 0,
-          "end": 14
+          "end": 15
         },
         "kind": "commentary",
         "text": "氣無所不入，水無所不出於經。",
@@ -120,9 +123,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
+          "verseIndex": 1,
           "start": 0,
-          "end": 14
+          "end": 17
         },
         "kind": "commentary",
         "text": "虛無柔弱，無所不通，無有不可窮，至柔不可折，以此推之，故知無為之有益也。",
@@ -133,9 +136,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 14
+          "verseIndex": 3,
+          "start": 8,
+          "end": 8
         },
         "kind": "commentary",
         "text": "",
@@ -172,7 +175,7 @@
             "scope": "verse",
             "verseIndex": 0,
             "start": 0,
-            "end": 14
+            "end": 15
           },
           "kind": "commentary",
           "text": "至柔者，水也。至堅者，金石也。水能貫堅入剛，無所不通。",
@@ -183,9 +186,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
+            "verseIndex": 1,
             "start": 0,
-            "end": 14
+            "end": 17
           },
           "kind": "commentary",
           "text": "無有謂道也。道無形質，故能出入無間，通神明濟群生也。",
@@ -235,9 +238,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 2,
-            "start": 0,
-            "end": 17
+            "verseIndex": 3,
+            "start": 8,
+            "end": 8
           },
           "kind": "commentary",
           "text": "天下，人主也。希能有及道無為之治身治國也。",
@@ -262,7 +265,7 @@
             "scope": "verse",
             "verseIndex": 0,
             "start": 0,
-            "end": 14
+            "end": 15
           },
           "kind": "commentary",
           "text": "氣無所不入，水無所不出於經。",
@@ -273,9 +276,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
+            "verseIndex": 1,
             "start": 0,
-            "end": 14
+            "end": 17
           },
           "kind": "commentary",
           "text": "虛無柔弱，無所不通，無有不可窮，至柔不可折，以此推之，故知無為之有益也。",
@@ -286,9 +289,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 14
+            "verseIndex": 3,
+            "start": 8,
+            "end": 8
           },
           "kind": "commentary",
           "text": "",

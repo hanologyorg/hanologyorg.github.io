@@ -9,13 +9,28 @@
   "genre": "prose",
   "verses": [
     {
-      "text": "執大象 天下往 往而不害 安平大"
+      "text": "執大象，天下往。"
     },
     {
-      "text": "樂與餌 過格止"
+      "text": "往而不害，安平大。"
     },
     {
-      "text": "故道之出言也 曰淡呵亓無味也 視之不足見也 聽之不足聞也 用之不可既也"
+      "text": "樂與餌，過格止。"
+    },
+    {
+      "text": "故道之出言也。"
+    },
+    {
+      "text": "曰：淡呵，亓無味也。"
+    },
+    {
+      "text": "視之不足見也。"
+    },
+    {
+      "text": "聽之不足聞也。"
+    },
+    {
+      "text": "用之不可既也。"
     }
   ],
   "sections": {},
@@ -27,9 +42,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 16
+          "verseIndex": 1,
+          "start": 9,
+          "end": 9
         },
         "kind": "commentary",
         "text": "萬民歸往而不傷害，則國家安寧而致太平矣。治身不害神明，則身安而大壽也。",
@@ -40,9 +55,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
+          "verseIndex": 2,
           "start": 0,
-          "end": 16
+          "end": 8
         },
         "kind": "commentary",
         "text": "餌，美也。過客，一也。人能樂美於道，則一留止也。一者，去盈而處虛，忽忽如過客。",
@@ -53,8 +68,8 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 1,
-          "start": 0,
+          "verseIndex": 7,
+          "start": 7,
           "end": 7
         },
         "kind": "commentary",
@@ -67,8 +82,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 2,
-          "start": 15,
-          "end": 16
+          "start": 19,
+          "end": 20
         },
         "kind": "commentary",
         "text": "足，得也。道無形，非若五色有青黃赤白黑可得見也。",
@@ -80,8 +95,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 2,
-          "start": 22,
-          "end": 23
+          "start": 27,
+          "end": 28
         },
         "kind": "commentary",
         "text": "道非若五音有宮商角徵羽可得聽聞也。",
@@ -92,9 +107,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
-          "start": 0,
-          "end": 35
+          "verseIndex": 7,
+          "start": 7,
+          "end": 7
         },
         "kind": "commentary",
         "text": "既，盡也。謂用道治國，則國安民昌。治身則壽命延長，無有既盡之時也。",
@@ -107,9 +122,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 16
+          "verseIndex": 1,
+          "start": 9,
+          "end": 9
         },
         "kind": "commentary",
         "text": "無形無識，不偏不彰，故萬物得往而不害妨也。",
@@ -120,9 +135,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 1,
+          "verseIndex": 2,
           "start": 0,
-          "end": 7
+          "end": 8
         },
         "kind": "commentary",
         "text": "言道之深大，人聞道之言，乃更不如樂與餌，應時感悅人心也。樂與餌則能令過客止，而道之出言淡然無味，視之不足見則不足以悅其目，聽之不足聞則不足以娛其耳，若無所中然，乃用之不可窮極也。",
@@ -157,9 +172,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 16
+            "verseIndex": 1,
+            "start": 9,
+            "end": 9
           },
           "kind": "commentary",
           "text": "萬民歸往而不傷害，則國家安寧而致太平矣。治身不害神明，則身安而大壽也。",
@@ -170,9 +185,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
+            "verseIndex": 2,
             "start": 0,
-            "end": 16
+            "end": 8
           },
           "kind": "commentary",
           "text": "餌，美也。過客，一也。人能樂美於道，則一留止也。一者，去盈而處虛，忽忽如過客。",
@@ -183,8 +198,8 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 1,
-            "start": 0,
+            "verseIndex": 7,
+            "start": 7,
             "end": 7
           },
           "kind": "commentary",
@@ -197,8 +212,8 @@
             "type": "range",
             "scope": "verse",
             "verseIndex": 2,
-            "start": 15,
-            "end": 16
+            "start": 19,
+            "end": 20
           },
           "kind": "commentary",
           "text": "足，得也。道無形，非若五色有青黃赤白黑可得見也。",
@@ -210,8 +225,8 @@
             "type": "range",
             "scope": "verse",
             "verseIndex": 2,
-            "start": 22,
-            "end": 23
+            "start": 27,
+            "end": 28
           },
           "kind": "commentary",
           "text": "道非若五音有宮商角徵羽可得聽聞也。",
@@ -222,9 +237,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 2,
-            "start": 0,
-            "end": 35
+            "verseIndex": 7,
+            "start": 7,
+            "end": 7
           },
           "kind": "commentary",
           "text": "既，盡也。謂用道治國，則國安民昌。治身則壽命延長，無有既盡之時也。",
@@ -247,9 +262,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 16
+            "verseIndex": 1,
+            "start": 9,
+            "end": 9
           },
           "kind": "commentary",
           "text": "無形無識，不偏不彰，故萬物得往而不害妨也。",
@@ -260,9 +275,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 1,
+            "verseIndex": 2,
             "start": 0,
-            "end": 7
+            "end": 8
           },
           "kind": "commentary",
           "text": "言道之深大，人聞道之言，乃更不如樂與餌，應時感悅人心也。樂與餌則能令過客止，而道之出言淡然無味，視之不足見則不足以悅其目，聽之不足聞則不足以娛其耳，若無所中然，乃用之不可窮極也。",

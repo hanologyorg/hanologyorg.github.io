@@ -9,16 +9,43 @@
   "genre": "prose",
   "verses": [
     {
-      "text": "小邦寡民"
+      "text": "小邦寡民。"
     },
     {
-      "text": "使十百人之器毋用 使民重死而遠徙 有車周无所乘之 有甲兵无所陳之 使民復結繩而用之"
+      "text": "使十百人之器毋用。"
     },
     {
-      "text": "甘亓食 美亓服 樂亓俗 安亓居"
+      "text": "使民重死而遠徙。"
     },
     {
-      "text": "鄰邦相望 雞狗之聲相聞 民至老死 不相往來"
+      "text": "有車周无所乘之。"
+    },
+    {
+      "text": "有甲兵无所陳之。"
+    },
+    {
+      "text": "使民復結繩而用之。"
+    },
+    {
+      "text": "甘亓食。"
+    },
+    {
+      "text": "美亓服。"
+    },
+    {
+      "text": "樂亓俗。"
+    },
+    {
+      "text": "安亓居。"
+    },
+    {
+      "text": "鄰邦相望。"
+    },
+    {
+      "text": "雞狗之聲相聞。"
+    },
+    {
+      "text": "民至老死，不相往來。"
     }
   ],
   "sections": {},
@@ -32,7 +59,7 @@
           "scope": "verse",
           "verseIndex": 0,
           "start": 0,
-          "end": 4
+          "end": 5
         },
         "kind": "commentary",
         "text": "聖人雖治大國，猶以為小，儉約不奢泰。民雖眾，猶若寡少，不敢勞之也。",
@@ -43,9 +70,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 4
+          "verseIndex": 5,
+          "start": 9,
+          "end": 9
         },
         "kind": "commentary",
         "text": "使民各有部曲什伯，貴賤不相犯也。",
@@ -56,9 +83,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 4
+          "verseIndex": 5,
+          "start": 9,
+          "end": 9
         },
         "kind": "commentary",
         "text": "器謂農，人之器而不用，不徵召奪民良時也。",
@@ -70,8 +97,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 1,
-          "start": 9,
-          "end": 10
+          "start": 10,
+          "end": 11
         },
         "kind": "commentary",
         "text": "君能為民興利除害，各得其所，則民重死而貪生也。",
@@ -82,9 +109,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 1,
-          "start": 0,
-          "end": 41
+          "verseIndex": 5,
+          "start": 9,
+          "end": 9
         },
         "kind": "commentary",
         "text": "政令不煩則民安其業，故不遠遷徙離其常處也。",
@@ -95,9 +122,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 1,
-          "start": 0,
-          "end": 41
+          "verseIndex": 5,
+          "start": 9,
+          "end": 9
         },
         "kind": "commentary",
         "text": "清靜無為，不作煩華，不好出入遊娛也。",
@@ -108,9 +135,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 1,
-          "start": 0,
-          "end": 41
+          "verseIndex": 5,
+          "start": 9,
+          "end": 9
         },
         "kind": "commentary",
         "text": "無怨惡於天下。",
@@ -122,8 +149,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 1,
-          "start": 33,
-          "end": 34
+          "start": 37,
+          "end": 38
         },
         "kind": "commentary",
         "text": "去文反質，信無欺也。",
@@ -148,8 +175,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 2,
-          "start": 4,
-          "end": 5
+          "start": 5,
+          "end": 6
         },
         "kind": "commentary",
         "text": "美其惡衣，不貴五色。",
@@ -161,8 +188,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 2,
-          "start": 12,
-          "end": 13
+          "start": 15,
+          "end": 16
         },
         "kind": "commentary",
         "text": "安其茅茨，不好文飾之屋。",
@@ -174,8 +201,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 2,
-          "start": 8,
-          "end": 9
+          "start": 10,
+          "end": 11
         },
         "kind": "commentary",
         "text": "樂其質樸之俗，不轉移也。",
@@ -186,9 +213,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
-          "start": 0,
-          "end": 15
+          "verseIndex": 12,
+          "start": 10,
+          "end": 10
         },
         "kind": "commentary",
         "text": "相去近也。",
@@ -200,8 +227,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 3,
-          "start": 12,
-          "end": 13
+          "start": 14,
+          "end": 15
         },
         "kind": "commentary",
         "text": "其無情欲。",
@@ -216,7 +243,7 @@
           "scope": "verse",
           "verseIndex": 0,
           "start": 0,
-          "end": 4
+          "end": 5
         },
         "kind": "commentary",
         "text": "國既小，民又寡，尚可使反古，況國大民眾乎？故舉小國而言也。",
@@ -227,9 +254,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 4
+          "verseIndex": 5,
+          "start": 9,
+          "end": 9
         },
         "kind": "commentary",
         "text": "言使民雖有什伯之器而無所用，何患不足也。",
@@ -240,9 +267,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 4
+          "verseIndex": 5,
+          "start": 9,
+          "end": 9
         },
         "kind": "commentary",
         "text": "使民不用，惟身是寶，不貪貨賂，故各安其居，重死而不遠徙也。",
@@ -253,8 +280,8 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
+          "verseIndex": 9,
+          "start": 4,
           "end": 4
         },
         "kind": "commentary",
@@ -292,7 +319,7 @@
             "scope": "verse",
             "verseIndex": 0,
             "start": 0,
-            "end": 4
+            "end": 5
           },
           "kind": "commentary",
           "text": "聖人雖治大國，猶以為小，儉約不奢泰。民雖眾，猶若寡少，不敢勞之也。",
@@ -303,9 +330,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 4
+            "verseIndex": 5,
+            "start": 9,
+            "end": 9
           },
           "kind": "commentary",
           "text": "使民各有部曲什伯，貴賤不相犯也。",
@@ -316,9 +343,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 4
+            "verseIndex": 5,
+            "start": 9,
+            "end": 9
           },
           "kind": "commentary",
           "text": "器謂農，人之器而不用，不徵召奪民良時也。",
@@ -330,8 +357,8 @@
             "type": "range",
             "scope": "verse",
             "verseIndex": 1,
-            "start": 9,
-            "end": 10
+            "start": 10,
+            "end": 11
           },
           "kind": "commentary",
           "text": "君能為民興利除害，各得其所，則民重死而貪生也。",
@@ -342,9 +369,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 1,
-            "start": 0,
-            "end": 41
+            "verseIndex": 5,
+            "start": 9,
+            "end": 9
           },
           "kind": "commentary",
           "text": "政令不煩則民安其業，故不遠遷徙離其常處也。",
@@ -355,9 +382,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 1,
-            "start": 0,
-            "end": 41
+            "verseIndex": 5,
+            "start": 9,
+            "end": 9
           },
           "kind": "commentary",
           "text": "清靜無為，不作煩華，不好出入遊娛也。",
@@ -368,9 +395,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 1,
-            "start": 0,
-            "end": 41
+            "verseIndex": 5,
+            "start": 9,
+            "end": 9
           },
           "kind": "commentary",
           "text": "無怨惡於天下。",
@@ -382,8 +409,8 @@
             "type": "range",
             "scope": "verse",
             "verseIndex": 1,
-            "start": 33,
-            "end": 34
+            "start": 37,
+            "end": 38
           },
           "kind": "commentary",
           "text": "去文反質，信無欺也。",
@@ -408,8 +435,8 @@
             "type": "range",
             "scope": "verse",
             "verseIndex": 2,
-            "start": 4,
-            "end": 5
+            "start": 5,
+            "end": 6
           },
           "kind": "commentary",
           "text": "美其惡衣，不貴五色。",
@@ -421,8 +448,8 @@
             "type": "range",
             "scope": "verse",
             "verseIndex": 2,
-            "start": 12,
-            "end": 13
+            "start": 15,
+            "end": 16
           },
           "kind": "commentary",
           "text": "安其茅茨，不好文飾之屋。",
@@ -434,8 +461,8 @@
             "type": "range",
             "scope": "verse",
             "verseIndex": 2,
-            "start": 8,
-            "end": 9
+            "start": 10,
+            "end": 11
           },
           "kind": "commentary",
           "text": "樂其質樸之俗，不轉移也。",
@@ -446,9 +473,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 2,
-            "start": 0,
-            "end": 15
+            "verseIndex": 12,
+            "start": 10,
+            "end": 10
           },
           "kind": "commentary",
           "text": "相去近也。",
@@ -460,8 +487,8 @@
             "type": "range",
             "scope": "verse",
             "verseIndex": 3,
-            "start": 12,
-            "end": 13
+            "start": 14,
+            "end": 15
           },
           "kind": "commentary",
           "text": "其無情欲。",
@@ -486,7 +513,7 @@
             "scope": "verse",
             "verseIndex": 0,
             "start": 0,
-            "end": 4
+            "end": 5
           },
           "kind": "commentary",
           "text": "國既小，民又寡，尚可使反古，況國大民眾乎？故舉小國而言也。",
@@ -497,9 +524,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 4
+            "verseIndex": 5,
+            "start": 9,
+            "end": 9
           },
           "kind": "commentary",
           "text": "言使民雖有什伯之器而無所用，何患不足也。",
@@ -510,9 +537,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 4
+            "verseIndex": 5,
+            "start": 9,
+            "end": 9
           },
           "kind": "commentary",
           "text": "使民不用，惟身是寶，不貪貨賂，故各安其居，重死而不遠徙也。",
@@ -523,8 +550,8 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
+            "verseIndex": 9,
+            "start": 4,
             "end": 4
           },
           "kind": "commentary",

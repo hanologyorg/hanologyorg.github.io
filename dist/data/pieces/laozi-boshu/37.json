@@ -9,25 +9,22 @@
   "genre": "prose",
   "verses": [
     {
-      "text": "道恆无名"
+      "text": "道恆无名。"
     },
     {
-      "text": "侯王若守之 萬物將自化"
+      "text": "侯王若守之，萬物將自化。"
     },
     {
-      "text": "化而欲作 吾將貞之以无名之樸"
+      "text": "化而欲作。"
     },
     {
-      "text": "貞之以无名之樸 夫將不辱"
+      "text": "吾將貞之以无名之樸。"
     },
     {
-      "text": "不辱以靜 天地將自正"
+      "text": "貞之以无名之樸，夫將不辱。"
     },
     {
-      "text": "此作品在全世界都属于"
-    },
-    {
-      "text": "，因为作者逝世已经超过100年，且作品于1931年1月1日之前出版。"
+      "text": "不辱以靜，天地將自正。"
     }
   ],
   "sections": {},
@@ -41,7 +38,7 @@
           "scope": "verse",
           "verseIndex": 0,
           "start": 0,
-          "end": 4
+          "end": 5
         },
         "kind": "commentary",
         "text": "道以無為為常也。",
@@ -52,9 +49,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
+          "verseIndex": 1,
           "start": 0,
-          "end": 4
+          "end": 12
         },
         "kind": "commentary",
         "text": "言侯王若能守道，萬物將自化效於己也。",
@@ -65,9 +62,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 4
+          "verseIndex": 3,
+          "start": 10,
+          "end": 10
         },
         "kind": "commentary",
         "text": "吾，身也。無明之樸，道德也。萬物已化效於己也。復欲作巧偽者，侯王當身鎮撫以道德也。",
@@ -78,9 +75,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
+          "verseIndex": 4,
           "start": 0,
-          "end": 4
+          "end": 13
         },
         "kind": "commentary",
         "text": "言侯王鎮撫以道德，民亦將不欲，故當以清靜導化之也。",
@@ -91,9 +88,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
+          "verseIndex": 5,
           "start": 0,
-          "end": 4
+          "end": 11
         },
         "kind": "commentary",
         "text": "能如是者，天下將自正定也。",
@@ -108,7 +105,7 @@
           "scope": "verse",
           "verseIndex": 0,
           "start": 0,
-          "end": 4
+          "end": 5
         },
         "kind": "commentary",
         "text": "順自然也。",
@@ -119,9 +116,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
+          "verseIndex": 1,
           "start": 0,
-          "end": 4
+          "end": 12
         },
         "kind": "commentary",
         "text": "萬物無不由為以治以成之也。",
@@ -132,9 +129,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 4
+          "verseIndex": 3,
+          "start": 10,
+          "end": 10
         },
         "kind": "commentary",
         "text": "化而欲作，作欲成也。吾將鎮之無名之樸，不為主也。",
@@ -145,9 +142,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
+          "verseIndex": 4,
           "start": 0,
-          "end": 4
+          "end": 13
         },
         "kind": "commentary",
         "text": "無欲競也。",
@@ -158,9 +155,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
+          "verseIndex": 5,
           "start": 0,
-          "end": 4
+          "end": 11
         },
         "kind": "commentary",
         "text": "",
@@ -197,7 +194,7 @@
             "scope": "verse",
             "verseIndex": 0,
             "start": 0,
-            "end": 4
+            "end": 5
           },
           "kind": "commentary",
           "text": "道以無為為常也。",
@@ -208,9 +205,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
+            "verseIndex": 1,
             "start": 0,
-            "end": 4
+            "end": 12
           },
           "kind": "commentary",
           "text": "言侯王若能守道，萬物將自化效於己也。",
@@ -221,9 +218,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 4
+            "verseIndex": 3,
+            "start": 10,
+            "end": 10
           },
           "kind": "commentary",
           "text": "吾，身也。無明之樸，道德也。萬物已化效於己也。復欲作巧偽者，侯王當身鎮撫以道德也。",
@@ -234,9 +231,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
+            "verseIndex": 4,
             "start": 0,
-            "end": 4
+            "end": 13
           },
           "kind": "commentary",
           "text": "言侯王鎮撫以道德，民亦將不欲，故當以清靜導化之也。",
@@ -247,9 +244,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
+            "verseIndex": 5,
             "start": 0,
-            "end": 4
+            "end": 11
           },
           "kind": "commentary",
           "text": "能如是者，天下將自正定也。",
@@ -274,7 +271,7 @@
             "scope": "verse",
             "verseIndex": 0,
             "start": 0,
-            "end": 4
+            "end": 5
           },
           "kind": "commentary",
           "text": "順自然也。",
@@ -285,9 +282,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
+            "verseIndex": 1,
             "start": 0,
-            "end": 4
+            "end": 12
           },
           "kind": "commentary",
           "text": "萬物無不由為以治以成之也。",
@@ -298,9 +295,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 4
+            "verseIndex": 3,
+            "start": 10,
+            "end": 10
           },
           "kind": "commentary",
           "text": "化而欲作，作欲成也。吾將鎮之無名之樸，不為主也。",
@@ -311,9 +308,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
+            "verseIndex": 4,
             "start": 0,
-            "end": 4
+            "end": 13
           },
           "kind": "commentary",
           "text": "無欲競也。",
@@ -324,9 +321,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
+            "verseIndex": 5,
             "start": 0,
-            "end": 4
+            "end": 11
           },
           "kind": "commentary",
           "text": "",

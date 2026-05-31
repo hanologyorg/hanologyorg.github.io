@@ -1,31 +1,18 @@
 {
   "bookId": "skqs-yantielun",
   "num": 52,
-  "title": "水旱第三十六",
-  "author": "桓寬",
-  "authorId": "桓寬",
+  "title": "能言第四十",
+  "author": "",
+  "authorId": "",
   "dynasty": "漢",
   "era": "漢",
-  "eraCode": "07",
   "genre": "prose",
   "verses": [
     {
-      "text": "大夫曰禹湯聖主后稷伊尹賢相也而有水旱之災水旱天之所為饑穰隂陽之運也非人力故太嵗之數在陽為旱在隂為水六嵗一饑十二嵗一荒天道固然殆非獨有司之罪也"
+      "text": "大夫曰盲者口能言白黑而無目以别之儒者口能言治亂無能以行之夫坐言不行則牧童兼烏獲之力須苞堯舜之徳故使言而近則儒者何患於治亂而盲人何患於白黑哉言之不出耻躬之不逮故卑而言髙能言而不能行者君子耻之矣"
     },
     {
-      "text": "賢良曰古者政有徳則隂陽調星辰理風雨時故循行於内聲聞於外為善於下福應於天周公載紀而天下太平國無夭傷嵗無荒年當此之時雨不破塊風不鳴條旬而一雨雨必以夜無丘陵髙下皆熟詩曰有渰萋萋興雨祁祁今不省具所然而曰隂陽之運也非所聞也孟子曰野有餓殍不知收也狗豕食人食不知檢也為民父母民饑而死則曰非我也嵗也何異乎以刃殺之則曰非我也兵也方今之務在除饑寒之患罷鹽鐡退權利分土地趣本業養桑麻盡地力也寡功節用則民自富如是則水旱不能憂凶年不能累也"
-    },
-    {
-      "text": "大夫曰議者貴其辭約而指明可於衆人之聼不至繁文稠辭多言害有司化俗之計而家人語陶朱為生本末異徑一家數事而治生之道乃備今縣官鑄農器使民務本不營於末則無饑寒之累鹽鐵何害而罷"
-    },
-    {
-      "text": "賢良曰農天下之大業也鐵器民之大用也器用便利則用力少而得作多農夫樂事勸功用不具則田疇荒榖不殖用力鮮功自半器便與不便其功相什而倍也縣官鼔鑄鐵器大抵多為大器務應員程不給民用民用鈍𡚁割草不痛是以農夫作劇得獲者少百姓苦之矣"
-    },
-    {
-      "text": "大夫曰卒徒工匠以縣官日作公事財用饒器用備家人合會褊於日而勤於用鐵力不銷鍊堅柔不和故有司請總鹽鐵一其用平其賈以便百姓公私雖虞夏之為治不易於此吏明其教工致其事則剛柔和器用便此則百姓何苦而農夫何疾"
-    },
-    {
-      "text": "賢良曰卒徒工匠故民得占租鼓鑄煮鹽之時鹽與五榖同賈器和利而中用今縣官作鐡器多苦惡用費不省卒徒煩而力作不盡家人相一父子戮力各務為善器器不善者不集農事急輓運衍之阡陌之間民相與市買得以財貨五榖新弊易貨或貰民不棄作業置田器各得所欲更繇省約縣官以徒復作繕治道橋諸發民便之今總其原一其賈器多堅䃘善惡無所擇吏數不在器難得家人不能多儲多儲則鎮生棄膏腴之日逺市田器則後良時鹽鐡賈貴百姓不便貧民或木耕手耨土耰啖食鐵官賣器不售或頗賦於民卒徒作不中程時命助之發徴無限更繇以均劇故百姓疾苦之古者千室之邑百乗之家陶冶工商四民之求足以相更故農民不離畦畆而足乎田器工人不斬伐而足乎陶冶不耕田而足乎粟米百姓各得其便而上無事焉是以王者務本不作末去燿除雕琢湛民以禮示民以檏是以百姓務本不營於末"
+      "text": "賢良曰能言而不能行者國之寳也能行而不能言者國之用也兼此二者君子也無一者烏獲逢須也言滿天下徳覆四海周公是也口言之躬行之豈若黙然載施其行而已則執事亦何患何耻之有今道不舉而務小利慕於不急以亂羣意君子雖貧勿為可也藥酒病之利也正言治之藥也公卿誠能自强自忍食文學之至言去權詭罷利官一歸之於民親以周公之道則天下治而頌聲作儒者安得治亂而患之乎"
     }
   ],
   "sections": {},
@@ -39,10 +26,10 @@
           "scope": "verse",
           "verseIndex": 0,
           "start": 0,
-          "end": 16
+          "end": 31
         },
         "kind": "semantic",
-        "text": "去聲",
+        "text": "主術訓曰問瞽師曰白素何如曰縞然而黒何若曰黮然援白黑而示之則不處焉人之視白黑以目言白黑以口瞽師有以言白黒無以知白黒故言白黒與人同其別白黒與人異",
         "source": "cham"
       },
       {
@@ -51,11 +38,11 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 0,
-          "start": 16,
-          "end": 52
+          "start": 31,
+          "end": 32
         },
         "kind": "semantic",
-        "text": "天文訓曰八尺之景修徑尺五寸景脩則隂氣勝景短則陽氣勝隂氣勝則為水陽氣勝則為旱",
+        "text": "音扶",
         "source": "cham"
       },
       {
@@ -63,12 +50,12 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 1,
-          "start": 0,
-          "end": 38
+          "verseIndex": 0,
+          "start": 32,
+          "end": 50
         },
         "kind": "semantic",
-        "text": "亢倉子楚曰水隂沴也隂於國政類刑人事類私旱陽過也陽於國政類徳人事類盈楚以為凡遭水旱天子宜正刑修徳百官宜去私戒盈則以類而消百福日至矣",
+        "text": "烏獲秦武王之力士舉龍文鼎者逢須古本作逢䝉夏太康時人學射於羿者也荀子淮南子及王褒頌乂作逢門",
         "source": "cham"
       },
       {
@@ -77,11 +64,11 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 1,
-          "start": 38,
-          "end": 82
+          "start": 0,
+          "end": 43
         },
         "kind": "semantic",
-        "text": "傳曰國無道則飄風厲疾暴雨折木隂陽錯氛夏寒冬温春熱秋榮日月無光星辰錯行民多疾病國多不祥羣生不夀而五榖不登當成周之時隂陽調寒暑平羣生遂萬物寧故曰其風治其樂連其驅馬舒其民依依其行遲遲其意好好董仲舒曰太平之世則風不鳴條開甲散萌而已雨不破塊潤葉津莖而已雷不驚人𭈹令啓發而已電不眩目宣示光耀而已霧不寒望浸滛被泊而已雪不封條凌殄毒害而已雲則五色而為慶三色而成矞露則結味而成甘結潤而成膏此聖人之在上則隂陽和風雨時也論衡曰太平瑞應山出車澤出馬男女異路市無二價耕者讓畔斑白不提挈關梁不閉道不擄掠風不鳴條雨不破塊五日一風十日一雨尚書大傳曰成王時越裳重譯而来朝曰久矣天之無烈風迅雨意中國有聖人乎",
+        "text": "古作逢䝉",
         "source": "cham"
       },
       {
@@ -90,349 +77,11 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 1,
-          "start": 82,
-          "end": 86
+          "start": 43,
+          "end": 117
         },
         "kind": "semantic",
-        "text": "音掩",
-        "source": "cham"
-      },
-      {
-        "id": "commentary-6",
-        "range": {
-          "type": "range",
-          "scope": "verse",
-          "verseIndex": 1,
-          "start": 86,
-          "end": 206
-        },
-        "kind": "semantic",
-        "text": "周書曰天有四殃水旱飢荒其至無時非務積聚何以脩之夏箴曰小人無兼年之食遇天飢妻子非其有也大夫無兼年之食遇天飢臣妾輿馬非其有也戒之哉弗思弗行至無日矣不明開塞禁舍者其如天下何人各修其學而尊其名聖人制之故諸横生盡以養從生從生盡以養一文夫無殺夭胎無伐不成材無堕四時",
-        "source": "cham"
-      },
-      {
-        "id": "commentary-7",
-        "range": {
-          "type": "range",
-          "scope": "verse",
-          "verseIndex": 2,
-          "start": 0,
-          "end": 63
-        },
-        "kind": "semantic",
-        "text": "音注",
-        "source": "cham"
-      },
-      {
-        "id": "commentary-8",
-        "range": {
-          "type": "range",
-          "scope": "verse",
-          "verseIndex": 3,
-          "start": 0,
-          "end": 35
-        },
-        "kind": "semantic",
-        "text": "音洛",
-        "source": "cham"
-      },
-      {
-        "id": "commentary-9",
-        "range": {
-          "type": "range",
-          "scope": "verse",
-          "verseIndex": 3,
-          "start": 35,
-          "end": 70
-        },
-        "kind": "semantic",
-        "text": "音注",
-        "source": "cham"
-      },
-      {
-        "id": "commentary-10",
-        "range": {
-          "type": "range",
-          "scope": "verse",
-          "verseIndex": 3,
-          "start": 70,
-          "end": 101
-        },
-        "kind": "semantic",
-        "text": "音極",
-        "source": "cham"
-      },
-      {
-        "id": "commentary-11",
-        "range": {
-          "type": "range",
-          "scope": "verse",
-          "verseIndex": 4,
-          "start": 0,
-          "end": 56
-        },
-        "kind": "semantic",
-        "text": "通作價",
-        "source": "cham"
-      },
-      {
-        "id": "commentary-12",
-        "range": {
-          "type": "range",
-          "scope": "verse",
-          "verseIndex": 5,
-          "start": 0,
-          "end": 14
-        },
-        "kind": "semantic",
-        "text": "去聲",
-        "source": "cham"
-      },
-      {
-        "id": "commentary-13",
-        "range": {
-          "type": "range",
-          "scope": "verse",
-          "verseIndex": 5,
-          "start": 14,
-          "end": 17
-        },
-        "kind": "semantic",
-        "text": "音注",
-        "source": "cham"
-      },
-      {
-        "id": "commentary-14",
-        "range": {
-          "type": "range",
-          "scope": "verse",
-          "verseIndex": 5,
-          "start": 17,
-          "end": 27
-        },
-        "kind": "semantic",
-        "text": "通作價",
-        "source": "cham"
-      },
-      {
-        "id": "commentary-15",
-        "range": {
-          "type": "range",
-          "scope": "verse",
-          "verseIndex": 5,
-          "start": 27,
-          "end": 42
-        },
-        "kind": "semantic",
-        "text": "臣瓉曰謂作鐵器民患苦其不好也顔師古曰鹽既味苦器又脆惡故總云苦惡也",
-        "source": "cham"
-      },
-      {
-        "id": "commentary-16",
-        "range": {
-          "type": "range",
-          "scope": "verse",
-          "verseIndex": 5,
-          "start": 42,
-          "end": 77
-        },
-        "kind": "semantic",
-        "text": "音挽",
-        "source": "cham"
-      },
-      {
-        "id": "commentary-17",
-        "range": {
-          "type": "range",
-          "scope": "verse",
-          "verseIndex": 5,
-          "start": 77,
-          "end": 101
-        },
-        "kind": "semantic",
-        "text": "音世",
-        "source": "cham"
-      },
-      {
-        "id": "commentary-18",
-        "range": {
-          "type": "range",
-          "scope": "verse",
-          "verseIndex": 5,
-          "start": 101,
-          "end": 115
-        },
-        "kind": "semantic",
-        "text": "音遥",
-        "source": "cham"
-      },
-      {
-        "id": "commentary-19",
-        "range": {
-          "type": "range",
-          "scope": "verse",
-          "verseIndex": 5,
-          "start": 115,
-          "end": 124
-        },
-        "kind": "semantic",
-        "text": "音善",
-        "source": "cham"
-      },
-      {
-        "id": "commentary-20",
-        "range": {
-          "type": "range",
-          "scope": "verse",
-          "verseIndex": 5,
-          "start": 124,
-          "end": 139
-        },
-        "kind": "semantic",
-        "text": "通作價",
-        "source": "cham"
-      },
-      {
-        "id": "commentary-21",
-        "range": {
-          "type": "range",
-          "scope": "verse",
-          "verseIndex": 5,
-          "start": 139,
-          "end": 143
-        },
-        "kind": "semantic",
-        "text": "音坑",
-        "source": "cham"
-      },
-      {
-        "id": "commentary-22",
-        "range": {
-          "type": "range",
-          "scope": "verse",
-          "verseIndex": 5,
-          "start": 143,
-          "end": 169
-        },
-        "kind": "semantic",
-        "text": "音于",
-        "source": "cham"
-      },
-      {
-        "id": "commentary-23",
-        "range": {
-          "type": "range",
-          "scope": "verse",
-          "verseIndex": 5,
-          "start": 169,
-          "end": 182
-        },
-        "kind": "semantic",
-        "text": "通作價",
-        "source": "cham"
-      },
-      {
-        "id": "commentary-24",
-        "range": {
-          "type": "range",
-          "scope": "verse",
-          "verseIndex": 5,
-          "start": 182,
-          "end": 197
-        },
-        "kind": "semantic",
-        "text": "音談",
-        "source": "cham"
-      },
-      {
-        "id": "commentary-25",
-        "range": {
-          "type": "range",
-          "scope": "verse",
-          "verseIndex": 5,
-          "start": 197,
-          "end": 204
-        },
-        "kind": "semantic",
-        "text": "音夀",
-        "source": "cham"
-      },
-      {
-        "id": "commentary-26",
-        "range": {
-          "type": "range",
-          "scope": "verse",
-          "verseIndex": 5,
-          "start": 204,
-          "end": 214
-        },
-        "kind": "semantic",
-        "text": "去聲",
-        "source": "cham"
-      },
-      {
-        "id": "commentary-27",
-        "range": {
-          "type": "range",
-          "scope": "verse",
-          "verseIndex": 5,
-          "start": 214,
-          "end": 242
-        },
-        "kind": "semantic",
-        "text": "去聲",
-        "source": "cham"
-      },
-      {
-        "id": "commentary-28",
-        "range": {
-          "type": "range",
-          "scope": "verse",
-          "verseIndex": 5,
-          "start": 242,
-          "end": 297
-        },
-        "kind": "semantic",
-        "text": "司馬遷曰古者四民因其土宜各在智力夙興夜寐以治其業相與通功易事交利而俱贍非有徴發期會而逺近咸足故易曰后以財成天地之道輔相天地之宜以左右民備物致用立成器以為天下利莫大乎聖人此之謂也",
-        "source": "cham"
-      },
-      {
-        "id": "commentary-29",
-        "range": {
-          "type": "range",
-          "scope": "verse",
-          "verseIndex": 5,
-          "start": 297,
-          "end": 307
-        },
-        "kind": "semantic",
-        "text": "音縣",
-        "source": "cham"
-      },
-      {
-        "id": "commentary-30",
-        "range": {
-          "type": "range",
-          "scope": "verse",
-          "verseIndex": 5,
-          "start": 307,
-          "end": 308
-        },
-        "kind": "semantic",
-        "text": "音耀",
-        "source": "cham"
-      },
-      {
-        "id": "commentary-31",
-        "range": {
-          "type": "range",
-          "scope": "verse",
-          "verseIndex": 5,
-          "start": 308,
-          "end": 326
-        },
-        "kind": "semantic",
-        "text": "管子曰凡民從上也不從口之所言從情之所好者也故上之所好民必甚焉是故明君知民之必以上為心也故置法以自治立儀以自正也傳曰聖人不滛佚侈靡者非鄙夫色而愛財用也夏不數浴非愛水也冬不頻湯非愛火也不髙臺榭非無土木也不大鐘鼎非無金錫也直行情性之所安而制度可以為天下法矣昔者舜甑盆無膻而下不以餘獲罪飯乎土簋啜乎土型而農不以力獲罪麑衣而䀈領而女不以巧獲罪傳曰易簡而天下之理得也韓非子曰君無見其所欲見其所欲臣將自雕琢君無見其意君見其意臣將自表異故曰去好去惡臣乃見素去舊去智臣乃自備",
+        "text": "孫楚曰夫治膏肓者必進苦口之藥决狐疑者必告逆耳之言如其迷謬未知所投恐俞跗見其已困扁鵲知其無功也",
         "source": "cham"
       }
     ]
@@ -442,7 +91,7 @@
       "id": "default",
       "label": "原文",
       "shortLabel": "文",
-      "contributor": "桓寬",
+      "contributor": "",
       "role": "author",
       "nature": "annotation",
       "displayOrder": 0,

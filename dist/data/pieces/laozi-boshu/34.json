@@ -9,16 +9,28 @@
   "genre": "prose",
   "verses": [
     {
-      "text": "道渢呵 亓可左右也"
+      "text": "道渢呵，亓可左右也。"
     },
     {
-      "text": "成功遂事 而弗名有也 萬物歸焉而弗為主"
+      "text": "成功遂事，而弗名有也。"
     },
     {
-      "text": "則恆无欲也 可名於小 萬物歸焉而弗為主 可名於大"
+      "text": "萬物歸焉，而弗為主。"
     },
     {
-      "text": "是以聖人之能成大也 以亓不為大也 故能成大"
+      "text": "則："
+    },
+    {
+      "text": "恆无欲也，可名於小。"
+    },
+    {
+      "text": "萬物歸焉，而弗為主，可名於大。"
+    },
+    {
+      "text": "是以聖人之能成大也，"
+    },
+    {
+      "text": "以亓不為大也，故能成大。"
     }
   ],
   "sections": {},
@@ -32,7 +44,7 @@
           "scope": "verse",
           "verseIndex": 0,
           "start": 0,
-          "end": 9
+          "end": 10
         },
         "kind": "commentary",
         "text": "言道氾氾，若浮若沉，若有若無，視之不見，說之難殊。",
@@ -56,9 +68,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 9
+          "verseIndex": 2,
+          "start": 10,
+          "end": 10
         },
         "kind": "commentary",
         "text": "恃，待也。萬物皆待道而生。",
@@ -69,9 +81,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 1,
-          "start": 0,
-          "end": 19
+          "verseIndex": 2,
+          "start": 10,
+          "end": 10
         },
         "kind": "commentary",
         "text": "道不辭謝而逆止也。",
@@ -82,9 +94,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 1,
-          "start": 0,
-          "end": 19
+          "verseIndex": 2,
+          "start": 10,
+          "end": 10
         },
         "kind": "commentary",
         "text": "有道不名其有功也。",
@@ -95,9 +107,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 1,
-          "start": 0,
-          "end": 19
+          "verseIndex": 2,
+          "start": 10,
+          "end": 10
         },
         "kind": "commentary",
         "text": "道雖愛養萬物，不如人主有所收取。",
@@ -121,9 +133,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
-          "start": 0,
-          "end": 24
+          "verseIndex": 5,
+          "start": 15,
+          "end": 15
         },
         "kind": "commentary",
         "text": "萬物皆歸道受氣，道非如人主有所禁止也。",
@@ -134,9 +146,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
-          "start": 0,
-          "end": 24
+          "verseIndex": 5,
+          "start": 15,
+          "end": 15
         },
         "kind": "commentary",
         "text": "萬物橫來橫去，使名自在，故可名於大也。",
@@ -147,9 +159,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 3,
-          "start": 0,
-          "end": 21
+          "verseIndex": 7,
+          "start": 12,
+          "end": 12
         },
         "kind": "commentary",
         "text": "聖人法道匿德藏名，不為滿大。",
@@ -160,9 +172,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 3,
-          "start": 0,
-          "end": 21
+          "verseIndex": 7,
+          "start": 12,
+          "end": 12
         },
         "kind": "commentary",
         "text": "聖人以身師導，不言而化，萬事修治，故能成其大。",
@@ -177,7 +189,7 @@
           "scope": "verse",
           "verseIndex": 0,
           "start": 0,
-          "end": 9
+          "end": 10
         },
         "kind": "commentary",
         "text": "言道氾濫，無所不適，可左右上下周旋而用，則無所不至也。",
@@ -188,9 +200,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 9
+          "verseIndex": 2,
+          "start": 10,
+          "end": 10
         },
         "kind": "commentary",
         "text": "萬物皆由道而生，既生而不知所由，故天下常無欲之時，萬物各得其所，若道無施於物，故名於小矣。",
@@ -201,9 +213,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 9
+          "verseIndex": 5,
+          "start": 15,
+          "end": 15
         },
         "kind": "commentary",
         "text": "萬物皆歸之以生，而力使不知其所由，此不為小，故復可名於大矣。",
@@ -214,9 +226,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 9
+          "verseIndex": 7,
+          "start": 12,
+          "end": 12
         },
         "kind": "commentary",
         "text": "為大於其細，圖難於其易。",
@@ -253,7 +265,7 @@
             "scope": "verse",
             "verseIndex": 0,
             "start": 0,
-            "end": 9
+            "end": 10
           },
           "kind": "commentary",
           "text": "言道氾氾，若浮若沉，若有若無，視之不見，說之難殊。",
@@ -277,9 +289,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 9
+            "verseIndex": 2,
+            "start": 10,
+            "end": 10
           },
           "kind": "commentary",
           "text": "恃，待也。萬物皆待道而生。",
@@ -290,9 +302,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 1,
-            "start": 0,
-            "end": 19
+            "verseIndex": 2,
+            "start": 10,
+            "end": 10
           },
           "kind": "commentary",
           "text": "道不辭謝而逆止也。",
@@ -303,9 +315,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 1,
-            "start": 0,
-            "end": 19
+            "verseIndex": 2,
+            "start": 10,
+            "end": 10
           },
           "kind": "commentary",
           "text": "有道不名其有功也。",
@@ -316,9 +328,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 1,
-            "start": 0,
-            "end": 19
+            "verseIndex": 2,
+            "start": 10,
+            "end": 10
           },
           "kind": "commentary",
           "text": "道雖愛養萬物，不如人主有所收取。",
@@ -342,9 +354,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 2,
-            "start": 0,
-            "end": 24
+            "verseIndex": 5,
+            "start": 15,
+            "end": 15
           },
           "kind": "commentary",
           "text": "萬物皆歸道受氣，道非如人主有所禁止也。",
@@ -355,9 +367,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 2,
-            "start": 0,
-            "end": 24
+            "verseIndex": 5,
+            "start": 15,
+            "end": 15
           },
           "kind": "commentary",
           "text": "萬物橫來橫去，使名自在，故可名於大也。",
@@ -368,9 +380,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 3,
-            "start": 0,
-            "end": 21
+            "verseIndex": 7,
+            "start": 12,
+            "end": 12
           },
           "kind": "commentary",
           "text": "聖人法道匿德藏名，不為滿大。",
@@ -381,9 +393,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 3,
-            "start": 0,
-            "end": 21
+            "verseIndex": 7,
+            "start": 12,
+            "end": 12
           },
           "kind": "commentary",
           "text": "聖人以身師導，不言而化，萬事修治，故能成其大。",
@@ -408,7 +420,7 @@
             "scope": "verse",
             "verseIndex": 0,
             "start": 0,
-            "end": 9
+            "end": 10
           },
           "kind": "commentary",
           "text": "言道氾濫，無所不適，可左右上下周旋而用，則無所不至也。",
@@ -419,9 +431,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 9
+            "verseIndex": 2,
+            "start": 10,
+            "end": 10
           },
           "kind": "commentary",
           "text": "萬物皆由道而生，既生而不知所由，故天下常無欲之時，萬物各得其所，若道無施於物，故名於小矣。",
@@ -432,9 +444,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 9
+            "verseIndex": 5,
+            "start": 15,
+            "end": 15
           },
           "kind": "commentary",
           "text": "萬物皆歸之以生，而力使不知其所由，此不為小，故復可名於大矣。",
@@ -445,9 +457,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 9
+            "verseIndex": 7,
+            "start": 12,
+            "end": 12
           },
           "kind": "commentary",
           "text": "為大於其細，圖難於其易。",

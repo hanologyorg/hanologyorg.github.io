@@ -2,11 +2,10 @@
   "bookId": "skqs-difan",
   "num": 10,
   "title": "崇儉第八",
-  "author": "李世民",
-  "authorId": "唐太宗",
-  "dynasty": "唐",
-  "era": "唐",
-  "eraCode": "24",
+  "author": "",
+  "authorId": "",
+  "dynasty": "",
+  "era": "",
   "genre": "prose",
   "verses": [
     {
@@ -25,9 +24,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
+          "verseIndex": 1,
           "start": 0,
-          "end": 0
+          "end": 12
         },
         "kind": "semantic",
         "text": "夫儉者去奢從約之謂豐國富民之本也考諸今古創業垂統之君莫不以儉約而興敗國䘮身之主莫不以奢侈而亡其興亡成敗載諸簡册昭昭然可為鑒矣故太宗以儉居戒盈之先豈無意哉雖然儉固近於吝矣儉不中禮是為吝也雖有周公才美驕吝猶不足觀况其他乎此所以蜉蝣刺其好奢蟋蟀刺不中禮也然則其何以行之哉曰語不云乎菲飲食而致孝乎鬼神惡衣服而致美乎黻冕卑宫室而盡力乎溝洫此是眀王之盛徳至聖之格言依而行之吾無間然矣",
@@ -117,8 +116,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 1,
-          "start": 50,
-          "end": 54
+          "start": 42,
+          "end": 50
         },
         "kind": "semantic",
         "text": "白氏六帖曰門閭舟車不飾儉也",
@@ -156,8 +155,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 1,
-          "start": 62,
-          "end": 66
+          "start": 58,
+          "end": 62
         },
         "kind": "semantic",
         "text": "禮器曰有以素為貴者大圭不琢大羮不和疏云大羮肉汁也不和無鹽梅也太古初變腥但煮肉而飲其汁未知調和後人祭必重古故但盛肉汁謂之大羮不和已上六事皆言上古明王崇儉也如此",
@@ -208,8 +207,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 1,
-          "start": 87,
-          "end": 94
+          "start": 83,
+          "end": 87
         },
         "kind": "semantic",
         "text": "二者謂奢儉也",
@@ -325,8 +324,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 1,
-          "start": 166,
-          "end": 171
+          "start": 142,
+          "end": 163
         },
         "kind": "semantic",
         "text": "言桀紂之君縱肆情意焚炙忠良刳剔孕婦斮朝渉之脛剖賢人之心積酒成池屯肉為林置炮烙之刑行長夜之飲作竒技滛巧以恱婦人殘賊暴虐湯武興矣故曰禍結也",
@@ -364,8 +363,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 1,
-          "start": 173,
-          "end": 178
+          "start": 166,
+          "end": 171
         },
         "kind": "semantic",
         "text": "謂堯舜恭己無為儉約是務是以太平之福延長也",
@@ -377,8 +376,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 1,
-          "start": 178,
-          "end": 179
+          "start": 173,
+          "end": 178
         },
         "kind": "semantic",
         "text": "桀紂所以亡謂不能節遏驕慾也堯舜所以興謂其躬行儉約也一戒一法可不務為儉約乎",
@@ -391,7 +390,7 @@
       "id": "default",
       "label": "原文",
       "shortLabel": "文",
-      "contributor": "唐太宗",
+      "contributor": "",
       "role": "author",
       "nature": "annotation",
       "displayOrder": 0,

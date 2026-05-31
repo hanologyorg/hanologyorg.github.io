@@ -605,9 +605,10 @@
         "id": "commentary-20",
         "range": {
           "type": "range",
-          "scope": "title",
-          "start": 0,
-          "end": 1
+          "scope": "verse",
+          "verseIndex": 17,
+          "start": 9,
+          "end": 15
         },
         "kind": "semantic",
         "text": "《書》曰：「若濟巨川，用汝作舟楫。」",
@@ -617,9 +618,10 @@
         "id": "commentary-21",
         "range": {
           "type": "range",
-          "scope": "title",
+          "scope": "verse",
+          "verseIndex": 18,
           "start": 0,
-          "end": 1
+          "end": 4
         },
         "kind": "semantic",
         "text": "《毛詩》曰：「唱予和汝。」",
@@ -629,9 +631,10 @@
         "id": "commentary-22",
         "range": {
           "type": "range",
-          "scope": "title",
-          "start": 0,
-          "end": 1
+          "scope": "verse",
+          "verseIndex": 19,
+          "start": 17,
+          "end": 19
         },
         "kind": "semantic",
         "text": "《毛詩》曰：「率由舊章。」",
@@ -641,9 +644,10 @@
         "id": "commentary-23",
         "range": {
           "type": "range",
-          "scope": "title",
-          "start": 0,
-          "end": 1
+          "scope": "verse",
+          "verseIndex": 20,
+          "start": 5,
+          "end": 7
         },
         "kind": "semantic",
         "text": "《孝經》曰：「資於事父以事君而敬同。」",
@@ -653,9 +657,10 @@
         "id": "commentary-24",
         "range": {
           "type": "range",
-          "scope": "title",
+          "scope": "verse",
+          "verseIndex": 21,
           "start": 0,
-          "end": 1
+          "end": 4
         },
         "kind": "semantic",
         "text": "父子雖至親，猶未若君臣之同體。故曰「其至矣乎。」",
@@ -665,9 +670,10 @@
         "id": "commentary-25",
         "range": {
           "type": "range",
-          "scope": "title",
+          "scope": "verse",
+          "verseIndex": 22,
           "start": 0,
-          "end": 1
+          "end": 2
         },
         "kind": "semantic",
         "text": "休，美也。戚，憂也。",
@@ -677,9 +683,10 @@
         "id": "commentary-26",
         "range": {
           "type": "range",
-          "scope": "title",
-          "start": 0,
-          "end": 1
+          "scope": "verse",
+          "verseIndex": 23,
+          "start": 19,
+          "end": 24
         },
         "kind": "semantic",
         "text": "《漢書》張良言：「忠言逆於耳利於行，毒藥苦於口利於病也。」",
@@ -689,9 +696,10 @@
         "id": "commentary-27",
         "range": {
           "type": "range",
-          "scope": "title",
-          "start": 0,
-          "end": 1
+          "scope": "verse",
+          "verseIndex": 24,
+          "start": 14,
+          "end": 16
         },
         "kind": "semantic",
         "text": "《史記》曰：孔子文辭有可與人共者，弗獨有也。至於為《春秋》，筆則削，削則削，子夏之徒不能讚一辭。",
@@ -701,9 +709,10 @@
         "id": "commentary-28",
         "range": {
           "type": "range",
-          "scope": "title",
-          "start": 0,
-          "end": 1
+          "scope": "verse",
+          "verseIndex": 24,
+          "start": 21,
+          "end": 22
         },
         "kind": "semantic",
         "text": "《說文》曰：裨，倍益也。",
@@ -713,9 +722,10 @@
         "id": "commentary-29",
         "range": {
           "type": "range",
-          "scope": "title",
-          "start": 0,
-          "end": 1
+          "scope": "verse",
+          "verseIndex": 25,
+          "start": 8,
+          "end": 10
         },
         "kind": "semantic",
         "text": "《莊子》曰：「黃帝遊於赤水之北，遂歸，遺其玄珠。」",
@@ -725,9 +735,10 @@
         "id": "commentary-30",
         "range": {
           "type": "range",
-          "scope": "title",
-          "start": 0,
-          "end": 1
+          "scope": "verse",
+          "verseIndex": 25,
+          "start": 15,
+          "end": 17
         },
         "kind": "semantic",
         "text": "《論語》曰：「巽與之言，能無悅乎？」",
@@ -737,9 +748,10 @@
         "id": "commentary-31",
         "range": {
           "type": "range",
-          "scope": "title",
-          "start": 0,
-          "end": 1
+          "scope": "verse",
+          "verseIndex": 25,
+          "start": 20,
+          "end": 22
         },
         "kind": "semantic",
         "text": "《周禮》曰：「蒼璧祀天。」",
@@ -749,9 +761,10 @@
         "id": "commentary-32",
         "range": {
           "type": "range",
-          "scope": "title",
-          "start": 0,
-          "end": 1
+          "scope": "verse",
+          "verseIndex": 26,
+          "start": 15,
+          "end": 19
         },
         "kind": "semantic",
         "text": "《家語》曰：孔子去周，老子送之，曰：「富者贈人以財，仁者贈人以言。吾雖不能富而竊仁者之跡，請送子以言也。」",
@@ -761,9 +774,10 @@
         "id": "commentary-33",
         "range": {
           "type": "range",
-          "scope": "title",
-          "start": 0,
-          "end": 1
+          "scope": "verse",
+          "verseIndex": 26,
+          "start": 15,
+          "end": 19
         },
         "kind": "semantic",
         "text": "同上。仁者贈人以言。",
@@ -773,9 +787,10 @@
         "id": "commentary-34",
         "range": {
           "type": "range",
-          "scope": "title",
-          "start": 0,
-          "end": 1
+          "scope": "verse",
+          "verseIndex": 27,
+          "start": 9,
+          "end": 11
         },
         "kind": "semantic",
         "text": "《韓子》曰：西門豹之情急，故佩韋以緩己。董安幹之心緩，故佩弦以急己也。",
@@ -785,9 +800,10 @@
         "id": "commentary-35",
         "range": {
           "type": "range",
-          "scope": "title",
-          "start": 0,
-          "end": 1
+          "scope": "verse",
+          "verseIndex": 28,
+          "start": 47,
+          "end": 49
         },
         "kind": "semantic",
         "text": "《論語》曰：季文子三思而後行也。庶照鄙誠，敬終高德，凡諸章目，列於後云。",
@@ -1068,9 +1084,10 @@
           "id": "commentary-20",
           "range": {
             "type": "range",
-            "scope": "title",
-            "start": 0,
-            "end": 1
+            "scope": "verse",
+            "verseIndex": 17,
+            "start": 9,
+            "end": 15
           },
           "kind": "semantic",
           "text": "《書》曰：「若濟巨川，用汝作舟楫。」",
@@ -1080,9 +1097,10 @@
           "id": "commentary-21",
           "range": {
             "type": "range",
-            "scope": "title",
+            "scope": "verse",
+            "verseIndex": 18,
             "start": 0,
-            "end": 1
+            "end": 4
           },
           "kind": "semantic",
           "text": "《毛詩》曰：「唱予和汝。」",
@@ -1092,9 +1110,10 @@
           "id": "commentary-22",
           "range": {
             "type": "range",
-            "scope": "title",
-            "start": 0,
-            "end": 1
+            "scope": "verse",
+            "verseIndex": 19,
+            "start": 17,
+            "end": 19
           },
           "kind": "semantic",
           "text": "《毛詩》曰：「率由舊章。」",
@@ -1104,9 +1123,10 @@
           "id": "commentary-23",
           "range": {
             "type": "range",
-            "scope": "title",
-            "start": 0,
-            "end": 1
+            "scope": "verse",
+            "verseIndex": 20,
+            "start": 5,
+            "end": 7
           },
           "kind": "semantic",
           "text": "《孝經》曰：「資於事父以事君而敬同。」",
@@ -1116,9 +1136,10 @@
           "id": "commentary-24",
           "range": {
             "type": "range",
-            "scope": "title",
+            "scope": "verse",
+            "verseIndex": 21,
             "start": 0,
-            "end": 1
+            "end": 4
           },
           "kind": "semantic",
           "text": "父子雖至親，猶未若君臣之同體。故曰「其至矣乎。」",
@@ -1128,9 +1149,10 @@
           "id": "commentary-25",
           "range": {
             "type": "range",
-            "scope": "title",
+            "scope": "verse",
+            "verseIndex": 22,
             "start": 0,
-            "end": 1
+            "end": 2
           },
           "kind": "semantic",
           "text": "休，美也。戚，憂也。",
@@ -1140,9 +1162,10 @@
           "id": "commentary-26",
           "range": {
             "type": "range",
-            "scope": "title",
-            "start": 0,
-            "end": 1
+            "scope": "verse",
+            "verseIndex": 23,
+            "start": 19,
+            "end": 24
           },
           "kind": "semantic",
           "text": "《漢書》張良言：「忠言逆於耳利於行，毒藥苦於口利於病也。」",
@@ -1152,9 +1175,10 @@
           "id": "commentary-27",
           "range": {
             "type": "range",
-            "scope": "title",
-            "start": 0,
-            "end": 1
+            "scope": "verse",
+            "verseIndex": 24,
+            "start": 14,
+            "end": 16
           },
           "kind": "semantic",
           "text": "《史記》曰：孔子文辭有可與人共者，弗獨有也。至於為《春秋》，筆則削，削則削，子夏之徒不能讚一辭。",
@@ -1164,9 +1188,10 @@
           "id": "commentary-28",
           "range": {
             "type": "range",
-            "scope": "title",
-            "start": 0,
-            "end": 1
+            "scope": "verse",
+            "verseIndex": 24,
+            "start": 21,
+            "end": 22
           },
           "kind": "semantic",
           "text": "《說文》曰：裨，倍益也。",
@@ -1176,9 +1201,10 @@
           "id": "commentary-29",
           "range": {
             "type": "range",
-            "scope": "title",
-            "start": 0,
-            "end": 1
+            "scope": "verse",
+            "verseIndex": 25,
+            "start": 8,
+            "end": 10
           },
           "kind": "semantic",
           "text": "《莊子》曰：「黃帝遊於赤水之北，遂歸，遺其玄珠。」",
@@ -1188,9 +1214,10 @@
           "id": "commentary-30",
           "range": {
             "type": "range",
-            "scope": "title",
-            "start": 0,
-            "end": 1
+            "scope": "verse",
+            "verseIndex": 25,
+            "start": 15,
+            "end": 17
           },
           "kind": "semantic",
           "text": "《論語》曰：「巽與之言，能無悅乎？」",
@@ -1200,9 +1227,10 @@
           "id": "commentary-31",
           "range": {
             "type": "range",
-            "scope": "title",
-            "start": 0,
-            "end": 1
+            "scope": "verse",
+            "verseIndex": 25,
+            "start": 20,
+            "end": 22
           },
           "kind": "semantic",
           "text": "《周禮》曰：「蒼璧祀天。」",
@@ -1212,9 +1240,10 @@
           "id": "commentary-32",
           "range": {
             "type": "range",
-            "scope": "title",
-            "start": 0,
-            "end": 1
+            "scope": "verse",
+            "verseIndex": 26,
+            "start": 15,
+            "end": 19
           },
           "kind": "semantic",
           "text": "《家語》曰：孔子去周，老子送之，曰：「富者贈人以財，仁者贈人以言。吾雖不能富而竊仁者之跡，請送子以言也。」",
@@ -1224,9 +1253,10 @@
           "id": "commentary-33",
           "range": {
             "type": "range",
-            "scope": "title",
-            "start": 0,
-            "end": 1
+            "scope": "verse",
+            "verseIndex": 26,
+            "start": 15,
+            "end": 19
           },
           "kind": "semantic",
           "text": "同上。仁者贈人以言。",
@@ -1236,9 +1266,10 @@
           "id": "commentary-34",
           "range": {
             "type": "range",
-            "scope": "title",
-            "start": 0,
-            "end": 1
+            "scope": "verse",
+            "verseIndex": 27,
+            "start": 9,
+            "end": 11
           },
           "kind": "semantic",
           "text": "《韓子》曰：西門豹之情急，故佩韋以緩己。董安幹之心緩，故佩弦以急己也。",
@@ -1248,9 +1279,10 @@
           "id": "commentary-35",
           "range": {
             "type": "range",
-            "scope": "title",
-            "start": 0,
-            "end": 1
+            "scope": "verse",
+            "verseIndex": 28,
+            "start": 47,
+            "end": 49
           },
           "kind": "semantic",
           "text": "《論語》曰：季文子三思而後行也。庶照鄙誠，敬終高德，凡諸章目，列於後云。",

@@ -2,11 +2,10 @@
   "bookId": "skqs-difan",
   "num": 7,
   "title": "納諫第五",
-  "author": "李世民",
-  "authorId": "唐太宗",
-  "dynasty": "唐",
-  "era": "唐",
-  "eraCode": "24",
+  "author": "",
+  "authorId": "",
+  "dynasty": "",
+  "era": "",
   "genre": "prose",
   "verses": [
     {
@@ -25,9 +24,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 0
+          "verseIndex": 1,
+          "start": 124,
+          "end": 136
         },
         "kind": "semantic",
         "text": "尚書曰朝夕納諌以輔台徳又傳說謂髙宗曰惟木從䋲則直后從諫則聖后聖臣不命其承疇敢不祗若王之休命言木以繩直君以諫聖明君能受諫則臣不待其命承意而諫之也既王能如此則誰敢不敬順王之美命而諫者乎是以堯舜衢室之問總章之訪以来天下之諫以通天下之情故至聖至明以配天也至如桀紂拒諌飾非直至於焚放而不自覺者誠可悲哉疇誰也祗敬也休美也",
@@ -313,7 +312,7 @@
       "id": "default",
       "label": "原文",
       "shortLabel": "文",
-      "contributor": "唐太宗",
+      "contributor": "",
       "role": "author",
       "nature": "annotation",
       "displayOrder": 0,

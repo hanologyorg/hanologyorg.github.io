@@ -9,13 +9,28 @@
   "genre": "prose",
   "verses": [
     {
-      "text": "將欲翕之 必固張之 將欲弱之 必固強之 將欲去之 必固與之 將欲奪之 必固予之 是謂微明"
+      "text": "將欲翕之，必固張之。"
     },
     {
-      "text": "柔弱勝強"
+      "text": "將欲弱之，必固強之。"
     },
     {
-      "text": "魚不可脫於淵 邦利器不可以示人"
+      "text": "將欲去之，必固與之。"
+    },
+    {
+      "text": "將欲奪之，必固予之。"
+    },
+    {
+      "text": "是謂微明。"
+    },
+    {
+      "text": "柔弱勝強。"
+    },
+    {
+      "text": "魚不可脫於淵。"
+    },
+    {
+      "text": "邦利器不可以示人。"
     }
   ],
   "sections": {},
@@ -27,9 +42,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 44
+          "verseIndex": 4,
+          "start": 5,
+          "end": 5
         },
         "kind": "commentary",
         "text": "先開張之者，欲極其奢淫。",
@@ -41,8 +56,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 0,
-          "start": 10,
-          "end": 11
+          "start": 11,
+          "end": 12
         },
         "kind": "commentary",
         "text": "先強大之者，欲使遇禍患。",
@@ -53,9 +68,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 44
+          "verseIndex": 4,
+          "start": 5,
+          "end": 5
         },
         "kind": "commentary",
         "text": "先興之者，欲使其驕危。",
@@ -66,9 +81,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 44
+          "verseIndex": 4,
+          "start": 5,
+          "end": 5
         },
         "kind": "commentary",
         "text": "先與之者，欲極其貪心。",
@@ -80,8 +95,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 0,
-          "start": 40,
-          "end": 41
+          "start": 44,
+          "end": 45
         },
         "kind": "commentary",
         "text": "此四事，其道微，其效明也。",
@@ -92,9 +107,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
+          "verseIndex": 5,
           "start": 0,
-          "end": 44
+          "end": 5
         },
         "kind": "commentary",
         "text": "柔弱者久長，剛強者先亡也。",
@@ -118,9 +133,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
-          "start": 0,
-          "end": 15
+          "verseIndex": 7,
+          "start": 9,
+          "end": 9
         },
         "kind": "commentary",
         "text": "利器者，謂權道也。治國權者，不可以示執事之臣也。治身道者，不可以示非其人也。",
@@ -133,9 +148,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 44
+          "verseIndex": 4,
+          "start": 5,
+          "end": 5
         },
         "kind": "commentary",
         "text": "將欲除强梁，去暴亂，當以此四者。因物之性，令其自戮，不假刑為大，以除將物也，故曰微明也。足其張，令之足，而又求其張，則眾所歙也，與其張之不足，而改其求張者，愈益而已反危。",
@@ -146,9 +161,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 44
+          "verseIndex": 7,
+          "start": 9,
+          "end": 9
         },
         "kind": "commentary",
         "text": "利器，利國之器也。唯因物之性，不假刑以理物，器不可覩，而物各得其所，則國之利器也。示人者，任刑也。刑以利國則失矣。魚脫於淵，則必見失矣。利國器而立刑以示人，亦必失也。",
@@ -183,9 +198,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 44
+            "verseIndex": 4,
+            "start": 5,
+            "end": 5
           },
           "kind": "commentary",
           "text": "先開張之者，欲極其奢淫。",
@@ -197,8 +212,8 @@
             "type": "range",
             "scope": "verse",
             "verseIndex": 0,
-            "start": 10,
-            "end": 11
+            "start": 11,
+            "end": 12
           },
           "kind": "commentary",
           "text": "先強大之者，欲使遇禍患。",
@@ -209,9 +224,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 44
+            "verseIndex": 4,
+            "start": 5,
+            "end": 5
           },
           "kind": "commentary",
           "text": "先興之者，欲使其驕危。",
@@ -222,9 +237,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 44
+            "verseIndex": 4,
+            "start": 5,
+            "end": 5
           },
           "kind": "commentary",
           "text": "先與之者，欲極其貪心。",
@@ -236,8 +251,8 @@
             "type": "range",
             "scope": "verse",
             "verseIndex": 0,
-            "start": 40,
-            "end": 41
+            "start": 44,
+            "end": 45
           },
           "kind": "commentary",
           "text": "此四事，其道微，其效明也。",
@@ -248,9 +263,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
+            "verseIndex": 5,
             "start": 0,
-            "end": 44
+            "end": 5
           },
           "kind": "commentary",
           "text": "柔弱者久長，剛強者先亡也。",
@@ -274,9 +289,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 2,
-            "start": 0,
-            "end": 15
+            "verseIndex": 7,
+            "start": 9,
+            "end": 9
           },
           "kind": "commentary",
           "text": "利器者，謂權道也。治國權者，不可以示執事之臣也。治身道者，不可以示非其人也。",
@@ -299,9 +314,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 44
+            "verseIndex": 4,
+            "start": 5,
+            "end": 5
           },
           "kind": "commentary",
           "text": "將欲除强梁，去暴亂，當以此四者。因物之性，令其自戮，不假刑為大，以除將物也，故曰微明也。足其張，令之足，而又求其張，則眾所歙也，與其張之不足，而改其求張者，愈益而已反危。",
@@ -312,9 +327,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 44
+            "verseIndex": 7,
+            "start": 9,
+            "end": 9
           },
           "kind": "commentary",
           "text": "利器，利國之器也。唯因物之性，不假刑以理物，器不可覩，而物各得其所，則國之利器也。示人者，任刑也。刑以利國則失矣。魚脫於淵，則必見失矣。利國器而立刑以示人，亦必失也。",

@@ -9,16 +9,46 @@
   "genre": "prose",
   "verses": [
     {
-      "text": "寵辱若驚 貴大患若身"
+      "text": "寵辱若驚，"
     },
     {
-      "text": "何謂寵辱若驚 寵之為下 得之若驚 失之若驚 是謂寵辱若驚"
+      "text": "貴大患若身。"
     },
     {
-      "text": "何謂貴大患若身 吾所以有大患者 為吾有身也 及吾无身 有何患"
+      "text": "何謂寵辱若驚？"
     },
     {
-      "text": "故貴為身於為天下 若可以托天下矣 愛以身為天下 如可以寄天下矣"
+      "text": "寵之為下。"
+    },
+    {
+      "text": "得之若驚，失之若驚。"
+    },
+    {
+      "text": "是謂寵辱若驚。"
+    },
+    {
+      "text": "何謂貴大患若身？"
+    },
+    {
+      "text": "吾所以有大患者，為吾有身也。"
+    },
+    {
+      "text": "及吾无身，有何患？"
+    },
+    {
+      "text": "故"
+    },
+    {
+      "text": "貴為身於為天下，"
+    },
+    {
+      "text": "若可以托天下矣。"
+    },
+    {
+      "text": "愛以身為天下，"
+    },
+    {
+      "text": "如可以寄天下矣。"
     }
   ],
   "sections": {},
@@ -31,8 +61,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 0,
-          "start": 5,
-          "end": 6
+          "start": 6,
+          "end": 7
         },
         "kind": "commentary",
         "text": "貴，畏也。若，至也。謂大患至身，故皆驚。",
@@ -56,9 +86,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 1,
-          "start": 0,
-          "end": 28
+          "verseIndex": 5,
+          "start": 7,
+          "end": 7
         },
         "kind": "commentary",
         "text": "辱為下賤。",
@@ -70,8 +100,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 1,
-          "start": 12,
-          "end": 13
+          "start": 14,
+          "end": 15
         },
         "kind": "commentary",
         "text": "得寵榮驚者，處高位如臨深危也。貴不敢驕，富不敢奢。",
@@ -83,8 +113,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 1,
-          "start": 17,
-          "end": 18
+          "start": 19,
+          "end": 20
         },
         "kind": "commentary",
         "text": "失者，失寵處辱也。驚者，恐禍重來也。",
@@ -96,8 +126,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 1,
-          "start": 22,
-          "end": 23
+          "start": 25,
+          "end": 26
         },
         "kind": "commentary",
         "text": "解上得之若驚，失之若驚。",
@@ -122,8 +152,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 2,
-          "start": 8,
-          "end": 9
+          "start": 9,
+          "end": 10
         },
         "kind": "commentary",
         "text": "吾所以有大患者，為吾有身。有身憂者，勤勞念其飢寒，觸情從慾，則遇禍患也。",
@@ -134,9 +164,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
-          "start": 0,
-          "end": 30
+          "verseIndex": 8,
+          "start": 9,
+          "end": 9
         },
         "kind": "commentary",
         "text": "使吾無有身體，得道自然，輕舉昇雲，出入無間，與道通神，當有何患。",
@@ -147,9 +177,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
-          "start": 0,
-          "end": 30
+          "verseIndex": 13,
+          "start": 8,
+          "end": 8
         },
         "kind": "commentary",
         "text": "言人君貴其身而賤人，欲為天下主者，則可寄立，不可以久也。",
@@ -160,9 +190,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 3,
-          "start": 0,
-          "end": 31
+          "verseIndex": 13,
+          "start": 8,
+          "end": 8
         },
         "kind": "commentary",
         "text": "言人君能愛其身，非為己也，乃欲為萬民之父母。以此得為天下主者，乃可以託其身於萬民之上，長無咎也。",
@@ -175,9 +205,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 10
+          "verseIndex": 1,
+          "start": 6,
+          "end": 6
         },
         "kind": "commentary",
         "text": "寵必有辱，榮必有患，驚辱等、榮患同也。為下得寵辱榮患若驚，則不足以亂天下也。",
@@ -202,8 +232,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 2,
-          "start": 8,
-          "end": 9
+          "start": 9,
+          "end": 10
         },
         "kind": "commentary",
         "text": "由有其身也。",
@@ -215,8 +245,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 2,
-          "start": 22,
-          "end": 23
+          "start": 24,
+          "end": 25
         },
         "kind": "commentary",
         "text": "歸之自然也。",
@@ -227,9 +257,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
-          "start": 0,
-          "end": 30
+          "verseIndex": 13,
+          "start": 8,
+          "end": 8
         },
         "kind": "commentary",
         "text": "無以易其身，故曰貴也。如此乃可以託天下也。",
@@ -240,9 +270,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 3,
-          "start": 0,
-          "end": 31
+          "verseIndex": 13,
+          "start": 8,
+          "end": 8
         },
         "kind": "commentary",
         "text": "無物可以損其身，故曰愛也。如此乃可以寄天下也。不以寵辱榮患損易其身，然後乃可以天下付之也。",
@@ -278,8 +308,8 @@
             "type": "range",
             "scope": "verse",
             "verseIndex": 0,
-            "start": 5,
-            "end": 6
+            "start": 6,
+            "end": 7
           },
           "kind": "commentary",
           "text": "貴，畏也。若，至也。謂大患至身，故皆驚。",
@@ -303,9 +333,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 1,
-            "start": 0,
-            "end": 28
+            "verseIndex": 5,
+            "start": 7,
+            "end": 7
           },
           "kind": "commentary",
           "text": "辱為下賤。",
@@ -317,8 +347,8 @@
             "type": "range",
             "scope": "verse",
             "verseIndex": 1,
-            "start": 12,
-            "end": 13
+            "start": 14,
+            "end": 15
           },
           "kind": "commentary",
           "text": "得寵榮驚者，處高位如臨深危也。貴不敢驕，富不敢奢。",
@@ -330,8 +360,8 @@
             "type": "range",
             "scope": "verse",
             "verseIndex": 1,
-            "start": 17,
-            "end": 18
+            "start": 19,
+            "end": 20
           },
           "kind": "commentary",
           "text": "失者，失寵處辱也。驚者，恐禍重來也。",
@@ -343,8 +373,8 @@
             "type": "range",
             "scope": "verse",
             "verseIndex": 1,
-            "start": 22,
-            "end": 23
+            "start": 25,
+            "end": 26
           },
           "kind": "commentary",
           "text": "解上得之若驚，失之若驚。",
@@ -369,8 +399,8 @@
             "type": "range",
             "scope": "verse",
             "verseIndex": 2,
-            "start": 8,
-            "end": 9
+            "start": 9,
+            "end": 10
           },
           "kind": "commentary",
           "text": "吾所以有大患者，為吾有身。有身憂者，勤勞念其飢寒，觸情從慾，則遇禍患也。",
@@ -381,9 +411,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 2,
-            "start": 0,
-            "end": 30
+            "verseIndex": 8,
+            "start": 9,
+            "end": 9
           },
           "kind": "commentary",
           "text": "使吾無有身體，得道自然，輕舉昇雲，出入無間，與道通神，當有何患。",
@@ -394,9 +424,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 2,
-            "start": 0,
-            "end": 30
+            "verseIndex": 13,
+            "start": 8,
+            "end": 8
           },
           "kind": "commentary",
           "text": "言人君貴其身而賤人，欲為天下主者，則可寄立，不可以久也。",
@@ -407,9 +437,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 3,
-            "start": 0,
-            "end": 31
+            "verseIndex": 13,
+            "start": 8,
+            "end": 8
           },
           "kind": "commentary",
           "text": "言人君能愛其身，非為己也，乃欲為萬民之父母。以此得為天下主者，乃可以託其身於萬民之上，長無咎也。",
@@ -432,9 +462,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 10
+            "verseIndex": 1,
+            "start": 6,
+            "end": 6
           },
           "kind": "commentary",
           "text": "寵必有辱，榮必有患，驚辱等、榮患同也。為下得寵辱榮患若驚，則不足以亂天下也。",
@@ -459,8 +489,8 @@
             "type": "range",
             "scope": "verse",
             "verseIndex": 2,
-            "start": 8,
-            "end": 9
+            "start": 9,
+            "end": 10
           },
           "kind": "commentary",
           "text": "由有其身也。",
@@ -472,8 +502,8 @@
             "type": "range",
             "scope": "verse",
             "verseIndex": 2,
-            "start": 22,
-            "end": 23
+            "start": 24,
+            "end": 25
           },
           "kind": "commentary",
           "text": "歸之自然也。",
@@ -484,9 +514,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 2,
-            "start": 0,
-            "end": 30
+            "verseIndex": 13,
+            "start": 8,
+            "end": 8
           },
           "kind": "commentary",
           "text": "無以易其身，故曰貴也。如此乃可以託天下也。",
@@ -497,9 +527,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 3,
-            "start": 0,
-            "end": 31
+            "verseIndex": 13,
+            "start": 8,
+            "end": 8
           },
           "kind": "commentary",
           "text": "無物可以損其身，故曰愛也。如此乃可以寄天下也。不以寵辱榮患損易其身，然後乃可以天下付之也。",

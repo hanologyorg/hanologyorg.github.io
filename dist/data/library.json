@@ -2,12 +2,11 @@
   "scale": "library",
   "books": [
     {
-      "id": "difan",
+      "id": "skqs-difan",
       "title": "帝範",
-      "subtitle": "唐·太宗",
-      "publisher": "早稲田大学図書館",
+      "subtitle": "四庫全書本",
       "genre": "prose",
-      "count": 17
+      "count": 30
     },
     {
       "id": "heshanggong-laozi",
@@ -221,143 +220,144 @@
       "title": "帝學",
       "subtitle": "四庫全書本",
       "genre": "prose",
-      "count": 21
+      "count": 20
     },
     {
       "id": "skqs-guiguzi",
       "title": "鬼谷子",
       "subtitle": "四庫全書本",
       "genre": "prose",
-      "count": 1
+      "count": 24
+    },
+    {
+      "id": "skqs-jiafan",
+      "title": "家範",
+      "subtitle": "四庫全書本",
+      "genre": "prose",
+      "count": 23
     },
     {
       "id": "skqs-mengzi-zhushu",
       "title": "孟子注疏",
       "subtitle": "四庫全書本",
       "genre": "prose",
-      "count": 76
+      "count": 64
     },
     {
       "id": "skqs-wenzi",
       "title": "文子",
       "subtitle": "四庫全書本",
       "genre": "prose",
-      "count": 23
+      "count": 25
     },
     {
       "id": "skqs-yantielun",
       "title": "鹽鐵論",
       "subtitle": "四庫全書本",
       "genre": "prose",
-      "count": 63
+      "count": 75
     },
     {
       "id": "skqs-yinwenzi",
       "title": "尹文子",
       "subtitle": "四庫全書本",
       "genre": "prose",
-      "count": 2
+      "count": 4
     }
   ],
   "crossRefs": [
     {
-      "focusedBookId": "difan",
+      "focusedBookId": "skqs-difan",
       "focusedNum": 0,
       "fullBookId": "difan",
       "relation": "section"
     },
     {
-      "focusedBookId": "difan",
+      "focusedBookId": "skqs-difan",
       "focusedNum": 1,
       "fullBookId": "difan",
       "relation": "section"
     },
     {
-      "focusedBookId": "difan",
-      "focusedNum": 2,
-      "fullBookId": "difan",
-      "relation": "section"
-    },
-    {
-      "focusedBookId": "difan",
+      "focusedBookId": "skqs-difan",
       "focusedNum": 3,
       "fullBookId": "difan",
       "relation": "section"
     },
     {
-      "focusedBookId": "difan",
+      "focusedBookId": "skqs-difan",
       "focusedNum": 4,
       "fullBookId": "difan",
       "relation": "section"
     },
     {
-      "focusedBookId": "difan",
+      "focusedBookId": "skqs-difan",
       "focusedNum": 5,
       "fullBookId": "difan",
       "relation": "section"
     },
     {
-      "focusedBookId": "difan",
+      "focusedBookId": "skqs-difan",
       "focusedNum": 6,
       "fullBookId": "difan",
       "relation": "section"
     },
     {
-      "focusedBookId": "difan",
+      "focusedBookId": "skqs-difan",
       "focusedNum": 7,
       "fullBookId": "difan",
       "relation": "section"
     },
     {
-      "focusedBookId": "difan",
+      "focusedBookId": "skqs-difan",
       "focusedNum": 8,
       "fullBookId": "difan",
       "relation": "section"
     },
     {
-      "focusedBookId": "difan",
+      "focusedBookId": "skqs-difan",
       "focusedNum": 9,
       "fullBookId": "difan",
       "relation": "section"
     },
     {
-      "focusedBookId": "difan",
+      "focusedBookId": "skqs-difan",
       "focusedNum": 10,
       "fullBookId": "difan",
       "relation": "section"
     },
     {
-      "focusedBookId": "difan",
+      "focusedBookId": "skqs-difan",
       "focusedNum": 11,
       "fullBookId": "difan",
       "relation": "section"
     },
     {
-      "focusedBookId": "difan",
+      "focusedBookId": "skqs-difan",
       "focusedNum": 12,
       "fullBookId": "difan",
       "relation": "section"
     },
     {
-      "focusedBookId": "difan",
+      "focusedBookId": "skqs-difan",
       "focusedNum": 13,
       "fullBookId": "difan",
       "relation": "section"
     },
     {
-      "focusedBookId": "difan",
+      "focusedBookId": "skqs-difan",
       "focusedNum": 14,
       "fullBookId": "difan",
       "relation": "section"
     },
     {
-      "focusedBookId": "difan",
+      "focusedBookId": "skqs-difan",
       "focusedNum": 15,
       "fullBookId": "difan",
       "relation": "section"
     },
     {
-      "focusedBookId": "difan",
+      "focusedBookId": "skqs-difan",
       "focusedNum": 16,
       "fullBookId": "difan",
       "relation": "section"

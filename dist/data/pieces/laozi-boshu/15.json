@@ -9,16 +9,52 @@
   "genre": "prose",
   "verses": [
     {
-      "text": "古之善為道者 微眇玄達 深不可志 夫唯不可志 故強為之容 曰"
+      "text": "古之善為道者，"
     },
     {
-      "text": "與呵亓若冬涉水 猶呵亓若畏四鄰 儼呵亓若客 渙呵亓若淩澤 沌呵亓若樸 湷呵亓若濁 莊呵亓若浴"
+      "text": "微眇玄達，深不可志。"
     },
     {
-      "text": "濁而情之余清 安以重之余生"
+      "text": "夫唯不可志，故強為之容。"
     },
     {
-      "text": "葆此道不欲盈 夫唯不欲盈 是以能敝而不成"
+      "text": "曰："
+    },
+    {
+      "text": "與呵，亓若冬涉水。"
+    },
+    {
+      "text": "猶呵，亓若畏四鄰。"
+    },
+    {
+      "text": "儼呵，亓若客。"
+    },
+    {
+      "text": "渙呵，亓若淩澤。"
+    },
+    {
+      "text": "沌呵，亓若樸。"
+    },
+    {
+      "text": "湷呵，亓若濁。"
+    },
+    {
+      "text": "莊呵，亓若浴。"
+    },
+    {
+      "text": "濁而情之余清，"
+    },
+    {
+      "text": "安以重之余生。"
+    },
+    {
+      "text": "葆此道不欲盈。"
+    },
+    {
+      "text": "夫唯不欲盈，"
+    },
+    {
+      "text": "是以能敝而不成。"
     }
   ],
   "sections": {},
@@ -30,9 +66,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 30
+          "verseIndex": 2,
+          "start": 12,
+          "end": 12
         },
         "kind": "commentary",
         "text": "謂得道之君也。",
@@ -43,9 +79,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 30
+          "verseIndex": 2,
+          "start": 12,
+          "end": 12
         },
         "kind": "commentary",
         "text": "玄，天也。言其志節玄妙，精與天通也。",
@@ -56,9 +92,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 30
+          "verseIndex": 2,
+          "start": 12,
+          "end": 12
         },
         "kind": "commentary",
         "text": "道德深遠，不可識知，內視若盲，反聽若聾，莫知所長。",
@@ -69,9 +105,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 30
+          "verseIndex": 2,
+          "start": 12,
+          "end": 12
         },
         "kind": "commentary",
         "text": "謂下句也。",
@@ -82,9 +118,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 30
+          "verseIndex": 10,
+          "start": 7,
+          "end": 7
         },
         "kind": "commentary",
         "text": "舉事輒加重慎與。與兮若冬涉川，心難之也。",
@@ -95,9 +131,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 30
+          "verseIndex": 10,
+          "start": 7,
+          "end": 7
         },
         "kind": "commentary",
         "text": "其進退猶猶如拘制，若人犯法，畏四鄰知之也。",
@@ -108,9 +144,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 30
+          "verseIndex": 10,
+          "start": 7,
+          "end": 7
         },
         "kind": "commentary",
         "text": "如客畏主人，儼然無所造作也。",
@@ -121,9 +157,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 30
+          "verseIndex": 10,
+          "start": 7,
+          "end": 7
         },
         "kind": "commentary",
         "text": "渙者，解散。釋者，消亡。除情去欲，日以空虛。",
@@ -134,9 +170,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 30
+          "verseIndex": 10,
+          "start": 7,
+          "end": 7
         },
         "kind": "commentary",
         "text": "敦者，質厚。朴者，形未分。內守精神，外無文采也。",
@@ -147,9 +183,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 30
+          "verseIndex": 10,
+          "start": 7,
+          "end": 7
         },
         "kind": "commentary",
         "text": "曠者，寬大。谷者，空虛。不有德功名，無所不包也。",
@@ -160,9 +196,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 30
+          "verseIndex": 10,
+          "start": 7,
+          "end": 7
         },
         "kind": "commentary",
         "text": "渾者，守本真，濁者，不照然。與眾合同，不自專也。",
@@ -173,9 +209,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 30
+          "verseIndex": 12,
+          "start": 7,
+          "end": 7
         },
         "kind": "commentary",
         "text": "孰，誰也。誰能知水之濁止而靜之，徐徐自清也。",
@@ -186,9 +222,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 30
+          "verseIndex": 12,
+          "start": 7,
+          "end": 7
         },
         "kind": "commentary",
         "text": "誰能安靜以久，徐徐以長生也。",
@@ -199,9 +235,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 30
+          "verseIndex": 15,
+          "start": 8,
+          "end": 8
         },
         "kind": "commentary",
         "text": "保此徐生之道，不欲奢泰盈溢。",
@@ -212,9 +248,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 30
+          "verseIndex": 15,
+          "start": 8,
+          "end": 8
         },
         "kind": "commentary",
         "text": "夫為不盈滿之人，能守蔽不為新成。蔽者，匿光榮也。新成者，貴功名。",
@@ -227,9 +263,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 30
+          "verseIndex": 10,
+          "start": 7,
+          "end": 7
         },
         "kind": "commentary",
         "text": "冬之涉川，豫然若欲度、若不欲度，其情不可得見之貌也。",
@@ -240,9 +276,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 30
+          "verseIndex": 10,
+          "start": 7,
+          "end": 7
         },
         "kind": "commentary",
         "text": "四鄰合攻中央之主，猶然不知所趣向者也。上德之人，其端兆不可覩，德趣不可見，亦猶此也。",
@@ -253,9 +289,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 30
+          "verseIndex": 10,
+          "start": 7,
+          "end": 7
         },
         "kind": "commentary",
         "text": "凡此諸若，皆言其容象不可得而形名也。",
@@ -266,9 +302,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 30
+          "verseIndex": 12,
+          "start": 7,
+          "end": 7
         },
         "kind": "commentary",
         "text": "夫晦以理物則得明，濁以靜物則得清，安以動物則得生，此自然之道也。孰能者，言其難也。徐者，詳慎也。",
@@ -279,9 +315,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 30
+          "verseIndex": 15,
+          "start": 8,
+          "end": 8
         },
         "kind": "commentary",
         "text": "盈必溢也。",
@@ -292,9 +328,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 30
+          "verseIndex": 15,
+          "start": 8,
+          "end": 8
         },
         "kind": "commentary",
         "text": "蔽，覆蓋也。",
@@ -329,9 +365,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 30
+            "verseIndex": 2,
+            "start": 12,
+            "end": 12
           },
           "kind": "commentary",
           "text": "謂得道之君也。",
@@ -342,9 +378,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 30
+            "verseIndex": 2,
+            "start": 12,
+            "end": 12
           },
           "kind": "commentary",
           "text": "玄，天也。言其志節玄妙，精與天通也。",
@@ -355,9 +391,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 30
+            "verseIndex": 2,
+            "start": 12,
+            "end": 12
           },
           "kind": "commentary",
           "text": "道德深遠，不可識知，內視若盲，反聽若聾，莫知所長。",
@@ -368,9 +404,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 30
+            "verseIndex": 2,
+            "start": 12,
+            "end": 12
           },
           "kind": "commentary",
           "text": "謂下句也。",
@@ -381,9 +417,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 30
+            "verseIndex": 10,
+            "start": 7,
+            "end": 7
           },
           "kind": "commentary",
           "text": "舉事輒加重慎與。與兮若冬涉川，心難之也。",
@@ -394,9 +430,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 30
+            "verseIndex": 10,
+            "start": 7,
+            "end": 7
           },
           "kind": "commentary",
           "text": "其進退猶猶如拘制，若人犯法，畏四鄰知之也。",
@@ -407,9 +443,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 30
+            "verseIndex": 10,
+            "start": 7,
+            "end": 7
           },
           "kind": "commentary",
           "text": "如客畏主人，儼然無所造作也。",
@@ -420,9 +456,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 30
+            "verseIndex": 10,
+            "start": 7,
+            "end": 7
           },
           "kind": "commentary",
           "text": "渙者，解散。釋者，消亡。除情去欲，日以空虛。",
@@ -433,9 +469,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 30
+            "verseIndex": 10,
+            "start": 7,
+            "end": 7
           },
           "kind": "commentary",
           "text": "敦者，質厚。朴者，形未分。內守精神，外無文采也。",
@@ -446,9 +482,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 30
+            "verseIndex": 10,
+            "start": 7,
+            "end": 7
           },
           "kind": "commentary",
           "text": "曠者，寬大。谷者，空虛。不有德功名，無所不包也。",
@@ -459,9 +495,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 30
+            "verseIndex": 10,
+            "start": 7,
+            "end": 7
           },
           "kind": "commentary",
           "text": "渾者，守本真，濁者，不照然。與眾合同，不自專也。",
@@ -472,9 +508,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 30
+            "verseIndex": 12,
+            "start": 7,
+            "end": 7
           },
           "kind": "commentary",
           "text": "孰，誰也。誰能知水之濁止而靜之，徐徐自清也。",
@@ -485,9 +521,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 30
+            "verseIndex": 12,
+            "start": 7,
+            "end": 7
           },
           "kind": "commentary",
           "text": "誰能安靜以久，徐徐以長生也。",
@@ -498,9 +534,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 30
+            "verseIndex": 15,
+            "start": 8,
+            "end": 8
           },
           "kind": "commentary",
           "text": "保此徐生之道，不欲奢泰盈溢。",
@@ -511,9 +547,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 30
+            "verseIndex": 15,
+            "start": 8,
+            "end": 8
           },
           "kind": "commentary",
           "text": "夫為不盈滿之人，能守蔽不為新成。蔽者，匿光榮也。新成者，貴功名。",
@@ -536,9 +572,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 30
+            "verseIndex": 10,
+            "start": 7,
+            "end": 7
           },
           "kind": "commentary",
           "text": "冬之涉川，豫然若欲度、若不欲度，其情不可得見之貌也。",
@@ -549,9 +585,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 30
+            "verseIndex": 10,
+            "start": 7,
+            "end": 7
           },
           "kind": "commentary",
           "text": "四鄰合攻中央之主，猶然不知所趣向者也。上德之人，其端兆不可覩，德趣不可見，亦猶此也。",
@@ -562,9 +598,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 30
+            "verseIndex": 10,
+            "start": 7,
+            "end": 7
           },
           "kind": "commentary",
           "text": "凡此諸若，皆言其容象不可得而形名也。",
@@ -575,9 +611,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 30
+            "verseIndex": 12,
+            "start": 7,
+            "end": 7
           },
           "kind": "commentary",
           "text": "夫晦以理物則得明，濁以靜物則得清，安以動物則得生，此自然之道也。孰能者，言其難也。徐者，詳慎也。",
@@ -588,9 +624,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 30
+            "verseIndex": 15,
+            "start": 8,
+            "end": 8
           },
           "kind": "commentary",
           "text": "盈必溢也。",
@@ -601,9 +637,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 30
+            "verseIndex": 15,
+            "start": 8,
+            "end": 8
           },
           "kind": "commentary",
           "text": "蔽，覆蓋也。",

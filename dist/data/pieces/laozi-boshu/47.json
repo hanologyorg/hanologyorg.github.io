@@ -9,13 +9,25 @@
   "genre": "prose",
   "verses": [
     {
-      "text": "不出於戶 以知天下 不窺於牖 以知天道"
+      "text": "不出於戶，以知天下。"
     },
     {
-      "text": "其出也彌遠 其知彌少"
+      "text": "不窺於牖，以知天道。"
     },
     {
-      "text": "是以聖人不行而知 不見而名 弗為而成"
+      "text": "其出也彌遠，其知彌少。"
+    },
+    {
+      "text": "是以聖人："
+    },
+    {
+      "text": "不行而知。"
+    },
+    {
+      "text": "不見而名。"
+    },
+    {
+      "text": "弗為而成。"
     }
   ],
   "sections": {},
@@ -27,9 +39,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 19
+          "verseIndex": 1,
+          "start": 10,
+          "end": 10
         },
         "kind": "commentary",
         "text": "聖人不出戶以知天下者，以己身知人身，以己家知人家，所以見天下也。",
@@ -40,9 +52,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 19
+          "verseIndex": 1,
+          "start": 10,
+          "end": 10
         },
         "kind": "commentary",
         "text": "天道與人道同，天人相通，精氣相貫。人君清淨，天氣自正，人君多欲，天氣煩濁。吉兇利害，皆由於己。",
@@ -53,9 +65,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 1,
+          "verseIndex": 2,
           "start": 0,
-          "end": 10
+          "end": 11
         },
         "kind": "commentary",
         "text": "謂去其家觀人家，去其身觀人身，所觀益遠，所見益少也。",
@@ -80,8 +92,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 2,
-          "start": 9,
-          "end": 10
+          "start": 12,
+          "end": 13
         },
         "kind": "commentary",
         "text": "上好道，下好德；上好武，下好力。聖人原小知大，察內知外。",
@@ -92,9 +104,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
-          "start": 0,
-          "end": 18
+          "verseIndex": 6,
+          "start": 5,
+          "end": 5
         },
         "kind": "commentary",
         "text": "上無所為，則下無事，家給人足，萬物自化就也。",
@@ -107,9 +119,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 19
+          "verseIndex": 1,
+          "start": 10,
+          "end": 10
         },
         "kind": "commentary",
         "text": "事有宗，而物有主，途雖殊而同歸也，慮雖百而其致一也。道有大常，理有大致，執古之道，可以御今，雖處於今，可以知古始，故不出戶闚牖而可知也。",
@@ -120,9 +132,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 1,
+          "verseIndex": 2,
           "start": 0,
-          "end": 10
+          "end": 11
         },
         "kind": "commentary",
         "text": "無在於一，而求之於眾也，道視之不可見，聽之不可聞，搏之不可得，如其知之，不須出戶，若其不知，出愈遠愈迷也。",
@@ -146,9 +158,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
-          "start": 0,
-          "end": 18
+          "verseIndex": 6,
+          "start": 5,
+          "end": 5
         },
         "kind": "commentary",
         "text": "明物之性，因之而已。故雖不為而使之成矣。",
@@ -183,9 +195,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 19
+            "verseIndex": 1,
+            "start": 10,
+            "end": 10
           },
           "kind": "commentary",
           "text": "聖人不出戶以知天下者，以己身知人身，以己家知人家，所以見天下也。",
@@ -196,9 +208,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 19
+            "verseIndex": 1,
+            "start": 10,
+            "end": 10
           },
           "kind": "commentary",
           "text": "天道與人道同，天人相通，精氣相貫。人君清淨，天氣自正，人君多欲，天氣煩濁。吉兇利害，皆由於己。",
@@ -209,9 +221,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 1,
+            "verseIndex": 2,
             "start": 0,
-            "end": 10
+            "end": 11
           },
           "kind": "commentary",
           "text": "謂去其家觀人家，去其身觀人身，所觀益遠，所見益少也。",
@@ -236,8 +248,8 @@
             "type": "range",
             "scope": "verse",
             "verseIndex": 2,
-            "start": 9,
-            "end": 10
+            "start": 12,
+            "end": 13
           },
           "kind": "commentary",
           "text": "上好道，下好德；上好武，下好力。聖人原小知大，察內知外。",
@@ -248,9 +260,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 2,
-            "start": 0,
-            "end": 18
+            "verseIndex": 6,
+            "start": 5,
+            "end": 5
           },
           "kind": "commentary",
           "text": "上無所為，則下無事，家給人足，萬物自化就也。",
@@ -273,9 +285,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 19
+            "verseIndex": 1,
+            "start": 10,
+            "end": 10
           },
           "kind": "commentary",
           "text": "事有宗，而物有主，途雖殊而同歸也，慮雖百而其致一也。道有大常，理有大致，執古之道，可以御今，雖處於今，可以知古始，故不出戶闚牖而可知也。",
@@ -286,9 +298,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 1,
+            "verseIndex": 2,
             "start": 0,
-            "end": 10
+            "end": 11
           },
           "kind": "commentary",
           "text": "無在於一，而求之於眾也，道視之不可見，聽之不可聞，搏之不可得，如其知之，不須出戶，若其不知，出愈遠愈迷也。",
@@ -312,9 +324,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 2,
-            "start": 0,
-            "end": 18
+            "verseIndex": 6,
+            "start": 5,
+            "end": 5
           },
           "kind": "commentary",
           "text": "明物之性，因之而已。故雖不為而使之成矣。",

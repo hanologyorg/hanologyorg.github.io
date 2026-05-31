@@ -9,13 +9,55 @@
   "genre": "prose",
   "verses": [
     {
-      "text": "知者弗言 言者弗知"
+      "text": "知者弗言。"
     },
     {
-      "text": "塞亓兌 閉亓門 和亓光 同亓塵 挫亓銳 解亓紛 是謂玄同"
+      "text": "言者弗知。"
     },
     {
-      "text": "故不可得而親 亦不可得而疏 不可得而利 亦不可得而害 不可得而貴 亦不可得而賤 故為天下貴"
+      "text": "塞亓兌。"
+    },
+    {
+      "text": "閉亓門。"
+    },
+    {
+      "text": "和亓光。"
+    },
+    {
+      "text": "同亓塵。"
+    },
+    {
+      "text": "挫亓銳。"
+    },
+    {
+      "text": "解亓紛。"
+    },
+    {
+      "text": "是謂玄同。"
+    },
+    {
+      "text": "故："
+    },
+    {
+      "text": "不可得而親。"
+    },
+    {
+      "text": "亦不可得而疏。"
+    },
+    {
+      "text": "不可得而利。"
+    },
+    {
+      "text": "亦不可得而害。"
+    },
+    {
+      "text": "不可得而貴。"
+    },
+    {
+      "text": "亦不可得而賤。"
+    },
+    {
+      "text": "故為天下貴。"
     }
   ],
   "sections": {},
@@ -27,9 +69,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 9
+          "verseIndex": 1,
+          "start": 5,
+          "end": 5
         },
         "kind": "commentary",
         "text": "知者貴行不貴言也。",
@@ -40,9 +82,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 9
+          "verseIndex": 1,
+          "start": 5,
+          "end": 5
         },
         "kind": "commentary",
         "text": "駟不及舌，多言多患。",
@@ -67,8 +109,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 1,
-          "start": 16,
-          "end": 17
+          "start": 20,
+          "end": 21
         },
         "kind": "commentary",
         "text": "情欲有所銳為，當念道無為以挫止之。",
@@ -80,8 +122,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 1,
-          "start": 20,
-          "end": 21
+          "start": 25,
+          "end": 26
         },
         "kind": "commentary",
         "text": "紛，結恨不休也。當念道恬泊以解釋之。",
@@ -93,8 +135,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 1,
-          "start": 8,
-          "end": 9
+          "start": 10,
+          "end": 11
         },
         "kind": "commentary",
         "text": "雖有獨見之明，當和之使闇昧，不使曜亂。",
@@ -106,8 +148,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 1,
-          "start": 12,
-          "end": 13
+          "start": 15,
+          "end": 16
         },
         "kind": "commentary",
         "text": "不當自別殊也。",
@@ -119,8 +161,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 1,
-          "start": 24,
-          "end": 25
+          "start": 30,
+          "end": 31
         },
         "kind": "commentary",
         "text": "玄，天也。人能行此上事，是謂與天同道也。",
@@ -144,9 +186,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
-          "start": 0,
-          "end": 45
+          "verseIndex": 16,
+          "start": 6,
+          "end": 6
         },
         "kind": "commentary",
         "text": "志靜無欲，故與人無怨。",
@@ -158,8 +200,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 2,
-          "start": 14,
-          "end": 15
+          "start": 18,
+          "end": 19
         },
         "kind": "commentary",
         "text": "身不欲富貴，口不欲五味。",
@@ -171,8 +213,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 2,
-          "start": 20,
-          "end": 21
+          "start": 25,
+          "end": 26
         },
         "kind": "commentary",
         "text": "不與貪爭利，不與勇爭氣。",
@@ -184,8 +226,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 2,
-          "start": 27,
-          "end": 28
+          "start": 33,
+          "end": 34
         },
         "kind": "commentary",
         "text": "不為亂世主，不處暗君位。",
@@ -197,8 +239,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 2,
-          "start": 33,
-          "end": 34
+          "start": 40,
+          "end": 41
         },
         "kind": "commentary",
         "text": "不以乘權故驕，不以失志故屈。",
@@ -210,8 +252,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 2,
-          "start": 40,
-          "end": 41
+          "start": 48,
+          "end": 49
         },
         "kind": "commentary",
         "text": "其德如此，天子不得臣，諸侯不得屈，與世沉浮容身避害，故天下貴也。",
@@ -224,9 +266,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 9
+          "verseIndex": 1,
+          "start": 5,
+          "end": 5
         },
         "kind": "commentary",
         "text": "因自然也。",
@@ -237,9 +279,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 9
+          "verseIndex": 1,
+          "start": 5,
+          "end": 5
         },
         "kind": "commentary",
         "text": "造事端也。",
@@ -250,9 +292,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 9
+          "verseIndex": 8,
+          "start": 5,
+          "end": 5
         },
         "kind": "commentary",
         "text": "含守質也。",
@@ -263,9 +305,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 9
+          "verseIndex": 8,
+          "start": 5,
+          "end": 5
         },
         "kind": "commentary",
         "text": "除爭原也。",
@@ -277,8 +319,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 1,
-          "start": 8,
-          "end": 9
+          "start": 10,
+          "end": 11
         },
         "kind": "commentary",
         "text": "無所特顯，則物無所偏爭也。",
@@ -290,8 +332,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 1,
-          "start": 12,
-          "end": 13
+          "start": 15,
+          "end": 16
         },
         "kind": "commentary",
         "text": "無所特賤，則物無所偏恥也。",
@@ -302,9 +344,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 1,
-          "start": 0,
-          "end": 28
+          "verseIndex": 16,
+          "start": 6,
+          "end": 6
         },
         "kind": "commentary",
         "text": "可得而親，則可得而疏也。",
@@ -315,9 +357,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 1,
-          "start": 0,
-          "end": 28
+          "verseIndex": 16,
+          "start": 6,
+          "end": 6
         },
         "kind": "commentary",
         "text": "可得而利，則可德而害也。",
@@ -328,9 +370,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 1,
-          "start": 0,
-          "end": 28
+          "verseIndex": 16,
+          "start": 6,
+          "end": 6
         },
         "kind": "commentary",
         "text": "可得而貴，則可得而賤也。",
@@ -342,8 +384,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 2,
-          "start": 40,
-          "end": 41
+          "start": 48,
+          "end": 49
         },
         "kind": "commentary",
         "text": "無物可以加之也。",
@@ -378,9 +420,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 9
+            "verseIndex": 1,
+            "start": 5,
+            "end": 5
           },
           "kind": "commentary",
           "text": "知者貴行不貴言也。",
@@ -391,9 +433,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 9
+            "verseIndex": 1,
+            "start": 5,
+            "end": 5
           },
           "kind": "commentary",
           "text": "駟不及舌，多言多患。",
@@ -418,8 +460,8 @@
             "type": "range",
             "scope": "verse",
             "verseIndex": 1,
-            "start": 16,
-            "end": 17
+            "start": 20,
+            "end": 21
           },
           "kind": "commentary",
           "text": "情欲有所銳為，當念道無為以挫止之。",
@@ -431,8 +473,8 @@
             "type": "range",
             "scope": "verse",
             "verseIndex": 1,
-            "start": 20,
-            "end": 21
+            "start": 25,
+            "end": 26
           },
           "kind": "commentary",
           "text": "紛，結恨不休也。當念道恬泊以解釋之。",
@@ -444,8 +486,8 @@
             "type": "range",
             "scope": "verse",
             "verseIndex": 1,
-            "start": 8,
-            "end": 9
+            "start": 10,
+            "end": 11
           },
           "kind": "commentary",
           "text": "雖有獨見之明，當和之使闇昧，不使曜亂。",
@@ -457,8 +499,8 @@
             "type": "range",
             "scope": "verse",
             "verseIndex": 1,
-            "start": 12,
-            "end": 13
+            "start": 15,
+            "end": 16
           },
           "kind": "commentary",
           "text": "不當自別殊也。",
@@ -470,8 +512,8 @@
             "type": "range",
             "scope": "verse",
             "verseIndex": 1,
-            "start": 24,
-            "end": 25
+            "start": 30,
+            "end": 31
           },
           "kind": "commentary",
           "text": "玄，天也。人能行此上事，是謂與天同道也。",
@@ -495,9 +537,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 2,
-            "start": 0,
-            "end": 45
+            "verseIndex": 16,
+            "start": 6,
+            "end": 6
           },
           "kind": "commentary",
           "text": "志靜無欲，故與人無怨。",
@@ -509,8 +551,8 @@
             "type": "range",
             "scope": "verse",
             "verseIndex": 2,
-            "start": 14,
-            "end": 15
+            "start": 18,
+            "end": 19
           },
           "kind": "commentary",
           "text": "身不欲富貴，口不欲五味。",
@@ -522,8 +564,8 @@
             "type": "range",
             "scope": "verse",
             "verseIndex": 2,
-            "start": 20,
-            "end": 21
+            "start": 25,
+            "end": 26
           },
           "kind": "commentary",
           "text": "不與貪爭利，不與勇爭氣。",
@@ -535,8 +577,8 @@
             "type": "range",
             "scope": "verse",
             "verseIndex": 2,
-            "start": 27,
-            "end": 28
+            "start": 33,
+            "end": 34
           },
           "kind": "commentary",
           "text": "不為亂世主，不處暗君位。",
@@ -548,8 +590,8 @@
             "type": "range",
             "scope": "verse",
             "verseIndex": 2,
-            "start": 33,
-            "end": 34
+            "start": 40,
+            "end": 41
           },
           "kind": "commentary",
           "text": "不以乘權故驕，不以失志故屈。",
@@ -561,8 +603,8 @@
             "type": "range",
             "scope": "verse",
             "verseIndex": 2,
-            "start": 40,
-            "end": 41
+            "start": 48,
+            "end": 49
           },
           "kind": "commentary",
           "text": "其德如此，天子不得臣，諸侯不得屈，與世沉浮容身避害，故天下貴也。",
@@ -585,9 +627,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 9
+            "verseIndex": 1,
+            "start": 5,
+            "end": 5
           },
           "kind": "commentary",
           "text": "因自然也。",
@@ -598,9 +640,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 9
+            "verseIndex": 1,
+            "start": 5,
+            "end": 5
           },
           "kind": "commentary",
           "text": "造事端也。",
@@ -611,9 +653,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 9
+            "verseIndex": 8,
+            "start": 5,
+            "end": 5
           },
           "kind": "commentary",
           "text": "含守質也。",
@@ -624,9 +666,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 9
+            "verseIndex": 8,
+            "start": 5,
+            "end": 5
           },
           "kind": "commentary",
           "text": "除爭原也。",
@@ -638,8 +680,8 @@
             "type": "range",
             "scope": "verse",
             "verseIndex": 1,
-            "start": 8,
-            "end": 9
+            "start": 10,
+            "end": 11
           },
           "kind": "commentary",
           "text": "無所特顯，則物無所偏爭也。",
@@ -651,8 +693,8 @@
             "type": "range",
             "scope": "verse",
             "verseIndex": 1,
-            "start": 12,
-            "end": 13
+            "start": 15,
+            "end": 16
           },
           "kind": "commentary",
           "text": "無所特賤，則物無所偏恥也。",
@@ -663,9 +705,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 1,
-            "start": 0,
-            "end": 28
+            "verseIndex": 16,
+            "start": 6,
+            "end": 6
           },
           "kind": "commentary",
           "text": "可得而親，則可得而疏也。",
@@ -676,9 +718,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 1,
-            "start": 0,
-            "end": 28
+            "verseIndex": 16,
+            "start": 6,
+            "end": 6
           },
           "kind": "commentary",
           "text": "可得而利，則可德而害也。",
@@ -689,9 +731,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 1,
-            "start": 0,
-            "end": 28
+            "verseIndex": 16,
+            "start": 6,
+            "end": 6
           },
           "kind": "commentary",
           "text": "可得而貴，則可得而賤也。",
@@ -703,8 +745,8 @@
             "type": "range",
             "scope": "verse",
             "verseIndex": 2,
-            "start": 40,
-            "end": 41
+            "start": 48,
+            "end": 49
           },
           "kind": "commentary",
           "text": "無物可以加之也。",

@@ -4,15 +4,15 @@
     "title": "帝學",
     "subtitle": "四庫全書本",
     "genre": "prose",
-    "count": 21
+    "count": 20
   },
   "pieces": [
     {
       "bookId": "skqs-dixue",
       "num": 1,
       "title": "提要",
-      "author": "宋太宗",
-      "authorId": "宋太宗",
+      "author": "",
+      "authorId": "",
       "dynasty": "宋",
       "era": "宋",
       "genre": "prose",
@@ -103,7 +103,7 @@
           "id": "default",
           "label": "原文",
           "shortLabel": "文",
-          "contributor": "宋太宗",
+          "contributor": "",
           "role": "author",
           "nature": "annotation",
           "displayOrder": 0,
@@ -116,8 +116,8 @@
       "bookId": "skqs-dixue",
       "num": 2,
       "title": "帝學原序",
-      "author": "宋太宗",
-      "authorId": "宋太宗",
+      "author": "",
+      "authorId": "",
       "dynasty": "宋",
       "era": "宋",
       "genre": "prose",
@@ -139,8 +139,8 @@
       "bookId": "skqs-dixue",
       "num": 3,
       "title": "炎帝神農氏",
-      "author": "宋太宗",
-      "authorId": "宋太宗",
+      "author": "",
+      "authorId": "",
       "dynasty": "宋",
       "era": "宋",
       "genre": "prose",
@@ -156,8 +156,8 @@
       "bookId": "skqs-dixue",
       "num": 4,
       "title": "少昊金天氏",
-      "author": "宋太宗",
-      "authorId": "宋太宗",
+      "author": "",
+      "authorId": "",
       "dynasty": "宋",
       "era": "宋",
       "genre": "prose",
@@ -173,8 +173,8 @@
       "bookId": "skqs-dixue",
       "num": 5,
       "title": "帝嚳高辛氏",
-      "author": "宋太宗",
-      "authorId": "宋太宗",
+      "author": "",
+      "authorId": "",
       "dynasty": "宋",
       "era": "宋",
       "genre": "prose",
@@ -190,8 +190,8 @@
       "bookId": "skqs-dixue",
       "num": 6,
       "title": "帝舜有虞氏",
-      "author": "宋太宗",
-      "authorId": "宋太宗",
+      "author": "",
+      "authorId": "",
       "dynasty": "宋",
       "era": "宋",
       "genre": "prose",
@@ -207,8 +207,8 @@
       "bookId": "skqs-dixue",
       "num": 7,
       "title": "商王成湯",
-      "author": "宋太宗",
-      "authorId": "宋太宗",
+      "author": "",
+      "authorId": "",
       "dynasty": "宋",
       "era": "宋",
       "genre": "prose",
@@ -224,8 +224,8 @@
       "bookId": "skqs-dixue",
       "num": 8,
       "title": "周文王",
-      "author": "宋太宗",
-      "authorId": "宋太宗",
+      "author": "",
+      "authorId": "",
       "dynasty": "宋",
       "era": "宋",
       "genre": "prose",
@@ -241,8 +241,8 @@
       "bookId": "skqs-dixue",
       "num": 9,
       "title": "成王",
-      "author": "宋太宗",
-      "authorId": "宋太宗",
+      "author": "",
+      "authorId": "",
       "dynasty": "宋",
       "era": "宋",
       "genre": "prose",
@@ -252,21 +252,10 @@
         },
         {
           "text": "臣祖禹曰伏羲氏徳合天地通於神明始畫八卦以開物成務故孔子言易始於伏羲肇有書契以紀萬事而治道可傳於後至堯而大備故孔子序書始於堯其前豈無聖人哉盖其世逺不可以為法也揚雄曰法始乎伏羲而成乎堯匪伏匪堯禮義哨哨聖人不取也後世帝王之學本伏羲故臣以為帝學之首"
-        }
-      ],
-      "sections": {},
-      "annotations": []
-    },
-    {
-      "bookId": "skqs-dixue",
-      "num": 10,
-      "title": "炎帝神農氏師曰悉諸",
-      "author": "宋太宗",
-      "authorId": "宋太宗",
-      "dynasty": "宋",
-      "era": "宋",
-      "genre": "prose",
-      "verses": [
+        },
+        {
+          "text": "炎帝神農氏師曰悉諸"
+        },
         {
           "text": "黄帝有熊氏幼而徇齊長而敦敏成而聰明師曰大橈又學於大真伏羲神農黄帝之書謂之三墳"
         },
@@ -322,7 +311,7 @@
             "range": {
               "type": "range",
               "scope": "verse",
-              "verseIndex": 0,
+              "verseIndex": 3,
               "start": 0,
               "end": 12
             },
@@ -335,7 +324,7 @@
             "range": {
               "type": "range",
               "scope": "verse",
-              "verseIndex": 0,
+              "verseIndex": 3,
               "start": 12,
               "end": 24
             },
@@ -348,7 +337,7 @@
             "range": {
               "type": "range",
               "scope": "verse",
-              "verseIndex": 1,
+              "verseIndex": 4,
               "start": 0,
               "end": 17
             },
@@ -361,7 +350,7 @@
             "range": {
               "type": "range",
               "scope": "verse",
-              "verseIndex": 1,
+              "verseIndex": 4,
               "start": 17,
               "end": 23
             },
@@ -374,9 +363,9 @@
             "range": {
               "type": "range",
               "scope": "verse",
-              "verseIndex": 1,
-              "start": 23,
-              "end": 28
+              "verseIndex": 4,
+              "start": 17,
+              "end": 23
             },
             "kind": "semantic",
             "text": "伯趙伯勞也以夏至鳴冬至止",
@@ -387,9 +376,9 @@
             "range": {
               "type": "range",
               "scope": "verse",
-              "verseIndex": 1,
-              "start": 28,
-              "end": 33
+              "verseIndex": 4,
+              "start": 23,
+              "end": 28
             },
             "kind": "semantic",
             "text": "青鳥鶬鷃也以立春鳴立夏止",
@@ -400,9 +389,9 @@
             "range": {
               "type": "range",
               "scope": "verse",
-              "verseIndex": 1,
-              "start": 33,
-              "end": 38
+              "verseIndex": 4,
+              "start": 28,
+              "end": 33
             },
             "kind": "semantic",
             "text": "丹鳥鷩雉也以立秋來立冬去入大水為蜃上四鳥皆歴正之屬官",
@@ -413,9 +402,9 @@
             "range": {
               "type": "range",
               "scope": "verse",
-              "verseIndex": 1,
-              "start": 38,
-              "end": 43
+              "verseIndex": 4,
+              "start": 33,
+              "end": 38
             },
             "kind": "semantic",
             "text": "祝鳩鷦鳩也鷦鳩孝故為司徒主教氏",
@@ -426,9 +415,9 @@
             "range": {
               "type": "range",
               "scope": "verse",
-              "verseIndex": 1,
-              "start": 43,
-              "end": 48
+              "verseIndex": 4,
+              "start": 38,
+              "end": 43
             },
             "kind": "semantic",
             "text": "鴡鳩王鴡也摯而有别故為司馬主法制",
@@ -439,9 +428,9 @@
             "range": {
               "type": "range",
               "scope": "verse",
-              "verseIndex": 1,
-              "start": 48,
-              "end": 53
+              "verseIndex": 4,
+              "start": 43,
+              "end": 48
             },
             "kind": "semantic",
             "text": "鳲鳩鴶鵴也鳲鳩平均故為司空平水土",
@@ -452,9 +441,9 @@
             "range": {
               "type": "range",
               "scope": "verse",
-              "verseIndex": 1,
-              "start": 53,
-              "end": 58
+              "verseIndex": 4,
+              "start": 48,
+              "end": 53
             },
             "kind": "semantic",
             "text": "爽鳩鷹也鷙故為司寇主盜賊",
@@ -465,9 +454,9 @@
             "range": {
               "type": "range",
               "scope": "verse",
-              "verseIndex": 1,
-              "start": 58,
-              "end": 63
+              "verseIndex": 4,
+              "start": 53,
+              "end": 58
             },
             "kind": "semantic",
             "text": "鶻鳩鶻鵃也春來冬去故為司事",
@@ -478,7 +467,7 @@
             "range": {
               "type": "range",
               "scope": "verse",
-              "verseIndex": 1,
+              "verseIndex": 4,
               "start": 63,
               "end": 69
             },
@@ -491,7 +480,7 @@
             "range": {
               "type": "range",
               "scope": "verse",
-              "verseIndex": 1,
+              "verseIndex": 4,
               "start": 69,
               "end": 75
             },
@@ -504,7 +493,7 @@
             "range": {
               "type": "range",
               "scope": "verse",
-              "verseIndex": 1,
+              "verseIndex": 4,
               "start": 75,
               "end": 85
             },
@@ -517,7 +506,7 @@
             "range": {
               "type": "range",
               "scope": "verse",
-              "verseIndex": 1,
+              "verseIndex": 4,
               "start": 85,
               "end": 91
             },
@@ -530,7 +519,7 @@
             "range": {
               "type": "range",
               "scope": "verse",
-              "verseIndex": 1,
+              "verseIndex": 4,
               "start": 91,
               "end": 97
             },
@@ -543,7 +532,7 @@
             "range": {
               "type": "range",
               "scope": "verse",
-              "verseIndex": 1,
+              "verseIndex": 4,
               "start": 97,
               "end": 117
             },
@@ -556,7 +545,7 @@
             "range": {
               "type": "range",
               "scope": "verse",
-              "verseIndex": 1,
+              "verseIndex": 4,
               "start": 117,
               "end": 122
             },
@@ -569,7 +558,7 @@
             "range": {
               "type": "range",
               "scope": "verse",
-              "verseIndex": 1,
+              "verseIndex": 4,
               "start": 122,
               "end": 126
             },
@@ -582,7 +571,7 @@
             "range": {
               "type": "range",
               "scope": "verse",
-              "verseIndex": 1,
+              "verseIndex": 4,
               "start": 126,
               "end": 133
             },
@@ -595,7 +584,7 @@
             "range": {
               "type": "range",
               "scope": "verse",
-              "verseIndex": 1,
+              "verseIndex": 4,
               "start": 133,
               "end": 138
             },
@@ -608,7 +597,7 @@
             "range": {
               "type": "range",
               "scope": "verse",
-              "verseIndex": 8,
+              "verseIndex": 11,
               "start": 0,
               "end": 150
             },
@@ -621,7 +610,7 @@
             "range": {
               "type": "range",
               "scope": "verse",
-              "verseIndex": 8,
+              "verseIndex": 11,
               "start": 150,
               "end": 157
             },
@@ -634,7 +623,7 @@
             "range": {
               "type": "range",
               "scope": "verse",
-              "verseIndex": 8,
+              "verseIndex": 11,
               "start": 157,
               "end": 161
             },
@@ -647,7 +636,7 @@
             "range": {
               "type": "range",
               "scope": "verse",
-              "verseIndex": 10,
+              "verseIndex": 13,
               "start": 0,
               "end": 24
             },
@@ -660,7 +649,7 @@
             "range": {
               "type": "range",
               "scope": "verse",
-              "verseIndex": 11,
+              "verseIndex": 14,
               "start": 0,
               "end": 24
             },
@@ -673,7 +662,7 @@
             "range": {
               "type": "range",
               "scope": "verse",
-              "verseIndex": 11,
+              "verseIndex": 14,
               "start": 24,
               "end": 68
             },
@@ -686,7 +675,7 @@
             "range": {
               "type": "range",
               "scope": "verse",
-              "verseIndex": 11,
+              "verseIndex": 14,
               "start": 68,
               "end": 79
             },
@@ -699,7 +688,7 @@
             "range": {
               "type": "range",
               "scope": "verse",
-              "verseIndex": 11,
+              "verseIndex": 14,
               "start": 79,
               "end": 89
             },
@@ -712,7 +701,7 @@
             "range": {
               "type": "range",
               "scope": "verse",
-              "verseIndex": 11,
+              "verseIndex": 14,
               "start": 89,
               "end": 105
             },
@@ -725,7 +714,7 @@
             "range": {
               "type": "range",
               "scope": "verse",
-              "verseIndex": 11,
+              "verseIndex": 14,
               "start": 105,
               "end": 123
             },
@@ -738,7 +727,7 @@
             "range": {
               "type": "range",
               "scope": "verse",
-              "verseIndex": 11,
+              "verseIndex": 14,
               "start": 123,
               "end": 133
             },
@@ -751,7 +740,7 @@
             "range": {
               "type": "range",
               "scope": "verse",
-              "verseIndex": 11,
+              "verseIndex": 14,
               "start": 133,
               "end": 159
             },
@@ -764,7 +753,7 @@
             "range": {
               "type": "range",
               "scope": "verse",
-              "verseIndex": 11,
+              "verseIndex": 14,
               "start": 159,
               "end": 167
             },
@@ -777,7 +766,7 @@
             "range": {
               "type": "range",
               "scope": "verse",
-              "verseIndex": 11,
+              "verseIndex": 14,
               "start": 167,
               "end": 223
             },
@@ -790,7 +779,7 @@
             "range": {
               "type": "range",
               "scope": "verse",
-              "verseIndex": 12,
+              "verseIndex": 15,
               "start": 0,
               "end": 97
             },
@@ -803,7 +792,7 @@
             "range": {
               "type": "range",
               "scope": "verse",
-              "verseIndex": 12,
+              "verseIndex": 15,
               "start": 97,
               "end": 102
             },
@@ -816,7 +805,7 @@
             "range": {
               "type": "range",
               "scope": "verse",
-              "verseIndex": 12,
+              "verseIndex": 15,
               "start": 102,
               "end": 107
             },
@@ -831,7 +820,7 @@
           "id": "default",
           "label": "原文",
           "shortLabel": "文",
-          "contributor": "宋太宗",
+          "contributor": "",
           "role": "author",
           "nature": "annotation",
           "displayOrder": 0,
@@ -842,10 +831,10 @@
     },
     {
       "bookId": "skqs-dixue",
-      "num": 11,
+      "num": 10,
       "title": "太宗孝文皇帝",
-      "author": "宋太宗",
-      "authorId": "宋太宗",
+      "author": "",
+      "authorId": "",
       "dynasty": "宋",
       "era": "宋",
       "genre": "prose",
@@ -859,10 +848,10 @@
     },
     {
       "bookId": "skqs-dixue",
-      "num": 12,
+      "num": 11,
       "title": "孝昭皇帝",
-      "author": "宋太宗",
-      "authorId": "宋太宗",
+      "author": "",
+      "authorId": "",
       "dynasty": "宋",
       "era": "宋",
       "genre": "prose",
@@ -876,10 +865,10 @@
     },
     {
       "bookId": "skqs-dixue",
-      "num": 13,
+      "num": 12,
       "title": "世祖光武皇帝",
-      "author": "宋太宗",
-      "authorId": "宋太宗",
+      "author": "",
+      "authorId": "",
       "dynasty": "宋",
       "era": "宋",
       "genre": "prose",
@@ -893,10 +882,10 @@
     },
     {
       "bookId": "skqs-dixue",
-      "num": 14,
+      "num": 13,
       "title": "肅宗孝章皇帝",
-      "author": "宋太宗",
-      "authorId": "宋太宗",
+      "author": "",
+      "authorId": "",
       "dynasty": "宋",
       "era": "宋",
       "genre": "prose",
@@ -910,10 +899,10 @@
     },
     {
       "bookId": "skqs-dixue",
-      "num": 15,
+      "num": 14,
       "title": "唐太宗文武大聖大廣孝皇帝",
-      "author": "宋太宗",
-      "authorId": "宋太宗",
+      "author": "",
+      "authorId": "",
       "dynasty": "宋",
       "era": "宋",
       "genre": "prose",
@@ -1076,7 +1065,7 @@
           "id": "default",
           "label": "原文",
           "shortLabel": "文",
-          "contributor": "宋太宗",
+          "contributor": "",
           "role": "author",
           "nature": "annotation",
           "displayOrder": 0,
@@ -1087,14 +1076,38 @@
     },
     {
       "bookId": "skqs-dixue",
-      "num": 16,
-      "title": "四年四月丁亥幸國子監",
-      "author": "宋太宗",
-      "authorId": "宋太宗",
+      "num": 15,
+      "title": "卷三",
+      "author": "",
+      "authorId": "",
       "dynasty": "宋",
       "era": "宋",
       "genre": "prose",
       "verses": [
+        {
+          "text": "欽定四庫全書"
+        },
+        {
+          "text": "帝學卷三　　　　　　　宋　范祖禹　撰大宋太祖啓運立極英武睿文神德聖功至明大孝皇帝"
+        },
+        {
+          "text": "太宗至仁應道神功聖德文武睿烈大明廣孝皇帝"
+        },
+        {
+          "text": "眞宗膺符稽古成功讓德文明武定章聖元孝皇帝"
+        },
+        {
+          "text": "太祖啓運立極英武睿文神德聖功至明大孝皇帝建隆元年正月幸國子監二月又幸詔加餙祠宇及塑繪先聖先賢先儒之象帝親製文宣王兖公二賛"
+        },
+        {
+          "text": "臣祖禹曰昔武王克商未及下車而褒先聖之後封賢臣之墓表商容之閭釋箕子之囚是以天下悦服傳世三十厯祀八百蓋由此也太祖皇帝承五代之季受天眷命皇業初基日不暇給而即位之月首幸國學謁欵先聖次月又幸尊師重道如恐不及儒學復振寔自此始所以啓佑後嗣立太平之基也與武王未及下車之政何以異哉"
+        },
+        {
+          "text": "三年六月以右諫議大夫崔頌判國子監始叙生徒講學帝遣中使以酒果賜之因謂侍臣曰今之武臣欲盡令讀書貴知爲治之道帝召宗正丞趙孚對後殿令講周易謂左右曰孚所說精博亦可賞也"
+        },
+        {
+          "text": "四年四月丁亥幸國子監"
+        },
         {
           "text": "開寳元年知制誥李穆薦王昭素召見便殿昭素開封酸棗人通九經尤精詩易時年七十七精爽不衰帝問何不求仕進致相見之晩對曰臣草野惷愚無以禆聖化賜坐令講易乾卦召宰臣薛居正等觀之至飛龍在天帝曰此書豈可令常人見昭素對曰此書非聖人出不能合其象因訪以民間事昭素所言誠實無隠帝嘉之尋以衰老辭求歸鄉里拜國子博士致仕留月餘遣之"
         },
@@ -1167,10 +1180,10 @@
     },
     {
       "bookId": "skqs-dixue",
-      "num": 17,
+      "num": 16,
       "title": "帝學卷四",
-      "author": "宋太宗",
-      "authorId": "宋太宗",
+      "author": "",
+      "authorId": "",
       "dynasty": "宋",
       "era": "宋",
       "genre": "prose",
@@ -1184,10 +1197,10 @@
     },
     {
       "bookId": "skqs-dixue",
-      "num": 18,
-      "title": "帝範序",
-      "author": "宋太宗",
-      "authorId": "宋太宗",
+      "num": 17,
+      "title": "卷五",
+      "author": "",
+      "authorId": "",
       "dynasty": "宋",
       "era": "宋",
       "genre": "prose",
@@ -1232,7 +1245,7 @@
           "id": "default",
           "label": "原文",
           "shortLabel": "文",
-          "contributor": "宋太宗",
+          "contributor": "",
           "role": "author",
           "nature": "annotation",
           "displayOrder": 0,
@@ -1243,10 +1256,10 @@
     },
     {
       "bookId": "skqs-dixue",
-      "num": 19,
-      "title": "帝範序",
-      "author": "宋太宗",
-      "authorId": "宋太宗",
+      "num": 18,
+      "title": "卷六",
+      "author": "",
+      "authorId": "",
       "dynasty": "宋",
       "era": "宋",
       "genre": "prose",
@@ -1287,10 +1300,10 @@
     },
     {
       "bookId": "skqs-dixue",
-      "num": 20,
-      "title": "帝範序",
-      "author": "宋太宗",
-      "authorId": "宋太宗",
+      "num": 19,
+      "title": "卷七",
+      "author": "",
+      "authorId": "",
       "dynasty": "宋",
       "era": "宋",
       "genre": "prose",
@@ -1328,10 +1341,10 @@
     },
     {
       "bookId": "skqs-dixue",
-      "num": 21,
-      "title": "帝範序",
-      "author": "宋太宗",
-      "authorId": "宋太宗",
+      "num": 20,
+      "title": "卷八",
+      "author": "",
+      "authorId": "",
       "dynasty": "宋",
       "era": "宋",
       "genre": "prose",

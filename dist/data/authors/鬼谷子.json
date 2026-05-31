@@ -3,7 +3,7 @@
   "name": "鬼谷子",
   "era": "周",
   "eraCode": "",
-  "workCount": 1,
+  "workCount": 0,
   "names": [],
   "bio": "",
   "bioSource": "",
@@ -11,7 +11,5 @@
   "wikidata": "Q705744",
   "wikipediaZh": "https://zh.wikipedia.org/wiki/%E9%AC%BC%E8%B0%B7%E5%AD%90",
   "wikipediaEn": "https://en.wikipedia.org/wiki/Guiguzi",
-  "works": [
-    "skqs-guiguzi/1"
-  ]
+  "works": []
 }

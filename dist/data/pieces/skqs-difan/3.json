@@ -2,11 +2,10 @@
   "bookId": "skqs-difan",
   "num": 3,
   "title": "君體第一",
-  "author": "李世民",
-  "authorId": "唐太宗",
-  "dynasty": "唐",
-  "era": "唐",
-  "eraCode": "24",
+  "author": "",
+  "authorId": "",
+  "dynasty": "",
+  "era": "",
   "genre": "prose",
   "verses": [
     {
@@ -25,9 +24,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 0
+          "verseIndex": 1,
+          "start": 42,
+          "end": 48
         },
         "kind": "collation",
         "text": "君白虎通曰君者羣也羣下所歸心又苟卿曰君者儀也民者影也儀正則影正君者盤也民者水也盤圓則水圓君者源也源清則流清源濁則流濁左傳云慶賞刑威曰君體者治體也君之所治體勢規模第者次第也一者數之始也萬物得一以生老子曰聖人抱一為天下式故君體為第一也○按荀子無民者影也民者水也二語又君者源也作君者人之源也",
@@ -65,8 +64,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 1,
-          "start": 9,
-          "end": 14
+          "start": 4,
+          "end": 9
         },
         "kind": "semantic",
         "text": "國者域也域者居也人民所聚居欲為君者能以徳和民民人樂為之用乃可以為國苟不以徳和民人民離散而不附雖欲為君得乎故聖人云得衆則得國失衆則失國所以國者君之本也",
@@ -104,8 +103,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 1,
-          "start": 27,
-          "end": 36
+          "start": 16,
+          "end": 27
         },
         "kind": "semantic",
         "text": "易曰日月之道貞明者也言若日月正一自然之明晝夜更迭不息於至髙至極之上普徧照燭在下之萬物自然貞一無私向者唯日月焉人君照臨萬方之衆務故取法日月貞明之象耳貞正也",
@@ -221,8 +220,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 1,
-          "start": 88,
-          "end": 92
+          "start": 83,
+          "end": 88
         },
         "kind": "fanqie",
         "text": "尚書太甲曰奉先思孝以念祖徳為孝先祖先也中庸曰善繼人之志善述人之事者也　奉父勇切",
@@ -274,7 +273,7 @@
       "id": "default",
       "label": "原文",
       "shortLabel": "文",
-      "contributor": "唐太宗",
+      "contributor": "",
       "role": "author",
       "nature": "annotation",
       "displayOrder": 0,

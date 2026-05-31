@@ -9,13 +9,19 @@
   "genre": "prose",
   "verses": [
     {
-      "text": "天地不仁 以萬物為芻狗 聖人不仁 以百姓為芻狗"
+      "text": "天地不仁，以萬物為芻狗。"
     },
     {
-      "text": "天地之間 亓猶橐籥與 虛而不淈 動而俞出"
+      "text": "聖人不仁，以百姓為芻狗。"
     },
     {
-      "text": "多聞數窮 不若守於中"
+      "text": "天地之間，亓猶橐籥與。"
+    },
+    {
+      "text": "虛而不淈，動而俞出。"
+    },
+    {
+      "text": "多聞數窮，不若守於中。"
     }
   ],
   "sections": {},
@@ -41,8 +47,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 0,
-          "start": 12,
-          "end": 13
+          "start": 13,
+          "end": 14
         },
         "kind": "commentary",
         "text": "聖人愛養萬民，不以仁恩，法天地行自然。",
@@ -54,8 +60,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 0,
-          "start": 17,
-          "end": 18
+          "start": 18,
+          "end": 19
         },
         "kind": "commentary",
         "text": "聖人視百姓如芻草狗畜，不貴望其禮意。",
@@ -92,9 +98,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 1,
-          "start": 0,
-          "end": 20
+          "verseIndex": 3,
+          "start": 10,
+          "end": 10
         },
         "kind": "commentary",
         "text": "言空虛無有屈竭時，動搖之，益出聲氣也。",
@@ -105,9 +111,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 1,
+          "verseIndex": 4,
           "start": 0,
-          "end": 20
+          "end": 11
         },
         "kind": "commentary",
         "text": "多事害神，多言害身，口開舌舉，必有禍患。",
@@ -118,9 +124,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
+          "verseIndex": 4,
           "start": 0,
-          "end": 10
+          "end": 11
         },
         "kind": "commentary",
         "text": "不如守德於中，育養精神，愛氣希言。",
@@ -134,8 +140,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 0,
-          "start": 12,
-          "end": 13
+          "start": 13,
+          "end": 14
         },
         "kind": "commentary",
         "text": "聖人與天地合其德，以百姓比芻狗也。",
@@ -146,9 +152,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 23
+          "verseIndex": 3,
+          "start": 10,
+          "end": 10
         },
         "kind": "commentary",
         "text": "橐，排橐也。籥，樂籥也。橐籥之中空洞，無情無為，故虛而不得窮屈，動而不可竭盡也。天地之中，蕩然任自然，故不可得而窮，猶若橐籥也。",
@@ -159,9 +165,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 1,
+          "verseIndex": 4,
           "start": 0,
-          "end": 20
+          "end": 11
         },
         "kind": "commentary",
         "text": "愈為之則愈失之矣。物樹其惡，事錯其言，不慧不濟，不言不理，必窮之數也。橐籥而守數中，則無窮盡，棄己任物，則莫不理。若橐籥有意於為聲也，則不足以共吹者之求也。",
@@ -210,8 +216,8 @@
             "type": "range",
             "scope": "verse",
             "verseIndex": 0,
-            "start": 12,
-            "end": 13
+            "start": 13,
+            "end": 14
           },
           "kind": "commentary",
           "text": "聖人愛養萬民，不以仁恩，法天地行自然。",
@@ -223,8 +229,8 @@
             "type": "range",
             "scope": "verse",
             "verseIndex": 0,
-            "start": 17,
-            "end": 18
+            "start": 18,
+            "end": 19
           },
           "kind": "commentary",
           "text": "聖人視百姓如芻草狗畜，不貴望其禮意。",
@@ -261,9 +267,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 1,
-            "start": 0,
-            "end": 20
+            "verseIndex": 3,
+            "start": 10,
+            "end": 10
           },
           "kind": "commentary",
           "text": "言空虛無有屈竭時，動搖之，益出聲氣也。",
@@ -274,9 +280,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 1,
+            "verseIndex": 4,
             "start": 0,
-            "end": 20
+            "end": 11
           },
           "kind": "commentary",
           "text": "多事害神，多言害身，口開舌舉，必有禍患。",
@@ -287,9 +293,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 2,
+            "verseIndex": 4,
             "start": 0,
-            "end": 10
+            "end": 11
           },
           "kind": "commentary",
           "text": "不如守德於中，育養精神，愛氣希言。",
@@ -313,8 +319,8 @@
             "type": "range",
             "scope": "verse",
             "verseIndex": 0,
-            "start": 12,
-            "end": 13
+            "start": 13,
+            "end": 14
           },
           "kind": "commentary",
           "text": "聖人與天地合其德，以百姓比芻狗也。",
@@ -325,9 +331,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 23
+            "verseIndex": 3,
+            "start": 10,
+            "end": 10
           },
           "kind": "commentary",
           "text": "橐，排橐也。籥，樂籥也。橐籥之中空洞，無情無為，故虛而不得窮屈，動而不可竭盡也。天地之中，蕩然任自然，故不可得而窮，猶若橐籥也。",
@@ -338,9 +344,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 1,
+            "verseIndex": 4,
             "start": 0,
-            "end": 20
+            "end": 11
           },
           "kind": "commentary",
           "text": "愈為之則愈失之矣。物樹其惡，事錯其言，不慧不濟，不言不理，必窮之數也。橐籥而守數中，則無窮盡，棄己任物，則莫不理。若橐籥有意於為聲也，則不足以共吹者之求也。",

@@ -9,13 +9,19 @@
   "genre": "prose",
   "verses": [
     {
-      "text": "道沖 而用之有弗盈也 潚呵 始萬物之宗"
+      "text": "道沖而用之，有弗盈也。"
     },
     {
-      "text": "銼亓兌 解亓紛 和亓光 同亓塵"
+      "text": "潚呵，始萬物之宗。"
     },
     {
-      "text": "湛呵 似或存 吾不知誰子也 象帝之先"
+      "text": "銼亓兌，解亓紛，和亓光，同亓塵。"
+    },
+    {
+      "text": "湛呵，似或存。"
+    },
+    {
+      "text": "吾不知誰子也。象帝之先。"
     }
   ],
   "sections": {},
@@ -27,9 +33,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 19
+          "verseIndex": 1,
+          "start": 9,
+          "end": 9
         },
         "kind": "commentary",
         "text": "或，常也。道常謙虛不盈滿。",
@@ -40,9 +46,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 19
+          "verseIndex": 1,
+          "start": 9,
+          "end": 9
         },
         "kind": "commentary",
         "text": "道淵深不可知，似為萬物之宗祖。",
@@ -53,9 +59,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
+          "verseIndex": 2,
           "start": 0,
-          "end": 19
+          "end": 16
         },
         "kind": "commentary",
         "text": "銳，進也。人欲銳精進取功名，當挫止之，法道不自見也。",
@@ -105,9 +111,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 1,
-          "start": 0,
-          "end": 15
+          "verseIndex": 4,
+          "start": 12,
+          "end": 12
         },
         "kind": "commentary",
         "text": "言當湛然安靜，故能長存不亡。",
@@ -118,9 +124,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 1,
-          "start": 0,
-          "end": 15
+          "verseIndex": 4,
+          "start": 12,
+          "end": 12
         },
         "kind": "commentary",
         "text": "老子言：我不知，道所從生。",
@@ -132,8 +138,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 2,
-          "start": 14,
-          "end": 15
+          "start": 15,
+          "end": 16
         },
         "kind": "commentary",
         "text": "道自在天帝之前，此言道乃先天地之生也。至今在者，以能安靜湛然，不勞煩，欲使人修身法道。",
@@ -146,9 +152,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 19
+          "verseIndex": 1,
+          "start": 9,
+          "end": 9
         },
         "kind": "commentary",
         "text": "夫執一家之量者，不能全家。執一國之量者，不能成國。窮力舉重，不能為用，故人雖知，萬物治也，治而不以二儀之道，則不能贍也。地雖形魄，不法於天則不能全其寧。天雖精象，不法於道則不能保其精。沖而用之，用乃不能窮，滿以造實，實來則溢，故沖而用之，又復不盈，其為無窮亦已極矣。形雖大，不能累其體，事雖殷，不能充其量，萬物舍此而求主，主其安在乎。不亦淵兮似萬物之宗乎。銳挫而無損，紛解而不勞，和光而不汙，其體同塵而不渝其真，不亦湛兮似或存乎。地守其形，德不能過其載，天慊其象，德不能過其覆，天地莫能及之，不亦似帝之先乎。帝，天帝也。",
@@ -183,9 +189,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 19
+            "verseIndex": 1,
+            "start": 9,
+            "end": 9
           },
           "kind": "commentary",
           "text": "或，常也。道常謙虛不盈滿。",
@@ -196,9 +202,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 19
+            "verseIndex": 1,
+            "start": 9,
+            "end": 9
           },
           "kind": "commentary",
           "text": "道淵深不可知，似為萬物之宗祖。",
@@ -209,9 +215,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
+            "verseIndex": 2,
             "start": 0,
-            "end": 19
+            "end": 16
           },
           "kind": "commentary",
           "text": "銳，進也。人欲銳精進取功名，當挫止之，法道不自見也。",
@@ -261,9 +267,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 1,
-            "start": 0,
-            "end": 15
+            "verseIndex": 4,
+            "start": 12,
+            "end": 12
           },
           "kind": "commentary",
           "text": "言當湛然安靜，故能長存不亡。",
@@ -274,9 +280,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 1,
-            "start": 0,
-            "end": 15
+            "verseIndex": 4,
+            "start": 12,
+            "end": 12
           },
           "kind": "commentary",
           "text": "老子言：我不知，道所從生。",
@@ -288,8 +294,8 @@
             "type": "range",
             "scope": "verse",
             "verseIndex": 2,
-            "start": 14,
-            "end": 15
+            "start": 15,
+            "end": 16
           },
           "kind": "commentary",
           "text": "道自在天帝之前，此言道乃先天地之生也。至今在者，以能安靜湛然，不勞煩，欲使人修身法道。",
@@ -312,9 +318,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 19
+            "verseIndex": 1,
+            "start": 9,
+            "end": 9
           },
           "kind": "commentary",
           "text": "夫執一家之量者，不能全家。執一國之量者，不能成國。窮力舉重，不能為用，故人雖知，萬物治也，治而不以二儀之道，則不能贍也。地雖形魄，不法於天則不能全其寧。天雖精象，不法於道則不能保其精。沖而用之，用乃不能窮，滿以造實，實來則溢，故沖而用之，又復不盈，其為無窮亦已極矣。形雖大，不能累其體，事雖殷，不能充其量，萬物舍此而求主，主其安在乎。不亦淵兮似萬物之宗乎。銳挫而無損，紛解而不勞，和光而不汙，其體同塵而不渝其真，不亦湛兮似或存乎。地守其形，德不能過其載，天慊其象，德不能過其覆，天地莫能及之，不亦似帝之先乎。帝，天帝也。",

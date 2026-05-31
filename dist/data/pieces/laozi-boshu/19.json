@@ -9,19 +9,19 @@
   "genre": "prose",
   "verses": [
     {
-      "text": "絕知棄辯 民利百倍"
+      "text": "絕知棄辯，民利百倍。"
     },
     {
-      "text": "絕僞棄慮 民復孝茲"
+      "text": "絕僞棄慮，民復孝茲。"
     },
     {
-      "text": "絕巧棄利 盜賊无有"
+      "text": "絕巧棄利，盜賊无有。"
     },
     {
-      "text": "此三言也 以為文未足 故令之有所屬"
+      "text": "此三言也，以為文未足，故令之有所屬。"
     },
     {
-      "text": "見素抱樸 少私寡欲 絕學无憂"
+      "text": "見素抱樸，少私寡欲，絕學无憂。"
     }
   ],
   "sections": {},
@@ -35,7 +35,7 @@
           "scope": "verse",
           "verseIndex": 0,
           "start": 0,
-          "end": 9
+          "end": 10
         },
         "kind": "commentary",
         "text": "絕聖制作，反初守元。五帝垂象，倉頡作書，不如三皇結繩無文。",
@@ -48,7 +48,7 @@
           "scope": "verse",
           "verseIndex": 0,
           "start": 0,
-          "end": 9
+          "end": 10
         },
         "kind": "commentary",
         "text": "棄智慧，反無為。",
@@ -72,9 +72,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
+          "verseIndex": 1,
           "start": 0,
-          "end": 9
+          "end": 10
         },
         "kind": "commentary",
         "text": "絕仁之見恩惠，棄義之尚華言。",
@@ -87,7 +87,7 @@
           "scope": "verse",
           "verseIndex": 1,
           "start": 0,
-          "end": 9
+          "end": 10
         },
         "kind": "commentary",
         "text": "德化淳也。",
@@ -124,9 +124,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
+          "verseIndex": 3,
           "start": 0,
-          "end": 9
+          "end": 18
         },
         "kind": "commentary",
         "text": "謂上三事所棄絕也。",
@@ -139,7 +139,7 @@
           "scope": "verse",
           "verseIndex": 3,
           "start": 0,
-          "end": 17
+          "end": 18
         },
         "kind": "commentary",
         "text": "以為文不足者，文不足以教民。",
@@ -152,7 +152,7 @@
           "scope": "verse",
           "verseIndex": 3,
           "start": 0,
-          "end": 17
+          "end": 18
         },
         "kind": "commentary",
         "text": "當如下句。",
@@ -183,6 +183,32 @@
         "kind": "commentary",
         "text": "少私者，正無私也。寡欲者，當知足也。",
         "source": "cham"
+      },
+      {
+        "id": "heshanggong-13",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 4,
+          "start": 0,
+          "end": 15
+        },
+        "kind": "commentary",
+        "text": "絕學不真，不合道文。",
+        "source": "cham"
+      },
+      {
+        "id": "heshanggong-14",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 4,
+          "start": 0,
+          "end": 15
+        },
+        "kind": "commentary",
+        "text": "除浮華則無憂患也。",
+        "source": "cham"
       }
     ],
     "wangbi": [
@@ -193,7 +219,7 @@
           "scope": "verse",
           "verseIndex": 0,
           "start": 0,
-          "end": 9
+          "end": 10
         },
         "kind": "commentary",
         "text": "聖智，才之善也。仁義，人之善也。巧利，用之善也。而直云絕，文甚不足，不令之有所屬，無以見其指，故曰，此三者以為文而未足，故令人有所屬，屬之於素樸寡欲。",
@@ -230,7 +256,7 @@
             "scope": "verse",
             "verseIndex": 0,
             "start": 0,
-            "end": 9
+            "end": 10
           },
           "kind": "commentary",
           "text": "絕聖制作，反初守元。五帝垂象，倉頡作書，不如三皇結繩無文。",
@@ -243,7 +269,7 @@
             "scope": "verse",
             "verseIndex": 0,
             "start": 0,
-            "end": 9
+            "end": 10
           },
           "kind": "commentary",
           "text": "棄智慧，反無為。",
@@ -267,9 +293,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
+            "verseIndex": 1,
             "start": 0,
-            "end": 9
+            "end": 10
           },
           "kind": "commentary",
           "text": "絕仁之見恩惠，棄義之尚華言。",
@@ -282,7 +308,7 @@
             "scope": "verse",
             "verseIndex": 1,
             "start": 0,
-            "end": 9
+            "end": 10
           },
           "kind": "commentary",
           "text": "德化淳也。",
@@ -319,9 +345,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 2,
+            "verseIndex": 3,
             "start": 0,
-            "end": 9
+            "end": 18
           },
           "kind": "commentary",
           "text": "謂上三事所棄絕也。",
@@ -334,7 +360,7 @@
             "scope": "verse",
             "verseIndex": 3,
             "start": 0,
-            "end": 17
+            "end": 18
           },
           "kind": "commentary",
           "text": "以為文不足者，文不足以教民。",
@@ -347,7 +373,7 @@
             "scope": "verse",
             "verseIndex": 3,
             "start": 0,
-            "end": 17
+            "end": 18
           },
           "kind": "commentary",
           "text": "當如下句。",
@@ -378,6 +404,32 @@
           "kind": "commentary",
           "text": "少私者，正無私也。寡欲者，當知足也。",
           "source": "cham"
+        },
+        {
+          "id": "heshanggong-13",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 4,
+            "start": 0,
+            "end": 15
+          },
+          "kind": "commentary",
+          "text": "絕學不真，不合道文。",
+          "source": "cham"
+        },
+        {
+          "id": "heshanggong-14",
+          "range": {
+            "type": "range",
+            "scope": "verse",
+            "verseIndex": 4,
+            "start": 0,
+            "end": 15
+          },
+          "kind": "commentary",
+          "text": "除浮華則無憂患也。",
+          "source": "cham"
         }
       ]
     },
@@ -398,7 +450,7 @@
             "scope": "verse",
             "verseIndex": 0,
             "start": 0,
-            "end": 9
+            "end": 10
           },
           "kind": "commentary",
           "text": "聖智，才之善也。仁義，人之善也。巧利，用之善也。而直云絕，文甚不足，不令之有所屬，無以見其指，故曰，此三者以為文而未足，故令人有所屬，屬之於素樸寡欲。",

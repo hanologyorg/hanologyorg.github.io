@@ -3,7 +3,7 @@
   "name": "宋太宗",
   "era": "宋",
   "eraCode": "",
-  "workCount": 21,
+  "workCount": 0,
   "names": [],
   "bio": "",
   "bioSource": "",
@@ -11,27 +11,5 @@
   "wikidata": "Q7473",
   "wikipediaZh": "https://zh.wikipedia.org/wiki/%E5%AE%8B%E5%A4%AA%E5%AE%97",
   "wikipediaEn": "https://en.wikipedia.org/wiki/Emperor_Taizong_of_Song",
-  "works": [
-    "skqs-dixue/1",
-    "skqs-dixue/2",
-    "skqs-dixue/3",
-    "skqs-dixue/4",
-    "skqs-dixue/5",
-    "skqs-dixue/6",
-    "skqs-dixue/7",
-    "skqs-dixue/8",
-    "skqs-dixue/9",
-    "skqs-dixue/10",
-    "skqs-dixue/11",
-    "skqs-dixue/12",
-    "skqs-dixue/13",
-    "skqs-dixue/14",
-    "skqs-dixue/15",
-    "skqs-dixue/16",
-    "skqs-dixue/17",
-    "skqs-dixue/18",
-    "skqs-dixue/19",
-    "skqs-dixue/20",
-    "skqs-dixue/21"
-  ]
+  "works": []
 }

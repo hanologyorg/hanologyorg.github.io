@@ -9,16 +9,22 @@
   "genre": "prose",
   "verses": [
     {
-      "text": "和大怨 必有餘怨 焉可以為善"
+      "text": "和大怨，必有餘怨。"
     },
     {
-      "text": "是以聖人執右介 而不以責於人"
+      "text": "焉可以為善？"
     },
     {
-      "text": "故有德司介 无德司徹"
+      "text": "是以聖人執右介，"
     },
     {
-      "text": "夫天道无親 恆與善人"
+      "text": "而不以責於人。"
+    },
+    {
+      "text": "故有德司介，无德司徹。"
+    },
+    {
+      "text": "夫天道无親，恆與善人。"
     }
   ],
   "sections": {},
@@ -43,9 +49,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 14
+          "verseIndex": 1,
+          "start": 6,
+          "end": 6
         },
         "kind": "commentary",
         "text": "言一人吁嗟則失天心，安可以和怨為善？",
@@ -56,9 +62,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 14
+          "verseIndex": 3,
+          "start": 7,
+          "end": 7
         },
         "kind": "commentary",
         "text": "古者聖人執左契，合符信也。無文書法律，刻契合符以為信也。",
@@ -69,9 +75,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 1,
-          "start": 0,
-          "end": 14
+          "verseIndex": 3,
+          "start": 7,
+          "end": 7
         },
         "kind": "commentary",
         "text": "但刻契為信，不責人以他事也。",
@@ -82,9 +88,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 1,
+          "verseIndex": 4,
           "start": 0,
-          "end": 14
+          "end": 11
         },
         "kind": "commentary",
         "text": "有德之君，司察契信而已。",
@@ -123,9 +129,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 14
+          "verseIndex": 3,
+          "start": 7,
+          "end": 7
         },
         "kind": "commentary",
         "text": "左契，防怨之所由生也。",
@@ -136,9 +142,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 1,
-          "start": 0,
-          "end": 14
+          "verseIndex": 3,
+          "start": 7,
+          "end": 7
         },
         "kind": "commentary",
         "text": "有德之人念思其契，不念怨生而後責於人也。",
@@ -212,9 +218,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 14
+            "verseIndex": 1,
+            "start": 6,
+            "end": 6
           },
           "kind": "commentary",
           "text": "言一人吁嗟則失天心，安可以和怨為善？",
@@ -225,9 +231,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 14
+            "verseIndex": 3,
+            "start": 7,
+            "end": 7
           },
           "kind": "commentary",
           "text": "古者聖人執左契，合符信也。無文書法律，刻契合符以為信也。",
@@ -238,9 +244,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 1,
-            "start": 0,
-            "end": 14
+            "verseIndex": 3,
+            "start": 7,
+            "end": 7
           },
           "kind": "commentary",
           "text": "但刻契為信，不責人以他事也。",
@@ -251,9 +257,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 1,
+            "verseIndex": 4,
             "start": 0,
-            "end": 14
+            "end": 11
           },
           "kind": "commentary",
           "text": "有德之君，司察契信而已。",
@@ -302,9 +308,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 14
+            "verseIndex": 3,
+            "start": 7,
+            "end": 7
           },
           "kind": "commentary",
           "text": "左契，防怨之所由生也。",
@@ -315,9 +321,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 1,
-            "start": 0,
-            "end": 14
+            "verseIndex": 3,
+            "start": 7,
+            "end": 7
           },
           "kind": "commentary",
           "text": "有德之人念思其契，不念怨生而後責於人也。",

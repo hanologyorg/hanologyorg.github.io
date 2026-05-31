@@ -9,19 +9,49 @@
   "genre": "prose",
   "verses": [
     {
-      "text": "亓正閔閔 亓民屯屯 亓正察察 亓邦夬夬"
+      "text": "亓正閔閔。"
     },
     {
-      "text": "禍 福之所倚 福 禍之所伏 孰知亓極"
+      "text": "亓民屯屯。"
     },
     {
-      "text": "亓无正也 正復為奇 善復為訞"
+      "text": "亓正察察。"
     },
     {
-      "text": "人之迷也 亓日固久矣"
+      "text": "亓邦夬夬。"
     },
     {
-      "text": "是以方而不割 兼而不刺 直而不紲 光而不耀"
+      "text": "禍，福之所倚。"
+    },
+    {
+      "text": "福，禍之所伏。"
+    },
+    {
+      "text": "孰知亓極？"
+    },
+    {
+      "text": "亓无正也。"
+    },
+    {
+      "text": "正復為奇，善復為訞。"
+    },
+    {
+      "text": "人之迷也，亓日固久矣。"
+    },
+    {
+      "text": "是以："
+    },
+    {
+      "text": "方而不割。"
+    },
+    {
+      "text": "兼而不刺。"
+    },
+    {
+      "text": "直而不紲。"
+    },
+    {
+      "text": "光而不耀。"
     }
   ],
   "sections": {},
@@ -33,9 +63,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 19
+          "verseIndex": 3,
+          "start": 5,
+          "end": 5
         },
         "kind": "commentary",
         "text": "其政教寬大，悶悶昧昧，似若不明也。",
@@ -46,9 +76,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 19
+          "verseIndex": 3,
+          "start": 5,
+          "end": 5
         },
         "kind": "commentary",
         "text": "政教寬大，故民醇醇富厚，相親睦也。",
@@ -59,9 +89,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 19
+          "verseIndex": 3,
+          "start": 5,
+          "end": 5
         },
         "kind": "commentary",
         "text": "其政教急疾，言決於口，聽決於耳也。",
@@ -72,9 +102,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 19
+          "verseIndex": 3,
+          "start": 5,
+          "end": 5
         },
         "kind": "commentary",
         "text": "政教急疾。民不聊生。故缺缺日以踈薄。",
@@ -85,9 +115,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 19
+          "verseIndex": 6,
+          "start": 5,
+          "end": 5
         },
         "kind": "commentary",
         "text": "倚，因也。夫福因禍而生，人遭禍而能悔過責己，修道行善，則禍去福來。",
@@ -98,9 +128,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 19
+          "verseIndex": 6,
+          "start": 5,
+          "end": 5
         },
         "kind": "commentary",
         "text": "禍伏匿於福中，人得福而為驕恣，則福去禍來。",
@@ -112,8 +142,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 1,
-          "start": 14,
-          "end": 15
+          "start": 16,
+          "end": 17
         },
         "kind": "commentary",
         "text": "禍福更相生，誰能知其窮極時。",
@@ -138,8 +168,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 2,
-          "start": 5,
-          "end": 6
+          "start": 6,
+          "end": 7
         },
         "kind": "commentary",
         "text": "奇，詐也。人君不正，下雖正，復化上為詐也。",
@@ -151,8 +181,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 2,
-          "start": 10,
-          "end": 11
+          "start": 11,
+          "end": 12
         },
         "kind": "commentary",
         "text": "善人皆復化上為訞祥也。",
@@ -163,9 +193,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 3,
+          "verseIndex": 9,
           "start": 0,
-          "end": 10
+          "end": 11
         },
         "kind": "commentary",
         "text": "言人君迷惑失正以來，其日已固久。",
@@ -176,9 +206,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 3,
-          "start": 0,
-          "end": 10
+          "verseIndex": 14,
+          "start": 5,
+          "end": 5
         },
         "kind": "commentary",
         "text": "聖人行方正者，欲以率下，不以割截人也。",
@@ -189,9 +219,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 4,
-          "start": 0,
-          "end": 21
+          "verseIndex": 14,
+          "start": 5,
+          "end": 5
         },
         "kind": "commentary",
         "text": "聖人廉清，欲以化民，不以傷害人也。今則不然，正己以害人也。",
@@ -202,9 +232,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 4,
-          "start": 0,
-          "end": 21
+          "verseIndex": 14,
+          "start": 5,
+          "end": 5
         },
         "kind": "commentary",
         "text": "肆，申也。聖人雖直，曲己從人，不自申也。",
@@ -215,9 +245,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 4,
-          "start": 0,
-          "end": 21
+          "verseIndex": 14,
+          "start": 5,
+          "end": 5
         },
         "kind": "commentary",
         "text": "聖人雖有獨見之明，當如闇昧，不以曜亂人也。",
@@ -230,9 +260,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 19
+          "verseIndex": 3,
+          "start": 5,
+          "end": 5
         },
         "kind": "commentary",
         "text": "言善治政者，無形無名，無事無政可舉，悶悶然，卒至於大治，故曰，其政悶悶也。其民無所爭競，寬大淳淳，故曰，其民淳淳也。",
@@ -243,9 +273,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 19
+          "verseIndex": 3,
+          "start": 5,
+          "end": 5
         },
         "kind": "commentary",
         "text": "立刑名，明賞罰，以檢姦偽，故曰察察也。殊類分析，民懷爭競，故曰，其民缺缺也。",
@@ -256,9 +286,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 19
+          "verseIndex": 6,
+          "start": 5,
+          "end": 5
         },
         "kind": "commentary",
         "text": "言誰知善治之極乎！唯無可正舉，無可形名，悶悶然而天下大化，是其極也。",
@@ -270,8 +300,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 2,
-          "start": 5,
-          "end": 6
+          "start": 6,
+          "end": 7
         },
         "kind": "commentary",
         "text": "以正治國，則便復以奇用兵矣。故曰，正復為奇。",
@@ -282,9 +312,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
-          "start": 0,
-          "end": 14
+          "verseIndex": 8,
+          "start": 10,
+          "end": 10
         },
         "kind": "commentary",
         "text": "立善以和萬物，則便復有妖之患也。",
@@ -295,9 +325,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 3,
+          "verseIndex": 9,
           "start": 0,
-          "end": 10
+          "end": 11
         },
         "kind": "commentary",
         "text": "言人之迷惑失道，固久矣。不可便正善治以責。",
@@ -308,9 +338,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 3,
-          "start": 0,
-          "end": 10
+          "verseIndex": 14,
+          "start": 5,
+          "end": 5
         },
         "kind": "commentary",
         "text": "以方導物，舍去其邪，不以方割物，所謂大方無隅。",
@@ -321,9 +351,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 4,
-          "start": 0,
-          "end": 21
+          "verseIndex": 14,
+          "start": 5,
+          "end": 5
         },
         "kind": "commentary",
         "text": "廉，清廉也；劌，傷也。以清廉清民，令去其邪，令去其汙，不以清廉劌傷於物也。",
@@ -334,9 +364,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 4,
-          "start": 0,
-          "end": 21
+          "verseIndex": 14,
+          "start": 5,
+          "end": 5
         },
         "kind": "commentary",
         "text": "以直導物，令去其僻，而不以直激沸於物也。所謂大直若屈也。",
@@ -347,9 +377,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 4,
-          "start": 0,
-          "end": 21
+          "verseIndex": 14,
+          "start": 5,
+          "end": 5
         },
         "kind": "commentary",
         "text": "以光鑑其所以迷，不以光照求其隱慝也，所謂明道若昧也，此皆崇本以息末，不攻而使復之也。",
@@ -384,9 +414,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 19
+            "verseIndex": 3,
+            "start": 5,
+            "end": 5
           },
           "kind": "commentary",
           "text": "其政教寬大，悶悶昧昧，似若不明也。",
@@ -397,9 +427,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 19
+            "verseIndex": 3,
+            "start": 5,
+            "end": 5
           },
           "kind": "commentary",
           "text": "政教寬大，故民醇醇富厚，相親睦也。",
@@ -410,9 +440,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 19
+            "verseIndex": 3,
+            "start": 5,
+            "end": 5
           },
           "kind": "commentary",
           "text": "其政教急疾，言決於口，聽決於耳也。",
@@ -423,9 +453,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 19
+            "verseIndex": 3,
+            "start": 5,
+            "end": 5
           },
           "kind": "commentary",
           "text": "政教急疾。民不聊生。故缺缺日以踈薄。",
@@ -436,9 +466,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 19
+            "verseIndex": 6,
+            "start": 5,
+            "end": 5
           },
           "kind": "commentary",
           "text": "倚，因也。夫福因禍而生，人遭禍而能悔過責己，修道行善，則禍去福來。",
@@ -449,9 +479,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 19
+            "verseIndex": 6,
+            "start": 5,
+            "end": 5
           },
           "kind": "commentary",
           "text": "禍伏匿於福中，人得福而為驕恣，則福去禍來。",
@@ -463,8 +493,8 @@
             "type": "range",
             "scope": "verse",
             "verseIndex": 1,
-            "start": 14,
-            "end": 15
+            "start": 16,
+            "end": 17
           },
           "kind": "commentary",
           "text": "禍福更相生，誰能知其窮極時。",
@@ -489,8 +519,8 @@
             "type": "range",
             "scope": "verse",
             "verseIndex": 2,
-            "start": 5,
-            "end": 6
+            "start": 6,
+            "end": 7
           },
           "kind": "commentary",
           "text": "奇，詐也。人君不正，下雖正，復化上為詐也。",
@@ -502,8 +532,8 @@
             "type": "range",
             "scope": "verse",
             "verseIndex": 2,
-            "start": 10,
-            "end": 11
+            "start": 11,
+            "end": 12
           },
           "kind": "commentary",
           "text": "善人皆復化上為訞祥也。",
@@ -514,9 +544,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 3,
+            "verseIndex": 9,
             "start": 0,
-            "end": 10
+            "end": 11
           },
           "kind": "commentary",
           "text": "言人君迷惑失正以來，其日已固久。",
@@ -527,9 +557,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 3,
-            "start": 0,
-            "end": 10
+            "verseIndex": 14,
+            "start": 5,
+            "end": 5
           },
           "kind": "commentary",
           "text": "聖人行方正者，欲以率下，不以割截人也。",
@@ -540,9 +570,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 4,
-            "start": 0,
-            "end": 21
+            "verseIndex": 14,
+            "start": 5,
+            "end": 5
           },
           "kind": "commentary",
           "text": "聖人廉清，欲以化民，不以傷害人也。今則不然，正己以害人也。",
@@ -553,9 +583,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 4,
-            "start": 0,
-            "end": 21
+            "verseIndex": 14,
+            "start": 5,
+            "end": 5
           },
           "kind": "commentary",
           "text": "肆，申也。聖人雖直，曲己從人，不自申也。",
@@ -566,9 +596,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 4,
-            "start": 0,
-            "end": 21
+            "verseIndex": 14,
+            "start": 5,
+            "end": 5
           },
           "kind": "commentary",
           "text": "聖人雖有獨見之明，當如闇昧，不以曜亂人也。",
@@ -591,9 +621,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 19
+            "verseIndex": 3,
+            "start": 5,
+            "end": 5
           },
           "kind": "commentary",
           "text": "言善治政者，無形無名，無事無政可舉，悶悶然，卒至於大治，故曰，其政悶悶也。其民無所爭競，寬大淳淳，故曰，其民淳淳也。",
@@ -604,9 +634,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 19
+            "verseIndex": 3,
+            "start": 5,
+            "end": 5
           },
           "kind": "commentary",
           "text": "立刑名，明賞罰，以檢姦偽，故曰察察也。殊類分析，民懷爭競，故曰，其民缺缺也。",
@@ -617,9 +647,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 19
+            "verseIndex": 6,
+            "start": 5,
+            "end": 5
           },
           "kind": "commentary",
           "text": "言誰知善治之極乎！唯無可正舉，無可形名，悶悶然而天下大化，是其極也。",
@@ -631,8 +661,8 @@
             "type": "range",
             "scope": "verse",
             "verseIndex": 2,
-            "start": 5,
-            "end": 6
+            "start": 6,
+            "end": 7
           },
           "kind": "commentary",
           "text": "以正治國，則便復以奇用兵矣。故曰，正復為奇。",
@@ -643,9 +673,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 2,
-            "start": 0,
-            "end": 14
+            "verseIndex": 8,
+            "start": 10,
+            "end": 10
           },
           "kind": "commentary",
           "text": "立善以和萬物，則便復有妖之患也。",
@@ -656,9 +686,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 3,
+            "verseIndex": 9,
             "start": 0,
-            "end": 10
+            "end": 11
           },
           "kind": "commentary",
           "text": "言人之迷惑失道，固久矣。不可便正善治以責。",
@@ -669,9 +699,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 3,
-            "start": 0,
-            "end": 10
+            "verseIndex": 14,
+            "start": 5,
+            "end": 5
           },
           "kind": "commentary",
           "text": "以方導物，舍去其邪，不以方割物，所謂大方無隅。",
@@ -682,9 +712,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 4,
-            "start": 0,
-            "end": 21
+            "verseIndex": 14,
+            "start": 5,
+            "end": 5
           },
           "kind": "commentary",
           "text": "廉，清廉也；劌，傷也。以清廉清民，令去其邪，令去其汙，不以清廉劌傷於物也。",
@@ -695,9 +725,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 4,
-            "start": 0,
-            "end": 21
+            "verseIndex": 14,
+            "start": 5,
+            "end": 5
           },
           "kind": "commentary",
           "text": "以直導物，令去其僻，而不以直激沸於物也。所謂大直若屈也。",
@@ -708,9 +738,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 4,
-            "start": 0,
-            "end": 21
+            "verseIndex": 14,
+            "start": 5,
+            "end": 5
           },
           "kind": "commentary",
           "text": "以光鑑其所以迷，不以光照求其隱慝也，所謂明道若昧也，此皆崇本以息末，不攻而使復之也。",

@@ -11,11 +11,10 @@
       "bookId": "skqs-difan",
       "num": 1,
       "title": "提要",
-      "author": "李世民",
-      "authorId": "唐太宗",
-      "dynasty": "唐",
-      "era": "唐",
-      "eraCode": "24",
+      "author": "",
+      "authorId": "",
+      "dynasty": "",
+      "era": "",
       "genre": "prose",
       "verses": [
         {
@@ -120,7 +119,7 @@
           "id": "default",
           "label": "原文",
           "shortLabel": "文",
-          "contributor": "唐太宗",
+          "contributor": "",
           "role": "author",
           "nature": "annotation",
           "displayOrder": 0,
@@ -133,11 +132,10 @@
       "bookId": "skqs-difan",
       "num": 2,
       "title": "帝範序",
-      "author": "李世民",
-      "authorId": "唐太宗",
-      "dynasty": "唐",
-      "era": "唐",
-      "eraCode": "24",
+      "author": "",
+      "authorId": "",
+      "dynasty": "",
+      "era": "",
       "genre": "prose",
       "verses": [
         {
@@ -183,8 +181,8 @@
               "type": "range",
               "scope": "verse",
               "verseIndex": 1,
-              "start": 11,
-              "end": 15
+              "start": 5,
+              "end": 11
             },
             "kind": "semantic",
             "text": "易繋辭曰聖人之大寳曰位言聖人大可寳貴者在於位耳寳是重貴之物貴為天子蔑以加矣故稱大寳也",
@@ -248,8 +246,8 @@
               "type": "range",
               "scope": "verse",
               "verseIndex": 1,
-              "start": 43,
-              "end": 47
+              "start": 33,
+              "end": 43
             },
             "kind": "collation",
             "text": "尚書大禹謨曰皇天眷命奄有四海為天下君皇大也毛詩傳曰尊而稱之則稱皇天眷顧念也謂天命歸之也○按注尊而稱之稱當作君",
@@ -261,8 +259,8 @@
               "type": "range",
               "scope": "verse",
               "verseIndex": 1,
-              "start": 47,
-              "end": 51
+              "start": 43,
+              "end": 47
             },
             "kind": "semantic",
             "text": "論語堯曰咨爾舜天之歴數在爾躬歴數天道也言天道在汝身也",
@@ -404,8 +402,8 @@
               "type": "range",
               "scope": "verse",
               "verseIndex": 1,
-              "start": 134,
-              "end": 148
+              "start": 129,
+              "end": 134
             },
             "kind": "collation",
             "text": "斬靈蛇者是借漢祖之事以喻禎祥也案唐諸志籍髙祖未嘗有斬蛇之事啟金鏡者金鏡喻光明之道也考靈曜曰秦失金鏡魚目入珠注云金鏡喻明髙祖當焬帝之賊虐暴陵天下昏暗至甚也髙祖挽天河洗甲兵宇宙妖氛一滌而淨豈非開光明之道哉啓開也亦猶隋失金鏡髙祖得而啓之也謂重開清明之道也天樞天機握天樞猶得天機也握持也○按秦失金鏡二句出尚書帝命驗此作考靈曜似誤",
@@ -430,8 +428,8 @@
               "type": "range",
               "scope": "verse",
               "verseIndex": 1,
-              "start": 154,
-              "end": 158
+              "start": 148,
+              "end": 154
             },
             "kind": "semantic",
             "text": "三光日月星戢曜謂隠而不明",
@@ -443,8 +441,8 @@
               "type": "range",
               "scope": "verse",
               "verseIndex": 1,
-              "start": 158,
-              "end": 162
+              "start": 154,
+              "end": 158
             },
             "kind": "semantic",
             "text": "文子曰所為立君者以禁暴亂也夫養禽獸者必除豺狼也豺狼尚梗謂羣雄相逐更相吞啖為民人害故喻以為豺狼也豺狼能食獸梗害也",
@@ -456,8 +454,8 @@
               "type": "range",
               "scope": "verse",
               "verseIndex": 1,
-              "start": 162,
-              "end": 166
+              "start": 158,
+              "end": 162
             },
             "kind": "semantic",
             "text": "言天下戰爭四邊之風塵未安息耳",
@@ -560,8 +558,8 @@
               "type": "range",
               "scope": "verse",
               "verseIndex": 1,
-              "start": 224,
-              "end": 231
+              "start": 217,
+              "end": 224
             },
             "kind": "fanqie",
             "text": "欃槍星名妖星也八紘淮南子曰九州之外乃有八夤八夤之外乃有八紘言掃除去妖星展廓其入紘也廓展也掃除也欃初咸反槍楚耕反",
@@ -612,8 +610,8 @@
               "type": "range",
               "scope": "verse",
               "verseIndex": 1,
-              "start": 251,
-              "end": 261
+              "start": 239,
+              "end": 251
             },
             "kind": "semantic",
             "text": "詩小雅云戰戰兢兢如臨深淵書五子之歌曰懔乎若朽索之馭六馬言我雖功業如此自即位以来猶常恐懼戒慎如臨淵馭朽耳太宗可謂居安慮危善守成者也",
@@ -742,8 +740,8 @@
               "type": "range",
               "scope": "verse",
               "verseIndex": 1,
-              "start": 326,
-              "end": 335
+              "start": 313,
+              "end": 326
             },
             "kind": "semantic",
             "text": "軒昊者三皇五帝也其詳注見於納諫篇此言上言三五下至于今",
@@ -768,8 +766,8 @@
               "type": "range",
               "scope": "verse",
               "verseIndex": 1,
-              "start": 356,
-              "end": 373
+              "start": 335,
+              "end": 356
             },
             "kind": "fanqie",
             "text": "言我是以開明前古君臣興亡治亂之實跡廣觀經史傳籍採酌其要領可法之格言以為切近之鑒戒者矣○按覽文苑英華作採",
@@ -782,7 +780,7 @@
           "id": "default",
           "label": "原文",
           "shortLabel": "文",
-          "contributor": "唐太宗",
+          "contributor": "",
           "role": "author",
           "nature": "annotation",
           "displayOrder": 0,
@@ -795,11 +793,10 @@
       "bookId": "skqs-difan",
       "num": 3,
       "title": "君體第一",
-      "author": "李世民",
-      "authorId": "唐太宗",
-      "dynasty": "唐",
-      "era": "唐",
-      "eraCode": "24",
+      "author": "",
+      "authorId": "",
+      "dynasty": "",
+      "era": "",
       "genre": "prose",
       "verses": [
         {
@@ -818,9 +815,9 @@
             "range": {
               "type": "range",
               "scope": "verse",
-              "verseIndex": 0,
-              "start": 0,
-              "end": 0
+              "verseIndex": 1,
+              "start": 42,
+              "end": 48
             },
             "kind": "collation",
             "text": "君白虎通曰君者羣也羣下所歸心又苟卿曰君者儀也民者影也儀正則影正君者盤也民者水也盤圓則水圓君者源也源清則流清源濁則流濁左傳云慶賞刑威曰君體者治體也君之所治體勢規模第者次第也一者數之始也萬物得一以生老子曰聖人抱一為天下式故君體為第一也○按荀子無民者影也民者水也二語又君者源也作君者人之源也",
@@ -858,8 +855,8 @@
               "type": "range",
               "scope": "verse",
               "verseIndex": 1,
-              "start": 9,
-              "end": 14
+              "start": 4,
+              "end": 9
             },
             "kind": "semantic",
             "text": "國者域也域者居也人民所聚居欲為君者能以徳和民民人樂為之用乃可以為國苟不以徳和民人民離散而不附雖欲為君得乎故聖人云得衆則得國失衆則失國所以國者君之本也",
@@ -897,8 +894,8 @@
               "type": "range",
               "scope": "verse",
               "verseIndex": 1,
-              "start": 27,
-              "end": 36
+              "start": 16,
+              "end": 27
             },
             "kind": "semantic",
             "text": "易曰日月之道貞明者也言若日月正一自然之明晝夜更迭不息於至髙至極之上普徧照燭在下之萬物自然貞一無私向者唯日月焉人君照臨萬方之衆務故取法日月貞明之象耳貞正也",
@@ -1014,8 +1011,8 @@
               "type": "range",
               "scope": "verse",
               "verseIndex": 1,
-              "start": 88,
-              "end": 92
+              "start": 83,
+              "end": 88
             },
             "kind": "fanqie",
             "text": "尚書太甲曰奉先思孝以念祖徳為孝先祖先也中庸曰善繼人之志善述人之事者也　奉父勇切",
@@ -1067,7 +1064,7 @@
           "id": "default",
           "label": "原文",
           "shortLabel": "文",
-          "contributor": "唐太宗",
+          "contributor": "",
           "role": "author",
           "nature": "annotation",
           "displayOrder": 0,
@@ -1080,11 +1077,10 @@
       "bookId": "skqs-difan",
       "num": 4,
       "title": "建親第二",
-      "author": "李世民",
-      "authorId": "唐太宗",
-      "dynasty": "唐",
-      "era": "唐",
-      "eraCode": "24",
+      "author": "",
+      "authorId": "",
+      "dynasty": "",
+      "era": "",
       "genre": "prose",
       "verses": [
         {
@@ -1103,9 +1099,9 @@
             "range": {
               "type": "range",
               "scope": "verse",
-              "verseIndex": 0,
-              "start": 0,
-              "end": 0
+              "verseIndex": 1,
+              "start": 36,
+              "end": 46
             },
             "kind": "semantic",
             "text": "左傳曰封建親戚以藩屏周室親骨肉也言有天下者宜樹立藩鎭骨肉分置之於内外以相與維持庶無孤削單弱之患夫水之無本縱築而亦涸木之無柢縱溉而亦焦大厦將興資衆材而後可成千間之廣大鵬將翥藉短羽而後可揚萬里之逺人君欲為國享萬世無疆之休者豈可獨立任其智力者乎左傳曰葛藟猶能庇其根本故君子以為比况國君乎固宜建親建親之道不特骨肉之謂也至如賢徳忠純明哲通才之君子建而親之孰曰不可",
@@ -1130,8 +1126,8 @@
               "type": "range",
               "scope": "verse",
               "verseIndex": 1,
-              "start": 8,
-              "end": 12
+              "start": 0,
+              "end": 8
             },
             "kind": "semantic",
             "text": "天子大寳是至極至尊之位也重極也",
@@ -1286,8 +1282,8 @@
               "type": "range",
               "scope": "verse",
               "verseIndex": 1,
-              "start": 113,
-              "end": 118
+              "start": 108,
+              "end": 113
             },
             "kind": "collation",
             "text": "丞相李斯破議淳于䇿曰周文武所封子弟同姓甚衆然後属疎逺相攻擊如仇讐諸侯更相誅伐周天子弗能禁始皇竟從其議○按李斯議乃駁丞相綰等非為淳于越言破字亦疑誤",
@@ -1377,8 +1373,8 @@
               "type": "range",
               "scope": "verse",
               "verseIndex": 1,
-              "start": 168,
-              "end": 172
+              "start": 146,
+              "end": 157
             },
             "kind": "semantic",
             "text": "髙祖初定天下因秦之失大封懿親以帝從父兄劉賈封為荆王以從祖兄弟劉澤封為燕王兄劉仲為代王同父少弟劉交為楚王凡同姓為王者九國",
@@ -1429,8 +1425,8 @@
               "type": "range",
               "scope": "verse",
               "verseIndex": 1,
-              "start": 196,
-              "end": 203
+              "start": 188,
+              "end": 196
             },
             "kind": "fanqie",
             "text": "六王謂楚王戊趙王遂膠西王卬濟南王辟光淄川王賢膠東王雄渠約從共謀反",
@@ -1442,8 +1438,8 @@
               "type": "range",
               "scope": "verse",
               "verseIndex": 1,
-              "start": 203,
-              "end": 210
+              "start": 196,
+              "end": 203
             },
             "kind": "semantic",
             "text": "七國謂呉楚趙濟南淄川膠東膠西也",
@@ -1468,8 +1464,8 @@
               "type": "range",
               "scope": "verse",
               "verseIndex": 1,
-              "start": 222,
-              "end": 226
+              "start": 210,
+              "end": 222
             },
             "kind": "semantic",
             "text": "魏武曹操也操本譙人獻帝時封魏王其子丕受漢禪是為文帝創初也",
@@ -1481,8 +1477,8 @@
               "type": "range",
               "scope": "verse",
               "verseIndex": 1,
-              "start": 226,
-              "end": 230
+              "start": 210,
+              "end": 222
             },
             "kind": "semantic",
             "text": "魏武只知漢過不知秦失漢封雖過至四百年始失天下殊不知秦二世而亡故云暗於逺圗也",
@@ -1507,8 +1503,8 @@
               "type": "range",
               "scope": "verse",
               "verseIndex": 1,
-              "start": 244,
-              "end": 258
+              "start": 230,
+              "end": 244
             },
             "kind": "collation",
             "text": "在外無藩維之城以為固保内無大盤之石以為基址盤者大也又柱下之石也謂柱下既無磐石以為基址承載棟梁則必易為頽陷屋有磐石猶有懿親賢臣也屋有磐石則固君有賢臣則安故荀子曰國安于磐石又漢書宋昌曰髙帝王子弟犬牙相制所謂磐石之宗也言萬國相連以固王室如大石之不可轉動也○按盤磐通",
@@ -1598,8 +1594,8 @@
               "type": "range",
               "scope": "verse",
               "verseIndex": 1,
-              "start": 322,
-              "end": 327
+              "start": 309,
+              "end": 322
             },
             "kind": "semantic",
             "text": "輕重謂大小之國也",
@@ -1637,8 +1633,8 @@
               "type": "range",
               "scope": "verse",
               "verseIndex": 1,
-              "start": 350,
-              "end": 357
+              "start": 331,
+              "end": 350
             },
             "kind": "semantic",
             "text": "斯二者謂損其太强益其太弱執其中道乃是安治國家之基本",
@@ -1767,8 +1763,8 @@
               "type": "range",
               "scope": "verse",
               "verseIndex": 1,
-              "start": 432,
-              "end": 438
+              "start": 427,
+              "end": 432
             },
             "kind": "semantic",
             "text": "放勲帝堯名又放效也勲功也書曰放勲欽明文思安安允恭克讓光被四表格于上下克明俊徳以親九族九族既睦言堯聖徳又能親睦九族流布美善之道在于前爾可則之　放上聲",
@@ -1820,7 +1816,7 @@
           "id": "default",
           "label": "原文",
           "shortLabel": "文",
-          "contributor": "唐太宗",
+          "contributor": "",
           "role": "author",
           "nature": "annotation",
           "displayOrder": 0,
@@ -1833,11 +1829,10 @@
       "bookId": "skqs-difan",
       "num": 5,
       "title": "求賢第三",
-      "author": "李世民",
-      "authorId": "唐太宗",
-      "dynasty": "唐",
-      "era": "唐",
-      "eraCode": "24",
+      "author": "",
+      "authorId": "",
+      "dynasty": "",
+      "era": "",
       "genre": "prose",
       "verses": [
         {
@@ -1974,8 +1969,8 @@
               "type": "range",
               "scope": "verse",
               "verseIndex": 1,
-              "start": 60,
-              "end": 69
+              "start": 49,
+              "end": 60
             },
             "kind": "semantic",
             "text": "漢梅福上書曰天下之士雲合歸漢争進竒異今謂懐竒藴異必待有所求者故思㑹遇也所以思㑹遇者非汲汲於自衒也禮記曰麤而翹之又不急為也其是之謂與",
@@ -2026,8 +2021,8 @@
               "type": "range",
               "scope": "verse",
               "verseIndex": 1,
-              "start": 96,
-              "end": 104
+              "start": 84,
+              "end": 96
             },
             "kind": "semantic",
             "text": "伊尹名摯力牧之後生於空桑又吕氏春秋曰伊尹有侁氏女採得嬰兒于空桑後居伊水命曰伊尹故耕有莘之野後為有莘氏媵臣有莘氏列女傳云湯妃有莘氏之女也",
@@ -2039,8 +2034,8 @@
               "type": "range",
               "scope": "verse",
               "verseIndex": 1,
-              "start": 104,
-              "end": 111
+              "start": 96,
+              "end": 104
             },
             "kind": "collation",
             "text": "吕望吕氏春秋曰東夷之士也案史記太公吕尚者東海上人其先祖嘗為四嶽佐禹平水土甚有功虞夏之際封于吕或封於申姓姜氏夏商之時申吕或封支庶子或為庶人尚其後苗裔也夲姓姜氏從其封姓故曰吕尚盖嘗窮困年老矣以漁釣奸周西伯西伯将出獵卜之曰所獲非龍非彲非虎非熊所獲覇王之輔於是周西伯獵果遇太公於渭之陽與語大說曰自吾先君太公曰當有聖人適周周以興子真是耶吾太公望子乆矣故號之曰太公望載與俱歸立為師伊尹吕望卑賤者也○按注支庶子下脱孫字",
@@ -2065,8 +2060,8 @@
               "type": "range",
               "scope": "verse",
               "verseIndex": 1,
-              "start": 117,
-              "end": 123
+              "start": 111,
+              "end": 117
             },
             "kind": "fanqie",
             "text": "漢書韓信淮隂人也家貧無行不得推擇為吏而又不能治生為商賈常從人寄食其母死無以𦵏廼行營髙燥地令傍可值萬家者及項梁度淮乃仗劍從之居戯下無所知名梁没則又属項羽為郎中信數䇿干項羽羽弗用漢王入蜀信亡楚歸漢未得知名為連敖坐法當斬其疇十三人皆已斬至信信乃仰視適見滕公曰上不欲就天下乎而斬壯士滕公竒其言壯其貎釋弗斬與語大説之言於漢王王以為治粟都尉上未竒之也數與蕭何語何竒之至南鄭諸将道亡者數十人信度何等已數言上不我用即亡何聞信亡不及以聞追之人有言上曰丞相何亡上怒如失左右手居一二日何来謁上且怒且喜罵何曰若何亡也何曰臣非敢亡追亡者耳上日所追者誰也曰韓信上復罵曰諸將亡者已數十公無所追追信詐也何曰諸將易得如信國士無雙王必欲長王漢中無所事信必欲争天下非信無可與計事者頋王䇿安决王曰吾亦欲東耳安能鬰鬰乆居此乎何曰王計必東能用信信即㽞不能用信終亡耳王曰吾為公以為將何曰雖為將信不㽞王曰以為大將何曰幸甚於是王欲召信拜之何曰王素嫚無禮今拜大將如召小児此乃信所以去也王必欲拜之擇日齋戒設壇具禮乃可王許之諸將皆喜人人各自以為得大將至拜乃信也一軍皆驚信己拜上坐王曰丞相素言将軍将軍何以教寡人計䇿信謝因問王曰今東鄉争權天下豈非項王邪上曰然大王自料勇悍仁彊孰與項王漢王黙然良乆曰弗如也信再拜賀曰唯信亦以為大王弗如也然臣嘗事項王請言項王為人項王怒烏猝嗟千人皆廢然不能任属賢將此特匹夫之勇也項王見人㳟謹言語姁姁　姁許于反和也　人有疾病涕泣分食飲至使人有功當封爵刻印刓忍不能予此所謂婦人之仁也項王雖覇天下而臣諸侯不居闗中而都彭城又背義帝約而以親愛王諸侯不平諸侯之見項王逐義帝江南亦皆歸逐其主自王善地項王所過亡不殘滅多怨百姓百姓不附特刼于威彊服耳名雖為覇實失天下心故曰其彊易弱今大王誠能反其道任天下武勇何不謀以天下城邑予功臣何不服以義兵從思東歸之士何不散且秦王為秦将将秦子弟數嵗而所殺不可勝計又欺其衆降諸侯至新安項王詐坑秦降卒二十餘萬人唯獨章邯欣翳脫秦父兄怨此三人痛于骨髓今楚以威王此三人秦民莫愛也大王之入武闗秋毫亡所犯除秦苛法與民約三章耳秦民亡不欲得大王王秦者於諸侯之約大王當王闗中民户知之王失職之蜀民亡不恨者今王舉而東三秦可傳檄而定也於是漢王大喜自以得信晚遂聼信計後平趙燕齊并項羽遂封信為齊王再封楚王管仲韓信汙辱者也○按漢書怒烏作意烏何不謀作何不誅斬其衆作欺其衆邯字上無章字與民約下有法字",
@@ -2221,8 +2216,8 @@
               "type": "range",
               "scope": "verse",
               "verseIndex": 1,
-              "start": 231,
-              "end": 235
+              "start": 227,
+              "end": 231
             },
             "kind": "semantic",
             "text": "語林曰黄金累千不如一賢士",
@@ -2261,7 +2256,7 @@
           "id": "default",
           "label": "原文",
           "shortLabel": "文",
-          "contributor": "唐太宗",
+          "contributor": "",
           "role": "author",
           "nature": "annotation",
           "displayOrder": 0,
@@ -2274,11 +2269,10 @@
       "bookId": "skqs-difan",
       "num": 6,
       "title": "審官第四",
-      "author": "李世民",
-      "authorId": "唐太宗",
-      "dynasty": "唐",
-      "era": "唐",
-      "eraCode": "24",
+      "author": "",
+      "authorId": "",
+      "dynasty": "",
+      "era": "",
       "genre": "prose",
       "verses": [
         {
@@ -2428,8 +2422,8 @@
               "type": "range",
               "scope": "verse",
               "verseIndex": 1,
-              "start": 95,
-              "end": 106
+              "start": 66,
+              "end": 95
             },
             "kind": "semantic",
             "text": "良匠能盡其木之性而用是無棄遺之材明主能盡其人之行而用是無棄遺之士斯二者惟良匠明主及之",
@@ -2506,8 +2500,8 @@
               "type": "range",
               "scope": "verse",
               "verseIndex": 1,
-              "start": 150,
-              "end": 162
+              "start": 140,
+              "end": 150
             },
             "kind": "semantic",
             "text": "劉子曰一鈞之器不可容於泉流三十斤為鈞江水出岷廣雅曰江貢也風俗通曰出珍物可貢獻也釋名曰江共也小水流入其中所公共也禹貢有中江北江三江九江今人謂川之大者皆曰江漢天河詩云維天有漢又水名今人呼陽邏之水為漢江言輕不可重用也",
@@ -2688,8 +2682,8 @@
               "type": "range",
               "scope": "verse",
               "verseIndex": 1,
-              "start": 269,
-              "end": 279
+              "start": 262,
+              "end": 269
             },
             "kind": "semantic",
             "text": "列宿星宿也隂光月也言衆星雖小騰布于天亦可以助月未明之光也",
@@ -2701,8 +2695,8 @@
               "type": "range",
               "scope": "verse",
               "verseIndex": 1,
-              "start": 279,
-              "end": 289
+              "start": 269,
+              "end": 279
             },
             "kind": "semantic",
             "text": "百川百川之水也溟渤海也言百川之水决流于地雖㣲亦可資添大海李斯有曰河海不擇細流故能就其深",
@@ -2714,8 +2708,8 @@
               "type": "range",
               "scope": "verse",
               "verseIndex": 1,
-              "start": 289,
-              "end": 300
+              "start": 279,
+              "end": 289
             },
             "kind": "semantic",
             "text": "以海之深月之明猶藉羣物以成光大耳物謂列宿百川也",
@@ -2806,7 +2800,7 @@
           "id": "default",
           "label": "原文",
           "shortLabel": "文",
-          "contributor": "唐太宗",
+          "contributor": "",
           "role": "author",
           "nature": "annotation",
           "displayOrder": 0,
@@ -2819,11 +2813,10 @@
       "bookId": "skqs-difan",
       "num": 7,
       "title": "納諫第五",
-      "author": "李世民",
-      "authorId": "唐太宗",
-      "dynasty": "唐",
-      "era": "唐",
-      "eraCode": "24",
+      "author": "",
+      "authorId": "",
+      "dynasty": "",
+      "era": "",
       "genre": "prose",
       "verses": [
         {
@@ -2842,9 +2835,9 @@
             "range": {
               "type": "range",
               "scope": "verse",
-              "verseIndex": 0,
-              "start": 0,
-              "end": 0
+              "verseIndex": 1,
+              "start": 124,
+              "end": 136
             },
             "kind": "semantic",
             "text": "尚書曰朝夕納諌以輔台徳又傳說謂髙宗曰惟木從䋲則直后從諫則聖后聖臣不命其承疇敢不祗若王之休命言木以繩直君以諫聖明君能受諫則臣不待其命承意而諫之也既王能如此則誰敢不敬順王之美命而諫者乎是以堯舜衢室之問總章之訪以来天下之諫以通天下之情故至聖至明以配天也至如桀紂拒諌飾非直至於焚放而不自覺者誠可悲哉疇誰也祗敬也休美也",
@@ -3130,7 +3123,7 @@
           "id": "default",
           "label": "原文",
           "shortLabel": "文",
-          "contributor": "唐太宗",
+          "contributor": "",
           "role": "author",
           "nature": "annotation",
           "displayOrder": 0,
@@ -3143,11 +3136,10 @@
       "bookId": "skqs-difan",
       "num": 8,
       "title": "去䜛第六",
-      "author": "李世民",
-      "authorId": "唐太宗",
-      "dynasty": "唐",
-      "era": "唐",
-      "eraCode": "24",
+      "author": "",
+      "authorId": "",
+      "dynasty": "",
+      "era": "",
       "genre": "prose",
       "verses": [
         {
@@ -3300,8 +3292,8 @@
               "type": "range",
               "scope": "verse",
               "verseIndex": 1,
-              "start": 75,
-              "end": 83
+              "start": 67,
+              "end": 75
             },
             "kind": "semantic",
             "text": "韓非子曰人主未命而唯唯未使而諾諾先意承㫖觀貎察色以先主心者也言姦佞之賊臣也迎其人主之趣意順其志㫖以求媚恱",
@@ -3391,8 +3383,8 @@
               "type": "range",
               "scope": "verse",
               "verseIndex": 1,
-              "start": 135,
-              "end": 143
+              "start": 125,
+              "end": 135
             },
             "kind": "semantic",
             "text": "忠臣謂卻宛也孝子謂宋太子痤也言宛之忠痤之孝終被誣誑屠戮甚可為哀泣寃枉矣",
@@ -3443,8 +3435,8 @@
               "type": "range",
               "scope": "verse",
               "verseIndex": 1,
-              "start": 166,
-              "end": 173
+              "start": 160,
+              "end": 166
             },
             "kind": "semantic",
             "text": "二者指以疎間親父殺其子以邪敗正君族其臣故云斯二者是傾覆國家之夲耳",
@@ -3469,8 +3461,8 @@
               "type": "range",
               "scope": "verse",
               "verseIndex": 1,
-              "start": 182,
-              "end": 191
+              "start": 173,
+              "end": 182
             },
             "kind": "fanqie",
             "text": "敗壊大徳正理者無過於姦䜛敗徳敗正是對砥躬礪行也不當作两敗字書曰反道敗徳恐其傳冩之訛然上敗字當作反字",
@@ -3495,8 +3487,8 @@
               "type": "range",
               "scope": "verse",
               "verseIndex": 1,
-              "start": 203,
-              "end": 214
+              "start": 191,
+              "end": 203
             },
             "kind": "semantic",
             "text": "謂以顯然形體見於外者猶不能鑒識何况是非在於𡨋然無形質之間乎",
@@ -3587,7 +3579,7 @@
           "id": "default",
           "label": "原文",
           "shortLabel": "文",
-          "contributor": "唐太宗",
+          "contributor": "",
           "role": "author",
           "nature": "annotation",
           "displayOrder": 0,
@@ -3600,11 +3592,10 @@
       "bookId": "skqs-difan",
       "num": 9,
       "title": "誡盈第七",
-      "author": "李世民",
-      "authorId": "唐太宗",
-      "dynasty": "唐",
-      "era": "唐",
-      "eraCode": "24",
+      "author": "",
+      "authorId": "",
+      "dynasty": "",
+      "era": "",
       "genre": "prose",
       "verses": [
         {
@@ -3676,8 +3667,8 @@
               "type": "range",
               "scope": "verse",
               "verseIndex": 1,
-              "start": 24,
-              "end": 34
+              "start": 0,
+              "end": 10
             },
             "kind": "semantic",
             "text": "孟子曰以佚道使人雖勞不怨謂既不能儉以養性静以脩身則生奢侈之心矣奢侈之心既生則耗用不節耗用不節必重斂於民故人勞下擾而怨起政乖也",
@@ -3767,8 +3758,8 @@
               "type": "range",
               "scope": "verse",
               "verseIndex": 1,
-              "start": 81,
-              "end": 85
+              "start": 74,
+              "end": 81
             },
             "kind": "semantic",
             "text": "荀子曰雕琢刻鏤黼黻文章以塞其目又非有先生論曰隂奉雕琢刻鏤之好以納其心務快耳目之欲治木治玉石之類也",
@@ -3793,8 +3784,8 @@
               "type": "range",
               "scope": "verse",
               "verseIndex": 1,
-              "start": 89,
-              "end": 93
+              "start": 85,
+              "end": 89
             },
             "kind": "fanqie",
             "text": "書益稷篇曰予欲觀古人之象日月星辰山龍華蟲作㑹宗𢑴藻火粉米黼黻絺繡注黼如斧形刃白而身黒黻謂兩弓字相背青黒線繡絺展几反謂刺以為繡也又葛之精者曰絺然則綌當作繡字不然綌是葛之麄者非奢侈之物人主何好焉",
@@ -3845,8 +3836,8 @@
               "type": "range",
               "scope": "verse",
               "verseIndex": 1,
-              "start": 128,
-              "end": 133
+              "start": 124,
+              "end": 128
             },
             "kind": "semantic",
             "text": "緹者丹黄色帛繡謂刺繡五色成文宦者傳論曰狗馬飾雕文土木被緹繡又東方朔曰土木衣綺繡狗馬被繢罽佞倖傳云董賢起大第闕下土木之功窮極伎巧柱檻衣以緹錦土墻木屋也言皆被緹繡之文綵　緹音提恣肆也",
@@ -3858,8 +3849,8 @@
               "type": "range",
               "scope": "verse",
               "verseIndex": 1,
-              "start": 133,
-              "end": 139
+              "start": 128,
+              "end": 133
             },
             "kind": "semantic",
             "text": "裋褐僕豎之衣也戰國䇿墨子謂楚王曰棄其錦繡之衣而竊人之裋褐言土木復衣其綵繡而人裋褐却不得完全此即以無用而妨有用也",
@@ -3937,7 +3928,7 @@
           "id": "default",
           "label": "原文",
           "shortLabel": "文",
-          "contributor": "唐太宗",
+          "contributor": "",
           "role": "author",
           "nature": "annotation",
           "displayOrder": 0,
@@ -3950,11 +3941,10 @@
       "bookId": "skqs-difan",
       "num": 10,
       "title": "崇儉第八",
-      "author": "李世民",
-      "authorId": "唐太宗",
-      "dynasty": "唐",
-      "era": "唐",
-      "eraCode": "24",
+      "author": "",
+      "authorId": "",
+      "dynasty": "",
+      "era": "",
       "genre": "prose",
       "verses": [
         {
@@ -3973,9 +3963,9 @@
             "range": {
               "type": "range",
               "scope": "verse",
-              "verseIndex": 0,
+              "verseIndex": 1,
               "start": 0,
-              "end": 0
+              "end": 12
             },
             "kind": "semantic",
             "text": "夫儉者去奢從約之謂豐國富民之本也考諸今古創業垂統之君莫不以儉約而興敗國䘮身之主莫不以奢侈而亡其興亡成敗載諸簡册昭昭然可為鑒矣故太宗以儉居戒盈之先豈無意哉雖然儉固近於吝矣儉不中禮是為吝也雖有周公才美驕吝猶不足觀况其他乎此所以蜉蝣刺其好奢蟋蟀刺不中禮也然則其何以行之哉曰語不云乎菲飲食而致孝乎鬼神惡衣服而致美乎黻冕卑宫室而盡力乎溝洫此是眀王之盛徳至聖之格言依而行之吾無間然矣",
@@ -4065,8 +4055,8 @@
               "type": "range",
               "scope": "verse",
               "verseIndex": 1,
-              "start": 50,
-              "end": 54
+              "start": 42,
+              "end": 50
             },
             "kind": "semantic",
             "text": "白氏六帖曰門閭舟車不飾儉也",
@@ -4104,8 +4094,8 @@
               "type": "range",
               "scope": "verse",
               "verseIndex": 1,
-              "start": 62,
-              "end": 66
+              "start": 58,
+              "end": 62
             },
             "kind": "semantic",
             "text": "禮器曰有以素為貴者大圭不琢大羮不和疏云大羮肉汁也不和無鹽梅也太古初變腥但煮肉而飲其汁未知調和後人祭必重古故但盛肉汁謂之大羮不和已上六事皆言上古明王崇儉也如此",
@@ -4156,8 +4146,8 @@
               "type": "range",
               "scope": "verse",
               "verseIndex": 1,
-              "start": 87,
-              "end": 94
+              "start": 83,
+              "end": 87
             },
             "kind": "semantic",
             "text": "二者謂奢儉也",
@@ -4273,8 +4263,8 @@
               "type": "range",
               "scope": "verse",
               "verseIndex": 1,
-              "start": 166,
-              "end": 171
+              "start": 142,
+              "end": 163
             },
             "kind": "semantic",
             "text": "言桀紂之君縱肆情意焚炙忠良刳剔孕婦斮朝渉之脛剖賢人之心積酒成池屯肉為林置炮烙之刑行長夜之飲作竒技滛巧以恱婦人殘賊暴虐湯武興矣故曰禍結也",
@@ -4312,8 +4302,8 @@
               "type": "range",
               "scope": "verse",
               "verseIndex": 1,
-              "start": 173,
-              "end": 178
+              "start": 166,
+              "end": 171
             },
             "kind": "semantic",
             "text": "謂堯舜恭己無為儉約是務是以太平之福延長也",
@@ -4325,8 +4315,8 @@
               "type": "range",
               "scope": "verse",
               "verseIndex": 1,
-              "start": 178,
-              "end": 179
+              "start": 173,
+              "end": 178
             },
             "kind": "semantic",
             "text": "桀紂所以亡謂不能節遏驕慾也堯舜所以興謂其躬行儉約也一戒一法可不務為儉約乎",
@@ -4339,7 +4329,7 @@
           "id": "default",
           "label": "原文",
           "shortLabel": "文",
-          "contributor": "唐太宗",
+          "contributor": "",
           "role": "author",
           "nature": "annotation",
           "displayOrder": 0,
@@ -4352,11 +4342,10 @@
       "bookId": "skqs-difan",
       "num": 11,
       "title": "賞罰第九",
-      "author": "李世民",
-      "authorId": "唐太宗",
-      "dynasty": "唐",
-      "era": "唐",
-      "eraCode": "24",
+      "author": "",
+      "authorId": "",
+      "dynasty": "",
+      "era": "",
       "genre": "prose",
       "verses": [
         {
@@ -4375,9 +4364,9 @@
             "range": {
               "type": "range",
               "scope": "verse",
-              "verseIndex": 0,
-              "start": 0,
-              "end": 0
+              "verseIndex": 1,
+              "start": 69,
+              "end": 79
             },
             "kind": "collation",
             "text": "酬功曰賞黜罪曰罰周禮曰刑賞以馭其威賞罰國之大柄也左傳曰善為國者賞不僭而刑不濫賞僭則福及滛人刑濫則懼及善人又漢書曰賞及無功無以勸善罰及無罪無以懲惡惟賞與罰不可不當賞一人而天下恱者賞之罰一人而天下懼者罰之賞罰又當必信也有功者雖讎亦必賞有罪者雖親亦必罰故孔子曰治國制民不隠其親此之謂也惟知此則大道之行天下為公矣惟天下之至公其聖王能之○按注末句疑有錯誤",
@@ -4454,8 +4443,8 @@
               "type": "range",
               "scope": "verse",
               "verseIndex": 1,
-              "start": 43,
-              "end": 52
+              "start": 34,
+              "end": 43
             },
             "kind": "semantic",
             "text": "盖謂人君體天之道以仁愛下施故寒暑調風雨節而民無疾疫饑寒之厄故不至於凋弊也已上言至治之時民不犯法雖有賞罰無所施矣",
@@ -4467,8 +4456,8 @@
               "type": "range",
               "scope": "verse",
               "verseIndex": 1,
-              "start": 52,
-              "end": 61
+              "start": 43,
+              "end": 52
             },
             "kind": "semantic",
             "text": "孔叢子曰賞罰是非相與曲謬雖十黄帝不能治也言若教令失度政必乖違而刑罰不中則民無所措手足故蹈於不法者多矣如此若非賞罰不能制矣",
@@ -4480,8 +4469,8 @@
               "type": "range",
               "scope": "verse",
               "verseIndex": 1,
-              "start": 61,
-              "end": 69
+              "start": 52,
+              "end": 61
             },
             "kind": "semantic",
             "text": "防其害源者使民不犯其法開其利本者使民各務其業此為教民之道也或有不遵其教者則有賞罰存焉已下皆言用賞罰也",
@@ -4585,7 +4574,7 @@
           "id": "default",
           "label": "原文",
           "shortLabel": "文",
-          "contributor": "唐太宗",
+          "contributor": "",
           "role": "author",
           "nature": "annotation",
           "displayOrder": 0,
@@ -4598,11 +4587,10 @@
       "bookId": "skqs-difan",
       "num": 12,
       "title": "務農第十",
-      "author": "李世民",
-      "authorId": "唐太宗",
-      "dynasty": "唐",
-      "era": "唐",
-      "eraCode": "24",
+      "author": "",
+      "authorId": "",
+      "dynasty": "",
+      "era": "",
       "genre": "prose",
       "verses": [
         {
@@ -4621,9 +4609,9 @@
             "range": {
               "type": "range",
               "scope": "verse",
-              "verseIndex": 0,
-              "start": 0,
-              "end": 0
+              "verseIndex": 1,
+              "start": 254,
+              "end": 289
             },
             "kind": "semantic",
             "text": "専力於事曰務闢土殖榖曰農天生聖人為天下主以務農立國以足食為政凡一毫便於農者必極力行之也嘗觀諸詩而知周人重農之意矣詩曰曾孫来止以見君之尊嚴出入田畝而不為屈也又曰嘗其㫖否以見田畯之官相忘豆觴而不為恥也夫櫛風沐雨莫勞乎農沾體塗足莫賤乎農周之君臣從事於襏襫之間交孚於閭里之所則當時為農者安得不相勸勉哉然周人之意不止此也天子所命者農命官所先者農朝廷所加恵者農官府所分理者農下至州郷閭巷婦人女子賤𨽻小夫歌詠讃頌亦無一不在農噫盛矣夫自後世民不里居農非前世之農勸相之方視為末務去而為㳺手棄而為末作散而為諸侯之食客聚而為山澤之盗賊漢復古意多方勸率免其租以優之設其科以貴之民未知種麥則勸之種麥民未知養苗則教之養苗春事欲作則鑄耕種之器田務正殷則不行發卒令至其法之最良者則自天子而下無不以農為務故國彊永而民富康也嗚呼有國家者詎可不務農哉不務則惰惰則廢廢則曠曠而民至逰矣記曰國無曠土則食無逰民至於土曠民逰天下何所倚頼周禮命遂大夫以正嵗簡稼器脩稼政命里宰以嵗時合耦于鋤以治稼穡趨其耕耨行其秩序命遂師廵其稼穡而移用其民以救其時事也太宗之務農實得其本矣",
@@ -4648,8 +4636,8 @@
               "type": "range",
               "scope": "verse",
               "verseIndex": 1,
-              "start": 8,
-              "end": 12
+              "start": 0,
+              "end": 8
             },
             "kind": "semantic",
             "text": "農為國政之本原",
@@ -4687,8 +4675,8 @@
               "type": "range",
               "scope": "verse",
               "verseIndex": 1,
-              "start": 31,
-              "end": 35
+              "start": 26,
+              "end": 31
             },
             "kind": "semantic",
             "text": "書曰乃命羲和欽若昊天歴象日月星辰敬授人時以孔氏傳云重黎之後羲和氏世掌天地四時之官故堯命之使敬天時以授人也又書曰寅賔出日平秩東作孔氏傳曰寅敬也賔𨗳也平均也秩序也嵗起於東而始就耕謂之東作東方之官敬𨗳出日平均次序東作之事以務農也",
@@ -4700,8 +4688,8 @@
               "type": "range",
               "scope": "verse",
               "verseIndex": 1,
-              "start": 35,
-              "end": 46
+              "start": 31,
+              "end": 35
             },
             "kind": "semantic",
             "text": "記曰國無九年之蓄曰不足無六年之蓄曰急無三年之蓄曰國非其國也謂奪其農務故也儲貯積也",
@@ -4830,8 +4818,8 @@
               "type": "range",
               "scope": "verse",
               "verseIndex": 1,
-              "start": 133,
-              "end": 140
+              "start": 127,
+              "end": 133
             },
             "kind": "semantic",
             "text": "二者謂威恵也此二者是制馭風俗之樞機",
@@ -4856,8 +4844,8 @@
               "type": "range",
               "scope": "verse",
               "verseIndex": 1,
-              "start": 148,
-              "end": 152
+              "start": 140,
+              "end": 148
             },
             "kind": "semantic",
             "text": "恩恵可以懷善",
@@ -5051,8 +5039,8 @@
               "type": "range",
               "scope": "verse",
               "verseIndex": 1,
-              "start": 241,
-              "end": 245
+              "start": 236,
+              "end": 241
             },
             "kind": "semantic",
             "text": "語曰君子之徳風小人之徳草草上之風必偃言君子以仁信化下如風偃草之易也",
@@ -5104,7 +5092,7 @@
           "id": "default",
           "label": "原文",
           "shortLabel": "文",
-          "contributor": "唐太宗",
+          "contributor": "",
           "role": "author",
           "nature": "annotation",
           "displayOrder": 0,
@@ -5117,11 +5105,10 @@
       "bookId": "skqs-difan",
       "num": 13,
       "title": "閱武第十一",
-      "author": "李世民",
-      "authorId": "唐太宗",
-      "dynasty": "唐",
-      "era": "唐",
-      "eraCode": "24",
+      "author": "",
+      "authorId": "",
+      "dynasty": "",
+      "era": "",
       "genre": "prose",
       "verses": [
         {
@@ -5258,8 +5245,8 @@
               "type": "range",
               "scope": "verse",
               "verseIndex": 1,
-              "start": 85,
-              "end": 89
+              "start": 61,
+              "end": 71
             },
             "kind": "semantic",
             "text": "徐偃王忘失其武備",
@@ -5311,7 +5298,7 @@
           "id": "default",
           "label": "原文",
           "shortLabel": "文",
-          "contributor": "唐太宗",
+          "contributor": "",
           "role": "author",
           "nature": "annotation",
           "displayOrder": 0,
@@ -5324,11 +5311,10 @@
       "bookId": "skqs-difan",
       "num": 14,
       "title": "崇文第十二",
-      "author": "李世民",
-      "authorId": "唐太宗",
-      "dynasty": "唐",
-      "era": "唐",
-      "eraCode": "24",
+      "author": "",
+      "authorId": "",
+      "dynasty": "",
+      "era": "",
       "genre": "prose",
       "verses": [
         {
@@ -5350,9 +5336,9 @@
             "range": {
               "type": "range",
               "scope": "verse",
-              "verseIndex": 0,
-              "start": 0,
-              "end": 0
+              "verseIndex": 1,
+              "start": 29,
+              "end": 37
             },
             "kind": "fanqie",
             "text": "崇尊也重也左傳曰經緯天地曰文夫天以文而化地以文而生人以文而㑹國以文而建王以文而治天下以文而安反是則不得其正矣盖文者乃三才事物中和之氣也以孝悌忠信仁義禮智廣充之天理存焉非絺章繡句華浮藻麗之文而已如其崇重絺章繡句華浮藻麗之文是為晉成帝梁武帝李後主矣",
@@ -5533,8 +5519,8 @@
               "type": "range",
               "scope": "verse",
               "verseIndex": 1,
-              "start": 101,
-              "end": 113
+              "start": 97,
+              "end": 101
             },
             "kind": "semantic",
             "text": "端拱謂端嚴而拱斂其手無為謂無所營治天下自安矣此用文之致也",
@@ -5572,8 +5558,8 @@
               "type": "range",
               "scope": "verse",
               "verseIndex": 1,
-              "start": 132,
-              "end": 139
+              "start": 128,
+              "end": 132
             },
             "kind": "fanqie",
             "text": "斯二者文武之事也逓更也猶言更相為國家之切用",
@@ -5663,8 +5649,8 @@
               "type": "range",
               "scope": "verse",
               "verseIndex": 1,
-              "start": 189,
-              "end": 195
+              "start": 183,
+              "end": 189
             },
             "kind": "semantic",
             "text": "書曰九功惟叙九叙惟歌注云六府三事之功有次序皆可歌樂乃徳政之致六府謂水火金木土榖三事謂正徳利用厚生正徳以率下利用以阜財厚生以養民也",
@@ -6170,8 +6156,8 @@
               "type": "range",
               "scope": "verse",
               "verseIndex": 2,
-              "start": 329,
-              "end": 340
+              "start": 318,
+              "end": 329
             },
             "kind": "semantic",
             "text": "如放肆情欲以嗜邪滛必是基業傾危身位䘮敗",
@@ -6197,7 +6183,7 @@
           "id": "default",
           "label": "原文",
           "shortLabel": "文",
-          "contributor": "唐太宗",
+          "contributor": "",
           "role": "author",
           "nature": "annotation",
           "displayOrder": 0,

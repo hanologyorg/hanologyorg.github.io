@@ -9,19 +9,52 @@
   "genre": "prose",
   "verses": [
     {
-      "text": "上德不德 是以有德 下德不失德 是以无德"
+      "text": "上德不德，是以有德。"
     },
     {
-      "text": "上德无為 而无以為也 上仁為之 而无以為也 上義為之 而有以為也 上禮為之 而莫之應也 則攘臂而扔之"
+      "text": "下德不失德，是以无德。"
     },
     {
-      "text": "故失道而后德 失德而后仁 失仁而后義 失義而后禮 夫禮者 忠信之泊也 而亂之首也"
+      "text": "上德无為，而无以為也。"
     },
     {
-      "text": "前識者 道之華也 而愚之首也"
+      "text": "上仁為之，而无以為也。"
     },
     {
-      "text": "是以大丈夫居亓厚而不居亓泊 居亓實而不居亓華 故去彼取此"
+      "text": "上義為之，而有以為也。"
+    },
+    {
+      "text": "上禮為之，而莫之應也，則攘臂而扔之。"
+    },
+    {
+      "text": "故失道而后德。"
+    },
+    {
+      "text": "失德而后仁。"
+    },
+    {
+      "text": "失仁而后義。"
+    },
+    {
+      "text": "失義而后禮。"
+    },
+    {
+      "text": "夫禮者，忠信之泊也，而亂之首也。"
+    },
+    {
+      "text": "前識者，道之華也，而愚之首也"
+    },
+    {
+      "text": "是以：大丈夫，"
+    },
+    {
+      "text": "居亓厚，而不居亓泊。"
+    },
+    {
+      "text": "居亓實，而不居亓華。"
+    },
+    {
+      "text": "故去彼取此。"
     }
   ],
   "sections": {},
@@ -47,8 +80,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 0,
-          "start": 10,
-          "end": 11
+          "start": 11,
+          "end": 12
         },
         "kind": "commentary",
         "text": "下德，謂號謚之君，德不及上德，故言下德也。不失德者，其德可見，其功可稱也。",
@@ -60,8 +93,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 0,
-          "start": 16,
-          "end": 17
+          "start": 17,
+          "end": 18
         },
         "kind": "commentary",
         "text": "以有名號及其身故。",
@@ -98,9 +131,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 1,
-          "start": 0,
-          "end": 50
+          "verseIndex": 5,
+          "start": 18,
+          "end": 18
         },
         "kind": "commentary",
         "text": "言為教令，施政事也。",
@@ -112,8 +145,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 1,
-          "start": 27,
-          "end": 28
+          "start": 29,
+          "end": 30
         },
         "kind": "commentary",
         "text": "言以為己取名號也。",
@@ -125,8 +158,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 1,
-          "start": 11,
-          "end": 12
+          "start": 12,
+          "end": 13
         },
         "kind": "commentary",
         "text": "上仁謂行仁之君，其仁無上，故言上仁。為之者，為人恩也。",
@@ -151,8 +184,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 1,
-          "start": 22,
-          "end": 23
+          "start": 24,
+          "end": 25
         },
         "kind": "commentary",
         "text": "為義以斷割也。",
@@ -164,8 +197,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 1,
-          "start": 27,
-          "end": 28
+          "start": 29,
+          "end": 30
         },
         "kind": "commentary",
         "text": "動作以為己，殺人以成威，賊下以自奉也。",
@@ -177,8 +210,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 1,
-          "start": 33,
-          "end": 34
+          "start": 36,
+          "end": 37
         },
         "kind": "commentary",
         "text": "謂上禮之君，其禮無上，故言上禮。為之者，言為禮制度，序威儀也。",
@@ -190,8 +223,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 1,
-          "start": 38,
-          "end": 39
+          "start": 41,
+          "end": 42
         },
         "kind": "commentary",
         "text": "言禮華盛實衰，飭偽煩多，動則離道，不可應也。",
@@ -203,8 +236,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 1,
-          "start": 44,
-          "end": 45
+          "start": 47,
+          "end": 48
         },
         "kind": "commentary",
         "text": "言禮煩多不可應，上下忿爭，故攘臂相仍引。",
@@ -215,9 +248,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 1,
-          "start": 0,
-          "end": 50
+          "verseIndex": 10,
+          "start": 16,
+          "end": 16
         },
         "kind": "commentary",
         "text": "言道衰而德化生也。",
@@ -228,9 +261,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 1,
-          "start": 0,
-          "end": 50
+          "verseIndex": 10,
+          "start": 16,
+          "end": 16
         },
         "kind": "commentary",
         "text": "言德衰而仁愛見也。",
@@ -241,9 +274,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 1,
-          "start": 0,
-          "end": 50
+          "verseIndex": 10,
+          "start": 16,
+          "end": 16
         },
         "kind": "commentary",
         "text": "言仁衰而分義明也。",
@@ -254,9 +287,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 1,
-          "start": 0,
-          "end": 50
+          "verseIndex": 10,
+          "start": 16,
+          "end": 16
         },
         "kind": "commentary",
         "text": "言義衰則施禮聘，行至帛也。",
@@ -267,9 +300,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 1,
-          "start": 0,
-          "end": 50
+          "verseIndex": 10,
+          "start": 16,
+          "end": 16
         },
         "kind": "commentary",
         "text": "言禮廢本治末，忠信日以衰薄。",
@@ -281,8 +314,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 2,
-          "start": 35,
-          "end": 36
+          "start": 39,
+          "end": 40
         },
         "kind": "commentary",
         "text": "禮者賤質而貴文，故正直日以少，邪亂日以生。",
@@ -306,7 +339,7 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 3,
+          "verseIndex": 11,
           "start": 0,
           "end": 14
         },
@@ -332,9 +365,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 4,
-          "start": 0,
-          "end": 28
+          "verseIndex": 15,
+          "start": 6,
+          "end": 6
         },
         "kind": "commentary",
         "text": "不處身違道，為世煩亂也。",
@@ -346,8 +379,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 4,
-          "start": 14,
-          "end": 15
+          "start": 19,
+          "end": 20
         },
         "kind": "commentary",
         "text": "處忠信也。",
@@ -359,8 +392,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 4,
-          "start": 18,
-          "end": 19
+          "start": 24,
+          "end": 25
         },
         "kind": "commentary",
         "text": "不尚華言也。",
@@ -372,8 +405,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 4,
-          "start": 23,
-          "end": 24
+          "start": 30,
+          "end": 31
         },
         "kind": "commentary",
         "text": "去彼華薄，取此厚實。",
@@ -386,9 +419,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 20
+          "verseIndex": 1,
+          "start": 11,
+          "end": 11
         },
         "kind": "commentary",
         "text": "德者，得也。常得而無喪，利而無害，故以德為名焉。何以得德？由乎道也。何以盡德？以無為用。以無為用則莫不載也，故物無焉，則無物不經，有焉，則 不足以免其生。是以天地雖廣，以無為心。聖王雖大，以虛為主。故曰，以復而視，則天地之心見。至日而思之，則先王之至覩也。故滅其私而無其身，則四海莫不瞻，遠近莫不至。殊其己而有其心，則一體不能自全，肌骨不能相容，是以上德之人，唯道是用。不德其德，無執無用，故能有德而無不為，不求而得，不為而成， 故雖有德而無德名也。下德求而得之，為而成之，則立善以治物，故德名有焉。求而得之必有失焉，為而成之必有敗焉，善名生則有不善應焉，故下德為之而有以為也。無以為者，無所徧為也。凡不能無為而為之者，皆下德也。仁義禮節是也，將明德之上下，輒舉下德以對上德，至於無以為，極下德下之量，上仁是也，足及於無以為而猶為之焉。為之而無以為，故有為，為之患矣。本在無為，母在無名，棄本捨母而適其子，功雖大焉，必有不濟。名雖美焉，偽亦必生。不能不為而成，不興而治，則乃為之，故有宏普博施仁愛之者，而愛之無所偏私，故上仁為之而無以為也。愛不能兼，則有抑抗正真而義理之者，忿枉祐直，助彼攻此物事而有以心為矣，故上義為之而有以為也。直不能篤，則有游飾修文，禮敬之者，尚好修敬，校責往來，則不對之閒，忿怒生焉。故上禮為之而莫之應，則攘臂而扔之。夫大之極也，其唯道乎，自此已往，豈足尊哉。故雖盛業大富而有萬物，猶各得其德，雖貴以無為用，不能捨無以為體也。不能捨無以為體，則失其為大矣。所謂失道而後德也。以無為用，德其母，故能己不勞焉而物無不理。下此已往，則失用之母，不能無為而貴博施，不能博施而貴正直，不能正直而貴飾敬，所謂失德而後仁，失仁而後義，失義而後禮也。夫禮也，所始首於忠信不篤，通簡不陽，責備於表，機微爭制，夫仁義發於內，為之猶偽，況務外飾而可久乎。故夫禮者，忠信之薄而亂之首也。前識者，前人而識也，即下德之倫也。竭其聰明以為前識，役其智力以營庶事，雖德其情，姦巧彌密，雖豐其譽，愈喪篤實。勞而事昬，務而治薉，雖竭聖智，而民愈害。舍己任物，則無為而泰。守夫素樸，則不順典制，聽彼所獲，棄此所守，識道之華，而愚之首，故茍得其為功之母，則萬物作焉而不辭也。萬事存焉而不勞也，用不以形，御不以名，故仁義可顯，禮敬可彰也。夫載之以大道，鎮之以無名，則物無所尚，志無所營，各任其貞，事用其誠，則仁德厚焉，行義正焉，禮敬清焉，棄其所載，舍其所生，用其成形，役其聰明，仁則誠焉，義其競焉，禮其爭焉，故仁德之厚，非用仁之所能也，行義之正，非用義之所成也。禮敬之清，非用禮之所濟也。載之以道，統之以母，故顯之而無所尚，彰之而無所競。用夫無名，故名以篤焉。用夫無形，故形以成焉。守母以存其子，崇本以舉其末，則形名俱有，而邪不生。大美配天而華不作，故母不可遠，本不可失。仁義，母之所生，非可以為母。形器，匠之所成，非可以為匠也。捨其母而用其子，棄其本而適其末，名則有 所分，形則有所止，雖極其大，必有不周，雖盛其美，必有憂患，功在為之，豈足處也。",
@@ -437,8 +470,8 @@
             "type": "range",
             "scope": "verse",
             "verseIndex": 0,
-            "start": 10,
-            "end": 11
+            "start": 11,
+            "end": 12
           },
           "kind": "commentary",
           "text": "下德，謂號謚之君，德不及上德，故言下德也。不失德者，其德可見，其功可稱也。",
@@ -450,8 +483,8 @@
             "type": "range",
             "scope": "verse",
             "verseIndex": 0,
-            "start": 16,
-            "end": 17
+            "start": 17,
+            "end": 18
           },
           "kind": "commentary",
           "text": "以有名號及其身故。",
@@ -488,9 +521,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 1,
-            "start": 0,
-            "end": 50
+            "verseIndex": 5,
+            "start": 18,
+            "end": 18
           },
           "kind": "commentary",
           "text": "言為教令，施政事也。",
@@ -502,8 +535,8 @@
             "type": "range",
             "scope": "verse",
             "verseIndex": 1,
-            "start": 27,
-            "end": 28
+            "start": 29,
+            "end": 30
           },
           "kind": "commentary",
           "text": "言以為己取名號也。",
@@ -515,8 +548,8 @@
             "type": "range",
             "scope": "verse",
             "verseIndex": 1,
-            "start": 11,
-            "end": 12
+            "start": 12,
+            "end": 13
           },
           "kind": "commentary",
           "text": "上仁謂行仁之君，其仁無上，故言上仁。為之者，為人恩也。",
@@ -541,8 +574,8 @@
             "type": "range",
             "scope": "verse",
             "verseIndex": 1,
-            "start": 22,
-            "end": 23
+            "start": 24,
+            "end": 25
           },
           "kind": "commentary",
           "text": "為義以斷割也。",
@@ -554,8 +587,8 @@
             "type": "range",
             "scope": "verse",
             "verseIndex": 1,
-            "start": 27,
-            "end": 28
+            "start": 29,
+            "end": 30
           },
           "kind": "commentary",
           "text": "動作以為己，殺人以成威，賊下以自奉也。",
@@ -567,8 +600,8 @@
             "type": "range",
             "scope": "verse",
             "verseIndex": 1,
-            "start": 33,
-            "end": 34
+            "start": 36,
+            "end": 37
           },
           "kind": "commentary",
           "text": "謂上禮之君，其禮無上，故言上禮。為之者，言為禮制度，序威儀也。",
@@ -580,8 +613,8 @@
             "type": "range",
             "scope": "verse",
             "verseIndex": 1,
-            "start": 38,
-            "end": 39
+            "start": 41,
+            "end": 42
           },
           "kind": "commentary",
           "text": "言禮華盛實衰，飭偽煩多，動則離道，不可應也。",
@@ -593,8 +626,8 @@
             "type": "range",
             "scope": "verse",
             "verseIndex": 1,
-            "start": 44,
-            "end": 45
+            "start": 47,
+            "end": 48
           },
           "kind": "commentary",
           "text": "言禮煩多不可應，上下忿爭，故攘臂相仍引。",
@@ -605,9 +638,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 1,
-            "start": 0,
-            "end": 50
+            "verseIndex": 10,
+            "start": 16,
+            "end": 16
           },
           "kind": "commentary",
           "text": "言道衰而德化生也。",
@@ -618,9 +651,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 1,
-            "start": 0,
-            "end": 50
+            "verseIndex": 10,
+            "start": 16,
+            "end": 16
           },
           "kind": "commentary",
           "text": "言德衰而仁愛見也。",
@@ -631,9 +664,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 1,
-            "start": 0,
-            "end": 50
+            "verseIndex": 10,
+            "start": 16,
+            "end": 16
           },
           "kind": "commentary",
           "text": "言仁衰而分義明也。",
@@ -644,9 +677,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 1,
-            "start": 0,
-            "end": 50
+            "verseIndex": 10,
+            "start": 16,
+            "end": 16
           },
           "kind": "commentary",
           "text": "言義衰則施禮聘，行至帛也。",
@@ -657,9 +690,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 1,
-            "start": 0,
-            "end": 50
+            "verseIndex": 10,
+            "start": 16,
+            "end": 16
           },
           "kind": "commentary",
           "text": "言禮廢本治末，忠信日以衰薄。",
@@ -671,8 +704,8 @@
             "type": "range",
             "scope": "verse",
             "verseIndex": 2,
-            "start": 35,
-            "end": 36
+            "start": 39,
+            "end": 40
           },
           "kind": "commentary",
           "text": "禮者賤質而貴文，故正直日以少，邪亂日以生。",
@@ -696,7 +729,7 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 3,
+            "verseIndex": 11,
             "start": 0,
             "end": 14
           },
@@ -722,9 +755,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 4,
-            "start": 0,
-            "end": 28
+            "verseIndex": 15,
+            "start": 6,
+            "end": 6
           },
           "kind": "commentary",
           "text": "不處身違道，為世煩亂也。",
@@ -736,8 +769,8 @@
             "type": "range",
             "scope": "verse",
             "verseIndex": 4,
-            "start": 14,
-            "end": 15
+            "start": 19,
+            "end": 20
           },
           "kind": "commentary",
           "text": "處忠信也。",
@@ -749,8 +782,8 @@
             "type": "range",
             "scope": "verse",
             "verseIndex": 4,
-            "start": 18,
-            "end": 19
+            "start": 24,
+            "end": 25
           },
           "kind": "commentary",
           "text": "不尚華言也。",
@@ -762,8 +795,8 @@
             "type": "range",
             "scope": "verse",
             "verseIndex": 4,
-            "start": 23,
-            "end": 24
+            "start": 30,
+            "end": 31
           },
           "kind": "commentary",
           "text": "去彼華薄，取此厚實。",
@@ -786,9 +819,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 20
+            "verseIndex": 1,
+            "start": 11,
+            "end": 11
           },
           "kind": "commentary",
           "text": "德者，得也。常得而無喪，利而無害，故以德為名焉。何以得德？由乎道也。何以盡德？以無為用。以無為用則莫不載也，故物無焉，則無物不經，有焉，則 不足以免其生。是以天地雖廣，以無為心。聖王雖大，以虛為主。故曰，以復而視，則天地之心見。至日而思之，則先王之至覩也。故滅其私而無其身，則四海莫不瞻，遠近莫不至。殊其己而有其心，則一體不能自全，肌骨不能相容，是以上德之人，唯道是用。不德其德，無執無用，故能有德而無不為，不求而得，不為而成， 故雖有德而無德名也。下德求而得之，為而成之，則立善以治物，故德名有焉。求而得之必有失焉，為而成之必有敗焉，善名生則有不善應焉，故下德為之而有以為也。無以為者，無所徧為也。凡不能無為而為之者，皆下德也。仁義禮節是也，將明德之上下，輒舉下德以對上德，至於無以為，極下德下之量，上仁是也，足及於無以為而猶為之焉。為之而無以為，故有為，為之患矣。本在無為，母在無名，棄本捨母而適其子，功雖大焉，必有不濟。名雖美焉，偽亦必生。不能不為而成，不興而治，則乃為之，故有宏普博施仁愛之者，而愛之無所偏私，故上仁為之而無以為也。愛不能兼，則有抑抗正真而義理之者，忿枉祐直，助彼攻此物事而有以心為矣，故上義為之而有以為也。直不能篤，則有游飾修文，禮敬之者，尚好修敬，校責往來，則不對之閒，忿怒生焉。故上禮為之而莫之應，則攘臂而扔之。夫大之極也，其唯道乎，自此已往，豈足尊哉。故雖盛業大富而有萬物，猶各得其德，雖貴以無為用，不能捨無以為體也。不能捨無以為體，則失其為大矣。所謂失道而後德也。以無為用，德其母，故能己不勞焉而物無不理。下此已往，則失用之母，不能無為而貴博施，不能博施而貴正直，不能正直而貴飾敬，所謂失德而後仁，失仁而後義，失義而後禮也。夫禮也，所始首於忠信不篤，通簡不陽，責備於表，機微爭制，夫仁義發於內，為之猶偽，況務外飾而可久乎。故夫禮者，忠信之薄而亂之首也。前識者，前人而識也，即下德之倫也。竭其聰明以為前識，役其智力以營庶事，雖德其情，姦巧彌密，雖豐其譽，愈喪篤實。勞而事昬，務而治薉，雖竭聖智，而民愈害。舍己任物，則無為而泰。守夫素樸，則不順典制，聽彼所獲，棄此所守，識道之華，而愚之首，故茍得其為功之母，則萬物作焉而不辭也。萬事存焉而不勞也，用不以形，御不以名，故仁義可顯，禮敬可彰也。夫載之以大道，鎮之以無名，則物無所尚，志無所營，各任其貞，事用其誠，則仁德厚焉，行義正焉，禮敬清焉，棄其所載，舍其所生，用其成形，役其聰明，仁則誠焉，義其競焉，禮其爭焉，故仁德之厚，非用仁之所能也，行義之正，非用義之所成也。禮敬之清，非用禮之所濟也。載之以道，統之以母，故顯之而無所尚，彰之而無所競。用夫無名，故名以篤焉。用夫無形，故形以成焉。守母以存其子，崇本以舉其末，則形名俱有，而邪不生。大美配天而華不作，故母不可遠，本不可失。仁義，母之所生，非可以為母。形器，匠之所成，非可以為匠也。捨其母而用其子，棄其本而適其末，名則有 所分，形則有所止，雖極其大，必有不周，雖盛其美，必有憂患，功在為之，豈足處也。",

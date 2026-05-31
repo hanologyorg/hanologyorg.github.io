@@ -9,10 +9,25 @@
   "genre": "prose",
   "verses": [
     {
-      "text": "大成若缺 其用不敝 大盈若盅　其用不窮 大直如屈 大巧如拙 大贏如絀"
+      "text": "大成若缺，其用不敝。"
     },
     {
-      "text": "躁勝寒　靜勝炅 清靜可以為天下正"
+      "text": "大盈若盅，其用不窮。"
+    },
+    {
+      "text": "大直如屈。"
+    },
+    {
+      "text": "大巧如拙。"
+    },
+    {
+      "text": "大贏如絀。"
+    },
+    {
+      "text": "躁勝寒。靜勝炅。"
+    },
+    {
+      "text": "清靜可以為天下正。"
     }
   ],
   "sections": {},
@@ -24,9 +39,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 34
+          "verseIndex": 4,
+          "start": 5,
+          "end": 5
         },
         "kind": "commentary",
         "text": "其用心如是，則無弊盡時也。",
@@ -37,9 +52,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 34
+          "verseIndex": 4,
+          "start": 5,
+          "end": 5
         },
         "kind": "commentary",
         "text": "謂道德大盈滿之君也。若沖者，貴不敢驕也，富不敢奢也。",
@@ -51,8 +66,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 0,
-          "start": 15,
-          "end": 16
+          "start": 16,
+          "end": 17
         },
         "kind": "commentary",
         "text": "其用心如是，則無窮盡時也。",
@@ -63,9 +78,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 34
+          "verseIndex": 4,
+          "start": 5,
+          "end": 5
         },
         "kind": "commentary",
         "text": "大直，謂修道法度正直如一也。若屈者，不與俗人爭，若可屈折。",
@@ -76,9 +91,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 34
+          "verseIndex": 4,
+          "start": 5,
+          "end": 5
         },
         "kind": "commentary",
         "text": "大巧謂多才術也。若拙者，亦不敢見其能。",
@@ -89,9 +104,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 34
+          "verseIndex": 4,
+          "start": 5,
+          "end": 5
         },
         "kind": "commentary",
         "text": "大辯者，智無疑。若訥者，口無辟。",
@@ -115,9 +130,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 1,
-          "start": 0,
-          "end": 16
+          "verseIndex": 6,
+          "start": 9,
+          "end": 9
         },
         "kind": "commentary",
         "text": "秋冬萬物靜於黃泉之下，極則熱，熱者生之源。",
@@ -128,9 +143,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 1,
-          "start": 0,
-          "end": 16
+          "verseIndex": 6,
+          "start": 9,
+          "end": 9
         },
         "kind": "commentary",
         "text": "能清靜則為天下之長，持身正則無終已時也。",
@@ -143,9 +158,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 34
+          "verseIndex": 4,
+          "start": 5,
+          "end": 5
         },
         "kind": "commentary",
         "text": "隨物而成，不為一象，故若缺也。",
@@ -156,9 +171,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 34
+          "verseIndex": 4,
+          "start": 5,
+          "end": 5
         },
         "kind": "commentary",
         "text": "大盈充足，隨物而與，無所愛矜，故若沖也。",
@@ -169,9 +184,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 34
+          "verseIndex": 4,
+          "start": 5,
+          "end": 5
         },
         "kind": "commentary",
         "text": "隨物而直，直不在一，故若屈也。",
@@ -182,9 +197,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 34
+          "verseIndex": 4,
+          "start": 5,
+          "end": 5
         },
         "kind": "commentary",
         "text": "大巧，因自然以成器，不造為異端，故若拙也。",
@@ -195,9 +210,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 34
+          "verseIndex": 4,
+          "start": 5,
+          "end": 5
         },
         "kind": "commentary",
         "text": "大辯因物而言，己無所造，故若訥也。",
@@ -208,9 +223,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 34
+          "verseIndex": 6,
+          "start": 9,
+          "end": 9
         },
         "kind": "commentary",
         "text": "躁罷然後勝寒，靜無為以勝熱，以此推之，則清靜為天下正也。靜則全物之真，躁則犯物之性，故惟清靜，乃得如上諸大也。",
@@ -245,9 +260,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 34
+            "verseIndex": 4,
+            "start": 5,
+            "end": 5
           },
           "kind": "commentary",
           "text": "其用心如是，則無弊盡時也。",
@@ -258,9 +273,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 34
+            "verseIndex": 4,
+            "start": 5,
+            "end": 5
           },
           "kind": "commentary",
           "text": "謂道德大盈滿之君也。若沖者，貴不敢驕也，富不敢奢也。",
@@ -272,8 +287,8 @@
             "type": "range",
             "scope": "verse",
             "verseIndex": 0,
-            "start": 15,
-            "end": 16
+            "start": 16,
+            "end": 17
           },
           "kind": "commentary",
           "text": "其用心如是，則無窮盡時也。",
@@ -284,9 +299,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 34
+            "verseIndex": 4,
+            "start": 5,
+            "end": 5
           },
           "kind": "commentary",
           "text": "大直，謂修道法度正直如一也。若屈者，不與俗人爭，若可屈折。",
@@ -297,9 +312,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 34
+            "verseIndex": 4,
+            "start": 5,
+            "end": 5
           },
           "kind": "commentary",
           "text": "大巧謂多才術也。若拙者，亦不敢見其能。",
@@ -310,9 +325,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 34
+            "verseIndex": 4,
+            "start": 5,
+            "end": 5
           },
           "kind": "commentary",
           "text": "大辯者，智無疑。若訥者，口無辟。",
@@ -336,9 +351,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 1,
-            "start": 0,
-            "end": 16
+            "verseIndex": 6,
+            "start": 9,
+            "end": 9
           },
           "kind": "commentary",
           "text": "秋冬萬物靜於黃泉之下，極則熱，熱者生之源。",
@@ -349,9 +364,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 1,
-            "start": 0,
-            "end": 16
+            "verseIndex": 6,
+            "start": 9,
+            "end": 9
           },
           "kind": "commentary",
           "text": "能清靜則為天下之長，持身正則無終已時也。",
@@ -374,9 +389,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 34
+            "verseIndex": 4,
+            "start": 5,
+            "end": 5
           },
           "kind": "commentary",
           "text": "隨物而成，不為一象，故若缺也。",
@@ -387,9 +402,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 34
+            "verseIndex": 4,
+            "start": 5,
+            "end": 5
           },
           "kind": "commentary",
           "text": "大盈充足，隨物而與，無所愛矜，故若沖也。",
@@ -400,9 +415,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 34
+            "verseIndex": 4,
+            "start": 5,
+            "end": 5
           },
           "kind": "commentary",
           "text": "隨物而直，直不在一，故若屈也。",
@@ -413,9 +428,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 34
+            "verseIndex": 4,
+            "start": 5,
+            "end": 5
           },
           "kind": "commentary",
           "text": "大巧，因自然以成器，不造為異端，故若拙也。",
@@ -426,9 +441,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 34
+            "verseIndex": 4,
+            "start": 5,
+            "end": 5
           },
           "kind": "commentary",
           "text": "大辯因物而言，己無所造，故若訥也。",
@@ -439,9 +454,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 34
+            "verseIndex": 6,
+            "start": 9,
+            "end": 9
           },
           "kind": "commentary",
           "text": "躁罷然後勝寒，靜無為以勝熱，以此推之，則清靜為天下正也。靜則全物之真，躁則犯物之性，故惟清靜，乃得如上諸大也。",

@@ -1,7 +1,7 @@
 {
   "bookId": "skqs-mengzi-zhushu",
   "num": 10,
-  "title": "孟子注疏巻七上",
+  "title": "孟子注疏卷一下考證",
   "author": "趙岐",
   "authorId": "趙岐",
   "dynasty": "漢",
@@ -10,94 +10,9 @@
   "genre": "prose",
   "verses": [
     {
-      "text": "孟子注疏卷七上考證"
-    },
-    {
-      "text": "離婁章句上疏此篇凡六十一章趙氏分之以為上下卷○閣本誤作六十章今改正"
-    },
-    {
-      "text": "疏其餘三十三章○閣本訛三十二章今改正"
-    },
-    {
-      "text": "離婁之眀○按孟子纂箋引趙岐注離婁黄帝時人莊子黄帝亡其𤣥珠使離朱索之即離婁也今本並無此文"
-    },
-    {
-      "text": "又是為敬君○監本訛是勉之君今改正"
-    },
-    {
-      "text": "疏君子之人以之觸義之所禁○禁監本訛具今改正"
-    },
-    {
-      "text": "規矩方員之至也章注堯舜之為君臣道備疏其後坐常見堯於墻○坐監本訛生今改正"
-    },
-    {
-      "text": "注桀紂幽厲疏武王於是為天子以為周之始王○監本以為周之下脱始字以為周之始王下衍以為天子四字今從閣本刪"
-    },
-    {
-      "text": "又子幽王官湼立○官湼監本訛宮湦今改正"
-    },
-    {
-      "text": "三代之得天下章疏亦謂惡濕而居下之意也○此句上監本有論語孔子四字係衍文今從閣本刪"
-    },
-    {
-      "text": "愛人不親章注反其仁己仁猶未至邪反其敬己敬猶未恭邪○兩猶字監本俱訛獨今改正"
-    },
-    {
-      "text": "天下有道章注既不能令告鄰國使之進退○隣監本訛大今改正"
-    },
-    {
-      "text": "不仁者章滄浪之水清兮○按倪氏曰漢水東為滄浪之水見禹貢酈道元云武當縣北四十里有滄浪洲漢水古為滄浪即漁父所云滄浪之水今滄浪水合流出北界山盖後人名之非古滄浪"
-    },
-    {
-      "text": "疏末注云如臨深淵至放之而已○共五句係他章之注錯襍於此"
-    },
-    {
-      "text": "孟子注䟽巻七上考證"
+      "text": "<經部,四書類,孟子注疏>"
     }
   ],
   "sections": {},
-  "annotations": [],
-  "layers": {
-    "commentary": [
-      {
-        "id": "commentary-1",
-        "range": {
-          "type": "range",
-          "scope": "verse",
-          "verseIndex": 3,
-          "start": 0,
-          "end": 8
-        },
-        "kind": "semantic",
-        "text": "臣齊燾",
-        "source": "cham"
-      },
-      {
-        "id": "commentary-2",
-        "range": {
-          "type": "range",
-          "scope": "verse",
-          "verseIndex": 12,
-          "start": 0,
-          "end": 14
-        },
-        "kind": "semantic",
-        "text": "臣宗楷",
-        "source": "cham"
-      }
-    ]
-  },
-  "annotationLayers": [
-    {
-      "id": "default",
-      "label": "原文",
-      "shortLabel": "文",
-      "contributor": "趙岐",
-      "role": "author",
-      "nature": "annotation",
-      "displayOrder": 0,
-      "enabled": true,
-      "annotations": []
-    }
-  ]
+  "annotations": []
 }

@@ -74,7 +74,7 @@
       "馮延巳",
       "武曌"
     ],
-    "workCount": 147
+    "workCount": 146
   },
   "周": {
     "@id": "dynasty:%E5%91%A8",
@@ -89,11 +89,9 @@
       "《周易》",
       "韓非",
       "尚書",
-      "鬼谷子",
-      "文子",
-      "尹文"
+      ""
     ],
-    "workCount": 389
+    "workCount": 416
   },
   "春秋": {
     "@id": "dynasty:%E6%98%A5%E7%A7%8B",
@@ -124,8 +122,6 @@
       "司馬遷",
       "漢樂府",
       "《古詩十九首》",
-      "曹操",
-      "曹植",
       "佚名",
       "班婕妤",
       "陳琳",
@@ -134,9 +130,9 @@
       "李陵",
       "王粲",
       "趙岐",
-      "桓寬"
+      ""
     ],
-    "workCount": 168
+    "workCount": 164
   },
   "三國": {
     "@id": "dynasty:%E4%B8%89%E5%9C%8B",
@@ -183,19 +179,28 @@
       "蔣捷",
       "張炎",
       "周敦頤",
-      "宋太宗"
+      ""
     ],
-    "workCount": 95
+    "workCount": 117
   },
-  "秦": {
-    "@id": "dynasty:%E7%A7%A6",
+  "秦末": {
+    "@id": "dynasty:%E7%A7%A6%E6%9C%AB",
     "@type": "HistoricalPeriod",
-    "name": "秦",
+    "name": "秦末",
     "authors": [
-      "項羽",
-      "李斯"
+      "項羽"
     ],
-    "workCount": 2
+    "workCount": 1
+  },
+  "漢末": {
+    "@id": "dynasty:%E6%BC%A2%E6%9C%AB",
+    "@type": "HistoricalPeriod",
+    "name": "漢末",
+    "authors": [
+      "曹操",
+      "曹植"
+    ],
+    "workCount": 4
   },
   "東晉": {
     "@id": "dynasty:%E6%9D%B1%E6%99%89",
@@ -275,6 +280,15 @@
     "name": "金",
     "authors": [
       "元好問"
+    ],
+    "workCount": 1
+  },
+  "秦": {
+    "@id": "dynasty:%E7%A7%A6",
+    "@type": "HistoricalPeriod",
+    "name": "秦",
+    "authors": [
+      "李斯"
     ],
     "workCount": 1
   },

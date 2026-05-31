@@ -9,13 +9,37 @@
   "genre": "prose",
   "verses": [
     {
-      "text": "上善治水 水善利萬物而有靜 居眾之所惡 故幾於道矣"
+      "text": "上善治水。"
     },
     {
-      "text": "居善地 心善淵 予善天 言善信 正善治 事善能 動善時"
+      "text": "水善利萬物而有靜。"
     },
     {
-      "text": "夫唯不爭 故无尤"
+      "text": "居眾之所惡，故幾於道矣。"
+    },
+    {
+      "text": "居善地。"
+    },
+    {
+      "text": "心善淵。"
+    },
+    {
+      "text": "予善天。"
+    },
+    {
+      "text": "言善信。"
+    },
+    {
+      "text": "正善治。"
+    },
+    {
+      "text": "事善能。"
+    },
+    {
+      "text": "動善時。"
+    },
+    {
+      "text": "夫唯不爭，故无尤。"
     }
   ],
   "sections": {},
@@ -27,9 +51,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 25
+          "verseIndex": 2,
+          "start": 12,
+          "end": 12
         },
         "kind": "commentary",
         "text": "上善之人，如水之性。",
@@ -40,9 +64,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 25
+          "verseIndex": 2,
+          "start": 12,
+          "end": 12
         },
         "kind": "commentary",
         "text": "水在天為霧露，在地為源泉也。",
@@ -53,9 +77,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 25
+          "verseIndex": 2,
+          "start": 12,
+          "end": 12
         },
         "kind": "commentary",
         "text": "眾人惡卑濕垢濁，水獨靜流居之也。",
@@ -67,8 +91,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 0,
-          "start": 20,
-          "end": 21
+          "start": 22,
+          "end": 23
         },
         "kind": "commentary",
         "text": "水性幾於道同。",
@@ -93,8 +117,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 1,
-          "start": 4,
-          "end": 5
+          "start": 5,
+          "end": 6
         },
         "kind": "commentary",
         "text": "水深空虛，淵深清明。",
@@ -105,9 +129,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 1,
-          "start": 0,
-          "end": 27
+          "verseIndex": 9,
+          "start": 4,
+          "end": 4
         },
         "kind": "commentary",
         "text": "萬物得水以生。與，虛不與盈也。",
@@ -119,8 +143,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 1,
-          "start": 12,
-          "end": 13
+          "start": 15,
+          "end": 16
         },
         "kind": "commentary",
         "text": "水內影照形，不失其情也。",
@@ -132,8 +156,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 1,
-          "start": 16,
-          "end": 17
+          "start": 20,
+          "end": 21
         },
         "kind": "commentary",
         "text": "無有不洗，清且平也。",
@@ -145,8 +169,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 1,
-          "start": 20,
-          "end": 21
+          "start": 25,
+          "end": 26
         },
         "kind": "commentary",
         "text": "能方能圓，曲直隨形。",
@@ -158,8 +182,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 1,
-          "start": 24,
-          "end": 25
+          "start": 30,
+          "end": 31
         },
         "kind": "commentary",
         "text": "夏散冬凝，應期而動，不失天時。",
@@ -198,9 +222,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 25
+          "verseIndex": 2,
+          "start": 12,
+          "end": 12
         },
         "kind": "commentary",
         "text": "人惡卑也。",
@@ -212,8 +236,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 0,
-          "start": 20,
-          "end": 21
+          "start": 22,
+          "end": 23
         },
         "kind": "commentary",
         "text": "道無水有，故曰，幾也。",
@@ -224,9 +248,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 25
+          "verseIndex": 2,
+          "start": 12,
+          "end": 12
         },
         "kind": "commentary",
         "text": "言人皆應於治道也。",
@@ -261,9 +285,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 25
+            "verseIndex": 2,
+            "start": 12,
+            "end": 12
           },
           "kind": "commentary",
           "text": "上善之人，如水之性。",
@@ -274,9 +298,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 25
+            "verseIndex": 2,
+            "start": 12,
+            "end": 12
           },
           "kind": "commentary",
           "text": "水在天為霧露，在地為源泉也。",
@@ -287,9 +311,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 25
+            "verseIndex": 2,
+            "start": 12,
+            "end": 12
           },
           "kind": "commentary",
           "text": "眾人惡卑濕垢濁，水獨靜流居之也。",
@@ -301,8 +325,8 @@
             "type": "range",
             "scope": "verse",
             "verseIndex": 0,
-            "start": 20,
-            "end": 21
+            "start": 22,
+            "end": 23
           },
           "kind": "commentary",
           "text": "水性幾於道同。",
@@ -327,8 +351,8 @@
             "type": "range",
             "scope": "verse",
             "verseIndex": 1,
-            "start": 4,
-            "end": 5
+            "start": 5,
+            "end": 6
           },
           "kind": "commentary",
           "text": "水深空虛，淵深清明。",
@@ -339,9 +363,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 1,
-            "start": 0,
-            "end": 27
+            "verseIndex": 9,
+            "start": 4,
+            "end": 4
           },
           "kind": "commentary",
           "text": "萬物得水以生。與，虛不與盈也。",
@@ -353,8 +377,8 @@
             "type": "range",
             "scope": "verse",
             "verseIndex": 1,
-            "start": 12,
-            "end": 13
+            "start": 15,
+            "end": 16
           },
           "kind": "commentary",
           "text": "水內影照形，不失其情也。",
@@ -366,8 +390,8 @@
             "type": "range",
             "scope": "verse",
             "verseIndex": 1,
-            "start": 16,
-            "end": 17
+            "start": 20,
+            "end": 21
           },
           "kind": "commentary",
           "text": "無有不洗，清且平也。",
@@ -379,8 +403,8 @@
             "type": "range",
             "scope": "verse",
             "verseIndex": 1,
-            "start": 20,
-            "end": 21
+            "start": 25,
+            "end": 26
           },
           "kind": "commentary",
           "text": "能方能圓，曲直隨形。",
@@ -392,8 +416,8 @@
             "type": "range",
             "scope": "verse",
             "verseIndex": 1,
-            "start": 24,
-            "end": 25
+            "start": 30,
+            "end": 31
           },
           "kind": "commentary",
           "text": "夏散冬凝，應期而動，不失天時。",
@@ -442,9 +466,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 25
+            "verseIndex": 2,
+            "start": 12,
+            "end": 12
           },
           "kind": "commentary",
           "text": "人惡卑也。",
@@ -456,8 +480,8 @@
             "type": "range",
             "scope": "verse",
             "verseIndex": 0,
-            "start": 20,
-            "end": 21
+            "start": 22,
+            "end": 23
           },
           "kind": "commentary",
           "text": "道無水有，故曰，幾也。",
@@ -468,9 +492,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 25
+            "verseIndex": 2,
+            "start": 12,
+            "end": 12
           },
           "kind": "commentary",
           "text": "言人皆應於治道也。",

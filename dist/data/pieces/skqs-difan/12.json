@@ -2,11 +2,10 @@
   "bookId": "skqs-difan",
   "num": 12,
   "title": "務農第十",
-  "author": "李世民",
-  "authorId": "唐太宗",
-  "dynasty": "唐",
-  "era": "唐",
-  "eraCode": "24",
+  "author": "",
+  "authorId": "",
+  "dynasty": "",
+  "era": "",
   "genre": "prose",
   "verses": [
     {
@@ -25,9 +24,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 0
+          "verseIndex": 1,
+          "start": 254,
+          "end": 289
         },
         "kind": "semantic",
         "text": "専力於事曰務闢土殖榖曰農天生聖人為天下主以務農立國以足食為政凡一毫便於農者必極力行之也嘗觀諸詩而知周人重農之意矣詩曰曾孫来止以見君之尊嚴出入田畝而不為屈也又曰嘗其㫖否以見田畯之官相忘豆觴而不為恥也夫櫛風沐雨莫勞乎農沾體塗足莫賤乎農周之君臣從事於襏襫之間交孚於閭里之所則當時為農者安得不相勸勉哉然周人之意不止此也天子所命者農命官所先者農朝廷所加恵者農官府所分理者農下至州郷閭巷婦人女子賤𨽻小夫歌詠讃頌亦無一不在農噫盛矣夫自後世民不里居農非前世之農勸相之方視為末務去而為㳺手棄而為末作散而為諸侯之食客聚而為山澤之盗賊漢復古意多方勸率免其租以優之設其科以貴之民未知種麥則勸之種麥民未知養苗則教之養苗春事欲作則鑄耕種之器田務正殷則不行發卒令至其法之最良者則自天子而下無不以農為務故國彊永而民富康也嗚呼有國家者詎可不務農哉不務則惰惰則廢廢則曠曠而民至逰矣記曰國無曠土則食無逰民至於土曠民逰天下何所倚頼周禮命遂大夫以正嵗簡稼器脩稼政命里宰以嵗時合耦于鋤以治稼穡趨其耕耨行其秩序命遂師廵其稼穡而移用其民以救其時事也太宗之務農實得其本矣",
@@ -52,8 +51,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 1,
-          "start": 8,
-          "end": 12
+          "start": 0,
+          "end": 8
         },
         "kind": "semantic",
         "text": "農為國政之本原",
@@ -91,8 +90,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 1,
-          "start": 31,
-          "end": 35
+          "start": 26,
+          "end": 31
         },
         "kind": "semantic",
         "text": "書曰乃命羲和欽若昊天歴象日月星辰敬授人時以孔氏傳云重黎之後羲和氏世掌天地四時之官故堯命之使敬天時以授人也又書曰寅賔出日平秩東作孔氏傳曰寅敬也賔𨗳也平均也秩序也嵗起於東而始就耕謂之東作東方之官敬𨗳出日平均次序東作之事以務農也",
@@ -104,8 +103,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 1,
-          "start": 35,
-          "end": 46
+          "start": 31,
+          "end": 35
         },
         "kind": "semantic",
         "text": "記曰國無九年之蓄曰不足無六年之蓄曰急無三年之蓄曰國非其國也謂奪其農務故也儲貯積也",
@@ -234,8 +233,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 1,
-          "start": 133,
-          "end": 140
+          "start": 127,
+          "end": 133
         },
         "kind": "semantic",
         "text": "二者謂威恵也此二者是制馭風俗之樞機",
@@ -260,8 +259,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 1,
-          "start": 148,
-          "end": 152
+          "start": 140,
+          "end": 148
         },
         "kind": "semantic",
         "text": "恩恵可以懷善",
@@ -455,8 +454,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 1,
-          "start": 241,
-          "end": 245
+          "start": 236,
+          "end": 241
         },
         "kind": "semantic",
         "text": "語曰君子之徳風小人之徳草草上之風必偃言君子以仁信化下如風偃草之易也",
@@ -508,7 +507,7 @@
       "id": "default",
       "label": "原文",
       "shortLabel": "文",
-      "contributor": "唐太宗",
+      "contributor": "",
       "role": "author",
       "nature": "annotation",
       "displayOrder": 0,

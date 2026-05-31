@@ -9,16 +9,55 @@
   "genre": "prose",
   "verses": [
     {
-      "text": "至虛極也 守情表也 萬物旁作 吾以觀亓復也"
+      "text": "至虛極也。"
     },
     {
-      "text": "天物雲雲 各復歸於亓根 曰靜 靜是謂復命 復命常也 知常明也"
+      "text": "守情表也。"
     },
     {
-      "text": "不知常 㠵㠵作兇"
+      "text": "萬物旁作。"
     },
     {
-      "text": "知常容 容乃公 公乃王 王乃天 天乃道 道乃久 歿身不殆"
+      "text": "吾以觀亓復也。"
+    },
+    {
+      "text": "天物雲雲，各復歸於亓根。"
+    },
+    {
+      "text": "曰：靜。"
+    },
+    {
+      "text": "靜，是謂復命。"
+    },
+    {
+      "text": "復命，常也。"
+    },
+    {
+      "text": "知常，明也。"
+    },
+    {
+      "text": "不知常，㠵㠵作兇。"
+    },
+    {
+      "text": "知常容。"
+    },
+    {
+      "text": "容乃公。"
+    },
+    {
+      "text": "公乃王。"
+    },
+    {
+      "text": "王乃天。"
+    },
+    {
+      "text": "天乃道。"
+    },
+    {
+      "text": "道乃久。"
+    },
+    {
+      "text": "歿身不殆。"
     }
   ],
   "sections": {},
@@ -30,9 +69,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 21
+          "verseIndex": 3,
+          "start": 7,
+          "end": 7
         },
         "kind": "commentary",
         "text": "得道之人，捐情去欲，五內清靜，至於虛極。",
@@ -43,9 +82,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 21
+          "verseIndex": 3,
+          "start": 7,
+          "end": 7
         },
         "kind": "commentary",
         "text": "守清靜，行篤厚。",
@@ -56,9 +95,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 21
+          "verseIndex": 3,
+          "start": 7,
+          "end": 7
         },
         "kind": "commentary",
         "text": "作，生也。萬物並生也。",
@@ -70,8 +109,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 0,
-          "start": 15,
-          "end": 16
+          "start": 18,
+          "end": 19
         },
         "kind": "commentary",
         "text": "言吾以觀見萬物無不皆歸其本也。人當念重其本也。",
@@ -82,9 +121,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 21
+          "verseIndex": 8,
+          "start": 6,
+          "end": 6
         },
         "kind": "commentary",
         "text": "芸芸者，華葉盛也。",
@@ -95,9 +134,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 21
+          "verseIndex": 8,
+          "start": 6,
+          "end": 6
         },
         "kind": "commentary",
         "text": "言萬物無不枯落，各復反其根而更生也。",
@@ -108,9 +147,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 1,
-          "start": 0,
-          "end": 30
+          "verseIndex": 8,
+          "start": 6,
+          "end": 6
         },
         "kind": "commentary",
         "text": "靜謂根也。根安靜柔弱，謙卑處下，故不復死也。",
@@ -121,9 +160,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 1,
-          "start": 0,
-          "end": 30
+          "verseIndex": 8,
+          "start": 6,
+          "end": 6
         },
         "kind": "commentary",
         "text": "言安靜者是為復還性命，使不死也。",
@@ -134,9 +173,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 1,
-          "start": 0,
-          "end": 30
+          "verseIndex": 8,
+          "start": 6,
+          "end": 6
         },
         "kind": "commentary",
         "text": "覆命使不死，乃道之所常行也。",
@@ -147,9 +186,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 1,
-          "start": 0,
-          "end": 30
+          "verseIndex": 8,
+          "start": 6,
+          "end": 6
         },
         "kind": "commentary",
         "text": "能知道之所常行，則為明。",
@@ -160,9 +199,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 1,
+          "verseIndex": 9,
           "start": 0,
-          "end": 30
+          "end": 9
         },
         "kind": "commentary",
         "text": "不知道之所常行，妄作巧詐，則失神明，故凶也。",
@@ -187,8 +226,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 3,
-          "start": 4,
-          "end": 5
+          "start": 5,
+          "end": 6
         },
         "kind": "commentary",
         "text": "無所不包容，則公正無私，眾邪莫當。",
@@ -200,8 +239,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 3,
-          "start": 8,
-          "end": 9
+          "start": 10,
+          "end": 11
         },
         "kind": "commentary",
         "text": "公正無私，可以為天下王。治身正則形一，神明千萬，共湊其躬也。",
@@ -213,8 +252,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 3,
-          "start": 12,
-          "end": 13
+          "start": 15,
+          "end": 16
         },
         "kind": "commentary",
         "text": "能王，德合神明，乃與天通。",
@@ -226,8 +265,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 3,
-          "start": 16,
-          "end": 17
+          "start": 20,
+          "end": 21
         },
         "kind": "commentary",
         "text": "德與天通，則與道合同也。",
@@ -239,8 +278,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 3,
-          "start": 20,
-          "end": 21
+          "start": 25,
+          "end": 26
         },
         "kind": "commentary",
         "text": "與道合同，乃能長久。",
@@ -251,9 +290,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 3,
-          "start": 0,
-          "end": 28
+          "verseIndex": 16,
+          "start": 5,
+          "end": 5
         },
         "kind": "commentary",
         "text": "能公能王，通天合道，四者純備，道德弘遠，無殃無咎，乃與天地俱沒，不危殆也。",
@@ -266,9 +305,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 21
+          "verseIndex": 3,
+          "start": 7,
+          "end": 7
         },
         "kind": "commentary",
         "text": "言致虛物之極，篤守靜物之真正也。",
@@ -279,9 +318,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 21
+          "verseIndex": 3,
+          "start": 7,
+          "end": 7
         },
         "kind": "commentary",
         "text": "以虛靜觀其反復。凡有起於虛，動起於靜，故萬物雖並動作，卒復歸於虛靜，是物之極篤也。",
@@ -292,9 +331,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 21
+          "verseIndex": 8,
+          "start": 6,
+          "end": 6
         },
         "kind": "commentary",
         "text": "歸根則靜，故曰靜。靜則復命，故曰復命也。復命則得性命之常，故曰常也。",
@@ -305,9 +344,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 21
+          "verseIndex": 8,
+          "start": 6,
+          "end": 6
         },
         "kind": "commentary",
         "text": "常之為物，不偏不彰，無皦昧之狀，溫涼之象，故曰知常曰明也。唯此復，乃能包通萬物，無所不容，失此以往，則邪入乎分，則物離其分，故曰不知常，則妄作凶也。",
@@ -332,8 +371,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 3,
-          "start": 4,
-          "end": 5
+          "start": 5,
+          "end": 6
         },
         "kind": "commentary",
         "text": "無所不包通，則乃至於蕩然公平也。",
@@ -344,9 +383,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 3,
-          "start": 0,
-          "end": 28
+          "verseIndex": 16,
+          "start": 5,
+          "end": 5
         },
         "kind": "commentary",
         "text": "蕩然公平，則乃至於無所不周普也。",
@@ -357,9 +396,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 3,
-          "start": 0,
-          "end": 28
+          "verseIndex": 16,
+          "start": 5,
+          "end": 5
         },
         "kind": "commentary",
         "text": "無所不周普，則乃至於同乎天也。",
@@ -371,8 +410,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 3,
-          "start": 16,
-          "end": 17
+          "start": 20,
+          "end": 21
         },
         "kind": "commentary",
         "text": "與天合德，體道大通，則乃至於極虛無也。",
@@ -384,8 +423,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 3,
-          "start": 20,
-          "end": 21
+          "start": 25,
+          "end": 26
         },
         "kind": "commentary",
         "text": "窮極虛無，得道之常，則乃至於不窮極也。",
@@ -396,9 +435,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 3,
-          "start": 0,
-          "end": 28
+          "verseIndex": 16,
+          "start": 5,
+          "end": 5
         },
         "kind": "commentary",
         "text": "無之為物，水火不能害，金石不能殘。用之於心則虎兕無所投其齒角，兵戈無所容其鋒刃，何危殆之有乎。",
@@ -433,9 +472,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 21
+            "verseIndex": 3,
+            "start": 7,
+            "end": 7
           },
           "kind": "commentary",
           "text": "得道之人，捐情去欲，五內清靜，至於虛極。",
@@ -446,9 +485,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 21
+            "verseIndex": 3,
+            "start": 7,
+            "end": 7
           },
           "kind": "commentary",
           "text": "守清靜，行篤厚。",
@@ -459,9 +498,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 21
+            "verseIndex": 3,
+            "start": 7,
+            "end": 7
           },
           "kind": "commentary",
           "text": "作，生也。萬物並生也。",
@@ -473,8 +512,8 @@
             "type": "range",
             "scope": "verse",
             "verseIndex": 0,
-            "start": 15,
-            "end": 16
+            "start": 18,
+            "end": 19
           },
           "kind": "commentary",
           "text": "言吾以觀見萬物無不皆歸其本也。人當念重其本也。",
@@ -485,9 +524,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 21
+            "verseIndex": 8,
+            "start": 6,
+            "end": 6
           },
           "kind": "commentary",
           "text": "芸芸者，華葉盛也。",
@@ -498,9 +537,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 21
+            "verseIndex": 8,
+            "start": 6,
+            "end": 6
           },
           "kind": "commentary",
           "text": "言萬物無不枯落，各復反其根而更生也。",
@@ -511,9 +550,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 1,
-            "start": 0,
-            "end": 30
+            "verseIndex": 8,
+            "start": 6,
+            "end": 6
           },
           "kind": "commentary",
           "text": "靜謂根也。根安靜柔弱，謙卑處下，故不復死也。",
@@ -524,9 +563,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 1,
-            "start": 0,
-            "end": 30
+            "verseIndex": 8,
+            "start": 6,
+            "end": 6
           },
           "kind": "commentary",
           "text": "言安靜者是為復還性命，使不死也。",
@@ -537,9 +576,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 1,
-            "start": 0,
-            "end": 30
+            "verseIndex": 8,
+            "start": 6,
+            "end": 6
           },
           "kind": "commentary",
           "text": "覆命使不死，乃道之所常行也。",
@@ -550,9 +589,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 1,
-            "start": 0,
-            "end": 30
+            "verseIndex": 8,
+            "start": 6,
+            "end": 6
           },
           "kind": "commentary",
           "text": "能知道之所常行，則為明。",
@@ -563,9 +602,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 1,
+            "verseIndex": 9,
             "start": 0,
-            "end": 30
+            "end": 9
           },
           "kind": "commentary",
           "text": "不知道之所常行，妄作巧詐，則失神明，故凶也。",
@@ -590,8 +629,8 @@
             "type": "range",
             "scope": "verse",
             "verseIndex": 3,
-            "start": 4,
-            "end": 5
+            "start": 5,
+            "end": 6
           },
           "kind": "commentary",
           "text": "無所不包容，則公正無私，眾邪莫當。",
@@ -603,8 +642,8 @@
             "type": "range",
             "scope": "verse",
             "verseIndex": 3,
-            "start": 8,
-            "end": 9
+            "start": 10,
+            "end": 11
           },
           "kind": "commentary",
           "text": "公正無私，可以為天下王。治身正則形一，神明千萬，共湊其躬也。",
@@ -616,8 +655,8 @@
             "type": "range",
             "scope": "verse",
             "verseIndex": 3,
-            "start": 12,
-            "end": 13
+            "start": 15,
+            "end": 16
           },
           "kind": "commentary",
           "text": "能王，德合神明，乃與天通。",
@@ -629,8 +668,8 @@
             "type": "range",
             "scope": "verse",
             "verseIndex": 3,
-            "start": 16,
-            "end": 17
+            "start": 20,
+            "end": 21
           },
           "kind": "commentary",
           "text": "德與天通，則與道合同也。",
@@ -642,8 +681,8 @@
             "type": "range",
             "scope": "verse",
             "verseIndex": 3,
-            "start": 20,
-            "end": 21
+            "start": 25,
+            "end": 26
           },
           "kind": "commentary",
           "text": "與道合同，乃能長久。",
@@ -654,9 +693,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 3,
-            "start": 0,
-            "end": 28
+            "verseIndex": 16,
+            "start": 5,
+            "end": 5
           },
           "kind": "commentary",
           "text": "能公能王，通天合道，四者純備，道德弘遠，無殃無咎，乃與天地俱沒，不危殆也。",
@@ -679,9 +718,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 21
+            "verseIndex": 3,
+            "start": 7,
+            "end": 7
           },
           "kind": "commentary",
           "text": "言致虛物之極，篤守靜物之真正也。",
@@ -692,9 +731,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 21
+            "verseIndex": 3,
+            "start": 7,
+            "end": 7
           },
           "kind": "commentary",
           "text": "以虛靜觀其反復。凡有起於虛，動起於靜，故萬物雖並動作，卒復歸於虛靜，是物之極篤也。",
@@ -705,9 +744,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 21
+            "verseIndex": 8,
+            "start": 6,
+            "end": 6
           },
           "kind": "commentary",
           "text": "歸根則靜，故曰靜。靜則復命，故曰復命也。復命則得性命之常，故曰常也。",
@@ -718,9 +757,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
-            "start": 0,
-            "end": 21
+            "verseIndex": 8,
+            "start": 6,
+            "end": 6
           },
           "kind": "commentary",
           "text": "常之為物，不偏不彰，無皦昧之狀，溫涼之象，故曰知常曰明也。唯此復，乃能包通萬物，無所不容，失此以往，則邪入乎分，則物離其分，故曰不知常，則妄作凶也。",
@@ -745,8 +784,8 @@
             "type": "range",
             "scope": "verse",
             "verseIndex": 3,
-            "start": 4,
-            "end": 5
+            "start": 5,
+            "end": 6
           },
           "kind": "commentary",
           "text": "無所不包通，則乃至於蕩然公平也。",
@@ -757,9 +796,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 3,
-            "start": 0,
-            "end": 28
+            "verseIndex": 16,
+            "start": 5,
+            "end": 5
           },
           "kind": "commentary",
           "text": "蕩然公平，則乃至於無所不周普也。",
@@ -770,9 +809,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 3,
-            "start": 0,
-            "end": 28
+            "verseIndex": 16,
+            "start": 5,
+            "end": 5
           },
           "kind": "commentary",
           "text": "無所不周普，則乃至於同乎天也。",
@@ -784,8 +823,8 @@
             "type": "range",
             "scope": "verse",
             "verseIndex": 3,
-            "start": 16,
-            "end": 17
+            "start": 20,
+            "end": 21
           },
           "kind": "commentary",
           "text": "與天合德，體道大通，則乃至於極虛無也。",
@@ -797,8 +836,8 @@
             "type": "range",
             "scope": "verse",
             "verseIndex": 3,
-            "start": 20,
-            "end": 21
+            "start": 25,
+            "end": 26
           },
           "kind": "commentary",
           "text": "窮極虛無，得道之常，則乃至於不窮極也。",
@@ -809,9 +848,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 3,
-            "start": 0,
-            "end": 28
+            "verseIndex": 16,
+            "start": 5,
+            "end": 5
           },
           "kind": "commentary",
           "text": "無之為物，水火不能害，金石不能殘。用之於心則虎兕無所投其齒角，兵戈無所容其鋒刃，何危殆之有乎。",

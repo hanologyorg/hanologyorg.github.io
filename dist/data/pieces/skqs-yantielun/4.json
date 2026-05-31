@@ -1,25 +1,48 @@
 {
   "bookId": "skqs-yantielun",
   "num": 4,
-  "title": "繇役第四十九",
-  "author": "桓寬",
-  "authorId": "桓寬",
+  "title": "夲議第一",
+  "author": "",
+  "authorId": "",
   "dynasty": "漢",
   "era": "漢",
-  "eraCode": "07",
   "genre": "prose",
   "verses": [
     {
-      "text": "大夫曰屠者解分中理可横以手而離也至其抽䈥鑿骨非行斤斧不能決聖主循性而化有不從者亦將舉兵而征之是以湯誅葛伯文王誅犬夷及後戎狄猾夏中國不寜周宣王仲山甫式遏冦虐詩云薄伐獫狁至于太原出車彭彭城彼朔方自古明王不能無征伐而服不義不能無城壘而禦强𭧂也"
+      "text": "惟始元六年有詔書使丞相御史與所舉賢良文學語問民間所疾苦"
     },
     {
-      "text": "文學曰舜執干戚而有苗服文王底徳而懐四夷詩云鎬京辟雍自西自東自南自北無思不服普天之下惟人面之倫莫不引領而歸其義故畫地為境人莫之犯子曰白刃可冐中庸不可入至徳之謂也故善攻不待堅甲而克善守不待渠梁而固武王之伐殷也執黄鉞誓牧之野天下之士莫不願為之用既以義取之以徳守之秦以力取之以法守之本末不得故亡夫文猶可長用而武難乆行也"
+      "text": "文學對曰竊聞治人之道坊淫佚之原廣道徳之端抑末利而開仁義毋示以利然後教化可興而風俗可移也今郡國有鹽鐡酒𣙜均輸與民争利散敦厚之樸成貪鄙之化是以百姓就本者寡趨末者衆夫文繁則質衰末盛則本虧末修則民淫本修則民慤民慤則財用足民侈則饑寒生願罷鹽鐡酒𣙜均輸所以進本退末廣利農業便也"
     },
     {
-      "text": "大夫曰詩云獫狁孔熾我是用戒武夫潢潢經營四方故守禦征伐所由來乆矣春秋譏戎驪未至預禦之故四支强而躬體固華葉茂而本根據故飭四境所以安中國也發戍漕所以審勞佚也主憂者臣勞上危者下死先帝憂百姓不澹出禁錢解乗輿驂貶樂損膳以賑窮備邊費未見報施之義而見沮成之理非所聞也"
+      "text": "大夫曰匈奴背叛不臣數為𭧂於邊鄙備之則勞中國之士不備則侵盗不止先帝哀邊人之久患苦為虜所係獲也故修障塞飭烽燧屯戍以備之邊用度不足故興鹽鐵設酒𣙜置均輸蕃貨長財以佐助邊費今議者欲罷之内空府庫之藏外乏執備之用使備塞乗城之士饑寒於邊將何以澹之罷之不便也"
     },
     {
-      "text": "文學曰周道衰王迹熄諸侯爭强大小相凌是以强國務侵弱國設備甲士勞戰陳役於兵革故君勞而民困苦也今中國為一統而方内不安繇役逺而外内煩也古者無過年之繇無踰時之役今近者數千里逺者過萬里歴二期長子不還父母愁憂妻子詠歎憤懣之恨發動於心慕思之積痛於骨髓此枤杜采薇之所為作也"
+      "text": "文學曰孔子曰有國有家者不患寡而患不均不患貧而患不安故天子不言多少諸侯不言利害大夫不言得喪畜仁義以風之廣徳行以懷之是以近者親附而逺者説服故善克者不戰善戰者不師善師者不陳修之於廟堂而折衝還師王者行仁政無敵於天下惡用費哉"
+    },
+    {
+      "text": "大夫曰匈奴桀黠擅恣入塞犯厲中國殺伐郡縣朔方都尉甚悖不軌宜誅討之日久矣陛下垂大惠哀元元之未澹不忍��士大夫於原野縱然被堅執鋭有北面復匈奴之志又欲罷鹽鐵均輸憂邊用損武畧無憂邊之心於其義未便也"
+    },
+    {
+      "text": "文學曰古者貴以徳而賤用兵孔子曰逺人不服則修文徳以來之旣來之則安之今廢道徳而任兵革興師而伐之屯戍而備之暴兵露師以支久長轉輸糧食無已使邊境之士饑寒於外百姓勞苦於内立鹽鐵始張利官以給之非長䇿也故以罷之為便也"
+    },
+    {
+      "text": "大夫曰古之立國家者開本末之途通有無之用市朝以一其求致士民聚萬貨農商工師各得所欲交易而退易曰通其變使民不倦故工不出則農用乖商不出則寳貨絶農不出則穀不殖寳貨絶則財用匱故鹽鐡均輸所以通委財而調緩急罷之不便也"
+    },
+    {
+      "text": "文學曰夫道民以徳則民歸厚示民以利則民俗薄俗薄則背義而趨利趨利則百姓交於道而接於市老子曰貧國若有餘非多財也嗜欲衆而民躁也是以王者崇本退末以禮義坊民欲實菽粟貨財市商不通無用之物工不作無用之器故商所以通鬱滯工所以備器械非治國之本務也"
+    },
+    {
+      "text": "大夫曰管子云國有沃野之饒而民不足於食者器械不備也有山海之貨而民不足於財者商工不備也隴蜀之丹漆旄羽荆之皮革骨象江南之柟梓竹箭燕齊之魚鹽旃裘兖豫之漆絲絺紵養生送死之具也待商而通待工而成故聖人作為舟楫以通川谷服牛駕馬以達陵陸致逺窮深所以交庻物而便百姓是以先帝建鐵官以澹農用開均輸以足民財鹽鐡均輸萬民所戴仰而取給者罷之不便也"
+    },
+    {
+      "text": "文學曰國有沃野之饒而民不足於食者工商盛而本業荒也有山海之貨而民不足於財者不務民用而淫巧衆也故川源不能實漏巵山海不能澹溪壑是以盤庚萃居舜藏黄金高帝禁商賈不得仕宦所以遏貪鄙之俗而醇至誠之風也排困市井坊塞利門而民猶為非也況上之為利乎傳曰諸侯好利則大夫鄙大夫鄙則士貪士貪則庻人盗是開利孔為民罪梯者也"
+    },
+    {
+      "text": "大夫曰徃者郡國諸侯各以其物貢輸徃來煩雜物多苦惡或不償其費故郡置輸官以相給運而便逺方之貢故曰均輸開委府于京以籠貨物賤即買貴即賣是以縣官不失實商賈無所牟利故曰平凖平凖則民不失職均輸則民齊勞逸故平凖均輸所以平萬物而便百姓非開利孔為民罪梯者也"
+    },
+    {
+      "text": "文學曰古者之賦稅於民也因其所工不求所拙農人納其獲女紅効其力今釋其所有責其所無百姓賤賣貨物以便上求閒者郡國或令民作布絮吏留難與之為市吏之所入非獨齊陶之縑蜀漢之布也亦民間之所為耳而行姦賣乎農民重苦女紅再稅未見輸之均也縣官猥發闔門擅市則萬物並收萬物並收則物騰躍騰躍則商賈侔利自市侔利自市則吏容姦豪而富商積貨儲物以待其急輕賈姦吏收賤以取貴未見凖之平也蓋古之均輸所以齊勞逸而便貢輸非以為利而賈萬物也"
     }
   ],
   "sections": {},
@@ -33,7 +56,7 @@
           "scope": "verse",
           "verseIndex": 0,
           "start": 0,
-          "end": 11
+          "end": 14
         },
         "kind": "semantic",
         "text": "去聲",
@@ -45,11 +68,11 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 0,
-          "start": 11,
-          "end": 23
+          "start": 14,
+          "end": 27
         },
         "kind": "semantic",
-        "text": "音斤",
+        "text": "漢書食貨志曰昭帝即位六年詔郡國舉賢良文學之士問以民所疾苦教化之要車千秋傳曰武帝疾立皇子鉤弋夫人男為太子拜大将軍霍光車騎将軍金日磾御史大夫桑𢎞羊及丞相千秋並受遺詔輔道少主武帝崩昭帝初即位未任聼政政事壹決大将軍光千秋居丞相位謹厚有重徳始元六年昭帝詔郡國舉賢良文學之士問以民所疾苦於是鹽鐵之議起焉",
         "source": "cham"
       },
       {
@@ -57,12 +80,12 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 23,
-          "end": 32
+          "verseIndex": 1,
+          "start": 0,
+          "end": 14
         },
         "kind": "semantic",
-        "text": "賈誼曰屠牛坦一朝解十二牛而芒刃不頓者所排撃剥割皆衆理解也至於寛髀之所非斤則斧夫仁義恩厚人主之芒刃也權勢法制人主之斤斧也",
+        "text": "古防字",
         "source": "cham"
       },
       {
@@ -70,12 +93,12 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 32,
-          "end": 60
+          "verseIndex": 1,
+          "start": 14,
+          "end": 16
         },
         "kind": "semantic",
-        "text": "用兵紀曰古之賢王有義兵而無偃兵家無怒笞則豎子嬰兒之有過也立見國無刑罰則百姓之誤相侵也立見天下無誅伐則諸侯之相𭧂也立見故怒笞不可偃於家刑罰不可偃於國誅伐不可偃於天下有巧有拙而已矣故古之聖王有義兵而無偃兵孟子曰湯居亳與葛為鄰葛伯放而不祀湯使人問之曰何為不祀曰無以供犠牲也湯使遺之牛羊葛伯食之又不以祀湯又使人問之曰何為不祀曰無以供粢盛也湯使亳衆往為之耕老弱饋食葛伯率其民要其有酒食黍稻者奪之不授者殺之有童子以黍肉餉而奪之書曰葛伯仇餉此之謂也為其殺是童子而征之四海之内皆曰非富天下也為匹夫匹婦復讐也匈奴傳曰周西伯昌伐畎夷詩曰肆不殄厥愠亦不殞厥問柞棫㧞矣行道兊矣混夷駾矣維其喙矣顔師古曰西伯昌即文王畎夷即畎戎也又曰昆夷山海經云黄帝生苗龍苗龍生融吾融吾生弄明弄明生白犬犬有二牝牡是為犬戎許慎曰赤狄本犬種故字從犬",
+        "text": "音逸",
         "source": "cham"
       },
       {
@@ -83,12 +106,12 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 60,
-          "end": 76
+          "verseIndex": 1,
+          "start": 16,
+          "end": 31
         },
         "kind": "semantic",
-        "text": "古本作尹吉甫",
+        "text": "音無",
         "source": "cham"
       },
       {
@@ -96,12 +119,12 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 76,
-          "end": 98
+          "verseIndex": 1,
+          "start": 31,
+          "end": 55
         },
         "kind": "semantic",
-        "text": "匈奴傳曰周懿王時王室遂衰戎狄交侵暴虐中國中國被其苦詩人始作疾而歌之曰靡室靡家獫狁之故豈不日戒獫狁孔棘至懿王曾孫宣王興師命將以征伐之詩人美大其功曰薄伐獫狁至于太原出車彭彭城彼朔方是時四夷賔服稱為中興",
+        "text": "音較",
         "source": "cham"
       },
       {
@@ -109,12 +132,12 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
-          "start": 98,
-          "end": 116
+          "verseIndex": 1,
+          "start": 55,
+          "end": 61
         },
         "kind": "semantic",
-        "text": "音磊",
+        "text": "食貨志曰大農上鹽鐵丞孔僅咸陽言山海天地之崴也皆宜屬少府陛下不私以屬大農佐賦願募民自給費因官器作煮鹽官與牢盆浮食竒名欲擅管山海之貨以致富羡役利細民其沮事之議不可勝聼敢私鑄鐵器煮鹽者鈇左趾沒入其器物郡不出鐵者置小鐵官便屬在所縣使孔僅東郭咸陽乗傳舉行天下鹽鐵作官府除故鹽鐵家富者為吏武帝紀曰天漢三年春二月初𣙜酒酤是時桑𢎞羊為大司農蓋其所建也應劭曰縣官自酤𣙜賣酒小民不得復酤也韋昭曰𣙜謂禁民酤釀獨官開置如道路設木為𣙜獨取利也爾雅謂之石杠今之畧彴是也禁閉其事揔利入官而下無由以得有若渡水之𣙜因立名焉史記平凖書曰元封元年桑𢎞羊為治粟都尉領大農代孔僅筦天下鹽鐵𢎞羊以諸官各自市相與争物故騰躍而天下賦輸或不償其僦費乃請置大農部丞數十人分部主郡國各徃徃縣置均輸令逺方各以其物貴時商賈所轉販者為賦而相⿰氵⿱龷隹 -- 灌?輸置平凖于京師都受天下委輸各工官治車諸器皆仰給大農大農之諸官盡籠天下之貨物貴即賣之賤則買之如此富商大賈無所牟大利則反本而萬物不得騰踊故抑天下物名曰平凖天子以為然許之於是天子北至朔方東到太山廵海上並北邊以歸所過賞賜用帛百餘萬匹錢金以巨萬計皆取足大農",
         "source": "cham"
       },
       {
@@ -123,11 +146,11 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 1,
-          "start": 0,
-          "end": 22
+          "start": 61,
+          "end": 84
         },
         "kind": "semantic",
-        "text": "大禹謨曰三旬苗民逆命益贊于禹曰惟徳動天無逺弗屇滿招損謙受益時乃天道至諴感神矧兹有苗禹拜昌言曰俞班師振旅帝乃誕敷文徳舞干羽于兩階七旬有苗格道應篇曰文王砥徳修政二年而天下二垂歸之人間訓曰文王葬死人之骸而九夷歸之",
+        "text": "音扶",
         "source": "cham"
       },
       {
@@ -136,11 +159,11 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 1,
-          "start": 22,
-          "end": 27
+          "start": 84,
+          "end": 104
         },
         "kind": "semantic",
-        "text": "音璧",
+        "text": "音卻善也誠也",
         "source": "cham"
       },
       {
@@ -149,11 +172,11 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 1,
-          "start": 27,
-          "end": 40
+          "start": 104,
+          "end": 123
         },
         "kind": "semantic",
-        "text": "修文篇曰天下有道則禮樂征伐自天子出夫功成制禮治定作樂禮樂者行化之大者也孔子曰移風易俗莫善於樂安上治民莫善於禮是故聖王修禮文設庠序陳鐘鼓天子辟雍諸侯泮官所以行徳化詩云鎬京辟雍自西自東自南自北無思不服此之謂也",
+        "text": "音較",
         "source": "cham"
       },
       {
@@ -161,12 +184,12 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 1,
-          "start": 40,
-          "end": 99
+          "verseIndex": 2,
+          "start": 0,
+          "end": 13
         },
         "kind": "semantic",
-        "text": "兵略訓曰善守者無與御善戰者無與闘泰族訓曰守不待渠壍而固攻不待衝隆而㧞",
+        "text": "音朔頻也",
         "source": "cham"
       },
       {
@@ -174,12 +197,12 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 1,
-          "start": 99,
-          "end": 131
+          "verseIndex": 2,
+          "start": 13,
+          "end": 19
         },
         "kind": "semantic",
-        "text": "帝王世紀曰武王見暍人王自左擁而右扇之紂政彌亂殷太史向摯載其圖書而歸周王以告于諸侯四年起師而東至商郊牧野乃作木檐王韈係解五人御於前莫肯為王係韈皆曰臣所以事君王非為係韈也王乃釋旄龯而係之與紂戰紂師敗績禽費仲惡來紂赴于京自燔于宣室而死二嬖妾與妲己亦自殺乃以大白髦麾諸侯入殷商都百姓咸待于郊王使告曰上天降休商人皆拜王亦答拜以兵入造紂及妲己尸王親射之三發然後下車以劒擊之周公為司徒使以黄龯斬紂頭懸于大白之旗召公為司空又使以𤣥鉞斬妲己頸懸之小白旗置旌於商容之廬命召公釋箕子之囚賜貝千朋命原公釋百姓之囚歸璇臺之珠玉命南宫括散鹿臺之財發巨橋之粟以賑貧民命南宫伯逹史逸遷九鼎于洛邑命閎天封比干之墓命宗祝饗祀于軍㣲子膠鬲皆委質為臣殷人咸喜曰王之於人也死猶封其墓况其生者乎王之於賢仁也亡者猶表其廬况其存者乎王之於財也聚者猶散之况其復藉者乎王之於色也在者猶歸其父母况復徵之乎貴徳篇曰武王克殷召太公而問曰將奈其士衆何太公對曰臣聞愛其人者兼屋上之烏憎其人者惡其餘胥咸劉厥敵使靡有餘何如王曰不可太公出邵公入王曰為之奈何邵公對曰有罪者殺之無罪者活之何如王曰不可邵公出周公入王曰為之奈何周公曰使各居其宅田其田無變舊新唯仁是親百姓有過在於一人武王曰廣大乎平天下矣凡所以貴士君子者以其仁而有徳也道應篇曰武王問太公曰寡人伐紂天下是臣殺其主而下伐其上也吾恐後世之用兵不休闘爭不已為之奈何太公曰甚善王之問也夫未得獸者唯恐其創之小也已得之惟恐傷肉之多也王若欲乆持之則塞民於兊道全為無用之事順擾之教彼皆樂其業供其事情昭昭而道冥冥於是乃去其瞀而載之木解其劒而帶之笏為三年之䘮令類不蕃髙辭卑讓使民不爭酒肉以通之竽瑟以娱之鬼神以畏之繁文滋禮以弇其質厚葬乆䘮以亶其家含珠鱗施綸組以貧其財深鑿髙壟以盡其力家貧族少慮患者寡以此移風可以持天下弗失故老子曰化而欲作吾將鎮之以無名之樸也",
+        "text": "匈奴傳曰匈奴其先祖夏后氏之苗裔也曰淳維樂彥括地譜云夏桀無道湯放之鳴條三年而死其子獯鬻妻桀之衆妾避居北野隨畜移徙中國謂之匈奴晉灼云殷時曰獯鬻周曰玁狁秦曰匈奴匈奴傳又曰元朔二年夏匈奴數萬騎入殺代郡太守恭及畧千餘人其秋匈奴又入鴈門殺畧千餘人其明年匈奴又復入代郡定襄上郡各三萬騎殺畧數千人匈奴右賢王怨漢奪之河南地而築朔方數為冦盗邊及入河南侵擾朔方殺畧吏民甚衆",
         "source": "cham"
       },
       {
@@ -187,12 +210,12 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 1,
-          "start": 131,
-          "end": 147
+          "verseIndex": 2,
+          "start": 19,
+          "end": 52
         },
         "kind": "semantic",
-        "text": "音扶",
+        "text": "音瘴",
         "source": "cham"
       },
       {
@@ -200,12 +223,12 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 1,
-          "start": 147,
-          "end": 155
+          "verseIndex": 2,
+          "start": 52,
+          "end": 53
         },
-        "kind": "fanqie",
-        "text": "賈誼曰陳渉之位不尊於齊楚趙韓魏宋衞中山之君也鉏耰棘矜不銛於鉤㦸長鎩也謫戍之衆非抗九國之師也深謀逺慮行軍用兵之道非及曩時之士也然而成敗異變功業相反試使山東之國與陳渉度長絜大比權量力則不可同年而語矣然秦以區區之地致萬乗之權招八州而朝同列百有餘年矣然後以六合為家崤函為宫一夫作難而七廟墮身死人手為天下笑者何也仁義不施而攻守之勢異也又曰秦王懐貪鄙之心行自奮之智不信功臣不親士民廢王道而立私愛焚文書而酷刑法先詐力而後仁義以暴虐為天下始夫兼并者髙詐力安危者貴順權以此言之取予攻守不同術也秦雖離戰國而王天下其道不易其政不改是以其所以取之也孤獨而有之故其亡可立而待也班固曰古人有言天生五材民並用之廢一不可誰能去兵鞭朴不可弛於家刑罰不可廢於國征伐不可偃於天下用之有本末行之有逆順者耳孔子曰工欲善其事必先利其器文徳者帝王之利器威武者文徳之輔助也夫文之所加者深則武之所服者大徳之所施者博則威之所制者廣三代之盛至于刑措兵寢者其本末有序帝王之極功也",
+        "kind": "semantic",
+        "text": "音賽",
         "source": "cham"
       },
       {
@@ -214,11 +237,11 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 2,
-          "start": 0,
-          "end": 34
+          "start": 53,
+          "end": 58
         },
         "kind": "semantic",
-        "text": "汜論曰夫神農伏犧不施賞罰而民不為非然而立政者不能廢法而治民舜干戚而服有苗然而征伐者不能釋甲兵而制强暴",
+        "text": "音絮",
         "source": "cham"
       },
       {
@@ -227,11 +250,11 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 2,
-          "start": 34,
-          "end": 44
+          "start": 19,
+          "end": 52
         },
         "kind": "semantic",
-        "text": "春秋曰公追戎於濟西公羊傳曰此未有言伐者其言追何大其為中國追也此未有伐中國者則言其為中國追何大其未至而豫禦之也其言于濟西何大之也",
+        "text": "先帝漢武帝也漢大行王恢曰今匈奴縱意日久矣侵盗無已係虜人民戍卒死傷中國道路櫘車相望此仁人之所哀也障保障也謂塞上要險處築城以為蔽障也塞邊塞也烽𠉀表也燧塞上亭守烽火者文頴曰邊方避冦作高土櫓櫓上作桔臯桔臯頭兠零以薪草置其中常低之有冦即火燃舉之以相告曰烽又多積薪冦至則即燃之望其煙曰燧顔師古曰晝則燔燧夜則舉烽戍守邊也從人持戈為意",
         "source": "cham"
       },
       {
@@ -240,11 +263,11 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 2,
-          "start": 44,
-          "end": 71
+          "start": 61,
+          "end": 74
         },
         "kind": "semantic",
-        "text": "音絮",
+        "text": "音較",
         "source": "cham"
       },
       {
@@ -253,11 +276,11 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 2,
-          "start": 71,
-          "end": 77
+          "start": 74,
+          "end": 80
         },
         "kind": "semantic",
-        "text": "音逸",
+        "text": "音掌",
         "source": "cham"
       },
       {
@@ -266,11 +289,11 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 2,
-          "start": 77,
-          "end": 95
+          "start": 80,
+          "end": 107
         },
         "kind": "semantic",
-        "text": "古贍字",
+        "text": "音賽",
         "source": "cham"
       },
       {
@@ -279,11 +302,11 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 2,
-          "start": 95,
-          "end": 112
+          "start": 80,
+          "end": 107
         },
         "kind": "semantic",
-        "text": "食貨志曰縣官不給天子乃損膳解乗輿駟出御府禁藏以澹之其明年山東被水災民多飢乏於是天子遣使虚郡國倉廪以賑貧",
+        "text": "乗城謂登城而守之也",
         "source": "cham"
       },
       {
@@ -291,12 +314,12 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 3,
-          "start": 0,
-          "end": 35
+          "verseIndex": 2,
+          "start": 111,
+          "end": 119
         },
         "kind": "semantic",
-        "text": "古陣字",
+        "text": "古贍字",
         "source": "cham"
       },
       {
@@ -305,11 +328,11 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 3,
-          "start": 35,
+          "start": 0,
           "end": 47
         },
-        "kind": "fanqie",
-        "text": "覽㝠訓曰晩世之時七國異族諸侯制法各殊習俗縱横間之舉兵而相角攻城濫殺覆髙危安掘墳墓揚人骸大衝車髙重京除戰道犯嚴敵殘不義百往一反聲苟盛也是故壯質輕足者為甲卒千里之外家老羸弱悽愴於内厮徒馬圉軵車奉饟道馬遼逺霜雪亟集短褐不完人羸車𡚁泥塗至膝相携於道奮首於路身枕格而死所謂兼國有地者伏尸數十萬破車以千百數傷弓弩矛㦸矢石之創者扶舉於路故世至於枕人頭食人肉飲人血廿之芻豢故自三代以後者未嘗得安其情性而樂其習俗保其修命天而不夭於人虐也",
+        "kind": "semantic",
+        "text": "去聲",
         "source": "cham"
       },
       {
@@ -319,10 +342,10 @@
           "scope": "verse",
           "verseIndex": 3,
           "start": 47,
-          "end": 59
+          "end": 56
         },
         "kind": "semantic",
-        "text": "音遥",
+        "text": "去聲",
         "source": "cham"
       },
       {
@@ -331,11 +354,11 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 3,
-          "start": 59,
-          "end": 73
+          "start": 0,
+          "end": 47
         },
         "kind": "semantic",
-        "text": "音遥",
+        "text": "韓嬰曰天子不言多少諸侯不言利害大夫不言得䘮士不言通財貨不賈於道故駟馬之家不恃鷄豚之息伐氷之家不圖牛羊之入千乗之君不通貨財冡郷不修幣大夫不為場圃委積之臣不貪市井之利是以貧窮有所歡而孤寡有所措其手足也詩曰彼有遺秉此有滯穗伊寡婦之利",
         "source": "cham"
       },
       {
@@ -344,11 +367,11 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 3,
-          "start": 73,
-          "end": 78
+          "start": 59,
+          "end": 69
         },
         "kind": "semantic",
-        "text": "詩傳曰太平之時民行役者不踰時男女不失時以偶孝子不失時以養外無曠夫内無怨女上無不慈之父下無不孝之子父子相成夫婦相保天下和平國家安寧",
+        "text": "音悦",
         "source": "cham"
       },
       {
@@ -357,11 +380,11 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 3,
-          "start": 78,
-          "end": 93
+          "start": 69,
+          "end": 86
         },
         "kind": "semantic",
-        "text": "音掌",
+        "text": "古陣字榖梁傳曰善為國者不師善師者不陳善陳者不戰善戰者不死善死者不亡班固曰齊之技擊不可以遇魏之武卒魏之武卒不可以直秦之鋭士秦之鋭士不可以當桓文之節制桓文之節制不可以敵湯武之仁義故曰善師者不陳善陳者不戰善戰者不敗善敗者不亡若夫舜修百僚咎繇作士命以蠻夷猾夏冦賊姦軌而刑無所用所謂善師不陳者也湯武征伐陳師誓衆而放禽桀紂所謂善陳不戰者也齊桓南服强楚使貢周室北伐山戎為燕開路存亡繼絶功為伯首所謂善戰不敗者也楚昭王遭闔廬之禍國滅出亡父老送之王曰父老反矣何患無君父老曰有君如是其賢也相與從之或奔走赴秦號哭請救秦人憐之為之出兵昭王返國所謂善敗不亡者也",
         "source": "cham"
       },
       {
@@ -370,11 +393,11 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 3,
-          "start": 93,
-          "end": 106
+          "start": 86,
+          "end": 95
         },
         "kind": "semantic",
-        "text": "音悶",
+        "text": "音旋",
         "source": "cham"
       },
       {
@@ -383,11 +406,583 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 3,
-          "start": 106,
-          "end": 127
+          "start": 95,
+          "end": 107
         },
         "kind": "semantic",
-        "text": "詩序曰文王之時西有昆夷之患北有玁狁之難以天子之命命將率遣戍役以守衞中國故歌采薇以遣之出車以勞還枤杜以勤歸也",
+        "text": "音烏",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-29",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 4,
+          "start": 0,
+          "end": 10
+        },
+        "kind": "semantic",
+        "text": "音舝諡法云賊人多殺曰桀古人謂桀黠者謂其凶𭧂若桀也",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-30",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 4,
+          "start": 10,
+          "end": 14
+        },
+        "kind": "semantic",
+        "text": "音賽",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-31",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 4,
+          "start": 14,
+          "end": 30
+        },
+        "kind": "semantic",
+        "text": "法也",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-32",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 4,
+          "start": 30,
+          "end": 48
+        },
+        "kind": "semantic",
+        "text": "古贍字蔡邕獨斷曰漢天子正號曰皇帝自稱曰朕臣民稱之曰陛下陛階也所由升堂也天子必有近臣執兵陳於陛側以戒不虞謂之陛下者羣臣與天子言不敢指斥天子故呼在陛下者而告之因卑逹尊之意也上書亦如之及羣臣士庻相與言曰殿下閤下執事之屬皆此類也元元庻民也",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-33",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 4,
+          "start": 48,
+          "end": 61
+        },
+        "kind": "semantic",
+        "text": "音披",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-34",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 5,
+          "start": 0,
+          "end": 15
+        },
+        "kind": "semantic",
+        "text": "祭公謀父曰先王耀徳不觀兵是故周文公之頌曰載戢干戈載櫜弓矢我求懿徳肆于時夏允王保之先王之於民也茂正其徳而厚其性阜其財而利其器用明利害之鄉以文修之使之務利而辟害懷徳而畏威故能保世以滋大兵畧訓曰湯之七十里而王者修徳也智伯有千里之地而亡者窮武也故千里之國行文徳者王萬乗之國好用兵者亡",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-35",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 5,
+          "start": 15,
+          "end": 50
+        },
+        "kind": "semantic",
+        "text": "音絮",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-36",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 6,
+          "start": 0,
+          "end": 55
+        },
+        "kind": "semantic",
+        "text": "食貨志曰自神農之世斵木為耜揉木為耒耒耜之利以教天下而食足日中為市致天下之民聚天下之貨交易而退各得其所而貨通食足貨通然後國實民富而教化成黄帝以下通其變使民不倦李奇曰器幣有不便於時則變更通利之使民樂其業而不倦也",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-37",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 6,
+          "start": 55,
+          "end": 84
+        },
+        "kind": "semantic",
+        "text": "吕氏春秋曰農攻粟工攻器賈攻貨時事不共是謂大凶周書曰農不出則乏其食工不出則乏其事商不出則三寳絕虞不出則財匱少財匱少而山澤不辟矣此四者民所衣食之原也原大則饒原小則鮮上則富國下則富家",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-38",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 7,
+          "start": 0,
+          "end": 62
+        },
+        "kind": "semantic",
+        "text": "釋名曰躁燥也如物燥則飛揚賈逵曰躁擾也淮南齊俗訓曰亂國若盛治國若虚亡國若不足存國若有餘虚者非無人也皆守其職也盛者非多人也皆徼於末也有餘者非多財也欲節事寡也不足者非無貨也民躁而費多也",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-39",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 7,
+          "start": 62,
+          "end": 74
+        },
+        "kind": "semantic",
+        "text": "古防字",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-40",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 8,
+          "start": 0,
+          "end": 61
+        },
+        "kind": "semantic",
+        "text": "音南",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-41",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 8,
+          "start": 61,
+          "end": 93
+        },
+        "kind": "semantic",
+        "text": "貨殖傳曰夫山西饒材竹穀纑旄玉石山東多魚鹽漆絲聲色江南出柟梓薑桂金錫連丹沙犀瑇瑁珠璣齒革龍門碣石北多馬牛羊旃裘筋角銅鐡則千里徃徃山出綦置皆中國人民所喜好謡俗被服飲食奉生送死之具也故待農而食之虞而出之工而成之商而通之此寕有政教發徴期會哉人各任其能竭其力以得所欲故物賤之徴貴貴之徵賤各勸其業樂其事若水之趨下日夜無休時不召而自來不求而民出之豈非道之所符而自然之驗耶",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-42",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 8,
+          "start": 93,
+          "end": 125
+        },
+        "kind": "semantic",
+        "text": "易曰黄帝堯舜垂衣裳而天下治蓋取諸乾坤刳木為舟剡木為楫舟楫之利以濟不通盖取諸渙服牛乗馬引重致逺以利天下盖取諸隨",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-43",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 8,
+          "start": 125,
+          "end": 134
+        },
+        "kind": "semantic",
+        "text": "古瞻字",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-44",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 9,
+          "start": 0,
+          "end": 48
+        },
+        "kind": "semantic",
+        "text": "管子曰國有十年之畜而民不足於食是皆以其技能望君之禄也君有山海之金而民不足於用是皆以其事業交接於其上也",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-45",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 9,
+          "start": 48,
+          "end": 61
+        },
+        "kind": "semantic",
+        "text": "古贍字",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-46",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 9,
+          "start": 61,
+          "end": 63
+        },
+        "kind": "semantic",
+        "text": "汜論曰𩅸水足以溢壺榼江河不能實漏巵王符曰山林不能給野火江海不能實漏巵",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-47",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 9,
+          "start": 63,
+          "end": 73
+        },
+        "kind": "semantic",
+        "text": "殷紀曰帝盤庚之時殷已都河北盤庚渡河南復居成湯之故居乃五遷無定處殷民咨胥皆怨不欲徙盤庚乃告諭諸侯大臣曰昔髙后成湯與爾之先祖俱定天下法則可修舍而弗勉何以成徳乃遂渉河南治亳行湯之政然後百姓由寧殷道復興諸侯來朝以其遵成湯之徳也泰族訓曰夫水出於山而入於海稼生於田而藏於倉聖人見其所生則知其所歸矣故舜深藏黄金於蔪巖之山所以塞貪鄙之心也",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-48",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 9,
+          "start": 73,
+          "end": 78
+        },
+        "kind": "semantic",
+        "text": "音古",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-49",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 9,
+          "start": 78,
+          "end": 96
+        },
+        "kind": "semantic",
+        "text": "食貨志曰秦兼天下幣為二等黄金以鎰為名上幣銅錢質如周錢文曰半兩重如其文而珠玉龜貝銀錫之屬為器飾寳藏不為幣然各隨時而輕重漢興以為秦錢重難用更令民鑄筴錢黄金一斤而不軌逐利之民畜積餘贏以稽市物痛騰躍米至石萬錢馬至四百金天下已平高祖乃令賈人不得衣絲乗車重稅租以困辱之孝惠高后時為天下初定復弛商賈之律然市井子孫亦不得官為吏顔師古曰欲令務農也",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-50",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 9,
+          "start": 96,
+          "end": 100
+        },
+        "kind": "semantic",
+        "text": "排斥也",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-51",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 9,
+          "start": 100,
+          "end": 101
+        },
+        "kind": "semantic",
+        "text": "古防字",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-52",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 9,
+          "start": 101,
+          "end": 117
+        },
+        "kind": "semantic",
+        "text": "去聲",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-53",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 9,
+          "start": 117,
+          "end": 121
+        },
+        "kind": "semantic",
+        "text": "去聲",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-54",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 9,
+          "start": 121,
+          "end": 138
+        },
+        "kind": "semantic",
+        "text": "劉向曰周天子使家父毛伯求金於諸侯春秋譏之故天子好利則諸侯貪諸侯貪則大夫鄙大夫鄙則庻人盗上之變下猶風之靡草也故為人君者明貴徳而賤利以道下下之為惡尚不可止今隐公貪利而身自漁濟上而行八佾以此化於國人國人安得不解於義解於義而縱其欲則災害起而臣下僻矣故其元年始書⿰虫𡨋言災害將起國家將亂云爾司馬遷曰余讀孟子書至梁惠王問何以利吾國未嘗不廢書而歎也曰嗟乎利誠亂之始也夫子罕言利者常防其原也故曰放於利而行多怨自天子至於庶人好利之𡚁何以異哉",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-55",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 9,
+          "start": 138,
+          "end": 145
+        },
+        "kind": "semantic",
+        "text": "管子曰利出於一孔者其國無敵出二孔者其兵不詘出三孔者不可以舉兵出四孔者其國必亡先王知其然故塞民之養隘其利途故予之在君介之在君貧之在君富之在君故民之戴上如日月親君若父母梯階也詩曰無拳無勇職為亂階",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-56",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 10,
+          "start": 0,
+          "end": 59
+        },
+        "kind": "semantic",
+        "text": "籠包舉也",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-57",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 10,
+          "start": 59,
+          "end": 72
+        },
+        "kind": "semantic",
+        "text": "如淳曰縣官天子也張晏曰不敢斥言天子謂之縣官也",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-58",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 10,
+          "start": 72,
+          "end": 74
+        },
+        "kind": "semantic",
+        "text": "音古",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-59",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 10,
+          "start": 74,
+          "end": 78
+        },
+        "kind": "semantic",
+        "text": "如淳曰牟取也",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-60",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 11,
+          "start": 0,
+          "end": 29
+        },
+        "kind": "semantic",
+        "text": "音工",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-61",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 11,
+          "start": 29,
+          "end": 32
+        },
+        "kind": "semantic",
+        "text": "食貨志曰古者民受田有賦有稅賦供車馬兵甲士徒之役充實府庫賜予之用稅給郊社宗廟百神之祀天子奉養百官禄食庶事之費周禮曰司稼掌廵邦野之稼而辨穜稑之種周知其民與其所宜地以為法而縣于邑閭廵野觀稼以年之上下出歛法掌均萬民之食而賙其急而平其興典婦功掌婦式之法以授嬪婦及内人女功之事齎凡授嬪婦功及秋獻功辨其苦良比其小大而賈之物書而揭之以供王及后之用頒之于内府",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-62",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 11,
+          "start": 32,
+          "end": 52
+        },
+        "kind": "semantic",
+        "text": "音諫",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-63",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 11,
+          "start": 52,
+          "end": 57
+        },
+        "kind": "semantic",
+        "text": "平聲使令也",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-64",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 11,
+          "start": 57,
+          "end": 98
+        },
+        "kind": "semantic",
+        "text": "平聲",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-65",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 11,
+          "start": 98,
+          "end": 101
+        },
+        "kind": "semantic",
+        "text": "音工",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-66",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 11,
+          "start": 101,
+          "end": 112
+        },
+        "kind": "semantic",
+        "text": "音委",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-67",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 11,
+          "start": 112,
+          "end": 130
+        },
+        "kind": "semantic",
+        "text": "司馬貞曰騰躍者謂物踊貴而價起有如物之騰躍而起也",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-68",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 11,
+          "start": 130,
+          "end": 135
+        },
+        "kind": "semantic",
+        "text": "音古",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-69",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 11,
+          "start": 135,
+          "end": 139
+        },
+        "kind": "semantic",
+        "text": "行貨曰商坐販曰賈",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-70",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 11,
+          "start": 139,
+          "end": 161
+        },
+        "kind": "semantic",
+        "text": "音古",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-71",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 11,
+          "start": 161,
+          "end": 191
+        },
+        "kind": "semantic",
+        "text": "去聲",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-72",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 11,
+          "start": 191,
+          "end": 194
+        },
+        "kind": "semantic",
+        "text": "音古",
         "source": "cham"
       }
     ]
@@ -397,7 +992,7 @@
       "id": "default",
       "label": "原文",
       "shortLabel": "文",
-      "contributor": "桓寬",
+      "contributor": "",
       "role": "author",
       "nature": "annotation",
       "displayOrder": 0,

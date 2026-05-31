@@ -1,7 +1,7 @@
 {
   "bookId": "skqs-mengzi-zhushu",
   "num": 1,
-  "title": "帝範序",
+  "title": "序",
   "author": "趙岐",
   "authorId": "趙岐",
   "dynasty": "漢",
@@ -22,13 +22,7 @@
       "text": "孟子注疏　　　　　　　四書類"
     },
     {
-      "text": "目錄"
-    },
-    {
       "text": "孟子音義序　　孟子題辭解"
-    },
-    {
-      "text": "孟子注疏原目"
     },
     {
       "text": "卷一上"
@@ -217,7 +211,7 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 63,
+          "verseIndex": 61,
           "start": 0,
           "end": 3
         },
@@ -230,7 +224,7 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 63,
+          "verseIndex": 61,
           "start": 3,
           "end": 518
         },
@@ -243,7 +237,7 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 63,
+          "verseIndex": 61,
           "start": 518,
           "end": 802
         },
@@ -256,7 +250,7 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 63,
+          "verseIndex": 61,
           "start": 802,
           "end": 893
         },
@@ -269,7 +263,7 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 64,
+          "verseIndex": 62,
           "start": 0,
           "end": 6
         },
@@ -282,7 +276,7 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 64,
+          "verseIndex": 62,
           "start": 6,
           "end": 8
         },
@@ -295,7 +289,7 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 64,
+          "verseIndex": 62,
           "start": 8,
           "end": 11
         },
@@ -308,7 +302,7 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 65,
+          "verseIndex": 63,
           "start": 0,
           "end": 8
         },

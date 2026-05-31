@@ -2,11 +2,10 @@
   "bookId": "skqs-difan",
   "num": 6,
   "title": "審官第四",
-  "author": "李世民",
-  "authorId": "唐太宗",
-  "dynasty": "唐",
-  "era": "唐",
-  "eraCode": "24",
+  "author": "",
+  "authorId": "",
+  "dynasty": "",
+  "era": "",
   "genre": "prose",
   "verses": [
     {
@@ -156,8 +155,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 1,
-          "start": 95,
-          "end": 106
+          "start": 66,
+          "end": 95
         },
         "kind": "semantic",
         "text": "良匠能盡其木之性而用是無棄遺之材明主能盡其人之行而用是無棄遺之士斯二者惟良匠明主及之",
@@ -234,8 +233,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 1,
-          "start": 150,
-          "end": 162
+          "start": 140,
+          "end": 150
         },
         "kind": "semantic",
         "text": "劉子曰一鈞之器不可容於泉流三十斤為鈞江水出岷廣雅曰江貢也風俗通曰出珍物可貢獻也釋名曰江共也小水流入其中所公共也禹貢有中江北江三江九江今人謂川之大者皆曰江漢天河詩云維天有漢又水名今人呼陽邏之水為漢江言輕不可重用也",
@@ -416,8 +415,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 1,
-          "start": 269,
-          "end": 279
+          "start": 262,
+          "end": 269
         },
         "kind": "semantic",
         "text": "列宿星宿也隂光月也言衆星雖小騰布于天亦可以助月未明之光也",
@@ -429,8 +428,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 1,
-          "start": 279,
-          "end": 289
+          "start": 269,
+          "end": 279
         },
         "kind": "semantic",
         "text": "百川百川之水也溟渤海也言百川之水决流于地雖㣲亦可資添大海李斯有曰河海不擇細流故能就其深",
@@ -442,8 +441,8 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 1,
-          "start": 289,
-          "end": 300
+          "start": 279,
+          "end": 289
         },
         "kind": "semantic",
         "text": "以海之深月之明猶藉羣物以成光大耳物謂列宿百川也",
@@ -534,7 +533,7 @@
       "id": "default",
       "label": "原文",
       "shortLabel": "文",
-      "contributor": "唐太宗",
+      "contributor": "",
       "role": "author",
       "nature": "annotation",
       "displayOrder": 0,

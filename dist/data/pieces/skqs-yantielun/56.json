@@ -1,19 +1,24 @@
 {
   "bookId": "skqs-yantielun",
   "num": 56,
-  "title": "能言第四十",
-  "author": "桓寬",
-  "authorId": "桓寬",
+  "title": "誅秦第四十四",
+  "author": "",
+  "authorId": "",
   "dynasty": "漢",
   "era": "漢",
-  "eraCode": "07",
   "genre": "prose",
   "verses": [
     {
-      "text": "大夫曰盲者口能言白黑而無目以别之儒者口能言治亂無能以行之夫坐言不行則牧童兼烏獲之力須苞堯舜之徳故使言而近則儒者何患於治亂而盲人何患於白黑哉言之不出耻躬之不逮故卑而言髙能言而不能行者君子耻之矣"
+      "text": "大夫曰秦楚燕齊周之封國也三晉之君齊之田氏諸侯家臣也内守其國外伐不義地廣壤進故立號萬乗而為諸侯宗周室修禮長文然國翦弱不能自存東攝六國西畏於秦身以放遷宗廟絶祀頼先帝大惠紹興其後封嘉潁川號周子男君秦既并天下東絶沛水并滅朝鮮南取陸梁北却胡狄西畧氏羌立帝號朝四夷舟車所通足迹所及靡不畢至非服其德畏其威也力多則人朝力寡則朝於人矣"
     },
     {
-      "text": "賢良曰能言而不能行者國之寳也能行而不能言者國之用也兼此二者君子也無一者烏獲逢須也言滿天下徳覆四海周公是也口言之躬行之豈若黙然載施其行而已則執事亦何患何耻之有今道不舉而務小利慕於不急以亂羣意君子雖貧勿為可也藥酒病之利也正言治之藥也公卿誠能自强自忍食文學之至言去權詭罷利官一歸之於民親以周公之道則天下治而頌聲作儒者安得治亂而患之乎"
+      "text": "文學曰禹舜堯之佐也湯文夏商之臣也其所以從八極而朝海内者非以陸梁之地兵革之威也秦楚三晉號萬乗不務積徳而負相侵搆兵爭强而卒俱亡雖以進壤廣地如食萴之充腸也欲其安存何可得也夫禮譲為國者若江海流彌乆不竭其本美也苟為無本若蒿火𭧂怒而無繼其亡可立而待戰國是也周徳衰然後列於諸侯至今不絶秦力盡而滅其族安得朝人也{/13}"
+    },
+    {
+      "text": "大夫曰中國與邊境猶支體與腹心也夫肌膚寒於外腹腸疾於内内外之相勞非相為助也唇亡則齒寒支體傷而心𢡚怛故無手足則支體廢無邊境則内國害昔戎狄攻太王於邠踰岐梁而與秦界於涇渭東至晉之陸渾侵暴中國中國疾之今匈奴蠶食内侵逺者不離其苦獨邊境䝉其敗詩云憂心慘慘念國之為虐不征備則𭧂害不息故先帝興義兵以征厥罪遂破祁連天山散其聚黨北略至龍城大圍匈奴單于失魂僅以身免乗奔逐北斬首捕虜十餘萬控之民旃裘之長莫不沮膽挫折逺遁遂乃振旅渾耶率其衆以降置五屬國以距胡則長城之内河山之外罕被冦𦸜於是下詔令减戍漕寛繇役初雖勞苦卒獲其慶"
+    },
+    {
+      "text": "文學曰周累世積徳天下莫不願以為君故不勞而王恩施由近及逺而蠻貊自至秦任戰勝以兼天下小海内而貪胡越之地使𫎇恬撃胡取河南以為新秦而亡其故秦築長城以守胡而亡其所守往者兵革亟動師旅數起長城之北還車遺鏃相望及李廣利等輕計還馬足莫不寒心雖得渾耶不能更所亡此非社稷之至計也"
     }
   ],
   "sections": {},
@@ -27,10 +32,10 @@
           "scope": "verse",
           "verseIndex": 0,
           "start": 0,
-          "end": 31
+          "end": 45
         },
         "kind": "semantic",
-        "text": "主術訓曰問瞽師曰白素何如曰縞然而黒何若曰黮然援白黑而示之則不處焉人之視白黑以目言白黑以口瞽師有以言白黒無以知白黒故言白黒與人同其別白黒與人異",
+        "text": "去聲",
         "source": "cham"
       },
       {
@@ -39,11 +44,11 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 0,
-          "start": 31,
-          "end": 32
+          "start": 45,
+          "end": 55
         },
         "kind": "semantic",
-        "text": "音扶",
+        "text": "音掌",
         "source": "cham"
       },
       {
@@ -52,11 +57,11 @@
           "type": "range",
           "scope": "verse",
           "verseIndex": 0,
-          "start": 32,
-          "end": 50
+          "start": 55,
+          "end": 98
         },
         "kind": "semantic",
-        "text": "烏獲秦武王之力士舉龍文鼎者逢須古本作逢䝉夏太康時人學射於羿者也荀子淮南子及王褒頌乂作逢門",
+        "text": "古本作周子南君漢武紀曰元鼎四年十一月甲子立后土祠于汾隂脽上禮畢行幸滎陽還至洛陽詔曰祭地兾州瞻望河洛廵省豫州觀於周室邈而無祀詢問耆老乃得孽子嘉其封嘉為周子南君以奉周祀顔師古曰子南其封邑之號以為周後故總言周子南君也",
         "source": "cham"
       },
       {
@@ -64,12 +69,12 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 1,
-          "start": 0,
-          "end": 43
+          "verseIndex": 0,
+          "start": 98,
+          "end": 127
         },
         "kind": "semantic",
-        "text": "古作逢䝉",
+        "text": "音潮",
         "source": "cham"
       },
       {
@@ -77,12 +82,389 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 1,
-          "start": 43,
-          "end": 117
+          "verseIndex": 0,
+          "start": 127,
+          "end": 154
         },
         "kind": "semantic",
-        "text": "孫楚曰夫治膏肓者必進苦口之藥决狐疑者必告逆耳之言如其迷謬未知所投恐俞跗見其已困扁鵲知其無功也",
+        "text": "音潮",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-6",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 0,
+          "start": 154,
+          "end": 158
+        },
+        "kind": "semantic",
+        "text": "音潮",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-7",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 0,
+          "end": 27
+        },
+        "kind": "semantic",
+        "text": "音潮",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-8",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 27,
+          "end": 41
+        },
+        "kind": "semantic",
+        "text": "秦紀曰始皇三十三年發諸亡人贅壻賈人略取陸梁地為桂林司馬貞曰南方之人其性陸梁故曰陸梁晉灼曰走者陸梁而跳也",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-9",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 41,
+          "end": 48
+        },
+        "kind": "semantic",
+        "text": "去聲",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-10",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 48,
+          "end": 77
+        },
+        "kind": "semantic",
+        "text": "廣雅曰附子一嵗曰萴子二嵗烏喙三嵗附子四嵗烏頭五嵗天雄蘇秦為燕說齊王曰人之飢所以不食烏喙者以為雖偷充腹而與死同患也今燕雖弱小强秦之少壻也王利其十城而深與强秦為仇今使弱燕為鴈行而强秦制其後以招天下之精兵此食烏喙之類也",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-11",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 77,
+          "end": 86
+        },
+        "kind": "semantic",
+        "text": "音扶",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-12",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 1,
+          "start": 86,
+          "end": 149
+        },
+        "kind": "semantic",
+        "text": "音潮",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-13",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 3,
+          "start": 0,
+          "end": 24
+        },
+        "kind": "semantic",
+        "text": "嚴安曰周有天下其治三百餘嵗成康其隆也刑措四十餘年而不用及其衰亦三百餘年故五伯更起伯者常佐天子興利除害誅暴禁邪匡正海内以尊天子五伯既沒聖賢莫續天子孤弱號令不行諸侯恣行强凌弱衆𭧂寡田常簒齊六卿分晉並為戰國此民之始苦也於是强國務攻弱國修守合從連衡車馳轂撃介胄生蟣蝨民無所告愬及至秦王蠶食天下并吞戰國稱號皇帝一海内之政意廣心逸欲威海外當是時秦禍北搆於胡南挂於越宿兵於無用之地進而不得退行十餘年丁男被甲丁女轉輸苦不聊生自經於道樹死者相望及秦皇帝崩天下大畔陳勝呉廣舉陳武臣張耳舉趙項梁舉呉田儋舉齊景駒舉郢周市舉魏韓廣舉燕窮山通谷豪士並進不可勝載秦貴為天子富有天下滅世絶祀窮兵之禍也",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-14",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 2,
+          "start": 0,
+          "end": 19
+        },
+        "kind": "semantic",
+        "text": "音扶",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-15",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 2,
+          "start": 19,
+          "end": 51
+        },
+        "kind": "semantic",
+        "text": "音慘",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-16",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 2,
+          "start": 51,
+          "end": 99
+        },
+        "kind": "semantic",
+        "text": "匈奴傳曰夏道衰而公劉失其稷官變于西戎邑于豳其後三百有餘嵗戎狄攻大王亶父亶父亡走于岐下豳人悉從亶父而邑焉作周至于幽王用寵姬褒姒之故與申侯有隙申侯怒而與犬戎共攻殺幽王于驪山之下遂取周之地鹵獲而居于涇渭之間侵𭧂中國秦襄救周伐戎至岐周襄王時戎狄或居於陸渾東至于衞侵盗尤甚晉文公初立欲修霸業廼興師伐戎翟當是時秦晉為强國晉文公攘戎翟居於河西圜洛之間號曰赤翟白翟而秦穆公得由余西戎八國服諸戎各分散谿谷自有君長往往而聚者百有餘戎然莫能相一其後千有餘嵗至冐頓而匈奴最强大盡服從北夷而南與諸夏為敵國",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-17",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 2,
+          "start": 99,
+          "end": 110
+        },
+        "kind": "semantic",
+        "text": "去聲",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-18",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 2,
+          "start": 110,
+          "end": 168
+        },
+        "kind": "semantic",
+        "text": "音蟬",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-19",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 2,
+          "start": 168,
+          "end": 190
+        },
+        "kind": "semantic",
+        "text": "音氊",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-20",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 2,
+          "start": 190,
+          "end": 193
+        },
+        "kind": "semantic",
+        "text": "音掌",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-21",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 2,
+          "start": 193,
+          "end": 206
+        },
+        "kind": "semantic",
+        "text": "古本作昆",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-22",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 2,
+          "start": 206,
+          "end": 207
+        },
+        "kind": "semantic",
+        "text": "古本作邪",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-23",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 2,
+          "start": 207,
+          "end": 233
+        },
+        "kind": "semantic",
+        "text": "音菑",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-24",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 2,
+          "start": 233,
+          "end": 239
+        },
+        "kind": "semantic",
+        "text": "音檢",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-25",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 2,
+          "start": 239,
+          "end": 240
+        },
+        "kind": "semantic",
+        "text": "音絮",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-26",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 2,
+          "start": 240,
+          "end": 243
+        },
+        "kind": "semantic",
+        "text": "音遥",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-27",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 2,
+          "start": 243,
+          "end": 249
+        },
+        "kind": "semantic",
+        "text": "匈奴傳曰匈奴右賢王怨漢奪之河南地而築朔方數冦盗邊及入河南侵擾朔方殺畧吏民甚衆元狩二年春漢使大將軍衞青將六將軍十餘萬人出朔方髙闕右賢王以為漢兵不能至飲酒醉漢兵出塞六七百里夜圍右賢王右賢王大驚脱身逃走精騎往往隨後去漢將軍得右賢王人衆男女萬五千人禆小王十餘人其夏驃騎將軍霍去病復與合騎侯數萬騎出隴西北地二千里過居延攻祁連山得胡首虜三萬餘級禆小王以下十餘人衞青傳曰其秋單于怒昆邪王休屠王居西方為漢所殺虜數萬人欲召誅之昆邪休屠王恐謀降漢漢使驃騎將軍迎之昆邪王殺休屠王并將其衆降漢凡四萬餘人號十萬既至長安天子所以賞賜者數十巨萬封昆邪王萬户為漯隂侯封其禆王呼毒尼為下麾侯鷹庇為輝渠侯禽黎為河綦侯大當戸銅離為常樂侯漢已得昆邪則隴西北地河西益少胡冦於是天子嘉驃騎之功曰驃騎將軍去病率師攻匈奴西域昆邪王及厥衆萌咸相犇率以軍糧接食并將控弦萬有餘人誅獟悍獲首虜八千餘級降異國之王三十二人戰士不離傷十萬之衆咸懐集服仍與之勞爰及河塞庶㡬無患幸旣永綏矣以千七百戶益封驃騎將軍减隴西北地上郡戍卒之半以寛天下之繇",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-28",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 3,
+          "start": 0,
+          "end": 24
+        },
+        "kind": "semantic",
+        "text": "去聲",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-29",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 3,
+          "start": 24,
+          "end": 35
+        },
+        "kind": "semantic",
+        "text": "蕭綺曰武王資聖智而剋伐觀天命以行誅不驅熊羆之師不勞三戰之旅一戎衣而定王業慿神力而協符瑞至于成王制禮崇樂姬徳方盛營洛邑而居九鼎寢刑廟堂萬國來賔雖大禹之隆夏績帝乙之興殷道未足方焉故能繼夏稷之先基紹公劉之聖徳文武之跡不墜故大稚稱為令徳播聲教於八荒之外流仁惠於九圍之表神智之所綏化遐邇之所來服靡不越岳航海交賮於遼險之路瑰寳殊恠之物充於王庭靈禽異獸之類遊集林蘌詭麗殊用之物鐫斵異於人功方册未之或載篆素或所不紀及乎王人風舉之使直指踰於日月之陲窮昬明之際覘風星以望路慿雲波而逺逝所謂道通幽微徳被冥昧者也",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-30",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 3,
+          "start": 35,
+          "end": 81
+        },
+        "kind": "semantic",
+        "text": "王恢曰昔者秦穆公都雍郊地方三百里攻取西戎辟地千里并國十二隴西北地是也其後䝉恬為秦侵胡以河為境累石為城積木為寨匈奴不敢飲馬北河置烽燧然後敢牧馬應劭曰秦始皇遣䝉恬攘卻匈奴得其河南造陽之北千里地甚好於是築為城郭徙民充之名曰新秦四方錯雜奢儉不同今俗名新富貴者為新秦由是名也人間訓曰忠臣者務崇君之徳諂臣者務廣君之地",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-31",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 3,
+          "start": 81,
+          "end": 90
+        },
+        "kind": "semantic",
+        "text": "音朔",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-32",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 3,
+          "start": 90,
+          "end": 96
+        },
+        "kind": "semantic",
+        "text": "音旋",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-33",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 3,
+          "start": 96,
+          "end": 119
+        },
+        "kind": "semantic",
+        "text": "古作昆邪",
+        "source": "cham"
+      },
+      {
+        "id": "commentary-34",
+        "range": {
+          "type": "range",
+          "scope": "verse",
+          "verseIndex": 3,
+          "start": 119,
+          "end": 129
+        },
+        "kind": "semantic",
+        "text": "應劭曰更償也言所得不足以償其所失也李廣傳曰天漢二年秋貳師將軍李廣利將三萬騎撃匈奴右賢王於祈連天山而使陵將其射士歩兵五千人出居延北可千餘里欲以分匈奴兵毋令專走貳師也陵既至期還而單于以兵八萬圍撃陵軍陵軍五千人兵矢既盡士死者過半而所殺傷匈奴亦萬餘人且引且戰連鬪八日還未到居延百餘里匈奴遮狹絶道陵食乏而救兵不到虜急擊招降陵陵曰無面目報陛下遂降匈奴其兵盡沒餘亡散得歸漢者四百餘人",
         "source": "cham"
       }
     ]
@@ -92,7 +474,7 @@
       "id": "default",
       "label": "原文",
       "shortLabel": "文",
-      "contributor": "桓寬",
+      "contributor": "",
       "role": "author",
       "nature": "annotation",
       "displayOrder": 0,

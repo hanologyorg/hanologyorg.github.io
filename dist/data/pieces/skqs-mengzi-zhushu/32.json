@@ -1,7 +1,7 @@
 {
   "bookId": "skqs-mengzi-zhushu",
   "num": 32,
-  "title": "卷四",
+  "title": "孟子注疏巻七下",
   "author": "趙岐",
   "authorId": "趙岐",
   "dynasty": "漢",
@@ -10,39 +10,9 @@
   "genre": "prose",
   "verses": [
     {
-      "text": "公孫丑章句下"
+      "text": "漢趙氏注　宋孫奭音義并疏"
     }
   ],
   "sections": {},
-  "annotations": [],
-  "layers": {
-    "commentary": [
-      {
-        "id": "commentary-1",
-        "range": {
-          "type": "range",
-          "scope": "verse",
-          "verseIndex": 0,
-          "start": 0,
-          "end": 6
-        },
-        "kind": "semantic",
-        "text": "凡十四章",
-        "source": "cham"
-      }
-    ]
-  },
-  "annotationLayers": [
-    {
-      "id": "default",
-      "label": "原文",
-      "shortLabel": "文",
-      "contributor": "趙岐",
-      "role": "author",
-      "nature": "annotation",
-      "displayOrder": 0,
-      "enabled": true,
-      "annotations": []
-    }
-  ]
+  "annotations": []
 }

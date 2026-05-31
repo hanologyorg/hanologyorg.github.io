@@ -43,9 +43,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
+          "verseIndex": 1,
           "start": 0,
-          "end": 17
+          "end": 19
         },
         "kind": "commentary",
         "text": "民之不可治者，以其君上多欲，好有為也，",
@@ -56,9 +56,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
+          "verseIndex": 1,
           "start": 0,
-          "end": 17
+          "end": 19
         },
         "kind": "commentary",
         "text": "是以其民化上有為，情偽難治。",
@@ -69,7 +69,7 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
+          "verseIndex": 2,
           "start": 0,
           "end": 17
         },
@@ -95,9 +95,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
+          "verseIndex": 3,
           "start": 0,
-          "end": 17
+          "end": 12
         },
         "kind": "commentary",
         "text": "夫唯獨無以生為務者，爵祿不干於意，財利不入於身，天子不得臣，諸侯不得使，則賢於貴生也。",
@@ -160,9 +160,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
+            "verseIndex": 1,
             "start": 0,
-            "end": 17
+            "end": 19
           },
           "kind": "commentary",
           "text": "民之不可治者，以其君上多欲，好有為也，",
@@ -173,9 +173,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
+            "verseIndex": 1,
             "start": 0,
-            "end": 17
+            "end": 19
           },
           "kind": "commentary",
           "text": "是以其民化上有為，情偽難治。",
@@ -186,7 +186,7 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
+            "verseIndex": 2,
             "start": 0,
             "end": 17
           },
@@ -212,9 +212,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 2,
+            "verseIndex": 3,
             "start": 0,
-            "end": 17
+            "end": 12
           },
           "kind": "commentary",
           "text": "夫唯獨無以生為務者，爵祿不干於意，財利不入於身，天子不得臣，諸侯不得使，則賢於貴生也。",

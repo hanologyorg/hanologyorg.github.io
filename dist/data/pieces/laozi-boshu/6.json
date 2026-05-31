@@ -9,13 +9,13 @@
   "genre": "prose",
   "verses": [
     {
-      "text": "谷神不死 是謂玄牝"
+      "text": "谷神不死，是謂玄牝。"
     },
     {
-      "text": "玄牝之門 是謂天地之根"
+      "text": "玄牝之門，是謂天地之根。"
     },
     {
-      "text": "綿綿呵若存 用之不堇"
+      "text": "綿綿呵若存，用之不堇。"
     }
   ],
   "sections": {},
@@ -40,9 +40,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 0,
+          "verseIndex": 1,
           "start": 0,
-          "end": 9
+          "end": 12
         },
         "kind": "commentary",
         "text": "根，元也。言鼻口之門，是乃通天地之元氣所從往來也。",
@@ -53,7 +53,7 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 1,
+          "verseIndex": 2,
           "start": 0,
           "end": 11
         },
@@ -68,7 +68,7 @@
           "scope": "verse",
           "verseIndex": 2,
           "start": 0,
-          "end": 10
+          "end": 11
         },
         "kind": "commentary",
         "text": "用氣當寬舒，不當急疾懃勞也。",
@@ -83,7 +83,7 @@
           "scope": "verse",
           "verseIndex": 0,
           "start": 0,
-          "end": 9
+          "end": 10
         },
         "kind": "commentary",
         "text": "神，谷中央無谷也。無形無影，無逆無違，處卑不動，守靜不衰，谷以之成而不見其形，此至物也。處卑而不可得名，故謂天地之根，緜緜若存，用之不 勤。門，玄牝之所由也，本其所由，與極同體，故謂之天地之根也。欲言存邪，則不見其形，欲言亡邪，萬物以之生。故緜緜若存也，無物不成，用而不勞也。故曰，用而不勤也。",
@@ -131,9 +131,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 0,
+            "verseIndex": 1,
             "start": 0,
-            "end": 9
+            "end": 12
           },
           "kind": "commentary",
           "text": "根，元也。言鼻口之門，是乃通天地之元氣所從往來也。",
@@ -144,7 +144,7 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 1,
+            "verseIndex": 2,
             "start": 0,
             "end": 11
           },
@@ -159,7 +159,7 @@
             "scope": "verse",
             "verseIndex": 2,
             "start": 0,
-            "end": 10
+            "end": 11
           },
           "kind": "commentary",
           "text": "用氣當寬舒，不當急疾懃勞也。",
@@ -184,7 +184,7 @@
             "scope": "verse",
             "verseIndex": 0,
             "start": 0,
-            "end": 9
+            "end": 10
           },
           "kind": "commentary",
           "text": "神，谷中央無谷也。無形無影，無逆無違，處卑不動，守靜不衰，谷以之成而不見其形，此至物也。處卑而不可得名，故謂天地之根，緜緜若存，用之不 勤。門，玄牝之所由也，本其所由，與極同體，故謂之天地之根也。欲言存邪，則不見其形，欲言亡邪，萬物以之生。故緜緜若存也，無物不成，用而不勞也。故曰，用而不勤也。",
