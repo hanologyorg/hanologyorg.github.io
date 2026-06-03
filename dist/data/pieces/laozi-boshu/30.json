@@ -9,34 +9,10 @@
   "genre": "prose",
   "verses": [
     {
-      "text": "以道佐人主。不以兵強於天下，亓事好還。"
+      "text": "以道佐人主。不以兵強於天下，亓事好還。師之所居，楚棘生之。善者果而已矣，毋以取強焉。果而毋驕。果而勿矜。果而勿伐。果而毋得已居。是謂果而不強。"
     },
     {
-      "text": "師之所居，楚棘生之。"
-    },
-    {
-      "text": "善者果而已矣，毋以取強焉。"
-    },
-    {
-      "text": "果而毋驕。"
-    },
-    {
-      "text": "果而勿矜。"
-    },
-    {
-      "text": "果而勿伐。"
-    },
-    {
-      "text": "果而毋得已居。"
-    },
-    {
-      "text": "是謂果而不強。"
-    },
-    {
-      "text": "物壯而老，是謂之不道。"
-    },
-    {
-      "text": "不道蚤已。"
+      "text": "物壯而老，是謂之不道。不道蚤已。"
     }
   ],
   "sections": {},
@@ -87,9 +63,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 1,
-          "start": 0,
-          "end": 10
+          "verseIndex": 0,
+          "start": 19,
+          "end": 29
         },
         "kind": "commentary",
         "text": "農事廢，田不修。",
@@ -100,9 +76,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 1,
-          "start": 0,
-          "end": 10
+          "verseIndex": 0,
+          "start": 19,
+          "end": 29
         },
         "kind": "commentary",
         "text": "天應之以惡氣，即害五穀，盡傷人也。",
@@ -113,9 +89,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
-          "start": 0,
-          "end": 13
+          "verseIndex": 0,
+          "start": 29,
+          "end": 42
         },
         "kind": "commentary",
         "text": "善用兵者，當果敢而已，不美之。",
@@ -126,9 +102,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
-          "start": 0,
-          "end": 13
+          "verseIndex": 0,
+          "start": 29,
+          "end": 42
         },
         "kind": "commentary",
         "text": "不以果敢取強大之名也。",
@@ -139,9 +115,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 3,
-          "start": 6,
-          "end": 7
+          "verseIndex": 0,
+          "start": 48,
+          "end": 49
         },
         "kind": "commentary",
         "text": "當果敢謙卑，勿自矜大也。",
@@ -152,9 +128,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 3,
-          "start": 12,
-          "end": 13
+          "verseIndex": 0,
+          "start": 54,
+          "end": 55
         },
         "kind": "commentary",
         "text": "當果敢推讓，勿自伐取其美也。",
@@ -165,9 +141,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 7,
-          "start": 7,
-          "end": 7
+          "verseIndex": 0,
+          "start": 71,
+          "end": 71
         },
         "kind": "commentary",
         "text": "驕，欺也。果敢勿以驕欺人。",
@@ -178,9 +154,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 7,
-          "start": 7,
-          "end": 7
+          "verseIndex": 0,
+          "start": 71,
+          "end": 71
         },
         "kind": "commentary",
         "text": "當果敢至誠，不當逼迫不得已也。",
@@ -191,9 +167,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 7,
-          "start": 7,
-          "end": 7
+          "verseIndex": 0,
+          "start": 71,
+          "end": 71
         },
         "kind": "commentary",
         "text": "果敢勿以為強兵、堅甲以欺凌人也。",
@@ -204,9 +180,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 9,
-          "start": 5,
-          "end": 5
+          "verseIndex": 1,
+          "start": 16,
+          "end": 16
         },
         "kind": "commentary",
         "text": "草木壯極則枯落，人壯極則衰老也。言強者不可以久。",
@@ -217,9 +193,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 9,
-          "start": 5,
-          "end": 5
+          "verseIndex": 1,
+          "start": 16,
+          "end": 16
         },
         "kind": "commentary",
         "text": "枯老者，坐不行道也。",
@@ -230,9 +206,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 9,
-          "start": 5,
-          "end": 5
+          "verseIndex": 1,
+          "start": 16,
+          "end": 16
         },
         "kind": "commentary",
         "text": "不行道者早死。",
@@ -271,9 +247,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 1,
-          "start": 0,
-          "end": 10
+          "verseIndex": 0,
+          "start": 19,
+          "end": 29
         },
         "kind": "commentary",
         "text": "言師凶害之物也。無有所濟，必有所傷，賊害人民，殘荒田畝，故曰荊棘生焉。",
@@ -284,9 +260,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
-          "start": 0,
-          "end": 13
+          "verseIndex": 0,
+          "start": 29,
+          "end": 42
         },
         "kind": "commentary",
         "text": "果猶濟也。言善用師者，趣以濟難而已矣，不以兵力取强於天下也。",
@@ -297,9 +273,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 7,
-          "start": 7,
-          "end": 7
+          "verseIndex": 0,
+          "start": 71,
+          "end": 71
         },
         "kind": "commentary",
         "text": "吾不以師道為尚，不得已而用，何矜驕之有也。",
@@ -310,9 +286,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 7,
-          "start": 7,
-          "end": 7
+          "verseIndex": 0,
+          "start": 71,
+          "end": 71
         },
         "kind": "commentary",
         "text": "言用兵雖趣功果濟難，然時故不得已，當復用者，但當以除暴亂，不遂用果以為强也。",
@@ -323,9 +299,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 9,
-          "start": 5,
-          "end": 5
+          "verseIndex": 1,
+          "start": 16,
+          "end": 16
         },
         "kind": "commentary",
         "text": "壯，武力暴興，喻以兵强於天下者也。飄風不終朝，驟雨不終日，故暴興必不道早已也。",
@@ -399,9 +375,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 1,
-            "start": 0,
-            "end": 10
+            "verseIndex": 0,
+            "start": 19,
+            "end": 29
           },
           "kind": "commentary",
           "text": "農事廢，田不修。",
@@ -412,9 +388,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 1,
-            "start": 0,
-            "end": 10
+            "verseIndex": 0,
+            "start": 19,
+            "end": 29
           },
           "kind": "commentary",
           "text": "天應之以惡氣，即害五穀，盡傷人也。",
@@ -425,9 +401,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 2,
-            "start": 0,
-            "end": 13
+            "verseIndex": 0,
+            "start": 29,
+            "end": 42
           },
           "kind": "commentary",
           "text": "善用兵者，當果敢而已，不美之。",
@@ -438,9 +414,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 2,
-            "start": 0,
-            "end": 13
+            "verseIndex": 0,
+            "start": 29,
+            "end": 42
           },
           "kind": "commentary",
           "text": "不以果敢取強大之名也。",
@@ -451,9 +427,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 3,
-            "start": 6,
-            "end": 7
+            "verseIndex": 0,
+            "start": 48,
+            "end": 49
           },
           "kind": "commentary",
           "text": "當果敢謙卑，勿自矜大也。",
@@ -464,9 +440,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 3,
-            "start": 12,
-            "end": 13
+            "verseIndex": 0,
+            "start": 54,
+            "end": 55
           },
           "kind": "commentary",
           "text": "當果敢推讓，勿自伐取其美也。",
@@ -477,9 +453,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 7,
-            "start": 7,
-            "end": 7
+            "verseIndex": 0,
+            "start": 71,
+            "end": 71
           },
           "kind": "commentary",
           "text": "驕，欺也。果敢勿以驕欺人。",
@@ -490,9 +466,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 7,
-            "start": 7,
-            "end": 7
+            "verseIndex": 0,
+            "start": 71,
+            "end": 71
           },
           "kind": "commentary",
           "text": "當果敢至誠，不當逼迫不得已也。",
@@ -503,9 +479,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 7,
-            "start": 7,
-            "end": 7
+            "verseIndex": 0,
+            "start": 71,
+            "end": 71
           },
           "kind": "commentary",
           "text": "果敢勿以為強兵、堅甲以欺凌人也。",
@@ -516,9 +492,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 9,
-            "start": 5,
-            "end": 5
+            "verseIndex": 1,
+            "start": 16,
+            "end": 16
           },
           "kind": "commentary",
           "text": "草木壯極則枯落，人壯極則衰老也。言強者不可以久。",
@@ -529,9 +505,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 9,
-            "start": 5,
-            "end": 5
+            "verseIndex": 1,
+            "start": 16,
+            "end": 16
           },
           "kind": "commentary",
           "text": "枯老者，坐不行道也。",
@@ -542,9 +518,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 9,
-            "start": 5,
-            "end": 5
+            "verseIndex": 1,
+            "start": 16,
+            "end": 16
           },
           "kind": "commentary",
           "text": "不行道者早死。",
@@ -593,9 +569,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 1,
-            "start": 0,
-            "end": 10
+            "verseIndex": 0,
+            "start": 19,
+            "end": 29
           },
           "kind": "commentary",
           "text": "言師凶害之物也。無有所濟，必有所傷，賊害人民，殘荒田畝，故曰荊棘生焉。",
@@ -606,9 +582,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 2,
-            "start": 0,
-            "end": 13
+            "verseIndex": 0,
+            "start": 29,
+            "end": 42
           },
           "kind": "commentary",
           "text": "果猶濟也。言善用師者，趣以濟難而已矣，不以兵力取强於天下也。",
@@ -619,9 +595,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 7,
-            "start": 7,
-            "end": 7
+            "verseIndex": 0,
+            "start": 71,
+            "end": 71
           },
           "kind": "commentary",
           "text": "吾不以師道為尚，不得已而用，何矜驕之有也。",
@@ -632,9 +608,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 7,
-            "start": 7,
-            "end": 7
+            "verseIndex": 0,
+            "start": 71,
+            "end": 71
           },
           "kind": "commentary",
           "text": "言用兵雖趣功果濟難，然時故不得已，當復用者，但當以除暴亂，不遂用果以為强也。",
@@ -645,9 +621,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 9,
-            "start": 5,
-            "end": 5
+            "verseIndex": 1,
+            "start": 16,
+            "end": 16
           },
           "kind": "commentary",
           "text": "壯，武力暴興，喻以兵强於天下者也。飄風不終朝，驟雨不終日，故暴興必不道早已也。",

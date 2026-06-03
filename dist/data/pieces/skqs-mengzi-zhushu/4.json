@@ -10,10 +10,7 @@
   "genre": "prose",
   "verses": [
     {
-      "text": "孟子題辭解"
-    },
-    {
-      "text": "孟子題辭　趙氏音義疏"
+      "text": "孟子題辭解孟子題辭　趙氏音義疏"
     },
     {
       "text": "孟子題辭者所以題號孟子之書本末指義文辭之表也疏孟姓也疏子者男子之通稱也音義疏此書孟子之所作也故總謂之孟子疏其篇目則各自有名疏孟子鄒人也名軻字則未聞也鄒本春秋邾子之國至孟子時改曰鄒矣國近魯後為魯所并又言邾為楚所并非魯也今鄒縣是也音義疏或曰孟子魯公族孟孫之後故孟子仕於齊䘮母而歸葬於魯也三桓子孫既以衰微分適他國疏孟子生有淑質夙䘮其父幼被慈母三遷之教長師孔子之孫子思治儒術之道通五經尤長於詩書音義疏周衰之末戰國縱横用兵爭强以相侵奪當世取士務先權謀以為上賢先王大道陵遲隳廢異端並起若楊朱墨翟放蕩之言以干時惑衆者非一孟子閔悼堯舜湯文周孔之業将遂湮微正塗壅底仁義荒怠佞偽馳騁紅紫亂朱音義疏於是則慕仲尼周流憂世遂以儒道遊於諸侯思濟斯民然由不肯枉尺直尋時君咸謂之迂闊於事終莫能聽納其說音義疏孟子亦自知遭蒼姬之訖録值炎劉之未奮進不得佐興唐虞雍熙之和退不能信三代之餘風恥沒世而無聞焉是故垂憲言以詒後人仲尼有云我欲託之空言不如載之行事之深切著眀也音義疏於是退而論集所與髙第弟子公孫丑萬章之徒難疑荅問又自撰其法度之言著書七篇二百六十一章三萬四千六百八十五字包羅天地揆敘萬類仁義道徳性命禍福粲然靡所不載音義疏帝王公侯遵之則可以致隆平頌清廟卿大夫士蹈之則可以尊君父立忠信守志厲操者儀之則可以崇髙節抗浮雲疏有風人之託物二雅之正言可謂直而不倨曲而不屈命世亞聖之大才者也疏孔子自衛反魯然後樂正雅頌各得其所乃刪詩定書繫周易作春秋音義疏孟子退自齊梁述堯舜之道而著作焉此大賢擬聖而作者也疏七十子之疇㑹集夫子所言以為論語論語者五經之錧鎋六藝之喉衿也音義疏孟子之書則而象之疏衞靈公問陳於孔子孔子答以俎豆梁恵王問利國孟子對以仁義宋桓魋欲孔子孔子稱天生徳於予魯臧倉毁鬲孟子孟子曰臧氏之子焉能使予不遇哉旨意合同若此者衆音義疏又有外書四篇性善辯文說孝經為正其文不能𢎞深不與内篇相似似非孟子本真後世依放而託之者也音義疏孟子既沒之後大道遂絀逮至亡秦焚滅經術坑戮儒生孟子徒黨盡矣其書號為諸子故篇籍得不泯絶音義疏漢興除秦虐禁開延道徳孝文皇帝欲廣遊學之路論語孝經孟子爾雅皆置博士後罷傳記博士獨立五經而已訖今諸經通義得引孟子以明事謂之博文音義疏孟子長於譬喻辭不廹切而意以獨至其言曰說詩者不以文害辭不以辭害志以意逆志為得之矣斯言殆欲使後人深求其意以解其文不但施於說詩也今諸解者往往摭取而說之其說又多乖異不同疏孟子以来五百餘載傳之者亦已衆多疏余生西京世尋丕祚有自来矣少蒙義方訓涉典文知命之際嬰戚于天遘屯離蹇詭姓遁身經營八紘之内十有餘年心勦形瘵何勤如焉嘗息肩弛擔於濟岱之間或有温故知新雅徳君子矜我劬瘁睠我皓首訪論稽古慰以大道余困吝之中精神遐漂靡所濟集聊欲係志於翰墨得以亂思遺老也惟六籍之學先覺之士釋而辯之者既已詳矣儒家惟有孟子閎逺微妙緼奥難見宜在條理之科於是乃述已所聞證以經傳為之章句具載本文章别其㫖分為上下凡十四卷究而言之不敢以當逹者施於新學可以寤疑辯惑愚亦未能審於是非後之明者見其違闕儻改而正諸不亦宜乎音義疏"
@@ -28,9 +25,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 1,
-          "start": 0,
-          "end": 10
+          "verseIndex": 0,
+          "start": 5,
+          "end": 15
         },
         "kind": "semantic",
         "text": "案本傳初名嘉生於御史臺因字臺卿後改名岐少眀經有才藝公府屢辟為京兆尹延篤功曹先是岐常貶議中常侍唐珩兄玹為京兆尹岐遂避難四方及諸唐滅乃出仕歴并州刺史議郎就拜太常九十餘建安六年卒",
@@ -41,7 +38,7 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
+          "verseIndex": 1,
           "start": 418,
           "end": 493
         },
@@ -54,7 +51,7 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
+          "verseIndex": 1,
           "start": 0,
           "end": 26
         },
@@ -67,7 +64,7 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
+          "verseIndex": 1,
           "start": 26,
           "end": 30
         },
@@ -80,7 +77,7 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
+          "verseIndex": 1,
           "start": 30,
           "end": 40
         },
@@ -93,7 +90,7 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
+          "verseIndex": 1,
           "start": 40,
           "end": 41
         },
@@ -106,7 +103,7 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
+          "verseIndex": 1,
           "start": 41,
           "end": 56
         },
@@ -119,7 +116,7 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
+          "verseIndex": 1,
           "start": 56,
           "end": 65
         },
@@ -132,7 +129,7 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
+          "verseIndex": 1,
           "start": 65,
           "end": 118
         },
@@ -145,7 +142,7 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
+          "verseIndex": 1,
           "start": 118,
           "end": 119
         },
@@ -158,7 +155,7 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
+          "verseIndex": 1,
           "start": 119,
           "end": 157
         },
@@ -171,7 +168,7 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
+          "verseIndex": 1,
           "start": 157,
           "end": 198
         },
@@ -184,7 +181,7 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
+          "verseIndex": 1,
           "start": 198,
           "end": 199
         },
@@ -197,7 +194,7 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
+          "verseIndex": 1,
           "start": 199,
           "end": 290
         },
@@ -210,7 +207,7 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
+          "verseIndex": 1,
           "start": 199,
           "end": 290
         },
@@ -223,7 +220,7 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
+          "verseIndex": 1,
           "start": 199,
           "end": 290
         },
@@ -236,7 +233,7 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
+          "verseIndex": 1,
           "start": 290,
           "end": 291
         },
@@ -249,7 +246,7 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
+          "verseIndex": 1,
           "start": 291,
           "end": 339
         },
@@ -262,7 +259,7 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
+          "verseIndex": 1,
           "start": 339,
           "end": 340
         },
@@ -275,7 +272,7 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
+          "verseIndex": 1,
           "start": 340,
           "end": 417
         },
@@ -288,7 +285,7 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
+          "verseIndex": 1,
           "start": 417,
           "end": 418
         },
@@ -301,7 +298,7 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
+          "verseIndex": 1,
           "start": 418,
           "end": 493
         },
@@ -314,7 +311,7 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
+          "verseIndex": 1,
           "start": 493,
           "end": 494
         },
@@ -327,7 +324,7 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
+          "verseIndex": 1,
           "start": 494,
           "end": 541
         },
@@ -340,7 +337,7 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
+          "verseIndex": 1,
           "start": 541,
           "end": 572
         },
@@ -353,7 +350,7 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
+          "verseIndex": 1,
           "start": 572,
           "end": 601
         },
@@ -366,7 +363,7 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
+          "verseIndex": 1,
           "start": 601,
           "end": 602
         },
@@ -379,7 +376,7 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
+          "verseIndex": 1,
           "start": 601,
           "end": 602
         },
@@ -392,7 +389,7 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
+          "verseIndex": 1,
           "start": 601,
           "end": 602
         },
@@ -405,7 +402,7 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
+          "verseIndex": 1,
           "start": 602,
           "end": 627
         },
@@ -418,7 +415,7 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
+          "verseIndex": 1,
           "start": 627,
           "end": 658
         },
@@ -431,7 +428,7 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
+          "verseIndex": 1,
           "start": 658,
           "end": 659
         },
@@ -444,7 +441,7 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
+          "verseIndex": 1,
           "start": 659,
           "end": 668
         },
@@ -457,7 +454,7 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
+          "verseIndex": 1,
           "start": 668,
           "end": 739
         },
@@ -470,7 +467,7 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
+          "verseIndex": 1,
           "start": 668,
           "end": 739
         },
@@ -483,7 +480,7 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
+          "verseIndex": 1,
           "start": 668,
           "end": 739
         },
@@ -496,7 +493,7 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
+          "verseIndex": 1,
           "start": 739,
           "end": 740
         },
@@ -509,7 +506,7 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
+          "verseIndex": 1,
           "start": 740,
           "end": 785
         },
@@ -522,7 +519,7 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
+          "verseIndex": 1,
           "start": 785,
           "end": 786
         },
@@ -535,7 +532,7 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
+          "verseIndex": 1,
           "start": 786,
           "end": 829
         },
@@ -548,7 +545,7 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
+          "verseIndex": 1,
           "start": 829,
           "end": 830
         },
@@ -561,7 +558,7 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
+          "verseIndex": 1,
           "start": 830,
           "end": 893
         },
@@ -574,7 +571,7 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
+          "verseIndex": 1,
           "start": 893,
           "end": 894
         },
@@ -587,7 +584,7 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
+          "verseIndex": 1,
           "start": 894,
           "end": 975
         },
@@ -600,7 +597,7 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
+          "verseIndex": 1,
           "start": 975,
           "end": 991
         },
@@ -613,7 +610,7 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
+          "verseIndex": 1,
           "start": 991,
           "end": 1222
         },
@@ -626,7 +623,7 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
+          "verseIndex": 1,
           "start": 991,
           "end": 1222
         },
@@ -639,7 +636,7 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
+          "verseIndex": 1,
           "start": 991,
           "end": 1222
         },
@@ -652,7 +649,7 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
+          "verseIndex": 1,
           "start": 991,
           "end": 1222
         },
@@ -665,7 +662,7 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
+          "verseIndex": 1,
           "start": 991,
           "end": 1222
         },
@@ -678,7 +675,7 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
+          "verseIndex": 1,
           "start": 991,
           "end": 1222
         },
@@ -691,7 +688,7 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
+          "verseIndex": 1,
           "start": 991,
           "end": 1222
         },
@@ -704,7 +701,7 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
+          "verseIndex": 1,
           "start": 991,
           "end": 1222
         },
@@ -717,7 +714,7 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
+          "verseIndex": 1,
           "start": 119,
           "end": 157
         },
@@ -730,7 +727,7 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
+          "verseIndex": 1,
           "start": 991,
           "end": 1222
         },
@@ -743,7 +740,7 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
+          "verseIndex": 1,
           "start": 65,
           "end": 118
         },

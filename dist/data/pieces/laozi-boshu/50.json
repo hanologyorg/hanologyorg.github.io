@@ -9,49 +9,16 @@
   "genre": "prose",
   "verses": [
     {
-      "text": "出生，入死。"
+      "text": "出生，入死。生之徒十有三。死之徒十有三。而民生生。動皆之死地之十有三"
     },
     {
-      "text": "生之徒十有三。"
+      "text": "夫何故也？以亓生生也。"
     },
     {
-      "text": "死之徒十有三。"
+      "text": "蓋聞善攝生者：陵行不辟兕虎。入軍不被甲兵。兕无所椯亓角。虎无所措亓爪。兵无所容亓刃。"
     },
     {
-      "text": "而民生生。"
-    },
-    {
-      "text": "動皆之死地之十有三"
-    },
-    {
-      "text": "夫何故也？"
-    },
-    {
-      "text": "以亓生生也。"
-    },
-    {
-      "text": "蓋聞善攝生者："
-    },
-    {
-      "text": "陵行不辟兕虎。"
-    },
-    {
-      "text": "入軍不被甲兵。"
-    },
-    {
-      "text": "兕无所椯亓角。"
-    },
-    {
-      "text": "虎无所措亓爪。"
-    },
-    {
-      "text": "兵无所容亓刃。"
-    },
-    {
-      "text": "夫何故也？"
-    },
-    {
-      "text": "以亓无死地焉。"
+      "text": "夫何故也？以亓无死地焉。"
     }
   ],
   "sections": {},
@@ -76,9 +43,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 1,
-          "start": 0,
-          "end": 1
+          "verseIndex": 0,
+          "start": 6,
+          "end": 7
         },
         "kind": "commentary",
         "text": "言生死之類各有十三，謂九竅四關也。其生也目不妄視，耳不妄聽，鼻不妄香臭，口不妄言味，手不妄持，足不妄行，精神不妄施。其死也反是也。",
@@ -89,9 +56,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 4,
-          "start": 9,
-          "end": 9
+          "verseIndex": 0,
+          "start": 34,
+          "end": 34
         },
         "kind": "commentary",
         "text": "人知求生，動作反之十三死也。",
@@ -102,9 +69,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
-          "start": 0,
-          "end": 1
+          "verseIndex": 0,
+          "start": 13,
+          "end": 14
         },
         "kind": "commentary",
         "text": "問何故動之死地也。",
@@ -115,9 +82,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 6,
-          "start": 6,
-          "end": 6
+          "verseIndex": 1,
+          "start": 11,
+          "end": 11
         },
         "kind": "commentary",
         "text": "所以動之死地者，以其求生活之事太厚，違道忤天，妄行失紀。",
@@ -128,9 +95,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 12,
-          "start": 7,
-          "end": 7
+          "verseIndex": 2,
+          "start": 42,
+          "end": 42
         },
         "kind": "commentary",
         "text": "攝，養也。",
@@ -141,9 +108,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 12,
-          "start": 7,
-          "end": 7
+          "verseIndex": 2,
+          "start": 42,
+          "end": 42
         },
         "kind": "commentary",
         "text": "自然遠離，害不干也。",
@@ -154,9 +121,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 12,
-          "start": 7,
-          "end": 7
+          "verseIndex": 2,
+          "start": 42,
+          "end": 42
         },
         "kind": "commentary",
         "text": "不好戰以殺人。",
@@ -167,9 +134,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 12,
-          "start": 7,
-          "end": 7
+          "verseIndex": 2,
+          "start": 42,
+          "end": 42
         },
         "kind": "commentary",
         "text": "養生之人，兕虎無由傷，兵刃無從加之也。",
@@ -180,9 +147,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
-          "start": 0,
-          "end": 1
+          "verseIndex": 0,
+          "start": 13,
+          "end": 14
         },
         "kind": "commentary",
         "text": "問兕虎兵甲何故不加害之。",
@@ -193,9 +160,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 4,
-          "start": 6,
-          "end": 7
+          "verseIndex": 0,
+          "start": 31,
+          "end": 32
         },
         "kind": "commentary",
         "text": "以其不犯十三之死地也。言神明營護之，此物不敢害。",
@@ -221,9 +188,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 4,
-          "start": 9,
-          "end": 9
+          "verseIndex": 0,
+          "start": 34,
+          "end": 34
         },
         "kind": "commentary",
         "text": "十有三，猶云十分有三分，取其生道，全生之極，十分有三耳。取死之道，全死之極，亦十分有三耳。而民生生之厚，更之無生之地焉，善攝生者無以生為 生，故無死地也。器之害者，莫甚乎兵戈，獸之害者，莫甚乎兕虎，而令兵戈無所容其鋒刃，虎兕無所措其爪角，斯誠不以欲累其身者也，何死地之有乎。夫蚖蟺以 淵為淺，而鑿穴其中，鷹鸇以山為卑，而增巢其上，矰繳不能及，網罟不能到，可謂處於無死地矣，然而卒以甘餌，乃入於無生之地，豈非生生之厚乎，故物茍不以 求離其本，不以欲渝其真，雖入軍而不害，陸行而不可犯也，赤子之可則而貴信矣。",
@@ -271,9 +238,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 1,
-            "start": 0,
-            "end": 1
+            "verseIndex": 0,
+            "start": 6,
+            "end": 7
           },
           "kind": "commentary",
           "text": "言生死之類各有十三，謂九竅四關也。其生也目不妄視，耳不妄聽，鼻不妄香臭，口不妄言味，手不妄持，足不妄行，精神不妄施。其死也反是也。",
@@ -284,9 +251,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 4,
-            "start": 9,
-            "end": 9
+            "verseIndex": 0,
+            "start": 34,
+            "end": 34
           },
           "kind": "commentary",
           "text": "人知求生，動作反之十三死也。",
@@ -297,9 +264,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 2,
-            "start": 0,
-            "end": 1
+            "verseIndex": 0,
+            "start": 13,
+            "end": 14
           },
           "kind": "commentary",
           "text": "問何故動之死地也。",
@@ -310,9 +277,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 6,
-            "start": 6,
-            "end": 6
+            "verseIndex": 1,
+            "start": 11,
+            "end": 11
           },
           "kind": "commentary",
           "text": "所以動之死地者，以其求生活之事太厚，違道忤天，妄行失紀。",
@@ -323,9 +290,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 12,
-            "start": 7,
-            "end": 7
+            "verseIndex": 2,
+            "start": 42,
+            "end": 42
           },
           "kind": "commentary",
           "text": "攝，養也。",
@@ -336,9 +303,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 12,
-            "start": 7,
-            "end": 7
+            "verseIndex": 2,
+            "start": 42,
+            "end": 42
           },
           "kind": "commentary",
           "text": "自然遠離，害不干也。",
@@ -349,9 +316,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 12,
-            "start": 7,
-            "end": 7
+            "verseIndex": 2,
+            "start": 42,
+            "end": 42
           },
           "kind": "commentary",
           "text": "不好戰以殺人。",
@@ -362,9 +329,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 12,
-            "start": 7,
-            "end": 7
+            "verseIndex": 2,
+            "start": 42,
+            "end": 42
           },
           "kind": "commentary",
           "text": "養生之人，兕虎無由傷，兵刃無從加之也。",
@@ -375,9 +342,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 2,
-            "start": 0,
-            "end": 1
+            "verseIndex": 0,
+            "start": 13,
+            "end": 14
           },
           "kind": "commentary",
           "text": "問兕虎兵甲何故不加害之。",
@@ -388,9 +355,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 4,
-            "start": 6,
-            "end": 7
+            "verseIndex": 0,
+            "start": 31,
+            "end": 32
           },
           "kind": "commentary",
           "text": "以其不犯十三之死地也。言神明營護之，此物不敢害。",
@@ -426,9 +393,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 4,
-            "start": 9,
-            "end": 9
+            "verseIndex": 0,
+            "start": 34,
+            "end": 34
           },
           "kind": "commentary",
           "text": "十有三，猶云十分有三分，取其生道，全生之極，十分有三耳。取死之道，全死之極，亦十分有三耳。而民生生之厚，更之無生之地焉，善攝生者無以生為 生，故無死地也。器之害者，莫甚乎兵戈，獸之害者，莫甚乎兕虎，而令兵戈無所容其鋒刃，虎兕無所措其爪角，斯誠不以欲累其身者也，何死地之有乎。夫蚖蟺以 淵為淺，而鑿穴其中，鷹鸇以山為卑，而增巢其上，矰繳不能及，網罟不能到，可謂處於無死地矣，然而卒以甘餌，乃入於無生之地，豈非生生之厚乎，故物茍不以 求離其本，不以欲渝其真，雖入軍而不害，陸行而不可犯也，赤子之可則而貴信矣。",

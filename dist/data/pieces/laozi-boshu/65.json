@@ -9,31 +9,13 @@
   "genre": "prose",
   "verses": [
     {
-      "text": "故曰："
+      "text": "故曰：為道者非以明民也。將以愚之也。民之難治也，以亓知也。"
     },
     {
-      "text": "為道者非以明民也。"
+      "text": "故：以知知邦，邦之賊也。以不知知邦，邦之德也。"
     },
     {
-      "text": "將以愚之也。"
-    },
-    {
-      "text": "民之難治也，以亓知也。"
-    },
-    {
-      "text": "故："
-    },
-    {
-      "text": "以知知邦，邦之賊也。"
-    },
-    {
-      "text": "以不知知邦，邦之德也。"
-    },
-    {
-      "text": "恆知此兩者，亦稽式也。"
-    },
-    {
-      "text": "恆知稽式，此謂玄德。"
+      "text": "恆知此兩者，亦稽式也。恆知稽式，此謂玄德。"
     },
     {
       "text": "玄德深矣，遠矣，與物反矣，乃至大順。"
@@ -48,9 +30,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 3,
-          "start": 11,
-          "end": 11
+          "verseIndex": 0,
+          "start": 29,
+          "end": 29
         },
         "kind": "commentary",
         "text": "說古之善以道治身及治國者，不以道教民明智巧詐也，將以道德教民，使質樸不詐偽。",
@@ -61,9 +43,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 3,
-          "start": 11,
-          "end": 11
+          "verseIndex": 0,
+          "start": 29,
+          "end": 29
         },
         "kind": "commentary",
         "text": "民之所以難治者，以其智多而為巧偽。",
@@ -74,9 +56,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 6,
-          "start": 11,
-          "end": 11
+          "verseIndex": 1,
+          "start": 23,
+          "end": 23
         },
         "kind": "commentary",
         "text": "使智慧之人治國之政事，必遠道德，妄作威福，為國之賊也。",
@@ -87,9 +69,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 6,
-          "start": 11,
-          "end": 11
+          "verseIndex": 1,
+          "start": 23,
+          "end": 23
         },
         "kind": "commentary",
         "text": "不使智慧之人治國之政事，則民守正直，不為邪飾，上下相親，君臣同力，故為國之福也。",
@@ -100,9 +82,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 8,
-          "start": 10,
-          "end": 10
+          "verseIndex": 2,
+          "start": 21,
+          "end": 21
         },
         "kind": "commentary",
         "text": "兩者謂智與不智也。常能智者為賊，不智者為福，是治身治國之法式也。",
@@ -113,9 +95,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 8,
-          "start": 10,
-          "end": 10
+          "verseIndex": 2,
+          "start": 21,
+          "end": 21
         },
         "kind": "commentary",
         "text": "玄，天也。能知治身及治國之法式，是謂與天同德也。",
@@ -126,9 +108,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 3,
-          "start": 0,
-          "end": 1
+          "verseIndex": 0,
+          "start": 18,
+          "end": 19
         },
         "kind": "commentary",
         "text": "玄德之人深不可測，遠不可及也。",
@@ -139,9 +121,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 3,
-          "start": 8,
-          "end": 9
+          "verseIndex": 0,
+          "start": 26,
+          "end": 27
         },
         "kind": "commentary",
         "text": "玄德之人與萬物反異，萬物欲益己，玄德施與人也。",
@@ -152,7 +134,7 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 9,
+          "verseIndex": 3,
           "start": 0,
           "end": 18
         },
@@ -167,9 +149,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 3,
-          "start": 11,
-          "end": 11
+          "verseIndex": 0,
+          "start": 29,
+          "end": 29
         },
         "kind": "commentary",
         "text": "明謂多見巧詐，蔽其樸也。愚謂無知守真，順自然也。",
@@ -180,9 +162,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 3,
-          "start": 11,
-          "end": 11
+          "verseIndex": 0,
+          "start": 29,
+          "end": 29
         },
         "kind": "commentary",
         "text": "多智巧詐，故難治也。",
@@ -193,9 +175,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 6,
-          "start": 11,
-          "end": 11
+          "verseIndex": 1,
+          "start": 23,
+          "end": 23
         },
         "kind": "commentary",
         "text": "智，猶治也，以智而治國，所以謂之賊者，故謂之智也。民之難治，以其多智也，當務塞兌閉門，令無知無欲，而以智術動民。邪心既動，復以巧術防民之偽，民知其術，防隨而避之，思惟密巧，奸偽益滋，故曰，以智治國，國之賊也。",
@@ -206,9 +188,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 8,
-          "start": 10,
-          "end": 10
+          "verseIndex": 2,
+          "start": 21,
+          "end": 21
         },
         "kind": "commentary",
         "text": "稽，同也。今古之所同，則而不可廢，能知稽式，是謂玄德，玄德深矣，遠矣。",
@@ -219,9 +201,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 3,
-          "start": 8,
-          "end": 9
+          "verseIndex": 0,
+          "start": 26,
+          "end": 27
         },
         "kind": "commentary",
         "text": "反其真也。",
@@ -232,7 +214,7 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 9,
+          "verseIndex": 3,
           "start": 0,
           "end": 18
         },
@@ -269,9 +251,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 3,
-            "start": 11,
-            "end": 11
+            "verseIndex": 0,
+            "start": 29,
+            "end": 29
           },
           "kind": "commentary",
           "text": "說古之善以道治身及治國者，不以道教民明智巧詐也，將以道德教民，使質樸不詐偽。",
@@ -282,9 +264,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 3,
-            "start": 11,
-            "end": 11
+            "verseIndex": 0,
+            "start": 29,
+            "end": 29
           },
           "kind": "commentary",
           "text": "民之所以難治者，以其智多而為巧偽。",
@@ -295,9 +277,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 6,
-            "start": 11,
-            "end": 11
+            "verseIndex": 1,
+            "start": 23,
+            "end": 23
           },
           "kind": "commentary",
           "text": "使智慧之人治國之政事，必遠道德，妄作威福，為國之賊也。",
@@ -308,9 +290,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 6,
-            "start": 11,
-            "end": 11
+            "verseIndex": 1,
+            "start": 23,
+            "end": 23
           },
           "kind": "commentary",
           "text": "不使智慧之人治國之政事，則民守正直，不為邪飾，上下相親，君臣同力，故為國之福也。",
@@ -321,9 +303,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 8,
-            "start": 10,
-            "end": 10
+            "verseIndex": 2,
+            "start": 21,
+            "end": 21
           },
           "kind": "commentary",
           "text": "兩者謂智與不智也。常能智者為賊，不智者為福，是治身治國之法式也。",
@@ -334,9 +316,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 8,
-            "start": 10,
-            "end": 10
+            "verseIndex": 2,
+            "start": 21,
+            "end": 21
           },
           "kind": "commentary",
           "text": "玄，天也。能知治身及治國之法式，是謂與天同德也。",
@@ -347,9 +329,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 3,
-            "start": 0,
-            "end": 1
+            "verseIndex": 0,
+            "start": 18,
+            "end": 19
           },
           "kind": "commentary",
           "text": "玄德之人深不可測，遠不可及也。",
@@ -360,9 +342,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 3,
-            "start": 8,
-            "end": 9
+            "verseIndex": 0,
+            "start": 26,
+            "end": 27
           },
           "kind": "commentary",
           "text": "玄德之人與萬物反異，萬物欲益己，玄德施與人也。",
@@ -373,7 +355,7 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 9,
+            "verseIndex": 3,
             "start": 0,
             "end": 18
           },
@@ -398,9 +380,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 3,
-            "start": 11,
-            "end": 11
+            "verseIndex": 0,
+            "start": 29,
+            "end": 29
           },
           "kind": "commentary",
           "text": "明謂多見巧詐，蔽其樸也。愚謂無知守真，順自然也。",
@@ -411,9 +393,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 3,
-            "start": 11,
-            "end": 11
+            "verseIndex": 0,
+            "start": 29,
+            "end": 29
           },
           "kind": "commentary",
           "text": "多智巧詐，故難治也。",
@@ -424,9 +406,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 6,
-            "start": 11,
-            "end": 11
+            "verseIndex": 1,
+            "start": 23,
+            "end": 23
           },
           "kind": "commentary",
           "text": "智，猶治也，以智而治國，所以謂之賊者，故謂之智也。民之難治，以其多智也，當務塞兌閉門，令無知無欲，而以智術動民。邪心既動，復以巧術防民之偽，民知其術，防隨而避之，思惟密巧，奸偽益滋，故曰，以智治國，國之賊也。",
@@ -437,9 +419,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 8,
-            "start": 10,
-            "end": 10
+            "verseIndex": 2,
+            "start": 21,
+            "end": 21
           },
           "kind": "commentary",
           "text": "稽，同也。今古之所同，則而不可廢，能知稽式，是謂玄德，玄德深矣，遠矣。",
@@ -450,9 +432,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 3,
-            "start": 8,
-            "end": 9
+            "verseIndex": 0,
+            "start": 26,
+            "end": 27
           },
           "kind": "commentary",
           "text": "反其真也。",
@@ -463,7 +445,7 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 9,
+            "verseIndex": 3,
             "start": 0,
             "end": 18
           },

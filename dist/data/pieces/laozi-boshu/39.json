@@ -9,61 +9,19 @@
   "genre": "prose",
   "verses": [
     {
-      "text": "昔之得一者："
+      "text": "昔之得一者：天得一以清。地得一以寧。神得一以霝。浴得一以盈。侯王得一，以為天下正。"
     },
     {
-      "text": "天得一以清。"
+      "text": "亓致之也。謂天毋已清將恐裂。謂地毋已寧將恐發。謂神毋已霝將恐歇。謂浴毋已盈將恐竭。謂侯王毋已貴以高將恐蹶。"
     },
     {
-      "text": "地得一以寧。"
+      "text": "故：必貴而以賤為本。必高矣而以下為基。"
     },
     {
-      "text": "神得一以霝。"
+      "text": "夫是以侯王自謂，曰：「孤」 「寡」 「不榖」。此亓賤之為本與？非也。"
     },
     {
-      "text": "浴得一以盈。"
-    },
-    {
-      "text": "侯王得一，以為天下正。"
-    },
-    {
-      "text": "亓致之也。"
-    },
-    {
-      "text": "謂天毋已清將恐裂。"
-    },
-    {
-      "text": "謂地毋已寧將恐發。"
-    },
-    {
-      "text": "謂神毋已霝將恐歇。"
-    },
-    {
-      "text": "謂浴毋已盈將恐竭。"
-    },
-    {
-      "text": "謂侯王毋已貴以高將恐蹶。"
-    },
-    {
-      "text": "故："
-    },
-    {
-      "text": "必貴而以賤為本。"
-    },
-    {
-      "text": "必高矣而以下為基。"
-    },
-    {
-      "text": "夫是以侯王自謂，曰：「孤」 「寡」 「不榖」。"
-    },
-    {
-      "text": "此亓賤之為本與？非也。"
-    },
-    {
-      "text": "故：致數與无與。"
-    },
-    {
-      "text": "是故不欲祿祿若玉，硌硌若石。"
+      "text": "故：致數與无與。是故不欲祿祿若玉，硌硌若石。"
     }
   ],
   "sections": {},
@@ -101,9 +59,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 5,
-          "start": 11,
-          "end": 11
+          "verseIndex": 0,
+          "start": 41,
+          "end": 41
         },
         "kind": "commentary",
         "text": "言神得一故能變化無形。",
@@ -114,9 +72,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 5,
-          "start": 11,
-          "end": 11
+          "verseIndex": 0,
+          "start": 41,
+          "end": 41
         },
         "kind": "commentary",
         "text": "言谷得一故能盈滿而不絕也。",
@@ -127,9 +85,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 5,
-          "start": 11,
-          "end": 11
+          "verseIndex": 0,
+          "start": 41,
+          "end": 41
         },
         "kind": "commentary",
         "text": "言萬物皆須道以生成也。",
@@ -153,9 +111,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 1,
-          "start": 0,
-          "end": 1
+          "verseIndex": 0,
+          "start": 6,
+          "end": 7
         },
         "kind": "commentary",
         "text": "致，誡也。謂下六事也。",
@@ -166,9 +124,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 11,
-          "start": 12,
-          "end": 12
+          "verseIndex": 1,
+          "start": 53,
+          "end": 53
         },
         "kind": "commentary",
         "text": "言天當有陰陽弛張，晝夜更用，不可但欲清明無已時，將恐分裂不為天。",
@@ -179,9 +137,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 11,
-          "start": 12,
-          "end": 12
+          "verseIndex": 1,
+          "start": 53,
+          "end": 53
         },
         "kind": "commentary",
         "text": "言地當有高下剛柔，節氣五行，不可但欲安靜無已時，將恐發洩不為地。",
@@ -192,9 +150,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 11,
-          "start": 12,
-          "end": 12
+          "verseIndex": 1,
+          "start": 53,
+          "end": 53
         },
         "kind": "commentary",
         "text": "言神當有王相囚死休廢，不可但欲靈變無已時，將恐虛歇不為神。",
@@ -205,9 +163,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 11,
-          "start": 12,
-          "end": 12
+          "verseIndex": 1,
+          "start": 53,
+          "end": 53
         },
         "kind": "commentary",
         "text": "言谷當有盈縮虛實，不可但欲盈滿無已時，將恐枯竭不為谷。",
@@ -218,9 +176,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 11,
-          "start": 12,
-          "end": 12
+          "verseIndex": 1,
+          "start": 53,
+          "end": 53
         },
         "kind": "commentary",
         "text": "言萬物當隨時生死，不可但欲長生無已時，將恐滅亡不為物。",
@@ -231,9 +189,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 11,
-          "start": 12,
-          "end": 12
+          "verseIndex": 1,
+          "start": 53,
+          "end": 53
         },
         "kind": "commentary",
         "text": "言侯王當屈己以下人，汲汲求賢，不可但欲貴高於人無已時，將恐顛蹶失其位。",
@@ -244,9 +202,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 14,
-          "start": 9,
-          "end": 9
+          "verseIndex": 2,
+          "start": 19,
+          "end": 19
         },
         "kind": "commentary",
         "text": "言必欲尊貴，當以薄賤為本，若禹稷躬稼，舜陶河濱，周公下白屋也。",
@@ -257,9 +215,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 14,
-          "start": 9,
-          "end": 9
+          "verseIndex": 2,
+          "start": 19,
+          "end": 19
         },
         "kind": "commentary",
         "text": "言必欲尊貴，當以下為本基，猶築牆造功，因卑成高，下不堅固，後必傾危。",
@@ -270,9 +228,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 16,
-          "start": 11,
-          "end": 11
+          "verseIndex": 3,
+          "start": 34,
+          "end": 34
         },
         "kind": "commentary",
         "text": "孤寡喻孤獨，不轂喻不能如車轂為眾輻所湊。",
@@ -283,9 +241,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 16,
-          "start": 11,
-          "end": 11
+          "verseIndex": 3,
+          "start": 34,
+          "end": 34
         },
         "kind": "commentary",
         "text": "言侯王至尊貴，能以孤寡自稱，此非以賤為本乎，以曉人。",
@@ -296,9 +254,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 3,
-          "start": 32,
-          "end": 33
+          "verseIndex": 0,
+          "start": 50,
+          "end": 51
         },
         "kind": "commentary",
         "text": "嗟嘆之辭。",
@@ -309,9 +267,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 18,
-          "start": 14,
-          "end": 14
+          "verseIndex": 4,
+          "start": 22,
+          "end": 22
         },
         "kind": "commentary",
         "text": "致，就也。言人就車數之為輻、為輪、為轂、為衡、為轝，無有名為車者，故成為車，以喻侯王不以尊號自名，故能成其貴。",
@@ -322,9 +280,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 18,
-          "start": 14,
-          "end": 14
+          "verseIndex": 4,
+          "start": 22,
+          "end": 22
         },
         "kind": "commentary",
         "text": "琭琭喻少，落落喻多，玉少故見貴，石多故見賤。言不欲如玉為人所貴，如石為人所賤，當處其中也。",
@@ -337,9 +295,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 5,
-          "start": 11,
-          "end": 11
+          "verseIndex": 0,
+          "start": 41,
+          "end": 41
         },
         "kind": "commentary",
         "text": "各以其一致此清、寧、靈、盈、生、貞。",
@@ -350,9 +308,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 11,
-          "start": 12,
-          "end": 12
+          "verseIndex": 1,
+          "start": 53,
+          "end": 53
         },
         "kind": "commentary",
         "text": "用一以致清耳，非用清以清也。守一則清不失，用清則恐裂也。故為功之母，不可舍也。是以皆無用其功，恐喪其本也。",
@@ -363,9 +321,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 11,
-          "start": 12,
-          "end": 12
+          "verseIndex": 1,
+          "start": 53,
+          "end": 53
         },
         "kind": "commentary",
         "text": "清不能為清，盈不能為盈，皆有其母以存其形，故清不足貴，盈不足多，貴在其母，而母無貴形。貴乃以賤為本，高乃以下為基，故致數輿乃無輿也，玉石琭琭珞珞，體盡於形，故不欲也。",
@@ -426,9 +384,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 5,
-            "start": 11,
-            "end": 11
+            "verseIndex": 0,
+            "start": 41,
+            "end": 41
           },
           "kind": "commentary",
           "text": "言神得一故能變化無形。",
@@ -439,9 +397,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 5,
-            "start": 11,
-            "end": 11
+            "verseIndex": 0,
+            "start": 41,
+            "end": 41
           },
           "kind": "commentary",
           "text": "言谷得一故能盈滿而不絕也。",
@@ -452,9 +410,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 5,
-            "start": 11,
-            "end": 11
+            "verseIndex": 0,
+            "start": 41,
+            "end": 41
           },
           "kind": "commentary",
           "text": "言萬物皆須道以生成也。",
@@ -478,9 +436,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 1,
-            "start": 0,
-            "end": 1
+            "verseIndex": 0,
+            "start": 6,
+            "end": 7
           },
           "kind": "commentary",
           "text": "致，誡也。謂下六事也。",
@@ -491,9 +449,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 11,
-            "start": 12,
-            "end": 12
+            "verseIndex": 1,
+            "start": 53,
+            "end": 53
           },
           "kind": "commentary",
           "text": "言天當有陰陽弛張，晝夜更用，不可但欲清明無已時，將恐分裂不為天。",
@@ -504,9 +462,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 11,
-            "start": 12,
-            "end": 12
+            "verseIndex": 1,
+            "start": 53,
+            "end": 53
           },
           "kind": "commentary",
           "text": "言地當有高下剛柔，節氣五行，不可但欲安靜無已時，將恐發洩不為地。",
@@ -517,9 +475,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 11,
-            "start": 12,
-            "end": 12
+            "verseIndex": 1,
+            "start": 53,
+            "end": 53
           },
           "kind": "commentary",
           "text": "言神當有王相囚死休廢，不可但欲靈變無已時，將恐虛歇不為神。",
@@ -530,9 +488,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 11,
-            "start": 12,
-            "end": 12
+            "verseIndex": 1,
+            "start": 53,
+            "end": 53
           },
           "kind": "commentary",
           "text": "言谷當有盈縮虛實，不可但欲盈滿無已時，將恐枯竭不為谷。",
@@ -543,9 +501,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 11,
-            "start": 12,
-            "end": 12
+            "verseIndex": 1,
+            "start": 53,
+            "end": 53
           },
           "kind": "commentary",
           "text": "言萬物當隨時生死，不可但欲長生無已時，將恐滅亡不為物。",
@@ -556,9 +514,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 11,
-            "start": 12,
-            "end": 12
+            "verseIndex": 1,
+            "start": 53,
+            "end": 53
           },
           "kind": "commentary",
           "text": "言侯王當屈己以下人，汲汲求賢，不可但欲貴高於人無已時，將恐顛蹶失其位。",
@@ -569,9 +527,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 14,
-            "start": 9,
-            "end": 9
+            "verseIndex": 2,
+            "start": 19,
+            "end": 19
           },
           "kind": "commentary",
           "text": "言必欲尊貴，當以薄賤為本，若禹稷躬稼，舜陶河濱，周公下白屋也。",
@@ -582,9 +540,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 14,
-            "start": 9,
-            "end": 9
+            "verseIndex": 2,
+            "start": 19,
+            "end": 19
           },
           "kind": "commentary",
           "text": "言必欲尊貴，當以下為本基，猶築牆造功，因卑成高，下不堅固，後必傾危。",
@@ -595,9 +553,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 16,
-            "start": 11,
-            "end": 11
+            "verseIndex": 3,
+            "start": 34,
+            "end": 34
           },
           "kind": "commentary",
           "text": "孤寡喻孤獨，不轂喻不能如車轂為眾輻所湊。",
@@ -608,9 +566,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 16,
-            "start": 11,
-            "end": 11
+            "verseIndex": 3,
+            "start": 34,
+            "end": 34
           },
           "kind": "commentary",
           "text": "言侯王至尊貴，能以孤寡自稱，此非以賤為本乎，以曉人。",
@@ -621,9 +579,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 3,
-            "start": 32,
-            "end": 33
+            "verseIndex": 0,
+            "start": 50,
+            "end": 51
           },
           "kind": "commentary",
           "text": "嗟嘆之辭。",
@@ -634,9 +592,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 18,
-            "start": 14,
-            "end": 14
+            "verseIndex": 4,
+            "start": 22,
+            "end": 22
           },
           "kind": "commentary",
           "text": "致，就也。言人就車數之為輻、為輪、為轂、為衡、為轝，無有名為車者，故成為車，以喻侯王不以尊號自名，故能成其貴。",
@@ -647,9 +605,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 18,
-            "start": 14,
-            "end": 14
+            "verseIndex": 4,
+            "start": 22,
+            "end": 22
           },
           "kind": "commentary",
           "text": "琭琭喻少，落落喻多，玉少故見貴，石多故見賤。言不欲如玉為人所貴，如石為人所賤，當處其中也。",
@@ -672,9 +630,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 5,
-            "start": 11,
-            "end": 11
+            "verseIndex": 0,
+            "start": 41,
+            "end": 41
           },
           "kind": "commentary",
           "text": "各以其一致此清、寧、靈、盈、生、貞。",
@@ -685,9 +643,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 11,
-            "start": 12,
-            "end": 12
+            "verseIndex": 1,
+            "start": 53,
+            "end": 53
           },
           "kind": "commentary",
           "text": "用一以致清耳，非用清以清也。守一則清不失，用清則恐裂也。故為功之母，不可舍也。是以皆無用其功，恐喪其本也。",
@@ -698,9 +656,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 11,
-            "start": 12,
-            "end": 12
+            "verseIndex": 1,
+            "start": 53,
+            "end": 53
           },
           "kind": "commentary",
           "text": "清不能為清，盈不能為盈，皆有其母以存其形，故清不足貴，盈不足多，貴在其母，而母無貴形。貴乃以賤為本，高乃以下為基，故致數輿乃無輿也，玉石琭琭珞珞，體盡於形，故不欲也。",

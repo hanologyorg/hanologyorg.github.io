@@ -9,46 +9,13 @@
   "genre": "prose",
   "verses": [
     {
-      "text": "以正之邦。"
+      "text": "以正之邦。以畸用兵。以无事取天下。吾何以知亓然也？"
     },
     {
-      "text": "以畸用兵。"
+      "text": "夫：天下多忌諱，而民彌貧。民多利器，而邦滋昏。人多知，而奇物滋起。法物滋彰，而盜賊多有。"
     },
     {
-      "text": "以无事取天下。"
-    },
-    {
-      "text": "吾何以知亓然也？"
-    },
-    {
-      "text": "夫："
-    },
-    {
-      "text": "天下多忌諱，而民彌貧。"
-    },
-    {
-      "text": "民多利器，而邦滋昏。"
-    },
-    {
-      "text": "人多知，而奇物滋起。"
-    },
-    {
-      "text": "法物滋彰，而盜賊多有。"
-    },
-    {
-      "text": "是以聖人之言曰："
-    },
-    {
-      "text": "我无為而民自化。"
-    },
-    {
-      "text": "我好靜而民自正。"
-    },
-    {
-      "text": "我无事而民自富。"
-    },
-    {
-      "text": "我欲不欲而民自樸。"
+      "text": "是以聖人之言曰：我无為而民自化。我好靜而民自正。我无事而民自富。我欲不欲而民自樸。"
     }
   ],
   "sections": {},
@@ -60,9 +27,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 3,
-          "start": 8,
-          "end": 8
+          "verseIndex": 0,
+          "start": 25,
+          "end": 25
         },
         "kind": "commentary",
         "text": "以，至也。天使正身之人，使有國也。",
@@ -73,9 +40,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 3,
-          "start": 8,
-          "end": 8
+          "verseIndex": 0,
+          "start": 25,
+          "end": 25
         },
         "kind": "commentary",
         "text": "奇，詐也。天使詐偽之人，使用兵也。",
@@ -99,9 +66,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 3,
-          "start": 8,
-          "end": 8
+          "verseIndex": 0,
+          "start": 25,
+          "end": 25
         },
         "kind": "commentary",
         "text": "此，今也。老子言，我何以知天意然哉，以今日所見知。",
@@ -112,9 +79,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 1,
-          "start": 3,
-          "end": 4
+          "verseIndex": 0,
+          "start": 8,
+          "end": 9
         },
         "kind": "commentary",
         "text": "天下謂人主也。忌諱者防禁也。令煩則奸生，禁多則下詐，相殆故貧。",
@@ -125,9 +92,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 8,
-          "start": 11,
-          "end": 11
+          "verseIndex": 1,
+          "start": 44,
+          "end": 44
         },
         "kind": "commentary",
         "text": "利器者，權也。民多權則視者眩於目，聽者惑於耳，上下不親，故國家昏亂。",
@@ -138,9 +105,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 8,
-          "start": 11,
-          "end": 11
+          "verseIndex": 1,
+          "start": 44,
+          "end": 44
         },
         "kind": "commentary",
         "text": "人謂人君、百里諸侯也。多技巧，謂刻畫宮觀，雕琢章服，奇物滋起，下則化上，飾金鏤玉，文繡彩色日以滋甚。",
@@ -151,9 +118,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 8,
-          "start": 11,
-          "end": 11
+          "verseIndex": 1,
+          "start": 44,
+          "end": 44
         },
         "kind": "commentary",
         "text": "法物，好物也。珍好之物滋生彰著，則農事廢，飢寒並至，而盜賊多有也。",
@@ -164,9 +131,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 8,
-          "start": 11,
-          "end": 11
+          "verseIndex": 1,
+          "start": 44,
+          "end": 44
         },
         "kind": "commentary",
         "text": "謂下事也。",
@@ -177,9 +144,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
-          "start": 9,
-          "end": 10
+          "verseIndex": 0,
+          "start": 19,
+          "end": 20
         },
         "kind": "commentary",
         "text": "聖人言：我修道承天，無所改作，而民自化成也。",
@@ -190,9 +157,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
-          "start": 18,
-          "end": 19
+          "verseIndex": 0,
+          "start": 28,
+          "end": 29
         },
         "kind": "commentary",
         "text": "聖人言：我好靜，不言不教，而民自忠正也。",
@@ -203,9 +170,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
-          "start": 27,
-          "end": 28
+          "verseIndex": 0,
+          "start": 37,
+          "end": 38
         },
         "kind": "commentary",
         "text": "我無徭役徵召之事，民安其業故皆自富也。",
@@ -216,9 +183,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 13,
-          "start": 9,
-          "end": 9
+          "verseIndex": 2,
+          "start": 41,
+          "end": 41
         },
         "kind": "commentary",
         "text": "我常無欲，去華文，微服飾，民則隨我為質樸也。聖人言：我修道守真，絕去六情，民自隨我而清也。",
@@ -231,9 +198,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 3,
-          "start": 8,
-          "end": 8
+          "verseIndex": 0,
+          "start": 25,
+          "end": 25
         },
         "kind": "commentary",
         "text": "以道治國則國平，以正治國則奇正起也，以無事則能取天下也。上章云：其取天下者，常以無事，及其有事，又不足以取天下也。故以正治國則不足以取天下，而以奇用兵也。夫以道治國，崇本以息末，以正治國，立辟以攻末，本不立而末淺，民無所及，故必至於奇用兵也。",
@@ -244,9 +211,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 8,
-          "start": 11,
-          "end": 11
+          "verseIndex": 1,
+          "start": 44,
+          "end": 44
         },
         "kind": "commentary",
         "text": "利器，凡所以利己之器也。民强則國家弱。",
@@ -257,9 +224,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 8,
-          "start": 11,
-          "end": 11
+          "verseIndex": 1,
+          "start": 44,
+          "end": 44
         },
         "kind": "commentary",
         "text": "民多智慧則巧偽生，巧偽生則邪事起。",
@@ -270,9 +237,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 8,
-          "start": 11,
-          "end": 11
+          "verseIndex": 1,
+          "start": 44,
+          "end": 44
         },
         "kind": "commentary",
         "text": "立正欲以息邪，而奇兵用；多忌諱欲以恥貧，而民彌貧；利器欲以强國者也，而國愈昬多。皆舍本以治末，故以致此也。",
@@ -283,9 +250,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 13,
-          "start": 9,
-          "end": 9
+          "verseIndex": 2,
+          "start": 41,
+          "end": 41
         },
         "kind": "commentary",
         "text": "上之所欲，民從之速也。我之所欲，唯無欲而民亦無欲而自樸也。此四者，崇本以息末也。",
@@ -320,9 +287,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 3,
-            "start": 8,
-            "end": 8
+            "verseIndex": 0,
+            "start": 25,
+            "end": 25
           },
           "kind": "commentary",
           "text": "以，至也。天使正身之人，使有國也。",
@@ -333,9 +300,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 3,
-            "start": 8,
-            "end": 8
+            "verseIndex": 0,
+            "start": 25,
+            "end": 25
           },
           "kind": "commentary",
           "text": "奇，詐也。天使詐偽之人，使用兵也。",
@@ -359,9 +326,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 3,
-            "start": 8,
-            "end": 8
+            "verseIndex": 0,
+            "start": 25,
+            "end": 25
           },
           "kind": "commentary",
           "text": "此，今也。老子言，我何以知天意然哉，以今日所見知。",
@@ -372,9 +339,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 1,
-            "start": 3,
-            "end": 4
+            "verseIndex": 0,
+            "start": 8,
+            "end": 9
           },
           "kind": "commentary",
           "text": "天下謂人主也。忌諱者防禁也。令煩則奸生，禁多則下詐，相殆故貧。",
@@ -385,9 +352,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 8,
-            "start": 11,
-            "end": 11
+            "verseIndex": 1,
+            "start": 44,
+            "end": 44
           },
           "kind": "commentary",
           "text": "利器者，權也。民多權則視者眩於目，聽者惑於耳，上下不親，故國家昏亂。",
@@ -398,9 +365,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 8,
-            "start": 11,
-            "end": 11
+            "verseIndex": 1,
+            "start": 44,
+            "end": 44
           },
           "kind": "commentary",
           "text": "人謂人君、百里諸侯也。多技巧，謂刻畫宮觀，雕琢章服，奇物滋起，下則化上，飾金鏤玉，文繡彩色日以滋甚。",
@@ -411,9 +378,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 8,
-            "start": 11,
-            "end": 11
+            "verseIndex": 1,
+            "start": 44,
+            "end": 44
           },
           "kind": "commentary",
           "text": "法物，好物也。珍好之物滋生彰著，則農事廢，飢寒並至，而盜賊多有也。",
@@ -424,9 +391,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 8,
-            "start": 11,
-            "end": 11
+            "verseIndex": 1,
+            "start": 44,
+            "end": 44
           },
           "kind": "commentary",
           "text": "謂下事也。",
@@ -437,9 +404,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 2,
-            "start": 9,
-            "end": 10
+            "verseIndex": 0,
+            "start": 19,
+            "end": 20
           },
           "kind": "commentary",
           "text": "聖人言：我修道承天，無所改作，而民自化成也。",
@@ -450,9 +417,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 2,
-            "start": 18,
-            "end": 19
+            "verseIndex": 0,
+            "start": 28,
+            "end": 29
           },
           "kind": "commentary",
           "text": "聖人言：我好靜，不言不教，而民自忠正也。",
@@ -463,9 +430,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 2,
-            "start": 27,
-            "end": 28
+            "verseIndex": 0,
+            "start": 37,
+            "end": 38
           },
           "kind": "commentary",
           "text": "我無徭役徵召之事，民安其業故皆自富也。",
@@ -476,9 +443,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 13,
-            "start": 9,
-            "end": 9
+            "verseIndex": 2,
+            "start": 41,
+            "end": 41
           },
           "kind": "commentary",
           "text": "我常無欲，去華文，微服飾，民則隨我為質樸也。聖人言：我修道守真，絕去六情，民自隨我而清也。",
@@ -501,9 +468,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 3,
-            "start": 8,
-            "end": 8
+            "verseIndex": 0,
+            "start": 25,
+            "end": 25
           },
           "kind": "commentary",
           "text": "以道治國則國平，以正治國則奇正起也，以無事則能取天下也。上章云：其取天下者，常以無事，及其有事，又不足以取天下也。故以正治國則不足以取天下，而以奇用兵也。夫以道治國，崇本以息末，以正治國，立辟以攻末，本不立而末淺，民無所及，故必至於奇用兵也。",
@@ -514,9 +481,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 8,
-            "start": 11,
-            "end": 11
+            "verseIndex": 1,
+            "start": 44,
+            "end": 44
           },
           "kind": "commentary",
           "text": "利器，凡所以利己之器也。民强則國家弱。",
@@ -527,9 +494,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 8,
-            "start": 11,
-            "end": 11
+            "verseIndex": 1,
+            "start": 44,
+            "end": 44
           },
           "kind": "commentary",
           "text": "民多智慧則巧偽生，巧偽生則邪事起。",
@@ -540,9 +507,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 8,
-            "start": 11,
-            "end": 11
+            "verseIndex": 1,
+            "start": 44,
+            "end": 44
           },
           "kind": "commentary",
           "text": "立正欲以息邪，而奇兵用；多忌諱欲以恥貧，而民彌貧；利器欲以强國者也，而國愈昬多。皆舍本以治末，故以致此也。",
@@ -553,9 +520,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 13,
-            "start": 9,
-            "end": 9
+            "verseIndex": 2,
+            "start": 41,
+            "end": 41
           },
           "kind": "commentary",
           "text": "上之所欲，民從之速也。我之所欲，唯無欲而民亦無欲而自樸也。此四者，崇本以息末也。",

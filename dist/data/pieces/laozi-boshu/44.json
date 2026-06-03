@@ -9,31 +9,13 @@
   "genre": "prose",
   "verses": [
     {
-      "text": "名與身孰親？"
+      "text": "名與身孰親？身與貨孰多？得與亡孰病？"
     },
     {
-      "text": "身與貨孰多？"
+      "text": "甚愛必大費。多藏必厚亡。"
     },
     {
-      "text": "得與亡孰病？"
-    },
-    {
-      "text": "甚愛必大費。"
-    },
-    {
-      "text": "多藏必厚亡。"
-    },
-    {
-      "text": "故："
-    },
-    {
-      "text": "知足不辱。"
-    },
-    {
-      "text": "知止不殆。"
-    },
-    {
-      "text": "可以長久。"
+      "text": "故：知足不辱。知止不殆。可以長久。"
     }
   ],
   "sections": {},
@@ -71,9 +53,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 1,
-          "start": 0,
-          "end": 1
+          "verseIndex": 0,
+          "start": 6,
+          "end": 7
         },
         "kind": "commentary",
         "text": "甚愛色，費精神。甚愛財，遇禍患。所愛者少，所亡者多，故言大費。",
@@ -84,9 +66,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 1,
-          "start": 7,
-          "end": 8
+          "verseIndex": 0,
+          "start": 13,
+          "end": 14
         },
         "kind": "commentary",
         "text": "生多藏於府庫，死多藏於丘墓。生有攻劫之憂，死有掘塚探柩之患。",
@@ -97,9 +79,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
-          "start": 3,
-          "end": 4
+          "verseIndex": 0,
+          "start": 15,
+          "end": 16
         },
         "kind": "commentary",
         "text": "知足之人絕利去欲，不辱於身。",
@@ -110,9 +92,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
-          "start": 9,
-          "end": 10
+          "verseIndex": 0,
+          "start": 21,
+          "end": 22
         },
         "kind": "commentary",
         "text": "知可止，則財利不累於身，聲色不亂於耳目，則身不危殆也。",
@@ -123,9 +105,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
-          "start": 15,
-          "end": 16
+          "verseIndex": 0,
+          "start": 27,
+          "end": 28
         },
         "kind": "commentary",
         "text": "人能知止足則福祿在己，治身者，神不勞；治國者，民不擾，故可長久。",
@@ -164,9 +146,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 4,
-          "start": 6,
-          "end": 6
+          "verseIndex": 1,
+          "start": 12,
+          "end": 12
         },
         "kind": "commentary",
         "text": "甚愛不與物通，多藏不與物散，求之者多，攻之者眾，為物所病，故大費厚亡也。",
@@ -177,9 +159,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
-          "start": 3,
-          "end": 4
+          "verseIndex": 0,
+          "start": 15,
+          "end": 16
         },
         "kind": "commentary",
         "text": "",
@@ -240,9 +222,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 1,
-            "start": 0,
-            "end": 1
+            "verseIndex": 0,
+            "start": 6,
+            "end": 7
           },
           "kind": "commentary",
           "text": "甚愛色，費精神。甚愛財，遇禍患。所愛者少，所亡者多，故言大費。",
@@ -253,9 +235,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 1,
-            "start": 7,
-            "end": 8
+            "verseIndex": 0,
+            "start": 13,
+            "end": 14
           },
           "kind": "commentary",
           "text": "生多藏於府庫，死多藏於丘墓。生有攻劫之憂，死有掘塚探柩之患。",
@@ -266,9 +248,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 2,
-            "start": 3,
-            "end": 4
+            "verseIndex": 0,
+            "start": 15,
+            "end": 16
           },
           "kind": "commentary",
           "text": "知足之人絕利去欲，不辱於身。",
@@ -279,9 +261,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 2,
-            "start": 9,
-            "end": 10
+            "verseIndex": 0,
+            "start": 21,
+            "end": 22
           },
           "kind": "commentary",
           "text": "知可止，則財利不累於身，聲色不亂於耳目，則身不危殆也。",
@@ -292,9 +274,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 2,
-            "start": 15,
-            "end": 16
+            "verseIndex": 0,
+            "start": 27,
+            "end": 28
           },
           "kind": "commentary",
           "text": "人能知止足則福祿在己，治身者，神不勞；治國者，民不擾，故可長久。",
@@ -343,9 +325,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 4,
-            "start": 6,
-            "end": 6
+            "verseIndex": 1,
+            "start": 12,
+            "end": 12
           },
           "kind": "commentary",
           "text": "甚愛不與物通，多藏不與物散，求之者多，攻之者眾，為物所病，故大費厚亡也。",
@@ -356,9 +338,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 2,
-            "start": 3,
-            "end": 4
+            "verseIndex": 0,
+            "start": 15,
+            "end": 16
           },
           "kind": "commentary",
           "text": "",

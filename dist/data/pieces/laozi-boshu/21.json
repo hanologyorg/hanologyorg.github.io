@@ -9,31 +9,13 @@
   "genre": "prose",
   "verses": [
     {
-      "text": "孔德之容，唯道是從。"
+      "text": "孔德之容，唯道是從。道之物，唯朢唯忽。"
     },
     {
-      "text": "道之物，唯朢唯忽。"
+      "text": "忽呵望呵，中有象呵。朢呵忽呵，中有物呵。幽呵鳴呵，中有請呵。亓請甚真，亓中有信。"
     },
     {
-      "text": "忽呵望呵，中有象呵。"
-    },
-    {
-      "text": "朢呵忽呵，中有物呵。"
-    },
-    {
-      "text": "幽呵鳴呵，中有請呵。"
-    },
-    {
-      "text": "亓請甚真，亓中有信。"
-    },
-    {
-      "text": "自今及古，亓名不去。以順眾父。"
-    },
-    {
-      "text": "吾何以知眾父之祭？"
-    },
-    {
-      "text": "以此。"
+      "text": "自今及古，亓名不去。以順眾父。吾何以知眾父之祭？以此。"
     }
   ],
   "sections": {},
@@ -58,9 +40,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 1,
-          "start": 9,
-          "end": 9
+          "verseIndex": 0,
+          "start": 19,
+          "end": 19
         },
         "kind": "commentary",
         "text": "道之於萬物，獨怳忽往來，於其無所定也。",
@@ -71,9 +53,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 5,
-          "start": 10,
-          "end": 10
+          "verseIndex": 1,
+          "start": 40,
+          "end": 40
         },
         "kind": "commentary",
         "text": "道唯忽怳無形，之中獨有萬物法象。",
@@ -84,9 +66,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 5,
-          "start": 10,
-          "end": 10
+          "verseIndex": 1,
+          "start": 40,
+          "end": 40
         },
         "kind": "commentary",
         "text": "道唯怳忽，其中有一，經營生化，因氣立質。",
@@ -97,9 +79,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 5,
-          "start": 10,
-          "end": 10
+          "verseIndex": 1,
+          "start": 40,
+          "end": 40
         },
         "kind": "commentary",
         "text": "道唯窈冥無形，其中有精實，神明相薄，陰陽交會也。",
@@ -110,9 +92,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 5,
-          "start": 10,
-          "end": 10
+          "verseIndex": 1,
+          "start": 40,
+          "end": 40
         },
         "kind": "commentary",
         "text": "言存精氣，其妙甚真，非有飾也。",
@@ -123,9 +105,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 1,
-          "start": 38,
-          "end": 39
+          "verseIndex": 0,
+          "start": 48,
+          "end": 49
         },
         "kind": "commentary",
         "text": "道匿功藏名，其信在中也。",
@@ -136,7 +118,7 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 6,
+          "verseIndex": 2,
           "start": 0,
           "end": 15
         },
@@ -149,7 +131,7 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 6,
+          "verseIndex": 2,
           "start": 0,
           "end": 15
         },
@@ -162,9 +144,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 8,
-          "start": 3,
-          "end": 3
+          "verseIndex": 2,
+          "start": 27,
+          "end": 27
         },
         "kind": "commentary",
         "text": "吾何以知萬物從道受氣。",
@@ -175,9 +157,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 3,
-          "start": 10,
-          "end": 11
+          "verseIndex": 1,
+          "start": 20,
+          "end": 21
         },
         "kind": "commentary",
         "text": "此，今也。以今萬物皆得道精氣而生，動作起居，非道不然。",
@@ -190,9 +172,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 1,
-          "start": 9,
-          "end": 9
+          "verseIndex": 0,
+          "start": 19,
+          "end": 19
         },
         "kind": "commentary",
         "text": "孔，空也，惟以空為德，然後乃能動作從道。",
@@ -203,9 +185,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 1,
-          "start": 9,
-          "end": 9
+          "verseIndex": 0,
+          "start": 19,
+          "end": 19
         },
         "kind": "commentary",
         "text": "恍惚，無形不繫之歎。",
@@ -216,9 +198,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 5,
-          "start": 10,
-          "end": 10
+          "verseIndex": 1,
+          "start": 40,
+          "end": 40
         },
         "kind": "commentary",
         "text": "以無形始物，不繫成物，萬物以始以成，而不知其所以然，故曰，恍兮惚兮、惚兮恍兮，其中有象也。",
@@ -229,9 +211,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 5,
-          "start": 10,
-          "end": 10
+          "verseIndex": 1,
+          "start": 40,
+          "end": 40
         },
         "kind": "commentary",
         "text": "窈、冥，深遠之歎，深遠不可得而見。然而萬物由之，其可得見，以定其真。故曰，窈兮冥兮，其中有精也。",
@@ -242,9 +224,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 5,
-          "start": 10,
-          "end": 10
+          "verseIndex": 1,
+          "start": 40,
+          "end": 40
         },
         "kind": "commentary",
         "text": "信，信驗也。物反窈冥，則真精之極得，萬物之性定。故曰，其精甚真，其中有信也。",
@@ -255,7 +237,7 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
+          "verseIndex": 1,
           "start": 0,
           "end": 1
         },
@@ -268,7 +250,7 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 6,
+          "verseIndex": 2,
           "start": 0,
           "end": 15
         },
@@ -281,9 +263,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 8,
-          "start": 3,
-          "end": 3
+          "verseIndex": 2,
+          "start": 27,
+          "end": 27
         },
         "kind": "commentary",
         "text": "此上之所云也。言吾何以知萬物之始於無哉，以此知之也。",
@@ -331,9 +313,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 1,
-            "start": 9,
-            "end": 9
+            "verseIndex": 0,
+            "start": 19,
+            "end": 19
           },
           "kind": "commentary",
           "text": "道之於萬物，獨怳忽往來，於其無所定也。",
@@ -344,9 +326,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 5,
-            "start": 10,
-            "end": 10
+            "verseIndex": 1,
+            "start": 40,
+            "end": 40
           },
           "kind": "commentary",
           "text": "道唯忽怳無形，之中獨有萬物法象。",
@@ -357,9 +339,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 5,
-            "start": 10,
-            "end": 10
+            "verseIndex": 1,
+            "start": 40,
+            "end": 40
           },
           "kind": "commentary",
           "text": "道唯怳忽，其中有一，經營生化，因氣立質。",
@@ -370,9 +352,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 5,
-            "start": 10,
-            "end": 10
+            "verseIndex": 1,
+            "start": 40,
+            "end": 40
           },
           "kind": "commentary",
           "text": "道唯窈冥無形，其中有精實，神明相薄，陰陽交會也。",
@@ -383,9 +365,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 5,
-            "start": 10,
-            "end": 10
+            "verseIndex": 1,
+            "start": 40,
+            "end": 40
           },
           "kind": "commentary",
           "text": "言存精氣，其妙甚真，非有飾也。",
@@ -396,9 +378,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 1,
-            "start": 38,
-            "end": 39
+            "verseIndex": 0,
+            "start": 48,
+            "end": 49
           },
           "kind": "commentary",
           "text": "道匿功藏名，其信在中也。",
@@ -409,7 +391,7 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 6,
+            "verseIndex": 2,
             "start": 0,
             "end": 15
           },
@@ -422,7 +404,7 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 6,
+            "verseIndex": 2,
             "start": 0,
             "end": 15
           },
@@ -435,9 +417,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 8,
-            "start": 3,
-            "end": 3
+            "verseIndex": 2,
+            "start": 27,
+            "end": 27
           },
           "kind": "commentary",
           "text": "吾何以知萬物從道受氣。",
@@ -448,9 +430,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 3,
-            "start": 10,
-            "end": 11
+            "verseIndex": 1,
+            "start": 20,
+            "end": 21
           },
           "kind": "commentary",
           "text": "此，今也。以今萬物皆得道精氣而生，動作起居，非道不然。",
@@ -473,9 +455,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 1,
-            "start": 9,
-            "end": 9
+            "verseIndex": 0,
+            "start": 19,
+            "end": 19
           },
           "kind": "commentary",
           "text": "孔，空也，惟以空為德，然後乃能動作從道。",
@@ -486,9 +468,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 1,
-            "start": 9,
-            "end": 9
+            "verseIndex": 0,
+            "start": 19,
+            "end": 19
           },
           "kind": "commentary",
           "text": "恍惚，無形不繫之歎。",
@@ -499,9 +481,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 5,
-            "start": 10,
-            "end": 10
+            "verseIndex": 1,
+            "start": 40,
+            "end": 40
           },
           "kind": "commentary",
           "text": "以無形始物，不繫成物，萬物以始以成，而不知其所以然，故曰，恍兮惚兮、惚兮恍兮，其中有象也。",
@@ -512,9 +494,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 5,
-            "start": 10,
-            "end": 10
+            "verseIndex": 1,
+            "start": 40,
+            "end": 40
           },
           "kind": "commentary",
           "text": "窈、冥，深遠之歎，深遠不可得而見。然而萬物由之，其可得見，以定其真。故曰，窈兮冥兮，其中有精也。",
@@ -525,9 +507,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 5,
-            "start": 10,
-            "end": 10
+            "verseIndex": 1,
+            "start": 40,
+            "end": 40
           },
           "kind": "commentary",
           "text": "信，信驗也。物反窈冥，則真精之極得，萬物之性定。故曰，其精甚真，其中有信也。",
@@ -538,7 +520,7 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 2,
+            "verseIndex": 1,
             "start": 0,
             "end": 1
           },
@@ -551,7 +533,7 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 6,
+            "verseIndex": 2,
             "start": 0,
             "end": 15
           },
@@ -564,9 +546,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 8,
-            "start": 3,
-            "end": 3
+            "verseIndex": 2,
+            "start": 27,
+            "end": 27
           },
           "kind": "commentary",
           "text": "此上之所云也。言吾何以知萬物之始於無哉，以此知之也。",

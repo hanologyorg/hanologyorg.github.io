@@ -9,49 +9,19 @@
   "genre": "prose",
   "verses": [
     {
-      "text": "為无為。"
+      "text": "為无為。事无事。味无味。"
     },
     {
-      "text": "事无事。"
+      "text": "大小多少，報怨以德。圖難乎亓易也。為大乎亓細也。天下之難作於易。天下之大作於細。"
     },
     {
-      "text": "味无味。"
+      "text": "是以聖人終不為大。故能成亓大。"
     },
     {
-      "text": "大小多少，報怨以德。"
+      "text": "夫：輕諾必寡信。多易必多難。"
     },
     {
-      "text": "圖難乎亓易也。"
-    },
-    {
-      "text": "為大乎亓細也。"
-    },
-    {
-      "text": "天下之難作於易。"
-    },
-    {
-      "text": "天下之大作於細。"
-    },
-    {
-      "text": "是以聖人終不為大。"
-    },
-    {
-      "text": "故能成亓大。"
-    },
-    {
-      "text": "夫："
-    },
-    {
-      "text": "輕諾必寡信。"
-    },
-    {
-      "text": "多易必多難。"
-    },
-    {
-      "text": "是以聖人猶難之，"
-    },
-    {
-      "text": "故終於无難。"
+      "text": "是以聖人猶難之，故終於无難。"
     }
   ],
   "sections": {},
@@ -89,9 +59,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 1,
-          "start": 0,
-          "end": 1
+          "verseIndex": 0,
+          "start": 4,
+          "end": 5
         },
         "kind": "commentary",
         "text": "陳其戒令也。欲大反小，欲多反少，自然之道也。",
@@ -102,9 +72,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 1,
-          "start": 5,
-          "end": 6
+          "verseIndex": 0,
+          "start": 9,
+          "end": 10
         },
         "kind": "commentary",
         "text": "修道行善，絕禍於未生也。",
@@ -115,9 +85,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 7,
-          "start": 8,
-          "end": 8
+          "verseIndex": 1,
+          "start": 40,
+          "end": 40
         },
         "kind": "commentary",
         "text": "欲圖難事，當於易時，未及成也。",
@@ -128,9 +98,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 7,
-          "start": 8,
-          "end": 8
+          "verseIndex": 1,
+          "start": 40,
+          "end": 40
         },
         "kind": "commentary",
         "text": "欲為大事，必作於小，禍亂從小來也。",
@@ -141,9 +111,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 7,
-          "start": 8,
-          "end": 8
+          "verseIndex": 1,
+          "start": 40,
+          "end": 40
         },
         "kind": "commentary",
         "text": "從易生難，從細生著。",
@@ -154,9 +124,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 9,
-          "start": 6,
-          "end": 6
+          "verseIndex": 2,
+          "start": 15,
+          "end": 15
         },
         "kind": "commentary",
         "text": "處謙虛，天下共歸之也。",
@@ -167,9 +137,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 4,
-          "start": 0,
-          "end": 1
+          "verseIndex": 1,
+          "start": 10,
+          "end": 11
         },
         "kind": "commentary",
         "text": "不重言也。",
@@ -180,9 +150,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 4,
-          "start": 10,
-          "end": 11
+          "verseIndex": 1,
+          "start": 20,
+          "end": 21
         },
         "kind": "commentary",
         "text": "不慎患也。",
@@ -193,9 +163,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 5,
-          "start": 0,
-          "end": 1
+          "verseIndex": 1,
+          "start": 17,
+          "end": 18
         },
         "kind": "commentary",
         "text": "聖人動作舉事，猶進退，重難之，欲塞其源也。",
@@ -206,9 +176,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 14,
-          "start": 6,
-          "end": 6
+          "verseIndex": 4,
+          "start": 14,
+          "end": 14
         },
         "kind": "commentary",
         "text": "聖人終生無患難之事，猶避害深也。",
@@ -221,9 +191,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
-          "start": 4,
-          "end": 4
+          "verseIndex": 0,
+          "start": 12,
+          "end": 12
         },
         "kind": "commentary",
         "text": "以無為為居，以不言為教，以恬淡為味，治之極也。",
@@ -234,7 +204,7 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 3,
+          "verseIndex": 1,
           "start": 0,
           "end": 10
         },
@@ -247,9 +217,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 14,
-          "start": 6,
-          "end": 6
+          "verseIndex": 4,
+          "start": 14,
+          "end": 14
         },
         "kind": "commentary",
         "text": "以聖人之才猶尚難於細易，況非聖人之才而欲忽於此乎，故曰，猶難之也。",
@@ -260,9 +230,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 14,
-          "start": 6,
-          "end": 6
+          "verseIndex": 4,
+          "start": 14,
+          "end": 14
         },
         "kind": "commentary",
         "text": "",
@@ -323,9 +293,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 1,
-            "start": 0,
-            "end": 1
+            "verseIndex": 0,
+            "start": 4,
+            "end": 5
           },
           "kind": "commentary",
           "text": "陳其戒令也。欲大反小，欲多反少，自然之道也。",
@@ -336,9 +306,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 1,
-            "start": 5,
-            "end": 6
+            "verseIndex": 0,
+            "start": 9,
+            "end": 10
           },
           "kind": "commentary",
           "text": "修道行善，絕禍於未生也。",
@@ -349,9 +319,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 7,
-            "start": 8,
-            "end": 8
+            "verseIndex": 1,
+            "start": 40,
+            "end": 40
           },
           "kind": "commentary",
           "text": "欲圖難事，當於易時，未及成也。",
@@ -362,9 +332,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 7,
-            "start": 8,
-            "end": 8
+            "verseIndex": 1,
+            "start": 40,
+            "end": 40
           },
           "kind": "commentary",
           "text": "欲為大事，必作於小，禍亂從小來也。",
@@ -375,9 +345,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 7,
-            "start": 8,
-            "end": 8
+            "verseIndex": 1,
+            "start": 40,
+            "end": 40
           },
           "kind": "commentary",
           "text": "從易生難，從細生著。",
@@ -388,9 +358,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 9,
-            "start": 6,
-            "end": 6
+            "verseIndex": 2,
+            "start": 15,
+            "end": 15
           },
           "kind": "commentary",
           "text": "處謙虛，天下共歸之也。",
@@ -401,9 +371,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 4,
-            "start": 0,
-            "end": 1
+            "verseIndex": 1,
+            "start": 10,
+            "end": 11
           },
           "kind": "commentary",
           "text": "不重言也。",
@@ -414,9 +384,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 4,
-            "start": 10,
-            "end": 11
+            "verseIndex": 1,
+            "start": 20,
+            "end": 21
           },
           "kind": "commentary",
           "text": "不慎患也。",
@@ -427,9 +397,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 5,
-            "start": 0,
-            "end": 1
+            "verseIndex": 1,
+            "start": 17,
+            "end": 18
           },
           "kind": "commentary",
           "text": "聖人動作舉事，猶進退，重難之，欲塞其源也。",
@@ -440,9 +410,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 14,
-            "start": 6,
-            "end": 6
+            "verseIndex": 4,
+            "start": 14,
+            "end": 14
           },
           "kind": "commentary",
           "text": "聖人終生無患難之事，猶避害深也。",
@@ -465,9 +435,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 2,
-            "start": 4,
-            "end": 4
+            "verseIndex": 0,
+            "start": 12,
+            "end": 12
           },
           "kind": "commentary",
           "text": "以無為為居，以不言為教，以恬淡為味，治之極也。",
@@ -478,7 +448,7 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 3,
+            "verseIndex": 1,
             "start": 0,
             "end": 10
           },
@@ -491,9 +461,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 14,
-            "start": 6,
-            "end": 6
+            "verseIndex": 4,
+            "start": 14,
+            "end": 14
           },
           "kind": "commentary",
           "text": "以聖人之才猶尚難於細易，況非聖人之才而欲忽於此乎，故曰，猶難之也。",
@@ -504,9 +474,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 14,
-            "start": 6,
-            "end": 6
+            "verseIndex": 4,
+            "start": 14,
+            "end": 14
           },
           "kind": "commentary",
           "text": "",

@@ -9,49 +9,16 @@
   "genre": "prose",
   "verses": [
     {
-      "text": "曲則全。"
+      "text": "曲則全。枉則正。洼則盈。敝則新。少則得。多則惑。"
     },
     {
-      "text": "枉則正。"
+      "text": "是以聖人執一，以為天下牧。"
     },
     {
-      "text": "洼則盈。"
+      "text": "不自視故明。不自見故彰。不自伐故有功。弗矜故能長。"
     },
     {
-      "text": "敝則新。"
-    },
-    {
-      "text": "少則得。"
-    },
-    {
-      "text": "多則惑。"
-    },
-    {
-      "text": "是以聖人執一，"
-    },
-    {
-      "text": "以為天下牧。"
-    },
-    {
-      "text": "不自視故明。"
-    },
-    {
-      "text": "不自見故彰。"
-    },
-    {
-      "text": "不自伐故有功。"
-    },
-    {
-      "text": "弗矜故能長。"
-    },
-    {
-      "text": "夫唯不爭，故莫能與之爭。"
-    },
-    {
-      "text": "古之所謂曲全者，"
-    },
-    {
-      "text": "幾語才，誠全歸之。"
+      "text": "夫唯不爭，故莫能與之爭。古之所謂曲全者，幾語才，誠全歸之。"
     }
   ],
   "sections": {},
@@ -63,9 +30,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 5,
-          "start": 4,
-          "end": 4
+          "verseIndex": 0,
+          "start": 24,
+          "end": 24
         },
         "kind": "commentary",
         "text": "枉，屈己而伸人，久久自得直也。",
@@ -76,9 +43,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 5,
-          "start": 4,
-          "end": 4
+          "verseIndex": 0,
+          "start": 24,
+          "end": 24
         },
         "kind": "commentary",
         "text": "地窪下，水流之；人謙下，德歸之。",
@@ -128,9 +95,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 7,
-          "start": 6,
-          "end": 6
+          "verseIndex": 1,
+          "start": 13,
+          "end": 13
         },
         "kind": "commentary",
         "text": "抱，守也。式，法也。聖人守一，乃知萬事，故能為天下法式也。",
@@ -141,9 +108,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 11,
-          "start": 6,
-          "end": 6
+          "verseIndex": 2,
+          "start": 25,
+          "end": 25
         },
         "kind": "commentary",
         "text": "聖人不以其目視千里之外也，乃因天下之目以視，故能明達也。",
@@ -154,9 +121,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 11,
-          "start": 6,
-          "end": 6
+          "verseIndex": 2,
+          "start": 25,
+          "end": 25
         },
         "kind": "commentary",
         "text": "聖人不自以為是而非人，故能彰顯於世。",
@@ -167,9 +134,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
-          "start": 14,
-          "end": 15
+          "verseIndex": 0,
+          "start": 22,
+          "end": 23
         },
         "kind": "commentary",
         "text": "伐，取也。聖人德化流行，不自取其美，故有功於天下。",
@@ -180,9 +147,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 11,
-          "start": 6,
-          "end": 6
+          "verseIndex": 2,
+          "start": 25,
+          "end": 25
         },
         "kind": "commentary",
         "text": "矜，大也。聖人不自貴大，故能久不危。",
@@ -193,7 +160,7 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 12,
+          "verseIndex": 3,
           "start": 0,
           "end": 12
         },
@@ -206,9 +173,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 14,
-          "start": 9,
-          "end": 9
+          "verseIndex": 3,
+          "start": 29,
+          "end": 29
         },
         "kind": "commentary",
         "text": "傳古言，曲從則全身，此言非虛妄也。",
@@ -219,9 +186,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 14,
-          "start": 9,
-          "end": 9
+          "verseIndex": 3,
+          "start": 29,
+          "end": 29
         },
         "kind": "commentary",
         "text": "誠，實也。能行曲從者，實其肌體，歸之於父母，無有傷害也。",
@@ -234,9 +201,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 5,
-          "start": 4,
-          "end": 4
+          "verseIndex": 0,
+          "start": 24,
+          "end": 24
         },
         "kind": "commentary",
         "text": "不自是則其是彰也。",
@@ -247,9 +214,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 5,
-          "start": 4,
-          "end": 4
+          "verseIndex": 0,
+          "start": 24,
+          "end": 24
         },
         "kind": "commentary",
         "text": "不自伐則其功有也。",
@@ -286,9 +253,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 7,
-          "start": 6,
-          "end": 6
+          "verseIndex": 1,
+          "start": 13,
+          "end": 13
         },
         "kind": "commentary",
         "text": "一，少之極也。式，猶則之也。",
@@ -299,9 +266,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 7,
-          "start": 6,
-          "end": 6
+          "verseIndex": 1,
+          "start": 13,
+          "end": 13
         },
         "kind": "commentary",
         "text": "",
@@ -336,9 +303,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 5,
-            "start": 4,
-            "end": 4
+            "verseIndex": 0,
+            "start": 24,
+            "end": 24
           },
           "kind": "commentary",
           "text": "枉，屈己而伸人，久久自得直也。",
@@ -349,9 +316,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 5,
-            "start": 4,
-            "end": 4
+            "verseIndex": 0,
+            "start": 24,
+            "end": 24
           },
           "kind": "commentary",
           "text": "地窪下，水流之；人謙下，德歸之。",
@@ -401,9 +368,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 7,
-            "start": 6,
-            "end": 6
+            "verseIndex": 1,
+            "start": 13,
+            "end": 13
           },
           "kind": "commentary",
           "text": "抱，守也。式，法也。聖人守一，乃知萬事，故能為天下法式也。",
@@ -414,9 +381,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 11,
-            "start": 6,
-            "end": 6
+            "verseIndex": 2,
+            "start": 25,
+            "end": 25
           },
           "kind": "commentary",
           "text": "聖人不以其目視千里之外也，乃因天下之目以視，故能明達也。",
@@ -427,9 +394,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 11,
-            "start": 6,
-            "end": 6
+            "verseIndex": 2,
+            "start": 25,
+            "end": 25
           },
           "kind": "commentary",
           "text": "聖人不自以為是而非人，故能彰顯於世。",
@@ -440,9 +407,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 2,
-            "start": 14,
-            "end": 15
+            "verseIndex": 0,
+            "start": 22,
+            "end": 23
           },
           "kind": "commentary",
           "text": "伐，取也。聖人德化流行，不自取其美，故有功於天下。",
@@ -453,9 +420,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 11,
-            "start": 6,
-            "end": 6
+            "verseIndex": 2,
+            "start": 25,
+            "end": 25
           },
           "kind": "commentary",
           "text": "矜，大也。聖人不自貴大，故能久不危。",
@@ -466,7 +433,7 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 12,
+            "verseIndex": 3,
             "start": 0,
             "end": 12
           },
@@ -479,9 +446,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 14,
-            "start": 9,
-            "end": 9
+            "verseIndex": 3,
+            "start": 29,
+            "end": 29
           },
           "kind": "commentary",
           "text": "傳古言，曲從則全身，此言非虛妄也。",
@@ -492,9 +459,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 14,
-            "start": 9,
-            "end": 9
+            "verseIndex": 3,
+            "start": 29,
+            "end": 29
           },
           "kind": "commentary",
           "text": "誠，實也。能行曲從者，實其肌體，歸之於父母，無有傷害也。",
@@ -517,9 +484,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 5,
-            "start": 4,
-            "end": 4
+            "verseIndex": 0,
+            "start": 24,
+            "end": 24
           },
           "kind": "commentary",
           "text": "不自是則其是彰也。",
@@ -530,9 +497,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 5,
-            "start": 4,
-            "end": 4
+            "verseIndex": 0,
+            "start": 24,
+            "end": 24
           },
           "kind": "commentary",
           "text": "不自伐則其功有也。",
@@ -569,9 +536,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 7,
-            "start": 6,
-            "end": 6
+            "verseIndex": 1,
+            "start": 13,
+            "end": 13
           },
           "kind": "commentary",
           "text": "一，少之極也。式，猶則之也。",
@@ -582,9 +549,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 7,
-            "start": 6,
-            "end": 6
+            "verseIndex": 1,
+            "start": 13,
+            "end": 13
           },
           "kind": "commentary",
           "text": "",

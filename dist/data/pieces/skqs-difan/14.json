@@ -12,10 +12,7 @@
       "text": ""
     },
     {
-      "text": "夫功成設樂治定制禮禮樂之興以儒為本宏風��俗莫尚於文敷教訓人莫善於學因文而隆道假學以光身不臨深谿不知地之厚不㳺文翰不識智之源然則質藴吳竿非筈羽不美性懷辨慧非積學不成是以建明堂立辟雍博覽百家精研六藝端拱而知天下無為而鑒古今飛英聲騰茂實光於不朽者其唯學乎此文術也斯二者逓為國用至若長氣亘地成敗定乎鋒端巨浪滔天興亡决乎一陣當此之際則貴干戈而賤庠序及乎海嶽既晏波塵已清偃七徳之餘威敷九功之大化當此之際則輕甲胄而重詩書是知文武二途捨一不可與時優劣各有其宜武士儒人焉可廢也"
-    },
-    {
-      "text": "此十二條者帝王之大綱也安危興廢咸在兹焉古人有云非知之難惟行之不易行之可勉惟終實難是以暴亂之君非獨明於惡路聖哲之主非獨見於善途良由大道逺而難遵邪徑近而易踐小人俯從其易不得力行其難故禍敗及之君子勞處其難不能力居其易故福慶流之故知禍福無門惟人所召欲悔非於既徃惟慎禍於將来當擇哲主為師母以吾為前鑒取法於上僅得為中取法於中故為其下自非上徳不可效焉吾在位以来所制多矣竒麗服翫錦繡珠玉不絶於前此非防欲也雕楹刻桷髙臺深池每興其役此非儉志也犬馬鷹鶻無逺必致此非節心也數有行幸以亟勞人此非屈己也斯事者吾之深過勿以兹為是而後法焉但我濟育蒼生其益多平定寰宇其功大益多損少人不怨功大過微徳未虧然猶之盡美之蹤於焉多媿盡善之道顧此懷慚况汝無纎毫之功直縁基而履慶若崇善以廣徳則業泰身安若肆情以從非則業傾身䘮且成遲敗速者國基也失易得難者天位也可不惜哉"
+      "text": "夫功成設樂治定制禮禮樂之興以儒為本宏風��俗莫尚於文敷教訓人莫善於學因文而隆道假學以光身不臨深谿不知地之厚不㳺文翰不識智之源然則質藴吳竿非筈羽不美性懷辨慧非積學不成是以建明堂立辟雍博覽百家精研六藝端拱而知天下無為而鑒古今飛英聲騰茂實光於不朽者其唯學乎此文術也斯二者逓為國用至若長氣亘地成敗定乎鋒端巨浪滔天興亡决乎一陣當此之際則貴干戈而賤庠序及乎海嶽既晏波塵已清偃七徳之餘威敷九功之大化當此之際則輕甲胄而重詩書是知文武二途捨一不可與時優劣各有其宜武士儒人焉可廢也此十二條者帝王之大綱也安危興廢咸在兹焉古人有云非知之難惟行之不易行之可勉惟終實難是以暴亂之君非獨明於惡路聖哲之主非獨見於善途良由大道逺而難遵邪徑近而易踐小人俯從其易不得力行其難故禍敗及之君子勞處其難不能力居其易故福慶流之故知禍福無門惟人所召欲悔非於既徃惟慎禍於將来當擇哲主為師母以吾為前鑒取法於上僅得為中取法於中故為其下自非上徳不可效焉吾在位以来所制多矣竒麗服翫錦繡珠玉不絶於前此非防欲也雕楹刻桷髙臺深池每興其役此非儉志也犬馬鷹鶻無逺必致此非節心也數有行幸以亟勞人此非屈己也斯事者吾之深過勿以兹為是而後法焉但我濟育蒼生其益多平定寰宇其功大益多損少人不怨功大過微徳未虧然猶之盡美之蹤於焉多媿盡善之道顧此懷慚况汝無纎毫之功直縁基而履慶若崇善以廣徳則業泰身安若肆情以從非則業傾身䘮且成遲敗速者國基也失易得難者天位也可不惜哉"
     }
   ],
   "sections": {},
@@ -430,9 +427,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
-          "start": 0,
-          "end": 14
+          "verseIndex": 1,
+          "start": 230,
+          "end": 244
         },
         "kind": "semantic",
         "text": "書曰若網在綱綱者網之總也言上項十二事者是為帝王大畧之綱領",
@@ -443,9 +440,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
-          "start": 14,
-          "end": 22
+          "verseIndex": 1,
+          "start": 244,
+          "end": 252
         },
         "kind": "semantic",
         "text": "咸總也言安平危亂興起廢墜總在於此",
@@ -456,9 +453,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
-          "start": 22,
-          "end": 43
+          "verseIndex": 1,
+          "start": 252,
+          "end": 273
         },
         "kind": "semantic",
         "text": "此商書說命之辭也說拜稽首曰非知之艱行之惟艱言知之易行之難以勉勸髙宗克終於善道也",
@@ -469,9 +466,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
-          "start": 43,
-          "end": 55
+          "verseIndex": 1,
+          "start": 273,
+          "end": 285
         },
         "kind": "semantic",
         "text": "言暴虐荒亂之君不是獨知行惡之人也",
@@ -482,9 +479,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
-          "start": 55,
-          "end": 65
+          "verseIndex": 1,
+          "start": 285,
+          "end": 295
         },
         "kind": "semantic",
         "text": "言聖明哲智之主不是獨見行善之途也",
@@ -495,9 +492,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
-          "start": 65,
-          "end": 73
+          "verseIndex": 1,
+          "start": 295,
+          "end": 303
         },
         "kind": "semantic",
         "text": "孟子曰夫道若大路然豈難知哉人病不求耳子歸而求之有餘師以此思之何逺之有遵循行也",
@@ -508,9 +505,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
-          "start": 73,
-          "end": 79
+          "verseIndex": 1,
+          "start": 303,
+          "end": 309
         },
         "kind": "semantic",
         "text": "老子曰大道甚夷而人好逕逕者小路也故云易踐履也",
@@ -521,9 +518,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
-          "start": 79,
-          "end": 96
+          "verseIndex": 1,
+          "start": 309,
+          "end": 326
         },
         "kind": "semantic",
         "text": "東莱先生曰始遇其易即以易為常以易為常禍之門也",
@@ -534,9 +531,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
-          "start": 96,
-          "end": 113
+          "verseIndex": 1,
+          "start": 326,
+          "end": 343
         },
         "kind": "semantic",
         "text": "東莱先生曰先遇其難必以難為常以難為常福之階也",
@@ -547,9 +544,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
-          "start": 113,
-          "end": 123
+          "verseIndex": 1,
+          "start": 343,
+          "end": 353
         },
         "kind": "semantic",
         "text": "左傳閔子馬曰禍福無門惟人所召又易曰積善之家必有餘慶積不善之家必有餘殃此豈非人自召乎",
@@ -560,9 +557,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
-          "start": 123,
-          "end": 129
+          "verseIndex": 1,
+          "start": 353,
+          "end": 359
         },
         "kind": "semantic",
         "text": "孔子曰既徃不咎又國䇿有曰見兎顧犬非以為晚也亡羊補裷非以為遲也以徃非違之事雖悔何及是不可悔也",
@@ -573,9 +570,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
-          "start": 129,
-          "end": 135
+          "verseIndex": 1,
+          "start": 359,
+          "end": 365
         },
         "kind": "semantic",
         "text": "易之坤初六曰履霜堅冰至象曰履霜堅冰隂始凝也馴致其道至堅冰也此聖人防漸慮微慎終於始之大戒也故君子治未病不治已病治未亂不治已亂也將来未来也",
@@ -586,9 +583,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
-          "start": 135,
-          "end": 147
+          "verseIndex": 1,
+          "start": 365,
+          "end": 377
         },
         "kind": "semantic",
         "text": "蜀志先主語其子曰勿以惡小而為之勿以善小而不為惟賢惟徳可以服人汝父徳薄不可效也是以太宗得此義故以自貶抑而諭太子汝當可選上古聖哲之主為師範勿用我之所行以為鑒戒　毋音無禁止之辭",
@@ -599,9 +596,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
-          "start": 147,
-          "end": 163
+          "verseIndex": 1,
+          "start": 377,
+          "end": 393
         },
         "kind": "semantic",
         "text": "孔子曰取法於天而則之斯為其上顔孟取法於孔子而近之纔得其中後儒取於顔孟而逺之則為其下矣既為其下何足法乎為儒者當取法孔子顔子孟子為君者當取法於堯舜文王",
@@ -612,9 +609,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
-          "start": 163,
-          "end": 171
+          "verseIndex": 1,
+          "start": 393,
+          "end": 401
         },
         "kind": "semantic",
         "text": "非有髙上大徳之君不足慕耳",
@@ -625,9 +622,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
-          "start": 171,
-          "end": 180
+          "verseIndex": 1,
+          "start": 401,
+          "end": 410
         },
         "kind": "semantic",
         "text": "言我自登君位以来從前至今制作多矣",
@@ -638,9 +635,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
-          "start": 180,
-          "end": 197
+          "verseIndex": 1,
+          "start": 410,
+          "end": 427
         },
         "kind": "semantic",
         "text": "自貶其奢也防戒也",
@@ -651,9 +648,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
-          "start": 197,
-          "end": 201
+          "verseIndex": 1,
+          "start": 427,
+          "end": 431
         },
         "kind": "semantic",
         "text": "春秋莊公二十三年秋丹桓宫楹二十四年春刻桓宫桷左傳曰皆非禮也御孫諫曰臣聞之儉徳之共也侈惡之大也先君有共徳而君納諸大惡無乃不可乎楹柱也桷椽也字林曰齊魯謂榱為桷",
@@ -664,9 +661,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
-          "start": 201,
-          "end": 209
+          "verseIndex": 1,
+          "start": 431,
+          "end": 439
         },
         "kind": "semantic",
         "text": "役謂工役役煩其民也",
@@ -677,9 +674,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
-          "start": 209,
-          "end": 214
+          "verseIndex": 1,
+          "start": 439,
+          "end": 444
         },
         "kind": "semantic",
         "text": "自貶其侈也",
@@ -690,9 +687,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
-          "start": 214,
-          "end": 227
+          "verseIndex": 1,
+          "start": 444,
+          "end": 457
         },
         "kind": "semantic",
         "text": "自貶其荒也節制也",
@@ -703,9 +700,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
-          "start": 227,
-          "end": 240
+          "verseIndex": 1,
+          "start": 457,
+          "end": 470
         },
         "kind": "fanqie",
         "text": "自貶其游田也屈曲也又抑也　數所角切言頻煩也",
@@ -716,9 +713,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
-          "start": 240,
-          "end": 247
+          "verseIndex": 1,
+          "start": 470,
+          "end": 477
         },
         "kind": "semantic",
         "text": "此等之事乃我平日之大過錯",
@@ -729,9 +726,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
-          "start": 247,
-          "end": 256
+          "verseIndex": 1,
+          "start": 477,
+          "end": 486
         },
         "kind": "semantic",
         "text": "毋以此等之事以為後之法度從而效之耳",
@@ -742,9 +739,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
-          "start": 256,
-          "end": 265
+          "verseIndex": 1,
+          "start": 486,
+          "end": 495
         },
         "kind": "semantic",
         "text": "蒼生謂萬物蒼蒼然之生又庶衆小民也濟救也育養也益利也言我除隋之荒亂救濟育養利益人民甚衆",
@@ -755,9 +752,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
-          "start": 265,
-          "end": 272
+          "verseIndex": 1,
+          "start": 495,
+          "end": 502
         },
         "kind": "semantic",
         "text": "言我平治定安天下為民除害其功勞甚大",
@@ -768,9 +765,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
-          "start": 272,
-          "end": 279
+          "verseIndex": 1,
+          "start": 502,
+          "end": 509
         },
         "kind": "semantic",
         "text": "怨咎也",
@@ -781,9 +778,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
-          "start": 279,
-          "end": 286
+          "verseIndex": 1,
+          "start": 509,
+          "end": 516
         },
         "kind": "semantic",
         "text": "虧妨也",
@@ -794,9 +791,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
-          "start": 286,
-          "end": 305
+          "verseIndex": 1,
+          "start": 516,
+          "end": 535
         },
         "kind": "semantic",
         "text": "魯論曰子謂韶盡美矣又盡善也謂武盡美矣未盡善也言我雖平定寰宇治育蒼生有功於天下亦有竒麗服玩行幸盤游之好不能盡善盡美每回顧此等之事甚慚愧於心也",
@@ -807,9 +804,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
-          "start": 305,
-          "end": 312
+          "verseIndex": 1,
+          "start": 535,
+          "end": 542
         },
         "kind": "semantic",
         "text": "此謂髙宗言何况汝並無纎細毫末之功勣也",
@@ -820,9 +817,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
-          "start": 312,
-          "end": 318
+          "verseIndex": 1,
+          "start": 542,
+          "end": 548
         },
         "kind": "semantic",
         "text": "徑因父祖基業而登履慶位直徑也縁因也",
@@ -833,9 +830,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
-          "start": 318,
-          "end": 329
+          "verseIndex": 1,
+          "start": 548,
+          "end": 559
         },
         "kind": "semantic",
         "text": "如能崇尚善道以充廣其徳庶得基業康泰身位平安",
@@ -846,9 +843,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
-          "start": 318,
-          "end": 329
+          "verseIndex": 1,
+          "start": 548,
+          "end": 559
         },
         "kind": "semantic",
         "text": "如放肆情欲以嗜邪滛必是基業傾危身位䘮敗",
@@ -859,9 +856,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
-          "start": 340,
-          "end": 358
+          "verseIndex": 1,
+          "start": 570,
+          "end": 588
         },
         "kind": "fanqie",
         "text": "商書伊尹申誥于太甲曰嗚呼惟天無親克敬惟親民罔常懷懷于有仁鬼神無常享享于克誠天位艱哉徳惟治否徳亂與治同道罔不興與亂同事罔不亡終始慎厥與惟明明后誠哉斯言此伊尹當阿衡之任曰天位艱哉一句其激切之至也於此太宗深得此理惟憂惟懼故發成遲敗速失易得難之痛誡也為人君者念哉鑒哉不可忽也艱即難也",

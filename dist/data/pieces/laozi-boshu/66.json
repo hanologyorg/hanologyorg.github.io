@@ -9,40 +9,10 @@
   "genre": "prose",
   "verses": [
     {
-      "text": "江海所以能為百浴王者，"
+      "text": "江海所以能為百浴王者，以亓善下之。是以能為百浴王。"
     },
     {
-      "text": "以亓善下之。"
-    },
-    {
-      "text": "是以能為百浴王。"
-    },
-    {
-      "text": "是以聖人之："
-    },
-    {
-      "text": "欲上民也，必以亓言下之。"
-    },
-    {
-      "text": "欲先民也，必以亓身後之。"
-    },
-    {
-      "text": "故："
-    },
-    {
-      "text": "居前而民弗害也，"
-    },
-    {
-      "text": "居上而民弗重也。"
-    },
-    {
-      "text": "天下樂推而弗猒也。"
-    },
-    {
-      "text": "非以亓无諍與，"
-    },
-    {
-      "text": "故天下莫能與諍"
+      "text": "是以聖人之：欲上民也，必以亓言下之。欲先民也，必以亓身後之。故：居前而民弗害也，居上而民弗重也。天下樂推而弗猒也。非以亓无諍與，故天下莫能與諍"
     }
   ],
   "sections": {},
@@ -54,9 +24,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
-          "start": 8,
-          "end": 8
+          "verseIndex": 0,
+          "start": 25,
+          "end": 25
         },
         "kind": "commentary",
         "text": "江海以卑，故眾流歸之，若民歸就王。",
@@ -67,9 +37,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
-          "start": 8,
-          "end": 8
+          "verseIndex": 0,
+          "start": 25,
+          "end": 25
         },
         "kind": "commentary",
         "text": "以卑下，故能為百谷王也。",
@@ -80,9 +50,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 11,
-          "start": 7,
-          "end": 7
+          "verseIndex": 1,
+          "start": 71,
+          "end": 71
         },
         "kind": "commentary",
         "text": "欲在民之上也。",
@@ -93,9 +63,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 11,
-          "start": 7,
-          "end": 7
+          "verseIndex": 1,
+          "start": 71,
+          "end": 71
         },
         "kind": "commentary",
         "text": "法江海處謙虛。",
@@ -106,9 +76,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 1,
-          "start": 20,
-          "end": 21
+          "verseIndex": 0,
+          "start": 31,
+          "end": 32
         },
         "kind": "commentary",
         "text": "欲在民之前也。",
@@ -119,9 +89,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 11,
-          "start": 7,
-          "end": 7
+          "verseIndex": 1,
+          "start": 71,
+          "end": 71
         },
         "kind": "commentary",
         "text": "先人而後己也。",
@@ -132,9 +102,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 11,
-          "start": 7,
-          "end": 7
+          "verseIndex": 1,
+          "start": 71,
+          "end": 71
         },
         "kind": "commentary",
         "text": "聖人在民上為主，不以尊貴虐下，故民戴而不為重。",
@@ -145,9 +115,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 11,
-          "start": 7,
-          "end": 7
+          "verseIndex": 1,
+          "start": 71,
+          "end": 71
         },
         "kind": "commentary",
         "text": "聖人在民前，不以光明蔽後，民親之若父母，無有欲害之心也。",
@@ -158,9 +128,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 11,
-          "start": 7,
-          "end": 7
+          "verseIndex": 1,
+          "start": 71,
+          "end": 71
         },
         "kind": "commentary",
         "text": "聖人恩深愛厚，視民如赤子，故天下樂推進以為主，無有厭也。",
@@ -171,9 +141,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 11,
-          "start": 7,
-          "end": 7
+          "verseIndex": 1,
+          "start": 71,
+          "end": 71
         },
         "kind": "commentary",
         "text": "天下無厭聖人時，是由聖人不與人爭先後也。",
@@ -184,9 +154,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 11,
-          "start": 7,
-          "end": 7
+          "verseIndex": 1,
+          "start": 71,
+          "end": 71
         },
         "kind": "commentary",
         "text": "言人皆有為，無有與吾爭無為。",
@@ -199,9 +169,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
-          "start": 8,
-          "end": 8
+          "verseIndex": 0,
+          "start": 25,
+          "end": 25
         },
         "kind": "commentary",
         "text": "",
@@ -236,9 +206,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 2,
-            "start": 8,
-            "end": 8
+            "verseIndex": 0,
+            "start": 25,
+            "end": 25
           },
           "kind": "commentary",
           "text": "江海以卑，故眾流歸之，若民歸就王。",
@@ -249,9 +219,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 2,
-            "start": 8,
-            "end": 8
+            "verseIndex": 0,
+            "start": 25,
+            "end": 25
           },
           "kind": "commentary",
           "text": "以卑下，故能為百谷王也。",
@@ -262,9 +232,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 11,
-            "start": 7,
-            "end": 7
+            "verseIndex": 1,
+            "start": 71,
+            "end": 71
           },
           "kind": "commentary",
           "text": "欲在民之上也。",
@@ -275,9 +245,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 11,
-            "start": 7,
-            "end": 7
+            "verseIndex": 1,
+            "start": 71,
+            "end": 71
           },
           "kind": "commentary",
           "text": "法江海處謙虛。",
@@ -288,9 +258,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 1,
-            "start": 20,
-            "end": 21
+            "verseIndex": 0,
+            "start": 31,
+            "end": 32
           },
           "kind": "commentary",
           "text": "欲在民之前也。",
@@ -301,9 +271,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 11,
-            "start": 7,
-            "end": 7
+            "verseIndex": 1,
+            "start": 71,
+            "end": 71
           },
           "kind": "commentary",
           "text": "先人而後己也。",
@@ -314,9 +284,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 11,
-            "start": 7,
-            "end": 7
+            "verseIndex": 1,
+            "start": 71,
+            "end": 71
           },
           "kind": "commentary",
           "text": "聖人在民上為主，不以尊貴虐下，故民戴而不為重。",
@@ -327,9 +297,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 11,
-            "start": 7,
-            "end": 7
+            "verseIndex": 1,
+            "start": 71,
+            "end": 71
           },
           "kind": "commentary",
           "text": "聖人在民前，不以光明蔽後，民親之若父母，無有欲害之心也。",
@@ -340,9 +310,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 11,
-            "start": 7,
-            "end": 7
+            "verseIndex": 1,
+            "start": 71,
+            "end": 71
           },
           "kind": "commentary",
           "text": "聖人恩深愛厚，視民如赤子，故天下樂推進以為主，無有厭也。",
@@ -353,9 +323,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 11,
-            "start": 7,
-            "end": 7
+            "verseIndex": 1,
+            "start": 71,
+            "end": 71
           },
           "kind": "commentary",
           "text": "天下無厭聖人時，是由聖人不與人爭先後也。",
@@ -366,9 +336,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 11,
-            "start": 7,
-            "end": 7
+            "verseIndex": 1,
+            "start": 71,
+            "end": 71
           },
           "kind": "commentary",
           "text": "言人皆有為，無有與吾爭無為。",
@@ -391,9 +361,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 2,
-            "start": 8,
-            "end": 8
+            "verseIndex": 0,
+            "start": 25,
+            "end": 25
           },
           "kind": "commentary",
           "text": "",

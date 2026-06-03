@@ -9,55 +9,16 @@
   "genre": "prose",
   "verses": [
     {
-      "text": "道生之而德畜之。"
+      "text": "道生之而德畜之。物形之而器成之。"
     },
     {
-      "text": "物形之而器成之。"
+      "text": "是以：萬物尊道而貴德。道之尊也。德之貴也。夫莫之爵也，而恆自然也。"
     },
     {
-      "text": "是以：萬物尊道而貴德。"
+      "text": "道生之，畜之，長之，遂之，亭之，毒之，養之，覆之。"
     },
     {
-      "text": "道之尊也。德之貴也。"
-    },
-    {
-      "text": "夫莫之爵也，而恆自然也。"
-    },
-    {
-      "text": "道生之，"
-    },
-    {
-      "text": "畜之，"
-    },
-    {
-      "text": "長之，"
-    },
-    {
-      "text": "遂之，"
-    },
-    {
-      "text": "亭之，"
-    },
-    {
-      "text": "毒之，"
-    },
-    {
-      "text": "養之，"
-    },
-    {
-      "text": "覆之。"
-    },
-    {
-      "text": "生而弗有也。"
-    },
-    {
-      "text": "為而弗恃也。"
-    },
-    {
-      "text": "長而弗宰也。"
-    },
-    {
-      "text": "此之謂玄德。"
+      "text": "生而弗有也。為而弗恃也。長而弗宰也。此之謂玄德。"
     }
   ],
   "sections": {},
@@ -95,9 +56,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 1,
-          "start": 8,
-          "end": 8
+          "verseIndex": 0,
+          "start": 16,
+          "end": 16
         },
         "kind": "commentary",
         "text": "一為萬物作寒暑之勢以成之。",
@@ -108,7 +69,7 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
+          "verseIndex": 1,
           "start": 0,
           "end": 11
         },
@@ -121,9 +82,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 4,
-          "start": 12,
-          "end": 12
+          "verseIndex": 1,
+          "start": 33,
+          "end": 33
         },
         "kind": "commentary",
         "text": "道一不命召萬物，而常自然應之如影響。",
@@ -134,9 +95,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 12,
-          "start": 3,
-          "end": 3
+          "verseIndex": 2,
+          "start": 25,
+          "end": 25
         },
         "kind": "commentary",
         "text": "道之於萬物，非但生而已，乃復長養、成孰、覆育，全其性命。人君治國治身，亦當如是也。",
@@ -147,9 +108,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 16,
-          "start": 6,
-          "end": 6
+          "verseIndex": 3,
+          "start": 24,
+          "end": 24
         },
         "kind": "commentary",
         "text": "道生萬物，不有所取以為利也。",
@@ -160,9 +121,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 16,
-          "start": 6,
-          "end": 6
+          "verseIndex": 3,
+          "start": 24,
+          "end": 24
         },
         "kind": "commentary",
         "text": "道所施為，不恃望其報也。",
@@ -173,9 +134,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 16,
-          "start": 6,
-          "end": 6
+          "verseIndex": 3,
+          "start": 24,
+          "end": 24
         },
         "kind": "commentary",
         "text": "道長養萬物，不宰割以為利也。",
@@ -186,9 +147,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 16,
-          "start": 6,
-          "end": 6
+          "verseIndex": 3,
+          "start": 24,
+          "end": 24
         },
         "kind": "commentary",
         "text": "道之所行恩德，玄闇不可得見。",
@@ -201,9 +162,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 1,
-          "start": 8,
-          "end": 8
+          "verseIndex": 0,
+          "start": 16,
+          "end": 16
         },
         "kind": "commentary",
         "text": "物生而後畜，畜而後形，形而後成，何由而生？道也；何得而畜？德也；何由而形？物也；何使而成，勢也。唯因也，故能無物而不形；唯勢也，故能無物而不成。凡物之所以生，功之所以成，皆有所由，有所由焉，則莫不由乎道也。故推而極之，亦至道也。隨其所因，故各有稱焉。",
@@ -214,7 +175,7 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
+          "verseIndex": 1,
           "start": 0,
           "end": 11
         },
@@ -227,9 +188,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 4,
-          "start": 12,
-          "end": 12
+          "verseIndex": 1,
+          "start": 33,
+          "end": 33
         },
         "kind": "commentary",
         "text": "命並作爵。",
@@ -240,9 +201,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 12,
-          "start": 3,
-          "end": 3
+          "verseIndex": 2,
+          "start": 25,
+          "end": 25
         },
         "kind": "commentary",
         "text": "謂成其實，各得其庇蔭，不傷其體矣。",
@@ -253,9 +214,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 16,
-          "start": 6,
-          "end": 6
+          "verseIndex": 3,
+          "start": 24,
+          "end": 24
         },
         "kind": "commentary",
         "text": "為而不有。",
@@ -266,9 +227,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 16,
-          "start": 6,
-          "end": 6
+          "verseIndex": 3,
+          "start": 24,
+          "end": 24
         },
         "kind": "commentary",
         "text": "有德而不知其主也，出乎幽冥，是以謂之玄德也。",
@@ -329,9 +290,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 1,
-            "start": 8,
-            "end": 8
+            "verseIndex": 0,
+            "start": 16,
+            "end": 16
           },
           "kind": "commentary",
           "text": "一為萬物作寒暑之勢以成之。",
@@ -342,7 +303,7 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 2,
+            "verseIndex": 1,
             "start": 0,
             "end": 11
           },
@@ -355,9 +316,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 4,
-            "start": 12,
-            "end": 12
+            "verseIndex": 1,
+            "start": 33,
+            "end": 33
           },
           "kind": "commentary",
           "text": "道一不命召萬物，而常自然應之如影響。",
@@ -368,9 +329,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 12,
-            "start": 3,
-            "end": 3
+            "verseIndex": 2,
+            "start": 25,
+            "end": 25
           },
           "kind": "commentary",
           "text": "道之於萬物，非但生而已，乃復長養、成孰、覆育，全其性命。人君治國治身，亦當如是也。",
@@ -381,9 +342,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 16,
-            "start": 6,
-            "end": 6
+            "verseIndex": 3,
+            "start": 24,
+            "end": 24
           },
           "kind": "commentary",
           "text": "道生萬物，不有所取以為利也。",
@@ -394,9 +355,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 16,
-            "start": 6,
-            "end": 6
+            "verseIndex": 3,
+            "start": 24,
+            "end": 24
           },
           "kind": "commentary",
           "text": "道所施為，不恃望其報也。",
@@ -407,9 +368,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 16,
-            "start": 6,
-            "end": 6
+            "verseIndex": 3,
+            "start": 24,
+            "end": 24
           },
           "kind": "commentary",
           "text": "道長養萬物，不宰割以為利也。",
@@ -420,9 +381,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 16,
-            "start": 6,
-            "end": 6
+            "verseIndex": 3,
+            "start": 24,
+            "end": 24
           },
           "kind": "commentary",
           "text": "道之所行恩德，玄闇不可得見。",
@@ -445,9 +406,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 1,
-            "start": 8,
-            "end": 8
+            "verseIndex": 0,
+            "start": 16,
+            "end": 16
           },
           "kind": "commentary",
           "text": "物生而後畜，畜而後形，形而後成，何由而生？道也；何得而畜？德也；何由而形？物也；何使而成，勢也。唯因也，故能無物而不形；唯勢也，故能無物而不成。凡物之所以生，功之所以成，皆有所由，有所由焉，則莫不由乎道也。故推而極之，亦至道也。隨其所因，故各有稱焉。",
@@ -458,7 +419,7 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 2,
+            "verseIndex": 1,
             "start": 0,
             "end": 11
           },
@@ -471,9 +432,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 4,
-            "start": 12,
-            "end": 12
+            "verseIndex": 1,
+            "start": 33,
+            "end": 33
           },
           "kind": "commentary",
           "text": "命並作爵。",
@@ -484,9 +445,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 12,
-            "start": 3,
-            "end": 3
+            "verseIndex": 2,
+            "start": 25,
+            "end": 25
           },
           "kind": "commentary",
           "text": "謂成其實，各得其庇蔭，不傷其體矣。",
@@ -497,9 +458,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 16,
-            "start": 6,
-            "end": 6
+            "verseIndex": 3,
+            "start": 24,
+            "end": 24
           },
           "kind": "commentary",
           "text": "為而不有。",
@@ -510,9 +471,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 16,
-            "start": 6,
-            "end": 6
+            "verseIndex": 3,
+            "start": 24,
+            "end": 24
           },
           "kind": "commentary",
           "text": "有德而不知其主也，出乎幽冥，是以謂之玄德也。",

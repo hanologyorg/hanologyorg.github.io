@@ -9,40 +9,13 @@
   "genre": "prose",
   "verses": [
     {
-      "text": "信言不美。"
+      "text": "信言不美。美言不信。知者不博。博者不知。善者不多。多者不善。"
     },
     {
-      "text": "美言不信。"
+      "text": "聖人无積。既以為人，己愈有。既以予人，己愈多。"
     },
     {
-      "text": "知者不博。"
-    },
-    {
-      "text": "博者不知。"
-    },
-    {
-      "text": "善者不多。"
-    },
-    {
-      "text": "多者不善。"
-    },
-    {
-      "text": "聖人无積。"
-    },
-    {
-      "text": "既以為人，己愈有。"
-    },
-    {
-      "text": "既以予人，己愈多。"
-    },
-    {
-      "text": "故："
-    },
-    {
-      "text": "天之道，利而不害。"
-    },
-    {
-      "text": "人之道，為而弗爭。"
+      "text": "故：天之道，利而不害。人之道，為而弗爭。"
     }
   ],
   "sections": {},
@@ -67,9 +40,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 5,
-          "start": 5,
-          "end": 5
+          "verseIndex": 0,
+          "start": 30,
+          "end": 30
         },
         "kind": "commentary",
         "text": "善者，以道修身也。不綵文也。",
@@ -80,9 +53,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 5,
-          "start": 5,
-          "end": 5
+          "verseIndex": 0,
+          "start": 30,
+          "end": 30
         },
         "kind": "commentary",
         "text": "辯者，謂巧言也。不善者，舌致患也。山有玉，掘其山；水有珠，濁其淵；辯口多言，亡其身。",
@@ -119,9 +92,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 8,
-          "start": 9,
-          "end": 9
+          "verseIndex": 1,
+          "start": 23,
+          "end": 23
         },
         "kind": "commentary",
         "text": "聖人積德不積財，有德以教愚，有財以與貧也。",
@@ -132,9 +105,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 1,
-          "start": 6,
-          "end": 7
+          "verseIndex": 0,
+          "start": 11,
+          "end": 12
         },
         "kind": "commentary",
         "text": "既以為人施設德化，己愈有德。",
@@ -145,9 +118,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 8,
-          "start": 9,
-          "end": 9
+          "verseIndex": 1,
+          "start": 23,
+          "end": 23
         },
         "kind": "commentary",
         "text": "既以財賄布施與人，而財益多，如日月之光，無有盡時。",
@@ -158,9 +131,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
-          "start": 3,
-          "end": 4
+          "verseIndex": 0,
+          "start": 13,
+          "end": 14
         },
         "kind": "commentary",
         "text": "天生萬物，愛育之，令長大，無所傷害也。",
@@ -171,9 +144,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 11,
-          "start": 9,
-          "end": 9
+          "verseIndex": 2,
+          "start": 20,
+          "end": 20
         },
         "kind": "commentary",
         "text": "聖人法天所施為，化成事就，不與下爭功名，故能全其聖功也。",
@@ -199,9 +172,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 5,
-          "start": 5,
-          "end": 5
+          "verseIndex": 0,
+          "start": 30,
+          "end": 30
         },
         "kind": "commentary",
         "text": "極在一也。",
@@ -212,9 +185,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 5,
-          "start": 5,
-          "end": 5
+          "verseIndex": 0,
+          "start": 30,
+          "end": 30
         },
         "kind": "commentary",
         "text": "無私自有，唯善是與，任物而已。",
@@ -225,9 +198,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 1,
-          "start": 6,
-          "end": 7
+          "verseIndex": 0,
+          "start": 11,
+          "end": 12
         },
         "kind": "commentary",
         "text": "物所尊也。",
@@ -238,9 +211,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 8,
-          "start": 9,
-          "end": 9
+          "verseIndex": 1,
+          "start": 23,
+          "end": 23
         },
         "kind": "commentary",
         "text": "物所歸也。",
@@ -251,9 +224,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
-          "start": 3,
-          "end": 4
+          "verseIndex": 0,
+          "start": 13,
+          "end": 14
         },
         "kind": "commentary",
         "text": "動常生成之也。",
@@ -264,9 +237,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 11,
-          "start": 9,
-          "end": 9
+          "verseIndex": 2,
+          "start": 20,
+          "end": 20
         },
         "kind": "commentary",
         "text": "順天之利不相傷也。",
@@ -314,9 +287,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 5,
-            "start": 5,
-            "end": 5
+            "verseIndex": 0,
+            "start": 30,
+            "end": 30
           },
           "kind": "commentary",
           "text": "善者，以道修身也。不綵文也。",
@@ -327,9 +300,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 5,
-            "start": 5,
-            "end": 5
+            "verseIndex": 0,
+            "start": 30,
+            "end": 30
           },
           "kind": "commentary",
           "text": "辯者，謂巧言也。不善者，舌致患也。山有玉，掘其山；水有珠，濁其淵；辯口多言，亡其身。",
@@ -366,9 +339,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 8,
-            "start": 9,
-            "end": 9
+            "verseIndex": 1,
+            "start": 23,
+            "end": 23
           },
           "kind": "commentary",
           "text": "聖人積德不積財，有德以教愚，有財以與貧也。",
@@ -379,9 +352,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 1,
-            "start": 6,
-            "end": 7
+            "verseIndex": 0,
+            "start": 11,
+            "end": 12
           },
           "kind": "commentary",
           "text": "既以為人施設德化，己愈有德。",
@@ -392,9 +365,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 8,
-            "start": 9,
-            "end": 9
+            "verseIndex": 1,
+            "start": 23,
+            "end": 23
           },
           "kind": "commentary",
           "text": "既以財賄布施與人，而財益多，如日月之光，無有盡時。",
@@ -405,9 +378,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 2,
-            "start": 3,
-            "end": 4
+            "verseIndex": 0,
+            "start": 13,
+            "end": 14
           },
           "kind": "commentary",
           "text": "天生萬物，愛育之，令長大，無所傷害也。",
@@ -418,9 +391,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 11,
-            "start": 9,
-            "end": 9
+            "verseIndex": 2,
+            "start": 20,
+            "end": 20
           },
           "kind": "commentary",
           "text": "聖人法天所施為，化成事就，不與下爭功名，故能全其聖功也。",
@@ -456,9 +429,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 5,
-            "start": 5,
-            "end": 5
+            "verseIndex": 0,
+            "start": 30,
+            "end": 30
           },
           "kind": "commentary",
           "text": "極在一也。",
@@ -469,9 +442,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 5,
-            "start": 5,
-            "end": 5
+            "verseIndex": 0,
+            "start": 30,
+            "end": 30
           },
           "kind": "commentary",
           "text": "無私自有，唯善是與，任物而已。",
@@ -482,9 +455,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 1,
-            "start": 6,
-            "end": 7
+            "verseIndex": 0,
+            "start": 11,
+            "end": 12
           },
           "kind": "commentary",
           "text": "物所尊也。",
@@ -495,9 +468,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 8,
-            "start": 9,
-            "end": 9
+            "verseIndex": 1,
+            "start": 23,
+            "end": 23
           },
           "kind": "commentary",
           "text": "物所歸也。",
@@ -508,9 +481,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 2,
-            "start": 3,
-            "end": 4
+            "verseIndex": 0,
+            "start": 13,
+            "end": 14
           },
           "kind": "commentary",
           "text": "動常生成之也。",
@@ -521,9 +494,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 11,
-            "start": 9,
-            "end": 9
+            "verseIndex": 2,
+            "start": 20,
+            "end": 20
           },
           "kind": "commentary",
           "text": "順天之利不相傷也。",

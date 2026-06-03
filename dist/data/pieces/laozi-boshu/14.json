@@ -9,46 +9,16 @@
   "genre": "prose",
   "verses": [
     {
-      "text": "視之而弗見，名之曰「微」。"
+      "text": "視之而弗見，名之曰「微」。聽之而弗聞，名之曰「希」。捪之而弗得，名之曰「夷」。三者不可至計，故混而為一。"
     },
     {
-      "text": "聽之而弗聞，名之曰「希」。"
+      "text": "「一」者：亓上不攸，亓下不忽。尋尋呵，不可名也。復歸於无物。"
     },
     {
-      "text": "捪之而弗得，名之曰「夷」。"
+      "text": "是謂无狀之狀。无物之象，是謂惚恍。隨而不見亓後，迎而不見亓首。"
     },
     {
-      "text": "三者不可至計，故混而為一。"
-    },
-    {
-      "text": "「一」者："
-    },
-    {
-      "text": "亓上不攸，亓下不忽。"
-    },
-    {
-      "text": "尋尋呵，不可名也。"
-    },
-    {
-      "text": "復歸於无物。"
-    },
-    {
-      "text": "是謂无狀之狀。"
-    },
-    {
-      "text": "无物之象，是謂惚恍。"
-    },
-    {
-      "text": "隨而不見亓後，"
-    },
-    {
-      "text": "迎而不見亓首。"
-    },
-    {
-      "text": "執今之道，以御今之有。"
-    },
-    {
-      "text": "以知古始，是謂道紀。"
+      "text": "執今之道，以御今之有。以知古始，是謂道紀。"
     }
   ],
   "sections": {},
@@ -60,9 +30,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 3,
-          "start": 13,
-          "end": 13
+          "verseIndex": 0,
+          "start": 52,
+          "end": 52
         },
         "kind": "commentary",
         "text": "無色曰夷。言一無采色，不可得視而見之。",
@@ -73,9 +43,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 3,
-          "start": 13,
-          "end": 13
+          "verseIndex": 0,
+          "start": 52,
+          "end": 52
         },
         "kind": "commentary",
         "text": "無聲曰希。言一無音聲，不可得聽而聞之。",
@@ -86,9 +56,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 3,
-          "start": 13,
-          "end": 13
+          "verseIndex": 0,
+          "start": 52,
+          "end": 52
         },
         "kind": "commentary",
         "text": "無形曰微。言一無形體，不可摶持而得之。",
@@ -99,9 +69,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 3,
-          "start": 13,
-          "end": 13
+          "verseIndex": 0,
+          "start": 52,
+          "end": 52
         },
         "kind": "commentary",
         "text": "三者，謂夷、希、微也。不可致詰者，夫無色、無聲、無形，口不能言，書不能傳，當受之以靜，求之以神，不可問詰而得之也。",
@@ -125,9 +95,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 7,
-          "start": 6,
-          "end": 6
+          "verseIndex": 1,
+          "start": 30,
+          "end": 30
         },
         "kind": "commentary",
         "text": "言一在天上，不皦。皦，光明。",
@@ -138,9 +108,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 7,
-          "start": 6,
-          "end": 6
+          "verseIndex": 1,
+          "start": 30,
+          "end": 30
         },
         "kind": "commentary",
         "text": "言一在天下，不昧。昧，有所闇冥。",
@@ -151,9 +121,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 7,
-          "start": 6,
-          "end": 6
+          "verseIndex": 1,
+          "start": 30,
+          "end": 30
         },
         "kind": "commentary",
         "text": "繩繩者，動行無窮級也。不可名者，非一色也，不可以青黃白黑別，非一聲也，不可以宮商角徵羽聽，非一形也，不可以長短大小度之也。",
@@ -164,9 +134,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 1,
-          "start": 27,
-          "end": 28
+          "verseIndex": 0,
+          "start": 40,
+          "end": 41
         },
         "kind": "commentary",
         "text": "物，質也。復當歸之於無質。",
@@ -177,9 +147,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
-          "start": 0,
-          "end": 1
+          "verseIndex": 0,
+          "start": 26,
+          "end": 27
         },
         "kind": "commentary",
         "text": "言一無形狀，而能為萬物作形狀也。",
@@ -190,9 +160,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
-          "start": 8,
-          "end": 9
+          "verseIndex": 0,
+          "start": 34,
+          "end": 35
         },
         "kind": "commentary",
         "text": "一無物質，而為萬物設形象也。",
@@ -203,9 +173,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
-          "start": 13,
-          "end": 14
+          "verseIndex": 0,
+          "start": 39,
+          "end": 40
         },
         "kind": "commentary",
         "text": "言一忽忽恍恍者，若存若亡，不可見之也。",
@@ -216,9 +186,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 11,
-          "start": 7,
-          "end": 7
+          "verseIndex": 2,
+          "start": 31,
+          "end": 31
         },
         "kind": "commentary",
         "text": "一無端末，不可預待也。除情去欲，一自歸之也。",
@@ -229,9 +199,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 11,
-          "start": 7,
-          "end": 7
+          "verseIndex": 2,
+          "start": 31,
+          "end": 31
         },
         "kind": "commentary",
         "text": "言一無影跡，不可得而看。",
@@ -242,9 +212,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 13,
-          "start": 10,
-          "end": 10
+          "verseIndex": 3,
+          "start": 21,
+          "end": 21
         },
         "kind": "commentary",
         "text": "聖人執守古道，生一以御物，知今當有一也。能知古始，是謂道紀。人能知上古本始有一，是謂知道綱紀也。",
@@ -257,9 +227,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 3,
-          "start": 13,
-          "end": 13
+          "verseIndex": 0,
+          "start": 52,
+          "end": 52
         },
         "kind": "commentary",
         "text": "無狀無象，無聲無響，故能無所不通，無所不往，不得而知，更以我耳目體不知為名，故不可致詰，混而為一也。",
@@ -270,9 +240,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 3,
-          "start": 13,
-          "end": 13
+          "verseIndex": 0,
+          "start": 52,
+          "end": 52
         },
         "kind": "commentary",
         "text": "欲言無邪，而物由以成。欲言有邪，而不見其形，故曰，無狀之狀，無物之象也。",
@@ -283,9 +253,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
-          "start": 13,
-          "end": 14
+          "verseIndex": 0,
+          "start": 39,
+          "end": 40
         },
         "kind": "commentary",
         "text": "不可得而定也。",
@@ -296,9 +266,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 13,
-          "start": 10,
-          "end": 10
+          "verseIndex": 3,
+          "start": 21,
+          "end": 21
         },
         "kind": "commentary",
         "text": "有，有其事。",
@@ -309,9 +279,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 13,
-          "start": 10,
-          "end": 10
+          "verseIndex": 3,
+          "start": 21,
+          "end": 21
         },
         "kind": "commentary",
         "text": "無形無名者，萬物之宗也。雖今古不同，時移俗易，故莫不由乎此以成其治者也。故可執古之道，以御今之有。上古雖遠，其道存焉，故雖在今，可以知古始也。",
@@ -346,9 +316,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 3,
-            "start": 13,
-            "end": 13
+            "verseIndex": 0,
+            "start": 52,
+            "end": 52
           },
           "kind": "commentary",
           "text": "無色曰夷。言一無采色，不可得視而見之。",
@@ -359,9 +329,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 3,
-            "start": 13,
-            "end": 13
+            "verseIndex": 0,
+            "start": 52,
+            "end": 52
           },
           "kind": "commentary",
           "text": "無聲曰希。言一無音聲，不可得聽而聞之。",
@@ -372,9 +342,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 3,
-            "start": 13,
-            "end": 13
+            "verseIndex": 0,
+            "start": 52,
+            "end": 52
           },
           "kind": "commentary",
           "text": "無形曰微。言一無形體，不可摶持而得之。",
@@ -385,9 +355,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 3,
-            "start": 13,
-            "end": 13
+            "verseIndex": 0,
+            "start": 52,
+            "end": 52
           },
           "kind": "commentary",
           "text": "三者，謂夷、希、微也。不可致詰者，夫無色、無聲、無形，口不能言，書不能傳，當受之以靜，求之以神，不可問詰而得之也。",
@@ -411,9 +381,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 7,
-            "start": 6,
-            "end": 6
+            "verseIndex": 1,
+            "start": 30,
+            "end": 30
           },
           "kind": "commentary",
           "text": "言一在天上，不皦。皦，光明。",
@@ -424,9 +394,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 7,
-            "start": 6,
-            "end": 6
+            "verseIndex": 1,
+            "start": 30,
+            "end": 30
           },
           "kind": "commentary",
           "text": "言一在天下，不昧。昧，有所闇冥。",
@@ -437,9 +407,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 7,
-            "start": 6,
-            "end": 6
+            "verseIndex": 1,
+            "start": 30,
+            "end": 30
           },
           "kind": "commentary",
           "text": "繩繩者，動行無窮級也。不可名者，非一色也，不可以青黃白黑別，非一聲也，不可以宮商角徵羽聽，非一形也，不可以長短大小度之也。",
@@ -450,9 +420,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 1,
-            "start": 27,
-            "end": 28
+            "verseIndex": 0,
+            "start": 40,
+            "end": 41
           },
           "kind": "commentary",
           "text": "物，質也。復當歸之於無質。",
@@ -463,9 +433,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 2,
-            "start": 0,
-            "end": 1
+            "verseIndex": 0,
+            "start": 26,
+            "end": 27
           },
           "kind": "commentary",
           "text": "言一無形狀，而能為萬物作形狀也。",
@@ -476,9 +446,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 2,
-            "start": 8,
-            "end": 9
+            "verseIndex": 0,
+            "start": 34,
+            "end": 35
           },
           "kind": "commentary",
           "text": "一無物質，而為萬物設形象也。",
@@ -489,9 +459,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 2,
-            "start": 13,
-            "end": 14
+            "verseIndex": 0,
+            "start": 39,
+            "end": 40
           },
           "kind": "commentary",
           "text": "言一忽忽恍恍者，若存若亡，不可見之也。",
@@ -502,9 +472,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 11,
-            "start": 7,
-            "end": 7
+            "verseIndex": 2,
+            "start": 31,
+            "end": 31
           },
           "kind": "commentary",
           "text": "一無端末，不可預待也。除情去欲，一自歸之也。",
@@ -515,9 +485,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 11,
-            "start": 7,
-            "end": 7
+            "verseIndex": 2,
+            "start": 31,
+            "end": 31
           },
           "kind": "commentary",
           "text": "言一無影跡，不可得而看。",
@@ -528,9 +498,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 13,
-            "start": 10,
-            "end": 10
+            "verseIndex": 3,
+            "start": 21,
+            "end": 21
           },
           "kind": "commentary",
           "text": "聖人執守古道，生一以御物，知今當有一也。能知古始，是謂道紀。人能知上古本始有一，是謂知道綱紀也。",
@@ -553,9 +523,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 3,
-            "start": 13,
-            "end": 13
+            "verseIndex": 0,
+            "start": 52,
+            "end": 52
           },
           "kind": "commentary",
           "text": "無狀無象，無聲無響，故能無所不通，無所不往，不得而知，更以我耳目體不知為名，故不可致詰，混而為一也。",
@@ -566,9 +536,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 3,
-            "start": 13,
-            "end": 13
+            "verseIndex": 0,
+            "start": 52,
+            "end": 52
           },
           "kind": "commentary",
           "text": "欲言無邪，而物由以成。欲言有邪，而不見其形，故曰，無狀之狀，無物之象也。",
@@ -579,9 +549,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 2,
-            "start": 13,
-            "end": 14
+            "verseIndex": 0,
+            "start": 39,
+            "end": 40
           },
           "kind": "commentary",
           "text": "不可得而定也。",
@@ -592,9 +562,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 13,
-            "start": 10,
-            "end": 10
+            "verseIndex": 3,
+            "start": 21,
+            "end": 21
           },
           "kind": "commentary",
           "text": "有，有其事。",
@@ -605,9 +575,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 13,
-            "start": 10,
-            "end": 10
+            "verseIndex": 3,
+            "start": 21,
+            "end": 21
           },
           "kind": "commentary",
           "text": "無形無名者，萬物之宗也。雖今古不同，時移俗易，故莫不由乎此以成其治者也。故可執古之道，以御今之有。上古雖遠，其道存焉，故雖在今，可以知古始也。",

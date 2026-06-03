@@ -9,34 +9,13 @@
   "genre": "prose",
   "verses": [
     {
-      "text": "道恆无名。"
+      "text": "道恆无名。楃唯小，而天下弗敢臣。侯王若能守之，萬物將自賓。天地相合，以俞甘洛。民莫之令而自均焉。"
     },
     {
-      "text": "楃唯小，而天下弗敢臣。"
+      "text": "始制有名。名亦既有，夫亦將知止。知止所以不殆。"
     },
     {
-      "text": "侯王若能守之，萬物將自賓。"
-    },
-    {
-      "text": "天地相合，以俞甘洛。"
-    },
-    {
-      "text": "民莫之令而自均焉。"
-    },
-    {
-      "text": "始制有名。"
-    },
-    {
-      "text": "名亦既有，夫亦將知止。"
-    },
-    {
-      "text": "知止所以不殆。"
-    },
-    {
-      "text": "俾道之在天下也。"
-    },
-    {
-      "text": "猶小浴之與江海也。"
+      "text": "俾道之在天下也。猶小浴之與江海也。"
     }
   ],
   "sections": {},
@@ -61,9 +40,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 1,
-          "start": 0,
-          "end": 11
+          "verseIndex": 0,
+          "start": 5,
+          "end": 16
         },
         "kind": "commentary",
         "text": "道樸雖小，微妙無形，天下不敢有臣使道者也。",
@@ -74,9 +53,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
-          "start": 0,
-          "end": 1
+          "verseIndex": 0,
+          "start": 16,
+          "end": 17
         },
         "kind": "commentary",
         "text": "侯王若能守道無為，萬物將自賓，服從於德也。",
@@ -87,9 +66,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 4,
-          "start": 9,
-          "end": 9
+          "verseIndex": 0,
+          "start": 48,
+          "end": 48
         },
         "kind": "commentary",
         "text": "侯王動作能與天相應和，天即降下甘露善瑞也。",
@@ -100,9 +79,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
-          "start": 25,
-          "end": 26
+          "verseIndex": 0,
+          "start": 41,
+          "end": 42
         },
         "kind": "commentary",
         "text": "天降甘露善瑞，則萬物莫有教令之者，皆自均調若一也。",
@@ -113,9 +92,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 3,
-          "start": 0,
-          "end": 1
+          "verseIndex": 0,
+          "start": 29,
+          "end": 30
         },
         "kind": "commentary",
         "text": "始，道也。有名，萬物也。道無名能制於有名，無形，能制於有形也。",
@@ -126,9 +105,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 3,
-          "start": 6,
-          "end": 7
+          "verseIndex": 0,
+          "start": 35,
+          "end": 36
         },
         "kind": "commentary",
         "text": "既，盡也。有名之物，盡有情欲，叛道離德，故身毀辱也。",
@@ -139,9 +118,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 7,
-          "start": 7,
-          "end": 7
+          "verseIndex": 1,
+          "start": 23,
+          "end": 23
         },
         "kind": "commentary",
         "text": "人能法道行德，天亦將自知之。",
@@ -152,9 +131,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 7,
-          "start": 7,
-          "end": 7
+          "verseIndex": 1,
+          "start": 23,
+          "end": 23
         },
         "kind": "commentary",
         "text": "天知之，則神靈祐助，不復危怠。",
@@ -165,9 +144,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 9,
-          "start": 9,
-          "end": 9
+          "verseIndex": 2,
+          "start": 17,
+          "end": 17
         },
         "kind": "commentary",
         "text": "譬言道之在天下，與人相應和，如川谷與江海相流通也。",
@@ -193,9 +172,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 4,
-          "start": 9,
-          "end": 9
+          "verseIndex": 0,
+          "start": 48,
+          "end": 48
         },
         "kind": "commentary",
         "text": "言天地相合，則甘露不求而自降；我守其真性無為，則民不令而自均也。",
@@ -206,9 +185,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 7,
-          "start": 7,
-          "end": 7
+          "verseIndex": 1,
+          "start": 23,
+          "end": 23
         },
         "kind": "commentary",
         "text": "始制，謂樸散始為官長之時也。始制官長，不可不立名分，以定尊卑，故始制有名也，過此以往，將爭錐刀之末，故曰「名亦既有」，夫亦將知止也，遂任名以號物，則失治之母也，故知止所以不殆也。",
@@ -219,9 +198,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 9,
-          "start": 9,
-          "end": 9
+          "verseIndex": 2,
+          "start": 17,
+          "end": 17
         },
         "kind": "commentary",
         "text": "川谷之求江與海，非江海召之，不召不求而自歸者，世行道於天下者，不令而自均，不求而自得，故曰「猶川谷之與江海」也。",
@@ -269,9 +248,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 1,
-            "start": 0,
-            "end": 11
+            "verseIndex": 0,
+            "start": 5,
+            "end": 16
           },
           "kind": "commentary",
           "text": "道樸雖小，微妙無形，天下不敢有臣使道者也。",
@@ -282,9 +261,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 2,
-            "start": 0,
-            "end": 1
+            "verseIndex": 0,
+            "start": 16,
+            "end": 17
           },
           "kind": "commentary",
           "text": "侯王若能守道無為，萬物將自賓，服從於德也。",
@@ -295,9 +274,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 4,
-            "start": 9,
-            "end": 9
+            "verseIndex": 0,
+            "start": 48,
+            "end": 48
           },
           "kind": "commentary",
           "text": "侯王動作能與天相應和，天即降下甘露善瑞也。",
@@ -308,9 +287,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 2,
-            "start": 25,
-            "end": 26
+            "verseIndex": 0,
+            "start": 41,
+            "end": 42
           },
           "kind": "commentary",
           "text": "天降甘露善瑞，則萬物莫有教令之者，皆自均調若一也。",
@@ -321,9 +300,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 3,
-            "start": 0,
-            "end": 1
+            "verseIndex": 0,
+            "start": 29,
+            "end": 30
           },
           "kind": "commentary",
           "text": "始，道也。有名，萬物也。道無名能制於有名，無形，能制於有形也。",
@@ -334,9 +313,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 3,
-            "start": 6,
-            "end": 7
+            "verseIndex": 0,
+            "start": 35,
+            "end": 36
           },
           "kind": "commentary",
           "text": "既，盡也。有名之物，盡有情欲，叛道離德，故身毀辱也。",
@@ -347,9 +326,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 7,
-            "start": 7,
-            "end": 7
+            "verseIndex": 1,
+            "start": 23,
+            "end": 23
           },
           "kind": "commentary",
           "text": "人能法道行德，天亦將自知之。",
@@ -360,9 +339,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 7,
-            "start": 7,
-            "end": 7
+            "verseIndex": 1,
+            "start": 23,
+            "end": 23
           },
           "kind": "commentary",
           "text": "天知之，則神靈祐助，不復危怠。",
@@ -373,9 +352,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 9,
-            "start": 9,
-            "end": 9
+            "verseIndex": 2,
+            "start": 17,
+            "end": 17
           },
           "kind": "commentary",
           "text": "譬言道之在天下，與人相應和，如川谷與江海相流通也。",
@@ -411,9 +390,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 4,
-            "start": 9,
-            "end": 9
+            "verseIndex": 0,
+            "start": 48,
+            "end": 48
           },
           "kind": "commentary",
           "text": "言天地相合，則甘露不求而自降；我守其真性無為，則民不令而自均也。",
@@ -424,9 +403,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 7,
-            "start": 7,
-            "end": 7
+            "verseIndex": 1,
+            "start": 23,
+            "end": 23
           },
           "kind": "commentary",
           "text": "始制，謂樸散始為官長之時也。始制官長，不可不立名分，以定尊卑，故始制有名也，過此以往，將爭錐刀之末，故曰「名亦既有」，夫亦將知止也，遂任名以號物，則失治之母也，故知止所以不殆也。",
@@ -437,9 +416,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 9,
-            "start": 9,
-            "end": 9
+            "verseIndex": 2,
+            "start": 17,
+            "end": 17
           },
           "kind": "commentary",
           "text": "川谷之求江與海，非江海召之，不召不求而自歸者，世行道於天下者，不令而自均，不求而自得，故曰「猶川谷之與江海」也。",

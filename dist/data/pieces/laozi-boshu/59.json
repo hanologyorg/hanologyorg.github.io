@@ -9,31 +9,10 @@
   "genre": "prose",
   "verses": [
     {
-      "text": "治人事天，莫若嗇。"
+      "text": "治人事天，莫若嗇。夫唯嗇，是以蚤服。蚤服是謂重積德。重積德，則无不克。无不克，則莫知亓極。莫知亓極，可以有國。有國之母，可以長久。"
     },
     {
-      "text": "夫唯嗇，是以蚤服。"
-    },
-    {
-      "text": "蚤服是謂重積德。"
-    },
-    {
-      "text": "重積德，則无不克。"
-    },
-    {
-      "text": "无不克，則莫知亓極。"
-    },
-    {
-      "text": "莫知亓極，可以有國。"
-    },
-    {
-      "text": "有國之母，可以長久。"
-    },
-    {
-      "text": "是謂深根固柢。"
-    },
-    {
-      "text": "長生久視之道也。"
+      "text": "是謂深根固柢。長生久視之道也。"
     }
   ],
   "sections": {},
@@ -71,9 +50,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 6,
-          "start": 10,
-          "end": 10
+          "verseIndex": 0,
+          "start": 65,
+          "end": 65
         },
         "kind": "commentary",
         "text": "早，先也。服，得也。夫獨愛民財，愛精氣，則能先得天道也。",
@@ -84,9 +63,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 6,
-          "start": 10,
-          "end": 10
+          "verseIndex": 0,
+          "start": 65,
+          "end": 65
         },
         "kind": "commentary",
         "text": "先得天道，是謂重積德於己也。",
@@ -97,9 +76,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 6,
-          "start": 10,
-          "end": 10
+          "verseIndex": 0,
+          "start": 65,
+          "end": 65
         },
         "kind": "commentary",
         "text": "剋，勝也。重積德於己，則無不勝。",
@@ -110,9 +89,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 6,
-          "start": 10,
-          "end": 10
+          "verseIndex": 0,
+          "start": 65,
+          "end": 65
         },
         "kind": "commentary",
         "text": "無不剋勝，則莫有知己德之窮極也。",
@@ -123,9 +102,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 1,
-          "start": 40,
-          "end": 41
+          "verseIndex": 0,
+          "start": 49,
+          "end": 50
         },
         "kind": "commentary",
         "text": "莫知己德者有極，則可以有社稷，為民致福。",
@@ -136,9 +115,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 1,
-          "start": 51,
-          "end": 52
+          "verseIndex": 0,
+          "start": 60,
+          "end": 61
         },
         "kind": "commentary",
         "text": "國身同也。母，道也。人能保身中之道，使精氣不勞，五神不苦，則可以長久。",
@@ -149,9 +128,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 8,
-          "start": 8,
-          "end": 8
+          "verseIndex": 1,
+          "start": 15,
+          "end": 15
         },
         "kind": "commentary",
         "text": "人能以氣為根，以精為蒂，如樹根不深則拔，蒂不堅則落。言當深藏其氣，固守其精，使無漏洩。",
@@ -162,9 +141,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
-          "start": 8,
-          "end": 9
+          "verseIndex": 0,
+          "start": 26,
+          "end": 27
         },
         "kind": "commentary",
         "text": "深根固蒂者，乃長生久視之道。",
@@ -190,9 +169,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 6,
-          "start": 10,
-          "end": 10
+          "verseIndex": 0,
+          "start": 65,
+          "end": 65
         },
         "kind": "commentary",
         "text": "早服，常也。",
@@ -203,9 +182,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 6,
-          "start": 10,
-          "end": 10
+          "verseIndex": 0,
+          "start": 65,
+          "end": 65
         },
         "kind": "commentary",
         "text": "唯重積德，不欲銳速，然後乃能使早服其常，故曰早服謂之重積德者也。",
@@ -216,9 +195,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 1,
-          "start": 19,
-          "end": 20
+          "verseIndex": 0,
+          "start": 28,
+          "end": 29
         },
         "kind": "commentary",
         "text": "道無窮也。",
@@ -229,9 +208,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 1,
-          "start": 40,
-          "end": 41
+          "verseIndex": 0,
+          "start": 49,
+          "end": 50
         },
         "kind": "commentary",
         "text": "以有窮而莅國，非能有國也。",
@@ -242,9 +221,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 1,
-          "start": 51,
-          "end": 52
+          "verseIndex": 0,
+          "start": 60,
+          "end": 61
         },
         "kind": "commentary",
         "text": "國之所以安謂之母，重積德是唯圖其根，然後營末，乃得其終也。",
@@ -255,9 +234,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 8,
-          "start": 8,
-          "end": 8
+          "verseIndex": 1,
+          "start": 15,
+          "end": 15
         },
         "kind": "commentary",
         "text": "",
@@ -318,9 +297,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 6,
-            "start": 10,
-            "end": 10
+            "verseIndex": 0,
+            "start": 65,
+            "end": 65
           },
           "kind": "commentary",
           "text": "早，先也。服，得也。夫獨愛民財，愛精氣，則能先得天道也。",
@@ -331,9 +310,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 6,
-            "start": 10,
-            "end": 10
+            "verseIndex": 0,
+            "start": 65,
+            "end": 65
           },
           "kind": "commentary",
           "text": "先得天道，是謂重積德於己也。",
@@ -344,9 +323,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 6,
-            "start": 10,
-            "end": 10
+            "verseIndex": 0,
+            "start": 65,
+            "end": 65
           },
           "kind": "commentary",
           "text": "剋，勝也。重積德於己，則無不勝。",
@@ -357,9 +336,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 6,
-            "start": 10,
-            "end": 10
+            "verseIndex": 0,
+            "start": 65,
+            "end": 65
           },
           "kind": "commentary",
           "text": "無不剋勝，則莫有知己德之窮極也。",
@@ -370,9 +349,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 1,
-            "start": 40,
-            "end": 41
+            "verseIndex": 0,
+            "start": 49,
+            "end": 50
           },
           "kind": "commentary",
           "text": "莫知己德者有極，則可以有社稷，為民致福。",
@@ -383,9 +362,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 1,
-            "start": 51,
-            "end": 52
+            "verseIndex": 0,
+            "start": 60,
+            "end": 61
           },
           "kind": "commentary",
           "text": "國身同也。母，道也。人能保身中之道，使精氣不勞，五神不苦，則可以長久。",
@@ -396,9 +375,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 8,
-            "start": 8,
-            "end": 8
+            "verseIndex": 1,
+            "start": 15,
+            "end": 15
           },
           "kind": "commentary",
           "text": "人能以氣為根，以精為蒂，如樹根不深則拔，蒂不堅則落。言當深藏其氣，固守其精，使無漏洩。",
@@ -409,9 +388,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 2,
-            "start": 8,
-            "end": 9
+            "verseIndex": 0,
+            "start": 26,
+            "end": 27
           },
           "kind": "commentary",
           "text": "深根固蒂者，乃長生久視之道。",
@@ -447,9 +426,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 6,
-            "start": 10,
-            "end": 10
+            "verseIndex": 0,
+            "start": 65,
+            "end": 65
           },
           "kind": "commentary",
           "text": "早服，常也。",
@@ -460,9 +439,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 6,
-            "start": 10,
-            "end": 10
+            "verseIndex": 0,
+            "start": 65,
+            "end": 65
           },
           "kind": "commentary",
           "text": "唯重積德，不欲銳速，然後乃能使早服其常，故曰早服謂之重積德者也。",
@@ -473,9 +452,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 1,
-            "start": 19,
-            "end": 20
+            "verseIndex": 0,
+            "start": 28,
+            "end": 29
           },
           "kind": "commentary",
           "text": "道無窮也。",
@@ -486,9 +465,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 1,
-            "start": 40,
-            "end": 41
+            "verseIndex": 0,
+            "start": 49,
+            "end": 50
           },
           "kind": "commentary",
           "text": "以有窮而莅國，非能有國也。",
@@ -499,9 +478,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 1,
-            "start": 51,
-            "end": 52
+            "verseIndex": 0,
+            "start": 60,
+            "end": 61
           },
           "kind": "commentary",
           "text": "國之所以安謂之母，重積德是唯圖其根，然後營末，乃得其終也。",
@@ -512,9 +491,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 8,
-            "start": 8,
-            "end": 8
+            "verseIndex": 1,
+            "start": 15,
+            "end": 15
           },
           "kind": "commentary",
           "text": "",

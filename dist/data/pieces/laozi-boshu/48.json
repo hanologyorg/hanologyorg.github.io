@@ -9,22 +9,10 @@
   "genre": "prose",
   "verses": [
     {
-      "text": "為學者日益。"
+      "text": "為學者日益。聞道者日損。損之又損，以至於無為。無為而無不為。"
     },
     {
-      "text": "聞道者日損。"
-    },
-    {
-      "text": "損之又損，以至於無為。"
-    },
-    {
-      "text": "無為而無不為。"
-    },
-    {
-      "text": "將欲取天下也，恆無事。"
-    },
-    {
-      "text": "及其有事也，不足以取天下。"
+      "text": "將欲取天下也，恆無事。及其有事也，不足以取天下。"
     }
   ],
   "sections": {},
@@ -36,9 +24,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 3,
-          "start": 7,
-          "end": 7
+          "verseIndex": 0,
+          "start": 30,
+          "end": 30
         },
         "kind": "commentary",
         "text": "學謂政教禮樂之學也。日益者，情欲文飾日以益多。",
@@ -49,9 +37,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 3,
-          "start": 7,
-          "end": 7
+          "verseIndex": 0,
+          "start": 30,
+          "end": 30
         },
         "kind": "commentary",
         "text": "道謂之自然之道也。日損者，情欲文飾日以消損。",
@@ -101,9 +89,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 5,
-          "start": 13,
-          "end": 13
+          "verseIndex": 1,
+          "start": 24,
+          "end": 24
         },
         "kind": "commentary",
         "text": "取，治也。治天下當以無事，不當以勞煩也。",
@@ -114,9 +102,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 1,
-          "start": 12,
-          "end": 13
+          "verseIndex": 0,
+          "start": 18,
+          "end": 19
         },
         "kind": "commentary",
         "text": "及其好有事，則政教煩，民不安，故不足以治天下也。",
@@ -129,9 +117,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 3,
-          "start": 7,
-          "end": 7
+          "verseIndex": 0,
+          "start": 30,
+          "end": 30
         },
         "kind": "commentary",
         "text": "務欲進其所能，益其所習。",
@@ -142,9 +130,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 3,
-          "start": 7,
-          "end": 7
+          "verseIndex": 0,
+          "start": 30,
+          "end": 30
         },
         "kind": "commentary",
         "text": "務欲反虛無也。",
@@ -168,9 +156,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 5,
-          "start": 13,
-          "end": 13
+          "verseIndex": 1,
+          "start": 24,
+          "end": 24
         },
         "kind": "commentary",
         "text": "動常因也。",
@@ -181,9 +169,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 1,
-          "start": 12,
-          "end": 13
+          "verseIndex": 0,
+          "start": 18,
+          "end": 19
         },
         "kind": "commentary",
         "text": "自己造也。",
@@ -194,9 +182,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 1,
-          "start": 18,
-          "end": 19
+          "verseIndex": 0,
+          "start": 24,
+          "end": 25
         },
         "kind": "commentary",
         "text": "失統本也。",
@@ -231,9 +219,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 3,
-            "start": 7,
-            "end": 7
+            "verseIndex": 0,
+            "start": 30,
+            "end": 30
           },
           "kind": "commentary",
           "text": "學謂政教禮樂之學也。日益者，情欲文飾日以益多。",
@@ -244,9 +232,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 3,
-            "start": 7,
-            "end": 7
+            "verseIndex": 0,
+            "start": 30,
+            "end": 30
           },
           "kind": "commentary",
           "text": "道謂之自然之道也。日損者，情欲文飾日以消損。",
@@ -296,9 +284,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 5,
-            "start": 13,
-            "end": 13
+            "verseIndex": 1,
+            "start": 24,
+            "end": 24
           },
           "kind": "commentary",
           "text": "取，治也。治天下當以無事，不當以勞煩也。",
@@ -309,9 +297,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 1,
-            "start": 12,
-            "end": 13
+            "verseIndex": 0,
+            "start": 18,
+            "end": 19
           },
           "kind": "commentary",
           "text": "及其好有事，則政教煩，民不安，故不足以治天下也。",
@@ -334,9 +322,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 3,
-            "start": 7,
-            "end": 7
+            "verseIndex": 0,
+            "start": 30,
+            "end": 30
           },
           "kind": "commentary",
           "text": "務欲進其所能，益其所習。",
@@ -347,9 +335,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 3,
-            "start": 7,
-            "end": 7
+            "verseIndex": 0,
+            "start": 30,
+            "end": 30
           },
           "kind": "commentary",
           "text": "務欲反虛無也。",
@@ -373,9 +361,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 5,
-            "start": 13,
-            "end": 13
+            "verseIndex": 1,
+            "start": 24,
+            "end": 24
           },
           "kind": "commentary",
           "text": "動常因也。",
@@ -386,9 +374,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 1,
-            "start": 12,
-            "end": 13
+            "verseIndex": 0,
+            "start": 18,
+            "end": 19
           },
           "kind": "commentary",
           "text": "自己造也。",
@@ -399,9 +387,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 1,
-            "start": 18,
-            "end": 19
+            "verseIndex": 0,
+            "start": 24,
+            "end": 25
           },
           "kind": "commentary",
           "text": "失統本也。",

@@ -9,37 +9,16 @@
   "genre": "prose",
   "verses": [
     {
-      "text": "知亓雄，守亓雌，為天下溪。"
+      "text": "知亓雄，守亓雌，為天下溪。為天下溪，恆德不離。恆德不離，復歸嬰兒。"
     },
     {
-      "text": "為天下溪，恆德不離。"
+      "text": "知亓白，守亓辱，為天下浴。為天下浴，恆德乃足。德乃足，復歸於樸。"
     },
     {
-      "text": "恆德不離，復歸嬰兒。"
+      "text": "知亓白，守亓黑，為天下式。為天下式，恆德不忒。恆德不忒，復歸於无極。"
     },
     {
-      "text": "知亓白，守亓辱，為天下浴。"
-    },
-    {
-      "text": "為天下浴，恆德乃足。"
-    },
-    {
-      "text": "德乃足，復歸於樸。"
-    },
-    {
-      "text": "知亓白，守亓黑，為天下式。"
-    },
-    {
-      "text": "為天下式，恆德不忒。"
-    },
-    {
-      "text": "恆德不忒，復歸於无極。"
-    },
-    {
-      "text": "樸散則為器，聖人用則為官長。"
-    },
-    {
-      "text": "夫大制无割。"
+      "text": "樸散則為器，聖人用則為官長。夫大制无割。"
     }
   ],
   "sections": {},
@@ -51,9 +30,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
-          "start": 10,
-          "end": 10
+          "verseIndex": 0,
+          "start": 33,
+          "end": 33
         },
         "kind": "commentary",
         "text": "雄以喻尊，雌以喻卑。人雖自知其尊顯，當復守之以卑微，去雄之強梁，就雌之柔和，如是則天下歸之，如水流入深谿也。",
@@ -64,9 +43,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
-          "start": 10,
-          "end": 10
+          "verseIndex": 0,
+          "start": 33,
+          "end": 33
         },
         "kind": "commentary",
         "text": "人能謙下如深谿，則德常在，不復離於己。",
@@ -77,9 +56,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
-          "start": 10,
-          "end": 10
+          "verseIndex": 0,
+          "start": 33,
+          "end": 33
         },
         "kind": "commentary",
         "text": "當復歸志於嬰兒，惷然而無所知也。",
@@ -90,9 +69,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
-          "start": 0,
-          "end": 1
+          "verseIndex": 0,
+          "start": 23,
+          "end": 24
         },
         "kind": "commentary",
         "text": "白以喻昭昭，黑以喻默默。人雖自知昭昭，明白當復守之以默默，如闇昧無所見，如是則可為天下法式，則德常在。",
@@ -103,9 +82,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
-          "start": 14,
-          "end": 15
+          "verseIndex": 0,
+          "start": 37,
+          "end": 38
         },
         "kind": "commentary",
         "text": "人能為天下法式，則德常在於己，不復差忒。",
@@ -116,9 +95,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
-          "start": 30,
-          "end": 31
+          "verseIndex": 0,
+          "start": 53,
+          "end": 54
         },
         "kind": "commentary",
         "text": "德不差忒，則常生久壽，歸身於無窮極也。",
@@ -129,9 +108,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 5,
-          "start": 9,
-          "end": 9
+          "verseIndex": 1,
+          "start": 32,
+          "end": 32
         },
         "kind": "commentary",
         "text": "榮以喻尊貴，辱以喻污濁。人能知己之有榮貴，當復守之以污濁，如是則天下歸之，如水流入深谷也。",
@@ -142,9 +121,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 5,
-          "start": 9,
-          "end": 9
+          "verseIndex": 1,
+          "start": 32,
+          "end": 32
         },
         "kind": "commentary",
         "text": "足，止也。人能為天下谷，則德乃常止於己。",
@@ -155,9 +134,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 1,
-          "start": 29,
-          "end": 30
+          "verseIndex": 0,
+          "start": 42,
+          "end": 43
         },
         "kind": "commentary",
         "text": "復當歸身於質樸，不復為文飾。",
@@ -168,7 +147,7 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 3,
+          "verseIndex": 1,
           "start": 0,
           "end": 1
         },
@@ -181,9 +160,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 10,
-          "start": 6,
-          "end": 6
+          "verseIndex": 3,
+          "start": 20,
+          "end": 20
         },
         "kind": "commentary",
         "text": "聖人升用則為百官之元長也。",
@@ -194,9 +173,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 10,
-          "start": 6,
-          "end": 6
+          "verseIndex": 3,
+          "start": 20,
+          "end": 20
         },
         "kind": "commentary",
         "text": "聖人用之則以大道制御天下，無所傷割，治身則以大道制御情欲，不害精神也。",
@@ -209,9 +188,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
-          "start": 10,
-          "end": 10
+          "verseIndex": 0,
+          "start": 33,
+          "end": 33
         },
         "kind": "commentary",
         "text": "雄，先之屬；雌，後之屬也。知為天下之先也，必後也，是以聖人後其身而身先也。谿不求物而物自歸之，嬰兒不用智而合自然之智。",
@@ -222,9 +201,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
-          "start": 0,
-          "end": 1
+          "verseIndex": 0,
+          "start": 23,
+          "end": 24
         },
         "kind": "commentary",
         "text": "式，模則也。",
@@ -235,9 +214,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
-          "start": 14,
-          "end": 15
+          "verseIndex": 0,
+          "start": 37,
+          "end": 38
         },
         "kind": "commentary",
         "text": "忒，差也。",
@@ -248,9 +227,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
-          "start": 30,
-          "end": 31
+          "verseIndex": 0,
+          "start": 53,
+          "end": 54
         },
         "kind": "commentary",
         "text": "不可窮也。",
@@ -261,9 +240,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 8,
-          "start": 11,
-          "end": 11
+          "verseIndex": 2,
+          "start": 34,
+          "end": 34
         },
         "kind": "commentary",
         "text": "此三者，言常反終，後乃德全其所處也。下章云，反者道之動也。功不可取，常處其母也。",
@@ -274,9 +253,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 10,
-          "start": 6,
-          "end": 6
+          "verseIndex": 3,
+          "start": 20,
+          "end": 20
         },
         "kind": "commentary",
         "text": "樸，真也。真散則百行出，殊類生，若器也。聖人因其分散，故為之立官長。以善為師，不善為資，移風易俗，復使歸於一也。",
@@ -287,9 +266,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 10,
-          "start": 6,
-          "end": 6
+          "verseIndex": 3,
+          "start": 20,
+          "end": 20
         },
         "kind": "commentary",
         "text": "大制者，以天下之心為心，故無割也。",
@@ -324,9 +303,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 2,
-            "start": 10,
-            "end": 10
+            "verseIndex": 0,
+            "start": 33,
+            "end": 33
           },
           "kind": "commentary",
           "text": "雄以喻尊，雌以喻卑。人雖自知其尊顯，當復守之以卑微，去雄之強梁，就雌之柔和，如是則天下歸之，如水流入深谿也。",
@@ -337,9 +316,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 2,
-            "start": 10,
-            "end": 10
+            "verseIndex": 0,
+            "start": 33,
+            "end": 33
           },
           "kind": "commentary",
           "text": "人能謙下如深谿，則德常在，不復離於己。",
@@ -350,9 +329,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 2,
-            "start": 10,
-            "end": 10
+            "verseIndex": 0,
+            "start": 33,
+            "end": 33
           },
           "kind": "commentary",
           "text": "當復歸志於嬰兒，惷然而無所知也。",
@@ -363,9 +342,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 2,
-            "start": 0,
-            "end": 1
+            "verseIndex": 0,
+            "start": 23,
+            "end": 24
           },
           "kind": "commentary",
           "text": "白以喻昭昭，黑以喻默默。人雖自知昭昭，明白當復守之以默默，如闇昧無所見，如是則可為天下法式，則德常在。",
@@ -376,9 +355,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 2,
-            "start": 14,
-            "end": 15
+            "verseIndex": 0,
+            "start": 37,
+            "end": 38
           },
           "kind": "commentary",
           "text": "人能為天下法式，則德常在於己，不復差忒。",
@@ -389,9 +368,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 2,
-            "start": 30,
-            "end": 31
+            "verseIndex": 0,
+            "start": 53,
+            "end": 54
           },
           "kind": "commentary",
           "text": "德不差忒，則常生久壽，歸身於無窮極也。",
@@ -402,9 +381,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 5,
-            "start": 9,
-            "end": 9
+            "verseIndex": 1,
+            "start": 32,
+            "end": 32
           },
           "kind": "commentary",
           "text": "榮以喻尊貴，辱以喻污濁。人能知己之有榮貴，當復守之以污濁，如是則天下歸之，如水流入深谷也。",
@@ -415,9 +394,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 5,
-            "start": 9,
-            "end": 9
+            "verseIndex": 1,
+            "start": 32,
+            "end": 32
           },
           "kind": "commentary",
           "text": "足，止也。人能為天下谷，則德乃常止於己。",
@@ -428,9 +407,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 1,
-            "start": 29,
-            "end": 30
+            "verseIndex": 0,
+            "start": 42,
+            "end": 43
           },
           "kind": "commentary",
           "text": "復當歸身於質樸，不復為文飾。",
@@ -441,7 +420,7 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 3,
+            "verseIndex": 1,
             "start": 0,
             "end": 1
           },
@@ -454,9 +433,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 10,
-            "start": 6,
-            "end": 6
+            "verseIndex": 3,
+            "start": 20,
+            "end": 20
           },
           "kind": "commentary",
           "text": "聖人升用則為百官之元長也。",
@@ -467,9 +446,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 10,
-            "start": 6,
-            "end": 6
+            "verseIndex": 3,
+            "start": 20,
+            "end": 20
           },
           "kind": "commentary",
           "text": "聖人用之則以大道制御天下，無所傷割，治身則以大道制御情欲，不害精神也。",
@@ -492,9 +471,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 2,
-            "start": 10,
-            "end": 10
+            "verseIndex": 0,
+            "start": 33,
+            "end": 33
           },
           "kind": "commentary",
           "text": "雄，先之屬；雌，後之屬也。知為天下之先也，必後也，是以聖人後其身而身先也。谿不求物而物自歸之，嬰兒不用智而合自然之智。",
@@ -505,9 +484,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 2,
-            "start": 0,
-            "end": 1
+            "verseIndex": 0,
+            "start": 23,
+            "end": 24
           },
           "kind": "commentary",
           "text": "式，模則也。",
@@ -518,9 +497,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 2,
-            "start": 14,
-            "end": 15
+            "verseIndex": 0,
+            "start": 37,
+            "end": 38
           },
           "kind": "commentary",
           "text": "忒，差也。",
@@ -531,9 +510,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 2,
-            "start": 30,
-            "end": 31
+            "verseIndex": 0,
+            "start": 53,
+            "end": 54
           },
           "kind": "commentary",
           "text": "不可窮也。",
@@ -544,9 +523,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 8,
-            "start": 11,
-            "end": 11
+            "verseIndex": 2,
+            "start": 34,
+            "end": 34
           },
           "kind": "commentary",
           "text": "此三者，言常反終，後乃德全其所處也。下章云，反者道之動也。功不可取，常處其母也。",
@@ -557,9 +536,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 10,
-            "start": 6,
-            "end": 6
+            "verseIndex": 3,
+            "start": 20,
+            "end": 20
           },
           "kind": "commentary",
           "text": "樸，真也。真散則百行出，殊類生，若器也。聖人因其分散，故為之立官長。以善為師，不善為資，移風易俗，復使歸於一也。",
@@ -570,9 +549,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 10,
-            "start": 6,
-            "end": 6
+            "verseIndex": 3,
+            "start": 20,
+            "end": 20
           },
           "kind": "commentary",
           "text": "大制者，以天下之心為心，故無割也。",

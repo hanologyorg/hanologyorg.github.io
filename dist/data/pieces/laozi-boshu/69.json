@@ -9,40 +9,16 @@
   "genre": "prose",
   "verses": [
     {
-      "text": "用兵有言曰："
+      "text": "用兵有言曰：吾不敢為主而為客，不敢進寸而芮尺。"
     },
     {
-      "text": "吾不敢為主而為客，"
+      "text": "是謂：行无行。攘无臂。執无兵。乃无敵矣。"
     },
     {
-      "text": "不敢進寸而芮尺。"
+      "text": "禍莫大於无適。无適近亡吾寶矣。"
     },
     {
-      "text": "是謂："
-    },
-    {
-      "text": "行无行。"
-    },
-    {
-      "text": "攘无臂。"
-    },
-    {
-      "text": "執无兵。"
-    },
-    {
-      "text": "乃无敵矣。"
-    },
-    {
-      "text": "禍莫大於无適。"
-    },
-    {
-      "text": "无適近亡吾寶矣。"
-    },
-    {
-      "text": "故稱兵相若，"
-    },
-    {
-      "text": "則哀者勝矣。"
+      "text": "故稱兵相若，則哀者勝矣。"
     }
   ],
   "sections": {},
@@ -80,9 +56,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
-          "start": 8,
-          "end": 8
+          "verseIndex": 0,
+          "start": 23,
+          "end": 23
         },
         "kind": "commentary",
         "text": "侵人境界，利人財寶，為進；閉門守城，為退。",
@@ -93,9 +69,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 1,
-          "start": 0,
-          "end": 1
+          "verseIndex": 0,
+          "start": 6,
+          "end": 7
         },
         "kind": "commentary",
         "text": "彼遂不止，為天下賊，雖行誅之，不行執也。",
@@ -106,9 +82,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 1,
-          "start": 9,
-          "end": 10
+          "verseIndex": 0,
+          "start": 15,
+          "end": 16
         },
         "kind": "commentary",
         "text": "雖欲大怒，若無臂可攘也。",
@@ -119,9 +95,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 7,
-          "start": 5,
-          "end": 5
+          "verseIndex": 1,
+          "start": 20,
+          "end": 20
         },
         "kind": "commentary",
         "text": "雖欲仍引之，若無敵可仍也。",
@@ -132,9 +108,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 1,
-          "start": 14,
-          "end": 15
+          "verseIndex": 0,
+          "start": 20,
+          "end": 21
         },
         "kind": "commentary",
         "text": "雖欲執持之，若無兵刃可持用也。何者？傷彼之民罹罪於天，遭不道之君，愍忍喪之痛也。",
@@ -145,9 +121,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 9,
-          "start": 8,
-          "end": 8
+          "verseIndex": 2,
+          "start": 15,
+          "end": 15
         },
         "kind": "commentary",
         "text": "夫禍亂之害，莫大於欺輕敵家，侵取不休，輕戰貪財也。",
@@ -158,9 +134,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 9,
-          "start": 8,
-          "end": 8
+          "verseIndex": 2,
+          "start": 15,
+          "end": 15
         },
         "kind": "commentary",
         "text": "幾，近也。寶，身也。欺輕敵者，近喪身也。",
@@ -171,9 +147,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 11,
-          "start": 6,
-          "end": 6
+          "verseIndex": 3,
+          "start": 12,
+          "end": 12
         },
         "kind": "commentary",
         "text": "兩敵戰也。",
@@ -184,7 +160,7 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 3,
+          "verseIndex": 1,
           "start": 8,
           "end": 9
         },
@@ -199,9 +175,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
-          "start": 8,
-          "end": 8
+          "verseIndex": 0,
+          "start": 23,
+          "end": 23
         },
         "kind": "commentary",
         "text": "彼遂不止。",
@@ -212,9 +188,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 7,
-          "start": 5,
-          "end": 5
+          "verseIndex": 1,
+          "start": 20,
+          "end": 20
         },
         "kind": "commentary",
         "text": "行，謂行陳也，言以謙退哀慈，不敢為物先，用戰猶行無行，攘無臂，執無兵，扔無敵也，言無有與之抗也。",
@@ -225,9 +201,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 9,
-          "start": 8,
-          "end": 8
+          "verseIndex": 2,
+          "start": 15,
+          "end": 15
         },
         "kind": "commentary",
         "text": "言吾哀慈謙退，非欲以取强，無敵於天下也。不得已而卒至於無敵，斯乃吾之所以為大禍也。寶，三寶也，故曰，幾亡吾寶。",
@@ -238,9 +214,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 11,
-          "start": 6,
-          "end": 6
+          "verseIndex": 3,
+          "start": 12,
+          "end": 12
         },
         "kind": "commentary",
         "text": "抗，舉也；加，當也。哀者，必相惜而不趣利避害，故必勝。",
@@ -301,9 +277,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 2,
-            "start": 8,
-            "end": 8
+            "verseIndex": 0,
+            "start": 23,
+            "end": 23
           },
           "kind": "commentary",
           "text": "侵人境界，利人財寶，為進；閉門守城，為退。",
@@ -314,9 +290,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 1,
-            "start": 0,
-            "end": 1
+            "verseIndex": 0,
+            "start": 6,
+            "end": 7
           },
           "kind": "commentary",
           "text": "彼遂不止，為天下賊，雖行誅之，不行執也。",
@@ -327,9 +303,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 1,
-            "start": 9,
-            "end": 10
+            "verseIndex": 0,
+            "start": 15,
+            "end": 16
           },
           "kind": "commentary",
           "text": "雖欲大怒，若無臂可攘也。",
@@ -340,9 +316,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 7,
-            "start": 5,
-            "end": 5
+            "verseIndex": 1,
+            "start": 20,
+            "end": 20
           },
           "kind": "commentary",
           "text": "雖欲仍引之，若無敵可仍也。",
@@ -353,9 +329,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 1,
-            "start": 14,
-            "end": 15
+            "verseIndex": 0,
+            "start": 20,
+            "end": 21
           },
           "kind": "commentary",
           "text": "雖欲執持之，若無兵刃可持用也。何者？傷彼之民罹罪於天，遭不道之君，愍忍喪之痛也。",
@@ -366,9 +342,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 9,
-            "start": 8,
-            "end": 8
+            "verseIndex": 2,
+            "start": 15,
+            "end": 15
           },
           "kind": "commentary",
           "text": "夫禍亂之害，莫大於欺輕敵家，侵取不休，輕戰貪財也。",
@@ -379,9 +355,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 9,
-            "start": 8,
-            "end": 8
+            "verseIndex": 2,
+            "start": 15,
+            "end": 15
           },
           "kind": "commentary",
           "text": "幾，近也。寶，身也。欺輕敵者，近喪身也。",
@@ -392,9 +368,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 11,
-            "start": 6,
-            "end": 6
+            "verseIndex": 3,
+            "start": 12,
+            "end": 12
           },
           "kind": "commentary",
           "text": "兩敵戰也。",
@@ -405,7 +381,7 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 3,
+            "verseIndex": 1,
             "start": 8,
             "end": 9
           },
@@ -430,9 +406,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 2,
-            "start": 8,
-            "end": 8
+            "verseIndex": 0,
+            "start": 23,
+            "end": 23
           },
           "kind": "commentary",
           "text": "彼遂不止。",
@@ -443,9 +419,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 7,
-            "start": 5,
-            "end": 5
+            "verseIndex": 1,
+            "start": 20,
+            "end": 20
           },
           "kind": "commentary",
           "text": "行，謂行陳也，言以謙退哀慈，不敢為物先，用戰猶行無行，攘無臂，執無兵，扔無敵也，言無有與之抗也。",
@@ -456,9 +432,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 9,
-            "start": 8,
-            "end": 8
+            "verseIndex": 2,
+            "start": 15,
+            "end": 15
           },
           "kind": "commentary",
           "text": "言吾哀慈謙退，非欲以取强，無敵於天下也。不得已而卒至於無敵，斯乃吾之所以為大禍也。寶，三寶也，故曰，幾亡吾寶。",
@@ -469,9 +445,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 11,
-            "start": 6,
-            "end": 6
+            "verseIndex": 3,
+            "start": 12,
+            "end": 12
           },
           "kind": "commentary",
           "text": "抗，舉也；加，當也。哀者，必相惜而不趣利避害，故必勝。",

@@ -9,28 +9,13 @@
   "genre": "prose",
   "verses": [
     {
-      "text": "天長地久。"
+      "text": "天長地久。天地之所以能長且久者，以亓不自生也，故能長生。"
     },
     {
-      "text": "天地之所以能長且久者，"
+      "text": "是以聖人，芮亓身而身先，外亓身而身存。"
     },
     {
-      "text": "以亓不自生也，故能長生。"
-    },
-    {
-      "text": "是以聖人，"
-    },
-    {
-      "text": "芮亓身而身先，"
-    },
-    {
-      "text": "外亓身而身存。"
-    },
-    {
-      "text": "不以亓无私與，"
-    },
-    {
-      "text": "故能成亓私。"
+      "text": "不以亓无私與，故能成亓私。"
     }
   ],
   "sections": {},
@@ -42,9 +27,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
-          "start": 12,
-          "end": 12
+          "verseIndex": 0,
+          "start": 28,
+          "end": 28
         },
         "kind": "commentary",
         "text": "天地所以獨長且久者，以其安靜，施不求報，不如人居處，汲汲求自饒之利，奪人以自與也。",
@@ -68,9 +53,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 5,
-          "start": 7,
-          "end": 7
+          "verseIndex": 1,
+          "start": 19,
+          "end": 19
         },
         "kind": "commentary",
         "text": "先人而後己也。",
@@ -81,9 +66,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 1,
-          "start": 9,
-          "end": 10
+          "verseIndex": 0,
+          "start": 14,
+          "end": 15
         },
         "kind": "commentary",
         "text": "天下敬之，先以為長。",
@@ -94,9 +79,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 1,
-          "start": 14,
-          "end": 15
+          "verseIndex": 0,
+          "start": 19,
+          "end": 20
         },
         "kind": "commentary",
         "text": "薄己而厚人也。",
@@ -107,9 +92,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 1,
-          "start": 17,
-          "end": 18
+          "verseIndex": 0,
+          "start": 22,
+          "end": 23
         },
         "kind": "commentary",
         "text": "百姓愛之如父母，神明祐之若赤子，故身常存。",
@@ -120,9 +105,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 7,
-          "start": 6,
-          "end": 6
+          "verseIndex": 2,
+          "start": 13,
+          "end": 13
         },
         "kind": "commentary",
         "text": "聖人為人所愛，神明所祐，非以其公正無私所致乎。",
@@ -133,9 +118,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
-          "start": 8,
-          "end": 9
+          "verseIndex": 0,
+          "start": 24,
+          "end": 25
         },
         "kind": "commentary",
         "text": "人以為私者，欲以厚己也。聖人無私而己自厚，故能成其私也。",
@@ -148,9 +133,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
-          "start": 12,
-          "end": 12
+          "verseIndex": 0,
+          "start": 28,
+          "end": 28
         },
         "kind": "commentary",
         "text": "自生則與物爭，不自生則物歸也。",
@@ -161,9 +146,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 7,
-          "start": 6,
-          "end": 6
+          "verseIndex": 2,
+          "start": 13,
+          "end": 13
         },
         "kind": "commentary",
         "text": "無私者，無為於身也。身先身存，故曰，能成其私也。",
@@ -198,9 +183,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 2,
-            "start": 12,
-            "end": 12
+            "verseIndex": 0,
+            "start": 28,
+            "end": 28
           },
           "kind": "commentary",
           "text": "天地所以獨長且久者，以其安靜，施不求報，不如人居處，汲汲求自饒之利，奪人以自與也。",
@@ -224,9 +209,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 5,
-            "start": 7,
-            "end": 7
+            "verseIndex": 1,
+            "start": 19,
+            "end": 19
           },
           "kind": "commentary",
           "text": "先人而後己也。",
@@ -237,9 +222,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 1,
-            "start": 9,
-            "end": 10
+            "verseIndex": 0,
+            "start": 14,
+            "end": 15
           },
           "kind": "commentary",
           "text": "天下敬之，先以為長。",
@@ -250,9 +235,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 1,
-            "start": 14,
-            "end": 15
+            "verseIndex": 0,
+            "start": 19,
+            "end": 20
           },
           "kind": "commentary",
           "text": "薄己而厚人也。",
@@ -263,9 +248,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 1,
-            "start": 17,
-            "end": 18
+            "verseIndex": 0,
+            "start": 22,
+            "end": 23
           },
           "kind": "commentary",
           "text": "百姓愛之如父母，神明祐之若赤子，故身常存。",
@@ -276,9 +261,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 7,
-            "start": 6,
-            "end": 6
+            "verseIndex": 2,
+            "start": 13,
+            "end": 13
           },
           "kind": "commentary",
           "text": "聖人為人所愛，神明所祐，非以其公正無私所致乎。",
@@ -289,9 +274,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 2,
-            "start": 8,
-            "end": 9
+            "verseIndex": 0,
+            "start": 24,
+            "end": 25
           },
           "kind": "commentary",
           "text": "人以為私者，欲以厚己也。聖人無私而己自厚，故能成其私也。",
@@ -314,9 +299,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 2,
-            "start": 12,
-            "end": 12
+            "verseIndex": 0,
+            "start": 28,
+            "end": 28
           },
           "kind": "commentary",
           "text": "自生則與物爭，不自生則物歸也。",
@@ -327,9 +312,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 7,
-            "start": 6,
-            "end": 6
+            "verseIndex": 2,
+            "start": 13,
+            "end": 13
           },
           "kind": "commentary",
           "text": "無私者，無為於身也。身先身存，故曰，能成其私也。",

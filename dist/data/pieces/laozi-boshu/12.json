@@ -9,28 +9,10 @@
   "genre": "prose",
   "verses": [
     {
-      "text": "五色使人目盲。"
+      "text": "五色使人目盲。馳騁田臘使人心發狂。難得之貨使人之行妨。五味使人之口爽。五音使人之耳聾。"
     },
     {
-      "text": "馳騁田臘使人心發狂。"
-    },
-    {
-      "text": "難得之貨使人之行妨。"
-    },
-    {
-      "text": "五味使人之口爽。"
-    },
-    {
-      "text": "五音使人之耳聾。"
-    },
-    {
-      "text": "是以聖人之治也，"
-    },
-    {
-      "text": "為腹不為目。"
-    },
-    {
-      "text": "故去彼取此。"
+      "text": "是以聖人之治也，為腹不為目。故去彼取此。"
     }
   ],
   "sections": {},
@@ -42,9 +24,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 4,
-          "start": 8,
-          "end": 8
+          "verseIndex": 0,
+          "start": 43,
+          "end": 43
         },
         "kind": "commentary",
         "text": "貪淫好色，則傷精失明也。",
@@ -55,9 +37,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 4,
-          "start": 8,
-          "end": 8
+          "verseIndex": 0,
+          "start": 43,
+          "end": 43
         },
         "kind": "commentary",
         "text": "好聽五音，則和氣去心，不能聽無聲之聲。",
@@ -68,9 +50,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 4,
-          "start": 8,
-          "end": 8
+          "verseIndex": 0,
+          "start": 43,
+          "end": 43
         },
         "kind": "commentary",
         "text": "爽，亡也。人嗜於五味於口，則口亡，言失於道也。",
@@ -81,9 +63,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 4,
-          "start": 8,
-          "end": 8
+          "verseIndex": 0,
+          "start": 43,
+          "end": 43
         },
         "kind": "commentary",
         "text": "人精神好安靜，馳騁呼吸，精神散亡，故發狂也。",
@@ -94,9 +76,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 4,
-          "start": 8,
-          "end": 8
+          "verseIndex": 0,
+          "start": 43,
+          "end": 43
         },
         "kind": "commentary",
         "text": "妨，傷也。難得之貨，謂金銀珠玉，心貪意欲，不知饜足，則行傷身辱也。",
@@ -107,9 +89,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 4,
-          "start": 8,
-          "end": 8
+          "verseIndex": 0,
+          "start": 43,
+          "end": 43
         },
         "kind": "commentary",
         "text": "守五性，去六情，節志氣，養神明。",
@@ -120,9 +102,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 1,
-          "start": 11,
-          "end": 12
+          "verseIndex": 0,
+          "start": 18,
+          "end": 19
         },
         "kind": "commentary",
         "text": "目不妄視，妄視洩精於外。",
@@ -133,9 +115,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 1,
-          "start": 16,
-          "end": 17
+          "verseIndex": 0,
+          "start": 23,
+          "end": 24
         },
         "kind": "commentary",
         "text": "去彼目之妄視，取此腹之養性。",
@@ -148,9 +130,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 4,
-          "start": 8,
-          "end": 8
+          "verseIndex": 0,
+          "start": 43,
+          "end": 43
         },
         "kind": "commentary",
         "text": "爽，差失也，失口之用，故謂之爽。夫耳目口心，皆順其性也，不以順性命，反以傷自然，故曰盲、聾、爽、狂也。",
@@ -161,9 +143,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 4,
-          "start": 8,
-          "end": 8
+          "verseIndex": 0,
+          "start": 43,
+          "end": 43
         },
         "kind": "commentary",
         "text": "難得之貨，塞人正路，故令人行妨也。",
@@ -174,9 +156,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 7,
-          "start": 6,
-          "end": 6
+          "verseIndex": 1,
+          "start": 20,
+          "end": 20
         },
         "kind": "commentary",
         "text": "為腹者以物養己，為目者以物役己，故聖人不為目也。",
@@ -211,9 +193,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 4,
-            "start": 8,
-            "end": 8
+            "verseIndex": 0,
+            "start": 43,
+            "end": 43
           },
           "kind": "commentary",
           "text": "貪淫好色，則傷精失明也。",
@@ -224,9 +206,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 4,
-            "start": 8,
-            "end": 8
+            "verseIndex": 0,
+            "start": 43,
+            "end": 43
           },
           "kind": "commentary",
           "text": "好聽五音，則和氣去心，不能聽無聲之聲。",
@@ -237,9 +219,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 4,
-            "start": 8,
-            "end": 8
+            "verseIndex": 0,
+            "start": 43,
+            "end": 43
           },
           "kind": "commentary",
           "text": "爽，亡也。人嗜於五味於口，則口亡，言失於道也。",
@@ -250,9 +232,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 4,
-            "start": 8,
-            "end": 8
+            "verseIndex": 0,
+            "start": 43,
+            "end": 43
           },
           "kind": "commentary",
           "text": "人精神好安靜，馳騁呼吸，精神散亡，故發狂也。",
@@ -263,9 +245,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 4,
-            "start": 8,
-            "end": 8
+            "verseIndex": 0,
+            "start": 43,
+            "end": 43
           },
           "kind": "commentary",
           "text": "妨，傷也。難得之貨，謂金銀珠玉，心貪意欲，不知饜足，則行傷身辱也。",
@@ -276,9 +258,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 4,
-            "start": 8,
-            "end": 8
+            "verseIndex": 0,
+            "start": 43,
+            "end": 43
           },
           "kind": "commentary",
           "text": "守五性，去六情，節志氣，養神明。",
@@ -289,9 +271,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 1,
-            "start": 11,
-            "end": 12
+            "verseIndex": 0,
+            "start": 18,
+            "end": 19
           },
           "kind": "commentary",
           "text": "目不妄視，妄視洩精於外。",
@@ -302,9 +284,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 1,
-            "start": 16,
-            "end": 17
+            "verseIndex": 0,
+            "start": 23,
+            "end": 24
           },
           "kind": "commentary",
           "text": "去彼目之妄視，取此腹之養性。",
@@ -327,9 +309,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 4,
-            "start": 8,
-            "end": 8
+            "verseIndex": 0,
+            "start": 43,
+            "end": 43
           },
           "kind": "commentary",
           "text": "爽，差失也，失口之用，故謂之爽。夫耳目口心，皆順其性也，不以順性命，反以傷自然，故曰盲、聾、爽、狂也。",
@@ -340,9 +322,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 4,
-            "start": 8,
-            "end": 8
+            "verseIndex": 0,
+            "start": 43,
+            "end": 43
           },
           "kind": "commentary",
           "text": "難得之貨，塞人正路，故令人行妨也。",
@@ -353,9 +335,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 7,
-            "start": 6,
-            "end": 6
+            "verseIndex": 1,
+            "start": 20,
+            "end": 20
           },
           "kind": "commentary",
           "text": "為腹者以物養己，為目者以物役己，故聖人不為目也。",

@@ -9,19 +9,10 @@
   "genre": "prose",
   "verses": [
     {
-      "text": "天下有道，卻走馬以糞。"
+      "text": "天下有道，卻走馬以糞。天下无道，戎馬生於郊。"
     },
     {
-      "text": "天下无道，戎馬生於郊。"
-    },
-    {
-      "text": "罪莫大於可欲。"
-    },
-    {
-      "text": "禍莫大於不知足。"
-    },
-    {
-      "text": "咎莫憯於欲得。"
+      "text": "罪莫大於可欲。禍莫大於不知足。咎莫憯於欲得。"
     },
     {
       "text": "故知足之足，恆足矣。"
@@ -75,9 +66,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 1,
-          "start": 0,
-          "end": 1
+          "verseIndex": 0,
+          "start": 11,
+          "end": 12
         },
         "kind": "commentary",
         "text": "好淫色也。",
@@ -88,9 +79,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 1,
-          "start": 8,
-          "end": 9
+          "verseIndex": 0,
+          "start": 19,
+          "end": 20
         },
         "kind": "commentary",
         "text": "富貴不能自禁止也。",
@@ -101,9 +92,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 4,
-          "start": 7,
-          "end": 7
+          "verseIndex": 1,
+          "start": 22,
+          "end": 22
         },
         "kind": "commentary",
         "text": "欲得人物，利且貪也。",
@@ -114,7 +105,7 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
+          "verseIndex": 1,
           "start": 0,
           "end": 1
         },
@@ -127,7 +118,7 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
+          "verseIndex": 1,
           "start": 6,
           "end": 7
         },
@@ -155,9 +146,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 1,
-          "start": 11,
-          "end": 11
+          "verseIndex": 0,
+          "start": 22,
+          "end": 22
         },
         "kind": "commentary",
         "text": "",
@@ -231,9 +222,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 1,
-            "start": 0,
-            "end": 1
+            "verseIndex": 0,
+            "start": 11,
+            "end": 12
           },
           "kind": "commentary",
           "text": "好淫色也。",
@@ -244,9 +235,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 1,
-            "start": 8,
-            "end": 9
+            "verseIndex": 0,
+            "start": 19,
+            "end": 20
           },
           "kind": "commentary",
           "text": "富貴不能自禁止也。",
@@ -257,9 +248,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 4,
-            "start": 7,
-            "end": 7
+            "verseIndex": 1,
+            "start": 22,
+            "end": 22
           },
           "kind": "commentary",
           "text": "欲得人物，利且貪也。",
@@ -270,7 +261,7 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 2,
+            "verseIndex": 1,
             "start": 0,
             "end": 1
           },
@@ -283,7 +274,7 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 2,
+            "verseIndex": 1,
             "start": 6,
             "end": 7
           },
@@ -321,9 +312,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 1,
-            "start": 11,
-            "end": 11
+            "verseIndex": 0,
+            "start": 22,
+            "end": 22
           },
           "kind": "commentary",
           "text": "",

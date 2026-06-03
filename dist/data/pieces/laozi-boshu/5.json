@@ -9,16 +9,10 @@
   "genre": "prose",
   "verses": [
     {
-      "text": "天地不仁，以萬物為芻狗。"
+      "text": "天地不仁，以萬物為芻狗。聖人不仁，以百姓為芻狗。"
     },
     {
-      "text": "聖人不仁，以百姓為芻狗。"
-    },
-    {
-      "text": "天地之間，亓猶橐籥與。"
-    },
-    {
-      "text": "虛而不淈，動而俞出。"
+      "text": "天地之間，亓猶橐籥與。虛而不淈，動而俞出。"
     },
     {
       "text": "多聞數窮，不若守於中。"
@@ -72,9 +66,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 1,
-          "start": 0,
-          "end": 1
+          "verseIndex": 0,
+          "start": 12,
+          "end": 13
         },
         "kind": "commentary",
         "text": "天地之間空虛，和氣流行，故萬物自生。人能除情慾，節滋味，清五臟，則神明居之也。",
@@ -85,9 +79,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 1,
-          "start": 5,
-          "end": 6
+          "verseIndex": 0,
+          "start": 17,
+          "end": 18
         },
         "kind": "commentary",
         "text": "橐籥中空虛，人能有聲氣。",
@@ -98,9 +92,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 3,
-          "start": 10,
-          "end": 10
+          "verseIndex": 1,
+          "start": 21,
+          "end": 21
         },
         "kind": "commentary",
         "text": "言空虛無有屈竭時，動搖之，益出聲氣也。",
@@ -111,7 +105,7 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 4,
+          "verseIndex": 2,
           "start": 0,
           "end": 11
         },
@@ -124,7 +118,7 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 4,
+          "verseIndex": 2,
           "start": 0,
           "end": 11
         },
@@ -152,9 +146,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 3,
-          "start": 10,
-          "end": 10
+          "verseIndex": 1,
+          "start": 21,
+          "end": 21
         },
         "kind": "commentary",
         "text": "橐，排橐也。籥，樂籥也。橐籥之中空洞，無情無為，故虛而不得窮屈，動而不可竭盡也。天地之中，蕩然任自然，故不可得而窮，猶若橐籥也。",
@@ -165,7 +159,7 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 4,
+          "verseIndex": 2,
           "start": 0,
           "end": 11
         },
@@ -241,9 +235,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 1,
-            "start": 0,
-            "end": 1
+            "verseIndex": 0,
+            "start": 12,
+            "end": 13
           },
           "kind": "commentary",
           "text": "天地之間空虛，和氣流行，故萬物自生。人能除情慾，節滋味，清五臟，則神明居之也。",
@@ -254,9 +248,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 1,
-            "start": 5,
-            "end": 6
+            "verseIndex": 0,
+            "start": 17,
+            "end": 18
           },
           "kind": "commentary",
           "text": "橐籥中空虛，人能有聲氣。",
@@ -267,9 +261,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 3,
-            "start": 10,
-            "end": 10
+            "verseIndex": 1,
+            "start": 21,
+            "end": 21
           },
           "kind": "commentary",
           "text": "言空虛無有屈竭時，動搖之，益出聲氣也。",
@@ -280,7 +274,7 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 4,
+            "verseIndex": 2,
             "start": 0,
             "end": 11
           },
@@ -293,7 +287,7 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 4,
+            "verseIndex": 2,
             "start": 0,
             "end": 11
           },
@@ -331,9 +325,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 3,
-            "start": 10,
-            "end": 10
+            "verseIndex": 1,
+            "start": 21,
+            "end": 21
           },
           "kind": "commentary",
           "text": "橐，排橐也。籥，樂籥也。橐籥之中空洞，無情無為，故虛而不得窮屈，動而不可竭盡也。天地之中，蕩然任自然，故不可得而窮，猶若橐籥也。",
@@ -344,7 +338,7 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 4,
+            "verseIndex": 2,
             "start": 0,
             "end": 11
           },

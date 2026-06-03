@@ -9,22 +9,10 @@
   "genre": "prose",
   "verses": [
     {
-      "text": "太上，下知有之。"
+      "text": "太上，下知有之。亓次，親譽之。亓次，畏之。亓下，侮之。"
     },
     {
-      "text": "亓次，親譽之。"
-    },
-    {
-      "text": "亓次，畏之。"
-    },
-    {
-      "text": "亓下，侮之。"
-    },
-    {
-      "text": "信不足，案有不信。"
-    },
-    {
-      "text": "猶呵，亓貴言也。"
+      "text": "信不足，案有不信。猶呵，亓貴言也。"
     },
     {
       "text": "成功遂事，而百姓謂我自然。"
@@ -39,9 +27,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 3,
-          "start": 6,
-          "end": 6
+          "verseIndex": 0,
+          "start": 27,
+          "end": 27
         },
         "kind": "commentary",
         "text": "其德可見，恩惠可稱，故親愛而譽之。",
@@ -65,9 +53,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 3,
-          "start": 6,
-          "end": 6
+          "verseIndex": 0,
+          "start": 27,
+          "end": 27
         },
         "kind": "commentary",
         "text": "禁多令煩，不可歸誠，故欺侮之。",
@@ -78,9 +66,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 5,
-          "start": 8,
-          "end": 8
+          "verseIndex": 1,
+          "start": 17,
+          "end": 17
         },
         "kind": "commentary",
         "text": "君信不足於下，下則應之以不信，而欺其君也。",
@@ -91,9 +79,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 5,
-          "start": 8,
-          "end": 8
+          "verseIndex": 1,
+          "start": 17,
+          "end": 17
         },
         "kind": "commentary",
         "text": "說太上之君，舉事猶，貴重於言，恐離道失自然也。",
@@ -104,7 +92,7 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 6,
+          "verseIndex": 2,
           "start": 0,
           "end": 13
         },
@@ -117,7 +105,7 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 6,
+          "verseIndex": 2,
           "start": 0,
           "end": 13
         },
@@ -132,9 +120,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 3,
-          "start": 6,
-          "end": 6
+          "verseIndex": 0,
+          "start": 27,
+          "end": 27
         },
         "kind": "commentary",
         "text": "不能以無為居事，不言為教，立善行施，使下得親而譽之也。",
@@ -158,9 +146,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 3,
-          "start": 6,
-          "end": 6
+          "verseIndex": 0,
+          "start": 27,
+          "end": 27
         },
         "kind": "commentary",
         "text": "不能法以正齊民，而以智治國，下知避之，其令不從，故曰，侮之也。",
@@ -171,9 +159,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 5,
-          "start": 8,
-          "end": 8
+          "verseIndex": 1,
+          "start": 17,
+          "end": 17
         },
         "kind": "commentary",
         "text": "夫御體失性，則疾病生；輔物失真，則疵釁作。信不足焉，則有不信，此自然之道也。已處不足，非智之所齊也。",
@@ -184,9 +172,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 5,
-          "start": 8,
-          "end": 8
+          "verseIndex": 1,
+          "start": 17,
+          "end": 17
         },
         "kind": "commentary",
         "text": "自然，其端兆不可得而見也，其意趣不可得而覩也，無物可以易其言，言必有應，故曰悠兮其貴言也。居無為之事，行不言之教，不以形立物，故功成事遂，而百姓不知其所以然也。",
@@ -221,9 +209,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 3,
-            "start": 6,
-            "end": 6
+            "verseIndex": 0,
+            "start": 27,
+            "end": 27
           },
           "kind": "commentary",
           "text": "其德可見，恩惠可稱，故親愛而譽之。",
@@ -247,9 +235,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 3,
-            "start": 6,
-            "end": 6
+            "verseIndex": 0,
+            "start": 27,
+            "end": 27
           },
           "kind": "commentary",
           "text": "禁多令煩，不可歸誠，故欺侮之。",
@@ -260,9 +248,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 5,
-            "start": 8,
-            "end": 8
+            "verseIndex": 1,
+            "start": 17,
+            "end": 17
           },
           "kind": "commentary",
           "text": "君信不足於下，下則應之以不信，而欺其君也。",
@@ -273,9 +261,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 5,
-            "start": 8,
-            "end": 8
+            "verseIndex": 1,
+            "start": 17,
+            "end": 17
           },
           "kind": "commentary",
           "text": "說太上之君，舉事猶，貴重於言，恐離道失自然也。",
@@ -286,7 +274,7 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 6,
+            "verseIndex": 2,
             "start": 0,
             "end": 13
           },
@@ -299,7 +287,7 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 6,
+            "verseIndex": 2,
             "start": 0,
             "end": 13
           },
@@ -324,9 +312,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 3,
-            "start": 6,
-            "end": 6
+            "verseIndex": 0,
+            "start": 27,
+            "end": 27
           },
           "kind": "commentary",
           "text": "不能以無為居事，不言為教，立善行施，使下得親而譽之也。",
@@ -350,9 +338,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 3,
-            "start": 6,
-            "end": 6
+            "verseIndex": 0,
+            "start": 27,
+            "end": 27
           },
           "kind": "commentary",
           "text": "不能法以正齊民，而以智治國，下知避之，其令不從，故曰，侮之也。",
@@ -363,9 +351,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 5,
-            "start": 8,
-            "end": 8
+            "verseIndex": 1,
+            "start": 17,
+            "end": 17
           },
           "kind": "commentary",
           "text": "夫御體失性，則疾病生；輔物失真，則疵釁作。信不足焉，則有不信，此自然之道也。已處不足，非智之所齊也。",
@@ -376,9 +364,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 5,
-            "start": 8,
-            "end": 8
+            "verseIndex": 1,
+            "start": 17,
+            "end": 17
           },
           "kind": "commentary",
           "text": "自然，其端兆不可得而見也，其意趣不可得而覩也，無物可以易其言，言必有應，故曰悠兮其貴言也。居無為之事，行不言之教，不以形立物，故功成事遂，而百姓不知其所以然也。",

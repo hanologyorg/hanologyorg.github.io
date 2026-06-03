@@ -9,31 +9,13 @@
   "genre": "prose",
   "verses": [
     {
-      "text": "民之不畏畏，"
+      "text": "民之不畏畏，則大畏將至矣。"
     },
     {
-      "text": "則大畏將至矣。"
+      "text": "毋閘亓所居。毋猒亓所生。夫唯弗猒，是以不猒。"
     },
     {
-      "text": "毋閘亓所居。"
-    },
-    {
-      "text": "毋猒亓所生。"
-    },
-    {
-      "text": "夫唯弗猒，是以不猒。"
-    },
-    {
-      "text": "是以聖人，"
-    },
-    {
-      "text": "自知而不自見也。"
-    },
-    {
-      "text": "自愛而不自貴也。"
-    },
-    {
-      "text": "故去彼取此。"
+      "text": "是以聖人，自知而不自見也。自愛而不自貴也。故去彼取此。"
     }
   ],
   "sections": {},
@@ -45,9 +27,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 1,
-          "start": 7,
-          "end": 7
+          "verseIndex": 0,
+          "start": 13,
+          "end": 13
         },
         "kind": "commentary",
         "text": "威，害也。人不畏小害則大害至。大害者，謂死亡也。畏之者當愛精神，承天順地也。",
@@ -58,9 +40,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 4,
-          "start": 10,
-          "end": 10
+          "verseIndex": 1,
+          "start": 22,
+          "end": 22
         },
         "kind": "commentary",
         "text": "謂心居神，當寬柔，不當急狹也。",
@@ -71,9 +53,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 4,
-          "start": 10,
-          "end": 10
+          "verseIndex": 1,
+          "start": 22,
+          "end": 22
         },
         "kind": "commentary",
         "text": "人所以生者，以有精神。託空虛，喜清靜，飲食不節，忽道念色，邪僻滿腹，為伐本厭神也。",
@@ -84,9 +66,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 4,
-          "start": 10,
-          "end": 10
+          "verseIndex": 1,
+          "start": 22,
+          "end": 22
         },
         "kind": "commentary",
         "text": "夫唯獨不厭精神之人，洗心濯垢，恬泊無欲，則精神居之不厭也。",
@@ -97,9 +79,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 8,
-          "start": 6,
-          "end": 6
+          "verseIndex": 2,
+          "start": 27,
+          "end": 27
         },
         "kind": "commentary",
         "text": "自知己之得失，不自顯見德美於外，藏之於內。",
@@ -110,9 +92,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 8,
-          "start": 6,
-          "end": 6
+          "verseIndex": 2,
+          "start": 27,
+          "end": 27
         },
         "kind": "commentary",
         "text": "自愛其身以保精氣，不自貴高榮名於世。",
@@ -123,7 +105,7 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
+          "verseIndex": 1,
           "start": 24,
           "end": 25
         },
@@ -138,9 +120,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 1,
-          "start": 7,
-          "end": 7
+          "verseIndex": 0,
+          "start": 13,
+          "end": 13
         },
         "kind": "commentary",
         "text": "清靜無為謂之居，謙後不盈謂之生，離其清淨，行其躁欲，棄其謙後，任其威權，則物擾而民僻，威不能復制民，民不能堪其威，則上下大潰矣，天誅將至。故曰，民不畏威，則大威至。無狎其所居，無厭其所生，言威力不可任也。",
@@ -151,9 +133,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 4,
-          "start": 10,
-          "end": 10
+          "verseIndex": 1,
+          "start": 22,
+          "end": 22
         },
         "kind": "commentary",
         "text": "不自厭也。",
@@ -164,9 +146,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 4,
-          "start": 10,
-          "end": 10
+          "verseIndex": 1,
+          "start": 22,
+          "end": 22
         },
         "kind": "commentary",
         "text": "不自厭，是以天下莫之厭。",
@@ -177,9 +159,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 8,
-          "start": 6,
-          "end": 6
+          "verseIndex": 2,
+          "start": 27,
+          "end": 27
         },
         "kind": "commentary",
         "text": "不自見其所知，以光耀行威也。",
@@ -190,9 +172,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 8,
-          "start": 6,
-          "end": 6
+          "verseIndex": 2,
+          "start": 27,
+          "end": 27
         },
         "kind": "commentary",
         "text": "自貴則物狎厭居生。",
@@ -203,7 +185,7 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
+          "verseIndex": 1,
           "start": 24,
           "end": 25
         },
@@ -240,9 +222,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 1,
-            "start": 7,
-            "end": 7
+            "verseIndex": 0,
+            "start": 13,
+            "end": 13
           },
           "kind": "commentary",
           "text": "威，害也。人不畏小害則大害至。大害者，謂死亡也。畏之者當愛精神，承天順地也。",
@@ -253,9 +235,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 4,
-            "start": 10,
-            "end": 10
+            "verseIndex": 1,
+            "start": 22,
+            "end": 22
           },
           "kind": "commentary",
           "text": "謂心居神，當寬柔，不當急狹也。",
@@ -266,9 +248,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 4,
-            "start": 10,
-            "end": 10
+            "verseIndex": 1,
+            "start": 22,
+            "end": 22
           },
           "kind": "commentary",
           "text": "人所以生者，以有精神。託空虛，喜清靜，飲食不節，忽道念色，邪僻滿腹，為伐本厭神也。",
@@ -279,9 +261,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 4,
-            "start": 10,
-            "end": 10
+            "verseIndex": 1,
+            "start": 22,
+            "end": 22
           },
           "kind": "commentary",
           "text": "夫唯獨不厭精神之人，洗心濯垢，恬泊無欲，則精神居之不厭也。",
@@ -292,9 +274,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 8,
-            "start": 6,
-            "end": 6
+            "verseIndex": 2,
+            "start": 27,
+            "end": 27
           },
           "kind": "commentary",
           "text": "自知己之得失，不自顯見德美於外，藏之於內。",
@@ -305,9 +287,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 8,
-            "start": 6,
-            "end": 6
+            "verseIndex": 2,
+            "start": 27,
+            "end": 27
           },
           "kind": "commentary",
           "text": "自愛其身以保精氣，不自貴高榮名於世。",
@@ -318,7 +300,7 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 2,
+            "verseIndex": 1,
             "start": 24,
             "end": 25
           },
@@ -343,9 +325,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 1,
-            "start": 7,
-            "end": 7
+            "verseIndex": 0,
+            "start": 13,
+            "end": 13
           },
           "kind": "commentary",
           "text": "清靜無為謂之居，謙後不盈謂之生，離其清淨，行其躁欲，棄其謙後，任其威權，則物擾而民僻，威不能復制民，民不能堪其威，則上下大潰矣，天誅將至。故曰，民不畏威，則大威至。無狎其所居，無厭其所生，言威力不可任也。",
@@ -356,9 +338,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 4,
-            "start": 10,
-            "end": 10
+            "verseIndex": 1,
+            "start": 22,
+            "end": 22
           },
           "kind": "commentary",
           "text": "不自厭也。",
@@ -369,9 +351,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 4,
-            "start": 10,
-            "end": 10
+            "verseIndex": 1,
+            "start": 22,
+            "end": 22
           },
           "kind": "commentary",
           "text": "不自厭，是以天下莫之厭。",
@@ -382,9 +364,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 8,
-            "start": 6,
-            "end": 6
+            "verseIndex": 2,
+            "start": 27,
+            "end": 27
           },
           "kind": "commentary",
           "text": "不自見其所知，以光耀行威也。",
@@ -395,9 +377,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 8,
-            "start": 6,
-            "end": 6
+            "verseIndex": 2,
+            "start": 27,
+            "end": 27
           },
           "kind": "commentary",
           "text": "自貴則物狎厭居生。",
@@ -408,7 +390,7 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 2,
+            "verseIndex": 1,
             "start": 24,
             "end": 25
           },

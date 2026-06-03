@@ -9,46 +9,16 @@
   "genre": "prose",
   "verses": [
     {
-      "text": "天下之道，猶張弓者也。"
+      "text": "天下之道，猶張弓者也。高者抑之。下者舉之。有餘者損之。不足者補之。"
     },
     {
-      "text": "高者抑之。"
+      "text": "故：天之道，損有餘而益不足。人之道，損不足而奉有餘。"
     },
     {
-      "text": "下者舉之。"
+      "text": "孰能有餘而有以取奉於天者？唯有道者乎。"
     },
     {
-      "text": "有餘者損之。"
-    },
-    {
-      "text": "不足者補之。"
-    },
-    {
-      "text": "故："
-    },
-    {
-      "text": "天之道，損有餘而益不足。"
-    },
-    {
-      "text": "人之道，損不足而奉有餘。"
-    },
-    {
-      "text": "孰能有餘而有以取奉於天者？"
-    },
-    {
-      "text": "唯有道者乎。"
-    },
-    {
-      "text": "是以："
-    },
-    {
-      "text": "聖人為而弗有，"
-    },
-    {
-      "text": "成功而弗居也。"
-    },
-    {
-      "text": "若此，亓不欲見賢也。"
+      "text": "是以：聖人為而弗有，成功而弗居也。若此，亓不欲見賢也。"
     }
   ],
   "sections": {},
@@ -60,9 +30,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 4,
-          "start": 6,
-          "end": 6
+          "verseIndex": 0,
+          "start": 33,
+          "end": 33
         },
         "kind": "commentary",
         "text": "天道暗昧，舉物類以為喻也。",
@@ -86,9 +56,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 7,
-          "start": 12,
-          "end": 12
+          "verseIndex": 1,
+          "start": 26,
+          "end": 26
         },
         "kind": "commentary",
         "text": "天道損有餘而益謙，常以中和為上。",
@@ -99,9 +69,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 7,
-          "start": 12,
-          "end": 12
+          "verseIndex": 1,
+          "start": 26,
+          "end": 26
         },
         "kind": "commentary",
         "text": "人道則與天道反，",
@@ -112,9 +82,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 7,
-          "start": 12,
-          "end": 12
+          "verseIndex": 1,
+          "start": 26,
+          "end": 26
         },
         "kind": "commentary",
         "text": "世俗之人損貧以奉富，奪弱以益強也。",
@@ -125,9 +95,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 9,
-          "start": 6,
-          "end": 6
+          "verseIndex": 2,
+          "start": 19,
+          "end": 19
         },
         "kind": "commentary",
         "text": "言誰能居有餘之位，自省爵祿以奉天下不足者乎？唯有道之君能行也。",
@@ -138,9 +108,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 13,
-          "start": 10,
-          "end": 10
+          "verseIndex": 3,
+          "start": 27,
+          "end": 27
         },
         "kind": "commentary",
         "text": "聖人為德施，不恃其報也。",
@@ -151,9 +121,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 13,
-          "start": 10,
-          "end": 10
+          "verseIndex": 3,
+          "start": 27,
+          "end": 27
         },
         "kind": "commentary",
         "text": "功成事就，不處其位。",
@@ -164,9 +134,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 3,
-          "start": 23,
-          "end": 24
+          "verseIndex": 0,
+          "start": 44,
+          "end": 45
         },
         "kind": "commentary",
         "text": "不欲使人知己之賢，匿功不居榮，畏天損有餘也。",
@@ -179,9 +149,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 4,
-          "start": 6,
-          "end": 6
+          "verseIndex": 0,
+          "start": 33,
+          "end": 33
         },
         "kind": "commentary",
         "text": "與天地合德，乃能包之，如天之道。如人之量，則各有其身，不得相均，如惟無身無私乎，自然然後乃能與天地合德。",
@@ -192,9 +162,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 4,
-          "start": 6,
-          "end": 6
+          "verseIndex": 0,
+          "start": 33,
+          "end": 33
         },
         "kind": "commentary",
         "text": "言唯能處盈而全虛，損有以補無，和光同塵，蕩而均者，唯其道也。是以聖人不欲示其賢以均天下。",
@@ -229,9 +199,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 4,
-            "start": 6,
-            "end": 6
+            "verseIndex": 0,
+            "start": 33,
+            "end": 33
           },
           "kind": "commentary",
           "text": "天道暗昧，舉物類以為喻也。",
@@ -255,9 +225,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 7,
-            "start": 12,
-            "end": 12
+            "verseIndex": 1,
+            "start": 26,
+            "end": 26
           },
           "kind": "commentary",
           "text": "天道損有餘而益謙，常以中和為上。",
@@ -268,9 +238,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 7,
-            "start": 12,
-            "end": 12
+            "verseIndex": 1,
+            "start": 26,
+            "end": 26
           },
           "kind": "commentary",
           "text": "人道則與天道反，",
@@ -281,9 +251,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 7,
-            "start": 12,
-            "end": 12
+            "verseIndex": 1,
+            "start": 26,
+            "end": 26
           },
           "kind": "commentary",
           "text": "世俗之人損貧以奉富，奪弱以益強也。",
@@ -294,9 +264,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 9,
-            "start": 6,
-            "end": 6
+            "verseIndex": 2,
+            "start": 19,
+            "end": 19
           },
           "kind": "commentary",
           "text": "言誰能居有餘之位，自省爵祿以奉天下不足者乎？唯有道之君能行也。",
@@ -307,9 +277,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 13,
-            "start": 10,
-            "end": 10
+            "verseIndex": 3,
+            "start": 27,
+            "end": 27
           },
           "kind": "commentary",
           "text": "聖人為德施，不恃其報也。",
@@ -320,9 +290,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 13,
-            "start": 10,
-            "end": 10
+            "verseIndex": 3,
+            "start": 27,
+            "end": 27
           },
           "kind": "commentary",
           "text": "功成事就，不處其位。",
@@ -333,9 +303,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 3,
-            "start": 23,
-            "end": 24
+            "verseIndex": 0,
+            "start": 44,
+            "end": 45
           },
           "kind": "commentary",
           "text": "不欲使人知己之賢，匿功不居榮，畏天損有餘也。",
@@ -358,9 +328,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 4,
-            "start": 6,
-            "end": 6
+            "verseIndex": 0,
+            "start": 33,
+            "end": 33
           },
           "kind": "commentary",
           "text": "與天地合德，乃能包之，如天之道。如人之量，則各有其身，不得相均，如惟無身無私乎，自然然後乃能與天地合德。",
@@ -371,9 +341,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 4,
-            "start": 6,
-            "end": 6
+            "verseIndex": 0,
+            "start": 33,
+            "end": 33
           },
           "kind": "commentary",
           "text": "言唯能處盈而全虛，損有以補無，和光同塵，蕩而均者，唯其道也。是以聖人不欲示其賢以均天下。",

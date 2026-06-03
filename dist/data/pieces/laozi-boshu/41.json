@@ -9,58 +9,10 @@
   "genre": "prose",
   "verses": [
     {
-      "text": "上士聞道，堇而行之。"
+      "text": "上士聞道，堇而行之。中士聞道，若存若亡。下士聞道，大笑之。弗笑，不足以為道。"
     },
     {
-      "text": "中士聞道，若存若亡。"
-    },
-    {
-      "text": "下士聞道，大笑之。"
-    },
-    {
-      "text": "弗笑，不足以為道。"
-    },
-    {
-      "text": "是以，建言有之曰："
-    },
-    {
-      "text": "明道如費。"
-    },
-    {
-      "text": "進道如退。"
-    },
-    {
-      "text": "夷道如纇。"
-    },
-    {
-      "text": "上德如浴。"
-    },
-    {
-      "text": "大白如辱。"
-    },
-    {
-      "text": "廣德如不足。"
-    },
-    {
-      "text": "建德如偷。"
-    },
-    {
-      "text": "質真如渝。"
-    },
-    {
-      "text": "大方无隅。"
-    },
-    {
-      "text": "大器免成。"
-    },
-    {
-      "text": "大音希聲。"
-    },
-    {
-      "text": "天象无形。"
-    },
-    {
-      "text": "道殷无名。"
+      "text": "是以，建言有之曰：明道如費。進道如退。夷道如纇。上德如浴。大白如辱。廣德如不足。建德如偷。質真如渝。大方无隅。大器免成。大音希聲。天象无形。道殷无名。"
     },
     {
       "text": "夫唯道，善始且善成。"
@@ -75,9 +27,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 3,
-          "start": 9,
-          "end": 9
+          "verseIndex": 0,
+          "start": 38,
+          "end": 38
         },
         "kind": "commentary",
         "text": "上士聞道，自勤苦竭力而行之。",
@@ -114,9 +66,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 3,
-          "start": 9,
-          "end": 9
+          "verseIndex": 0,
+          "start": 38,
+          "end": 38
         },
         "kind": "commentary",
         "text": "不為下士所笑，不足以名為道。",
@@ -127,9 +79,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 17,
-          "start": 5,
-          "end": 5
+          "verseIndex": 1,
+          "start": 75,
+          "end": 75
         },
         "kind": "commentary",
         "text": "建，設也。設言以有道，當如下句。",
@@ -140,9 +92,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 17,
-          "start": 5,
-          "end": 5
+          "verseIndex": 1,
+          "start": 75,
+          "end": 75
         },
         "kind": "commentary",
         "text": "明道之人，若闇昧無所見。",
@@ -153,9 +105,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 17,
-          "start": 5,
-          "end": 5
+          "verseIndex": 1,
+          "start": 75,
+          "end": 75
         },
         "kind": "commentary",
         "text": "進取道者，若退不及。",
@@ -166,9 +118,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 17,
-          "start": 5,
-          "end": 5
+          "verseIndex": 1,
+          "start": 75,
+          "end": 75
         },
         "kind": "commentary",
         "text": "夷，平也。大道之人不自別殊，若多比類也。",
@@ -179,9 +131,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 17,
-          "start": 5,
-          "end": 5
+          "verseIndex": 1,
+          "start": 75,
+          "end": 75
         },
         "kind": "commentary",
         "text": "上德之人若深谷，不恥垢濁也。",
@@ -192,9 +144,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 17,
-          "start": 5,
-          "end": 5
+          "verseIndex": 1,
+          "start": 75,
+          "end": 75
         },
         "kind": "commentary",
         "text": "大潔白之人若汙辱，不自彰顯。",
@@ -205,9 +157,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 17,
-          "start": 5,
-          "end": 5
+          "verseIndex": 1,
+          "start": 75,
+          "end": 75
         },
         "kind": "commentary",
         "text": "德行廣大之人，若愚頑不足也。",
@@ -218,9 +170,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 17,
-          "start": 5,
-          "end": 5
+          "verseIndex": 1,
+          "start": 75,
+          "end": 75
         },
         "kind": "commentary",
         "text": "建設道德之人，若可偷引使空虛也。",
@@ -231,9 +183,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 17,
-          "start": 5,
-          "end": 5
+          "verseIndex": 1,
+          "start": 75,
+          "end": 75
         },
         "kind": "commentary",
         "text": "質樸之人，若五色有渝淺不明也。",
@@ -244,9 +196,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 1,
-          "start": 59,
-          "end": 60
+          "verseIndex": 0,
+          "start": 69,
+          "end": 70
         },
         "kind": "commentary",
         "text": "大方正之人，無委屈廉隅。",
@@ -257,9 +209,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 17,
-          "start": 5,
-          "end": 5
+          "verseIndex": 1,
+          "start": 75,
+          "end": 75
         },
         "kind": "commentary",
         "text": "大器之人，若九鼎瑚璉，不可卒成也。",
@@ -270,9 +222,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 1,
-          "start": 71,
-          "end": 72
+          "verseIndex": 0,
+          "start": 81,
+          "end": 82
         },
         "kind": "commentary",
         "text": "大音猶雷霆待時而動，喻當愛氣希言也。",
@@ -283,9 +235,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 17,
-          "start": 5,
-          "end": 5
+          "verseIndex": 1,
+          "start": 75,
+          "end": 75
         },
         "kind": "commentary",
         "text": "大法象之人，質樸無形容。",
@@ -296,9 +248,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 17,
-          "start": 5,
-          "end": 5
+          "verseIndex": 1,
+          "start": 75,
+          "end": 75
         },
         "kind": "commentary",
         "text": "道潛隱，使人無能指名也。",
@@ -309,7 +261,7 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 18,
+          "verseIndex": 2,
           "start": 0,
           "end": 10
         },
@@ -324,9 +276,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 3,
-          "start": 9,
-          "end": 9
+          "verseIndex": 0,
+          "start": 38,
+          "end": 38
         },
         "kind": "commentary",
         "text": "有志也。",
@@ -337,9 +289,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 17,
-          "start": 5,
-          "end": 5
+          "verseIndex": 1,
+          "start": 75,
+          "end": 75
         },
         "kind": "commentary",
         "text": "建，猶立也。",
@@ -350,9 +302,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 17,
-          "start": 5,
-          "end": 5
+          "verseIndex": 1,
+          "start": 75,
+          "end": 75
         },
         "kind": "commentary",
         "text": "光而不耀。",
@@ -363,9 +315,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 17,
-          "start": 5,
-          "end": 5
+          "verseIndex": 1,
+          "start": 75,
+          "end": 75
         },
         "kind": "commentary",
         "text": "後其身而身先，外其身而身存。",
@@ -376,9 +328,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 17,
-          "start": 5,
-          "end": 5
+          "verseIndex": 1,
+          "start": 75,
+          "end": 75
         },
         "kind": "commentary",
         "text": "纇，㘨也。大夷之道，因物之性，不執平以割物，其平不見，乃更反若纇㘨也。",
@@ -389,9 +341,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 17,
-          "start": 5,
-          "end": 5
+          "verseIndex": 1,
+          "start": 75,
+          "end": 75
         },
         "kind": "commentary",
         "text": "不德其德，無所懷也。",
@@ -402,9 +354,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 17,
-          "start": 5,
-          "end": 5
+          "verseIndex": 1,
+          "start": 75,
+          "end": 75
         },
         "kind": "commentary",
         "text": "知其白，守其黑，大白然後乃得。",
@@ -415,9 +367,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 17,
-          "start": 5,
-          "end": 5
+          "verseIndex": 1,
+          "start": 75,
+          "end": 75
         },
         "kind": "commentary",
         "text": "廣德不盈，廓然無形，不可滿也。",
@@ -428,9 +380,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 17,
-          "start": 5,
-          "end": 5
+          "verseIndex": 1,
+          "start": 75,
+          "end": 75
         },
         "kind": "commentary",
         "text": "偷，匹也。建德者，因物自然，不立不施，故若偷匹。",
@@ -441,9 +393,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 17,
-          "start": 5,
-          "end": 5
+          "verseIndex": 1,
+          "start": 75,
+          "end": 75
         },
         "kind": "commentary",
         "text": "質真者，不矜其真，故渝。",
@@ -454,9 +406,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 1,
-          "start": 59,
-          "end": 60
+          "verseIndex": 0,
+          "start": 69,
+          "end": 70
         },
         "kind": "commentary",
         "text": "方而不割，故無隅也。",
@@ -467,9 +419,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 17,
-          "start": 5,
-          "end": 5
+          "verseIndex": 1,
+          "start": 75,
+          "end": 75
         },
         "kind": "commentary",
         "text": "大器成天下不持全別，故必晚成也。",
@@ -480,9 +432,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 1,
-          "start": 71,
-          "end": 72
+          "verseIndex": 0,
+          "start": 81,
+          "end": 82
         },
         "kind": "commentary",
         "text": "聽之不聞名曰希，不可得聞之音也。有聲則有分，有分則不宮而商矣，分則不能統眾，故有聲者非大音也。",
@@ -493,9 +445,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 17,
-          "start": 5,
-          "end": 5
+          "verseIndex": 1,
+          "start": 75,
+          "end": 75
         },
         "kind": "commentary",
         "text": "有形則有分，有分者不溫則炎，不炎則寒。故象而形者，非大象。",
@@ -506,7 +458,7 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 18,
+          "verseIndex": 2,
           "start": 0,
           "end": 10
         },
@@ -543,9 +495,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 3,
-            "start": 9,
-            "end": 9
+            "verseIndex": 0,
+            "start": 38,
+            "end": 38
           },
           "kind": "commentary",
           "text": "上士聞道，自勤苦竭力而行之。",
@@ -582,9 +534,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 3,
-            "start": 9,
-            "end": 9
+            "verseIndex": 0,
+            "start": 38,
+            "end": 38
           },
           "kind": "commentary",
           "text": "不為下士所笑，不足以名為道。",
@@ -595,9 +547,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 17,
-            "start": 5,
-            "end": 5
+            "verseIndex": 1,
+            "start": 75,
+            "end": 75
           },
           "kind": "commentary",
           "text": "建，設也。設言以有道，當如下句。",
@@ -608,9 +560,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 17,
-            "start": 5,
-            "end": 5
+            "verseIndex": 1,
+            "start": 75,
+            "end": 75
           },
           "kind": "commentary",
           "text": "明道之人，若闇昧無所見。",
@@ -621,9 +573,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 17,
-            "start": 5,
-            "end": 5
+            "verseIndex": 1,
+            "start": 75,
+            "end": 75
           },
           "kind": "commentary",
           "text": "進取道者，若退不及。",
@@ -634,9 +586,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 17,
-            "start": 5,
-            "end": 5
+            "verseIndex": 1,
+            "start": 75,
+            "end": 75
           },
           "kind": "commentary",
           "text": "夷，平也。大道之人不自別殊，若多比類也。",
@@ -647,9 +599,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 17,
-            "start": 5,
-            "end": 5
+            "verseIndex": 1,
+            "start": 75,
+            "end": 75
           },
           "kind": "commentary",
           "text": "上德之人若深谷，不恥垢濁也。",
@@ -660,9 +612,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 17,
-            "start": 5,
-            "end": 5
+            "verseIndex": 1,
+            "start": 75,
+            "end": 75
           },
           "kind": "commentary",
           "text": "大潔白之人若汙辱，不自彰顯。",
@@ -673,9 +625,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 17,
-            "start": 5,
-            "end": 5
+            "verseIndex": 1,
+            "start": 75,
+            "end": 75
           },
           "kind": "commentary",
           "text": "德行廣大之人，若愚頑不足也。",
@@ -686,9 +638,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 17,
-            "start": 5,
-            "end": 5
+            "verseIndex": 1,
+            "start": 75,
+            "end": 75
           },
           "kind": "commentary",
           "text": "建設道德之人，若可偷引使空虛也。",
@@ -699,9 +651,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 17,
-            "start": 5,
-            "end": 5
+            "verseIndex": 1,
+            "start": 75,
+            "end": 75
           },
           "kind": "commentary",
           "text": "質樸之人，若五色有渝淺不明也。",
@@ -712,9 +664,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 1,
-            "start": 59,
-            "end": 60
+            "verseIndex": 0,
+            "start": 69,
+            "end": 70
           },
           "kind": "commentary",
           "text": "大方正之人，無委屈廉隅。",
@@ -725,9 +677,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 17,
-            "start": 5,
-            "end": 5
+            "verseIndex": 1,
+            "start": 75,
+            "end": 75
           },
           "kind": "commentary",
           "text": "大器之人，若九鼎瑚璉，不可卒成也。",
@@ -738,9 +690,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 1,
-            "start": 71,
-            "end": 72
+            "verseIndex": 0,
+            "start": 81,
+            "end": 82
           },
           "kind": "commentary",
           "text": "大音猶雷霆待時而動，喻當愛氣希言也。",
@@ -751,9 +703,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 17,
-            "start": 5,
-            "end": 5
+            "verseIndex": 1,
+            "start": 75,
+            "end": 75
           },
           "kind": "commentary",
           "text": "大法象之人，質樸無形容。",
@@ -764,9 +716,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 17,
-            "start": 5,
-            "end": 5
+            "verseIndex": 1,
+            "start": 75,
+            "end": 75
           },
           "kind": "commentary",
           "text": "道潛隱，使人無能指名也。",
@@ -777,7 +729,7 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 18,
+            "verseIndex": 2,
             "start": 0,
             "end": 10
           },
@@ -802,9 +754,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 3,
-            "start": 9,
-            "end": 9
+            "verseIndex": 0,
+            "start": 38,
+            "end": 38
           },
           "kind": "commentary",
           "text": "有志也。",
@@ -815,9 +767,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 17,
-            "start": 5,
-            "end": 5
+            "verseIndex": 1,
+            "start": 75,
+            "end": 75
           },
           "kind": "commentary",
           "text": "建，猶立也。",
@@ -828,9 +780,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 17,
-            "start": 5,
-            "end": 5
+            "verseIndex": 1,
+            "start": 75,
+            "end": 75
           },
           "kind": "commentary",
           "text": "光而不耀。",
@@ -841,9 +793,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 17,
-            "start": 5,
-            "end": 5
+            "verseIndex": 1,
+            "start": 75,
+            "end": 75
           },
           "kind": "commentary",
           "text": "後其身而身先，外其身而身存。",
@@ -854,9 +806,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 17,
-            "start": 5,
-            "end": 5
+            "verseIndex": 1,
+            "start": 75,
+            "end": 75
           },
           "kind": "commentary",
           "text": "纇，㘨也。大夷之道，因物之性，不執平以割物，其平不見，乃更反若纇㘨也。",
@@ -867,9 +819,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 17,
-            "start": 5,
-            "end": 5
+            "verseIndex": 1,
+            "start": 75,
+            "end": 75
           },
           "kind": "commentary",
           "text": "不德其德，無所懷也。",
@@ -880,9 +832,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 17,
-            "start": 5,
-            "end": 5
+            "verseIndex": 1,
+            "start": 75,
+            "end": 75
           },
           "kind": "commentary",
           "text": "知其白，守其黑，大白然後乃得。",
@@ -893,9 +845,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 17,
-            "start": 5,
-            "end": 5
+            "verseIndex": 1,
+            "start": 75,
+            "end": 75
           },
           "kind": "commentary",
           "text": "廣德不盈，廓然無形，不可滿也。",
@@ -906,9 +858,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 17,
-            "start": 5,
-            "end": 5
+            "verseIndex": 1,
+            "start": 75,
+            "end": 75
           },
           "kind": "commentary",
           "text": "偷，匹也。建德者，因物自然，不立不施，故若偷匹。",
@@ -919,9 +871,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 17,
-            "start": 5,
-            "end": 5
+            "verseIndex": 1,
+            "start": 75,
+            "end": 75
           },
           "kind": "commentary",
           "text": "質真者，不矜其真，故渝。",
@@ -932,9 +884,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 1,
-            "start": 59,
-            "end": 60
+            "verseIndex": 0,
+            "start": 69,
+            "end": 70
           },
           "kind": "commentary",
           "text": "方而不割，故無隅也。",
@@ -945,9 +897,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 17,
-            "start": 5,
-            "end": 5
+            "verseIndex": 1,
+            "start": 75,
+            "end": 75
           },
           "kind": "commentary",
           "text": "大器成天下不持全別，故必晚成也。",
@@ -958,9 +910,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 1,
-            "start": 71,
-            "end": 72
+            "verseIndex": 0,
+            "start": 81,
+            "end": 82
           },
           "kind": "commentary",
           "text": "聽之不聞名曰希，不可得聞之音也。有聲則有分，有分則不宮而商矣，分則不能統眾，故有聲者非大音也。",
@@ -971,9 +923,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 17,
-            "start": 5,
-            "end": 5
+            "verseIndex": 1,
+            "start": 75,
+            "end": 75
           },
           "kind": "commentary",
           "text": "有形則有分，有分者不溫則炎，不炎則寒。故象而形者，非大象。",
@@ -984,7 +936,7 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 18,
+            "verseIndex": 2,
             "start": 0,
             "end": 10
           },

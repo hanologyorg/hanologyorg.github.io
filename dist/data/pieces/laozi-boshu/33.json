@@ -9,28 +9,16 @@
   "genre": "prose",
   "verses": [
     {
-      "text": "知人者，知也。"
+      "text": "知人者，知也。自知者，明也。"
     },
     {
-      "text": "自知者，明也。"
+      "text": "勝人者，有力也。自勝者，強也。"
     },
     {
-      "text": "勝人者，有力也。"
+      "text": "知足者，富也。強行者，有志也。"
     },
     {
-      "text": "自勝者，強也。"
-    },
-    {
-      "text": "知足者，富也。"
-    },
-    {
-      "text": "強行者，有志也。"
-    },
-    {
-      "text": "不失亓所者，久也。"
-    },
-    {
-      "text": "死不忘者，壽也。"
+      "text": "不失亓所者，久也。死不忘者，壽也。"
     }
   ],
   "sections": {},
@@ -42,9 +30,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 1,
-          "start": 7,
-          "end": 7
+          "verseIndex": 0,
+          "start": 14,
+          "end": 14
         },
         "kind": "commentary",
         "text": "能知人好惡，是為智。",
@@ -68,9 +56,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 1,
-          "start": 0,
-          "end": 1
+          "verseIndex": 0,
+          "start": 7,
+          "end": 8
         },
         "kind": "commentary",
         "text": "能勝人者，不過以威力也。",
@@ -81,9 +69,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 1,
-          "start": 9,
-          "end": 10
+          "verseIndex": 0,
+          "start": 16,
+          "end": 17
         },
         "kind": "commentary",
         "text": "人能自勝己情欲，則天下無有能與己爭者，故為強也。",
@@ -94,7 +82,7 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
+          "verseIndex": 1,
           "start": 0,
           "end": 1
         },
@@ -107,7 +95,7 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
+          "verseIndex": 1,
           "start": 8,
           "end": 9
         },
@@ -120,9 +108,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 3,
-          "start": 0,
-          "end": 1
+          "verseIndex": 1,
+          "start": 8,
+          "end": 9
         },
         "kind": "commentary",
         "text": "人能自節養，不失其所受天之精氣，則可以久。",
@@ -133,9 +121,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 7,
-          "start": 8,
-          "end": 8
+          "verseIndex": 3,
+          "start": 17,
+          "end": 17
         },
         "kind": "commentary",
         "text": "目不妄視，耳不妄聽，口不妄言，則無怨惡於天下，故長壽。",
@@ -148,9 +136,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 1,
-          "start": 7,
-          "end": 7
+          "verseIndex": 0,
+          "start": 14,
+          "end": 14
         },
         "kind": "commentary",
         "text": "知人者，智而已矣，未若自知者超智之上也。",
@@ -161,9 +149,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 3,
-          "start": 7,
-          "end": 7
+          "verseIndex": 1,
+          "start": 15,
+          "end": 15
         },
         "kind": "commentary",
         "text": "勝人者，有力而已矣，未若自勝者無物以損其力，用其智於人，未若用其智於己也。用其力於人，未若用其力於己也。明用於己，則物無避焉，力用於己，則物無改焉。",
@@ -174,7 +162,7 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
+          "verseIndex": 1,
           "start": 0,
           "end": 1
         },
@@ -187,7 +175,7 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
+          "verseIndex": 1,
           "start": 8,
           "end": 9
         },
@@ -200,9 +188,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 3,
-          "start": 0,
-          "end": 1
+          "verseIndex": 1,
+          "start": 8,
+          "end": 9
         },
         "kind": "commentary",
         "text": "以明自察，量力而行，不失其所，必獲久長矣。",
@@ -213,9 +201,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 7,
-          "start": 8,
-          "end": 8
+          "verseIndex": 3,
+          "start": 17,
+          "end": 17
         },
         "kind": "commentary",
         "text": "雖死而以為生之道不亡，乃得全其壽，身沒而道猶存，況身存而道不卒乎。",
@@ -250,9 +238,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 1,
-            "start": 7,
-            "end": 7
+            "verseIndex": 0,
+            "start": 14,
+            "end": 14
           },
           "kind": "commentary",
           "text": "能知人好惡，是為智。",
@@ -276,9 +264,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 1,
-            "start": 0,
-            "end": 1
+            "verseIndex": 0,
+            "start": 7,
+            "end": 8
           },
           "kind": "commentary",
           "text": "能勝人者，不過以威力也。",
@@ -289,9 +277,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 1,
-            "start": 9,
-            "end": 10
+            "verseIndex": 0,
+            "start": 16,
+            "end": 17
           },
           "kind": "commentary",
           "text": "人能自勝己情欲，則天下無有能與己爭者，故為強也。",
@@ -302,7 +290,7 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 2,
+            "verseIndex": 1,
             "start": 0,
             "end": 1
           },
@@ -315,7 +303,7 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 2,
+            "verseIndex": 1,
             "start": 8,
             "end": 9
           },
@@ -328,9 +316,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 3,
-            "start": 0,
-            "end": 1
+            "verseIndex": 1,
+            "start": 8,
+            "end": 9
           },
           "kind": "commentary",
           "text": "人能自節養，不失其所受天之精氣，則可以久。",
@@ -341,9 +329,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 7,
-            "start": 8,
-            "end": 8
+            "verseIndex": 3,
+            "start": 17,
+            "end": 17
           },
           "kind": "commentary",
           "text": "目不妄視，耳不妄聽，口不妄言，則無怨惡於天下，故長壽。",
@@ -366,9 +354,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 1,
-            "start": 7,
-            "end": 7
+            "verseIndex": 0,
+            "start": 14,
+            "end": 14
           },
           "kind": "commentary",
           "text": "知人者，智而已矣，未若自知者超智之上也。",
@@ -379,9 +367,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 3,
-            "start": 7,
-            "end": 7
+            "verseIndex": 1,
+            "start": 15,
+            "end": 15
           },
           "kind": "commentary",
           "text": "勝人者，有力而已矣，未若自勝者無物以損其力，用其智於人，未若用其智於己也。用其力於人，未若用其力於己也。明用於己，則物無避焉，力用於己，則物無改焉。",
@@ -392,7 +380,7 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 2,
+            "verseIndex": 1,
             "start": 0,
             "end": 1
           },
@@ -405,7 +393,7 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 2,
+            "verseIndex": 1,
             "start": 8,
             "end": 9
           },
@@ -418,9 +406,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 3,
-            "start": 0,
-            "end": 1
+            "verseIndex": 1,
+            "start": 8,
+            "end": 9
           },
           "kind": "commentary",
           "text": "以明自察，量力而行，不失其所，必獲久長矣。",
@@ -431,9 +419,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 7,
-            "start": 8,
-            "end": 8
+            "verseIndex": 3,
+            "start": 17,
+            "end": 17
           },
           "kind": "commentary",
           "text": "雖死而以為生之道不亡，乃得全其壽，身沒而道猶存，況身存而道不卒乎。",

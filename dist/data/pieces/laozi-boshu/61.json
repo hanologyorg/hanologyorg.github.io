@@ -9,40 +9,16 @@
   "genre": "prose",
   "verses": [
     {
-      "text": "大邦者，下流也。"
+      "text": "大邦者，下流也。天下之牝，天下之交也。"
     },
     {
-      "text": "天下之牝，天下之交也。"
+      "text": "牝恆以靚勝牡。為亓靚也，故宜為下。"
     },
     {
-      "text": "牝恆以靚勝牡。"
+      "text": "大邦以下小邦，則取小邦。小邦以下大邦，則取於大邦。故：或下以取。或下而取。"
     },
     {
-      "text": "為亓靚也，故宜為下。"
-    },
-    {
-      "text": "大邦以下小邦，則取小邦。"
-    },
-    {
-      "text": "小邦以下大邦，則取於大邦。"
-    },
-    {
-      "text": "故："
-    },
-    {
-      "text": "或下以取。"
-    },
-    {
-      "text": "或下而取。"
-    },
-    {
-      "text": "故："
-    },
-    {
-      "text": "大邦者，不過欲兼畜人。"
-    },
-    {
-      "text": "小邦者，不過欲入事人。"
+      "text": "故：大邦者，不過欲兼畜人。小邦者，不過欲入事人。"
     },
     {
       "text": "夫皆得亓欲，則大者宜為下。"
@@ -57,9 +33,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 1,
-          "start": 11,
-          "end": 11
+          "verseIndex": 0,
+          "start": 19,
+          "end": 19
         },
         "kind": "commentary",
         "text": "治大國，當如居下流，不逆細微。",
@@ -96,9 +72,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 3,
-          "start": 10,
-          "end": 10
+          "verseIndex": 1,
+          "start": 17,
+          "end": 17
         },
         "kind": "commentary",
         "text": "陰道以安靜為謙下。",
@@ -109,9 +85,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 8,
-          "start": 5,
-          "end": 5
+          "verseIndex": 2,
+          "start": 37,
+          "end": 37
         },
         "kind": "commentary",
         "text": "能謙下之，則常有之。",
@@ -122,9 +98,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 8,
-          "start": 5,
-          "end": 5
+          "verseIndex": 2,
+          "start": 37,
+          "end": 37
         },
         "kind": "commentary",
         "text": "此言國無大小，能持謙畜人，則無過失也。",
@@ -135,7 +111,7 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
+          "verseIndex": 1,
           "start": 27,
           "end": 28
         },
@@ -148,9 +124,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 8,
-          "start": 5,
-          "end": 5
+          "verseIndex": 2,
+          "start": 37,
+          "end": 37
         },
         "kind": "commentary",
         "text": "大國不失下，則兼併小國而牧畜之。",
@@ -161,9 +137,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 8,
-          "start": 5,
-          "end": 5
+          "verseIndex": 2,
+          "start": 37,
+          "end": 37
         },
         "kind": "commentary",
         "text": "使為臣僕。",
@@ -174,7 +150,7 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 12,
+          "verseIndex": 4,
           "start": 0,
           "end": 13
         },
@@ -189,9 +165,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 1,
-          "start": 11,
-          "end": 11
+          "verseIndex": 0,
+          "start": 19,
+          "end": 19
         },
         "kind": "commentary",
         "text": "江海居大而處下，則百川流之，大國居大而處下，則天下流之，故曰，大國下流也。",
@@ -228,9 +204,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 3,
-          "start": 10,
-          "end": 10
+          "verseIndex": 1,
+          "start": 17,
+          "end": 17
         },
         "kind": "commentary",
         "text": "以其靜故能為下也。牝，雌也。雄躁動貪欲，雌常以靜，故能勝雄也。以其靜復能為下，故物歸之也。",
@@ -241,9 +217,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 8,
-          "start": 5,
-          "end": 5
+          "verseIndex": 2,
+          "start": 37,
+          "end": 37
         },
         "kind": "commentary",
         "text": "大國以下，猶云以大國下小國。",
@@ -254,9 +230,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 8,
-          "start": 5,
-          "end": 5
+          "verseIndex": 2,
+          "start": 37,
+          "end": 37
         },
         "kind": "commentary",
         "text": "小國則附之。",
@@ -267,9 +243,9 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 8,
-          "start": 5,
-          "end": 5
+          "verseIndex": 2,
+          "start": 37,
+          "end": 37
         },
         "kind": "commentary",
         "text": "大國納之也。",
@@ -280,7 +256,7 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 2,
+          "verseIndex": 1,
           "start": 27,
           "end": 28
         },
@@ -293,7 +269,7 @@
         "range": {
           "type": "range",
           "scope": "verse",
-          "verseIndex": 12,
+          "verseIndex": 4,
           "start": 0,
           "end": 13
         },
@@ -330,9 +306,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 1,
-            "start": 11,
-            "end": 11
+            "verseIndex": 0,
+            "start": 19,
+            "end": 19
           },
           "kind": "commentary",
           "text": "治大國，當如居下流，不逆細微。",
@@ -369,9 +345,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 3,
-            "start": 10,
-            "end": 10
+            "verseIndex": 1,
+            "start": 17,
+            "end": 17
           },
           "kind": "commentary",
           "text": "陰道以安靜為謙下。",
@@ -382,9 +358,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 8,
-            "start": 5,
-            "end": 5
+            "verseIndex": 2,
+            "start": 37,
+            "end": 37
           },
           "kind": "commentary",
           "text": "能謙下之，則常有之。",
@@ -395,9 +371,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 8,
-            "start": 5,
-            "end": 5
+            "verseIndex": 2,
+            "start": 37,
+            "end": 37
           },
           "kind": "commentary",
           "text": "此言國無大小，能持謙畜人，則無過失也。",
@@ -408,7 +384,7 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 2,
+            "verseIndex": 1,
             "start": 27,
             "end": 28
           },
@@ -421,9 +397,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 8,
-            "start": 5,
-            "end": 5
+            "verseIndex": 2,
+            "start": 37,
+            "end": 37
           },
           "kind": "commentary",
           "text": "大國不失下，則兼併小國而牧畜之。",
@@ -434,9 +410,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 8,
-            "start": 5,
-            "end": 5
+            "verseIndex": 2,
+            "start": 37,
+            "end": 37
           },
           "kind": "commentary",
           "text": "使為臣僕。",
@@ -447,7 +423,7 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 12,
+            "verseIndex": 4,
             "start": 0,
             "end": 13
           },
@@ -472,9 +448,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 1,
-            "start": 11,
-            "end": 11
+            "verseIndex": 0,
+            "start": 19,
+            "end": 19
           },
           "kind": "commentary",
           "text": "江海居大而處下，則百川流之，大國居大而處下，則天下流之，故曰，大國下流也。",
@@ -511,9 +487,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 3,
-            "start": 10,
-            "end": 10
+            "verseIndex": 1,
+            "start": 17,
+            "end": 17
           },
           "kind": "commentary",
           "text": "以其靜故能為下也。牝，雌也。雄躁動貪欲，雌常以靜，故能勝雄也。以其靜復能為下，故物歸之也。",
@@ -524,9 +500,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 8,
-            "start": 5,
-            "end": 5
+            "verseIndex": 2,
+            "start": 37,
+            "end": 37
           },
           "kind": "commentary",
           "text": "大國以下，猶云以大國下小國。",
@@ -537,9 +513,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 8,
-            "start": 5,
-            "end": 5
+            "verseIndex": 2,
+            "start": 37,
+            "end": 37
           },
           "kind": "commentary",
           "text": "小國則附之。",
@@ -550,9 +526,9 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 8,
-            "start": 5,
-            "end": 5
+            "verseIndex": 2,
+            "start": 37,
+            "end": 37
           },
           "kind": "commentary",
           "text": "大國納之也。",
@@ -563,7 +539,7 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 2,
+            "verseIndex": 1,
             "start": 27,
             "end": 28
           },
@@ -576,7 +552,7 @@
           "range": {
             "type": "range",
             "scope": "verse",
-            "verseIndex": 12,
+            "verseIndex": 4,
             "start": 0,
             "end": 13
           },
