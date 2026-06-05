@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@hanology/cham": "^0.1.13",
-    "@hanology/cham-browser": "^0.4.163",
+    "@hanology/cham-browser": "^0.4.164",
     "yaml": "^2.8.4"
   },
   "devDependencies": {
