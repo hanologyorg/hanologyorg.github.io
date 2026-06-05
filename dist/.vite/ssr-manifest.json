@@ -22,286 +22,286 @@
   "src/App.vue?vue&type=script&setup=true&lang.ts": [],
   "src/App.vue?vue&type=style&index=0&lang.css": [],
   "src/components/AnnotationControlBar.vue": [
-    "/assets/PieceView-B74Igysa.js",
-    "/assets/PieceView-BcIkR9zm.css"
+    "/assets/PieceView-plu8n_xc.js",
+    "/assets/PieceView-QC5f9GaI.css"
   ],
   "src/components/AnnotationControlBar.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/PieceView-B74Igysa.js",
-    "/assets/PieceView-BcIkR9zm.css"
+    "/assets/PieceView-plu8n_xc.js",
+    "/assets/PieceView-QC5f9GaI.css"
   ],
   "src/components/AnnotationControlBar.vue?vue&type=style&index=0&scoped=1bb6fb38&lang.css": [
-    "/assets/PieceView-B74Igysa.js",
-    "/assets/PieceView-BcIkR9zm.css"
+    "/assets/PieceView-plu8n_xc.js",
+    "/assets/PieceView-QC5f9GaI.css"
   ],
   "src/components/AnnotationPane.vue": [
-    "/assets/PieceView-B74Igysa.js",
-    "/assets/PieceView-BcIkR9zm.css"
+    "/assets/PieceView-plu8n_xc.js",
+    "/assets/PieceView-QC5f9GaI.css"
   ],
   "src/components/AnnotationPane.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/PieceView-B74Igysa.js",
-    "/assets/PieceView-BcIkR9zm.css"
+    "/assets/PieceView-plu8n_xc.js",
+    "/assets/PieceView-QC5f9GaI.css"
   ],
   "src/components/AnnotationPane.vue?vue&type=style&index=0&scoped=3a5e3bd5&lang.css": [
-    "/assets/PieceView-B74Igysa.js",
-    "/assets/PieceView-BcIkR9zm.css"
+    "/assets/PieceView-plu8n_xc.js",
+    "/assets/PieceView-QC5f9GaI.css"
   ],
   "src/components/AnnotationParsedEntry.vue": [
-    "/assets/PieceView-B74Igysa.js",
-    "/assets/PieceView-BcIkR9zm.css"
+    "/assets/PieceView-plu8n_xc.js",
+    "/assets/PieceView-QC5f9GaI.css"
   ],
   "src/components/AnnotationParsedEntry.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/PieceView-B74Igysa.js",
-    "/assets/PieceView-BcIkR9zm.css"
+    "/assets/PieceView-plu8n_xc.js",
+    "/assets/PieceView-QC5f9GaI.css"
   ],
   "src/components/AnnotationParsedEntry.vue?vue&type=style&index=0&scoped=0ab03b29&lang.css": [
-    "/assets/PieceView-B74Igysa.js",
-    "/assets/PieceView-BcIkR9zm.css"
+    "/assets/PieceView-plu8n_xc.js",
+    "/assets/PieceView-QC5f9GaI.css"
   ],
   "src/components/AnnotationTooltip.vue": [
-    "/assets/PieceView-B74Igysa.js",
-    "/assets/PieceView-BcIkR9zm.css"
+    "/assets/PieceView-plu8n_xc.js",
+    "/assets/PieceView-QC5f9GaI.css"
   ],
   "src/components/AnnotationTooltip.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/PieceView-B74Igysa.js",
-    "/assets/PieceView-BcIkR9zm.css"
+    "/assets/PieceView-plu8n_xc.js",
+    "/assets/PieceView-QC5f9GaI.css"
   ],
   "src/components/AnnotationTooltip.vue?vue&type=style&index=0&scoped=0f49f028&lang.css": [
-    "/assets/PieceView-B74Igysa.js",
-    "/assets/PieceView-BcIkR9zm.css"
+    "/assets/PieceView-plu8n_xc.js",
+    "/assets/PieceView-QC5f9GaI.css"
   ],
   "src/components/AuthorPane.vue": [
-    "/assets/PieceView-B74Igysa.js",
-    "/assets/PieceView-BcIkR9zm.css"
+    "/assets/PieceView-plu8n_xc.js",
+    "/assets/PieceView-QC5f9GaI.css"
   ],
   "src/components/AuthorPane.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/PieceView-B74Igysa.js",
-    "/assets/PieceView-BcIkR9zm.css"
+    "/assets/PieceView-plu8n_xc.js",
+    "/assets/PieceView-QC5f9GaI.css"
   ],
   "src/components/AuthorPane.vue?vue&type=style&index=0&scoped=4f5112b4&lang.css": [
-    "/assets/PieceView-B74Igysa.js",
-    "/assets/PieceView-BcIkR9zm.css"
+    "/assets/PieceView-plu8n_xc.js",
+    "/assets/PieceView-QC5f9GaI.css"
   ],
   "src/components/BackToTop.vue": [
-    "/assets/BackToTop-HdYFRoH0.js",
+    "/assets/BackToTop-Bz7Cp-n7.js",
     "/assets/BackToTop-CS0vGB2k.css"
   ],
   "src/components/BackToTop.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/BackToTop-HdYFRoH0.js",
+    "/assets/BackToTop-Bz7Cp-n7.js",
     "/assets/BackToTop-CS0vGB2k.css"
   ],
   "src/components/BackToTop.vue?vue&type=style&index=0&scoped=1054693c&lang.css": [
-    "/assets/BackToTop-HdYFRoH0.js",
+    "/assets/BackToTop-Bz7Cp-n7.js",
     "/assets/BackToTop-CS0vGB2k.css"
   ],
   "src/components/HorizontalDisplay.vue": [
-    "/assets/PieceView-B74Igysa.js",
-    "/assets/PieceView-BcIkR9zm.css"
+    "/assets/PieceView-plu8n_xc.js",
+    "/assets/PieceView-QC5f9GaI.css"
   ],
   "src/components/HorizontalDisplay.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/PieceView-B74Igysa.js",
-    "/assets/PieceView-BcIkR9zm.css"
+    "/assets/PieceView-plu8n_xc.js",
+    "/assets/PieceView-QC5f9GaI.css"
   ],
   "src/components/HorizontalDisplay.vue?vue&type=style&index=0&scoped=3dbd2aea&lang.css": [
-    "/assets/PieceView-B74Igysa.js",
-    "/assets/PieceView-BcIkR9zm.css"
+    "/assets/PieceView-plu8n_xc.js",
+    "/assets/PieceView-QC5f9GaI.css"
   ],
   "src/components/PartBlock.vue": [
-    "/assets/PieceView-B74Igysa.js",
-    "/assets/PieceView-BcIkR9zm.css"
+    "/assets/PieceView-plu8n_xc.js",
+    "/assets/PieceView-QC5f9GaI.css"
   ],
   "src/components/PartBlock.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/PieceView-B74Igysa.js",
-    "/assets/PieceView-BcIkR9zm.css"
+    "/assets/PieceView-plu8n_xc.js",
+    "/assets/PieceView-QC5f9GaI.css"
   ],
   "src/components/PartBlock.vue?vue&type=style&index=0&scoped=b14ef015&lang.css": [
-    "/assets/PieceView-B74Igysa.js",
-    "/assets/PieceView-BcIkR9zm.css"
+    "/assets/PieceView-plu8n_xc.js",
+    "/assets/PieceView-QC5f9GaI.css"
   ],
   "src/components/PartGroup.vue": [
-    "/assets/PieceView-B74Igysa.js",
-    "/assets/PieceView-BcIkR9zm.css"
+    "/assets/PieceView-plu8n_xc.js",
+    "/assets/PieceView-QC5f9GaI.css"
   ],
   "src/components/PartGroup.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/PieceView-B74Igysa.js",
-    "/assets/PieceView-BcIkR9zm.css"
+    "/assets/PieceView-plu8n_xc.js",
+    "/assets/PieceView-QC5f9GaI.css"
   ],
   "src/components/PartGroup.vue?vue&type=style&index=0&scoped=3ddc536b&lang.css": [
-    "/assets/PieceView-B74Igysa.js",
-    "/assets/PieceView-BcIkR9zm.css"
+    "/assets/PieceView-plu8n_xc.js",
+    "/assets/PieceView-QC5f9GaI.css"
   ],
   "src/components/PronunciationGroup.vue": [
-    "/assets/PieceView-B74Igysa.js",
-    "/assets/PieceView-BcIkR9zm.css"
+    "/assets/PieceView-plu8n_xc.js",
+    "/assets/PieceView-QC5f9GaI.css"
   ],
   "src/components/PronunciationGroup.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/PieceView-B74Igysa.js",
-    "/assets/PieceView-BcIkR9zm.css"
+    "/assets/PieceView-plu8n_xc.js",
+    "/assets/PieceView-QC5f9GaI.css"
   ],
   "src/components/PronunciationGroup.vue?vue&type=style&index=0&scoped=5ecd2737&lang.css": [
-    "/assets/PieceView-B74Igysa.js",
-    "/assets/PieceView-BcIkR9zm.css"
+    "/assets/PieceView-plu8n_xc.js",
+    "/assets/PieceView-QC5f9GaI.css"
   ],
   "src/components/ReadingProgress.vue": [
-    "/assets/PieceView-B74Igysa.js",
-    "/assets/PieceView-BcIkR9zm.css"
+    "/assets/PieceView-plu8n_xc.js",
+    "/assets/PieceView-QC5f9GaI.css"
   ],
   "src/components/ReadingProgress.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/PieceView-B74Igysa.js",
-    "/assets/PieceView-BcIkR9zm.css"
+    "/assets/PieceView-plu8n_xc.js",
+    "/assets/PieceView-QC5f9GaI.css"
   ],
   "src/components/ReadingProgress.vue?vue&type=style&index=0&scoped=6cf0815f&lang.css": [
-    "/assets/PieceView-B74Igysa.js",
-    "/assets/PieceView-BcIkR9zm.css"
+    "/assets/PieceView-plu8n_xc.js",
+    "/assets/PieceView-QC5f9GaI.css"
   ],
   "src/components/ReadingToolbar.vue": [],
   "src/components/ReadingToolbar.vue?vue&type=script&setup=true&lang.ts": [],
   "src/components/ReadingToolbar.vue?vue&type=style&index=0&scoped=3ad2c664&lang.css": [],
   "src/components/SectionBlock.vue": [
-    "/assets/PieceView-B74Igysa.js",
-    "/assets/PieceView-BcIkR9zm.css"
+    "/assets/PieceView-plu8n_xc.js",
+    "/assets/PieceView-QC5f9GaI.css"
   ],
   "src/components/SectionBlock.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/PieceView-B74Igysa.js",
-    "/assets/PieceView-BcIkR9zm.css"
+    "/assets/PieceView-plu8n_xc.js",
+    "/assets/PieceView-QC5f9GaI.css"
   ],
   "src/components/SectionBlock.vue?vue&type=style&index=0&scoped=e3ce7dff&lang.css": [
-    "/assets/PieceView-B74Igysa.js",
-    "/assets/PieceView-BcIkR9zm.css"
+    "/assets/PieceView-plu8n_xc.js",
+    "/assets/PieceView-QC5f9GaI.css"
   ],
   "src/components/SettingsPanel.vue": [],
   "src/components/SettingsPanel.vue?vue&type=script&setup=true&lang.ts": [],
   "src/components/SettingsPanel.vue?vue&type=style&index=0&scoped=1791cc75&lang.css": [],
   "src/components/SideNav.vue": [
-    "/assets/BackToTop-HdYFRoH0.js",
+    "/assets/BackToTop-Bz7Cp-n7.js",
     "/assets/BackToTop-CS0vGB2k.css"
   ],
   "src/components/SideNav.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/BackToTop-HdYFRoH0.js",
+    "/assets/BackToTop-Bz7Cp-n7.js",
     "/assets/BackToTop-CS0vGB2k.css"
   ],
   "src/components/SideNav.vue?vue&type=style&index=0&scoped=bbeaa678&lang.css": [
-    "/assets/BackToTop-HdYFRoH0.js",
+    "/assets/BackToTop-Bz7Cp-n7.js",
     "/assets/BackToTop-CS0vGB2k.css"
   ],
   "src/components/VerticalScroll.vue": [
-    "/assets/PieceView-B74Igysa.js",
-    "/assets/PieceView-BcIkR9zm.css"
+    "/assets/PieceView-plu8n_xc.js",
+    "/assets/PieceView-QC5f9GaI.css"
   ],
   "src/components/VerticalScroll.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/PieceView-B74Igysa.js",
-    "/assets/PieceView-BcIkR9zm.css"
+    "/assets/PieceView-plu8n_xc.js",
+    "/assets/PieceView-QC5f9GaI.css"
   ],
   "src/components/VerticalScroll.vue?vue&type=style&index=0&scoped=6b77dd0d&lang.css": [
-    "/assets/PieceView-B74Igysa.js",
-    "/assets/PieceView-BcIkR9zm.css"
+    "/assets/PieceView-plu8n_xc.js",
+    "/assets/PieceView-QC5f9GaI.css"
   ],
   "src/composables/useAnnotatedVerses.ts": [
-    "/assets/PieceView-B74Igysa.js",
-    "/assets/PieceView-BcIkR9zm.css"
+    "/assets/PieceView-plu8n_xc.js",
+    "/assets/PieceView-QC5f9GaI.css"
   ],
   "src/composables/useAnnotationInteraction.ts": [
-    "/assets/PieceView-B74Igysa.js",
-    "/assets/PieceView-BcIkR9zm.css"
+    "/assets/PieceView-plu8n_xc.js",
+    "/assets/PieceView-QC5f9GaI.css"
   ],
   "src/composables/useAnnotationRenderer.ts": [
-    "/assets/PieceView-B74Igysa.js",
-    "/assets/PieceView-BcIkR9zm.css"
+    "/assets/PieceView-plu8n_xc.js",
+    "/assets/PieceView-QC5f9GaI.css"
   ],
   "src/composables/useAnnounce.ts": [],
   "src/composables/useAuthorPane.ts": [
-    "/assets/PieceView-B74Igysa.js",
-    "/assets/PieceView-BcIkR9zm.css"
+    "/assets/PieceView-plu8n_xc.js",
+    "/assets/PieceView-QC5f9GaI.css"
   ],
   "src/composables/useBook.ts": [
-    "/assets/BackToTop-HdYFRoH0.js",
+    "/assets/BackToTop-Bz7Cp-n7.js",
     "/assets/BackToTop-CS0vGB2k.css"
   ],
   "src/composables/useData.ts": [
-    "/assets/useData-D2P738rg.js"
+    "/assets/useData-BLxJxbqb.js"
   ],
   "src/composables/useFocusTrap.ts": [],
   "src/composables/useHorizontalScroll.ts": [
-    "/assets/BackToTop-HdYFRoH0.js",
+    "/assets/BackToTop-Bz7Cp-n7.js",
     "/assets/BackToTop-CS0vGB2k.css"
   ],
   "src/composables/useI18n.ts": [],
   "src/composables/useLibrary.ts": [
-    "/assets/useLibrary-Otz69YDM.js"
+    "/assets/useLibrary-rK2f0Zpz.js"
   ],
   "src/composables/useReadingMode.ts": [],
   "src/composables/useSiteConfig.ts": [],
   "src/composables/useTitle.ts": [
-    "/assets/BackToTop-HdYFRoH0.js",
+    "/assets/BackToTop-Bz7Cp-n7.js",
     "/assets/BackToTop-CS0vGB2k.css"
   ],
   "src/composables/useWindowSize.ts": [
-    "/assets/PieceView-B74Igysa.js",
-    "/assets/PieceView-BcIkR9zm.css"
+    "/assets/PieceView-plu8n_xc.js",
+    "/assets/PieceView-QC5f9GaI.css"
   ],
   "src/main.ts": [],
   "src/router.ts": [],
   "src/styles/main.css": [],
   "src/utils/annotationLabels.ts": [
-    "/assets/PieceView-B74Igysa.js",
-    "/assets/PieceView-BcIkR9zm.css"
+    "/assets/PieceView-plu8n_xc.js",
+    "/assets/PieceView-QC5f9GaI.css"
   ],
   "src/utils/annotationParser.ts": [
-    "/assets/PieceView-B74Igysa.js",
-    "/assets/PieceView-BcIkR9zm.css"
+    "/assets/PieceView-plu8n_xc.js",
+    "/assets/PieceView-QC5f9GaI.css"
   ],
   "src/utils/chineseNumber.ts": [
-    "/assets/PieceView-B74Igysa.js",
-    "/assets/PieceView-BcIkR9zm.css"
+    "/assets/PieceView-plu8n_xc.js",
+    "/assets/PieceView-QC5f9GaI.css"
   ],
   "src/utils/tcy.ts": [
     "/assets/tcy-_w4b84qr.js"
   ],
   "src/views/AuthorView.vue": [
-    "/assets/AuthorView-wxBV4viF.js",
+    "/assets/AuthorView-BKW4FPQQ.js",
     "/assets/AuthorView-CWr68Yzb.css"
   ],
   "src/views/AuthorView.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/AuthorView-wxBV4viF.js",
+    "/assets/AuthorView-BKW4FPQQ.js",
     "/assets/AuthorView-CWr68Yzb.css"
   ],
   "src/views/AuthorView.vue?vue&type=style&index=0&scoped=6dc8eab1&lang.css": [
-    "/assets/AuthorView-wxBV4viF.js",
+    "/assets/AuthorView-BKW4FPQQ.js",
     "/assets/AuthorView-CWr68Yzb.css"
   ],
   "src/views/BookHome.vue": [
-    "/assets/BookHome-C3IKdK5j.js",
+    "/assets/BookHome-CvrAVGfy.js",
     "/assets/BookHome-BsXmp0Se.css"
   ],
   "src/views/BookHome.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/BookHome-C3IKdK5j.js",
+    "/assets/BookHome-CvrAVGfy.js",
     "/assets/BookHome-BsXmp0Se.css"
   ],
   "src/views/BookHome.vue?vue&type=style&index=0&scoped=dad2672a&lang.css": [
-    "/assets/BookHome-C3IKdK5j.js",
+    "/assets/BookHome-CvrAVGfy.js",
     "/assets/BookHome-BsXmp0Se.css"
   ],
   "src/views/LibraryHome.vue": [
-    "/assets/LibraryHome-Dpq5slEB.js",
+    "/assets/LibraryHome-h5_xZVCS.js",
     "/assets/LibraryHome-D9Mo8NpK.css"
   ],
   "src/views/LibraryHome.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/LibraryHome-Dpq5slEB.js",
+    "/assets/LibraryHome-h5_xZVCS.js",
     "/assets/LibraryHome-D9Mo8NpK.css"
   ],
   "src/views/LibraryHome.vue?vue&type=style&index=0&scoped=0216b5a1&lang.css": [
-    "/assets/LibraryHome-Dpq5slEB.js",
+    "/assets/LibraryHome-h5_xZVCS.js",
     "/assets/LibraryHome-D9Mo8NpK.css"
   ],
   "src/views/PieceView.vue": [
-    "/assets/PieceView-B74Igysa.js",
-    "/assets/PieceView-BcIkR9zm.css"
+    "/assets/PieceView-plu8n_xc.js",
+    "/assets/PieceView-QC5f9GaI.css"
   ],
   "src/views/PieceView.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/PieceView-B74Igysa.js",
-    "/assets/PieceView-BcIkR9zm.css"
+    "/assets/PieceView-plu8n_xc.js",
+    "/assets/PieceView-QC5f9GaI.css"
   ],
-  "src/views/PieceView.vue?vue&type=style&index=0&scoped=88395e9b&lang.css": [
-    "/assets/PieceView-B74Igysa.js",
-    "/assets/PieceView-BcIkR9zm.css"
+  "src/views/PieceView.vue?vue&type=style&index=0&scoped=e85b722d&lang.css": [
+    "/assets/PieceView-plu8n_xc.js",
+    "/assets/PieceView-QC5f9GaI.css"
   ]
 }
